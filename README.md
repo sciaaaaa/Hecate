@@ -1,7 +1,5 @@
 # 🔐 Hecate — Experiments & Reproduction
 
-**Anamorphic Encryption with Deferred Batch Authorization for Retrospective Covert Recovery**
-
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Ubuntu%20%7C%20AWS%20EC2-E95420?logo=ubuntu&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Pairing-BLS12--381-6750A4)
@@ -34,7 +32,7 @@ This repository documents the Hecate experiments associated with the manuscript 
 | Application interfaces | HTTP JSON-RPC for blockchain access; SSH for capability delivery and record queries |
 | Private repository | SQLite, maintained off-chain by the alliance |
 
-**Cryptographic components.** The implementation uses `py-ecc` for BLS12-381 group operations and pairings, `cryptography` for symmetric cryptography, `coincurve` for secp256k1 operations, and `Web3.py` for contract interaction. Compressed G1 and G2 elements occupy 48 and 96 bytes, respectively; GT encodings occupy 576 bytes and scalars occupy 32 bytes.
+**Cryptographic components.** The implementation uses `py-ecc` for BLS12-381 group operations and pairings, `cryptography` for symmetric cryptography, `coincurve` for secp256k1 operations, and `Web3.py` for contract interaction. Compressed G1 and G2 elements occupy 48 and 96 bytes, respectively; GT encodings occupy 576 bytes, and scalars occupy 32 bytes.
 
 ### 1.1 Prepare the Python environment
 
