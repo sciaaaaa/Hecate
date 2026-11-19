@@ -1,0 +1,83 @@
+# Hecate: keep source, reviewed results, manifests and public datasets tracked.
+# This file does not remove tracked files or protect manual web uploads.
+
+# Python environments and generated caches
+.venv/
+.venv-*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+_testdeps/
+_deps/
+
+# Editors and OS metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Machine-local configuration and credentials
+.env
+.env.*
+!.env.example
+*.local.json
+*.local.toml
+.aws/
+.ssh/
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+password.txt
+passwords.txt
+secret.json
+secrets.json
+credentials.json
+keystore/
+UTC--*
+
+# Protocol private state and blockchain runtime databases (at any depth)
+private/
+chaindata/
+lightchaindata/
+ancient/
+nodes/
+*.ipc
+LOCK
+
+# Temporary files and live logs; reviewed reference data belong in results/
+tmp/
+temp/
+*.tmp
+*.part
+*.log
+*.sqlite-wal
+*.sqlite-shm
+*.db-wal
+*.db-shm
+
+# Whole-machine backup archives must not be published
+Hecate*-backup-*.tar.gz
+Hecate*-backup-*.zip
+
+# Intentionally NOT ignored: *.csv, *.json, *.sqlite, dataset/, data/, results/.
+# Review their contents before publishing; file extensions cannot identify secrets.

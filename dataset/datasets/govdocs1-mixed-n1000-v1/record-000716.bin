@@ -1,0 +1,211 @@
+<HTML>
+<HEAD>
+<TITLE>Paloscia.Edited.html</TITLE>
+</HEAD>
+<body bgcolor="#ffffff" text="#000000"
+ link="#ff0000" vlink="#888800" alink="#00ff00">
+<table border=0 width=100%>
+   <tr>
+   <td align=left valign=top>
+<table border=0>
+   <tr>
+   <td align=left valign=top>
+<strong>Dr. S. Paloscia</strong><br>
+CNR/IROE<br>
+Firenze<br>
+<br>
+   </td>
+   </tr>
+</table>
+   </td>
+   <td align=right valign=top>
+<table border=0>
+   <tr>
+   <td align=left valign=top>
+<strong></strong><br>
+<br>
+<br>
+<br>
+   </td>
+   </tr>
+</table>
+   </td>
+   </tr>
+</table>
+<P>SIR-C/X-SAR Experiment on Montespertoli test site <P>
+<BR>
+<P>1.  Data Acquisition<P>
+<BR>
+<P>1.1 Data takes<P>
+a) April:   7 data takes  at incidence angles between 24  and 55 - weather conditions: scattered  rains.<BR>
+b) October:  5 data takes   at incidence angles between 24  and 55  (35  was missing)
+- weather conditions: clouds and showers.<BR>
+<BR>
+
+   <a href="Acronyms.html#SIR-C">SIR-C</a> 
+data at incidence angles lower than 45 degrees were full polarimetric.<BR>
+<BR>
+<P>1.2 Delivering/Processing<P>
+All
+   <a href="Acronyms.html#SIR-C">SIR-C</a> 
+data collected in April and October have been delivered and processed. Only
+X-SAR data collected in April have been delivered and processed.<BR>
+<BR>
+<P>1.3 Calibration<P>
+A check, carried out with external Calibrators (Corner reflectors), has shown a good
+calibration of
+   <a href="Acronyms.html#SIR-C">SIR-C</a> 
+data, whereas X-SAR data had to be calibrated.<BR>
+<BR>
+<P>2. Results<P>
+
+- A comparison with
+   <a href="Acronyms.html#ERS-1">ERS-1</a>, 
+
+   <a href="Acronyms.html#JERS-1">JERS-1</a> 
+and
+   <a href="Acronyms.html#AIRSAR">AIRSAR</a> 
+data has shown a very good consistency of L- and  C-band data.<BR>
+<BR>
+- The sensitivity of L-band
+   <a href="Acronyms.html#HV">HV</a> 
+pol to both arboreous and herbaceous vegetation biomass has been confirmed.<BR>
+<BR>
+- A good separation between bare and vegetated fields has been obtained  from the ratio
+RL/RR at C band.<BR>
+<BR>
+<P><CITE>3. Publications:<P>
+</CITE>
+
+Journals:<BR>
+[1] Baronti, S., F. Del Frate, S. Paloscia, P. Pampaloni and D. Solimini, 1995 &quot;SAR polarimetric
+features of agricultural areas,"  <CITE>Int. J. Remote Sensing</CITE>
+, vol. 16, no. 14, pp. 2639-2656.<BR>
+[2] Ferrazzoli, P., S. Paloscia, P. Pampaloni, G. Schiavon,  S. Sigismondi and D. Solimini,
+1996, &quot;The potential of multifrequency polarimetric
+   <a href="Acronyms.html#SAR">SAR</a> 
+in assessing agricultural
+and arboreous biomass,&quot; submitted to <CITE>IEEE Trans. Geosci.Remote Sensing Special Issue</CITE>
+, &quot;Symposium on Retrieval of Geo-and Bio-Physical Parameters from
+   <a href="Acronyms.html#SAR">SAR</a> 
+data for Land Application.&quot;<BR>
+<BR>
+Conference Digests:<BR>
+[1] Pampaloni,  P. , S. Paloscia and S. Sigismondi, 1995, &quot;The Microwave Backscattering
+of Vineyards,&quot; <CITE>Proc.International Geoscience and Remote Sensing Symposium,</CITE>
+<CITE>IGARSS '95</CITE>
+, Firenze (Italy), T. Stein Editor,  pp. 222-223,
+   <a href="Acronyms.html#IEEE">IEEE</a> 
+N 95CH 35770, ISBN 0-7803-2567-2. <BR>
+[2] Baronti, S., G. Macelloni, S. Paloscia, P. Pampaloni and S. Sigismondi, 1995, &quot;An
+Automatic Method for Land Surface Classification using  Multi-frequency Polarimetric
+   <a href="Acronyms.html#SAR">SAR</a> 
+Data&quot;, <CITE>Proc. International Geoscience and Remote Sensing Symposium, IGARSS'95,</CITE>
+Firenze (Italy), T. Stein Editor, pp.  973-975,
+   <a href="Acronyms.html#IEEE">IEEE</a> 
+N 95CH 35770, ISBN 0-7803-2567-2.<BR>
+[3] Ballerini, P., F. Catani, S. Moretti,  S. Paloscia, P. Pampaloni and S. Sigismondi,
+1995,&quot;Hydrological modeling integrated with multifrequency
+   <a href="Acronyms.html#SAR">SAR</a> 
+data on the Pesa and
+Virginio basins of Montespertoli site<CITE>,&quot; Proc. International Geoscience and Remote Sensing Symposium,
+   <a href="Acronyms.html#IGARSS">IGARSS</a> 
+'95</CITE>
+,  Firenze (Italy), T. Stein Editor, pp.  1055-1057,
+   <a href="Acronyms.html#IEEE">IEEE</a> 
+N 95CH 35770, ISBN 7803-2567-2.<BR>
+[4] Amodeo, G., P. de Matthaeis , P. Ferrazzoli, S. Paloscia, P. Pampaloni, G. Schiavon,
+S. Sigismondi and D. Solimini, 1995, &quot;The potential of multifrequency polarimetric
+
+   <a href="Acronyms.html#SAR">SAR</a> 
+in assessing agricultural and arboreous biomass,&quot; <CITE>Proc. Int. Symp. Retrieval of Geophysical Parameters from
+   <a href="Acronyms.html#SAR">SAR</a> 
+Data for Land Application</CITE>
+, Toulouse (France) 10-13 October 1995.<BR>
+[5] Ferrazzoli, P., S. Luciani, G.Schiavon, D. Solimini, P. Pampaloni, S. Paloscia and
+S. Sigismondi 1995,  &quot;Correlating Polarimetric
+   <a href="Acronyms.html#SAR">SAR</a> 
+data with vegetation biomass&quot;,
+Progress in Electromagnetic Research Symposium (<CITE>PIERS '95</CITE>
+), 24-28 July 1995, Seattle, Washington,  USA.<BR>
+[6] Coppo, P., G. Macelloni, P. Pampaloni, S. Paloscia and S. Sigismondi, 1996, &quot;The
+   <a href="Acronyms.html#SIR-C">SIR-C</a> 
+/X-SAR experiment: the sensitivity of microwave  backscattering to surface roughness
+of bare soils,&quot; <CITE>Proc. Int. Geosci.  Remote Sensing Symp. (IGARSS '96</CITE>
+), Lincoln, Nebraska.<BR>
+[7] Amodeo, G., P. de Matthaeis, P.Ferrazzoli, S. Paloscia, P. Pampaloni, G.Schiavon,
+S. Sigismondi and D. Solimini, 1996, &quot;Monitoring vegetation features with multi-temporal
+   <a href="Acronyms.html#SAR">SAR</a> 
+data,&quot;  <CITE>Proc.  Int. Geosci.  Remote Sensing Symp. (IGARSS '96),</CITE>
+Lincoln, Nebraska.<BR>
+<BR>
+<P>4. Future plans<P>
+<P>4.1 Planned  investigations<P>
+
+a) Sensitivity to soil moisture and surface roughness parameters<BR>
+b) Comparison of experimental data with theoretical models of surface roughness 
+   (<a href="Acronyms.html#IEM">IEM</a>, 
+
+<strong>GO,
+   <a href="Acronyms.html#SPM">SPM</a>) 
+<BR></strong>
+c) Assimilation of
+   <a href="Acronyms.html#SAR">SAR</a> 
+data in Hydrological models<BR>
+d) Interferometry of hilly areas <BR>
+<br>
+4.2 Publications:<BR>
+<BR>
+Accepted conference communications and Invited Papers:<BR>
+[1] Coppo, P., S. Lolli, G. Nesti, P.Pampaloni and D. Tarchi, 1996, &quot;Microwave surface
+scattering models validation on artificial dielectric surfaces at the EMSL,&quot; Invited
+paper  Progress in Electromagnetic Research Symposium (PIERS '96), Innsbruck 8-12/7/96,  session: &quot;Experimental studies on microwave emission and scattering from
+rough surfaces,&quot;  organized by P. Pampaloni.<BR>
+[2] Coppo, P., G. Macelloni , P. Pampaloni, S. Paloscia and S. Sigismondi, 1996, &quot;The
+sensitivity of microwave  backscattering to surface roughness of bare soils,&quot;  Invited
+paper  Progress in Electromagnetic Research Symposium (PIERS '96), Innsbruck 8-12/7/96,  session: &quot;Experimental studies on microwave emission and scattering from
+rough surfaces&quot;,  organized by P. Pampaloni.<BR>
+[3] Pampalon,  P., G. Macelloni, S. Paloscia and S. Sigismondi , 1996, &quot;Multifrequency
+
+   <a href="Acronyms.html#SAR">SAR</a> 
+sensitivity to hydrological parameters: the
+   <a href="Acronyms.html#SIR-C/X-SAR">SIR-C/X-SAR</a> 
+experiment on Montespertoli supersite&quot;, Invited Paper at  URSI General Assembly,
+Lille 28.8-5.9 1996, session :
+   <a href="Acronyms.html#SIR-C/X-SAR">SIR-C/X-SAR</a> 
+results.<BR>
+[4] Pampaloni,  P., G. Macelloni, S. Paloscia, R. Ruisi and C. Susini, 1996, &quot;Estimating
+Crop Biomass with Microwave Sensors&quot;, Invited Paper at  URSI General Assembly,  Lille
+28.8-5.9 1996, session : Remote Sensing for ecology.<BR>
+[5] Pampaloni,  P., 1996,  &quot;Microwave remote sensing of soil and vegetation parameters,
+Invited Paper at the International Congress on Environment Climate, ICEC-96. Roma (Italy),  March 4-8, 1996.<BR>
+<BR>
+Research Papers on subjects a, b, c will be submitted to International Journals.<BR>
+<BR>
+
+<p>
+<table border=7>
+<tr>
+<td>
+<a href="TableofContents.html">Table of Contents</a>
+</td>
+</tr>
+</table>
+<p><hr><p>
+<font size=-1>
+<b><i>
+Converted to HTML by Alvin Wong, 
+<a href="mailto:al.wong@jpl.nasa.gov">
+al.wong@jpl.nasa.gov</a>
+<br><br>
+The Jet Propulsion Laboratory
+<br>
+4800 Oak Grove Drive
+<br>
+Pasadena, Cailfornia 91109
+<br><br>
+</i></b>
+</font>
+</BODY>
+</HTML>
+

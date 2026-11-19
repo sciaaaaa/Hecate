@@ -1,0 +1,936 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<HTML>
+<HEAD>
+
+<TITLE>FDA > CDRH > CFR Title 21 Database Search</TITLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.fda.gov/fsrscripts/triggerParams.js"></script> 
+<script type="text/javascript" src="http://www.fda.gov/fsrscripts/stdLauncher.js"></script>
+<script type="text/javascript">Poll();</script>
+
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr><td align="center" background="http://www.fda.gov/graphics/mastheadart/centers/fda_mast_bkgrd.gif"><a href="#skipheader"><img src="http://www.fda.gov/cdrh/images/clearpixel.gif" width="1" height="1" border="0" alt="Skip Navigation"></a><a href="http://www.fda.gov/default.htm"><img src="http://www.fda.gov/graphics/mastheadart/centers/fda_mast_01.gif" alt="FDA Logo links to FDA home page" height="70" width="116" border="0"></a><img src="http://www.fda.gov/graphics/mastheadart/centers/fda_cdrh_02.gif" alt="Center for Devices and Radiological Health, U.S. Food and Drug Administration" height="70" width="383" usemap="#fda_cber_02bb13509b" border="0"><a href="http://www.hhs.gov"><img src="http://www.fda.gov/cdrh/images/fda_mast_03alt.gif" alt="HHS Logo links to Department of Health and Human Services website" height="70" width="116" border="0"></a></td></tr>
+</table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr><td width="20%"></td>
+      <td width="60%" height="21" style="font-family: Arial, Helvetica, sans-serif; font-size: 0.7em; text-align: center;"><a href="http://www.fda.gov/default.htm">FDA Home Page</a> | <a href="http://www.fda.gov/cdrh">CDRH Home Page</a> | <a href="http://www.fda.gov/search.html">Search</a> | <a href="http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTopic/topicindex/topindx.cfm">A-Z Index</a>
+	  <map name="fda_cber_02bb13509b"><area shape="rect" coords="4,16,379,44" href="http://www.fda.gov/default.htm" alt="U.S. Food and Drug Administration"><area shape="rect" coords="8,55,374,69" href="http://www.fda.gov/cdrh/index.html" alt="Center for Devices and Radiological Health"></map></td>
+      <td width="20%" style="text-align:right;"><a href="http://fdacdrh.custhelp.com/cgi-bin/fdacdrh.cfg/php/enduser/std_alp.php"><img src="http://www.fda.gov/cdrh/images/linkerq.gif" border="0" alt="Questions?"></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="http://www.fda.gov/cdrh/images/fdablackline-2.gif" alt="horizonal rule" width="100%" height="6" border="0"><a name="skipheader"></a></td></tr>
+</table>
+
+<style type="text/css">
+<!--
+.dblist {font-family: Arial, Helvetica, sans-serif; font-size: 0.8em;}
+-->
+</style>
+
+<table width="100%">
+<tr>
+<td align="left" width="15%" nowrap>
+	<table>
+		<tr><td><img src="../images/supersearch.gif" align="left" border="0" alt="Super Search"></td></tr>
+	</table>
+</td>
+<td align="center" width="70%">		
+	<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" class="dblist">
+	<TR VALIGN="top">
+	<TD><A HREF="../cfPMN/pmn.cfm" title="Database of new or significantly changed device information submitted by medical device manufacturers prior to commercial distribution.">510(k)</A></TD>
+	<TD>|</TD>
+	<TD><A HREF="../cfRL/rl.cfm" title="Database of devices in commercial distribution in the United States submitted by domestic and foreign manufacturers and medical device establishment information submitted by domestic and foreign establishments.">Registration & Listing</A></TD>
+	<TD>|</TD>
+	<TD><A HREF="http://www.fda.gov/cdrh/mdr/mdr-file-general.html" title="Reports of adverse events involving medical devices.">Adverse Events</A></TD>
+	<TD>|</TD>
+	<TD><A HREF="../cfPMA/pma.cfm" title="Database of Class III devices that support or sustain human life or are of substantial importance in preventing impairment of human health.">PMA</A></TD>
+	<TD>|</TD>
+	<TD><A HREF="../cfPCD/classification.cfm" title="Database containing medical device names and associated information developed by the FDA Center for Devices and Radiological Health (CDRH) in support of its mission.">Classification</A></TD>
+	<TD>|</TD>
+	<TD><A HREF="../cfClia/Search.cfm" title="Database of laboratory testing standards that ensure the accuracy, reliability and timeliness of patient tests.">CLIA</A></TD>
+	</TR>
+	</TABLE>
+	
+	<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" class="dblist">
+	<TR VALIGN="top">
+	<TD><A HREF="../cfCFR/CFRSearch.cfm" title="Database of the most recent revision of Title 21 of the Code of Federal Regulations (CFR) from the Government Printing Office (GPO). ">CFR Title 21</A></TD>
+	<TD>|</TD>
+	<TD><A HREF="../cfAdvisory/search.cfm" title="Database of committee meetings that provide independent, professional expertise and technical assistance on the development, safety and effectiveness, and regulation of medical devices and electronic products that produce radiation.">Advisory Committees</A></TD>
+	<TD>|</TD>
+	<TD><A HREF="../cfAssem/assembler.cfm" title="Database of locations and identities of certified components of diagnostic x-ray systems for routine compliance testing at user facilities. ">Assembler</A></TD>
+	<TD>|</TD>
+	<TD><A HREF="../cfRES/res.cfm" title="Database of classified medical device recalls since November 1, 2002.">Recalls</A></TD>
+	<TD>|</TD>
+	<TD><A HREF="../cfGGP/Search.cfm" title="Database of documents for CDRH staff, regulated industry and the public that relate to: #chr(13)#-the processing, content, and evaluation of regulatory submissions; #chr(13)#-the design, production, manufacturing, and testing of regulated products; #chr(13)#-inspection and enforcement procedures">Guidance</A></TD>
+	<TD>|</TD>
+	<TD><A HREF="../cfStandards/search.cfm" title="Database of Recognized Consensus Standards with associated FDA, medical device and standards industry information.">Standards</A></TD>
+	</TR>
+	</TABLE>
+</td>
+<td align="right" width="15%">&nbsp;</td>
+</tr>
+</table>
+<br>
+
+ 
+	 
+		
+
+			
+
+			 			
+				
+				
+						
+				<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" ALIGN="center"  style="font-family: arial; color: #23238E;" width="80%">
+		<TR VALIGN="top">
+		<TD BGCOLOR="#888888">
+			<TABLE BORDER="0" CELLPADDING="5" CELLSPACING="1" width="100%">
+			<TR VALIGN="top">
+			<TD BGCOLOR="#e9e9e3">
+				
+				<table cellpadding=0 cellspacing=0 border=0 width="100%">
+				<tr BGCOLOR="#e9e9e3" >	
+				<TD align="left"><A HREF="CFRSearch.cfm">New Search</A></TD>
+				<TD align="right">
+					<table width="100%">
+					<tr valign="top">
+					<td align="right">
+						<small>				
+						<A HREF="/scripts/cdrh/cfdocs/search/default.cfm?FAQ=true">Help</A>  |  <A HREF=http://www.fda.gov/cdrh/aboutcfr.html>More About 21CFR </a>
+						</small>
+					</td>
+					</tr>
+					</table>
+				</TD>		
+				</tr>
+				</table>
+				
+			</TD>
+			</TR>
+			<tr>
+			<td  BGCOLOR="#f9f9f3" width="100%">
+	
+		
+				
+						
+					
+						<table cellpadding="0" cellspacing="0" align="left" style="font-family: courier new, courier, monospace; font-size: 10pt">
+						<tr><td>[Code of Federal Regulations]</td></tr>
+						<tr><td>[Title 21, Volume 3]</td></tr>
+						<tr><td>[Revised as of April 1, 2008]</td></tr>
+						<tr><td>[CITE: 21CFR189]</td></tr>
+						</table>
+						<br><br><br><br><br>
+									
+
+					<p align="center" style="font-family: courier new, courier, monospace; font-size: 10pt"  >TITLE 21--FOOD AND DRUGS<br>CHAPTER I--FOOD AND DRUG ADMINISTRATION<br>DEPARTMENT OF HEALTH AND HUMAN SERVICES
+					
+					<p align="center" style="font-family: courier new, courier, monospace; font-size: 10pt"  >SUBCHAPTER B--FOOD FOR HUMAN CONSUMPTION (CONTINUED)
+					
+					<table cellpadding="0" cellspacing="0" width="100%">
+					<tr>
+					<td width="100">&nbsp;</td>
+					<td>
+						<table align="center" cellpadding="5" cellspacing="0" style="font-family: courier new, courier, monospace; font-size: 10pt"  >
+						<tr valign="top">
+						
+							<td nowrap >PART 189</td><td>SUBSTANCES PROHIBITED FROM USE IN HUMAN FOOD</td>
+						
+						</tr>
+						</table>
+					</td>
+					<td width="100" align="right">&nbsp;
+						
+					</td>
+					</tr>
+					</table>
+					
+					
+ 					
+					
+					
+					
+						
+						
+							
+								</td></tr>
+								<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">	
+							
+	
+							<p style="font-family: courier new, courier, monospace; font-size: 10pt"  ><strong>
+							
+								Subpart C--Substances Generally Prohibited From Direct Addition or Use as Human Food
+							
+							</strong>
+							
+							
+			
+								
+								
+								
+			
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.110  Calamus and its derivatives.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) Calamus is the dried rhizome of<I>Acorus calamus</I> L. It has been used as a flavoring compound, especially as the oil or extract.</P><P>(b) Food containing any added calamus, oil of calamus, or extract of calamus is deemed to be adulterated in violation of the act based upon an order published in theFederal Registerof May 9, 1968 (33 FR 6967).</P><P>(c) The analytical method used for detecting oil of calamus ([beta]-asarone) is in the "Journal of the Association of Official Analytical Chemists," Volume 56, (Number 5), pages 1281 to 1283, September 1973, which is incorporated by reference. Copies are available from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, also from the Division of Food and Color Additives, Center for Food Safety and Applied Nutrition (HFS-200), Food and Drug Administration, 5100 Paint Branch Pkwy., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to:<I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</I> </P><p>[42 FR 14659, Mar. 15, 1977, as amended at 47 FR 11855, Mar. 19, 1982; 54 FR 24899, June 12, 1989]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.113  Cinnamyl anthranilate.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) The food additive cinnamyl anthranilate (C16H15NO2, CAS Reg. No. 87-29-6) is the ester of cinnamyl alcohol and anthranilic acid. Cinnamyl anthranilate is a synthetic chemical that has not been identified in natural products at levels detectable by available methodology. It has been used as a flavoring agent in food.</P><P>(b) Food containing any added cinnamyl anthranilate is deemed to be adulterated in violation of the act based upon an order published in theFederal Registerof October 23, 1985.</P><p>[50 FR 42932, Oct. 23, 1985]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.120  Cobaltous salts and its derivatives.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) Cobaltous salts are the chemicals, CoC4H6O4, CoCl2, and CoSO4.They have been used in fermented malt beverages as a foam stabilizer and to prevent "gushing."</P><P>(b) Food containing any added cobaltous salts is deemed to be adulterated in violation of the act based upon an order published in theFederal Registerof August 12, 1966 (31 FR 8788).</P>
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.130  Coumarin.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) Coumarin is the chemical 1,2-benzopyrone, C9H6O2. It is found in tonka beans and extract of tonka beans, among other natural sources, and is also synthesized. It has been used as a flavoring compound.</P><P>(b) Food containing any added coumarin as such or as a constituent of tonka beans or tonka extract is deemed to be adulterated under the act, based upon an order published in theFederal Registerof March 5, 1954 (19 FR 1239).</P><P>(c) The analytical methods used for detecting coumarin in food are in sections 19.016-19.024 of the "Official Methods of Analysis of the Association of Official Analytical Chemists," 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to:<I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</I> </P><p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24899, June 12, 1989]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.135  Cyclamate and its derivatives.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) Calcium, sodium, magnesium and potassium salts of cyclohexane sulfamic acid, (C6H12NO3S)2Ca, (C6H12NO3S)Na, (C6H12NO3S)2Mg, and (C6H12NO3S)K. Cyclamates are synthetic chemicals having a sweet taste 30 to 40 times that of sucrose, are not found in natural products at levels detectable by the official methodology, and have been used as artificial sweeteners.</P><P>(b) Food containing any added or detectable level of cyclamate is deemed to be adulterated in violation of the act based upon an order published in theFederal Registerof October 21, 1969 (34 FR 17063).</P><P>(c) The analytical methods used for detecting cyclamate in food are in sections 20.162-20.172 of the "Official Methods of Analysis of the Association of Official Analytical Chemists," 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to:<I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</I> </P><p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24899, June 12, 1989]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.140  Diethylpyrocarbonate (DEPC).
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) Diethylpyrocarbonate is the chemical pyrocarbonic acid diethyl ester, C6H10O5. It is a synthetic chemical not found in natural products at levels detectable by available methodology and has been used as a ferment inhibitor in alcoholic and nonalcoholic beverages.</P><P>(b) Food containing any added or detectable level of DEPC is deemed to be adulterated in violation of the act based upon an order published in theFederal Registerof August 2, 1972 (37 FR 15426).</P>
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.145  Dulcin.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) Dulcin is the chemical 4-ethoxyphenylurea, C9H12N2O2. It is a synthetic chemical having a sweet taste about 250 times that of sucrose, is not found in natural products at levels detectable by the official methodology, and has been proposed for use as an artificial sweetener.</P><P>(b) Food containing any added or detectable level of dulcin is deemed to be adulterated in violation of the act, based upon an order published in theFederal Registerof January 19, 1950 (15 FR 321).</P><P>(c) The analytical methods used for detecting dulcin in food are in sections 20.173-20.176 of the "Official Methods of Analysis of the Association of Official Analytical Chemists," 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to:<I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</I> </P><p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24899, June 12, 1989]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.155  Monochloroacetic acid.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) Monochloroacetic acid is the chemical chloroacetic acid, C2H3C1O2. It is a synthetic chemical not found in natural products, and has been proposed as a preservative in alcoholic and nonalcoholic beverages. Monochloroacetic acid is permitted in food package adhesives with an accepted migration level up to 10 parts per billion (ppb) under 175.105 of this chapter. The official methods do not detect monochloroacetic acid at the 10 ppb level.</P><P>(b) Food containing any added or detectable level of monochloroacetic acid is deemed to be adulterated in violation of the act based upon trade correspondence dated December 29, 1941 (TC-377).</P><P>(c) The analytical methods used for detecting monochloroacetic acid in food are in sections 20.067-20.072 of the "Official Methods of Analysis of the Association of Official Analytical Chemists," 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to:<I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</I> </P><p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24899, June 12, 1989]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.165  Nordihydroguaiaretic acid (NDGA).
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) Nordihydroguaiaretic acid is the chemical 4,4'-(2,3-dimethyltetramethylene) dipyrocatechol, C18H22O4. It occurs naturally in the resinous exudates of certain plants. The commercial product, which is synthesized, has been used as an antioxidant in foods.</P><P>(b) Food containing any added NDGA is deemed to be adulterated in violation of the act based upon an order published in theFederal Registerof April 11, 1968 (33 FR 5619).</P><P>(c) The analytical method used for detecting NDGA in food is in section 20.008(b) of the "Official Methods of Analysis of the AOAC INTERNATIONAL," 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to:<I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</I> </P><p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24900, June 12, 1989]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.175  P-4000.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) P-4000 is the chemical 5-nitro-2-n-propoxyaniline, C9H12N2O3. It is a synthetic chemical having a sweet taste about 4000 times that of sucrose, is not found in natural products at levels detectable by the official methodology, and has been proposed for use as an artificial sweetener.</P><P>(b) Food containing any added or detectable level of P-4000 is deemed to be adulterated in violation of the act based upon an order published in theFederal Registerof January 19, 1950 (15 FR 321).</P><P>(c) The analytical methods used for detecting P-4000 in food are in sections 20.177-20.181 of the "Official Methods of Analysis of the Association of Official Analytical Chemists," 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to:<I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</I> </P><p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24900, June 12, 1989]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.180  Safrole.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) Safrole is the chemical 4-allyl-1,2-methylenedioxy-benzene, C10H10O2. It is a natural constituent of the sassafras plant. Oil of sassafras is about 80 percent safrole. Isosafrole and dihydrosafrole are derivatives of safrole, and have been used as flavoring compounds.</P><P>(b) Food containing any added safrole, oil of sassafras, isosafrole, or dihydrosafrole, as such, or food containing any safrole, oil of sassafras, isosafrole, or dihydrosafrole, e.g., sassafras bark, which is intended solely or primarily as a vehicle for imparting such substances to another food, e.g., sassafras tea, is deemed to be adulterated in violation of the act based upon an order published in theFederal Registerof December 3, 1960 (25 FR 12412).</P><P>(c) The analytical method used for detecting safrole, isosafrole and dihydrosafrole is in the "Journal of the Association of Official Analytical Chemists," Volume 54 (Number 4), pages 900 to 902, July 1971, which is incorporated by reference. Copies are available from the Division of Food and Color Additives, Center for Food Safety and Applied Nutrition (HFS-200), Food and Drug Administration, 5100 Paint Branch Pkwy., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to:<I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</I> </P><p>[42 FR 14659, Mar. 15, 1977, as amended at 42 FR 56729, Oct. 28, 1977; 47 FR 11855, Mar. 19, 1982; 54 FR 24900, June 12, 1989]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.190  Thiourea.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>(a) Thiourea is the chemical thiocarbamide, CH4N2S. It is a synthetic chemical, is not found in natural products at levels detectable by the official methodology, and has been proposed as an antimycotic for use in dipping citrus.</P><P>(b) Food containing any added or detectable level of thiourea is deemed to be adulterated under the act.</P><P>(c) The analytical methods used for detecting thiourea are in sections 20.115-20.126 of the "Official Methods of Analysis of the Association of Official Analytical Chemists," 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to:<I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.</I> </P><p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24900, June 12, 1989]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+									
+										</td></tr>
+										<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">						
+										
+	
+
+
+
+
+
+
+
+
+ 
+	
+		
+	
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+
+	 
+
+	
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	Sec. 189.191  Chlorofluorocarbon propellants.
+	</td></tr></table>
+
+	<table cellpadding="5" cellspacing="5" style="font-family: courier new, courier, monospace; font-size: 10pt">
+	<tr valign="top">
+	<td>
+	
+	
+	
+		<P>The use of chlorofluorocarbons in human food as propellants in self-pressurized containers is prohibited as provided by 2.125 of this chapter.</P><p>[43 FR 11317, Mar. 17, 1978]
+		
+
+	</td></tr></table>
+	
+ 
+
+									
+								
+								
+								
+						
+					  				
+						
+					
+			
+					
+
+							
+					</td></tr>
+					<TR VALIGN="top"><TD BGCOLOR="#f9f9f3">
+					
+					
+						<p style="font-family: courier new, courier, monospace; font-size: 10pt" >
+					
+					
+						
+							<strong>Authority:</strong> 21 U.S.C. 321, 342, 348, 371, 381.
+						
+					
+					<br><strong>Source:</strong> 42 FR 14659, Mar. 15, 1977, unless otherwise noted.
+					</p>
+									
+				 
+				
+				</td></tr></table>
+				</td></tr></table>
+					
+			 
+		  
+	 
+ 
+
+<p align="right">Database Updated April 1, 2008	
+<!-- #BeginLibraryItem "/Library/footer-minimal.lbi" --><p><img src="http://www.fda.gov/graphics/blkpixel.gif" alt="horizonal rule" height="1" width="100%" border="0"></p>
+<p style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 0.7em; text-align: center;"><a href="http://www.fda.gov/cdrh">CDRH Home Page</a> | <a href="http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTopic/topicindex/topindx.cfm">CDRH   A-Z Index</a> | <a href="http://www.fda.gov/cdrh/comment4.html">Contact CDRH</a> | <a href="http://www.hhs.gov/Accessibility.html">Accessibility</a>   | <a href="http://www.fda.gov/cdrh/disclaim.html">Disclaimer<br></a><a href="http://www.fda.gov/default.htm">FDA Home Page</a> | <a href="http://www.fda.gov/search.html">Search   FDA Site</a> | <a href="http://www.fda.gov/opacom/hpchoice.html">FDA A-Z Index</a> | <a href="http://www.fda.gov/comments.html">Contact FDA</a> | <a href="http://www.hhs.gov">HHS Home Page</a></p>
+<p style="font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 0.7em; text-align: center;">Center for Devices and Radiological Health / CDRH</p><!-- #EndLibraryItem -->
+</TD></TR>
+</TABLE>
+
+</body>
+</html>

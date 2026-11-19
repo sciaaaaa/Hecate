@@ -1,0 +1,24 @@
+
+	Definition of Bad Channel and Random Bad Pipeline Capacitor
+	-----------------------------------------------------------	
+
+
+        Pedestals, noise, and gain are measured for each pipeline capacitor
+        in the pipeline. For each chip, pedestal Pmed is determined as median
+        pedestal over all pipeline capacitors in the chip. Pmed is required
+        to be between 20 and 40 ADC counts for the initialization settings
+        and clock speed used in the burn-in system. The difference between
+        the capacitor pedestal and Pmed is calculated for each capacitor.
+        This absolute value of this residual difference must be less than
+        4 ADC counts, otherwise this capacitor is marked as "bad". A similar
+        procedure is performed for the gain: Gmed must be between 160 and 
+        350 ADC counts / 1 V Vcal. Gain residuals must be less than
+        20 ADC counts / 1 V Vcal. The RMS noise in each pipeline capacitor
+        must not exceed 3 ADC counts.
+
+        Bad pipeline capacitors are combined into bad channels, bad cell IDs,
+        and "random" bad capacitors as follows: if more than 50% of
+        capacitors in a channel/cell-ID are bad, this channel/cell-ID is bad.
+        If a bad capacitor does not belong to any bad channel or cell-ID,
+        this is a "random" bad capacitor.
+

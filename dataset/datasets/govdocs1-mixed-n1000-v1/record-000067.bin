@@ -1,0 +1,141 @@
+Software Project Quarterly Report Oct-Dec 2000
+==============================================
+
+Our key milestones and deliverables during the period in the core
+software development program supported by the Project came in the
+context of major framework (Athena) releases during the period,
+discussed below. The deliverables encompassed major advances in
+control framework, event model and database software with
+contributions from all supported institutes. WBS numbers are
+reported in the milestone summary that follows, and in the 
+narrative text for tasks not represented in the milestone summary.
+
+The period began with a major release of the ATLAS offline framework,
+Athena, scheduled for Sep 29, 2000. This was the Alpha release, the
+first version delivering broad functionality to users and a major U.S.
+milestone, encompassing major deliverables in both control framework
+and databases. Deliverables in the release were met during October and
+early November, with the exception of formal merging Unified Software 
+Development Process activities into main line development (little
+impact), with the milestone declared complete by ATLAS in
+November. Major components of the release were an event data model
+prototype implementation (StoreGate), event generator integration,
+fast simulation integration, incorporation of Athena into ATLAS
+releases, physics analysis output to ROOT, and a resource monitoring
+(auditing) system.
+
+Reprioritization by ATLAS and the heavy review load resulted in
+deferment of some deliverables to the next release in December;
+specifically, the Objectivity and ROOT event I/O prototypes, and the
+deployment of the interactive scripting prototype.
+
+The period ended with the next major (Beta) release of Athena and
+associated deliverables, again encompassing major control framework
+and database deliverables from the U.S. The milestone date was
+December 29; the release became available with the Atlas release
+following the holidays.  The deliverables deferred from the Alpha
+release mentioned above were completed. Also included were the user
+deployment of the StoreGate event data model and the auditor service,
+and a strategy document for the development of a data definition
+language and dictionary, identified as an essential framework
+component by the ATLAS Architecture Review Committee. The detector
+description prototype deliverable (not under U.S. control) scheduled
+for this release is late.  Following ATLAS reprioritization the
+pile-up support prototype due in this release was deferred to April
+2001. A draft version of the Athena Users Guide was released.
+
+An important achievement during the period was the long-delayed
+ramp-up of database activity at ANL, with two FTEs added to the
+effort (one highly experienced external hire and two half-time
+computer scientists transferred internally), together with a recent
+U Chicago hire working 50% on databases. With these acquisitions
+the ANL and LBNL core software programs are at or near critical mass,
+and future focus shifts to completing the delayed ramp at BNL in
+event model and data management.
+
+The period saw much progress in software support (WBS 2.2.4) and
+management (WBS 2.4.1).  Software activities at BNL including project
+management, librarian services and development activities were
+consolidated in a new Physics Applications Software Group in the
+Physics Department.  A US ATLAS software web server was completed with
+a range of code browsing services, database services, and the
+HyperNews discussion tool. A software project planning system
+'XProject' was developed and adopted both by U.S. and International
+ATLAS as the basis for unified project planning.
+
+Core software efforts were complemented by much (primarily
+off-project) development activity in subsystem software (WBS 2.2.2),
+including substantial work in evaluating and deploying new core
+developments. Examples include development and testing of StoreGate in
+the LAr reconstruction; development of a unified framework for LAr and
+Tile calorimeter reconstruction; strong U.S. participation in Geant4
+physics performance studies; test beam analysis in several subsystems;
+Athena integration work in all subsystems; strong participation in
+detector description development particularly in the muon subsystem;
+development of a new muon reconstruction package; and prototyping I/O
+tools in LAr simulation. The U.S. acquired a new major subsystem
+software role in International ATLAS with the appointment of Srini
+Rajagopalan (BNL) as LAr Reconstruction Coordinator.
+
+A new round of solicitations for interest in training courses was sent
+out (WBS 2.2.5) in order to plan courses for the next 6-12 months.
+Some of these courses will utilize the web-based Syncomat lecture
+tools (WBS 2.2.3).
+
+Substantial progress was made on ATLAS software agreements during the
+period. A draft software agreement between U.S. ATLAS and
+International ATLAS covering the control framework was completed,
+circulated throughout ATLAS, and followed up with a solicitation for
+other expressions of interest in the area. One institute (Annecy)
+expressed interest in the specific area of the data dictionary, and
+agreement was reached on a revised software agreement incorporating
+data dictionary as a subtask performed by Annecy and overseen by
+U.S. ATLAS. This draft is in the final stages of preparation. A first
+solicitation for expressions of interest in subsystem software was
+also received, for the LAr calorimeter. U.S. ATLAS is engaged in
+assembling a unified response to the solicitation, following our
+approach for core software, and is on target to meet the Feb 2, 2001
+submission deadline.
+
+Summary of Major Milestones and Deliverables:
+=============================================
+
+Sep 29, 2000: Athena Alpha Release (WBS 2.2.1.2)
+ - U.S. control framework and event model (WBS 2.2.1.4) deliverables
+   met by mid November (most met in October), except merging of USDP
+   (WBS 2.2.1.1)
+   - impact of USDP merge delay: negligible
+ - U.S. database deliverables (WBS 2.2.1.3) met or deferred to December
+   - impact of deferments: contraction of already tight schedule
+     for database evaluations and technology selection in 2001
+
+Dec 29, 2000: Athena Beta Release (WBS 2.2.1.2)
+ - deployed in ATLAS software release 1.3.0
+ - U.S. control framework deliverables met
+ - U.S. database deliverables met (WBS 2.2.1.3)
+
+Forthcoming Milestones and Deliverables:
+========================================
+The next major milestone will be the Athena Gamma release in
+May. Deliverables with substantial U.S. involvement are indicated.
+
+May 14, 2001: Athena gamma release (WBS 2.2.1.2)
+ - Objectivity event I/O fully deployed (WBS 2.2.1.3)
+ - Data dictionary prototype
+ - Pile-up support prototype
+ - Physics analysis ROOT binding
+ - Geant4 integration prototype (limited U.S. involvement)
+ In addition, the following are desirable: 
+ - Particle properties service deployed
+ - Statistics and monitoring tools prototype
+ - Bookkeeping prototype
+
+Summer, 2001: Selection of database technology (WBS 2.2.1.2)
+ A 'floating' milestone in International ATLAS, without a firm date,
+ and which may be delayed. Involves the selection of the event
+ storage technology (Objectivity, ROOT, relational DB...). ATLAS is
+ currently in a poor position to make such a decision, with little
+ evaluation of the alternatives done. The U.S. will be (must be) a
+ strong contributor to the prototyping, evaluating, and decision
+ making involved, and this will be a focus area in the database and
+ data management effort in the coming months.

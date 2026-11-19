@@ -1,0 +1,133 @@
+              Minutes of the Event Data Model Working Group Meeting
+                                  02 March 1999
+                                   Rob Kennedy,
+                for the CDF Run II Event Data Model Working Group
+
+
+Attending: Rob Kennedy, Rick Snider, Liz Sexton-Kennedy, Chris Green,
+           Jim Kowalkowski, Marc Paterno, David Waters, Farrukh Azfar
+By Video:  Oxford (Armin Reichold, et al), MIT (Betsy Hafen)
+By Phone:  <none>
+
+
+I) Preview of Event Data Model Overview Part 2/2 - Rob Kennedy
+
+	Rob K presented a draft version of his talk EDM Overview Part 2/2 to be
+given at the 03-Mar-1999 Offline Meeting. For the final version, see
+
+http://www-cdf.fnal.gov/upgrades/computing/projects/edm/slides/EDM_overview2_19990303.ps
+
+	There was general agreement that ROOT Branches should not be visible to
+the user. In other words, Branch structure only is considered at I/O time, not
+for object searches of the event data.
+
+	While compression factors of about 2.0 are achieved using gzip and ROOT
+Branches, and this is not much better or worse than Run 1 DATSQZ, there are
+examples of tailored compression that was much better than this. QTRK achieved
+an effective compression factor of about 4.
+
+	Collections may be stored in several ways. We would prefer to store
+collections by storing the elements of the collection and a collection summary
+object which could contain AbsParmIds appropriate for the collection itself and
+not for the elements of the collection. This is not the only means we might
+choose to store collections, but it works for most purposes.
+
+	Insert() should also set the ObjectNumber in an object, and not just
+return the ObjectNumber. Hence the argument to insert() is no longer qualified
+by const. This allows a Muon object to query the associated Track object for
+its ObjectId since a Muon contains a pointer to the Track.
+
+	There was general agreement among those who spoke that we should
+document, design, and implement the new EDM by May/June, but not expect to make
+the transition to it until after the May/June milestone (complete production
+executable). We should consider the transition to the new EDM to be part of the
+October "optimized production executable" milestone. There is significant risk
+of failing to produce a stable production executable in time if we add to
+everyone's schedule at this time several weeks of transition work to a new and
+relatively untested EDM infrastructure.
+
+	There are some complications in using rootcint and ROOT streamers to
+support and implement (respectively) I/O. We do not have in mind adding an
+isolation layer (yet) to keep Streamers decoupled from the details of ROOT I/O.
+We know from experience that more than just the Streamer() method must be
+supplied at present in order to perform I/O. In the current ROOT I/O using
+Banks demontration code, a "memvar" function must be supplied for cint which
+would not be simple for users to hand-code. Rootcint can produce the "memvar"
+function, but then one is dependent on rootcint more closely than many feel is
+desirable. RDK will take this up at the ROOT workshop, 23-25 March 1999. Our
+goal is to optionally use rootcint as a tool to help support Streamer methods,
+and avoid being tied to any cint "memvar" functions. Alternatively, we might
+use IDL and a generator program to create and maintain Streamers.
+
+	The method names activate() and deactivate() were pointed out to be
+rather non-intuitive (chosen as default since D0 uses these terms). These have
+been replaced by setPointers() and setLinks() respectively.
+
+-------------------------------------------------------------------------------
+
+                    Interesting Comments from EDM Presentation
+                               CDF Offline Meeting
+                                  03 March, 1999
+
+	Liz Buckley-Geer suggested that we will need to vary Branch-Object
+associations by analysis. Different Physics Groups and different analyses will
+want a different mix of raw, production, and analysis-generated objects. We
+should consider permitting more flexibility here, and perhaps pushing for finer
+granularity of Branch structure of the production output.
+
+	Terry Watts asked about how split-file mode files were related to Data
+Handling files. The terminology here is a little confusing, as a ROOT Logical
+File can consist of several separate files, each containing one or more
+Branches. The Data Handling system has been developed with the notion of a File
+being the atomic unit of data storage. Liz Sexton-Kennedy pointed out that
+AC++/Framework will have to perform some translation of the Logical File and
+Branches requested by a user into physical files to request of the Data
+Handling system.
+
+	Hans Wenzel suggested that we create and support a visualization tool
+for object associations within an event. All agreed this would be invaluable as
+users attempt to minimize the data their analysis requires.
+
+	The MemoryManager-type of object could either be inherited from
+StorableObject, be global, or be attached to the EventRecord. For now, we will
+attempt the first approach, and permit non-StorableObjects to also use the
+MemoryManager.
+
+	It was generally agreed that applying the Event Data Model to
+higher-level physics objects should be the top priority. Kirsten Tollefson
+pointed out that having this in place before her summer students arrive (to
+work on trigger studies) will insure that one round of adaptation work is
+avoided.
+
+	Related to this is the need to support Run 1 data in the new EDM, as
+trigger studies must use Run 1 data for now, ie TRKS and CMUO banks. We may
+either provide a batch translator, or translate on-the-fly in the I/O modules,
+or (most likely) both.
+
+	Paolo Calafiura proposed that we apply ourselves to adapt to the new
+EDM in one short period of time (after the EDM infrastructure is proven to
+work), rather than going through a long transition period with an admittedly
+clumsy "union" EventRecord API. This has the advantages of minimizing the
+integrated work to be performed and insuring we are not still using that clumsy
+API after the October milestone, since removing pieces of an API tends to be
+very difficult from a management point-of-view. Several people expressed
+concern that this "skipping of the union API" could be a management problem in
+and or itself, as developers working at a "higher" level will have to wait some
+time for the operation of the production executable to be recovered using the
+new EDM. On the other hand, once this is done, the new EDM will not suffer from
+inconsistent use which may occur with the union API. No decision was made
+either way, as more input is required from managers and on any possible
+consistency problems of the union API.
+
+	Finally, Armin Reichold asked why we felt that the user should have to
+call setLinks() and setPointers() themselves, rather than have the EDM
+infrastructure do this automatically. This seems tedious and error-prone. At
+the meeting, RDK stated that this was the state of the proposal at the time,
+and we would consider the alternatives. After the meeting, Jim Kowalkowski,
+Marc Paterno, and RDK took up this point again, and convinced ourselves that
+setLinks() could be called in File::write() and setPointers() could be called
+in File::read() (there are advantages calling it there rather than calling it
+in EventRecord::insert()). This part of the EDM proposal has since been so
+changed. Where exactly these will be called is still being considered, though.
+
+.the end.

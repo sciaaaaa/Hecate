@@ -1,0 +1,20 @@
+{
+  "context": {
+    "action": "finalize",
+    "address": "0xFbfaa2Cda04CC608f45C57957c9c777C51825aA2",
+    "chain_id": 20261005,
+    "genesis_hash": "0xeb13bcef8d3b9a4d2f88fade3570f61533261214885234f0c3453fc482573af2",
+    "manifest_sha256": "0x70ebe67f407724fd36078a0c3cee0f810c2b469aab1903a3cef5d6f516aca234",
+    "setup_id": "0x4484fad528746d804b7c07338618714484ebf776a8b2a232977f4c4d798e06ff",
+    "source_sha256": "8de63a5bc8da8de1e76076ff3aea7f19348d5d3bf2b4a0247800f26d1d1bc9c3",
+    "srs_sha256": "0x64272b8fe8deef49f01b14d95e0e09fc812a0152cc0d1a9fae926d1c7fa285e9",
+    "system_registry": "0xca621b706A616dfE8B90AAD839585E4475FDA723"
+  },
+  "first_attempt_unix": 1791446944.420644,
+  "gas_limit": 17525329,
+  "input_bytes": 4,
+  "nonce": 67,
+  "raw_transaction": "0xf86d43843b9aca0084010b6a5194fbfaa2cda04cc608f45c57957c9c777c51825aa280844bb278f384026a513ea018658864fe6a9b2a31ee47c286b58db1997875c32469e0843969169aedc4af70a078a0992db25c21ba318527d3dfa14a64ebc583c95c48e7cfc5c2119ec9c61752",
+  "signed_transaction_bytes": 111,
+  "tx_hash": "0xe5807cfbe27f4e85d7af12e616849ca1606a5a44bd0ec7937a3480c7c49dab9f"
+}

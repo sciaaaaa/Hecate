@@ -1,0 +1,234 @@
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- #BeginTemplate "/Templates/oeca-ahome-resource-cases-norightside.dwt" --><!-- DW6 -->
+<!-- EPA Template version 3.2.1, 28 June 2006 -->
+<head>
+	<!-- #BeginEditable "doctitle" -->
+<title>Transcontinental Gas Pipeline Corporation (Transco) MultimediaSettlement | Compliance and Enforcement | US EPA</title>
+<!-- #EndEditable -->
+	
+	<!-- #BeginEditable "metaElements" -->
+<meta name="DC.Description" content="Informaiton on Transcontinental Gas Pipeline Corporation (Transco) Multimedia Settlement" />
+<meta name="Keywords" content="Enforcement, Settlement, Consent Decree, Transco, Multimedia, RCRA, CWA, TSCA, Toxic Substances,
+Hazardous Waste, Storm Water, Stormwater, PCB, Gas, Natural Gas, Pipeline, Disposal, Illegal Disposal, Compressor Stations,
+Soil Contamination, Groundwater Contamination, Metering Station" />
+	<meta name="DC.title" content="" />
+	<meta name="DC.subject" content="" />
+	<meta name="DC.type" content="" />
+	<!-- For date metadata, use the format YYYY-MM-DD -->
+	<meta name="DC.date.modified" content="" />
+	<meta name="DC.date.created" content="" />
+	<meta name="DC.date.reviewed" content="" />
+	<!-- #EndEditable -->
+
+	<!-- #BeginEditable "head" -->
+<meta name="metadata record number" content="54703" />
+<meta name="office" content="OECA/ORE/MED" />
+<meta name="special" content="" />
+<!-- #EndEditable -->
+	<!-- Begin <meta>, <link>, <style> and <script> tags Uneditable -->
+	<meta name="EPARecordSchedule" content="EPA Record Schedule 095" />
+	<meta name="DC.language" content="en" />
+	<meta name="DC.creator" content="Program Office: US EPA, Office of Compliance and Enforcement" />
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+	<link rel="meta" href="http://www.epa.gov/labels.rdf" type="application/rdf+xml" title="ICRA labels" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+	<style type="text/css" media="screen">@import 'http://www.epa.gov/epafiles/s/epa.css';</style>
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" type="text/css" href="http://www.epa.gov/epafiles/s/ie.css" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" media="print" href="http://www.epa.gov/epafiles/s/print.css" />
+	<link rel="stylesheet" type="text/css" href="../../../../styles/oecastyles_v321.css" />
+	<script type="text/javascript" src="http://www.epa.gov/epafiles/js/epa-core.js"></script>
+	<script type="text/javascript" src="http://www.epa.gov/epafiles/js/extra.js"></script>
+	<!-- End <meta>, <link>, <style> and <script> tags Uneditable -->
+</head> 
+
+<body>
+<p class="skip"><a id="skiptop" href="#content" title="Jump to main content.">Jump to main content.</a></p>
+
+<div id="header"> <!-- START EPA HEADER -->
+
+	<div id="logo"><a href="http://www.epa.gov/" title="US EPA home page"><img src="http://www.epa.gov/epafiles/images/logo_epaseal.gif" alt="[logo] US EPA" width="100" height="111" /></a></div>
+	
+	<div id="areaname"> <!-- START AREA NAME -->
+		<p>Civil Enforcement</p>
+	</div> <!-- END AREA NAME -->
+	
+	<!-- START SEARCH CONTROLS -->
+	<form id="EPAsearch" method="get" action="http://nlquery.epa.gov/epasearch/epasearch">
+		<!-- START AREA SPECIFIC LINKS AND SEARCH BOX  -->
+		<!-- CHANGE links to point to your own recent additions and contact pages -->
+		<!-- REMOVE recent additions link if your area doesn't have one -->
+		<p><a href="http://cfpub.epa.gov/compliance/recent/index.cfm?action=2&amp;topicAreaID=5">Recent Additions</a> | <a href="../../../../contact/civil.html">Contact Us</a>
+		  <span class="search"><strong>Search:</strong> 
+			<input name="typeofsearch" id="EPAall" type="radio" value="epa"/><label for="EPAall">All EPA</label> 
+			<input name="typeofsearch" id="Areaall" type="radio" value="area" checked="checked" /><label for="Areaall">Compliance and Enforcement</label> 
+			<input name="querytext" id="searchbox" value="" /> 
+			<input name="submit" id="searchbutton" type="submit" value="Go" />
+			<!-- #BeginLibraryItem "/Library/ce-searchparameters.lbi" -->
+            <input type="hidden" name="fld" value="oecaerth" />
+            <input type="hidden" name="areaname" value="Compliance and Enforcement" />
+            <input type="hidden" name="areacontacts" value="http://www.epa.gov/compliance/contact/index.html" />
+            <!-- AREA ADVANCED SEARCH URL HERE (OPTIONAL) -->
+            <input type="hidden" name="areasearchurl" value="http://www.epa.gov/compliance/search/index.html" />
+            <input type="hidden" name="search_crumbs" value="yes" />
+            <input type="hidden" name="search_pdf" value="yes" />
+            <!-- THE REMAINING HIDDEN INPUTS ARE USED BY THE SEARCH ENGINE - DO NOT EDIT -->
+            <input type="hidden" name="result_template" value="epafiles_default.xsl" />
+            <input type="hidden" name="filter" value="samplefilt.hts" />
+            <!-- #EndLibraryItem --></span>
+		</p>
+	</form> <!-- END SEARCH CONTROLS -->		
+		
+	<ul> <!-- BEGIN BREADCRUMBS -->
+		<li class="first">You are here: <a href="http://www.epa.gov/">EPA Home</a></li>
+		<!-- START AREA BREADCRUMBS -->
+		<li><a href="../../../../index.html">Compliance and Enforcement</a></li>
+		<li><a href="../../../../index-e.html">Enforcement</a></li>
+		<!-- #BeginEditable "Additional Breadcrumbs" -->
+		<li><a href="../../../../civil/index.html">Civil Enforcement</a></li>
+		<li><a href="../../../index.html">Information Resources</a></li>
+		<li><a href="../../index.html">Cases and Settlements</a></li>
+		<li>Transcontinental Gas Pipline Corporation</li><!-- #EndEditable -->
+		<!-- END AREA BREADCRUMBS -->
+	</ul> <!-- END BREADCRUMBS -->
+
+</div> <!-- END EPA HEADER -->
+
+<hr class="skip" />
+
+<p class="skip"><a name="pagecontents" id="pagecontents"></a><a name="pagetop" id="pagetop"></a></p>
+
+<div id="content"> <!-- BEGIN CONTENT -->
+	<!-- EPA SITE-WIDE ANNOUNCEMENTS - DO NOT REMOVE - this code is used for emergency messages -->
+	<!-- If this page is a Sub-Office/Sub-Region/Center/Lab/Topic home page, CHANGE "sitewidec" TO "sitewideb" -->
+	<p id="sitewidec"></p>
+
+	<!-- BEGIN PAGE NAME -->
+	<h1><!-- #BeginEditable "Settlement Name" -->
+        
+        Transcontinental Gas Pipe Line
+        Corporation (Transco) Multimedia Settlement<!-- #EndEditable --></h1>
+	<!-- END PAGE NAME -->
+		
+	<!-- BEGIN CONTENT AREA -->
+	
+    <!-- 2-column layout begins here -->
+	
+		<!-- #BeginEditable "Settlement Description" -->
+<p>
+        The U.S. Environmental
+        Protection Agency (EPA) and the U.S. Department of Justice (DOJ) entered
+        into a settlement with Transcontinental Gas Pipe Line Corporation (Transco),
+        under which the company has agreed to test for and cleanup soil and groundwater
+        contamination related to waste disposal at numerous compressor stations
+        along its natural gas pipeline, which traverses 12 states from Texas to
+        New York. In addition, the company will cleanup polychlorinated biphenyl
+        (PCB) contamination, complete a storm water monitoring program, conduct
+        storm water sampling at several compressor stations and pay a $1.4 million
+        civil penalty.</p>
+<p>&quot;This
+        settlement resolves Transco's past illegal disposal practices and commits
+        the company to a comprehensive testing and cleanup program that will protect
+        public health and the environment,&quot; said Sylvia Lowrance, EPA's Acting
+        Administrator for Enforcement and Compliance Assurance.</p>
+<p>&quot;This
+        settlement will result in consistent, high quality cleanups along the
+        length of the pipeline,&quot; said Tom Sansonetti, Assistant Attorney
+        General for the Justice Department's Environment and Natural Resources
+        Division. &quot;Transco's willingness to work with EPA and its agreement
+        to perform the necessary cleanup proved beneficial to all parties and
+        the environment.&quot;</p>
+<p>The Transco settlement is part of a long history of EPA
+        enforcement activities in the natural gas industry related to PCBs and
+        hazardous wastes. Past enforcements were brought against Texas Eastern
+        Gas Pipeline Company; Transwestern Gas Pipeline Company; Tennessee Gas
+        Pipeline Company; and Columbia Gas Pipeline Corporation. These settlements
+        also addressed PCB and hazardous waste cleanups along natural gas pipelines.</p>
+      <!-- #EndEditable -->
+		
+		<!-- #BeginEditable "Settlement Components" -->
+      
+      <ul>
+        <li><a href="http://www.usdoj.gov/opa/pr/2002/February/02_enrd_053.htm">Press Release</a> <!-- #BeginLibraryItem "/Library/exit-EPA.lbi" --><a href="http://www.epa.gov/epahome/exitepa.htm" title="EPA's External Link Disclaimer"><img src="http://www.epa.gov/epafiles/images/epafiles_misc_exitepadisc.gif" width="87" height="13" alt="Exit EPA Disclaimer" /></a> <!-- #EndLibraryItem --></li>
+        <li><a href="../../../decrees/civil/mm/transcocd.pdf">Consent Decree (PDF)</a> <span class="fileinfo">(105K, 69 pp)</span></li>
+      </ul>
+      <!-- #EndEditable -->
+		
+		<!-- #BeginEditable "Related Topic Link" -->
+      <hr />
+      <ul>
+        <li><a href="http://www.epa.gov/opptintr/pcb/">EPA's PCB Home Page</a></li>
+      </ul>
+      
+      <!-- #EndEditable -->
+		
+		<!-- #BeginEditable "Settlement Contact Information" -->
+		<p>{Settlement Contact Information}</p>
+		<!-- #EndEditable -->
+	
+    <!-- END column 1 -->
+	
+
+    <!-- 2-column layout ends here -->
+	
+	<!-- BEGIN AREA FOOTER - ADD text/links for area footer within this paragraph tag -->
+	
+	<!-- #BeginEditable "footer" -->
+	<p id="areafooter">
+  	<!-- #BeginLibraryItem "/library/ce-footer-enforcement.lbi" -->
+			<a href="http://www.epa.gov/compliance/civil/index.html">Civil Enforcement</a> | 
+			<a href="http://www.epa.gov/compliance/cleanup/index.html">Cleanup Enforcement</a> | 
+			<a href="http://www.epa.gov/compliance/criminal/index.html">Criminal Enforcement</a>
+
+<!-- #EndLibraryItem --></p>
+	<!-- #EndEditable -->
+	<!-- END AREA FOOTER -->
+</div> <!-- END CONTENT -->
+
+<hr class="skip" />
+<div id="area-nav"><!-- #BeginLibraryItem "/Library/ce-leftsidebar-civil-area.lbi" -->
+<!-- BEGIN AREA MAIN NAVIGATION -->
+<h3 class="skip">Local Navigation</h3>
+<ul>
+	<li><a href="../../../../index.html">Compliance and Enforcement Home</a></li>
+</ul>
+<hr />
+<ul>
+	<li><a href="../../../../index-e.html">Enforcement Home</a></li>
+	<li><a href="../../../../civil/index.html">Civil Enforcement Home</a></li>
+	<li><a href="../../../../basics/civil.html">Basic Information</a></li>
+	<li><a href="http://cfpub.epa.gov/compliance/newsroom/">Newsroom</a></li>
+	<li><a href="../../../../civil/caa/index.html">Clean Air Act</a></li>
+	<li><a href="../../../../civil/cwa/index.html">Clean Water Act</a></li>
+	<li><a href="../../../../civil/sdwa/index.html">Safe Drinking Water Act</a></li>			     
+	<li><a href="../../../../civil/rcra/index.html">Resource Conservation and Recovery Act</a></li>
+	<li><a href="../../../../civil/tsca/index.html">Toxics Substances Control Act</a></li>	
+	<li><a href="../../../../civil/fifra/index.html">Federal Insecticide Fungicide Rodenticide Act</a></li>					
+	<li><a href="../../../../civil/epcra/index.html">Emergency Planning and Community Right to Know Act</a></li>
+	<li><a href="../../../../civil/multimedia/index.html">Multimedia Enforcement</a></li>
+	<li><a href="../../../../civil/sbrefa/index.html">Small Business Regulatory Fairness Act</a></li>
+</ul>
+<!-- END AREA MAIN NAVIGATION -->
+<!-- #EndLibraryItem --></div>
+<hr class="skip" />
+
+<div id="footer"> <!-- BEGIN FOOTER -->
+	<ul id="globalfooter">
+		<li><a href="http://www.epa.gov/">EPA Home</a></li>
+		<li><a href="http://www.epa.gov/epafiles/usenotice.htm">Privacy and Security Notice</a></li> 
+		<li><a href="http://www.epa.gov/foia/">FOIA</a></li>
+		<!-- CHANGE link to point to your own contact page -->
+		<li class="last"><a href="../../../../contact/civil.html">Contact Us</a></li>
+	</ul>
+</div> <!-- END FOOTER -->
+
+<p class="skip"><a id="skipbot" href="#content" title="Jump to main content.">Jump to main content.</a></p>
+</body>
+<!-- #EndTemplate --></html>

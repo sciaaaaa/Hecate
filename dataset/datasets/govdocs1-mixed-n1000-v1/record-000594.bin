@@ -1,0 +1,130 @@
+              Minutes of the Event Data Model Working Group Meeting
+                                 08 December 1998
+                                   Rob Kennedy,
+                for the CDF Run II Event Data Model Working Group
+
+Attending: Rob Kennedy, David Dagenhart, Jim Kowalkowski, Paolo Calafiura,
+           Chris Green, Peter Tamburello, Rick Snider, Liz Sexton-Kennedy
+By Phone: Marge Shapiro, Betsy Hafen
+
+I) Review of Proposed Charge
+
+	There was little discussion on the Charge itself, but some on the
+Schedule proposed with the Charge. Several found the schedule, at least the
+first several parts, to be unrealistic. Marge pointed out that the completion
+date of the transition to the accepted Event Data Model (EDM) cannot slip very
+much, if at all, because of the May 1999 milestone to have a working production
+executable with 100% of components (geometry, calibrations, etc) in place and
+working. Clearly the EDM should be in place and in use for at least some weeks
+before that milestone. Rick later proposed that we review this schedule at the
+end of this week, especially the first few items, to see if we still think we
+will be able to hold to it.
+
+        For RDK's cover sheet and charge slides, see
+http://www-cdf.fnal.gov/upgrades/computing/projects/edm/
+slides/EDM_cover_19981208.ps
+
+	RDK volunteered to contact Marc Paterno about a presentation on D0's EDM
+and EDM-related portions of D0OM. (Done... Talk is scheduled for 0900-1030,
+11-Dec-1998, 2nd floor B0 Lecture Hall)
+
+        RDK will also setup an EDM webpage with the charge, minutes, links to
+CDF and related D0 documentation, e-mail intended for a wider audience, and so
+on. The directories and files for the webpage will be group-writable so that
+others in the cdfwww group will be able to edit the pages in RDK's absence.
+(http://www-cdf.fnal.gov/upgrades/computing/projects/edm/edm.html. I have begun
+fleshing out the page, and hope to have all in place ASAP.)
+
+II) RDK: F77 Use of YBOS in Current Offline
+
+http://www-cdf.fnal.gov/upgrades/computing/projects/edm/
+slides/EDM_f77use_19981208.ps
+
+	Several comments were made that are not in the slides. We probably do
+not need any secondary arrays, not even KALI, if current plans in other 
+projects hold. In fact, we should probably simply state that we will not
+support any secondary arrays (as policy) and see if this is acceptable to other
+projects.
+
+        We should be careful to distinguish F77 software that is in use by the
+production or simulation executable, and that which is simply in the repository
+to reproduce old results as a cross-check. A YBOS emulation may not need to
+treat the YBOS calls in the latter software, provided YBOS can continue to be
+used in a way that is consistent with the YBOS emulation being used by other
+software. In particular, code using link banks or bank sets may not need to be
+treated by the YBOS emulation, though a bank set-like concept will still be
+implemented in C++.
+
+III) Short-term tasks and information exchange
+
+	Because of the impending Holidays and vacations, we are attempting to
+assign tasks now that can be done independently and in parallel. The tasks now
+are to survey the offline software in one's area of expertise (assignment list
+below) for the following questions:
+
+A) Use-cases: How is the event data accessed and manipulated in the C++ and/or
+F77 software?
+
+B) Is the event data access done consistent with the current Event Data Model
+(partially documented in CDF 4819)? If portions are not consistent, then why
+not? Is it accidental/historical/"personal experience"-driven, or is there some
+weakness in the current EDM which someone has tried to work around? Is there a
+weakness or immaturity in the general infrastructure that led to this?
+
+C) How can the current Event Data Model be extended to significantly simplify
+software development? An example: being able to pass entire collections of
+objects from one module to another would greatly simplify dealing with track
+sets and with tower collections.
+
+D) What portions of the software are not intended to be in the full production
+or simulation executable, and which are only in the repository for specialized
+tests (something to check results from old algorithms no longer in production
+against new software that will be in production).
+
+        We broke the task down into niches in our offline systems as follows:
+
+1) Tracking Si, Utility, General - Chris G
+2) Tracking COT, OITrackFinder - Peter T
+3) Simulation, Generators - Pasha M, Marge S, Liz S-K
+4) Control Banks, Module Parameters and Decisions - Liz S-K, Marge S
+5) Electron - Unconfirmed, suggestion heard on who
+6) Muon - Unconfirmed, suggestion heard on who
+7) Jets - Unconfirmed, may require several to take pieces during transition
+8) Cal - Unconfirmed, may require several to take pieces during transition
+9) Raw - Rob K, Frank Ch.
+
+	Chris G pointed out that note CDF4826 describes a framework for 
+regional tracking and a RRL3 bank which should also be considered in this.
+
+        Marge S pointed out that we should consider what policy or
+recommendations we should make about transforming objects from their transient
+representation to their persistent representation and (often more difficult)
+vice versa.
+
+        Some examples were discussed, such as the TRY_In/Output_Stream in
+Tracking. For this case, we need a list (and timetable?) of what must be done
+before we can remove its use altogether, such as creation of a HEPS_Bank class
+and replacement of StripSet software. The Banks involved in this may include
+HEPS (should be easy to write a Banks class), SSTS and SSTL (may disappear),
+OBSP and OBSV (use in Tracking predates existence on Banks class), SVXD, and
+ISLD.
+
+	Please send survey results to kennedy@fnal.gov and rs@fnal.gov. One of
+us will bounce it to the rest of the working group, depending on vacations. 
+This will give us a chance to make suggestions to maintain some consistency
+amongst the responses.
+
+	Several related topics came up. For instance, how do we pass event
+information to user algorithms. We apparently now either pass the AbsEvent
+pointer as an argument or access the same in the AbsEnv. This is related to
+recent discussions in the Reconstruction group about passing data to buried
+routines either through argument lists (ie, the AbsEvent pointer) or 
+singletons.
+
+	It was decided that until after the Holidays, we will use e-mail for
+internal communications and the EDM webpage for more public communication. 
+Chris mentioned that the HyperNews product on cdfsga is out-of-date and buggy.
+We  will look into arranging an upgrade and a new HyperNews page for the EDM
+after the Holidays. If you want your e-mail (survey results, etc) to be posted,
+please  say so and e-mail to kennedy@fnal.gov.
+

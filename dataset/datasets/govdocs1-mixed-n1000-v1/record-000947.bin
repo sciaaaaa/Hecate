@@ -1,0 +1,77 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.5 [en] (WinNT; U) [Netscape]">
+   <title>The Genome Analysis Pipeline</title>
+<MAP NAME="INTERNAL"><AREA SHAPE="RECT" COORDS="590,15 600,25" HREF="http://homer.ornl.gov/compbio/internal/"></MAP>
+<MAP NAME="TOOLSBAR"><AREA SHAPE="RECT" COORDS="20,1 74,19" HREF="http://genome.ornl.gov/GCat/index.html"><AREA SHAPE="RECT" COORDS="87,1 144,19" HREF="http://compbio.ornl.gov/channel/index.html"><AREA SHAPE="RECT" COORDS="158,1 234,19" HREF="http://compbio.ornl.gov/generation/"><AREA SHAPE="RECT" COORDS="247,1 284,19" HREF="http://compbio.ornl.gov/Grail-1.3/"><AREA SHAPE="RECT" COORDS="297,1 358,19" HREF="http://grail.lsd.ornl.gov/grailexp/"><AREA SHAPE="RECT" COORDS="372,1 428,19" HREF="http://compbio.ornl.gov/tools/pipeline/"><AREA SHAPE="RECT" COORDS="441,1 490,19" HREF="http://compbio.ornl.gov/structure/domainparser/"><AREA SHAPE="RECT" COORDS="502,1 580,19" HREF="http://compbio.ornl.gov/structure/prospect/"></MAP>
+<LINK REL="STYLESHEET" TYPE="TEXT/CSS" HREF="http://compbio.ornl.gov/public.css" TITLE="publicstyle">
+</head>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#FF0000" ALINK="#FF00FF" TOPMARGIN="0" LEFTMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0">
+
+<CENTER>
+<TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR ALIGN="LEFT" VALIGN="TOP"><TD><IMG SRC="http://compbio.ornl.gov/public/images/compbio.gif" WIDTH="600" HEIGHT="40" ALT="Computational Biosciences" USEMAP="#INTERNAL" BORDER="0"></TD></TR>
+<TR ALIGN="LEFT" VALIGN="TOP"><TD><A HREF="http://compbio.ornl.gov/index.html"><IMG SRC="http://compbio.ornl.gov/public/images/bluehomeoff.gif" WIDTH="60" HEIGHT="18" BORDER="0" ALT="Home" BORDER="0"></A><A HREF="http://compbio.ornl.gov/public/section/"><IMG SRC="http://compbio.ornl.gov/public/images/blueaboutusoff.gif" WIDTH="75" HEIGHT="18" BORDER="0" ALT="About Us"></A><A HREF="http://compbio.ornl.gov/public/tools/"><IMG SRC="http://compbio.ornl.gov/public/images/blueanalysistoolson.gif" WIDTH="120" HEIGHT="18" BORDER="0" ALT="Analysis Tools" BORDER="0"></A><A HREF="http://compbio.ornl.gov/public/information/"><IMG SRC="http://compbio.ornl.gov/public/images/blueinformationresourcesoff.gif" WIDTH="180" HEIGHT="18" BORDER="0" ALT="Information Resources" BORDER="0"></A><A HREF="http://compbio.ornl.gov/public/research/"><IMG SRC="http://compbio.ornl.gov/public/images/blueprojectsandresearchoff.gif" WIDTH="165" HEIGHT="18" BORDER="0" ALT="Projects and Research"></A></TD></TR>
+<TR ALIGN="CENTER" VALIGN="BOTTOM"><TD><TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="100%"><TR ALIGN="CENTER" VALIGN="BOTTOM" BGCOLOR="0000FF">
+<!--- toolbar graphics pieces --->
+<TD><IMG SRC="http://homer.ornl.gov/compbio/public/images/bluespacer.gif" WIDTH="23" HEIGHT="19" ALT="[space]"></TD>
+<TD><A HREF="http://compbio.ornl.gov/channel/"><IMG SRC="http://compbio.ornl.gov/public/images/bluechannelpiece.gif" WIDTH="51" HEIGHT="19" BORDER="0" ALT="Gene Channel"></A></TD>
+<TD><IMG SRC="http://compbio.ornl.gov/public/images/bluedot.gif" WIDTH="17" HEIGHT="19" ALT="•"></TD>
+<TD><A HREF="http://compbio.ornl.gov/generation/"><IMG SRC="http://compbio.ornl.gov/public/images/bluegenerationpiece.gif" WIDTH="71" HEIGHT="19" BORDER="0" ALT="Generation Microbial Gene Prediction System"></A></TD>
+<TD><IMG SRC="http://compbio.ornl.gov/public/images/bluedot.gif" WIDTH="17" HEIGHT="19" ALT="•"></TD>
+<TD><A HREF="http://compbio.ornl.gov/Grail-1.3/"><IMG SRC="http://compbio.ornl.gov/public/images/bluegrailpiece.gif" WIDTH="30" HEIGHT="19" BORDER="0" ALT="Grail (Microbial Gene Prediction System Internet Link)"></A></TD>
+<TD><IMG SRC="http://compbio.ornl.gov/public/images/bluedot.gif" WIDTH="17" HEIGHT="19" ALT="•"></TD>
+<TD><A HREF="http://grail.lsd.ornl.gov/grailexp/"><IMG SRC="http://compbio.ornl.gov/public/images/bluegrailexppiece.gif" WIDTH="56" HEIGHT="19" BORDER="0" ALT="GrailEXP"></A></TD>
+<TD><IMG SRC="http://compbio.ornl.gov/public/images/bluedot.gif" WIDTH="17" HEIGHT="19" ALT="•"></TD>
+<TD><A HREF="http://compbio.ornl.gov/tools/pipeline/"><IMG SRC="http://compbio.ornl.gov/public/images/bluepipelinepiece.gif" WIDTH="51" HEIGHT="19" BORDER="0" ALT="Genome Analysis Pipeline"></A></TD>
+<TD><IMG SRC="http://compbio.ornl.gov/public/images/bluedot.gif" WIDTH="17" HEIGHT="19" ALT="•"></TD>
+<TD><A HREF="http://compbio.ornl.gov/structure/domainparser/"><IMG SRC="http://compbio.ornl.gov/public/images/blueparserpiece.gif" WIDTH="43" HEIGHT="19" BORDER="0" ALT="DomainParser"></A></TD>
+<TD><IMG SRC="http://compbio.ornl.gov/public/images/bluedot.gif" WIDTH="17" HEIGHT="19" ALT="•"></TD>
+<TD><A HREF="http://compbio.ornl.gov/structure/prospect/"><IMG SRC="http://compbio.ornl.gov/public/images/blueprospectpiece.gif" WIDTH="71" HEIGHT="19" BORDER="0" ALT="PROSPECT (PROtein Structure Prediction and Evaluation Computer Toolkit)"></A></TD>
+<TD><IMG SRC="http://compbio.ornl.gov/public/images/bluespacer.gif" WIDTH="23" HEIGHT="19" ALT="[space]"></TD>
+<!--- end of toolbar graphics pieces --->
+</TR></TABLE></TD></TR>
+<TR ALIGN="LEFT" VALIGN="TOP"><TD><IMG SRC="http://compbio.ornl.gov/public/images/bottomline.gif" WIDTH="100%" HEIGHT="10" ALT="-"></TD></TR>
+<TR ALIGN="LEFT" VALIGN="TOP"><TD>
+<!--- End of Header --->
+
+  <h1>Genome Analysis Pipeline</h1>          
+        <p><b>Description:</b>The Genome Analysis Pipeline web interfaces provide a
+convenient way for users to submit their sequence for comprehensive analysis. The latest
+version (Pipeline III) supports the analysis of DNA sequences of human, mouse and most
+finished microbial organisms.
+	</p>
+        <p><b>Pipeline Versions:</b></p>
+          
+        <ul>
+          <li>Pipeline III - Universal Pipeline
+		<ul>
+		<li>
+		<a href="http://compbio.ornl.gov/GP3/euk.html">Eukaryotic Organisms (Human and Mouse)</a>
+		<li>
+		<a href="http://compbio.ornl.gov/GP3/yeast.html">Eukaryotic Organisms (Yeast)</a>
+		<li>
+		<a href="http://compbio.ornl.gov/GP3/pro.html">Prokaryotic Organisms</a>
+		</ul>
+		<br>
+          </li>
+		<p>
+          <li><a href="http://compbio.ornl.gov/GP2/">Pipeline II - Draft and Finished Sequences</a>&nbsp;&nbsp;(Human)</li>
+		<p>
+          <li><a href="http://compbio.ornl.gov/GP/">Pipeline I - Finished Sequences
+            </a>&nbsp;&nbsp;(Human)</li>
+        </ul>
+        <p><b>Contact:</b> We welcome your <a href="http://homer.ornl.gov/compbio/feedback.cfm"> 
+          feedback</a>, comments and suggestions for improvement.
+        <p><a href="http://compbio.ornl.gov/tools/pipeline/credit.html"><b>Credit:</b></a>&nbsp;&nbsp;Developers, Sponsors, Acknowledgements
+              
+<!--- Begin Footer --->
+</TD></TR>
+<TR><TD ALIGN="LEFT" VALIGN="TOP" COLSPAN="2"><IMG SRC="http://compbio.ornl.gov/public/images/topline.gif" WIDTH="100%" HEIGHT="20" ALT="-"></TD></TR>
+<TR><TD ALIGN="CENTER" VALIGN="TOP" COLSPAN="2"><I><A HREF="http://compbio.ornl.gov/public/sitemap.html">Site Map</A></I>&nbsp;&nbsp;•&nbsp;&nbsp;<I><A HREF="http://homer.ornl.gov/compbio/feedback.cfm">Feedback</A></I>&nbsp;&nbsp;•&nbsp;&nbsp;<I><A HREF="http://bio.lsd.ornl.gov/">Life Sciences Division</A></I>&nbsp;&nbsp;•&nbsp;&nbsp;<I><A HREF="http://www.ornl.gov/">ORNL</A></I>&nbsp;&nbsp;•&nbsp;&nbsp;<I><A HREF="http://www.ornl.gov/ornlhome/disclaimers.htm">Disclaimer</A></I>&nbsp;&nbsp;•&nbsp;&nbsp;<I><A HREF="mailto:x9m@ornl.gov">Webmaster</A></I></TD></TR>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

@@ -1,0 +1,792 @@
+              	                        	
+PROGRAM NEWPTR	                        	                                                              PAGE     1
+              	                      AD	  G-FILE: ../md.gfile
+              	                        	
+		
+   PROJECT ID 	   D RES   H RES  LENGTH	 FROM STATION NAME        PID   SSN  TO STATION NAME          PID   SSN
+		
+       GPS152 	   0.010   0.001   21742	 CHELTENHAM 2            HV0819 0001 KENLON                  HV4976 0003
+       GPS152 	   0.183  -0.253   17000	 PORT                    HV8280 0004 BRIARWOOD               HV8278 0002
+       GPS152 	   0.251  -0.227   14652	 PORT                    HV8280 0004 KENLON                  HV4976 0003
+       GPS152 	   0.257  -0.207    8718	 MATTA                   HV8279 0005 KENLON                  HV4976 0003
+       GPS184 	   0.023  -0.074    9040	 GPS LR 9                JV6457 0040 ARMISTEAD RM 2          JV0957 0033
+       GPS184 	   0.028   0.078    3635	 GPS LR 6                JV6456 0042 GPS LR 9                JV6457 0040
+       GPS184 	   0.044   0.086   43777	 FOSTER                  JV6109 0031 ARMISTEAD RM 2          JV0957 0033
+       GPS184 	   0.072   0.057    9040	 GPS LR 9                JV6457 0040 ARMISTEAD RM 2          JV0957 0033
+       GPS184 	   0.076  -0.029   21951	 FINLAY 3                JV5441 0032 ARMISTEAD RM 2          JV0957 0033
+       GPS184 	   0.085  -0.055   17110	 FOSTER                  JV6109 0031 GPS LR 23               JV6453 0037
+       GPS184 	   0.131  -0.049   13292	 GPS LR 3                JV6455 0041 J 136                   JV3822 0034
+       GPS184 	   0.167  -0.181   19032	 FINLAY 3                JV5441 0032 GPS LR 10               JV6451 0039
+       GPS184 	   0.205  -0.224   13292	 GPS LR 3                JV6455 0041 J 136                   JV3822 0034
+       GPS184 	   0.237  -0.283   15163	 GPS LR 6                JV6456 0042 J 136                   JV3822 0034
+       GPS184 	   0.337   0.189   38050	 FINLAY 3                JV5441 0032 J 136                   JV3822 0034
+       GPS184 	   0.384   0.362   56419	 FOSTER                  JV6109 0031 J 136                   JV3822 0034
+       GPS195 	   0.040  -0.002    1103	 GODDING RESET           HV2352 0029 RAMADA                  HV8812 0030
+       GPS195 	   0.299  -0.222    4901	 RAMADA                  HV8812 0030 GIANT                   HV8810 0028
+       GPS195 	   0.302   0.226   18731	 SCHWIEN 2 RM 4          HV7396 0027 RAMADA                  HV8812 0030
+       GPS246 	   0.005   0.007    4787	 116 SKS AZ MK           JV6321 0292 CARROLL                 JV6285 0207
+       GPS246 	   0.005   0.015    3876	 FOREST AZ MK            JV6757 0272 RIVERSIDE               JV6837 0144
+       GPS246 	   0.006   0.016    4188	 STREET                  JV6858 0225 FIVE FORKS              JV6264 0227
+       GPS246 	   0.006  -0.021    2207	 INTERSTATE              JV6780 0147 LAUREL AZ MK            JV6795 0288
+       GPS246 	   0.006  -0.065   20100	 TT7/21                  JV0468 0153 STREET                  JV6858 0225
+       GPS246 	   0.006  -0.066   20027	 TT7/21                  JV0468 0153 STREET AZ MK            JV6859 0368
+       GPS246 	   0.007   0.107    4930	 AMOSS AZ MK             JV6303 0351 EDEN                    JV6745 0242
+       GPS246 	   0.008   0.014    4992	 BUS 2                   JV0409 0125 MCCOMAS                 JV6805 0134
+       GPS246 	   0.008  -0.023    5941	 CAREA                   JV6727 0264 JERRY                   JV6784 0257
+       GPS246 	   0.008  -0.067    7766	 SMITH                   JV6854 0200 MACTON                  JV6798 0204
+       GPS246 	   0.009  -0.005    3948	 EDEN                    JV6745 0242 NELSON                  JV6813 0252
+       GPS246 	   0.009  -0.033    6589	 ONION                   JV6819 0241 JERRY                   JV6784 0257
+       GPS246 	   0.009  -0.079   14709	 ALDINO RM 3             JV6710 0124 LOCUST 3                JV4868 0123
+       GPS246 	   0.012  -0.005    2491	 GREEN SPRING            JV6766 0198 AIRPORT                 JV6708 0172
+       GPS246 	   0.012  -0.005    3563	 SMITH                   JV6854 0200 WINGO                   JV6356 0196
+       GPS246 	   0.013   0.016    7026	 DELP AZ MK              JV6738 0370 HEAP AZ MK              JV6771 0369
+       GPS246 	   0.013   0.026    1832	 CONSTANT AZ MK          JV6308 0286 SINGER                  JV6352 0154
+       GPS246 	   0.013   1.563     579	 NORTHBEND               JV6815 0237 NORTHBEND AZ MK         JV6816 0335
+       GPS246 	   0.013  -0.012     578	 JERRY AZ MK             JV6785 0352 JERRY                   JV6784 0257
+       GPS246 	   0.013  -0.016    4367	 GIBSON AZ MK            JV6338 0373 PYLE AZ MK              JV6832 0338
+       GPS246 	   0.013  -0.030    3356	 SUPERIOR AZ MK          JV6330 0300 LEVEL                   JV6273 0194
+       GPS246 	   0.014   0.006    6713	 UREY                    JV6270 0259 ALMONY                  JV6098 0115
+       GPS246 	   0.014  -0.015    5275	 ATKISSON                JV6714 0152 RECKFORD                JV6833 0150
+       GPS246 	   0.014  -0.062    2979	 ROBINSON                JV6841 0202 MACTON                  JV6798 0204
+       GPS246 	   0.015   0.004    5418	 COEN                    JV6297 0228 FIVE FORKS              JV6264 0227
+       GPS246 	   0.015   0.018    2363	 STREET                  JV6858 0225 COEN                    JV6297 0228
+       GPS246 	   0.015   0.037    5681	 AYERS                   JV6716 0256 TROYER                  JV6867 0255
+       GPS246 	   0.015   0.054    1882	 FOXBOROUGH AZ MK        JV6759 0169 FAIRWAY                 JV6750 0157
+       GPS246 	   0.015   0.174     950	 LONG BAR                JV6796 0137 LONG BAR AZ MK          JV6797 0269
+       GPS246 	   0.016   0.024    4612	 NELSON                  JV6813 0252 SCHUSTER                JV6849 0253
+       GPS246 	   0.016  -0.042    2511	 LONG BAR                JV6796 0137 BELCAMP                 JV6718 0143
+       GPS246 	   0.017  -0.020    3875	 RUMSEY                  JV6845 0129 KENNEDY                 JV6788 0128
+       GPS246 	   0.017  -0.050    4591	 LONG BAR                JV6796 0137 VISITOR                 JV6874 0145
+       GPS246 	   0.017  -0.059    4048	 SINGER                  JV6352 0154 OLD POST                JV6275 0136
+       GPS246 	   0.017  -0.095    1822	 RUMSEY                  JV6845 0129 JOPPATOWN               JV6786 0127
+       GPS246 	   0.018   0.029    8010	 JERRY                   JV6784 0257 STANSBURY               JV6298 0226
+       GPS246 	   0.018  -0.092    2273	 RUMSEY AZ MK            JV6846 0277 JOPPATOWN               JV6786 0127
+       GPS246 	   0.019   0.092     485	 JOPPATOWN               JV6786 0127 JOPPATOWN AZ MK         JV6787 0276
+       GPS246 	   0.021   0.019    5688	 ONION                   JV6819 0241 EDEN                    JV6745 0242
+       GPS246 	   0.022   0.056    6267	 JERRY                   JV6784 0257 OLD YORK                JV6490 0258
+       GPS246 	   0.022   0.096    2418	 CHURCHVILLE             JV4826 0126 MOXLEY                  JV6287 0170
+       GPS246 	   0.023  -0.026     442	 DEERFIELD               JV6735 0132 DEERFIELD AZ MK         JV6736 0268
+       GPS246 	   0.023  -0.065   10586	 MILL RM 1               JV6906 0119 CHURCHVILLE             JV4826 0126
+       GPS246 	   0.023  -0.069    7906	 STAFFORD                JV6856 0193 MT PLEASANT             JV6811 0190
+       GPS246 	   0.026  -0.003    2363	 COEN                    JV6297 0228 STREET                  JV6858 0225
+       GPS246 	   0.027  -0.071    3797	 CASTLETON               JV6345 0197 HUGHES AZ MK            JV6344 0357
+       GPS246 	   0.027  -0.136   24312	 BUS 2                   JV0409 0125 LOCUST 3                JV4868 0123
+       GPS246 	   0.028   0.001    2698	 SUDATH                  JV6860 0238 GRIER AZ MK             JV6336 0332
+       GPS246 	   0.028  -0.003    5150	 GLENVILLE               JV6762 0199 HUGHES                  JV6343 0201
+       GPS246 	   0.029   0.048    2770	 GREEN SPRING            JV6766 0198 GLENVILLE               JV6762 0199
+       GPS246 	   0.029   0.066    1891	 CHURCHVILLE             JV4826 0126 TABERNACLE              JV6289 0173
+       GPS246 	   0.029   0.073    7687	 JERRY                   JV6784 0257 TROYER                  JV6867 0255
+       GPS246 	   0.030   0.005    9817	 DIXON                   JV6739 0222 WINGO                   JV6356 0196
+       GPS246 	   0.030  -0.004    3190	 DULANEY                 JV6743 0235 SEITER                  JV6851 0251
+       GPS246 	   0.030  -0.013    5454	 ALIBONE                 JV6341 0181 COOL BRANCH             JV6288 0176
+       GPS246 	   0.031  -0.007    3819	 RIGDON                  JV6835 0239 PARKWOOD                JV6824 0250
+       GPS246 	   0.032   0.133    5525	 CHURCHVILLE             JV4826 0126 ALDINO RM 3             JV6710 0124
+       GPS246 	   0.032  -0.045    8661	 DIXON                   JV6739 0222 DAWSON RM 4             JV6734 0118
+       GPS246 	   0.035   0.002    7294	 DIXON                   JV6739 0222 SMITH                   JV6854 0200
+       GPS246 	   0.036   0.089   16219	 MILL RM 1               JV6906 0119 SCARFF                  JV4830 0117
+       GPS246 	   0.037   0.037     373	 BONAIRE                 JV6719 0240 BONAIRE AZ MK           JV6720 0312
+       GPS246 	   0.039  -0.001    4276	 DULANEY                 JV6743 0235 PARKWOOD                JV6824 0250
+       GPS246 	   0.040   0.031    6614	 DAWSON RM 4             JV6734 0118 SMITH                   JV6854 0200
+       GPS246 	   0.041  -0.213   30573	 JOPPATOWN AZ MK         JV6787 0276 WINGO AZ MK             JV6877 0374
+       GPS246 	   0.044   0.007    3287	 ROCK RUN                JV6843 0191 GREEN SPRING            JV6766 0198
+       GPS246 	   0.045  -0.078    7018	 CHECKER                 JV0132 0121 CHURCHVILLE             JV4826 0126
+       GPS246 	   0.046  -0.073    8889	 ATKISSON AZ MK          JV6715 0284 RIVERSIDE               JV6837 0144
+       GPS246 	   0.048  -0.021    6807	 BONAIRE AZ MK           JV6720 0312 FEDERAL                 JV6754 0234
+       GPS246 	   0.051  -0.053    6444	 SMITH                   JV6854 0200 GLENVILLE               JV6762 0199
+       GPS246 	   0.051  -0.069    9258	 ATKISSON AZ MK          JV6715 0284 RIVERSIDE AZ MK         JV6838 0321
+       GPS246 	   0.052   0.044   27423	 LOCUST 3                JV4868 0123 DAWSON RM 4             JV6734 0118
+       GPS246 	   0.052   0.182   22571	 DAWSON RM 4             JV6734 0118 ALDINO RM 3             JV6710 0124
+       GPS246 	   0.052  -0.155   16745	 SCARFF                  JV4830 0117 CHURCHVILLE             JV4826 0126
+       GPS246 	   0.053  -0.109   21037	 MADONNA AZIMUTH MARK 2  JV6800 0116 CHURCHVILLE             JV4826 0126
+       GPS246 	   0.054  -0.070    8757	 ATKISSON                JV6714 0152 RIVERSIDE               JV6837 0144
+       GPS246 	   0.054  -0.072    9126	 ATKISSON                JV6714 0152 RIVERSIDE AZ MK         JV6838 0321
+       GPS246 	   0.055   0.004    6249	 BONAIRE                 JV6719 0240 FEDERAL AZ MK           JV6755 0334
+       GPS246 	   0.057   0.027   12205	 BUS 2                   JV0409 0125 SCARFF                  JV4830 0117
+       GPS246 	   0.058   0.007    6469	 BONAIRE                 JV6719 0240 FEDERAL                 JV6754 0234
+       GPS246 	   0.058   0.037   17927	 ALDINO RM 3             JV6710 0124 SCARFF                  JV4830 0117
+       GPS246 	   0.058   0.136   16874	 DAWSON RM 4             JV6734 0118 CHECKER                 JV0132 0121
+       GPS246 	   0.060  -0.045   10254	 SCARFF                  JV4830 0117 MADONNA AZIMUTH MARK 2  JV6800 0116
+       GPS246 	   0.061  -0.029   11833	 MADONNA AZIMUTH MARK 2  JV6800 0116 ALMONY                  JV6098 0115
+       GPS246 	   0.061  -0.066   10254	 SCARFF                  JV4830 0117 MADONNA AZIMUTH MARK 2  JV6800 0116
+       GPS246 	   0.063  -0.030   13669	 FAWN GROVE AZ MK        JV6299 0114 ALMONY                  JV6098 0115
+       GPS246 	   0.066  -0.046   19304	 SCARFF                  JV4830 0117 FAWN GROVE AZ MK        JV6299 0114
+       GPS246 	   0.070  -0.057   14929	 WHITEFORD               JV6875 0120 DAWSON RM 4             JV6734 0118
+       GPS246 	   0.074   0.056    4306	 ROCK RUN                JV6843 0191 GLENVILLE               JV6762 0199
+       GPS246 	   0.075   0.020   18418	 DAWSON RM 4             JV6734 0118 SWAN AZ MK 2            JV6862 0122
+       GPS246 	   0.078   0.054   15662	 DAWSON RM 4             JV6734 0118 MILL RM 1               JV6906 0119
+       GPS246 	   0.079  -0.005   16874	 CHECKER                 JV0132 0121 DAWSON RM 4             JV6734 0118
+       GPS246 	   0.089   0.070    4926	 CASTLETON               JV6345 0197 STAFFORD                JV6856 0193
+       GPS246 	   0.091   0.103    7741	 AIRPORT                 JV6708 0172 PRIESTFORD              JV6339 0179
+       GPS246 	   0.091   0.112    5094	 WINGO                   JV6356 0196 STAFFORD                JV6856 0193
+       GPS246 	   0.108  -0.092   20965	 SCARFF                  JV4830 0117 ALMONY                  JV6098 0115
+       GPS246 	   0.111  -0.080   24971	 FAWN GROVE AZ MK        JV6299 0114 DAWSON RM 4             JV6734 0118
+       GPS246 	   0.256  -0.112    4861	 JERRY                   JV6784 0257 NORTHBEND AZ MK         JV6816 0335
+       GPS246 	   0.304  -0.256    2506	 BELAIR                  JV6281 0209 RING AZ MK              JV6315 0282
+       GPS246 	   0.348   0.134     431	 TT 1/66                 JV6869 0236 TT 1/66 AZ MK           JV6870 0353
+       GPS246 	   0.360   0.403   31905	 JOPPATOWN AZ MK         JV6787 0276 WINGO                   JV6356 0196
+       GPS246 	   0.364  -0.140    5055	 DAWSON RM 4             JV6734 0118 WINGO                   JV6356 0196
+       GPS246 	   0.365   0.254     755	 PRIESTFORD AZ MK        JV6340 0355 PRIESTFORD              JV6339 0179
+       GPS246 	   0.370  -0.137    5551	 FALLSTON AZ MK          JV6325 0320 CROSSROADS              JV6293 0249
+       GPS246 	   0.372  -0.138    5717	 FALLSTON                JV6291 0160 CROSSROADS              JV6293 0249
+       GPS246 	   0.375   0.029     612	 TT7/21                  JV0468 0153 TT 7/21 AZ MK           JV6313 0285
+       GPS246 	   0.383  -0.487   32383	 WINGO                   JV6356 0196 JOPPATOWN               JV6786 0127
+       GPS246 	   0.387   0.133    5089	 JERRY AZ MK             JV6785 0352 NORTHBEND               JV6815 0237
+       GPS246 	   0.395   0.032    2642	 TT7/21                  JV0468 0153 ATKISSON                JV6714 0152
+       GPS246 	   0.486  -0.181    2789	 TT 7/21 AZ MK           JV6313 0285 ATKISSON                JV6714 0152
+       GPS246 	   0.490  -0.105    5643	 RECKFORD                JV6833 0150 BUS 2                   JV0409 0125
+       GPS246 	   0.492  -0.061    2841	 TT7/21                  JV0468 0153 ATKISSON AZ MK          JV6715 0284
+       GPS246 	   0.493   0.174    2602	 PRIESTFORD AZ MK        JV6340 0355 COOL BRANCH             JV6288 0176
+       GPS246 	   0.493   0.176    3348	 PRIESTFORD AZ MK        JV6340 0355 COOL BRANCH AZ MK       JV6323 0354
+       GPS246 	   0.496   0.227    7060	 CASTLETON               JV6345 0197 ROCK RUN                JV6843 0191
+       GPS246 	   0.497   0.214    2989	 CARDIFF AZ MK           JV6726 0343 DOOLEY AZ MK            JV6742 0342
+       GPS246 	   0.512   1.565    3807	 FOREST                  JV6756 0141 RIVERSIDE               JV6837 0144
+       GPS246 	   0.513  -0.128    4586	 MT ZION                 JV6286 0175 MOXLEY                  JV6287 0170
+       GPS246 	   0.520  -0.143    7215	 PYLE                    JV6831 0215 PENNINGTON              JV6826 0177
+       GPS246 	   0.562  -1.462    3200	 EMORY AZ MK             JV6749 0339 ADY AZ MK               JV6707 0340
+       GPS246 	   0.571   0.097    4196	 SUPERIOR                JV6296 0188 LEVEL AZ MK             JV6309 0299
+       GPS246 	   0.572  -0.243    5007	 JERRY AZ MK             JV6785 0352 NORTHBEND AZ MK         JV6816 0335
+       GPS246 	   0.586   0.174    7629	 STREET                  JV6858 0225 GRIER                   JV6335 0229
+       GPS246 	   0.606   0.078    5260	 GLENVILLE               JV6762 0199 AIRPORT                 JV6708 0172
+       GPS246 	   0.613  -0.581    5927	 BUS 2                   JV0409 0125 DEERFIELD               JV6735 0132
+       GPS246 	   0.624   0.018    4196	 GLENVILLE               JV6762 0199 PRIESTFORD              JV6339 0179
+       GPS246 	   0.627   0.347    6781	 FOREST                  JV6756 0141 EAGLE AZ MK             JV6326 0341
+       GPS246 	   0.637   0.321   19177	 POLICE AZ MK            JV6318 0280 HEAP AZ MK              JV6771 0369
+       GPS246 	   0.641   0.328    7214	 FOREST AZ MK            JV6757 0272 EAGLE AZ MK             JV6326 0341
+       GPS246 	   0.675   0.560   19969	 RECKFORD                JV6833 0150 PRIESTFORD              JV6339 0179
+       GPS246 	   0.712   0.088    5260	 AIRPORT                 JV6708 0172 GLENVILLE               JV6762 0199
+       GPS246 	   0.812   0.685    8369	 WINGO                   JV6356 0196 ROCK RUN                JV6843 0191
+       GPS246 	   0.871  -0.206    5526	 PYLE                    JV6831 0215 GIBSON                  JV6337 0180
+       GPS246 	   0.876   0.217     207	 ATKISSON AZ MK          JV6715 0284 ATKISSON                JV6714 0152
+       GPS246 	   0.951  -1.351    4196	 PRIESTFORD              JV6339 0179 GLENVILLE               JV6762 0199
+       GPS246 	   0.956   1.282    5150	 HUGHES                  JV6343 0201 GLENVILLE               JV6762 0199
+       GPS246 	   0.973  -0.122   20430	 RECKFORD AZ MK          JV6834 0375 PRIESTFORD              JV6339 0179
+       GPS246 	   1.169   0.235   19927	 RECKFORD AZ MK          JV6834 0375 PRIESTFORD AZ MK        JV6340 0355
+       GPS246 	   1.170  -0.347    4879	 JERRY                   JV6784 0257 NORTHBEND               JV6815 0237
+       GPS246 	   2.464  -0.893   19472	 RECKFORD                JV6833 0150 PRIESTFORD AZ MK        JV6340 0355
+       GPS246 	   5.481  -4.063    2427	 PENNINGTON AZ MK        JV6827 0293 KNOLLWOOD               JV6789 0178
+       GPS259 	   0.005  -0.020    7213	 OBSERVATORY RM 1        JV4124 0074 19775                   JV6674 0080
+       GPS259 	   0.016   0.022   10104	 BM 4986                 JV6693 0089 BM 4987                 HV8972 0078
+       GPS259 	   0.016  -0.024    4718	 19888                   HV8954 0076 BM 4987                 HV8972 0078
+       GPS259 	   0.018  -0.070    6049	 R 15                    HV1789 0059 19888                   HV8954 0076
+       GPS259 	   0.019   0.068    9277	 BM 4979                 JV6691 0090 19865                   JV6684 0084
+       GPS259 	   0.019  -0.047   10104	 BM 4986                 JV6693 0089 BM 4987                 HV8972 0078
+       GPS259 	   0.023  -0.069    9277	 19865                   JV6684 0084 BM 4979                 JV6691 0090
+       GPS259 	   0.035  -0.063    4079	 19951                   HV8962 0101 19888                   HV8954 0076
+       GPS259 	   0.036   0.031    9465	 19783                   HV8950 0052 19684                   HV8944 0045
+       GPS259 	   0.039   0.006    5838	 19785                   JV6677 0057 R 15                    HV1789 0059
+       GPS259 	   0.040   0.078   15807	 BM 4980                 JV6692 0093 ATHEY                   JV2900 0081
+       GPS259 	   0.041  -0.038    9065	 19786                   HV8951 0051 19783                   HV8950 0052
+       GPS259 	   0.043   0.075    3315	 OBSERVATORY RM 1        JV4124 0074 19778                   JV6676 0083
+       GPS259 	   0.043  -0.025   13596	 SENIOR RESET            JV4039 0071 M 120                   JV0654 0068
+       GPS259 	   0.048   0.018   13354	 SENIOR RESET            JV4039 0071 19794                   JV6678 0067
+       GPS259 	   0.050   0.045    9277	 BM 4979                 JV6691 0090 19865                   JV6684 0084
+       GPS259 	   0.051   0.053    1636	 19795                   HV8952 0060 R 15                    HV1789 0059
+       GPS259 	   0.052  -0.078   15202	 BM 4983                 HV8970 0054 19795                   HV8952 0060
+       GPS259 	   0.055   0.057    5459	 19772                   JV6673 0079 19778                   JV6676 0083
+       GPS259 	   0.055  -0.075    5459	 19778                   JV6676 0083 19772                   JV6673 0079
+       GPS259 	   0.060  -0.063    4337	 19785                   JV6677 0057 19795                   HV8952 0060
+       GPS259 	   0.065   0.035    6070	 19955                   JV6687 0097 ATHEY                   JV2900 0081
+       GPS259 	   0.066   0.050    8236	 ATOMIC 3                JV6550 0092 19778                   JV6676 0083
+       GPS259 	   0.066  -0.098    9277	 19865                   JV6684 0084 BM 4979                 JV6691 0090
+       GPS259 	   0.067   0.073   11968	 BM 4980                 JV6692 0093 PTS 127 USGS            JV2335 0094
+       GPS259 	   0.067  -0.065   12655	 NORTH GEOS PIER         JV5895 0046 19783                   HV8950 0052
+       GPS259 	   0.068  -0.064   15807	 ATHEY                   JV2900 0081 BM 4980                 JV6692 0093
+       GPS259 	   0.073   0.020    6019	 19956                   JV6688 0096 ATHEY                   JV2900 0081
+       GPS259 	   0.076  -0.001    8581	 4978                    JV6690 0066 BM 1871A                JV6689 0070
+       GPS259 	   0.078   0.051   11778	 CLARK                   JV2273 0087 BM 4979                 JV6691 0090
+       GPS259 	   0.078   0.119   13647	 BM 4979                 JV6691 0090 BM 4980                 JV6692 0093
+       GPS259 	   0.080   0.097   11149	 CLARK                   JV2273 0087 19865                   JV6684 0084
+       GPS259 	   0.081  -0.005   15378	 HOPKINS                 JV6018 0069 BM 1871A                JV6689 0070
+       GPS259 	   0.082  -0.040   11012	 BM 4986                 JV6693 0089 PTS 127 USGS            JV2335 0094
+       GPS259 	   0.086   0.019    5872	 19778                   JV6676 0083 ATHEY                   JV2900 0081
+       GPS259 	   0.094  -0.002   12600	 PTS 127 USGS            JV2335 0094 SCHOOL                  JV4456 0095
+       GPS259 	   0.129   0.134    4534	 BM 4984                 HV8971 0047 19520                   HV8943 0048
+       GPS259 	   0.160  -0.081   18963	 BM 4986                 JV6693 0089 SCHOOL                  JV4456 0095
+       GPS259 	   0.352  -0.022    4337	 19785                   JV6677 0057 19795                   HV8952 0060
+       GPS259 	   0.382   0.661   12397	 19520                   HV8943 0048 F 136 RESET             HV8876 0044
+       GPS259 	   0.394  -0.094    3907	 19783                   HV8950 0052 BM 4983                 HV8970 0054
+       GPS259 	   0.734   0.985   15630	 BM 4984                 HV8971 0047 F 136 RESET             HV8876 0044
+       GPS260 	   0.003   0.045   21461	 NORTH GEOS PIER         JV5895 0046 FRIEND                  JV6656 0377
+       GPS260 	   0.003  -0.047  118788	 CUTSHAW                 JV6667 0443 NORTH GEOS PIER         JV5895 0046
+       GPS260 	   0.003  -0.101   23337	 WESTOVER                HU2579 0404 R 180                   HU2269 0405
+       GPS260 	   0.005   0.089   50569	 NORTH GEOS PIER         JV5895 0046 MAYESKI                 JV6661 0449
+       GPS260 	   0.005  -0.087   31273	 MAYESKI                 JV6661 0449 GORF GPS N              JV6895 0454
+       GPS260 	   0.005  -0.099   66571	 VIENNA RESET            HU2604 0406 NORTH BEACH 2           HU1583 0407
+       GPS260 	   0.006  -0.075   33570	 NORTH GEOS PIER         JV5895 0046 TRACY                   HV8933 0399
+       GPS260 	   0.007   0.058  105534	 VIENNA RESET            HU2604 0406 NORTH GEOS PIER         JV5895 0046
+       GPS260 	   0.008  -0.074   33570	 NORTH GEOS PIER         JV5895 0046 TRACY                   HV8933 0399
+       GPS260 	   0.008  -0.078   52398	 DIAMOND                 HV8940 0400 R 180                   HU2269 0405
+       GPS260 	   0.009   0.116   68904	 NORTH GEOS PIER         JV5895 0046 POND                    JV6666 0453
+       GPS260 	   0.009  -0.042   22814	 NORTH GEOS PIER         JV5895 0046 GORF GPS N              JV6895 0454
+       GPS260 	   0.010   0.077  139741	 WESTOVER                HU2579 0404 NORTH GEOS PIER         JV5895 0046
+       GPS260 	   0.010   0.152   46618	 PITTSVILLE EAST BASE    HU1631 0408 GPS S 4                 HU2676 0414
+       GPS260 	   0.010  -0.062   23144	 DIAMOND                 HV8940 0400 NOBLE                   HU2712 0413
+       GPS260 	   0.011   0.029   22814	 NORTH GEOS PIER         JV5895 0046 GORF GPS N              JV6895 0454
+       GPS260 	   0.011   0.067   42123	 NORTH GEOS PIER         JV5895 0046 HERNDON OPTRACK         HV5130 0451
+       GPS260 	   0.011  -0.064   70673	 NORTH GEOS PIER         JV5895 0046 BOGGIE                  HV8939 0391
+       GPS260 	   0.012   0.056   42246	 NORTH GEOS PIER         JV5895 0046 SCHOOL                  JV4456 0095
+       GPS260 	   0.012   0.071   64086	 PATRICK                 JV2391 0448 NORTH GEOS PIER         JV5895 0046
+       GPS260 	   0.012   0.085   33555	 PATRICK                 JV2391 0448 TANEY                   JV6665 0450
+       GPS260 	   0.012   0.095   25372	 KERR                    JV6348 0220 ALMONY                  JV6098 0115
+       GPS260 	   0.012   0.111   50156	 KERR                    JV6348 0220 BEARTOWN 2              KW3023 0384
+       GPS260 	   0.012  -0.007  153812	 MARYLAND PT RM 5        HV8128 0392 NELSONa                 HU0524 0409
+       GPS260 	   0.013   0.027   20411	 NORTH GEOS PIER         JV5895 0046 JET                     HV8868 0394
+       GPS260 	   0.013   0.063   35198	 NORTH GEOS PIER         JV5895 0046 HOBBS                   JV6474 0452
+       GPS260 	   0.013   0.099   28272	 PITTSVILLE EAST BASE    HU1631 0408 GPS S 2                 HU2672 0415
+       GPS260 	   0.013  -0.071   20980	 CECILTON                JU4121 0378 GPS NC 1                JU4136 0388
+       GPS260 	   0.013  -0.083   56433	 NORTH GEOS PIER         JV5895 0046 DARES                   HV8928 0393
+       GPS260 	   0.014  -0.071   39907	 NORTH GEOS PIER         JV5895 0046 SCHWIEN 3               HV8931 0395
+       GPS260 	   0.014  -0.101   68450	 NORTH GEOS PIER         JV5895 0046 DIAMOND                 HV8940 0400
+       GPS260 	   0.015   0.010  132100	 GPS S 3                 HU2674 0418 NORTH GEOS PIER         JV5895 0046
+       GPS260 	   0.015   0.211   38984	 BYPASS                  HU2580 0426 GPS K 1                 JU4134 0429
+       GPS260 	   0.015  -0.063   24486	 VIENNA RESET            HU2604 0406 Z 183                   HU2364 0410
+       GPS260 	   0.015  -0.094   26116	 CUTSHAW                 JV6667 0443 DILLON                  JW1205 0445
+       GPS260 	   0.015  -0.105   46940	 VIENNA RESET            HU2604 0406 PITTSVILLE EAST BASE    HU1631 0408
+       GPS260 	   0.016   0.107  106097	 CLAVER                  HV8867 0396 NORTH GEOS PIER         JV5895 0046
+       GPS260 	   0.016   0.110   36060	 NORTH GEOS PIER         JV5895 0046 SWEENY                  JV6658 0380
+       GPS260 	   0.016   0.122   64086	 NORTH GEOS PIER         JV5895 0046 PATRICK                 JV2391 0448
+       GPS260 	   0.016   0.146   26954	 FIELDS                  HV8927 0397 REFUGE 2                HV8917 0398
+       GPS260 	   0.018   0.019   23886	 GPS NC 2                JU4138 0385 HAR 2                   JU4112 0387
+       GPS260 	   0.018   0.157   21986	 CECILTON                JU4121 0378 LAMBERSON 2             JU3432 0389
+       GPS260 	   0.019   0.072   49094	 CLAVER                  HV8867 0396 CRISFIELD               FW1986 0403
+       GPS260 	   0.020   0.058   71619	 THURMONT                JV6664 0446 DILLON                  JW1205 0445
+       GPS260 	   0.020   0.066   23436	 BYPASS                  HU2580 0426 SLATTS                  HV8935 0428
+       GPS260 	   0.020  -0.043   84197	 THURMONT                JV6664 0446 NORTH GEOS PIER         JV5895 0046
+       GPS260 	   0.021   0.101   47361	 CECILTON                JU4121 0378 GPS K 1                 JU4134 0429
+       GPS260 	   0.021  -0.060   64048	 DIAMOND                 HV8940 0400 CLAVER                  HV8867 0396
+       GPS260 	   0.021  -0.105   56433	 NORTH GEOS PIER         JV5895 0046 DARES                   HV8928 0393
+       GPS260 	   0.024   0.095   74960	 NORTH GEOS PIER         JV5895 0046 ALMONY                  JV6098 0115
+       GPS260 	   0.025   0.023  153812	 MARYLAND PT RM 5        HV8128 0392 NELSONa                 HU0524 0409
+       GPS260 	   0.025   0.107   70673	 BOGGIE                  HV8939 0391 NORTH GEOS PIER         JV5895 0046
+       GPS260 	   0.025   0.147   31959	 GPS NC 2                JU4138 0385 CECILTON                JU4121 0378
+       GPS260 	   0.025  -0.004   47743	 CECILTON                JU4121 0378 GPS K 1 A               JU4135 0431
+       GPS260 	   0.026   0.028   31959	 CECILTON                JU4121 0378 GPS NC 2                JU4138 0385
+       GPS260 	   0.026  -0.084   55832	 CECILTON                JU4121 0378 HAR 2                   JU4112 0387
+       GPS260 	   0.027   0.240   33206	 GPS NC 2                JU4138 0385 LAMBERSON 2             JU3432 0389
+       GPS260 	   0.028  -0.006   20699	 CECILTON                JU4121 0378 GPS NC 1 A              JU4137 0432
+       GPS260 	   0.028  -0.034  153812	 MARYLAND PT RM 5        HV8128 0392 NELSONa                 HU0524 0409
+       GPS260 	   0.029   0.091   60232	 CLAVER                  HV8867 0396 WESTOVER                HU2579 0404
+       GPS260 	   0.031   0.256   21986	 CECILTON                JU4121 0378 LAMBERSON 2             JU3432 0389
+       GPS260 	   0.035  -0.084    9579	 FRIEND                  JV6656 0377 KINDER                  JV6654 0381
+       GPS260 	   0.036   0.073   80017	 NORTH GEOS PIER         JV5895 0046 MARYLAND PT RM 5        HV8128 0392
+       GPS260 	   0.036   0.322  149778	 PITTSVILLE EAST BASE    HU1631 0408 NORTH GEOS PIER         JV5895 0046
+       GPS260 	   0.038  -0.111   26170	 GPS NC 2                JU4138 0385 CECIL                   JU4122 0383
+       GPS260 	   0.040   0.086   30366	 PITTSVILLE EAST BASE    HU1631 0408 GPS S 3                 HU2674 0418
+       GPS260 	   0.040   0.104   71015	 FIELDS                  HV8927 0397 MARYLAND PT RM 5        HV8128 0392
+       GPS260 	   0.040   0.121   20980	 CECILTON                JU4121 0378 GPS NC 1                JU4136 0388
+       GPS260 	   0.041  -0.003   13531	 GPS NC 2                JU4138 0385 GPS NC 3 A              JU4141 0434
+       GPS260 	   0.042   0.025   20411	 NORTH GEOS PIER         JV5895 0046 JET                     HV8868 0394
+       GPS260 	   0.042   0.127   25205	 NORTH BEACH 2           HU1583 0407 PITTSVILLE EAST BASE    HU1631 0408
+       GPS260 	   0.045  -0.080   82147	 NORTH GEOS PIER         JV5895 0046 LEONARDTOWN CBL 0       HV8924 0390
+       GPS260 	   0.046   0.159   21660	 PITTSVILLE EAST BASE    HU1631 0408 GPS S 1                 HU2670 0419
+       GPS260 	   0.051   0.057   20980	 CECILTON                JU4121 0378 GPS NC 1                JU4136 0388
+       GPS260 	   0.051   0.067   70216	 NORTH GEOS PIER         JV5895 0046 EASTPORT 2              HV8268 0402
+       GPS260 	   0.052  -0.072   16364	 DIAMOND                 HV8940 0400 EASTPORT 2              HV8268 0402
+       GPS260 	   0.052  -0.112   26659	 DIAMOND                 HV8940 0400 REFUGE 2                HV8917 0398
+       GPS260 	   0.054   0.021   22792	 NORTH GEOS PIER         JV5895 0046 KINDER                  JV6654 0381
+       GPS260 	   0.054   0.197   36293	 BYPASS                  HU2580 0426 GPS S 6                 HU2680 0422
+       GPS260 	   0.055   0.003   28765	 CECILTON                JU4121 0378 BARCLAY RESET           JU3483 0427
+       GPS260 	   0.055  -0.034   36845	 FIELDS                  HV8927 0397 BOGGIE                  HV8939 0391
+       GPS260 	   0.057  -0.097   28408	 BOGGIE                  HV8939 0391 DARES                   HV8928 0393
+       GPS260 	   0.062  -0.145   86946	 KERR                    JV6348 0220 NORTH GEOS PIER         JV5895 0046
+       GPS260 	   0.065   0.030   27669	 BYPASS                  HU2580 0426 BARCLAY RESET           JU3483 0427
+       GPS260 	   0.067   0.075   41828	 CLAVER                  HV8867 0396 REFUGE 2                HV8917 0398
+       GPS260 	   0.071   0.115   26947	 BOGGIE                  HV8939 0391 LEONARDTOWN CBL 0       HV8924 0390
+       GPS260 	   0.072   0.004   23234	 FIELDS                  HV8927 0397 DARES                   HV8928 0393
+       GPS260 	   0.075   0.219   61093	 BYPASS                  HU2580 0426 GPS S 5                 HU2678 0421
+       GPS260 	   0.084  -0.090   35771	 CECILTON                JU4121 0378 CALVARY                 JV6272 0148
+       GPS260 	   0.085   0.142   40517	 WILMER                  JV6655 0379 BYPASS                  HU2580 0426
+       GPS260 	   0.106   0.146   36845	 BOGGIE                  HV8939 0391 FIELDS                  HV8927 0397
+       GPS393 	   0.004  -0.201    5780	 HOPKINS                 JV6018 0069 HALL 2                  JV7039 0510
+       GPS393 	   0.007  -0.087    6338	 U 25                    JV0907 0506 23 41 002               JV7026 0508
+       GPS393 	   0.013   0.052    4100	 26 37 004               JV7028 0511 26 39 001               JV7029 0509
+       GPS393 	   0.014   0.065    5467	 SENIOR RESET            JV4039 0071 30 40 003 RESET         JV7031 0516
+       GPS393 	   0.016  -0.058    4355	 Y 125                   JV0643 0505 17 42 015               JV7022 0507
+       GPS393 	   0.019   0.056    6685	 Y 125                   JV0643 0505 U 25                    JV0907 0506
+       GPS393 	   0.022   0.031    5762	 STAN                    JV7045 0539 26 37 004               JV7028 0511
+       GPS393 	   0.024   0.075    5895	 23 41 002               JV7026 0508 SENIOR RESET            JV4039 0071
+       GPS393 	   0.029   0.061    6874	 17 42 015               JV7022 0507 23 41 002               JV7026 0508
+       GPS432 	   0.003   0.023     387	 NBS 3                   JV6440 0552 KIN A                   JV6385 0545
+       GPS432 	   0.003   0.031     382	 NBS 3                   JV6440 0552 KIN E                   JV6386 0546
+       GPS432 	   0.003   0.035     387	 NBS 3                   JV6440 0552 KIN A                   JV6385 0545
+       GPS432 	   0.003  -0.020    1327	 OBSERVATORY RM 1        JV4124 0074 NBS 4 2                 JV6911 0555
+       GPS432 	   0.003  -0.027     195	 NBS 5                   JV6439 0540 KIN A                   JV6385 0545
+       GPS432 	   0.004   0.066   35659	 NBS 5                   JV6439 0540 NORTH GEOS PIER         JV5895 0046
+       GPS432 	   0.004  -0.024     387	 NBS 3                   JV6440 0552 KIN A                   JV6385 0545
+       GPS432 	   0.004  -0.027     387	 NBS 3                   JV6440 0552 KIN A                   JV6385 0545
+       GPS432 	   0.005   0.029     399	 NBS 3                   JV6440 0552 KIN F                   JV6387 0548
+       GPS432 	   0.005  -0.028     161	 NBS 5                   JV6439 0540 KIN D                   JV6382 0542
+       GPS432 	   0.007   0.024     143	 NBS 5                   JV6439 0540 KIN E                   JV6386 0546
+       GPS432 	   0.007   0.032     496	 NBS 3                   JV6440 0552 KIN C                   JV6383 0543
+       GPS432 	   0.007  -0.025     555	 NBS 3                   JV6440 0552 KIN D                   JV6382 0542
+       GPS432 	   0.007  -0.028     655	 NBS 5                   JV6439 0540 NBS 2                   JV6441 0554
+       GPS432 	   0.007  -0.031     195	 NBS 5                   JV6439 0540 KIN A                   JV6385 0545
+       GPS432 	   0.008   0.025     399	 NBS 3                   JV6440 0552 KIN F                   JV6387 0548
+       GPS432 	   0.008   0.030     195	 NBS 5                   JV6439 0540 KIN A                   JV6385 0545
+       GPS432 	   0.008   0.036     161	 NBS 5                   JV6439 0540 KIN D                   JV6382 0542
+       GPS432 	   0.009   0.003     422	 NBS 5                   JV6439 0540 NBS 101                 JV2195 0550
+       GPS432 	   0.010   0.028     422	 NBS 5                   JV6439 0540 NBS 101                 JV2195 0550
+       GPS432 	   0.010   0.032     159	 NBS 5                   JV6439 0540 KIN C                   JV6383 0543
+       GPS432 	   0.010  -0.029     399	 NBS 3                   JV6440 0552 KIN F                   JV6387 0548
+       GPS432 	   0.010  -0.036     422	 NBS 5                   JV6439 0540 NBS 101                 JV2195 0550
+       GPS432 	   0.013  -0.026     555	 NBS 3                   JV6440 0552 KIN D                   JV6382 0542
+       GPS432 	   0.015   0.025     161	 NBS 5                   JV6439 0540 KIN D                   JV6382 0542
+       GPS432 	   0.017   0.006   42123	 HERNDON OPTRACK         HV5130 0451 NORTH GEOS PIER         JV5895 0046
+       GPS432 	   0.017   0.038   35204	 NBS 3                   JV6440 0552 NORTH GEOS PIER         JV5895 0046
+       GPS432 	   0.017  -0.030     192	 NBS 5                   JV6439 0540 CENTER A                JV6393 0547
+       GPS432 	   0.023   0.056   17133	 NBS 5                   JV6439 0540 HERNDON OPTRACK         HV5130 0451
+       GPS432 	   0.023  -0.028    1410	 OBSERVATORY RM 1        JV4124 0074 CENTER A                JV6393 0547
+       GPS432 	   0.024   0.049   35659	 NBS 5                   JV6439 0540 NORTH GEOS PIER         JV5895 0046
+       GPS432 	   0.027   0.038   35659	 NBS 5                   JV6439 0540 NORTH GEOS PIER         JV5895 0046
+       GPS432 	   0.027  -0.074   19617	 HERNDON OPTRACK         HV5130 0451 SCHOOL                  JV4456 0095
+       GPS432 	   0.031  -0.101   42246	 NORTH GEOS PIER         JV5895 0046 SCHOOL                  JV4456 0095
+       GPS432 	   0.033  -0.005     422	 NBS 5                   JV6439 0540 NBS 101                 JV2195 0550
+       GPS432 	   0.036   0.149   84016	 NBS 5                   JV6439 0540 MARYLAND PT RM 5        HV8128 0392
+       GPS432 	   0.039  -0.101   80017	 MARYLAND PT RM 5        HV8128 0392 NORTH GEOS PIER         JV5895 0046
+       GPS432 	   0.041  -0.014   17133	 NBS 5                   JV6439 0540 HERNDON OPTRACK         HV5130 0451
+       GPS432 	   0.042   0.044   19617	 HERNDON OPTRACK         HV5130 0451 SCHOOL                  JV4456 0095
+       GPS432 	   0.042   0.064   12083	 HERNDON OPTRACK         HV5130 0451 ATHEY                   JV2900 0081
+       GPS432 	   0.044   0.026  102588	 ASTRO WEST PIER         HV3124 0479 NORTH GEOS PIER         JV5895 0046
+       GPS432 	   0.045  -0.033   17462	 NBS 3                   JV6440 0552 HERNDON OPTRACK         HV5130 0451
+       GPS432 	   0.046   0.043  107817	 ASTRO WEST PIER         HV3124 0479 SCHOOL                  JV4456 0095
+       GPS432 	   0.047   0.010     159	 NBS 5                   JV6439 0540 KIN C                   JV6383 0543
+       GPS432 	   0.051   0.108   22713	 ASTRO WEST PIER         HV3124 0479 MARYLAND PT RM 5        HV8128 0392
+       GPS432 	   0.053  -0.043     422	 NBS 5                   JV6439 0540 NBS 101                 JV2195 0550
+       GPS432 	   0.054   0.107   18481	 HERNDON OPTRACK         HV5130 0451 OBSERVATORY RM 1        JV4124 0074
+       GPS432 	   0.057   0.010   42123	 HERNDON OPTRACK         HV5130 0451 NORTH GEOS PIER         JV5895 0046
+       GPS432 	   0.057  -0.086  103940	 NBS 5                   JV6439 0540 ASTRO WEST PIER         HV3124 0479
+       GPS432 	   0.061  -0.098   41005	 ATHEY                   JV2900 0081 NORTH GEOS PIER         JV5895 0046
+       GPS432 	   0.063   0.021   69463	 HERNDON OPTRACK         HV5130 0451 MARYLAND PT RM 5        HV8128 0392
+       GPS432 	   0.063   0.144  102588	 ASTRO WEST PIER         HV3124 0479 NORTH GEOS PIER         JV5895 0046
+       GPS432 	   0.073   0.084   84016	 NBS 5                   JV6439 0540 MARYLAND PT RM 5        HV8128 0392
+       GPS432 	   0.076   0.021   80017	 NORTH GEOS PIER         JV5895 0046 MARYLAND PT RM 5        HV8128 0392
+       GPS432 	   0.078  -0.137   88280	 HERNDON OPTRACK         HV5130 0451 ASTRO WEST PIER         HV3124 0479
+       GPS432 	   0.080   0.112   88556	 SCHOOL                  JV4456 0095 MARYLAND PT RM 5        HV8128 0392
+       GPS432 	   0.107  -0.126     140	 NBS 5                   JV6439 0540 KIN F                   JV6387 0548
+       GPS432 	   0.111  -0.133     399	 NBS 3                   JV6440 0552 KIN F                   JV6387 0548
+       GPS432 	   0.131   0.143   22713	 ASTRO WEST PIER         HV3124 0479 MARYLAND PT RM 5        HV8128 0392
+       GPS456 	   0.006  -0.011    5040	 GODDING RESET           HV2352 0029 AP 1972 STA B3 DCA      HV9272 0499
+       GPS456 	   0.014   0.059   11835	 AP 1961 STA A2 DCA      HV9271 0498 19888                   HV8954 0076
+       GPS456 	   0.022   0.009    5040	 AP 1972 STA B3 DCA      HV9272 0499 GODDING RESET           HV2352 0029
+       GPS456 	   0.025   0.004    5040	 GODDING RESET           HV2352 0029 AP 1972 STA B3 DCA      HV9272 0499
+       GPS456 	   0.030  -0.032   11835	 19888                   HV8954 0076 AP 1961 STA A2 DCA      HV9271 0498
+       GPS456 	   0.040   0.069   11466	 AP 1961 STA A2 DCA      HV9271 0498 HAMPSHIRE GPS E20       HV8288 0011
+       GPS456 	   0.051   0.017    6953	 GODDING RESET           HV2352 0029 AP 1961 STA A2 DCA      HV9271 0498
+       GPS456 	   0.054   0.033    6951	 HAMPSHIRE GPS E20       HV8288 0011 19888                   HV8954 0076
+       GPS456 	   0.070  -0.109    6951	 HAMPSHIRE GPS E20       HV8288 0011 19888                   HV8954 0076
+       GPS456 	   0.079   0.115   17609	 GODDING RESET           HV2352 0029 HAMPSHIRE GPS E20       HV8288 0011
+       GPS456 	   0.137   0.029   17609	 GODDING RESET           HV2352 0029 HAMPSHIRE GPS E20       HV8288 0011
+       GPS478 	   0.069  -0.004    3899	 WILEY FORD              JW1509 0571 CONSTITUTION            JW1492 0567
+       GPS478 	   0.125   0.004   14749	 HOWSARE                 JW1569 0441 CBE A                   JW1599 0568
+       GPS479 	   0.005  -0.065    3888	 GPS LR 6                JV6456 0042 BWI C                   JV7019 0495
+       GPS479 	   0.009  -0.055    2961	 FRIEND                  JV6656 0377 BWI AP STA B            JV5818 0496
+       GPS479 	   0.013  -0.069    1762	 GPS LR 3                JV6455 0041 BWI C                   JV7019 0495
+       GPS479 	   0.024   0.040    2384	 GPS LR 3                JV6455 0041 GPS LR 6                JV6456 0042
+       GPS489 	   0.179   0.122   38199	 Z 183                   HU2364 0410 GPS S 3                 HU2674 0418
+       GPS489 	   0.195   0.035   38199	 Z 183                   HU2364 0410 GPS S 3                 HU2674 0418
+       GPS489 	   0.220   0.046   29840	 PITTSVILLE W BASE RESET HU1688 0491 GPS S 3                 HU2674 0418
+       GPS498 	   0.056   0.111    9917	 SPRECHER RESET          JV3554 0564 HGR CTRL POINT D        JV7052 0563
+       GPS580 	   0.031   0.082    7271	 SMC 052                 HV9778 0637 SMC 059                 HV9785 0692
+       GPS580 	   0.042   0.088    8377	 SMC 115                 HV9723 0623 SMC 041                 HV9766 0618
+       GPS580 	   0.089   0.047    1195	 SMC 087                 HV9816 0676 SMC 086                 HV9815 0677
+       GPS580 	   0.115  -0.001    5513	 SMC 101                 HV9708 0656 SMC 062                 HV9789 0645
+       GPS580 	   0.120   0.144    9723	 SMC 040                 HV9765 0597 SMC 038                 HV9762 0616
+       GPS580 	   0.141   0.066   11353	 SMC 116                 HV9724 0622 SMC 016                 HV9738 0588
+       GPS580 	   0.154   0.104    6220	 SMC 065                 HV9792 0691 SMC 067                 HV9794 0690
+       GPS580 	   0.167  -0.070   16764	 SMC 103                 HV9710 0655 FIELDS                  HV8927 0397
+       GPS580 	   0.194  -0.187    1934	 SMC 083                 HV9812 0701 SMC 086                 HV9815 0677
+       GPS580 	   0.198  -0.007    2612	 SMC 034                 HV9758 0613 SMC 033                 HV9757 0598
+       GPS580 	   0.201  -0.023    3883	 SMC 035                 HV9759 0611 SMC 033                 HV9757 0598
+       GPS580 	   0.222   0.024    8863	 SMC 094                 HV9824 0661 SMC 080                 HV9809 0662
+       GPS580 	   0.237  -0.072    9580	 MAI                     HV9704 0621 SMC 016                 HV9738 0588
+       GPS580 	   0.237  -0.072   10277	 SMC 052                 HV9778 0637 SMC 067                 HV9794 0690
+       GPS580 	   0.287   0.054    2006	 SMC 040                 HV9765 0597 SMC 033                 HV9757 0598
+       GPS580 	   0.293   0.082    7351	 SMC 037                 HV9761 0612 SMC 033                 HV9757 0598
+       GPS580 	   0.336   0.012   13339	 SMC 122                 HV9731 0674 SMC 117                 HV9725 0681
+       GPS580 	   0.359  -0.036    6916	 SMC 022                 HV9745 0592 SMC 033                 HV9757 0598
+       GPS580 	   0.366  -0.545    1585	 SMC 004                 HV9764 0575 SMC 003                 HV9753 0574
+       GPS580 	   0.401  -0.178   13972	 SMC 084                 HV9813 0679 SMC 117                 HV9725 0681
+       GPS580 	   0.412   0.186    4600	 SMC 039                 HV9763 0599 SMC 033                 HV9757 0598
+       GPS580 	   0.524  -0.015    5186	 SMC 117                 HV9725 0681 SMC 120                 HV9729 0680
+       GPS607 	   0.012   0.044   17691	 PANEL 9                 JV7089 0715 857 5510 D TIDAL        HV8839 0716
+       GPS607 	   0.043   0.110   20062	 PANEL 16                HV9885 0704 PANEL 14                HV9883 0706
+       GPS607 	   0.045  -0.072   21175	 CECIL                   JU4122 0383 LUMS                    JU4354 0722
+       GPS607 	   0.069  -0.033   10907	 DARES                   HV8928 0393 PANEL 14                HV9883 0706
+       GPS607 	   0.070  -0.020   36403	 CALVARY                 JV6272 0148 WILMER                  JV6655 0379
+       GPS607 	   0.075   0.048   20062	 PANEL 14                HV9883 0706 PANEL 16                HV9885 0704
+       GPS607 	   0.084  -0.000   29884	 PANEL 1                 JU4355 0720 FREY                    JV6760 0139
+       GPS607 	   0.181   0.011   22597	 CROWN                   JV6651 0425 MAT                     HV8934 0401
+       GPS629 	   0.016  -0.056   14772	 U 12                    JV1825 1006 CHEW                    JV7200 1008
+       GPS629 	   0.023   0.026    4253	 BURNT                   JV7197 0951 URBA                    JV2271 0953
+       GPS629 	   0.046  -0.082   16151	 PLEASANT                JV7238 0971 COON                    JV7203 0973
+       GPS629 	   0.050  -0.003   16868	 APPOLDS                 JV7187 1003 DAY                     JV7207 0985
+       GPS629 	   0.062   0.020   15081	 KEY                     JV7223 1004 DAY                     JV7207 0985
+       GPS629 	   0.085   0.003   19156	 BARN                    JV7188 0947 HOLSEY                  JV7219 0952
+       GPS629 	   0.106  -0.146    5728	 ROSE                    JV7243 1002 KEY                     JV7223 1004
+       GPS629 	   0.120   0.159   11144	 PEACE                   JV7235 0970 FALL                    JV7210 0969
+       GPS629 	   0.127   0.124    7558	 BURNT                   JV7197 0951 HOLSEY                  JV7219 0952
+       GPS629 	   0.146   0.130   28961	 137 BORR                JV2131 0964 COON                    JV7203 0973
+       GPS629 	   0.192   0.071    9383	 TANEY                   JV6665 0450 JENNY                   JV7221 1017
+       GPS629 	   0.212   0.056   11806	 BARN                    JV7188 0947 BURNT                   JV7197 0951
+       GPS629 	   0.217   0.072   11878	 LOVE                    JV7225 1021 MASONa                  JV7227 1023
+       GPS629 	   0.322   0.338   16775	 WALKER                  JV7252 0989 MYERS                   JV7232 0992
+       GPS630 	   0.009  -0.001    4201	 GPS 544                 HV9997 0914 GODDING RESET           HV2352 0029
+       GPS630 	   0.010  -0.002    3385	 20452                   HV9954 0916 20458                   HV9960 0915
+       GPS630 	   0.012   0.021    4496	 20399                   HV9914 0941 20400                   HV9915 0938
+       GPS630 	   0.016  -0.010    3335	 GPS 518                 HV9979 0872 CHELTENHAM 2            HV0819 0001
+       GPS701 	   0.012   0.062    2248	 BATA                    JV7288 1040 SHOPPING                JV7321 1042
+       GPS701 	   0.019  -0.088     898	 FOXBOROUGH 2            JV7301 1050 FOUNTAIN AZ MK          JV7300 1051
+       GPS701 	   0.020   0.072     390	 FOXBOROUGH AZ MK        JV6759 0169 FOXBOROUGH 2            JV7301 1050
+       GPS751 	   0.005  -0.004  102588	 NORTH GEOS PIER         JV5895 0046 ASTRO WEST PIER         HV3124 0479
+       GPS751 	   0.010  -0.027  102588	 NORTH GEOS PIER         JV5895 0046 ASTRO WEST PIER         HV3124 0479
+       GPS751 	   0.012  -0.017  102588	 NORTH GEOS PIER         JV5895 0046 ASTRO WEST PIER         HV3124 0479
+       GPS751 	   0.016   0.091   80017	 NORTH GEOS PIER         JV5895 0046 MARYLAND PT RM 5        HV8128 0392
+       GPS751 	   0.027   0.093   80017	 NORTH GEOS PIER         JV5895 0046 MARYLAND PT RM 5        HV8128 0392
+       GPS751 	   0.027   0.096   80017	 NORTH GEOS PIER         JV5895 0046 MARYLAND PT RM 5        HV8128 0392
+       GPS793 	   0.020   0.065   13379	 20577                   AA5754 1072 GPS 82 AZ MK            JV6979 1073
+       GPS842 	   0.020  -0.063  898688	 GAITHERSBURG CORS L1 PH AA3495 1067 ZTL B                   AA6413 1104
+       GPS842 	   0.026  -0.066  898688	 GAITHERSBURG CORS L1 PH AA3495 1067 ZTL B                   AA6413 1104
+       GPS842 	   0.027  -0.059  898688	 GAITHERSBURG CORS L1 PH AA3495 1067 ZTL B                   AA6413 1104
+       GPS842 	   0.032   0.081 1248724	 GAITHERSBURG CORS L1 PH AA3495 1067 NORTH LIBERTY CORS L1 P AA3921 1103
+       GPS928 	   0.004   0.068   19617	 SCHOOL                  JV4456 0095 HERNDON OPTRACK         HV5130 0451
+       GPS928 	   0.006   0.188    7089	 NBS 5                   JV6439 0540 ATHEY                   JV2900 0081
+       GPS928 	   0.007   0.100   88556	 SCHOOL                  JV4456 0095 MARYLAND PT RM 5        HV8128 0392
+       GPS928 	   0.019   0.082   27146	 SCHOOL                  JV4456 0095 HERN                    AA9600 1126
+       GPS928 	   0.025   0.099    7535	 SCHOOL                  JV4456 0095 ATHEY                   JV2900 0081
+       GPS928 	   0.032   0.098    7535	 SCHOOL                  JV4456 0095 ATHEY                   JV2900 0081
+       GPS928 	   0.053   0.065    7089	 NBS 5                   JV6439 0540 ATHEY                   JV2900 0081
+      GPS1026 	   0.008   0.029    2407	 GYPSY                   AB4746 1170 CHANTER AZ MK           AB4778 1168
+      GPS1026 	   0.008   0.053    3326	 FEESER                  AB4731 1288 SELLS                   AB4678 1289
+      GPS1026 	   0.024  -0.055    3090	 ATKINS                  AB4710 1128 WATKINS AZ MK           AB4682 1129
+      GPS1026 	   0.025  -0.048    1264	 WATKINS                 AB4651 1130 WATKINS AZ MK           AB4682 1129
+      GPS1026 	   0.033   0.041    4361	 TANEY                   JV6665 0450 DIEHL AZ MK             AB4708 1307
+      GPS1026 	   0.035  -0.052    2439	 DIEHL AZ MK             AB4708 1307 ANGELL                  AB4733 1308
+      GPS1026 	   0.036   0.070    3846	 TIMBER AZ MK            AB4623 1145 SUN                     AB4712 1146
+      GPS1026 	   0.040  -0.067    2171	 DIEHL AZ MK             AB4708 1307 BROWN                   AB4677 1304
+      GPS1026 	   0.196  -0.248     844	 BARTHOLOW AZ MK         AB4763 1167 BARTHOLOW               AB4742 1166
+      GPS1026 	   0.910   1.075    2268	 BARTHOLOW AZ MK         AB4763 1167 BUSHEY AZ MK            AB4625 1151
+      GPS1026 	   2.371   2.207    5057	 FORD                    AB4747 1164 BARTHOLOW               AB4742 1166
+      GPS1163 	   0.040   0.119   15936	 GORF GPS N              JV6895 0454 GPS LR 9                JV6457 0040
+      GPS1163 	   0.047   0.067   15571	 32 43 015               JV7033 0519 GPS LR 9                JV6457 0040
+      GPS1163 	   0.071  -0.011   21222	 GIS 44                  AC7727 1427 GIS 5B                  AC7733 1395
+      GPS1163 	   0.073  -0.032   23426	 GIS 30                  AC7713 1416 GIS 38                  AC7721 1415
+      GPS1163 	   0.093   0.076   25114	 GIS 38                  AC7721 1415 GIS 22                  AC7705 1414
+      GPS1218 	   0.003  -0.044    8201	 SAUTER RESET            JV6048 0521 GIS 28                  AC7711 1431
+      GPS1218 	   0.025  -0.048   10015	 GIS 39                  AC7722 1417 GIS 81                  AE2459 1504
+      GPS1218 	   0.025  -0.054    9601	 GIS 39                  AC7722 1417 GPS LR 28               JV6454 0036
+      GPS1218 	   0.025  -0.073    2301	 GIS 88                  AE2448 1518 32 43 015               JV7033 0519
+      GPS1218 	   0.123   0.008   36955	 GIS 43                  AC7726 1430 HYDE                    JV6669 0382
+      GPS1235 	   0.004  -0.111    2006	 SMC 040                 HV9765 0597 SMC 033                 HV9757 0598
+      GPS1385 	   0.002   0.094   21487	 GODDARD SFC CORS MONUME AF9647 1832 US CAPITOL 2            HV9073 0487
+      GPS1385 	   0.003   0.060   30397	 GODDARD SFC CORS MONUME AF9647 1832 US NAVAL ACADEMY        AI7416 1840
+      GPS1385 	   0.003   0.068   30397	 GODDARD SFC CORS MONUME AF9647 1832 US NAVAL ACADEMY        AI7416 1840
+      GPS1385 	   0.004   0.088   21487	 GODDARD SFC CORS MONUME AF9647 1832 US CAPITOL 2            HV9073 0487
+      GPS1385 	   0.009   0.071   23343	 GODDARD SFC CORS MONUME AF9647 1832 JEFFERSON PIER          UA0024 1839
+      GPS1385 	   0.013   0.068   23343	 GODDARD SFC CORS MONUME AF9647 1832 JEFFERSON PIER          UA0024 1839
+      GPS1392 	   0.001  -0.048    6861	 NORRIS                  JV6268 0262 ALMONY                  JV6098 0115
+      GPS1392 	   0.003   0.058   37411	 POND                    JV6666 0453 HYDE                    JV6669 0382
+      GPS1392 	   0.004  -0.069   37411	 POND                    JV6666 0453 HYDE                    JV6669 0382
+      GPS1392 	   0.006   0.046   23695	 ALMONY                  JV6098 0115 HYDE                    JV6669 0382
+      GPS1392 	   0.008   0.058   32401	 GIS 92                  AE2446 1496 HYDE                    JV6669 0382
+      GPS1392 	   0.011  -0.060    5920	 GIS 32                  AC7715 1420 GIS 35                  AC7718 1424
+      GPS1392 	   0.012  -0.041    8326	 GIS 110                 AI4388 1784 K 13                    JV1689 1783
+      GPS1392 	   0.015   0.042    3971	 GIS 123                 AI4401 1809 27 PRR ECC              AI4412 1804
+      GPS1392 	   0.019  -0.061   31192	 GIS 92                  AE2446 1496 ALMONY                  JV6098 0115
+      GPS1392 	   0.033   0.041    8316	 GIS 35                  AC7718 1424 GIS 116                 AI4394 1788
+      GPS1392 	   0.072  -0.030    6872	 M 83 ECC                AI4411 1798 GIS 82                  AE2460 1502
+      GPS1450 	   0.013   0.075   14036	 HOWSARE                 JW1569 0441 D12 010                 AI6314 1826
+      GPS1450 	   0.014  -0.036   11417	 DAN                     JW1512 0435 J13 010                 AI6321 1819
+      GPS1450 	   0.018   0.089   13855	 HOWSARE                 JW1569 0441 D12 020                 AI6320 1817
+      GPS1450 	   0.078   0.121   29214	 HOWSARE                 JW1569 0441 HONI                    JW1579 0440
+      GPS1450 	   0.245   0.065     876	 CUMBERLAND A            JW0396 1829 J14 030                 DF5246 1814
+      GPS1530 	   0.000   0.002  263931	 GAITHERSBURG CORS ARP   AF9522 1831 PITTSBURGH CORS ARP     AF9628 1932
+      GPS1530 	   0.000   0.006  129291	 PITTSBURGH CORS ARP     AF9628 1932 ALLEGANY CC GPS BASE ST AJ8028 1933
+      GPS1530 	   0.000   0.011   33603	 GODDARD SFC CORS MONUME AF9647 1832 TRACY                   HV8933 0399
+      GPS1530 	   0.000  -0.001     199	 SOLOMONS ISLAND CORS AR AI3287 1947 857 7330 F TIDAL        AJ8037 1990
+      GPS1530 	   0.000  -0.001  193359	 GAITHERSBURG CORS ARP   AF9522 1831 PENN STATE UNIV CORS AR AF9653 1944
+      GPS1530 	   0.000  -0.005   33039	 GAITHERSBURG CORS ARP   AF9522 1831 PATRICK                 JV2391 0448
+      GPS1530 	   0.001   0.001   16333	 GAITHERSBURG CORS ARP   AF9522 1831 SHERWOOD                AJ7990 1971
+      GPS1530 	   0.001   0.002  142283	 GAITHERSBURG CORS ARP   AF9522 1831 ALLEGANY CC GPS BASE ST AJ8028 1933
+      GPS1530 	   0.001   0.003  215968	 VIRGINIA INSTITUT CORS  AI3289 1949 GAITHERSBURG CORS ARP   AF9522 1831
+      GPS1530 	   0.001   0.003  215968	 VIRGINIA INSTITUT CORS  AI3289 1949 GAITHERSBURG CORS ARP   AF9522 1831
+      GPS1530 	   0.001   0.011   48370	 U.S. NAVAL OBSERV CORS  AI7403 1946 GILROY                  AJ8013 1984
+      GPS1530 	   0.001   0.011   50093	 GAITHERSBURG CORS ARP   AF9522 1831 MYERS                   JV7232 0992
+      GPS1530 	   0.001   0.011  189109	 GAITHERSBURG CORS ARP   AF9522 1831 CAPE HENLOPEN 1 CORS AR AF9492 1833
+      GPS1530 	   0.001   0.012   11091	 GAITHERSBURG CORS ARP   AF9522 1831 SVEN                    AJ7991 1969
+      GPS1530 	   0.001   0.021   15321	 GODDARD SFC CORS MONUME AF9647 1832 BASE 8                  AI8506 1908
+      GPS1530 	   0.001  -0.001  193359	 GAITHERSBURG CORS ARP   AF9522 1831 PENN STATE UNIV CORS AR AF9653 1944
+      GPS1530 	   0.001  -0.005     199	 SOLOMONS ISLAND CORS AR AI3287 1947 857 7330 F TIDAL        AJ8037 1990
+      GPS1530 	   0.001  -0.005  178103	 GAITHERSBURG CORS ARP   AF9522 1831 RICHMOND 1 CORS ARP     AF9635 1945
+      GPS1530 	   0.001  -0.006   48370	 U.S. NAVAL OBSERV CORS  AI7403 1946 GILROY                  AJ8013 1984
+      GPS1530 	   0.001  -0.007  215968	 VIRGINIA INSTITUT CORS  AI3289 1949 GAITHERSBURG CORS ARP   AF9522 1831
+      GPS1530 	   0.001  -0.011   19145	 HORN POINT ENVIRO CORS  AI3494 1948 H 124 RESET 1998        AJ7984 1994
+      GPS1530 	   0.001  -0.012  129291	 PITTSBURGH CORS ARP     AF9628 1932 ALLEGANY CC GPS BASE ST AJ8028 1933
+      GPS1530 	   0.001  -0.012  312343	 GAITHERSBURG CORS ARP   AF9522 1831 SANDY HOOK 1 CORS ARP   AF9509 1952
+      GPS1530 	   0.002   0.000     103	 GODDARD SFC CORS MONUME AF9647 1832 NORTH GEOS PIER         JV5895 0046
+      GPS1530 	   0.002   0.000  150016	 GAITHERSBURG CORS ARP   AF9522 1831 REEDY POINT 1 CORS ARP  AH8297 1950
+      GPS1530 	   0.002   0.001    4135	 U.S. NAVAL OBSERV CORS  AI7403 1946 JEFFERSON PIER          UA0024 1839
+      GPS1530 	   0.002   0.001   27376	 GAITHERSBURG CORS ARP   AF9522 1831 U.S. NAVAL OBSERV CORS  AI7403 1946
+      GPS1530 	   0.002   0.001   33039	 GAITHERSBURG CORS ARP   AF9522 1831 PATRICK                 JV2391 0448
+      GPS1530 	   0.002   0.001  263931	 GAITHERSBURG CORS ARP   AF9522 1831 PITTSBURGH CORS ARP     AF9628 1932
+      GPS1530 	   0.002   0.002   16333	 GAITHERSBURG CORS ARP   AF9522 1831 SHERWOOD                AJ7990 1971
+      GPS1530 	   0.002   0.002   27376	 GAITHERSBURG CORS ARP   AF9522 1831 U.S. NAVAL OBSERV CORS  AI7403 1946
+      GPS1530 	   0.002   0.003  215968	 VIRGINIA INSTITUT CORS  AI3289 1949 GAITHERSBURG CORS ARP   AF9522 1831
+      GPS1530 	   0.002   0.004   66331	 GAITHERSBURG CORS ARP   AF9522 1831 US NAVAL ACADEMY        AI7416 1840
+      GPS1530 	   0.002   0.004  150016	 GAITHERSBURG CORS ARP   AF9522 1831 REEDY POINT 1 CORS ARP  AH8297 1950
+      GPS1530 	   0.002   0.006   27376	 GAITHERSBURG CORS ARP   AF9522 1831 U.S. NAVAL OBSERV CORS  AI7403 1946
+      GPS1530 	   0.002   0.006   37867	 U.S. NAVAL OBSERV CORS  AI7403 1946 MATTA                   HV8279 0005
+      GPS1530 	   0.002   0.006  193359	 GAITHERSBURG CORS ARP   AF9522 1831 PENN STATE UNIV CORS AR AF9653 1944
+      GPS1530 	   0.002   0.010   24444	 GAITHERSBURG CORS ARP   AF9522 1831 NC 25                   HV9245 1472
+      GPS1530 	   0.002   0.013   34730	 GAITHERSBURG CORS ARP   AF9522 1831 DERR                    AJ7982 1965
+      GPS1530 	   0.002   0.013   49002	 GAITHERSBURG CORS ARP   AF9522 1831 PUTMAN                  JV7240 1000
+      GPS1530 	   0.002   0.022   37661	 SOLOMONS ISLAND CORS AR AI3287 1947 SMC 121                 HV9730 0675
+      GPS1530 	   0.002   0.029   49235	 U.S. NAVAL OBSERV CORS  AI7403 1946 SMC 121                 HV9730 0675
+      GPS1530 	   0.002   0.069   73883	 RICHMOND 1 CORS ARP     AF9635 1945 ASTRO WEST PIER         HV3124 0479
+      GPS1530 	   0.002  -0.000   37867	 U.S. NAVAL OBSERV CORS  AI7403 1946 MATTA                   HV8279 0005
+      GPS1530 	   0.002  -0.001  189109	 GAITHERSBURG CORS ARP   AF9522 1831 CAPE HENLOPEN 1 CORS AR AF9492 1833
+      GPS1530 	   0.002  -0.002   15930	 GODDARD SFC CORS MONUME AF9647 1832 SPRINGBROOK HIGH SCHOOL AJ8045 1974
+      GPS1530 	   0.002  -0.002   16391	 GODDARD SFC CORS MONUME AF9647 1832 KID MDDT                HV7797 1976
+      GPS1530 	   0.002  -0.002   36313	 GAITHERSBURG CORS ARP   AF9522 1831 GODDARD SFC CORS MONUME AF9647 1832
+      GPS1530 	   0.002  -0.004     103	 GODDARD SFC CORS MONUME AF9647 1832 NORTH GEOS PIER         JV5895 0046
+      GPS1530 	   0.002  -0.004   36313	 GAITHERSBURG CORS ARP   AF9522 1831 GODDARD SFC CORS MONUME AF9647 1832
+      GPS1530 	   0.002  -0.004  150016	 GAITHERSBURG CORS ARP   AF9522 1831 REEDY POINT 1 CORS ARP  AH8297 1950
+      GPS1530 	   0.002  -0.004  193359	 GAITHERSBURG CORS ARP   AF9522 1831 PENN STATE UNIV CORS AR AF9653 1944
+      GPS1530 	   0.002  -0.009  150016	 GAITHERSBURG CORS ARP   AF9522 1831 REEDY POINT 1 CORS ARP  AH8297 1950
+      GPS1530 	   0.003   0.001   27376	 GAITHERSBURG CORS ARP   AF9522 1831 U.S. NAVAL OBSERV CORS  AI7403 1946
+      GPS1530 	   0.003   0.003   36313	 GAITHERSBURG CORS ARP   AF9522 1831 GODDARD SFC CORS MONUME AF9647 1832
+      GPS1530 	   0.003   0.003  129291	 PITTSBURGH CORS ARP     AF9628 1932 ALLEGANY CC GPS BASE ST AJ8028 1933
+      GPS1530 	   0.003   0.009  312343	 GAITHERSBURG CORS ARP   AF9522 1831 SANDY HOOK 1 CORS ARP   AF9509 1952
+      GPS1530 	   0.003   0.010  112414	 GAITHERSBURG CORS ARP   AF9522 1831 SOLOMONS ISLAND CORS AR AI3287 1947
+      GPS1530 	   0.003   0.010  189109	 GAITHERSBURG CORS ARP   AF9522 1831 CAPE HENLOPEN 1 CORS AR AF9492 1833
+      GPS1530 	   0.003   0.012  112414	 GAITHERSBURG CORS ARP   AF9522 1831 SOLOMONS ISLAND CORS AR AI3287 1947
+      GPS1530 	   0.003   0.013   11091	 GAITHERSBURG CORS ARP   AF9522 1831 SVEN                    AJ7991 1969
+      GPS1530 	   0.003   0.091   73883	 RICHMOND 1 CORS ARP     AF9635 1945 ASTRO WEST PIER         HV3124 0479
+      GPS1530 	   0.003  -0.001   47703	 SOLOMONS ISLAND CORS AR AI3287 1947 DEAL                    AJ7996 1999
+      GPS1530 	   0.003  -0.002  112351	 GAITHERSBURG CORS ARP   AF9522 1831 HORN POINT ENVIRO CORS  AI3494 1948
+      GPS1530 	   0.003  -0.005  189109	 GAITHERSBURG CORS ARP   AF9522 1831 CAPE HENLOPEN 1 CORS AR AF9492 1833
+      GPS1530 	   0.003  -0.005  193359	 GAITHERSBURG CORS ARP   AF9522 1831 PENN STATE UNIV CORS AR AF9653 1944
+      GPS1530 	   0.003  -0.008   68395	 GAITHERSBURG CORS ARP   AF9522 1831 MSP 2                   AJ8001 1964
+      GPS1530 	   0.003  -0.008  189109	 GAITHERSBURG CORS ARP   AF9522 1831 CAPE HENLOPEN 1 CORS AR AF9492 1833
+      GPS1530 	   0.003  -0.012   19415	 GAITHERSBURG CORS ARP   AF9522 1831 CLEWIS                  AJ8025 1967
+      GPS1530 	   0.003  -0.018   18819	 SOLOMONS ISLAND CORS AR AI3287 1947 MUTUAL                  AJ8009 1989
+      GPS1530 	   0.003  -0.021   20060	 SOLOMONS ISLAND CORS AR AI3287 1947 SHA 1001                AJ8018 1995
+      GPS1530 	   0.003  -0.028   60175	 GODDARD SFC CORS MONUME AF9647 1832 BELLa                   AJ7978 2026
+      GPS1530 	   0.003  -0.038   40325	 HORN POINT ENVIRO CORS  AI3494 1948 DARES                   HV8928 0393
+      GPS1530 	   0.003  -0.049   41396	 VIRGINIA INSTITUT CORS  AI3289 1949 SUE                     FW2004 2072
+      GPS1530 	   0.004   0.000   27545	 U.S. NAVAL OBSERV CORS  AI7403 1946 ACCOK                   AJ8014 1979
+      GPS1530 	   0.004   0.000  178103	 GAITHERSBURG CORS ARP   AF9522 1831 RICHMOND 1 CORS ARP     AF9635 1945
+      GPS1530 	   0.004   0.001  178103	 GAITHERSBURG CORS ARP   AF9522 1831 RICHMOND 1 CORS ARP     AF9635 1945
+      GPS1530 	   0.004   0.003  178103	 GAITHERSBURG CORS ARP   AF9522 1831 RICHMOND 1 CORS ARP     AF9635 1945
+      GPS1530 	   0.004   0.004   19415	 GAITHERSBURG CORS ARP   AF9522 1831 CLEWIS                  AJ8025 1967
+      GPS1530 	   0.004   0.004   32932	 U.S. NAVAL OBSERV CORS  AI7403 1946 SCHWIEN 3               HV8931 0395
+      GPS1530 	   0.004   0.005  263931	 GAITHERSBURG CORS ARP   AF9522 1831 PITTSBURGH CORS ARP     AF9628 1932
+      GPS1530 	   0.004   0.006   15930	 GODDARD SFC CORS MONUME AF9647 1832 SPRINGBROOK HIGH SCHOOL AJ8045 1974
+      GPS1530 	   0.004   0.007   48370	 U.S. NAVAL OBSERV CORS  AI7403 1946 GILROY                  AJ8013 1984
+      GPS1530 	   0.004   0.007  112351	 GAITHERSBURG CORS ARP   AF9522 1831 HORN POINT ENVIRO CORS  AI3494 1948
+      GPS1530 	   0.004   0.009  112351	 GAITHERSBURG CORS ARP   AF9522 1831 HORN POINT ENVIRO CORS  AI3494 1948
+      GPS1530 	   0.004   0.017   19575	 U.S. NAVAL OBSERV CORS  AI7403 1946 JET                     HV8868 0394
+      GPS1530 	   0.004   0.020   16391	 GODDARD SFC CORS MONUME AF9647 1832 KID MDDT                HV7797 1976
+      GPS1530 	   0.004   0.020   21359	 GODDARD SFC CORS MONUME AF9647 1832 FRIEND                  JV6656 0377
+      GPS1530 	   0.004  -0.004  215968	 VIRGINIA INSTITUT CORS  AI3289 1949 GAITHERSBURG CORS ARP   AF9522 1831
+      GPS1530 	   0.004  -0.005  129291	 PITTSBURGH CORS ARP     AF9628 1932 ALLEGANY CC GPS BASE ST AJ8028 1933
+      GPS1530 	   0.004  -0.007   24624	 GODDARD SFC CORS MONUME AF9647 1832 TAMERON AZ MK           AJ8027 1981
+      GPS1530 	   0.004  -0.014   15321	 GODDARD SFC CORS MONUME AF9647 1832 BASE 8                  AI8506 1908
+      GPS1530 	   0.004  -0.018   69053	 VIRGINIA INSTITUT CORS  AI3289 1949 FURNACE                 HU2706 0411
+      GPS1530 	   0.004  -0.028   76989	 DOVER DNRC CORS ARP     AF9680 1951 DIAMOND                 HV8940 0400
+      GPS1530 	   0.004  -0.052    7951	 GAITHERSBURG CORS ARP   AF9522 1831 20324                   JV7116 0755
+      GPS1530 	   0.005   0.001  312343	 GAITHERSBURG CORS ARP   AF9522 1831 SANDY HOOK 1 CORS ARP   AF9509 1952
+      GPS1530 	   0.005   0.002   27376	 GAITHERSBURG CORS ARP   AF9522 1831 U.S. NAVAL OBSERV CORS  AI7403 1946
+      GPS1530 	   0.005   0.006   43498	 GODDARD SFC CORS MONUME AF9647 1832 SUNDER                  AJ8012 1980
+      GPS1530 	   0.005   0.009  263931	 GAITHERSBURG CORS ARP   AF9522 1831 PITTSBURGH CORS ARP     AF9628 1932
+      GPS1530 	   0.005   0.016   13176	 GAITHERSBURG CORS ARP   AF9522 1831 INTAKE 1                AJ4600 1968
+      GPS1530 	   0.005   0.026   10955	 HORN POINT ENVIRO CORS  AI3494 1948 DIAMOND                 HV8940 0400
+      GPS1530 	   0.005   0.038   31456	 GAITHERSBURG CORS ARP   AF9522 1831 ORCHARDa                JV4638 1075
+      GPS1530 	   0.005   0.045   47703	 SOLOMONS ISLAND CORS AR AI3287 1947 DEAL                    AJ7996 1999
+      GPS1530 	   0.005  -0.002   51441	 U.S. NAVAL OBSERV CORS  AI7403 1946 JASON                   AJ8008 1985
+      GPS1530 	   0.005  -0.003   11388	 SOLOMONS ISLAND CORS AR AI3287 1947 PARK HALL               AJ8007 1992
+      GPS1530 	   0.005  -0.004   23026	 SOLOMONS ISLAND CORS AR AI3287 1947 SMC 102                 HV9709 0702
+      GPS1530 	   0.005  -0.010   24688	 GAITHERSBURG CORS ARP   AF9522 1831 RAPID                   JV7073 1131
+      GPS1530 	   0.005  -0.016   59058	 SOLOMONS ISLAND CORS AR AI3287 1947 X 186                   HU2247 2073
+      GPS1530 	   0.005  -0.019   22702	 SOLOMONS ISLAND CORS AR AI3287 1947 SMC 054                 HV9780 0640
+      GPS1530 	   0.005  -0.021   18819	 SOLOMONS ISLAND CORS AR AI3287 1947 MUTUAL                  AJ8009 1989
+      GPS1530 	   0.005  -0.024   28054	 SOLOMONS ISLAND CORS AR AI3287 1947 DARES                   HV8928 0393
+      GPS1530 	   0.006   0.005   43391	 VIRGINIA INSTITUT CORS  AI3289 1949 CRISFIELD               FW1986 0403
+      GPS1530 	   0.006   0.006   27545	 U.S. NAVAL OBSERV CORS  AI7403 1946 ACCOK                   AJ8014 1979
+      GPS1530 	   0.006   0.013   28123	 GAITHERSBURG CORS ARP   AF9522 1831 ZDC B                   AA3618 1069
+      GPS1530 	   0.006   0.041  112671	 PITTSBURGH CORS ARP     AF9628 1932 BITT                    AJ8004 1939
+      GPS1530 	   0.006   0.078   73883	 RICHMOND 1 CORS ARP     AF9635 1945 ASTRO WEST PIER         HV3124 0479
+      GPS1530 	   0.006  -0.001   24733	 GAITHERSBURG CORS ARP   AF9522 1831 HOBBS                   JV6474 0452
+      GPS1530 	   0.006  -0.001  312343	 GAITHERSBURG CORS ARP   AF9522 1831 SANDY HOOK 1 CORS ARP   AF9509 1952
+      GPS1530 	   0.006  -0.002   35460	 SOLOMONS ISLAND CORS AR AI3287 1947 863 5750 J TIDAL        AJ4589 1996
+      GPS1530 	   0.006  -0.003   19099	 SOLOMONS ISLAND CORS AR AI3287 1947 WEBSTER AZ MKa          AJ8046 1993
+      GPS1530 	   0.006  -0.004   65265	 GAITHERSBURG CORS ARP   AF9522 1831 YEAGER                  JV7256 1010
+      GPS1530 	   0.006  -0.011   27328	 GAITHERSBURG CORS ARP   AF9522 1831 TITUS                   JV7248 0957
+      GPS1530 	   0.006  -0.029   43357	 DOVER DNRC CORS ARP     AF9680 1951 LIDEN                   AJ8022 2052
+      GPS1530 	   0.006  -0.039   21359	 GODDARD SFC CORS MONUME AF9647 1832 FRIEND                  JV6656 0377
+      GPS1530 	   0.007   0.004  178103	 GAITHERSBURG CORS ARP   AF9522 1831 RICHMOND 1 CORS ARP     AF9635 1945
+      GPS1530 	   0.007   0.005   14276	 U.S. NAVAL OBSERV CORS  AI7403 1946 RAMADA                  HV8812 0030
+      GPS1530 	   0.007   0.005   24733	 GAITHERSBURG CORS ARP   AF9522 1831 HOBBS                   JV6474 0452
+      GPS1530 	   0.007   0.013   19584	 GODDARD SFC CORS MONUME AF9647 1832 CROWN                   JV6651 0425
+      GPS1530 	   0.007   0.017     103	 GODDARD SFC CORS MONUME AF9647 1832 NORTH GEOS PIER         JV5895 0046
+      GPS1530 	   0.007   0.021   22702	 SOLOMONS ISLAND CORS AR AI3287 1947 SMC 054                 HV9780 0640
+      GPS1530 	   0.007   0.024   41441	 SOLOMONS ISLAND CORS AR AI3287 1947 VA 15                   UA0020 1997
+      GPS1530 	   0.007   0.036   20968	 ALLEGANY CC GPS BASE ST AJ8028 1933 PONDSIDE                JW1583 0442
+      GPS1530 	   0.007   0.044    5608	 HORN POINT ENVIRO CORS  AI3494 1948 857 1892 D TIDAL        AC6854 2065
+      GPS1530 	   0.007  -0.015   65558	 GAITHERSBURG CORS ARP   AF9522 1831 MO                      JV7229 1013
+      GPS1530 	   0.008   0.000    6843	 SOLOMONS ISLAND CORS AR AI3287 1947 COLLISON NO 1           AJ7226 1991
+      GPS1530 	   0.008   0.005   22726	 GODDARD SFC CORS MONUME AF9647 1832 GORF GPS N              JV6895 0454
+      GPS1530 	   0.008   0.012  263931	 GAITHERSBURG CORS ARP   AF9522 1831 PITTSBURGH CORS ARP     AF9628 1932
+      GPS1530 	   0.008   0.023   37867	 U.S. NAVAL OBSERV CORS  AI7403 1946 MATTA                   HV8279 0005
+      GPS1530 	   0.008   0.033   65265	 GAITHERSBURG CORS ARP   AF9522 1831 YEAGER                  JV7256 1010
+      GPS1530 	   0.008   0.035    5608	 HORN POINT ENVIRO CORS  AI3494 1948 857 1892 D TIDAL        AC6854 2065
+      GPS1530 	   0.008   0.035   11002	 ALLEGANY CC GPS BASE ST AJ8028 1933 BARREL                  AJ7977 1960
+      GPS1530 	   0.008  -0.003    4135	 U.S. NAVAL OBSERV CORS  AI7403 1946 JEFFERSON PIER          UA0024 1839
+      GPS1530 	   0.008  -0.006    4284	 U.S. NAVAL OBSERV CORS  AI7403 1946 SUMMERALL               HV9064 0483
+      GPS1530 	   0.008  -0.012    6717	 SOLOMONS ISLAND CORS AR AI3287 1947 MAI                     HV9704 0621
+      GPS1530 	   0.008  -0.020  312343	 GAITHERSBURG CORS ARP   AF9522 1831 SANDY HOOK 1 CORS ARP   AF9509 1952
+      GPS1530 	   0.009   0.002  150016	 GAITHERSBURG CORS ARP   AF9522 1831 REEDY POINT 1 CORS ARP  AH8297 1950
+      GPS1530 	   0.009   0.037   67403	 CAPE HENLOPEN 1 CORS AR AF9492 1833 LUKEa                   AJ7999 2066
+      GPS1530 	   0.009   0.041   13087	 GAITHERSBURG CORS ARP   AF9522 1831 20305                   JV7097 0760
+      GPS1530 	   0.009   0.071   73883	 RICHMOND 1 CORS ARP     AF9635 1945 ASTRO WEST PIER         HV3124 0479
+      GPS1530 	   0.009   0.183   17266	 GAITHERSBURG CORS ARP   AF9522 1831 HERNDON OPTRACK         HV5130 0451
+      GPS1530 	   0.009  -0.004   13087	 GAITHERSBURG CORS ARP   AF9522 1831 20305                   JV7097 0760
+      GPS1530 	   0.009  -0.009   14276	 U.S. NAVAL OBSERV CORS  AI7403 1946 RAMADA                  HV8812 0030
+      GPS1530 	   0.009  -0.015  119190	 PITTSBURGH CORS ARP     AF9628 1932 BARREL                  AJ7977 1960
+      GPS1530 	   0.009  -0.033   21740	 SOLOMONS ISLAND CORS AR AI3287 1947 CLAVER                  HV8867 0396
+      GPS1530 	   0.009  -0.037   33065	 SOLOMONS ISLAND CORS AR AI3287 1947 SMC 001                 HV9705 0576
+      GPS1530 	   0.010   0.021   57595	 GAITHERSBURG CORS ARP   AF9522 1831 THURMONT                JV6664 0446
+      GPS1530 	   0.010  -0.002    4284	 U.S. NAVAL OBSERV CORS  AI7403 1946 SUMMERALL               HV9064 0483
+      GPS1530 	   0.010  -0.004    4135	 U.S. NAVAL OBSERV CORS  AI7403 1946 JEFFERSON PIER          UA0024 1839
+      GPS1530 	   0.010  -0.024   11768	 HORN POINT ENVIRO CORS  AI3494 1948 E 120                   HV0221 2075
+      GPS1530 	   0.010  -0.025   43391	 VIRGINIA INSTITUT CORS  AI3289 1949 CRISFIELD               FW1986 0403
+      GPS1530 	   0.011   0.003    5608	 HORN POINT ENVIRO CORS  AI3494 1948 857 1892 D TIDAL        AC6854 2065
+      GPS1530 	   0.011   0.009   49439	 SOLOMONS ISLAND CORS AR AI3287 1947 JASON                   AJ8008 1985
+      GPS1530 	   0.011   0.036    7051	 U.S. NAVAL OBSERV CORS  AI7403 1946 FAIRFAX COUNTY EAST     AJ4599 1973
+      GPS1530 	   0.011   0.048   70889	 CAPE HENLOPEN 1 CORS AR AF9492 1833 FURNACE                 HU2706 0411
+      GPS1530 	   0.011   0.195   60004	 SOLOMONS ISLAND CORS AR AI3287 1947 D 462                   HV2975 1987
+      GPS1530 	   0.011  -0.018   32932	 U.S. NAVAL OBSERV CORS  AI7403 1946 SCHWIEN 3               HV8931 0395
+      GPS1530 	   0.011  -0.036   45457	 VIRGINIA INSTITUT CORS  AI3289 1949 NELSONa                 HU0524 0409
+      GPS1530 	   0.011  -0.036   49676	 REEDY POINT 1 CORS ARP  AH8297 1950 K 1                     AJ8032 2017
+      GPS1530 	   0.012   0.012   62624	 U.S. NAVAL OBSERV CORS  AI7403 1946 VA 12                   UA0019 1986
+      GPS1530 	   0.012   0.048   11768	 HORN POINT ENVIRO CORS  AI3494 1948 E 120                   HV0221 2075
+      GPS1530 	   0.012  -0.005   31189	 CAPE HENLOPEN 1 CORS AR AF9492 1833 GPS S 6                 HU2680 0422
+      GPS1530 	   0.012  -0.017    7951	 GAITHERSBURG CORS ARP   AF9522 1831 20324                   JV7116 0755
+      GPS1530 	   0.013   0.032  178104	 GAITHERSBURG CORS ARP   AF9522 1831 SHA 216                 JW1710 1940
+      GPS1530 	   0.013  -0.019   44488	 SOLOMONS ISLAND CORS AR AI3287 1947 C 273                   GV1043 1998
+      GPS1530 	   0.013  -0.025   21740	 SOLOMONS ISLAND CORS AR AI3287 1947 CLAVER                  HV8867 0396
+      GPS1530 	   0.014   0.018   35460	 SOLOMONS ISLAND CORS AR AI3287 1947 863 5750 J TIDAL        AJ4589 1996
+      GPS1530 	   0.014   0.023   18819	 SOLOMONS ISLAND CORS AR AI3287 1947 MUTUAL                  AJ8009 1989
+      GPS1530 	   0.014   0.032   76862	 ALLEGANY CC GPS BASE ST AJ8028 1933 STEPHENS                JW0215 1956
+      GPS1530 	   0.014   0.131   62249	 U.S. NAVAL OBSERV CORS  AI7403 1946 MARYLAND PT RM 5        HV8128 0392
+      GPS1530 	   0.014   0.134   62249	 U.S. NAVAL OBSERV CORS  AI7403 1946 MARYLAND PT RM 5        HV8128 0392
+      GPS1530 	   0.014  -0.001   34581	 SOLOMONS ISLAND CORS AR AI3287 1947 BOGGIE                  HV8939 0391
+      GPS1530 	   0.014  -0.014   23026	 SOLOMONS ISLAND CORS AR AI3287 1947 SMC 102                 HV9709 0702
+      GPS1530 	   0.015   0.002   19575	 U.S. NAVAL OBSERV CORS  AI7403 1946 JET                     HV8868 0394
+      GPS1530 	   0.016   0.035   63948	 CAPE HENLOPEN 1 CORS AR AF9492 1833 PORTER                  AJ8011 2059
+      GPS1530 	   0.017   0.005   22702	 SOLOMONS ISLAND CORS AR AI3287 1947 SMC 054                 HV9780 0640
+      GPS1530 	   0.017   0.040   43391	 VIRGINIA INSTITUT CORS  AI3289 1949 CRISFIELD               FW1986 0403
+      GPS1530 	   0.017   0.069  107683	 GAITHERSBURG CORS ARP   AF9522 1831 DILLON                  JW1205 0445
+      GPS1530 	   0.017   0.121   62249	 U.S. NAVAL OBSERV CORS  AI7403 1946 MARYLAND PT RM 5        HV8128 0392
+      GPS1530 	   0.017  -0.014   49439	 SOLOMONS ISLAND CORS AR AI3287 1947 JASON                   AJ8008 1985
+      GPS1530 	   0.018  -0.002    8010	 SOLOMONS ISLAND CORS AR AI3287 1947 LEONARDTOWN CBL 0       HV8924 0390
+      GPS1530 	   0.018  -0.005   13087	 GAITHERSBURG CORS ARP   AF9522 1831 20305                   JV7097 0760
+      GPS1530 	   0.020   0.130   62249	 U.S. NAVAL OBSERV CORS  AI7403 1946 MARYLAND PT RM 5        HV8128 0392
+      GPS1530 	   0.020  -0.003   34581	 SOLOMONS ISLAND CORS AR AI3287 1947 BOGGIE                  HV8939 0391
+      GPS1530 	   0.020  -0.011   59058	 SOLOMONS ISLAND CORS AR AI3287 1947 X 186                   HU2247 2073
+      GPS1530 	   0.021   0.009    8010	 SOLOMONS ISLAND CORS AR AI3287 1947 LEONARDTOWN CBL 0       HV8924 0390
+      GPS1530 	   0.021  -0.004    6227	 U.S. NAVAL OBSERV CORS  AI7403 1946 859 4900 TIDAL 4        HV9068 1972
+      GPS1530 	   0.021  -0.035   65228	 REEDY POINT 1 CORS ARP  AH8297 1950 KERR                    JV6348 0220
+      GPS1530 	   0.022   0.000    6227	 U.S. NAVAL OBSERV CORS  AI7403 1946 859 4900 TIDAL 4        HV9068 1972
+      GPS1530 	   0.022   0.002    6227	 U.S. NAVAL OBSERV CORS  AI7403 1946 859 4900 TIDAL 4        HV9068 1972
+      GPS1530 	   0.024   0.007    6227	 U.S. NAVAL OBSERV CORS  AI7403 1946 859 4900 TIDAL 4        HV9068 1972
+      GPS1530 	   0.025   0.001    8410	 DOVER DNRC CORS ARP     AF9680 1951 GPS K1 RESET            AJ8039 2046
+      GPS1530 	   0.025   0.035   26990	 REEDY POINT 1 CORS ARP  AH8297 1950 GPS NC 5                AJ8041 2048
+      GPS1530 	   0.027  -0.022    7559	 DOVER DNRC CORS ARP     AF9680 1951 GPS K 1 A               JU4135 0431
+      GPS1530 	   0.028   0.047   37661	 SOLOMONS ISLAND CORS AR AI3287 1947 SMC 121                 HV9730 0675
+      GPS1530 	   0.028  -0.015    7051	 GAITHERSBURG CORS ARP   AF9522 1831 FRANK                   AJ8010 1970
+      GPS1530 	   0.029   0.014    9722	 GODDARD SFC CORS MONUME AF9647 1832 CALVERTON               AJ7981 1975
+      GPS1530 	   0.029   0.028    9722	 GODDARD SFC CORS MONUME AF9647 1832 CALVERTON               AJ7981 1975
+      GPS1530 	   0.029  -0.004  113887	 PITTSBURGH CORS ARP     AF9628 1932 HONI                    JW1579 0440
+      GPS1530 	   0.030   0.009    7051	 GAITHERSBURG CORS ARP   AF9522 1831 FRANK                   AJ8010 1970
+      GPS1530 	   0.031   0.025    7051	 GAITHERSBURG CORS ARP   AF9522 1831 FRANK                   AJ8010 1970
+      GPS1530 	   0.040  -0.042    8201	 SOLOMONS ISLAND CORS AR AI3287 1947 FIELDS                  HV8927 0397
+      GPS1530 	   0.043   0.004    9722	 GODDARD SFC CORS MONUME AF9647 1832 CALVERTON               AJ7981 1975
+      GPS1530 	   0.056   0.076   40339	 HORN POINT ENVIRO CORS  AI3494 1948 X 186                   HU2247 2073
+      GPS1636 	   0.004   0.053     300	 857 1579 E TIDAL        AJ8227 2081 857 1579 C TIDAL        AJ8225 2080
+      GPS1636 	   0.015   0.065   30093	 857 1579 E TIDAL        AJ8227 2081 HORN POINT ENVIRO CORS  AI3494 1948
+      GPS1638 	   0.068  -0.089   18938	 ANNAPOLIS 1 CORS ARP    AJ4426 2088 NORTH GEOS PIER         JV5895 0046
+     GPS396/B 	   0.002   0.007   82226	 MERIDIAN STONE          HV1846 0478 ASTRO WEST PIER         HV3124 0479
+     GPS396/B 	   0.006   0.005   83502	 ASTRO WEST PIER         HV3124 0479 JET                     HV8868 0394
+     GPS396/B 	   0.006  -0.060   31600	 NORTH GEOS PIER         JV5895 0046 POWHATAN                HV4861 0486
+     GPS396/B 	   0.012  -0.064   79854	 ASTRO WEST PIER         HV3124 0479 POWHATAN                HV4861 0486
+     GPS396/B 	   0.019   0.070     130	 MERIDIAN STONE          HV1846 0478 ZERO MILESTONE          HV1847 0484
+     GPS396/B 	   0.028  -0.019   73834	 ASTRO WEST PIER         HV3124 0479 GODDING RESET           HV2352 0029
+    GPS1008/B 	   0.003  -0.069  147815	 GAITHERSBURG CORS L1 PH AA3495 1067 BEARTOWN 2              KW3023 0384
+    GPS1008/B 	   0.003  -0.070   24444	 GAITHERSBURG CORS L1 PH AA3495 1067 NC 25                   HV9245 1472
+    GPS1008/B 	   0.005   0.068  446098	 MEDINA                  OG0490 1479 SAGINAW 1 CORS L1 PHASE AB6304 1460
+    GPS1008/B 	   0.005  -0.054  852323	 HILLSBORO CORS L1 PHASE AB4137 1442 ROCK                    OM0651 1480
+    GPS1008/B 	   0.006  -0.056  159478	 GAITHERSBURG CORS L1 PH AA3495 1067 GPS S 6                 HU2680 0422
+    GPS1008/B 	   0.007   0.080  586996	 MEDINA                  OG0490 1479 MONTAUK POINT 1 CORS L1 AB6303 1459
+    GPS1008/B 	   0.007  -0.075  193044	 GAITHERSBURG CORS L1 PH AA3495 1067 NELSONa                 HU0524 0409
+    GPS1008/B 	   0.007  -0.086  193044	 GAITHERSBURG CORS L1 PH AA3495 1067 NELSONa                 HU0524 0409
+    GPS1008/B 	   0.008   0.008  631827	 HILLSBORO CORS L1 PHASE AB4137 1442 JACKPORT                KC0696 1482
+    GPS1008/B 	   0.008   0.070 1042571	 FREELAND                OK0006 1478 MONTAUK POINT 1 CORS L1 AB6303 1459
+    GPS1008/B 	   0.008  -0.103   58861	 GAITHERSBURG CORS L1 PH AA3495 1067 TANEY                   JV6665 0450
+    GPS1008/B 	   0.008  -0.103   58861	 GAITHERSBURG CORS L1 PH AA3495 1067 TANEY                   JV6665 0450
+    GPS1008/B 	   0.008  -0.127  462238	 GAITHERSBURG CORS L1 PH AA3495 1067 MEDINA                  OG0490 1479
+    GPS1008/B 	   0.009  -0.063  159478	 GAITHERSBURG CORS L1 PH AA3495 1067 GPS S 6                 HU2680 0422
+    GPS1008/B 	   0.010  -0.066  104300	 GAITHERSBURG CORS L1 PH AA3495 1067 ASTRO WEST PIER         HV3124 0479
+    GPS1008/B 	   0.011   0.069  248093	 PRINCETON 1             KV5879 1447 MONTAUK POINT 1 CORS L1 AB6303 1459
+    GPS1008/B 	   0.011  -0.029  682871	 JACKPORT                KC0696 1482 SAGINAW 1 CORS L1 PHASE AB6304 1460
+    GPS1008/B 	   0.011  -0.061  193044	 GAITHERSBURG CORS L1 PH AA3495 1067 NELSONa                 HU0524 0409
+    GPS1008/B 	   0.011  -0.063  681508	 MARAIS RESET            AA2869 1476 SAGINAW 1 CORS L1 PHASE AB6304 1460
+    GPS1008/B 	   0.012  -0.078   58861	 GAITHERSBURG CORS L1 PH AA3495 1067 TANEY                   JV6665 0450
+    GPS1008/B 	   0.013   0.064  248093	 PRINCETON 1             KV5879 1447 MONTAUK POINT 1 CORS L1 AB6303 1459
+    GPS1008/B 	   0.013  -0.075   24444	 GAITHERSBURG CORS L1 PH AA3495 1067 NC 25                   HV9245 1472
+    GPS1008/B 	   0.015   0.070  248093	 PRINCETON 1             KV5879 1447 MONTAUK POINT 1 CORS L1 AB6303 1459
+    GPS1008/B 	   0.015  -0.054  422627	 L 61                    RK0194 1468 SAGINAW 1 CORS L1 PHASE AB6304 1460
+    GPS1008/B 	   0.017   0.078   98191	 PAQUETTE                AD9919 1463 MONTAUK POINT 1 CORS L1 AB6303 1459
+    GPS1008/B 	   0.017  -0.058  543668	 GAITHERSBURG CORS L1 PH AA3495 1067 OSHAWA                  AD9915 1473
+    GPS1008/B 	   0.017  -0.073  104300	 GAITHERSBURG CORS L1 PH AA3495 1067 ASTRO WEST PIER         HV3124 0479
+    GPS1008/B 	   0.018   0.094   98191	 PAQUETTE                AD9919 1463 MONTAUK POINT 1 CORS L1 AB6303 1459
+    GPS1008/B 	   0.018  -0.060  749032	 HILLSBORO CORS L1 PHASE AB4137 1442 GPS 47                  FE2749 1457
+    GPS1008/B 	   0.018  -0.072  159478	 GAITHERSBURG CORS L1 PH AA3495 1067 GPS S 6                 HU2680 0422
+    GPS1008/B 	   0.018  -0.073  516902	 GAITHERSBURG CORS L1 PH AA3495 1067 BOLTON CBL 0            JY1558 1455
+    GPS1008/B 	   0.020   0.056   84439	 GAITHERSBURG CORS L1 PH AA3495 1067 MARYLAND PT RM 5        HV8128 0392
+    GPS1008/B 	   0.021  -0.057  720266	 RIVERSIDE GPS           RN1759 1453 SAGINAW 1 CORS L1 PHASE AB6304 1460
+    GPS1008/B 	   0.023  -0.059  536608	 GAITHERSBURG CORS L1 PH AA3495 1067 LONDON CBL PIER 1       AD9916 1469
+    GPS1008/B 	   0.023  -0.063  543668	 GAITHERSBURG CORS L1 PH AA3495 1067 OSHAWA                  AD9915 1473
+    GPS1008/B 	   0.025  -0.064  516902	 GAITHERSBURG CORS L1 PH AA3495 1067 BOLTON CBL 0            JY1558 1455
+    GPS1008/B 	   0.025  -0.090   24444	 GAITHERSBURG CORS L1 PH AA3495 1067 NC 25                   HV9245 1472
+    GPS1008/B 	   0.026   0.053   84439	 GAITHERSBURG CORS L1 PH AA3495 1067 MARYLAND PT RM 5        HV8128 0392
+    GPS1008/B 	   0.026  -0.095  416327	 GAITHERSBURG CORS L1 PH AA3495 1067 ASHCOPORT               MB2962 1454
+    GPS1008/B 	   0.027   0.043  604533	 HILLSBORO CORS L1 PHASE AB4137 1442 HOPEPORT                DL1592 1471
+    GPS1008/B 	   0.028  -0.062  504553	 HILLSBORO CORS L1 PHASE AB4137 1442 RUSSPORT                FG1961 1474
+    GPS1008/B 	   0.031  -0.081  543668	 GAITHERSBURG CORS L1 PH AA3495 1067 OSHAWA                  AD9915 1473
+    GPS1008/B 	   0.032  -0.086  416327	 GAITHERSBURG CORS L1 PH AA3495 1067 ASHCOPORT               MB2962 1454
+    GPS1008/B 	   0.041  -0.127  416327	 GAITHERSBURG CORS L1 PH AA3495 1067 ASHCOPORT               MB2962 1454
+    GPS1008/B 	   0.044   0.004  856113	 HILLSBORO CORS L1 PHASE AB4137 1442 ZAU B                   AA6281 1481
+    GPS1008/B 	   0.046   0.034  785190	 SAGINAW 1 CORS L1 PHASE AB6304 1460 WILLIAMSON              HB1673 1483
+    GPS1008/B 	   0.055   0.052  682871	 SAGINAW 1 CORS L1 PHASE AB6304 1460 JACKPORT                KC0696 1482
+    GPS1008/B 	   0.062   0.028  785190	 SAGINAW 1 CORS L1 PHASE AB6304 1460 WILLIAMSON              HB1673 1483
+    GPS1008/B 	   0.065   0.006 1156458	 BRINKLEYPORT            EH3106 1456 SAGINAW 1 CORS L1 PHASE AB6304 1460
+    GPS1008/B 	   0.081   0.046  486340	 K 169                   PE0218 1445 MONTAUK POINT 1 CORS L1 AB6303 1459
+    GPS1060/1 	   0.046  -0.070   33254	 RIC A                   AE2426 1493 W 474                   GV3449 1494
+    GPS1060/6 	   0.085  -0.012  136364	 GAITHERSBURG CORS L1 PH AA3495 1067 SUMMIT                  JU4001 1525
+    GPS1530/B 	   0.001   0.058   73883	 RICHMOND 1 CORS ARP     AF9635 1945 ASTRO WEST PIER         HV3124 0479
+    GPS1530/B 	   0.001   0.086   73883	 RICHMOND 1 CORS ARP     AF9635 1945 ASTRO WEST PIER         HV3124 0479
+    GPS1530/B 	   0.002   0.074   83965	 U.S. NAVAL OBSERV CORS  AI7403 1946 ASTRO WEST PIER         HV3124 0479
+    GPS1530/B 	   0.002   0.084   81516	 SOLOMONS ISLAND CORS AR AI3287 1947 ASTRO WEST PIER         HV3124 0479
+    GPS1530/B 	   0.004   0.086   83965	 U.S. NAVAL OBSERV CORS  AI7403 1946 ASTRO WEST PIER         HV3124 0479
+    GPS1530/B 	   0.004  -0.057   40325	 HORN POINT ENVIRO CORS  AI3494 1948 DARES                   HV8928 0393
+    GPS1530/B 	   0.006  -0.041   16391	 GODDARD SFC CORS MONUME AF9647 1832 KID MDDT                HV7797 1976
+    GPS1530/B 	   0.007   0.069   45011	 SOLOMONS ISLAND CORS AR AI3287 1947 863 5150 TIDAL 8        HV8249 1988
+    GPS1530/B 	   0.008   0.129   17266	 GAITHERSBURG CORS ARP   AF9522 1831 HERNDON OPTRACK         HV5130 0451
+    GPS1530/B 	   0.009   0.146   60004	 SOLOMONS ISLAND CORS AR AI3287 1947 D 462                   HV2975 1987
+    GPS1530/B 	   0.010   0.072   73883	 RICHMOND 1 CORS ARP     AF9635 1945 ASTRO WEST PIER         HV3124 0479
+    GPS1530/B 	   0.013   0.142   62249	 U.S. NAVAL OBSERV CORS  AI7403 1946 MARYLAND PT RM 5        HV8128 0392
+    GPS1530/B 	   0.014  -0.076   36417	 U.S. NAVAL OBSERV CORS  AI7403 1946 VA 18                   UA0022 1983
+    GPS1530/B 	   0.016   0.134   62249	 U.S. NAVAL OBSERV CORS  AI7403 1946 MARYLAND PT RM 5        HV8128 0392
+    GPS1530/B 	   0.019  -0.052   13087	 GAITHERSBURG CORS ARP   AF9522 1831 20305                   JV7097 0760
+    GPS1530/B 	   0.040  -0.030    8201	 SOLOMONS ISLAND CORS AR AI3287 1947 FIELDS                  HV8927 0397
+   GPS1060/78 	   0.005  -0.083   13321	 MARTAIR AZ MK           JV6476 1400 SWEENY                  JV6658 0380

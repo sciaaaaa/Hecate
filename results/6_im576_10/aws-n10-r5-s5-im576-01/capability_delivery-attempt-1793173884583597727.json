@@ -1,0 +1,60 @@
+{
+  "phase": "capability_delivery",
+  "started_unix": 1793173884.5835965,
+  "ended_unix": 1793173885.9647503,
+  "resumed": false,
+  "prior_attempts": 0,
+  "summary": {
+    "concurrency": 5,
+    "submitted_count": 5,
+    "successful_count": 5,
+    "failed_count": 0,
+    "success_rate": 1.0,
+    "makespan_ms": 1380.122602,
+    "throughput_tasks_per_s": 3.6228665429826794,
+    "latency_sum_ms": 6611.070702,
+    "latency_p50_ms": 1327.311631,
+    "latency_p95_ms": 1379.960255,
+    "latency_max_ms": 1379.960255,
+    "start_spread_ms": 0.09501800000000002,
+    "payload_bytes": 18485,
+    "payload_goodput_bytes_per_s": 13393.737609406966
+  },
+  "tasks": [
+    {
+      "entity": "dr01",
+      "start_offset_ms": 0.030634,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 1307.499351
+    },
+    {
+      "entity": "dr02",
+      "start_offset_ms": 0.065618,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 1226.342948
+    },
+    {
+      "entity": "dr03",
+      "start_offset_ms": 0.088843,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 1369.956517
+    },
+    {
+      "entity": "dr04",
+      "start_offset_ms": 0.106681,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 1327.311631
+    },
+    {
+      "entity": "dr05",
+      "start_offset_ms": 0.125652,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 1379.960255
+    }
+  ]
+}

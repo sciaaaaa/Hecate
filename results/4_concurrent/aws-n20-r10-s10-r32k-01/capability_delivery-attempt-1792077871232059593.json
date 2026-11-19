@@ -1,0 +1,95 @@
+{
+  "phase": "capability_delivery",
+  "started_unix": 1792077871.2320583,
+  "ended_unix": 1792077873.9994006,
+  "resumed": false,
+  "prior_attempts": 0,
+  "summary": {
+    "concurrency": 10,
+    "submitted_count": 10,
+    "successful_count": 10,
+    "failed_count": 0,
+    "success_rate": 1.0,
+    "makespan_ms": 2765.778709,
+    "throughput_tasks_per_s": 3.615618258778056,
+    "latency_sum_ms": 27068.769128,
+    "latency_p50_ms": 2725.359391,
+    "latency_p95_ms": 2765.552638,
+    "latency_max_ms": 2765.552638,
+    "start_spread_ms": 0.420138,
+    "payload_bytes": 36970,
+    "payload_goodput_bytes_per_s": 13366.940702702474
+  },
+  "tasks": [
+    {
+      "entity": "dr01",
+      "start_offset_ms": 0.043359,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 2748.675777
+    },
+    {
+      "entity": "dr02",
+      "start_offset_ms": 0.193158,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 2526.439205
+    },
+    {
+      "entity": "dr03",
+      "start_offset_ms": 0.079987,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 2640.23199
+    },
+    {
+      "entity": "dr04",
+      "start_offset_ms": 0.210414,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 2694.739978
+    },
+    {
+      "entity": "dr05",
+      "start_offset_ms": 0.227649,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 2765.462419
+    },
+    {
+      "entity": "dr06",
+      "start_offset_ms": 0.102957,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 2695.766824
+    },
+    {
+      "entity": "dr07",
+      "start_offset_ms": 0.120575,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 2750.142335
+    },
+    {
+      "entity": "dr08",
+      "start_offset_ms": 0.136305,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 2756.398571
+    },
+    {
+      "entity": "dr09",
+      "start_offset_ms": 0.463497,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 2725.359391
+    },
+    {
+      "entity": "dr10",
+      "start_offset_ms": 0.175106,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 2765.552638
+    }
+  ]
+}

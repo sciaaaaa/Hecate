@@ -1,0 +1,182 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+	<meta http-equiv=content-type content="text/html; charset=iso-8859-1">
+	<meta name="DC.title" content="Bureau of Economic Analysis" />
+	<meta name="DC.description" content="A page of the Bureau of Economic Analysis website" />
+	<meta name="DC.creator" content="US Department of Commerce, BEA, Bureau of Economic Analysis" />
+	<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+
+	<link rel="stylesheet" type="text/css" href="/_css/bea_new.css">
+	<!-- <link rel="stylesheet" type="text/css" href="/_css/print.css" media="print"> -->
+
+	<link rel="P3Pv1" href="/w3c/p3p.xml">
+	<link rel="alternate" type="application/rss+xml" title="BEA - Current Release (RSS)" href="http://www.bea.gov/rss/rss.xml"> 
+
+	<!--#include virtual="/_scripts/general.inc" -->
+
+
+
+	<title>BEA : Pipeline transportation</title>
+	
+	<meta name="description" content="Regional Definitions">
+	
+	<meta name="keywords" content="bureau of economic analysis, department of commerce, Regional, Definitions">
+	
+<LINK HREF="/regional/_css/rstyle.css" REL="stylesheet" TYPE="text/css"></head>
+
+
+<body class="regional">
+
+
+<div id="header">
+	<div id="about">
+		<a href="/index.htm"><img id="logo" src="/_images/bea_logo_blue_test.jpg" alt="BEA: Bureau of Economic Analysis. U.S. Department of Commerce" width="166" height="57"></a>
+		<div id="header_image"><img src="/_images/header_artwork.jpg"></div>
+		<p>Bureau of Economic Analysis<br>
+		<span id="bea">Regional Economic Accounts</span></p>
+	</div>
+</div>
+<div id="topTabs">
+<ul>
+	<li id="home"><a href="/index.htm"><span>Home</span></a></li>
+	<li id="about"><a href="/about/index.htm"><span>About BEA</span></a></li>
+	<li id="national"><a href="/national/index.htm"><span>National</span></a></li>
+	<li id="international"><a href="/international/index.htm"><span>International</span></a></li>
+	<li id="regional"><a href="/regional/index.htm"><span>Regional</span></a></li>
+	<li id="industry"><a href="/industry/index.htm"><span>Industry</span></a></li>
+	<li id="glossary"><a href="/glossary/glossary.cfm"><span>Glossary</span></a></li>
+	<!-- <li id="index"><a href="/azindex/index.htm"><span>Site Index</span></a></li> -->
+	 <li id="faqs"><a href="http://faq.bea.gov/cgi-bin/bea.cfg/php/enduser/std_alp.php"><span>FAQs</span></a></li> 
+</ul>
+</div>
+<!--#include virtual="/_includes/header_tabs_main.ssi" -->
+<ul id="bottomTabs">
+	<li id="aboutRegional"><a href="/regional/about.cfm">About Regional</a></li>
+	<li>&#8226;</li>
+	<li id="method"><a href="/regional/methods.cfm">Methodologies</a></li>
+	<li>&#8226;</li>
+	<li id="articles"><a href="/regional/articles.cfm">Articles</a></li>
+	<li>&#8226;</li>
+	<li id="schedule"><a href="/newsreleases/news_release_sort_regional.htm">Release Schedule</a></li>
+	<li>&#8226;</li>
+	<li id="contacts"><a href="/contacts/default.cfm?directorate=r">Staff Contacts</a></li>
+	<li>&#8226;</li>
+	<li id="subscription"><a href="http://service.govdelivery.com/service/multi_subscribe.html?code=USBEA">Email Subscriptions</a></li>
+</ul><!-- end of bottomTabs div -->
+
+
+
+
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td bgcolor="#FFFFFF">
+			
+			<div class="crumbs">
+			
+				<a href="/">Home</a> &gt; <a href="/regional/index.htm">Regional Economic Accounts</a> 
+						&gt; <a href=".">Regional Definitions</a>
+						
+							&gt; Pipeline transportation 
+			</div>
+			<div id="content"><!-- Do not modify ID -->
+				<h1>Pipeline transportation</h1>
+				 
+
+
+ <p>Industries in the Pipeline Transportation NAICS subsector use transmission pipelines to transport  products, such as crude oil, natural gas, refined petroleum products, and slurry. Industries  are identified based on the products transported (i.e., pipeline transportation of crude oil,  natural gas, refined petroleum products, and other products).  <p> The Pipeline Transportation of Natural Gas industry includes the storage of natural gas because  the storage is usually done by the pipeline establishment and because a pipeline is inherently a  network in which all the nodes are interdependent.</p>
+
+<h2 id="datatables">Related Data Tables</h2>
+<P>For estimates relating to Pipeline transportation please see the following tables<UL>
+<LI>In the <a href="/regional/gdpmetro/">GDP BY metropolitan area</a> series: GDP Metro <LI>In the <a href="/regional/gsp/">GDP BY state</a> series: GDP State <LI>In the <a href="/regional/reis/default.cfm?series=naics">county annual</a> series: CA05N <LI>In the <a href="/regional/spi/default.cfm?series=naics">state annual</a> series: SA05N SA07N SA25N SA27N 
+</ul>
+ 
+			</div><!-- end of content div -->
+			<p class="update">Last updated:
+			Friday, September 19, 2008 
+			</p>
+		</td>
+
+
+    <td id="sidebar" width="166" align="left" background="/_images/alt/background_right.jpg">
+    <!-- START of sidebarRight div --><div id="sidebarRight">
+	
+      	<div class="title_right"><label for="search_textfield">Search:</label></div>
+		<div class="clear"><img src="/_images/alt/top_right.jpg" alt=" "></div>
+		<div id="search_fieldset">
+			<form action="/search/index.cfm" method="post" class="search_form" id="search_form">
+	<input type="text" name="query" class="search_input_text" id="search_textfield">&nbsp;&nbsp;<input type="submit" value="Go" class="search_input_buttom" id="search_submit">
+</form>
+	<a href="/search/?advanced=1">Advanced</a> | <a href="http://faq.bea.gov/cgi-bin/bea.cfg/php/enduser/std_alp.php">FAQ</a> | <a href="/azindex/index.htm">A-Z Index</a>
+
+		</div>
+	
+	
+		<div class="clear"><img src="/_images/alt/top_left.jpg" alt=" "></div>
+		<div class="title_right">Additional information:</div>
+		<div class="clear"><img src="/_images/alt/top_right.jpg" alt=" "></div>
+		<div id="section1_wrap"><ul><li><a href="..\quick.cfm">Quick Links</a></li><li><a href="..\about.cfm#outreach">Outreach</a></li></ul></div>
+	
+		<div class="clear"><img src="/_images/alt/top_left.jpg" alt=" "></div>
+		<div class="title_right">Phone and e-mail:</div>
+		<div class="clear"><img src="/_images/alt/top_right.jpg" alt=" "></div>
+		<div id="section2_wrap"><div id="contact_wrap"><div class="contact_telephone">(202) 606-5360</div><div class="contact_email"><div><a href="mailto:reis@bea.gov">reis@bea.gov</a></div></div></div>
+	
+	
+		<div class="clear"><img src="/_images/alt/top_left.jpg" alt=" "></div>
+		<div class="title_right">Contacts:</div>
+		<div class="clear"><img src="/_images/alt/top_right.jpg" alt=" "></div>
+		<div id="contact_wrap">
+			
+			<!-- GENERAL contact -->
+			<div class="contact_general">Contact a subject matter expert by <a href="/contacts">phone</a> or by <a href="/contacts/email.asp">email</a>.</div>
+		</div>
+	
+		<div class="clear"><img src="/_images/alt/top_left.jpg" alt=" "></div>
+		<div class="title_right"></div>
+		<div class="clear"><img src="/_images/alt/top_right.jpg" alt=" "></div>            <!-- Menu end graphic: end -->
+     	</div><!-- end of sidebarRight div -->
+		<p class="subscribe_sidebar">
+			<a href="http://www.govdocs.com/service/multi_subscribe.html?code=USBEA" title="This link will take you to another Web site.">Sign up</a> for e-mail notifications.
+		</p>
+		<p class="pdfreader_sidebar">
+			<a href="/exit_site.asp?link=http://www.adobe.com/products/acrobat/readstep2.html" title="This link will take you to another Web site.">Download</a> the Acrobat Reader.
+		</p>
+	</td>
+
+  </tr>
+</table>
+
+
+<div class="footer_alt">
+<div>
+	<ul>
+		<li><a href="/index.htm">Home</a></li>
+		<li>|</li>
+		<li><a href="/contacts/search.htm">Contact Us</a></li>
+		<li>|</li>
+		<li><a href="/about/policies.htm">Policies</a></li>
+		<li>|</li>
+		<li><a href="/about/accessibility.htm">Accessibility</a></li>
+		<li>|</li>
+		<li><a href="/status/index.cfm">ESR System</a></li>
+		<li>|</li>
+		<li><a href="/rss/rss.xml">RSS</a></li>
+		<li>|</li>
+		<li><a href="/about/infoqual.htm">Information Quality Guidelines</a></li>
+		<li>|</li>
+		<li><a href="/about/BEAdissemination.htm">Data Dissemination Practices</a></li>
+		<li>|</li>
+		<li><a href="/about/Privacy_Statement.htm">Privacy Policy</a></li>
+		<li>|</li>
+		<li><a href="http://www.usa.gov">USA.gov</a></li>
+		</ul>
+		<div class="department_line">
+			<div class="department_tag">Bureau of Economic Analysis is an agency of the <a href="http://www.doc.gov">U.S. Department of Commerce</a>.</div>
+			<div class="department_image"><img src="/_images/doc_logo_test.jpg" alt="Department of Commerce logo."></div>
+		</div>
+	</div>
+</div>
+
+</body></html> 

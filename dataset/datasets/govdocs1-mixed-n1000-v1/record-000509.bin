@@ -1,0 +1,683 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <link rel="P3Pv1" href="/w3c/p3p.xml">
+      <title>Instructions for Schedule B(Form 941) (2/2009) </title><style type="text/css">
+	
+		@import url("http://www.irs.gov/irs/cda/common/styleSheets/navigation-gecko-1024.css");
+		@import url("http://www.irs.gov/irs/cda/common/styleSheets/styles-gecko-1024.css");
+	</style><style type="text/css">
+		div.leftnavXmlbc {
+			font:bold 12px/14px arial, verdana, sans-serif;
+			color:#000000;
+			height:auto;
+			width:185px;
+			overflow:hidden;
+			background:#E9EDF6;
+			padding:0 0 0 .5em;
+			margin:1em 0em 15px 0em;
+		}
+		
+		/* Style controls links in left nav */
+		div.leftnavXmlbc a {
+			font:normal normal 12px/14px arial, verdana, sans-serif;
+			color:#1C4E80;
+		}
+		
+		div.leftnavXmlbc a:visited {
+			font:normal normal 12px/14px arial, verdana, sans-serif;
+			color:#661C80;
+		}
+		
+		/* Style controls links in left nav */
+		div.leftnavXmlbc li {	
+			font:10px/14px arial, verdana, sans-serif;
+			color:#000000;
+			list-style-type:square;
+			margin-left:-3.5em;
+			padding-bottom:4px;
+		}
+		
+		/* Style controls links in left nav */
+		div.leftnavXmlbc ul {
+			list-style-type:square;
+			line-height:14px;
+			margin: -4px 0px 0px 1.5em;
+		}
+	</style>
+      	 	<!--[if IE]>
+      			<style type="text/css">
+      				@import url("http://www.irs.gov/irs/cda/common/styleSheets/styles-ie-1024.css");
+      				@import url("http://www.irs.gov/irs/cda/common/styleSheets/navigation-ie-1024.css");
+      							
+      			
+      				/* Div to hold page left nav */
+      				div.leftnavXmlbc {
+      					height:100%;
+      					padding:0 0 0px 6px;
+      					margin:12px 0px 0px 0px;
+      				}
+      
+      				/* Style controls links in left nav */
+      				div.leftnavXmlbc li {
+      					margin-left:0em;
+      				}
+      
+      				/* Style controls links in left nav */
+      				div.leftnavXmlbc ul {
+      					margin: -12px 0px 0px 1.5em;
+      				}
+      		
+      				div.contentPane {
+      					width:793px;
+      				}				
+      			</style>
+      		<![endif]--> 	
+       	<meta HTTP-EQUIV="Content-Language" CONTENT="en_us">
+      <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+      <meta NAME="Keywords" CONTENT="Forms and Publications,Instructions">
+      <meta NAME="Wct" CONTENT="Forms and Publications">
+      <meta NAME="releaseinfo" content="DocBook file Unspecified generated Unspecified using tipx.xsl, version v 1.1"><script language="JavaScript" type="text/JavaScript">
+	  
+	function setDivHeight() {
+		if ((navigator.appName).indexOf("Microsoft")) {
+			var footer = document.getElementById("footerDiv");
+			var footerHeightOffset = footer.offsetTop;
+			var leftnav = document.getElementById("leftNavDiv");
+			leftnav.style.height = footerHeightOffset-90;
+		}
+	}
+	
+	</script><script language="javascript" type="text/javascript">
+         <!--
+	    
+		function hyper(target) { 
+			window.open(target,'640x480','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes,resizable=yes');
+	    	}
+	--></script></head>
+   <body class="mainbody" onload="setDivHeight()"><script src="http://www.irs.gov/js/irs_reporting_firstpartycookie.js" type="text/javascript"></script><noscript><img border="0" name="DCSIMG" width="1" height="1" src="http://sdc.qai.irs.gov/njs.gif?dcsref=noScript" alt=" "></noscript>
+      <div id="main">
+         		<!--stopindex-->
+
+
+<div class="headerBar">
+
+
+	<a href="http://www.irs.gov/"><img id="logo" src="http://www.irs.gov/irs/cda/common/images/irslogo.gif" title="Internal Revenue Service United States Department of the Treasury" alt="Internal Revenue Service United States Department of the Treasury"/></a>
+
+
+	<a href="http://www.irs.gov/accessibility/index.html"><img src="http://www.irs.gov/irs/cda/common/images/blank.gif" title="Accessibility" alt="Accessibility" width="0" height="0" border="0" /></a>
+
+
+	<a href="#skiptotopnav"><img src="http://www.irs.gov/irs/cda/common/images/blank.gif" title="Skip to Top Navigation" alt="Skip to Top Navigation" width="0" height="0" border="0" /></a>
+
+
+	<a href="#skiptocontent"><img src="http://www.irs.gov/irs/cda/common/images/blank.gif" title="Skip to Main Content" alt="Skip to Main Content" width="0" height="0" border="0" /></a>
+
+
+	<a href="/index.html">Home</a>&nbsp;&nbsp;|&nbsp;
+
+
+	<a href="/help/article/0,,id=187124,00.html">Change Text Size</a>&nbsp;&nbsp;|&nbsp;
+
+
+	<a href="/contact/index.html">Contact IRS</a>&nbsp;&nbsp;|&nbsp;
+
+
+	<a href="http://www.irs.gov/irs/index.html">About IRS</a>&nbsp;&nbsp;|&nbsp;
+
+
+	<a href="http://www.irs.gov/sitemap/index.html">Site Map</a>&nbsp;&nbsp;|&nbsp;
+
+
+	<a href="http://www.irs.gov/espanol/index.html">Espa&#241;ol</a>&nbsp;&nbsp;|&nbsp;
+
+
+	<a href="http://www.irs.gov/help/index.html">Help</a>&nbsp;&nbsp;
+
+
+
+
+
+	<div id="mainsearch">
+
+
+
+
+
+		<form name="seek1" method="get" accept-charset="utf-8" action="http://search.irs.gov/web/query.html">
+
+
+			<script type="text/javascript" language="JavaScript"></script>
+
+
+			<input type="hidden" name="col" id="allirs_col" value="allirs" />
+
+
+			<input type="hidden" name="charset" value="utf-8" />
+
+
+			<input type="hidden" name="qp" value="" />
+
+
+			<input type="hidden" name="qs" value='-Wct:"Internal Revenue Manual"' />
+
+
+			<input type="hidden" name="qc" value="" />
+
+
+			<input type="hidden" name="qm" value="0" />
+
+
+			<input type="hidden" name="rf" value="0" />
+
+
+			<input type="hidden" name="oq" value="" />
+
+
+
+			<img  class="magnifying_glass" alt="magnifying glass" src="http://www.irs.gov/irs/cda/common/images/mag_glass.gif"/>
+
+			<input type="text" class="qt" name="qt" id="sbSearch" maxlength="255"
+            		alt="Keyword/Search Terms" onfocus="this.value='';" value=" "/>
+
+			<input class="search" name="search" alt="Search" title="Search" type="image"
+		            src="http://www.irs.gov/irs/cda/common/images/search_button.gif">
+
+			<br />
+			<div align=right  >
+
+				<a class="slinks" style="font-size: 11px;"
+	            	href="http://search.irs.gov/web/advanced-search.htm">Advanced Search</a>
+	            	&nbsp;
+
+				<a  class="slinks" style="font-size: 11px; margin-right: 45px; "
+		            href="http://www.irs.gov/help/search_help.html">Search Tips</a>
+			</div>
+
+			</form>
+
+
+	</div>
+
+
+</div>
+
+
+<div class="navigation">
+
+
+<a name="skiptotopnav"></a>
+
+
+	<ul id="menu">
+
+
+		<li class="menuitem" id="individuals_b"><a href="http://www.irs.gov/individuals/index.html" title="Information for Individuals, Employees, Farmers, International Taxpayers, Military, Parents, Self-Employed, Seniors &amp; Retirees and Students"><img src="http://www.irs.gov/irs/cda/common/images/nav/individuals-1024_a.gif" alt="Individuals"/></a></li>
+
+
+		<li class="menuitem" id="businesses_b"><a href="http://www.irs.gov/businesses/index.html" title="Information for Businesses, Corporations, International Businesses, Partnerships and Small Business/Self-Employed"><img src="http://www.irs.gov/irs/cda/common/images/nav/businesses-1024_a.gif" alt="Businesses"/></a></li>
+
+
+		<li class="menuitem" id="charities_b"><a href="http://www.irs.gov/charities/index.html" title="Information for Charities &amp; Non-Profits, Charitable Orgs, Churches and Religious Orgs, Contributors, Other Non-Profits, Political Orgs and Private Foundations"><img src="http://www.irs.gov/irs/cda/common/images/nav/charities-1024_a.gif" alt="Charities &amp; Non-Profits"/></a></li>
+
+
+		<li class="menuitem" id="govt_b"><a href="http://www.irs.gov/govt/index.html" title="Information for Government Entities, Federal, State, &amp; Local Gov&apos;ts, Governmental Liaisons and Indian Tribal Govt&apos;s"><img src="http://www.irs.gov/irs/cda/common/images/nav/govt-1024_a.gif" alt="Government Entities"/></a></li>
+
+
+		<li class="menuitem" id="taxpros_b"><a href="http://www.irs.gov/taxpros/index.html" title="Information for Tax Professionals, e-file Providers, Enrolled Actuaries and Enrolled Agents"><img src="http://www.irs.gov/irs/cda/common/images/nav/taxpros-1024_a.gif" alt="Tax Professionals"/></a></li>
+
+
+		<li class="menuitem" id="retirement_b"><a href="http://www.irs.gov/retirement/index.html" title="Information for Retirement Plans Community, Benefits Practitioner, Plan Participant/Employee and Plan Sponsor/Employer"><img src="http://www.irs.gov/irs/cda/common/images/nav/retirement-1024_a.gif" alt="Retirement Plans Community"/></a></li>
+
+
+		<li class="menuitem" id="taxexemptbond_b"><a href="http://www.irs.gov/taxexemptbond/index.html" title="Information for Tax Exempt Bond Community, Bond Professionals, Bondholders, Conduit Borrowers and Issuers"><img src="http://www.irs.gov/irs/cda/common/images/nav/taxexemptbond-1024_a.gif" alt="Tax Exempt Bond Community"/></a></li>
+
+
+	</ul></div>
+
+
+<!--startindex-->
+
+         	
+         <div class="content">
+            		<div class="content">
+	<div class="leftnavxmlbc" id="leftNavDiv" style="float:left;">
+		<!--stopindex-->
+		<br />
+		<p class="leftnavtopics">IRS Resources</p>
+		<ul type="square">
+			<li><a href="http://www.irs.gov/compliance/index.html">Compliance &amp; Enforcement</a></li>
+			<li><a href="http://www.irs.gov/localcontacts/index.html">Contact My Local Office</a></li>
+			<li><a href="http://www.irs.gov/efile/index.html">e-file</a></li>
+			<li><a href="http://www.irs.gov/formspubs/index.html">Forms and Publications</a></li>
+			<li><a href="http://www.irs.gov/faqs/index.html">Frequently Asked Questions</a></li>
+			<li><a href="http://www.irs.gov/newsroom/index.html">Newsroom</a></li>
+			<li><a href="http://www.irs.gov/advocate/index.html">Taxpayer Advocate Service</a></li>
+			<li><a href="http://www.irs.gov/file/index.html">Where To File</a></li>
+		</ul>
+	<!--startindex-->
+	</div>
+            	
+            <div class="contentPane"><a name="skiptocontent"></a><div class="chapter" lang="en">
+                  <div class="titlepage">
+                     <div>
+                        <div>
+                           <h3 class="title"><a name="d0e126"></a>Specific Instructions
+                           </h3>
+                        </div>
+                     </div>
+                     <div></div>
+                  </div>
+                  <div class="toc">
+                     <p><b>Table of Contents</b></p>
+                     <ul>
+                        <li><a href="ch02.html#d0e129">Completing Schedule B (Form 941)</a><ul>
+                              <li><a href="ch02.html#d0e132">Enter Your Business Information</a></li>
+                              <li><a href="ch02.html#d0e139">Calendar Year</a></li>
+                              <li><a href="ch02.html#d0e144">Check the Box for the Quarter</a></li>
+                              <li><a href="ch02.html#d0e154">Enter Your Tax Liability by Month</a></li>
+                              <li><a href="ch02.html#d0e179">Total Liability for the Quarter</a></li>
+                              <li><a href="ch02.html#d0e384">Amending a Previously Filed Schedule B (Form 941)</a></li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </div>
+                  <div class="section" lang="en">
+                     <div class="titlepage">
+                        <div>
+                           <div>
+                              <h4 class="title"><a name="d0e129"></a>Completing Schedule B (Form 941)
+                              </h4>
+                           </div>
+                        </div>
+                        <div></div>
+                     </div>
+                     <div class="section" lang="en">
+                        <div class="titlepage">
+                           <div>
+                              <div>
+                                 <h4 class="title"><em><a name="d0e132"></a>Enter Your Business Information</em></h4>
+                              </div>
+                           </div>
+                           <div></div>
+                        </div>
+                        <p>Carefully enter your employer identification number (EIN) and name at the top of the schedule. Make sure that they exactly
+                           match the name of your business and the EIN that the IRS assigned to your business and also agree with the name and EIN shown
+                           on the attached Form 941 or<br>Form 941-SS.
+                        </p>
+                     </div>
+                     <div class="section" lang="en">
+                        <div class="titlepage">
+                           <div>
+                              <div>
+                                 <h4 class="title"><em><a name="d0e139"></a>Calendar Year</em></h4>
+                              </div>
+                           </div>
+                           <div></div>
+                        </div>
+                        <p>Enter the calendar year that applies to the quarter checked.</p>
+                     </div>
+                     <div class="section" lang="en">
+                        <div class="titlepage">
+                           <div>
+                              <div>
+                                 <h4 class="title"><em><a name="d0e144"></a>Check the Box for the Quarter</em></h4>
+                              </div>
+                           </div>
+                           <div></div>
+                        </div>
+                        <p>Under <span class="emphasis"><em>Report for this Quarter</em></span> at the top of Schedule B (Form 941), check the appropriate box of the quarter for which you are filing this schedule. Make
+                           sure the quarter checked on the top of the Schedule B (Form 941) matches the quarter checked on your Form 941 or<br>Form 941-SS.
+                        </p>
+                     </div>
+                     <div class="section" lang="en">
+                        <div class="titlepage">
+                           <div>
+                              <div>
+                                 <h4 class="title"><em><a name="d0e154"></a>Enter Your Tax Liability by Month</em></h4>
+                              </div>
+                           </div>
+                           <div></div>
+                        </div>
+                        <p>Schedule B (Form 941) is divided into the 3 months that make up a quarter of a year. Each month has 31 numbered spaces that
+                           correspond to the dates of a typical month. Enter your tax liabilities in the spaces that correspond to the dates you <span class="bold"><b>paid</b></span> wages to your employees, not the date payroll deposits were made.
+                        </p>
+                        <p>For example, if your payroll period ended on December 31, 2008, and you <span class="bold"><b>paid</b></span> the wages for that period on January 6, 2009, you would:<br></p>
+                        <div class="itemizedlist">
+                           <ul type="disc">
+                              <li>
+                                 <p>go to Month 1 (because January is the first month of the quarter) and</p>
+                              </li>
+                              <li>
+                                 <p>enter your tax liability on line 6 (because line 6 represents the sixth day of the month).</p>
+                              </li>
+                           </ul>
+                        </div>
+                        <p>
+                                       
+                        </p>
+                        <p>Make sure you have checked the appropriate box on line 17 of Form 941 or Form 941-SS to show that you are a semiweekly schedule
+                           depositor.
+                        </p>
+                        <p></p>
+                     </div>
+                     <div class="section" lang="en">
+                        <div class="titlepage">
+                           <div>
+                              <div>
+                                 <h4 class="title"><em><a name="d0e179"></a>Total Liability for the Quarter</em></h4>
+                              </div>
+                           </div>
+                           <div></div>
+                        </div>
+                        <p>To find your total liability for the quarter, add your monthly tax liabilities.</p>
+                        <div class="informaltable">
+                           <table border="0" style="border-collapse: collapse;border-bottom: 0.5pt solid ; " width="390">
+                              <colgroup></colgroup>
+                              <tbody>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">Tax Liability for Month 1</td>
+                                    <td style="border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                 </tr>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="right">+</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">Tax Liability for Month 2</td>
+                                    <td style="border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                 </tr>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="right">+</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; "><span class="underline"><u>Tax Liability for Month 3</u></span></td>
+                                    <td style="border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                 </tr>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">Total Liability for the Quarter</td>
+                                    <td style="border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                 </tr>
+                                 <tr>
+                                    <td style="" colspan="3">Your total liability for the quarter must equal line 10 on Form 941 or line 8 on Form 941-SS.</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </div>
+                        <p>
+                                       
+                        </p>
+                        <p>
+                                          <span class="bold"><b>Here are some examples.</b></span>
+                                          <br></p>
+                        <div class="itemizedlist">
+                           <ul type="disc">
+                              <li>
+                                 <p> Employer A is a <span class="bold"><b>semiweekly</b></span> schedule depositor who pays wages for each month on the last day of the month. On December 22, 2009, Employer A also paid
+                                    its employees year-end bonuses (subject to employment taxes). Because Employer A is a semiweekly schedule depositor, Employer
+                                    A must record employment tax liabilities on Schedule B (Form 941). For the 4th quarter (October, November, December), Employer
+                                    A should report tax liability in this way&#8212;
+                                 </p>
+                                 <p>
+                                                            
+                                 </p>
+                                 <div class="informaltable">
+                                    <table border="0" style="border-collapse: collapse;" width="390">
+                                       <colgroup></colgroup>
+                                       <tbody>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; "><span class="underline"><u>Month</u></span></td>
+                                             <td style="border-bottom: 0.5pt solid ; "><span class="underline"><u>Lines for dates wages were paid</u></span></td>
+                                          </tr>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                             <td style="border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                          </tr>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">1 (October)</td>
+                                             <td style="border-bottom: 0.5pt solid ; ">line 31 (pay day, last day of the month)</td>
+                                          </tr>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">2 (November)</td>
+                                             <td style="border-bottom: 0.5pt solid ; ">line 30 (pay day, last day of the month)</td>
+                                          </tr>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">3 (December)</td>
+                                             <td style="border-bottom: 0.5pt solid ; ">lines 22 (bonus paid) + 31 (pay day)</td>
+                                          </tr>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; ">&nbsp;</td>
+                                             <td style="">&nbsp;</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </div>
+                                 <p>
+                                                         
+                                 </p>
+                              </li>
+                              <li>
+                                 <p> Employer B is a <span class="bold"><b>semiweekly</b></span> schedule depositor who pays employees every other Friday. Employer B accumulated a $20,000 employment tax liability on each
+                                    of these pay dates:<br>1/13/09, 1/27/09, 2/10/09, 2/24/09, 3/10/09, and 3/24/09. Since Employer B is a semiweekly schedule depositor, Employer B
+                                    must record tax liabilities on Schedule B (Form 941) in this way&#8212;
+                                 </p>
+                                 <p>
+                                                            
+                                 </p>
+                                 <div class="informaltable">
+                                    <table border="0" style="border-collapse: collapse;" width="390">
+                                       <colgroup></colgroup>
+                                       <tbody>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; "><span class="underline"><u>Month</u></span></td>
+                                             <td style="border-bottom: 0.5pt solid ; "><span class="underline"><u>Lines for dates wages were paid</u></span></td>
+                                          </tr>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                             <td style="border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                          </tr>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">1 (January)</td>
+                                             <td style="border-bottom: 0.5pt solid ; ">lines 13 and 27</td>
+                                          </tr>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">2 (February)</td>
+                                             <td style="border-bottom: 0.5pt solid ; ">lines 10 and 24</td>
+                                          </tr>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">3 (March)</td>
+                                             <td style="border-bottom: 0.5pt solid ; ">lines 10 and 24</td>
+                                          </tr>
+                                          <tr>
+                                             <td style="border-right: 0.5pt solid ; ">&nbsp;</td>
+                                             <td style="">&nbsp;</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </div>
+                                 <p>
+                                                         
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>Employer C is a new business and <span class="bold"><b>monthly</b></span> schedule depositor for 2009. Employer C pays wages every Friday and has accumulated a $2,000 employment tax liability on<br>1/13/09 and a $110,000 liability on 1/20/09 and on every subsequent Friday during 2009. Under the deposit rules, employers
+                                    <span class="bold"><b>become semiweekly schedule depositors</b></span> on the day after any day they accumulate $100,000 or more of tax liability in a deposit period. For more information, see
+                                    section 11 of Pub. 15 (Circular E) or section 8 of Pub. 80 (Circular SS).
+                                 </p>
+                              </li>
+                           </ul>
+                        </div>
+                        <p>
+                                       
+                        </p>
+                        <p>Because Employer C accumulated $112,000 on 1/20/09, Employer C became a semiweekly schedule depositor on the next day and
+                           must complete Schedule B (Form 941) and file it with Form 941 or Form 941-SS. Employer C should record tax liabilities in
+                           this way&#8212;
+                        </p>
+                        <div class="informaltable">
+                           <table border="0" style="border-collapse: collapse;border-bottom: 0.5pt solid ; " width="390">
+                              <colgroup></colgroup>
+                              <tbody>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; "><span class="underline"><u>Month</u></span></td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; "><span class="underline"><u>Dates wages were paid</u></span></td>
+                                    <td style="border-bottom: 0.5pt solid ; " colspan="2" align="center"><span class="underline"><u>Amount to record</u></span></td>
+                                 </tr>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="center">&nbsp;</td>
+                                    <td style="border-bottom: 0.5pt solid ; " align="center">&nbsp;</td>
+                                 </tr>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">1 (January)</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; "> line 13</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="right">$2,000</td>
+                                    <td style="border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                 </tr>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">1 (January)</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; "> lines 20, 27</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="right">$110,000</td>
+                                    <td style="border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                 </tr>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">2 (February)</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; "> lines 3, 10, 17, 24</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="right">$110,000</td>
+                                    <td style="border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                 </tr>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; ">3 (March)</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; "> lines 3, 10, 17, 24</td>
+                                    <td style="border-right: 0.5pt solid ; border-bottom: 0.5pt solid ; " align="right">$110,000</td>
+                                    <td style="border-bottom: 0.5pt solid ; ">&nbsp;</td>
+                                 </tr>
+                                 <tr>
+                                    <td style="border-right: 0.5pt solid ; ">&nbsp;</td>
+                                    <td style="border-right: 0.5pt solid ; ">&nbsp;</td>
+                                    <td style="border-right: 0.5pt solid ; " align="right">&nbsp;</td>
+                                    <td style="">&nbsp;</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </div>
+                        <p>
+                                       
+                        </p>
+                     </div>
+                     <div class="section" lang="en">
+                        <div class="titlepage">
+                           <div>
+                              <div>
+                                 <h4 class="title"><em><a name="d0e384"></a>Amending a Previously Filed Schedule B (Form 941)</em></h4>
+                              </div>
+                           </div>
+                           <div></div>
+                        </div>
+                        <div class="section" lang="en"><b class="title"><a name="d0e387"></a>Semiweekly schedule depositors.</b>
+                                 &nbsp;&nbsp;If you have been assessed a failure-to-deposit (FTD) penalty for a quarter AND you made an error on Schedule B (Form
+                           941) AND the correction will not change the total liability for the quarter you reported on Schedule B (Form 941), you may
+                           be able to reduce your penalty by filing a corrected Schedule B (Form 941).
+                           <p></p>
+                        </div>
+                        <div class="example"><a name="d0e392"></a><p class="title"><b>Example.</b></p>
+                           <p>You reported a liability of $3,000 in day 1 of month 1. However, the liability was actually for month 3. Prepare an amended
+                              Schedule B (Form 941) showing the $3,000 liability in day 1 of month 3. Also, you must enter the liabilities previously reported
+                              for the quarter that did not change. Write &#8220;<span class="quote">Amended</span>&#8221; at the top of Schedule B (Form 941). The IRS will refigure the penalty and notify you of any change in the penalty.
+                           </p>
+                        </div>
+                        <div class="section" lang="en"><b class="title"><a name="d0e400"></a>Monthly schedule depositors.</b>
+                                 &nbsp;&nbsp;You can also file an amended Schedule B (Form 941) if you have been assessed an FTD penalty for a quarter and you
+                           made an error on the monthly tax liability section of Form 941. When completing Schedule B (Form 941), only enter the monthly
+                           totals. The daily entries are not required.
+                           <p></p>
+                        </div>
+                        <div class="section" lang="en"><b class="title"><a name="d0e405"></a>Where to file.</b>
+                                 &nbsp;&nbsp;File your amended Schedule B at the address provided in the penalty notice you received. You do not have to submit
+                           your original Schedule B (Form 941).
+                           <p></p>
+                        </div>
+                        <div class="section" lang="en">
+                           <div class="titlepage">
+                              <div>
+                                 <div>
+                                    <h4 class="title"><a name="d0e410"></a>Form 941-X
+                                    </h4>
+                                 </div>
+                              </div>
+                              <div></div>
+                           </div>
+                           <div class="section" lang="en"><b class="title"><a name="d0e413"></a>Tax decrease.</b>
+                                    &nbsp;&nbsp;If you are filing Form 941-X for a quarter, you can file an amended Schedule B (Form 941) with Form 941-X if both
+                              of the following apply.
+                              <div class="orderedlist">
+                                 <ol type="1">
+                                    <li>
+                                       <p>You have a tax decrease AND</p>
+                                    </li>
+                                    <li>
+                                       <p>You were assessed an FTD penalty.</p>
+                                    </li>
+                                 </ol>
+                              </div>
+                                                
+                              <p></p>
+                                    &nbsp;&nbsp;File your amended Schedule B (Form 941) with Form 941-X. The total liability for the quarter reported on your corrected
+                              Schedule B (Form 941) must equal the corrected amount of tax reported on Form 941-X. If your penalty is decreased, the IRS
+                              will include the penalty decrease with your tax decrease.
+                              <p></p>
+                           </div>
+                           <div class="section" lang="en"><b class="title"><a name="d0e428"></a>Tax increase.</b>
+                                    &nbsp;&nbsp;If you are filing Form 941-X showing a tax increase, do not file an amended Schedule B (Form 941) unless you were
+                              assessed an FTD penalty caused by an incorrect, incomplete, or missing Schedule B (Form 941). Do not include the tax increase
+                              reported on Form 941-X on an amended Schedule B (Form 941) you file to correct an incorrect, incomplete, or missing Schedule
+                              B (Form 941).
+                              <p></p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="navfooter">
+                  <table style="width:530px" summary="Navigation footer">
+                     <tr>
+                        <td width="40%" align="left"><a accesskey="p" href="ch01.html">Prev</a>&nbsp;
+                        </td>
+                        <td width="20%" align="center"><a accesskey="u" href="index.html">Up</a></td>
+                        <td width="40%" align="right">&nbsp;<a accesskey="n" href="ar02.html">Next</a></td>
+                     </tr>
+                     <tr>
+                        <td width="40%" align="left" valign="top">&nbsp;</td>
+                        <td width="20%" align="center"><a accesskey="h" href="index.html">Home</a></td>
+                        <td width="40%" align="right" valign="top">&nbsp;</td>
+                     </tr>
+                  </table>
+               </div><br><table style="width:530px" summary="More Link">
+                  <tr>
+                     <td width="35%" align="left" valign="top"></td>
+                     <td width="30%" align="center"><a href="/instructions/index.html">More Online Instructions</a></td>
+                     <td width="35%" align="right" valign="top"></td>
+                  </tr>
+               </table>
+            </div>
+            			<!--stopindex-->
+<div class="footer" id="footerDiv">
+	<a href="http://www.irs.gov/accessibility/index.html">Accessibility</a>&#160;|&#160;
+	<a href="http://www.irs.gov/foia/index.html">Freedom of Information Act</a>&#160;|&#160;
+	<a href="http://www.irs.gov/help/content/0,,id=127967,00.html">Important Links</a>&#160;|&#160;
+	<a href="http://www.irs.gov/privacy/index.html">IRS Privacy Policy</a>&#160;|&#160;
+	<a href="http://www.irs.gov/app/scripts/exit.jsp?dest=http%3A%2F%2Fwww.firstgov.gov" title="U.S. Government Homepage">USA.gov</a>&#160;|&#160;
+	<a href="http://www.irs.gov/app/scripts/exit.jsp?dest=http%3A%2F%2Fwww.treasury.gov/" title="U.S. Department of the Treasury">U.S. Treasury</a>
+	<br/><br/>		
+<!--startindex-->
+</div>
+
+
+            		
+         </div>
+      </div>
+   </body>
+</html>

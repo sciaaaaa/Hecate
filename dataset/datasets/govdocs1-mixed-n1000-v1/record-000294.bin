@@ -1,0 +1,128 @@
+SAM Technical Assessment of Grid-Jim
+Version 0.93
+10 February 2004
+Participating for SAM: Rob Kennedy (lead) and Sinisa Veseli
+Participating for Grid-Jim: Igor Terekhov, Gabriele Garzoglio
+
+
+1) Background documents
+
+	a) http://www-d0.fnal.gov/computing/grid for project definition, task
+	list.
+
+	b) PPDG Year 3 plan for deliverables and timetables, available at
+	http://www.ppdg.net/docs/documents_and_information.htm
+
+	c) Informal meetings between Rob, Sinisa, Igor, and Gabriele on 17 Dec
+	2003 and on 16 Jan 2004. Written notes are available.
+
+	d) Meetings at the Computing Division level with some combination of CD
+	management, Grid-Jim team, D0CA department head, and SAM team.
+
+	e) E-mail "JIM Deployment Plan for MC Production" by Wyatt Merritt,
+	dated 02 Feb 2004.
+
+
+2) Project definition, mission statement, organization
+
+	From (a): "D0 Grid is a virtual project whose core is the D0-PPDG group
+at Fermilab and which includes off-site D0 collaborators under the aegis of
+various Grid projects. It's mission is to enable fully distributed computing
+for the experiment, by enhancing SAM as the distributed data handling system of
+D0, incorporating standard Grid tools and protocols, and developing new
+solutions for Grid computing together with Computer Scientists. Under this
+mission, the project strives to unite the D0 efforts from the multifarious Grid
+activities (PPDG, EU DataGrid, GridPP and more), off-site analysis work and
+other aspirations distributed throughout the D0 collaboration. The two main
+areas of work are Job Handling (including specification, brokering, scheduling
+etc.) and Monitoring and Information Services."
+
+	Igor Terekhov and Gabriele Garzoglio are the Grid-Jim team co-leaders.
+The team also includes two students.
+
+
+3) Deliverables and timetable
+
+	a) PPDG Year 3 "October 2003" goals: All goals considered met as
+	described except the transition to using VDT releases. This has been
+	deferred until higher priority goals (see 'b' below) are achieved.
+
+	b) Next major milestone: Remote D0 Simulation Production in March 2004.
+	The deliverables and timetable for this is outlined in e-mail "JIM
+	Deployment Plan for MC Production" by Wyatt Merritt, dated 02 Feb 2004.
+
+	c) After this milestone: CDF JIM issues, improved brokering, and a
+	web-based status page.
+
+
+4) Inter-project dependencies
+
+	Grid/Jim does not depend on other SAM projects. It does depend on
+Condor-G and Globus tools.
+
+
+5) Project status
+
+	The project is almost completely focussed now on the Remote D0
+Simulation Production milestone. A plan is in place now, and progress is being
+made towards the goal. D0 Simulation jobs have been and are being run by the
+Grid-Jim team at remote computing centers, though without output merging. The
+remaining work in the next month is to educate the D0 manager in how to run
+jobs and deal with errors, and to bring the operation of this system in general
+up to production quality standards.
+
+
+6) Challenges and critical path items
+
+	There are several challenges worth noting. The entire run-time
+environment (RTE) is being shipped to worker nodes in the Grid-Jim deployment
+model. This has been aided by using the SAM system not only to distribute data
+files, but also to distribute RTE tarballs to remote computing centers. Another
+issue is the merging of output files, which is not yet supported. Also, large
+input files to Simulation jobs can limit the amount of parallelism one can
+exploit in a computing center since the traditional model of one input file per
+process within a job is no longer applicable.
+
+
+7) Lessons Learned
+
+	IMHO, one should decouple a development team from experiment schedules
+and choices outside of the control of the development team. The development
+team delivers a well-specified tool or system, which the experiment can choose
+to integrate with their operations on their time schedule. There should be
+clearly defined responsibilities for the development team as well as the
+experiment liaison team, and individuals should not be expected to play both
+roles. If the either team fails to meet its obligations, then the other can not
+be pushed into doing the unmet tasks, and thus take them away from their area
+of expertise and responsibility, in order to meet the overall goal.
+
+
+8) Project-specific comments, alternative points of view or opinions, etc.
+
+	There are extensive notes on the discussions that led to this
+assessment write-up, which for the sake of brevity, are not all reproduced
+here. Some tasks where the SAM team may help: Mcrunjob needs to handle the
+parentage issues with the intermediate files. Perhaps this can be canned as a
+fixed 3-day project for someone like Dave Evans. Temporary file support in SAM
+may need some work for locations where file is physically erased. This is
+similar to what other sub-projects want and hopefully can be worked on in
+parallel with other GRID-Jim tasks. Also, the SAM team may help in the
+operations support and installation support of GRID-JIM.
+
+	Paraphrased comments from Rick: This sub-project seems to be two chiefs
+and 2 indians.(students). It should be re-formed into a more global context of
+SAMGrid. We should redefine this by grid services and these are condor, gridftp
+and monitoring. The monitoring can be spun off to a separate sub-project.
+
+	It would also help to have a break-down along grid services defining
+protocol and package versions in use in order to facilitate communications with
+other GRID projects.
+
+
+9) Next sub-project report
+
+	We should update this assessment after the D0 Simulation Production
+milestone is met, expected in March 2004.
+
+
+.the end.

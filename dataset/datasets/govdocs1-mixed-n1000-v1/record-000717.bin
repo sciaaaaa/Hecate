@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	<head>
+		<title>PHMSA Stakeholder Communications: Pipeline Basics </title>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<meta name="keywords" content="pipeline, safety, oil, natural gas, hazardous, liquid, propane, communications, stakeholder"/>
+		<meta name="description" content="Office of Pipeline Safety Communications" />
+		
+		<link rel="stylesheet" type="text/css" media="all" href="css/PHMSA.css"></link>
+		<link rel="stylesheet" type="text/css" media="all" href="css/Reports.css"></link>
+		<link rel="stylesheet" type="text/css" media="all" href="css/SortTable.css"></link>
+		<link rel="stylesheet" type="text/css" media="all" href="css/htoggler_tabs.css"></link>
+		<!--[if lte IE 7]><style> .gain-layout { zoom: 1; } </style>	<![endif]-->
+		
+		<script type="text/javascript" src="js/prototype.js"></script>
+		<script type="text/javascript" src="js/scriptaculous.js"></script>
+		<script type="text/javascript" src="js/effects.js"></script>
+		<script type="text/javascript" src="js/htoggler.js"></script>
+		<script type="text/javascript" src="js/SortTable.js"></script>
+		<script type="text/javascript" src="js/PHMSA.js"></script>
+		<script type="text/javascript" src="js/glossarysupport.js"></script>
+	</head>
+	<body>
+		<div id="divMainHead">
+			<span id="PHMSATitle">PHMSA Pipeline Safety Program</span>
+			<h1>Stakeholder Communications</h1>
+			<div id="divMainTabs">
+				<a href="Index.htm">Home</a>
+				<a href="GeneralPublic.htm">General Public</a>
+				<a href="LocalOfficials.htm">Local Officials</a>
+				<a href="StateRegulators.htm">State Regulators</a>
+				<a href="Federal.htm">Federal Agencies</a>
+				<a href="EmergencyOfficials.htm">Emergency Officials</a>
+				<a href="AdvocacyGroups.htm">Advocates</a>
+				<a href="Industry.htm">Industry</a>
+				<a href="Excavators.htm">Excavators</a>
+				<div style="clear: both"></div>
+			</div>
+		</div>
+		<div class="border"></div>
+		<div id="divSide">
+			<div id="divSideTab">
+				<span class="top-corner"></span>
+				<div class="gain-layout">
+					<a class="printthis" href="#" onclick="Print();">Print</a>
+				</div>
+				<span class="bottom-corner"></span>
+				<div class="side-section-end"></div>
+			</div>
+			<div id="divSideTab2">
+				<div class="gain-layout">
+					<span id="sideTab2Toggle" class="expanded" onclick="ToggleSideTab2()">Enforcement Reports</span>
+
+					<div id="sideTab2Contents">
+						<p class="enforcement-category"><!--a href="reports/enforce/EnfHome.html" title="Nationwide Enforcement Reports">Nationwide</a--><a href="reports/enforce/OpSearch.html" title="Enforcement Reports for Specific Operators">Operator Specific</a></p>
+						<h5>Nationwide</h5>
+						<p><a href="reports/enforce/EnfHome.html" title="See a high level summary of overall enforcement activity.">Home</a></p>
+						<p><a href="reports/enforce/Letters_opid_0.html" title="See a tabulation of the cases initiated and resolved in a given year. Data are provided for each enforcement mechanism used by PHMSA.">Enforcement Actions</a></p>
+						<p><a href="reports/enforce/CaseStatus_opid_0.html" title="See progress in resolving enforcement cases initiated in a given year.  Data are provided for each type of enforcement mechanism used by PHMSA.">Enforcement Case Status</a></p>
+						<h5>Cases Opened</h5>
+						<p><a href="reports/enforce/CasesOpen_opid_0.html" title="See a list of cases initiated in a given year and their current status.">Listing of Cases Initiated</a></p>
+						<p><a href="reports/enforce/CAO_opid_0.html" title="See a list of Corrective Action Orders issued in a given year and their status.">Corrective Action Orders Issued</a></p>
+						<p><a href="reports/enforce/NOPV_opid_0.html">Notice of Probable Violation Issued</a></p>
+						<p><a href="reports/enforce/NOA_opid_0.html">Notices of Amendment Issued</a></p>
+						<p><a href="reports/enforce/WL_opid_0.html">Warning Letters Issued</a></p>
+						<h5>Cases Resolved</h5>
+						<p><a href="reports/enforce/CasesClosed_opid_0.html">Listing of Cases Resolved</a></p>
+						<p><a href="reports/enforce/FOCP_opid_0.html">Final Orders Issued and Civil Penalties Assessed</a></p>
+						<p><a href="reports/enforce/CAOClose_opid_0.html">Corrective Action Orders Closed</a></p>
+						<p><a href="reports/enforce/NOAClose_opid_0.html">Notices of Amendment Closed</a></p>
+						<p><a href="reports/enforce/Cono_opid_0.html">Consent Orders Issued</a></p>
+					</div>
+				</div>
+				<span class="bottom-corner"></span>
+				<div class="side-section-end"></div>
+			</div>
+			<div id="divSidebar">
+				<h3>Site Pages</h3>
+				<div>
+					<p><a href="PipelineBasics.htm" class="current">Pipeline Basics</a></p>
+					<p><a href="SafetyStandards.htm">Safety Standards</a></p>
+					<p><a href="InspectionEnforcement.htm">Inspection</a></p>
+					<p><a href="reports/enforce/Enforcement.html">Enforcement</a></p>
+					<p><a href="reports/safety/PSI.html">Incident &amp; Mileage Reports</a></p>
+					<p><a href="DamagePrevention.htm">Damage Prevention</a></p>
+	<p><a href="AlternativeFuels.htm">Alternative Fuels</a></p>
+					<p><a href="CATS.htm">Community Assistance and Technical Services</a></p>
+					<p><a href="LandUsePlanning.htm">Land Use Planning</a></p><p><a href="PublicMeetings.htm">Public Meetings</a></p>
+					<p><a href="PublicEducation.htm">Public Awareness</a></p>
+					<p><a href="LNG.htm">Liquefied Natural Gas</a></p>
+					<p><a href="PipelineLibrary.htm">Pipeline Library</a></p>
+					<p><a href="glossary/index.htm">Pipeline Glossary</a></p>
+					<p><a href="Links.htm">Links</a></p>
+				</div>
+					<h3 id="pStateSelector">State-specific information:</h3>
+				<div>
+					<select onchange="location = $F(this);">
+						<option selected>Choose One...</option>
+						<option value="StatePages/Alaska.htm">Alaska</option>
+						<option value="StatePages/Alabama.htm">Alabama</option>
+						<option value="StatePages/Arizona.htm">Arizona</option>
+						<option value="StatePages/Arkansas.htm">Arkansas</option>
+						<option value="StatePages/California.htm">California</option>
+						<option value="StatePages/Colorado.htm">Colorado</option>
+						<option value="StatePages/Connecticut.htm">Connecticut</option>
+						<option value="StatePages/Delaware.htm">Delaware</option>
+						<option value="StatePages/DistrictofColumbia.htm">D.C.</option>
+						<option value="StatePages/Florida.htm">Florida</option>
+						<option value="StatePages/Georgia.htm">Georgia</option>
+						<option value="StatePages/Hawaii.htm">Hawaii</option>
+						<option value="StatePages/Idaho.htm">Idaho</option>
+						<option value="StatePages/Illinois.htm">Illinois</option>
+						<option value="StatePages/Indiana.htm">Indiana</option>
+						<option value="StatePages/Iowa.htm">Iowa</option>
+						<option value="StatePages/Kansas.htm">Kansas</option>
+						<option value="StatePages/Kentucky.htm">Kentucky</option>
+						<option value="StatePages/Louisiana.htm">Louisiana</option>
+						<option value="StatePages/Maine.htm">Maine</option>
+						<option value="StatePages/Maryland.htm">Maryland</option>
+						<option value="StatePages/Massachusetts.htm">Massachusetts</option>
+						<option value="StatePages/Michigan.htm">Michigan</option>
+						<option value="StatePages/Minnesota.htm">Minnesota</option>
+						<option value="StatePages/Mississippi.htm">Mississippi</option>
+						<option value="StatePages/Missouri.htm">Missouri</option>
+						<option value="StatePages/Montana.htm">Montana</option>
+						<option value="StatePages/Nebraska.htm">Nebraska</option>
+						<option value="StatePages/Nevada.htm">Nevada</option>
+						<option value="StatePages/NewHampshire.htm">New Hampshire</option>
+						<option value="StatePages/NewJersey.htm">New Jersey</option>
+						<option value="StatePages/NewMexico.htm">New Mexico</option>
+						<option value="StatePages/NewYork.htm">New York</option>
+						<option value="StatePages/NorthCarolina.htm">North Carolina</option>
+						<option value="StatePages/NorthDakota.htm">North Dakota</option>
+						<option value="StatePages/Ohio.htm">Ohio</option>
+						<option value="StatePages/Oklahoma.htm">Oklahoma</option>
+						<option value="StatePages/Oregon.htm">Oregon</option>
+						<option value="StatePages/Pennsylvania.htm">Pennsylvania</option>		  
+						<option value="StatePages/RhodeIsland.htm">Rhode Island</option>
+						<option value="StatePages/SouthCarolina.htm">South Carolina</option>
+						<option value="StatePages/SouthDakota.htm">South Dakota</option>
+						<option value="StatePages/Tennessee.htm">Tennessee</option>
+						<option value="StatePages/Texas.htm">Texas</option>
+						<option value="StatePages/Utah.htm">Utah</option>
+						<option value="StatePages/Vermont.htm">Vermont</option>
+						<option value="StatePages/Virginia.htm">Virginia</option>
+						<option value="StatePages/Washington.htm">Washington</option>
+						<option value="StatePages/WestVirginia.htm">West Virginia</option>
+						<option value="StatePages/Wisconsin.htm">Wisconsin</option>
+						<option value="StatePages/Wyoming.htm">Wyoming</option>
+						<option value="StatePages/PuertoRico.htm">Puerto Rico</option>
+					</select>
+					<noscript>
+						<a href="States.htm" title="Links to state pages for users with JavaScript disabled.">Links to State Pages</a>
+					</noscript>
+				</div>
+			</div>
+		</div>
+		<div id="divContentHead">
+			<h2>Pipeline Basics </h2>
+		</div>
+		<div id="divContentBody" class="content-body">
+			<div class="gain-layout" style="overflow: auto">
+			 
+
+       <p class="highlight"> What are pipelines?  Where are they?  And why do we need them in the first 
+	   place?  
+	   Those are good, basic questions. </p>
+       <p><img alt="Gas line construction" src="images/Gas_LineConstruction_Duke1.JPG" width="350" height="234" border="1" class="in-text-right">The energy transportation network of the United States consists of over 2 million miles of 
+	   pipelines. That's enough to circle the earth 83 times.  These pipelines are operated by more than 
+	   3,000 companies, large and small. </p>
+       <p> The network includes approximately: </p>
+       <ul>
+         <li> 170,000 miles of onshore and offshore <a href="PetroleumPipelineSystems.htm">Hazardous Liquid</a> pipeline; </li>
+         <li> 295,220 miles of onshore and offshore <a href="NaturalGasPipelineSystems.htm"> Gas Transmission</a> pipelines;</li>
+         <li> 1,900,000 miles of <a href="NaturalGasPipelineSystems.htm">Natural Gas Distribution</a> pipelines; </li>
+         <li> 109 <a href="LNG.htm">LNG Plants</a> connected to our natural gas transmission and distribution systems; and </li>
+		 <li> Propane Distribution System pipelines. </li>
+       </ul>
+       <p> Although pipelines exist in all fifty states, most of us are unaware that this vast network 
+	   even exists. This is due to the strong safety record of pipelines and the fact that most of them 
+	   are located underground. Installing pipelines underground protects them from damage and helps 
+	   protect our communities as well. </p>
+       <p ><strong> Where Are They?</strong></p>
+	   <p>Most hazardous liquid and gas pipelines are buried underground.  To ensure your safety and avoid damaging underground lines, <u>you must call your state one-call center before digging.</u> <a href="CBYD.htm">Call Before you Dig!</a> </p>
+       <p> <img alt="right of way" src="images/DSCN4277.JPG" width="300" height="225" border="1" class="in-text-left">Most hazardous liquid and natural gas <em>transmission</em> pipelines  are located underground in <a href="glossary/index.htm#RightofWay">rights-of-way</a>
+ (ROW). A ROW consists of 
+	   consecutive property easements acquired by, or granted to, the pipeline company. The ROW provides 
+	   sufficient space to perform pipeline maintenance and inspections, as well as a clear zone where 
+	   encroachments can be monitored and prevented. 
+	   <a href="ROWBrief.htm"  >ROW Briefing.  </a></p>
+	   <p>To find out if a transmission pipeline is located near you, you can visit the <a href="http://www.npms.phmsa.dot.gov/">National Pipeline Mapping System</a> (NPMS) and search by your county or zip code. </p>
+       <p> Pipeline operators are required to post brightly-colored markers along their ROW to indicate 
+	   the presence of &ndash; but not necessarily the <em>exact</em> location of &ndash; their underground
+	    pipelines. Markers come in a variety of shapes and sizes. They contain  information about the 
+		nearby pipeline as well as emergency contact information for the company that operates it. 
+		<a href="MarkersBrief.htm"  >Pipeline Markers Briefing  </a></p>
+       <p>Natural gas distribution systems consist of distribution main lines and service lines.  Distribution main lines are generally installed in underground utility easements alongside streets and highways. Distribution service lines run from the distribution main line into homes or businesses. Distribution main and service lines are not generally indicated by above-ground markers. To ensure safety and avoid damaging underground lines, anyone planning to dig or excavate is required by law to contact their state One-Call center 48 to 72 hours before digging. <a href="CBYD.htm"  >Call Before You Dig!  </a> </p>
+       <p><strong> Why Do We Need Them?</strong></p>
+       <p> Pipelines play a vital role in our daily lives. Cooking and cleaning, the daily commute, 
+	   air travel and the heating of homes and businesses are all made possible by the readily available 
+	   fuels delivered through pipelines.  Click here to see a list of products transported through pipelines.  <a href="FactSheets/FSProductList.htm"> More...</a></p>
+       <p> <img alt="alaska" src="images/Alaska1.JPG" width="300" height="200" border="1" class="in-text-right">These routine activities really add up, in terms of energy use. Natural gas provides for fully 
+	   24% of our country&rsquo;s <em>total energy consumption</em>, and petroleum provides for 
+	   another 39%. </p>
+       <p> Because such huge volumes of hazardous liquid and natural gas must be transported, the only 
+	   feasible way to do so is through pipelines. Pipelines do not crowd our highways and waterways as 
+	   trucks and barges would, nor do they contribute to traffic congestion or highway accidents. </p>
+       <p> Pipelines, in short, are practical and safe. </p>
+       <p><strong>Here is more information about pipelines that you may find interesting:</strong></p>
+       <p><a href="NaturalGasPipelineSystems.htm">Natural Gas Pipeline Systems: From the wellhead to the consumer</a> </p>
+       <p><a href="PetroleumPipelineSystems.htm">Petroleum Pipeline Systems: From the wellhead to the consumer</a> </p>
+	   <p><a href="Exploration.htm"  >Basics of gas and oil exploration  </a> </p>
+        <p><a href="Technologies.htm" >Technologies of gas and oil exploration  </a> </p>
+        <p><a href="EarlyDays.htm" >Early days of the oil industry </a></p>
+        <p><a href="construction/index.htm" >Pipeline construction </a> </p>
+
+			<div id="divTooltip"></div>
+			</div><!-- ends Block Formatting Context (overflow: auto div) -->
+		</div><!-- ends ContentBody div -->
+		<div id="divContentShadow"></div>
+		
+		<div id="divFooter"><a href="Feedback.htm">Feedback</a> | <a href="HighlightDirectory.htm">Information Highlights Directory</a> |  <a href="/common/privacy.htm">Privacy Policy</a> | <a href="Accessibility.htm" title="accessibility policy">Accessibility Policy</a> | &copy;2005-2008 PHMSA</div>
+		<script type="text/javascript">
+			//<![CDATA[
+			var objOriginalDimensions;
+			
+			function init()
+			{
+				objOriginalDimensions = $('sideTab2Contents').getDimensions();
+				if (!SideTabWasOpen())
+				{
+					$("sideTab2Contents").hide();
+					$("sideTab2Toggle").removeClassName("expanded");
+					$("sideTab2Toggle").addClassName("collapsed");
+				}
+			};		
+			Event.observe(window, 'load', init);
+			// ]]>
+	</script>
+	</body>
+</html>

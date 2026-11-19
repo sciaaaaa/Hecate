@@ -1,0 +1,301 @@
+<html>
+<head>
+<title>NPWRC :: Checklists of the United States</title>
+<script type="text/javascript"></script> <!-- prevents browser "flash" -->
+<link href="/styles/common.css" rel="stylesheet" type="text/css"  />
+<link href="/styles/custom.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<!-- BEGIN USGS Header Template -->
+<div class="bannerColorBand">
+	<div class="banner">
+		<div class="identifier"><a href="http://www.usgs.gov/" title="U.S. Geological Survey Home Page"><img src="/images/header_graphic_usgsIdentifier_white.jpg" alt="U.S. Geological Survey - science for a changing world" width="178" height="72" style="border: none;" /></a></div>
+		<img src="/images/header_graphic_spacer.gif" height="72" width="1" alt="" style="position: absolute;" />
+		<div class="ccsaBox">
+			<img src="/images/header_graphic_spacer.gif" height="72" width="1" alt="" style="float: left;" />
+			<div class="ccsa">
+			  <br /><a href="http://www.usgs.gov/">USGS Home</a><br />
+			  <a href="http://www.usgs.gov/ask/index.html">Contact USGS</a><br />
+			  <a href="http://www.usgs.gov/search">Search USGS</a><br />
+			</div>
+		</div>
+	</div>
+</div>
+<div class="siteTitle"> 
+  <p id="pTitle"><a href="/" title="Northern Prairie Wildlife Research Center Home Page" accesskey="h">Northern Prairie Wildlife Research Center</a></p>
+</div>
+<!-- END USGS Header Template -->
+
+<!-- === BEGIN CONTENT CONTAINER =========================================== -->
+<div id="contentBody"> 
+<hr class="hidden" />
+
+
+<center>
+<h1>Miscellaneous Checklists of the United States</h1>
+<h2>Pine Island, Matlacha Pass, Island Bay,<br>
+Caloosahatchee National Wildlife Refuges</h2>
+<img src="images/dotpine.gif" alt="small state map showing location"><p>
+<i>Florida</i>
+</center>
+<hr>
+<b><font size="+1">Species List</font></b>
+<p>
+The following is a list of fauna found In Pine Island, Matlacha Pass, Island Bay and Caloosahatchee National Wildlife Refuges:
+<pre>
+<b>Fish</b>
+
+___ Florida Gar                        <i>Lepisosteus platyrhincus</i>
+___ Nurse Shark                        <i>Ginglymostoma cirratum</i>
+___ Bull Shark                         <i>Carcharhinus leucas</i>
+___ Blacktip Shark                     <i>Carcharhinus limbatus</i>
+___ Spinner Shark                      <i>Carcharhinus maculipinnis</i>
+___ Sandbar Shark                      <i>Carcharhinus plumbeus</i>
+___ Dusky Shark                        <i>Carcharhinus obscurus</i>
+___ Tiger Shark                        <i>Galeocerdo cuvieri</i>
+___ Lemon Shark                        <i>Negaprion brevirostis</i>
+___ Atlantic Sharpnose Shark           <i>Rhizoprionodon terraenovae</i>
+___ Great Hammerhead                   <i>Sphyrna mokarran</i>
+___ Bonnethead Shark                   <i>Sphyrna tiburo</i>
+___ Atlantic Guitarfish                <i>Rhinobatos lentiginosus</i>
+___ Lesser Electric Ray                <i>Narcine brasiliensis</i>
+___ Clearnose Skate                    <i>Raja eglanteria</i>
+___ Southern Stingray                  <i>Dasyatis americana</i>
+___ Atlantic Stingray                  <i>Dasyatis sabina</i>
+___ Smooth Butterfly Ray               <i>Gymnura micura</i>
+___ Spotted Eagle Ray                  <i>Aetobatus narinari</i>
+___ Southern Eagle Ray                 <i>Myliobatis goodei</i>
+___ Cownose Ray                        <i>Rhinoptera bonasus</i>
+___ Ladyfish                           <i>Elops saurus</i>
+___ Tarpon                             <i>Megalops atlantica</i>
+___ American Eel                       <i>Anguilla rostrata</i>
+___ Gulf Menhaden                      <i>Brevoortia patronus</i>
+___ Atlantic Thread Herring            <i>Opisthonema oglinum</i>
+___ Scaled Sardine                     <i>Harengula jaguana</i>
+___ Bay Anchovy                        <i>Anchoa mitchilla</i>
+___ Inshore Lizardfish                 <i>Synodus foetens</i>
+___ Gafftopsail Catfish                <i>Bagre marinus</i>
+___ Hardhead Catfish                   <i>Arius felis</i>
+___ Gulf Toadfish                      <i>Opsanus beta</i>
+___ Skilletfish                        <i>Goiesox strumosus</i>
+___ Polka-dot Batfish                  <i>Ogcocephalus radiatus</i>
+___ Houndfish                          <i>Tylosurus crocodilus</i>
+___ Sheepshead minnow                  <i>Cyprinodon variegatus</i>
+___ Gulf Killifish                     <i>Fundulus confluentus</i>
+___ Longnose Killifish                 <i>Fundulus similis</i>
+___ Rainwater Killifish                <i>Lucania parva</i>
+___ Mosquitofish                       <i>Gambusia affinis</i>
+___ Sailfin Molly                      <i>Poecilia latipinna</i>
+___ Dwarf Seahorse                     <i>Hippocampus zosterae</i>
+___ Gulf Pipefish                      <i>Syngnathus hildebrandi</i>
+___ Common Snook                       <i>Centropomus undecimalis</i>
+___ Spotted Jewfish                    <i>Epinephelus itajara</i>
+___ Red Grouper                        <i>Epinephelus morio</i>
+___ Gag Grouper                        <i>Mycteroperca microlepis</i>
+___ Black Seabass                      <i>Centropristis striata</i>
+___ Bluefish                           <i>Pomatomus saltatrix</i>
+___ Cobia                              <i>Rachycentron canadum</i>
+___ Remora                             <i>Remora remora</i>
+___ Yellow Jack                        <i>Caranx bartholomaei</i>
+___ Crevalle Jack                      <i>Caranx hippos</i>
+___ Atlantic bumper                    <i>Chloroscombrus chrysurus</i>
+___ Leatherjacket                      <i>Oligoplites saurus</i>
+___ Greater Amberjack                  <i>Seriola setapinnis</i>
+___ Florida pompano                    <i>Trachinotus carolinus</i>
+___ Lane Snapper                       <i>Lutjanus synagris</i>
+___ Mangrove Snapper                   <i>Lutjanus griseus</i>
+___ Tripletail                         <i>Lobotes surinamensis</i>
+___ Striped Mojorra                    <i>Diapterus plumieri</i>
+___ Silver Jenny                       <i>Eucinostomus gula</i>
+___ Mottled Mojarra                    <i>Ulaema lefroyi</i>
+___ Pigfish                            <i>Orthopristis chrysoptera</i>
+___ White Grunt                        <i>Haemulon plumieri</i>
+___ Sheepshead                         <i>Archosargus probatocephalus</i>
+___ Pinfish                            <i>Lagodon rhomboides</i>
+___ Grass Porgy                        <i>Calamus arctifrons</i>
+___ Cubbyu                             <i>Equetus umbrosus</i>
+___ Southern Kingfish                  <i>Menticirrus americanus</i>
+___ Gulf Kingfish                      <i>Menticirrhus littoralis</i>
+___ Black Drum                         <i>Pogonias cromis</i>
+___ Red Drum                           <i>Sciaenops ocellata</i>
+___ Silver                             <i>Cynoscion nothus</i>
+___ Spotted Seatrout                   <i>Cynoscion nebulosus</i>
+___ Atlantic Spadefish                 <i>Chaetodipterus faber</i>
+___ Striped Mullet                     <i>Mugil cephalus</i>
+___ White Mullet                       <i>Mugil curema</i>
+___ Great Barracuda                    <i>Sphyraena barracuda</i>
+___ Highfin Blenny                     <i>Lupinoblennius nicholsi</i>
+___ Spanish Mackerel                   <i>Scomberomorus maculatus</i>
+___ Bighead Searobin                   <i>prionotus tribulus</i>
+___ Barbfish                           <i>Scorpaena brasiliensis</i>
+___ Gulf Flounder                      <i>Paralichthys albigutta</i>
+___ Southern Flounder                  <i>Paralichthys lethostigma</i>
+___ Hogchoker                          <i>Trinectes maculatus</i>
+___ Tonguefish                         <i>Symphurus sp.</i>
+___ Plainhead Filefish                 <i>Monachnthus hispidus</i>
+___ Queen Triggerfish                  <i>Balistes vetula</i>
+___ Southern Puffer                    <i>Sphoeroides nephelus</i>
+___ Striped Burrfish                   <i>Chilumycterus schoepfi</i>
+<hr>
+<b>Macroinvertebrates</b>
+<p>
+___ Horseshoe Crab                     <i>Limulus polyphemus</i>
+___ Fiddler Crab                       <i>Uca spp.</i>
+___ Mangrove Crab                      <i>Aratus pisonia</i>
+___ Coffee Snail                       <i>Melampus coffeus</i>
+___ Littorinids                        <i>Littorina angulifera</i>
+___ Banded Tree Snail                  <i>Orthalicus floridensis</i>
+<hr>
+<b>Butterflies</b>
+<p>
+___ Large Orange Sulphur               <i>Phoebis agarithe maxima</i>
+___ White Peacock                      <i>Anartia jatrophea</i>
+___ Zebra Longwing                     <i>Heliconius charitonius</i>
+___ Gulf Fritillary                    <i>Argaulis vanillae</i>
+___ Giant Swallowtail                  <i>Papilio cresphontes</i>
+___ Mangrove Buckeye                   <i>Junonia evarete</i>
+___ Queen                              <i>Danaus gilippus</i>
+___ Atala Hairstreak                   <i>Eumaeus atala</i>
+<hr>
+<b>Amphibians</b>
+<p>
+___ Two-toed Amphiuma                  <i>Amphiuma means</i>
+___ Greater Siren                      <i>Siren lacertina</i>
+___ Eastern Lesser Siren               <i>Siren intermedia intermedia</i>
+___ Everglades Dwarf Siren             <i>Siren intermedia</i>
+___ Dwarf Siren                        <i>Pseudobranchus striatus</i>
+___ Southern Dusky Salamander          <i>Desmognathus auriculatus</i>
+___ Slimy Salamander                   <i>Plethodon glutinosus</i>
+___ Eastern Newt                       <i>Notophthalmus viridescens</i>
+___ Penisular Newt                     <i>Notophtalmus viridescens piaro</i>
+___ Dwarf Salamander                   <i>Eurycea quadridigitata</i>
+___ Eastern Spadefoot Toad             <i>Scaphiopus holbrookis</i>
+___ Southern Toad                      <i>Bufo terrestris</i>
+___ Oak Toad                           <i>Bufo quercicus</i>
+___ Greenhouse Frog                    <i>Eleutherodactylus planirostris planirostris</i>
+___ Florida cricket frog               <i>Acris gryllus dorsalis</i>
+___ Green Tree Frog                    <i>Hyla cinerea</i>
+___ Squirrel Tree Frog                 <i>Hyla squirella</i>
+___ Cuban Tree Frog                    <i>Osteopilus septentrionalis</i>
+___ Florida Chorus Frog                <i>Pseudacris nigrita verrucosa</i>
+___ Little Grass Frog                  <i>Pseudacris ocularis</i>
+___ Eastern Narrow-mouthed Toad        <i>Gastrophryne carolinensis</i>
+___ Pig Frog                           <i>Rana grylio</i>
+___ Southern Leopard Frog              <i>Rana utricularia</i>
+___ Bullfrog                           <i>Rana catesbeiana</i>
+___ Gopher Frog                        <i>Rana areolata aesopus</i>
+<hr>
+<b>Reptiles (Lizards)</b>
+<p>
+___ Indo-Pacific Gecko                 <i>Hemidactylus garnotii</i>
+___ Green Anole                        <i>Anolis carolinensis</i>
+___ Brown Anole                        <i>Anolis sagrei</i>
+___ Southern Fence Lizard              <i>Sceloporus undulatus undulatus</i>
+___ Penisular Mole Skink               <i>Scincella lateralis</i>
+___ Eastern Glass Lizard               <i>Ophisaurus ventralis</i>
+___ Six-lined Racerunner               <i>Cnemidophorus sexlineatus sexlineatus</i>
+___ Southeastern Five-lined Skink      <i>Eumeces inexpectatus</i>
+___ Florida Worm Lizard                <i>Rhineura floridana</i>
+___ Island Glass Lizard                <i>Ophisaurus compressus</i>
+___ Eastern Slender Glass Lizard       <i>Ophisaurus attenuatus longicaudus</i>
+<hr>
+<b>Reptiles (Snakes)</b>
+<p>
+___ Florida Green Water Snake          <i>Nerodia floridana</i>
+___ Brown Water Snake                  <i>Nerodia taxispilota</i>
+___ Florida Water Snake                <i>Nerodia fasciata pictiventris</i>
+___ Mangrove Salt Marsh Snake          <i>Nerodia clarkii compressicauda</i>
+___ Florida Brown Snake                <i>Storeria dekayi victa</i>
+___ Eastern Garter Snake               <i>Thamnophis siratalis siratalis</i>
+___ Penisula Ribbon Snake              <i>Thamnophis sauritus sackenii</i>
+___ Southern Ringneck Snake            <i>Diadophis punctatus punctatus</i>
+___ Southern Black Racer               <i>Coluber constrictor priapus</i>
+___ Eastern Coachwhip                  <i>Masticophis flagellum flagellum</i>
+___ Eastern Indigo Snake               <i>Drymarchon corais couperi</i>
+___ Yellow Rat Snake                   <i>Elaphe obsloeta quadrivittata</i>
+___ Everglades Rat Snake               <i>Elaphe obsoleta rassalleni</i>
+___ Corn Snake                         <i>Elaphe guttata guttata</i>
+___ Eastern Coral Snake                <i>Micrurus fulvius fulvius</i>
+___ Florida Cottonmouth                <i>Agkistrodon piscivorus conanti</i>
+___ Eastern Diamondback Rattlesnake    <i>Crotalus adamanteus</i>
+___ Dusky Pygmy Rattlesnake            <i>Sistrurus miliarius barbouri</i>
+___ South Florida Black Swamp Snake    <i>Seminatriz pygaea cyclas</i>
+___ Eastern Hognose Snake              <i>Heterodon platyrhinos</i>
+___ Southern Hognose Snake             <i>Heterodon simus</i>
+___ Eastern Mud Snake                  <i>Farancia abacura abacura</i>
+___ Striped Crayfish Snake             <i>Regina alleni</i>
+___ Everglades Racer                   <i>Coluber constrictor paludicola</i>
+___ Black Racer                        <i>Coluber constrictor priapus</i>
+___ Rough Green Snake                  <i>Opheodrys aestivus</i>
+___ Florida King Snake                 <i>Lampropeltis getulus</i>
+___ Scarlet King Snake                 <i>Lampropeltis triangulum elapsoides</i>
+___ Florida Scarlet Snake              <i>Cemophora coccinea coccinea</i>
+___ Florida Pine Snake                 <i>Pituophis melanoleucus mugitus</i>
+___ Pine Woods Snake                   <i>Rhadinaea flavilata</i>
+___ Short-tailed Snake                 <i>Stilosoma extenuatum</i>
+<hr>
+<b>Reptiles (Crocodilians)</b>
+<p>
+___ American Crocodile                 <i>Crocodyleus acutes</i>
+___ American Alligator                 <i>Alligator mississippiansis</i>
+<hr>
+b>Reptiles (Turtles and Tortoises)
+<p>
+___ Florida Snapping Turtle            <i>Chelydra serpentina osceola</i>
+___ Striped Mud Turtle                 <i>Kinosternon baurii</i>
+___ Florida Mud Turtle                 <i>Kinosternon subrubrum steindachneri</i>
+___ Gopher Tortoises                   <i>Gopherus polyphemus</i>
+___ Florida Box Turtle                 <i>Terrapene carolina bauri</i>
+___ Gulf Box Turtle                    <i>Terrepene carolina major</i>
+___ Ornate Diamond-back Terrapin       <i>Malaclemys terrapin macrospilota</i>
+___ Florida Yellowbelly Slider         <i>Trachemys scripta scripta</i>
+___ Florida Redbelly Turtle            <i>Pseudemys nelsoni</i>
+___ Florida Stinkpot Turtle            <i>Stenotherus odoraus</i>
+___ Peninsular Cooter                  <i>Pseudemys floridana peninsularis</i>
+___ Florida Chicken Turtle             <i>Deirochelys reticularia chrysea</i>
+___ Florida Softshell Turtle           <i>Apalone ferox</i>
+___ Soft-shelled Turtle                <i>Trionyx ferox</i>
+___ Green Turtle                       <i>Chelonia mydas mydas</i>
+___ Hawksbill Turtle                   <i>Eretmochelys imbricata imbricata</i>
+___ Loggerhead Turtle                  <i>Caretta caretta</i>
+___ Kemp's Ridley                      <i>Lepidochelys kempi</i>
+</pre>
+<hr>
+<a href="pine.htm">Return</a> to <b>Bird Checklist of Pine Island, Matlacha Pass, Island Bay,
+                                   Caloosahatchee National Wildlife Refuges</b><br>
+
+
+<hr class="hidden" />
+</div> 
+<!-- END contentBody -->
+<!-- === END CONTENT CONTAINER ============================================= -->
+
+<!-- BEGIN Bottom Navigation Bar -->
+<div id="bottomNavbar"> 
+	<a href="/" title="NPWRC Home page">NPWRC Home</a> | <a href="/sitemap.htm" title="Site Map">Site Map</a> | <a href="/about/index.htm" title="About NPWRC">About Us</a> | <a href="/staff/index.htm" title="NPWRC Staff Directory and Biographies">Staff</a> | <a href="/resource/index.htm" title="Search for Biological Resources">Search</a> | <a href="/contact/index.htm" title="Contact NPWRC">Contact</a> | <a href="/about/index.htm#website" title="Web Site Help">Web Help</a> | <a href="/about/website/copyright.htm" title="Copyright Information for Photos and Text">Copyright</a> 
+</div>
+<!-- END bottomNavbar -->
+
+<!-- BEGIN USGS Footer Template -->
+<p class="footerBar" style="clear: both;">
+	<a href="http://www.usgs.gov/accessibility.html" title="Accessibility Policy (Section 508).">Accessibility</a>
+	<a href="http://www.usgs.gov/foia/" title="Freedom of Information Act.">FOIA</a>
+	<a href="http://www.usgs.gov/privacy.html" title="Privacy policies of the U.S. Geological Survey.">Privacy</a>
+	<a href="http://www.usgs.gov/policies_notices.html" title="Policies and notices that govern information posted on USGS Web sites. ">Policies and Notices</a>
+</p>
+
+<p class="footerText">
+	<a href="http://www.takepride.gov/" title="Take Pride in America home page."><img src="/images/footer_graphic_takePride.jpg" alt="Take Pride in America home page." width="60" height="58" style="border: none;  float: right;" /></a>
+	<a href="http://firstgov.gov/" title="FirstGov: The U.S. Government's Official Web Portal."><img src="/images/footer_graphic_firstGov.jpg" alt="FirstGov button" width="90" height="26" style="border: none; float: right; margin-right: 10px;" /></a>
+	<a href="http://www.doi.gov">U.S. Department of the Interior</a> | <a href="http://www.usgs.gov">U.S. Geological Survey</a><br />
+	URL: http://www.npwrc.usgs.gov/resource/birds/chekbird/r4/pinefish.htm<br />
+	Page Contact Information: <a href="/contact/index.htm">npwrc@usgs.gov</a><br />
+	Page Last Modified: August  3, 2006
+</p>
+<hr />
+<!-- END USGS Footer Template -->
+
+</body>
+</html>
+

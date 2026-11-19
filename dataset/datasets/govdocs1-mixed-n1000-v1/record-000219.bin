@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	<head>
+		<title>PHMSA Stakeholder Communications: Pipeline Library </title>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<meta name="keywords" content="pipeline, safety, oil, natural gas, hazardous, liquid, propane, communications, stakeholder"/>
+		<meta name="description" content="Office of Pipeline Safety Communications" />
+		
+		<link rel="stylesheet" type="text/css" media="all" href="css/PHMSA.css"></link>
+		<link rel="stylesheet" type="text/css" media="all" href="css/Reports.css"></link>
+		<link rel="stylesheet" type="text/css" media="all" href="css/SortTable.css"></link>
+		<link rel="stylesheet" type="text/css" media="all" href="css/htoggler_tabs.css"></link>
+		<!--[if lte IE 7]><style> .gain-layout { zoom: 1; } </style>	<![endif]-->
+		
+		<script type="text/javascript" src="js/prototype.js"></script>
+		<script type="text/javascript" src="js/scriptaculous.js"></script>
+		<script type="text/javascript" src="js/effects.js"></script>
+		<script type="text/javascript" src="js/htoggler.js"></script>
+		<script type="text/javascript" src="js/SortTable.js"></script>
+		<script type="text/javascript" src="js/PHMSA.js"></script>
+		<script type="text/javascript" src="js/glossarysupport.js"></script>
+	</head>
+	<body>
+		<div id="divMainHead">
+			<span id="PHMSATitle">PHMSA Pipeline Safety Program</span>
+			<h1>Stakeholder Communications</h1>
+			<div id="divMainTabs">
+				<a href="Index.htm">Home</a>
+				<a href="GeneralPublic.htm">General Public</a>
+				<a href="LocalOfficials.htm">Local Officials</a>
+				<a href="StateRegulators.htm">State Regulators</a>
+				<a href="Federal.htm">Federal Agencies</a>
+				<a href="EmergencyOfficials.htm">Emergency Officials</a>
+				<a href="AdvocacyGroups.htm">Advocates</a>
+				<a href="Industry.htm">Industry</a>
+				<a href="Excavators.htm">Excavators</a>
+				<div style="clear: both"></div>
+			</div>
+		</div>
+		<div class="border"></div>
+		<div id="divSide">
+			<div id="divSideTab">
+				<span class="top-corner"></span>
+				<div class="gain-layout">
+					<a class="printthis" href="#" onclick="Print();">Print</a>
+				</div>
+				<span class="bottom-corner"></span>
+				<div class="side-section-end"></div>
+			</div>
+			<div id="divSideTab2">
+				<div class="gain-layout">
+					<span id="sideTab2Toggle" class="expanded" onclick="ToggleSideTab2()">Enforcement Reports</span>
+
+					<div id="sideTab2Contents">
+						<p class="enforcement-category"><!--a href="reports/enforce/EnfHome.html" title="Nationwide Enforcement Reports">Nationwide</a--><a href="reports/enforce/OpSearch.html" title="Enforcement Reports for Specific Operators">Operator Specific</a></p>
+						<h5>Nationwide</h5>
+						<p><a href="reports/enforce/EnfHome.html" title="See a high level summary of overall enforcement activity.">Home</a></p>
+						<p><a href="reports/enforce/Letters_opid_0.html" title="See a tabulation of the cases initiated and resolved in a given year. Data are provided for each enforcement mechanism used by PHMSA.">Enforcement Actions</a></p>
+						<p><a href="reports/enforce/CaseStatus_opid_0.html" title="See progress in resolving enforcement cases initiated in a given year.  Data are provided for each type of enforcement mechanism used by PHMSA.">Enforcement Case Status</a></p>
+						<h5>Cases Opened</h5>
+						<p><a href="reports/enforce/CasesOpen_opid_0.html" title="See a list of cases initiated in a given year and their current status.">Listing of Cases Initiated</a></p>
+						<p><a href="reports/enforce/CAO_opid_0.html" title="See a list of Corrective Action Orders issued in a given year and their status.">Corrective Action Orders Issued</a></p>
+						<p><a href="reports/enforce/NOPV_opid_0.html">Notice of Probable Violation Issued</a></p>
+						<p><a href="reports/enforce/NOA_opid_0.html">Notices of Amendment Issued</a></p>
+						<p><a href="reports/enforce/WL_opid_0.html">Warning Letters Issued</a></p>
+						<h5>Cases Resolved</h5>
+						<p><a href="reports/enforce/CasesClosed_opid_0.html">Listing of Cases Resolved</a></p>
+						<p><a href="reports/enforce/FOCP_opid_0.html">Final Orders Issued and Civil Penalties Assessed</a></p>
+						<p><a href="reports/enforce/CAOClose_opid_0.html">Corrective Action Orders Closed</a></p>
+						<p><a href="reports/enforce/NOAClose_opid_0.html">Notices of Amendment Closed</a></p>
+						<p><a href="reports/enforce/Cono_opid_0.html">Consent Orders Issued</a></p>
+					</div>
+				</div>
+				<span class="bottom-corner"></span>
+				<div class="side-section-end"></div>
+			</div>
+			<div id="divSidebar">
+				<h3>Site Pages</h3>
+				<div>
+					<p><a href="PipelineBasics.htm">Pipeline Basics</a></p>
+					<p><a href="SafetyStandards.htm">Safety Standards</a></p>
+					<p><a href="InspectionEnforcement.htm">Inspection</a></p>
+					<p><a href="reports/enforce/Enforcement.html">Enforcement</a></p>
+					<p><a href="reports/safety/PSI.html">Incident &amp; Mileage Reports</a></p>
+					<p><a href="DamagePrevention.htm">Damage Prevention</a></p>
+	<p><a href="AlternativeFuels.htm">Alternative Fuels</a></p>
+					<p><a href="CATS.htm">Community Assistance and Technical Services</a></p>
+					<p><a href="LandUsePlanning.htm">Land Use Planning</a></p><p><a href="PublicMeetings.htm">Public Meetings</a></p>
+					<p><a href="PublicEducation.htm">Public Awareness</a></p>
+					<p><a href="LNG.htm">Liquefied Natural Gas</a></p>
+					<p><a href="PipelineLibrary.htm" class="current">Pipeline Library</a></p>
+					<p><a href="glossary/index.htm">Pipeline Glossary</a></p>
+					<p><a href="Links.htm">Links</a></p>
+				</div>
+					<h3 id="pStateSelector">State-specific information:</h3>
+				<div>
+					<select onchange="location = $F(this);">
+						<option selected>Choose One...</option>
+						<option value="StatePages/Alaska.htm">Alaska</option>
+						<option value="StatePages/Alabama.htm">Alabama</option>
+						<option value="StatePages/Arizona.htm">Arizona</option>
+						<option value="StatePages/Arkansas.htm">Arkansas</option>
+						<option value="StatePages/California.htm">California</option>
+						<option value="StatePages/Colorado.htm">Colorado</option>
+						<option value="StatePages/Connecticut.htm">Connecticut</option>
+						<option value="StatePages/Delaware.htm">Delaware</option>
+						<option value="StatePages/DistrictofColumbia.htm">D.C.</option>
+						<option value="StatePages/Florida.htm">Florida</option>
+						<option value="StatePages/Georgia.htm">Georgia</option>
+						<option value="StatePages/Hawaii.htm">Hawaii</option>
+						<option value="StatePages/Idaho.htm">Idaho</option>
+						<option value="StatePages/Illinois.htm">Illinois</option>
+						<option value="StatePages/Indiana.htm">Indiana</option>
+						<option value="StatePages/Iowa.htm">Iowa</option>
+						<option value="StatePages/Kansas.htm">Kansas</option>
+						<option value="StatePages/Kentucky.htm">Kentucky</option>
+						<option value="StatePages/Louisiana.htm">Louisiana</option>
+						<option value="StatePages/Maine.htm">Maine</option>
+						<option value="StatePages/Maryland.htm">Maryland</option>
+						<option value="StatePages/Massachusetts.htm">Massachusetts</option>
+						<option value="StatePages/Michigan.htm">Michigan</option>
+						<option value="StatePages/Minnesota.htm">Minnesota</option>
+						<option value="StatePages/Mississippi.htm">Mississippi</option>
+						<option value="StatePages/Missouri.htm">Missouri</option>
+						<option value="StatePages/Montana.htm">Montana</option>
+						<option value="StatePages/Nebraska.htm">Nebraska</option>
+						<option value="StatePages/Nevada.htm">Nevada</option>
+						<option value="StatePages/NewHampshire.htm">New Hampshire</option>
+						<option value="StatePages/NewJersey.htm">New Jersey</option>
+						<option value="StatePages/NewMexico.htm">New Mexico</option>
+						<option value="StatePages/NewYork.htm">New York</option>
+						<option value="StatePages/NorthCarolina.htm">North Carolina</option>
+						<option value="StatePages/NorthDakota.htm">North Dakota</option>
+						<option value="StatePages/Ohio.htm">Ohio</option>
+						<option value="StatePages/Oklahoma.htm">Oklahoma</option>
+						<option value="StatePages/Oregon.htm">Oregon</option>
+						<option value="StatePages/Pennsylvania.htm">Pennsylvania</option>		  
+						<option value="StatePages/RhodeIsland.htm">Rhode Island</option>
+						<option value="StatePages/SouthCarolina.htm">South Carolina</option>
+						<option value="StatePages/SouthDakota.htm">South Dakota</option>
+						<option value="StatePages/Tennessee.htm">Tennessee</option>
+						<option value="StatePages/Texas.htm">Texas</option>
+						<option value="StatePages/Utah.htm">Utah</option>
+						<option value="StatePages/Vermont.htm">Vermont</option>
+						<option value="StatePages/Virginia.htm">Virginia</option>
+						<option value="StatePages/Washington.htm">Washington</option>
+						<option value="StatePages/WestVirginia.htm">West Virginia</option>
+						<option value="StatePages/Wisconsin.htm">Wisconsin</option>
+						<option value="StatePages/Wyoming.htm">Wyoming</option>
+						<option value="StatePages/PuertoRico.htm">Puerto Rico</option>
+					</select>
+					<noscript>
+						<a href="States.htm" title="Links to state pages for users with JavaScript disabled.">Links to State Pages</a>
+					</noscript>
+				</div>
+			</div>
+		</div>
+		<div id="divContentHead">
+			<h2>Pipeline Library </h2>
+		</div>
+		<div id="divContentBody" class="content-body">
+			<div class="gain-layout" style="overflow: auto">
+			<p>We are stocking this Pipeline Library with quick and easy reference links to help you navigate this site, as well as made-to-print fact sheets prepared at the request of stakeholders. If you would like to suggest a topic for inclusion on this page, please use our feedback link below. Every message we receive is appreciated and considered carefully.</p>
+			<table style="margin-left: 10px"><tr><td valign="top">
+				<strong>Pipeline Network:</strong>
+				<ul>
+					<li><a href="FactSheets/FSNPMS.htm">National Pipeline Mapping System</a></li>
+				</ul>
+				<strong>Related Facilities:</strong>
+				<ul>
+					<li><a href="FactSheets/FSRefinery.htm">Refineries</a></li>
+					<li><a href="FactSheets/FSChemicalPlants.htm">Petrochemicals</a></li>
+					<li><a href="FactSheets/FSNaturalGasProcessingPlants.htm">Natural Gas Processing Plants</a></li>
+		    	</ul>
+				<strong>Pipeline Technology &amp; Systems:</strong>
+				<ul>
+					<li><a href="FactSheets/FSPipelineRepairs.htm">Pipeline Repair</a></li>
+					<li><a href="FactSheets/FSPipeManufacturingProcess.htm">Pipe Manufacturing Processes</a></li>
+					<li><a href="FactSheets/FSPipeCoatings.htm">Pipe Coatings</a></li>
+					<li><a href="FactSheets/FSCathodicProtection.htm">Cathodic Protection Systems</a></li>
+					<li><a href="FactSheets/FSPressureControl.htm">Pressure Control and Relief Systems</a></li>
+					<li><a href="FactSheets/FSOperatorQualification.htm">Operator Qualification Programs</a></li>
+				</ul>
+				<strong>Assessment Techniques:</strong>
+				<ul>
+					<li><a href="FactSheets/FSSmartPig.htm">In-Line Inspections (Smart Pigs)</a></li>
+					<li><a href="FactSheets/FSIntegrityAssessment.htm">Integrity Assessment </a></li>
+					<li><a href="FactSheets/FSHydrostaticTesting022607.htm">Pressure Tests</a></li>
+					<li><a href="FactSheets/FSdirectAssessmentGas.htm">Direct Assessment (DA) - Gas Pipelines</a></li>
+					<li><a href="FactSheets/FSdirectAssessmentLiquid.htm">Direct Assessment (DA) - Hazardous Liquid Pipelines</a></li>
+					<li><a href="FactSheets/FSCloseInternalSurvey.htm" >Close Internal Surveys</a></li>
+					<li><a href="FactSheets/FSRiskAssessment.htm">Risk Assessment</a></li>
+					<li><a href="FactSheets/FSPipeDefects.htm">Pipe Defects and Anomalies</a></li>
+				</ul>
+				<strong>Emergency Response: </strong>
+				<ul>
+					<li><a href="FactSheets/FSHCA.htm">High Consequence Area (HCAs)</a></li>
+					<li><a href="FactSheets/FSSoilRemediation.htm">Soil Remediation</a></li>
+					<li><a href="FactSheets/FSWaterRemediation.htm">Water Remediation</a></li>
+				</ul>
+				<strong>Other resources:</strong>
+				<ul>
+					<li><a href="States.htm">State pages and regulatory fact sheets</a></li>
+					<li><a href="FactSheets/FSProductList.htm">Products Transported in Pipelines</a></li>
+			        <li><a href="HighlightDirectory.htm">Directory of Information Highlights</a></li>
+				</ul>
+			</td><td valign="top">
+				<strong>Pipeline Facilities:</strong>
+				<ul>
+					<li><a href="FactSheets/FSGatheringPipelines.htm">Gathering Pipelines</a></li>
+					<li><a href="FactSheets/FSTransmissionPipelines.htm">Transmission Pipelines</a></li>
+					<li><a href="FactSheets/FSDistributionPipelines.htm">Distribution Pipelines</a></li>
+					<li><a href="FactSheets/FSOffshorePipelines.htm">Offshore Pipelines</a></li>
+					<li><a href="FactSheets/FSMarineTerminals.htm">Marine Terminals</a></li>
+					<li><a href="FactSheets/FSPumpStations.htm">Pump and Compressor Stations</a></li>
+					<li><a href="FactSheets/FSAboveGroundStorageTanks.htm">Above Ground Storage Tanks</a></li>
+					<li><a href="FactSheets/FSUndergroundStorage.htm">Underground Storage Caverns</a></li>
+					<li><a href="FactSheets/FSRemoteControlCenters.htm">Remote Control Centers</a></li>
+					<li><a href="FactSheets/FSLeakDetectionsystems.htm">Leak Detection Systems </a></li>
+				</ul>
+				<strong>Pipeline Failure Causes: </strong>
+				<ul>
+					<li><a href="FactSheets/FSCorrosion.htm">Corrosion </a></li>
+					<li><a href="FactSheets/FSExternalCorrosion.htm">External Corrosion</a></li>
+					<li><a href="FactSheets/FSInternalCorrosion.htm">Internal Corrosion</a></li>
+					<li><a href="FactSheets/FSStressCorrosion.htm">Stress Corrosion Cracking (SCC) </a></li>
+					<li><a href="FactSheets/FSSelectiveSeamCorrosion.htm">Selective Seam Corrosion (SSC ) </a></li>
+					<li><a href="FactSheets/FSExcavationDamage.htm">Excavation Damage</a></li>
+					<li><a href="FactSheets/FSNaturalForce.htm">Natural Forces Damage</a></li>	
+					<li><a href="FactSheets/FSOtherOutsideForce.htm">Other Outside Force Damage</a></li>
+					<li><a href="FactSheets/FSMaterialWeldFailure.htm">Material/Weld Failure</a></li>
+					<li> <a href="FactSheets/FSEquipmentFailure.htm">Equipment Failure</a></li>
+					<li><a href="FactSheets/FSIncorrectOperation.htm">Incorrect Operation</a></li>
+				</ul>
+				<strong>Briefings: </strong>
+				<ul>
+					<li><a href="LNG.htm">Liquefied Natural Gas in the United States</a></li>
+					<li><a href="ROWBrief.htm">Pipeline Rights-of-Way</a></li>
+					<li><a href="MarkersBrief.htm">Pipeline Markers</a></li>
+					<li><a href="MOUBrief.htm">Permit Streamlining Task Force</a></li>
+					<li><a href="PublicEducation.htm">Public Education Programs</a></li>
+				    <li><a href="SafetyResponsibilities.htm">Safety Responsibilities of Pipeline Operators</a></li>
+				    <li><a href="NationalConsensusStandardsBrief.htm">National Consensus Standards</a></li>
+				    <li><a href="RiskInformedLandUse.htm">Risk-informed Land Use Guidance</a></li>
+				    <li><a href="LEPCBrief.htm">Local Emergency Planning Committees</a></li>
+				</ul>
+				<strong>Articles: </strong>
+				<ul>
+					<li><a href="Exploration.htm">Basics of Oil and Gas Exploration</a></li>
+					<li><a href="Technologies.htm">Technologies of Oil and Gas Exploration</a></li>
+					<li><a href="EarlyDays.htm">Early Days in the Oil Industry</a></li>
+					<li><a href="construction/index.htm">Steps Involved in Pipeline Construction</a></li>
+			        <li><a href="UnconventionalNGFormations.htm">Unconventional Natural Gas Formations</a></li>
+				</ul>
+			</td></tr></table>
+			<div id="divTooltip"></div>
+			</div><!-- ends Block Formatting Context (overflow: auto div) -->
+		</div><!-- ends ContentBody div -->
+		<div id="divContentShadow"></div>
+		
+		<div id="divFooter"><a href="Feedback.htm">Feedback</a> | <a href="HighlightDirectory.htm">Information Highlights Directory</a> |  <a href="/common/privacy.htm">Privacy Policy</a> | <a href="Accessibility.htm" title="accessibility policy">Accessibility Policy</a> | &copy;2005-2008 PHMSA</div>
+		<script type="text/javascript">
+			//<![CDATA[
+			var objOriginalDimensions;
+			
+			function init()
+			{
+				objOriginalDimensions = $('sideTab2Contents').getDimensions();
+				if (!SideTabWasOpen())
+				{
+					$("sideTab2Contents").hide();
+					$("sideTab2Toggle").removeClassName("expanded");
+					$("sideTab2Toggle").addClassName("collapsed");
+				}
+			};		
+			Event.observe(window, 'load', init);
+			// ]]>
+	</script>
+	</body>
+</html>

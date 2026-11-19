@@ -1,0 +1,186 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML lang="en">
+<HEAD>
+
+<TITLE>NOAA CoastWatch:  Product Detail</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<LINK REL="SHORTCUT ICON" HREF="/favicon.ico">
+<STYLE TYPE="text/css">
+span.selected {
+	font-weight: bold;
+	font-size: 110%;
+}
+.thumb {
+		font-size: 85%;
+}
+</STYLE>
+<SCRIPT LANGUAGE="Javascript">
+<!--
+function launchWindow(url, features) {
+	window.open(url, "_blank", features);
+}
+-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function newImage(arg) {
+        if (document.images) {
+                rslt = new Image();
+                rslt.src = arg;
+                return rslt;
+        }
+}
+
+function changeImages() {
+        if (document.images && (preloadFlag == true)) {
+                for (var i=0; i<changeImages.arguments.length; i+=2) {
+                        document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+                }
+        }
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+				preloadFlag = true;
+	}
+}
+
+// -->
+</SCRIPT>
+
+<LINK rel="StyleSheet" href="/images/cwstyle.css" type="text/css" >
+<STYLE Type="text/css">
+<!--
+p { margin-left:20px; }
+-->
+</style>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF"   MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0">
+
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="99%">
+<TR><TD COLSPAN="2">
+	<a href="/interface/interface.html"><IMG border="0" src="/images/search_banner.jpg" alt="Link:  Return to Product Search"></a><BR>
+</TD></TR>
+<TR VALIGN="TOP">
+<TD>
+<!---------------------------------------------------START PAGE------------------------------>
+
+<TABLE BORDER="0" ALIGN="CENTER" VALIGN="TOP" WIDTH="100%" HEIGHT="100%" BGCOLOR="#000080">
+	<TR>
+		<TD ALIGN="CENTER">
+			<TABLE BORDER="0" ALIGN="CENTER"><TR><TD>
+		<TABLE BORDER="1" BGCOLOR="WHITE" ALIGN="CENTER">
+<TR><TD ALIGN="center">
+<IMG SRC="/images/nodata.png" BORDER="0" WIDTH="400" HEIGHT="320">
+</TD>
+</TR><TR>
+<TD ALIGN="CENTER">
+ (DN 365)<BR>Dec 31 1969<BR>   GMT<BR>			<TABLE BORDER="0">
+<TR><TD ALIGN="right">PRODUCT:</TD><TD> </TD></TR><TR>
+<TD ALIGN="right">SENSOR:</TD><TD> </TD></TR><TR>
+<TD ALIGN="right">SATELLITE:</TD><TD> </TD></TR><TR>
+</TABLE>
+</TD></TR><TR>
+<TD ALIGN="CENTER">
+</TD></TR><TR><TD ALIGN="CENTER">
+			<TABLE BORDER="0" WIDTH="75%"><TR><TD><UL>
+<LI>
+<A HREF="javascript: void(0);" onClick="launchWindow('/metadata/meta_menu.php?dataid=&region=','height=380,width=380,resizable=yes,scrollbars');">MetaData</A>
+</LI>
+</UL>
+</TD></TR>
+			</TABLE>
+</TD></TR>
+		</TABLE>
+</TD></TR>
+	</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD valign="top"><TABLE BORDER="0" CELLSPACING="2" CELLPADDING="2" ALIGN="CENTER"><TR></TR></TABLE>
+		</TD>
+	</TR>
+</TABLE>
+
+<!---------------------------------------------------END PAGE------------------------------>
+
+</TD>
+      <TD WIDTH="7%">
+      &nbsp;
+	</TD>
+</TR>
+<TR>
+	<TD COLSPAN="3" ALIGN="CENTER">
+			<IMG SRC="/images/spacer.png" HEIGHT="1" WIDTH="1" ALT="spacer.png">
+			<HR WIDTH="95%">
+	</TD>
+</TR>
+<!--
+<TR>
+	<TD COLSPAN="3" ALIGN="CENTER">
+
+	</TD>
+</TR>
+-->
+<TR>
+	<TD Colspan="3">
+				<div align="center" class="fineprint">
+					  <A href="/">Home</A> | <A href="/cw_about_offices.html">About</A> | <A href="/cw_dataprod.html">Data Products</A>  | <A href="/interface/interface.html">Product Search</A> | <A href="/cw_outreach.html">Outreach</A>
+				      | <A href="/cw_collab.html">Collaborative Projects</A> | <A href="/cw_formats.html">Formats & GIS</A>
+					  | <A href="/cw_software.html">Software & Utilities</A> | <A href="/cw_links.html">Links</A> | <A href="/cw_faq.html">User Support</A> | <A href="/cw_pub.html">Reference Materials</A> | <A href="/tree/index.phtml">Sitemap</A>
+				</div>
+				<HR WIDTH="95%">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				  <tr>
+				    <td rowspan="2" width="9%">&nbsp;</td>
+				    <td width="82%">
+                                          <table border="0" cellspacing="0" cellpadding="0" align="center">
+                                            <tr>
+                                              <td>
+                                                        <div align="right"><img src="/images/nesdisbanner_left.png" width="440" height="50" alt="NESDIS banner image" border="0" usemap="#nesdis1"></div>
+                                              </td>
+                                              <td>
+                                                <div align="left"><IMG SRC="/images/spacer.png" HEIGHT="1" WIDTH="5" ALT="spacer.png"><a href="http://www.orbit.nesdis.noaa.gov/star"><img src="/images/nesdisbanner_right_short.png" width="164" height="50" alt="Center for Satellite Applications and Research (STAR)" border="0"></a></div>
+                                              </td>
+                                              <td>
+                                              <div align="left"><A href="http://www.doc.gov"><img border="0" align="right" src="/images/doc_seal_blue_ring.png" alt="link to the Department of Commerce home page"></a></div>
+                                              </td>
+                                            </tr>
+                                        </table>
+
+                                <map name="nesdis1">
+                                  <area shape="rect" coords="2,2,49,49" href="http://www.noaa.gov/" alt="link to the NOAA home page">
+                                  <area shape="rect" coords="50,2,435,29" href="http://www.nesdis.noaa.gov/" alt="link to NOAA's National Environmental Satellite, Data, and Information Service  home page">
+                                  <area shape="rect" coords="52,31,411,47" href="http://www.nesdis.noaa.gov/" alt=" link to NOAA's National Environmental Satellite, Data, and Information Service home page">
+                                </map>
+				    </td>
+				    <td rowspan="2" width="9%">&nbsp;</td>
+				  </tr>
+				  <tr>
+				  <td align="center">
+					<TABLE>
+						<TR>
+							<TD width="590" align="center">
+								<p class="fineprint">
+								The NOAA CoastWatch Program is operated within NOAA's National Environmental Satellite Data Information
+								Service (<a href="http://www.nesdis.noaa.gov">NESDIS</a>).
+								<a href="http://www.noaa.gov">NOAA</a> is a part of the Department of Commerce (<a href="http://www.doc.gov">DOC</a>).
+								<BR>
+								<a href="http://www.noaa.gov/privacy.html">Privacy Policy</a> | <a href="mailto:coastwatch.info@noaa.gov">Contact Us</a>
+								</p>
+							</TD>
+						</TR>
+					</TABLE>
+				</td>
+				</tr>
+				</table>
+
+	</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

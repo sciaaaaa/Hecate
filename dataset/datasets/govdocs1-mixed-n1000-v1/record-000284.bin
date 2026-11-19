@@ -1,0 +1,148 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+	<title>Executive Summary Methyl Vinyl Ketone - National Toxicology Program</title>	
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="Keywords" content="NTP,Toxicology,Toxicity,Testing,Reproductive,Immunotoxicity,Teratology,SNOMED,Salmonella,Bioassay,Structure,Transgenic,TDMS,Carcinogenicity"/> 
+	<link rel="SHORTCUT ICON" href="/favicon.ico" />
+	<link rel="alternate" type="application/rss+xml" title="NTP RSS News Feed" href="/go/rss">	
+	<link rel="stylesheet" type="text/css" media="screen"  href="/css/ntpweb-screen-V3.0.9.css" /><link rel="stylesheet" type="text/css" media="print"  href="/css/ntpweb-print-V3.0.9.css" /><script type="text/javascript" src="/js/ntpweb-js-V3.0.9.js"></script> 
+</head>
+<!-- value of body ID will determine the color scheme used within sections of the site and css -->
+<body id="testingInformation">
+	<a name="top" id="top"></a>
+	
+<div id="skip-nav">
+	<ul class="horizontal-pipe-list">
+		<li><a href="#pagecontent" title="Skip to Page Content">Skip to Page Content</a></li> 
+		<li><a href="#navigation" title="Skip to Main Navigation">Skip to Main Navigation</a></li> 
+		 
+	</ul>
+</div><!-- end:skip-nav -->
+<div class="cornerPiece"></div>	<!-- end:cornerPiece -->
+<div id="header">
+	<div id="top-baseline">			
+		
+	<form name="primarySearch" id="primarySearch" method="get" action="http://ntp.niehs.nih.gov:8080/query.html">
+		<label for="qt-search">Search the NTP:</label>
+		<input class="formTextInput"  type="text" value=""	id="qt-search" name="qt" />
+		<input type="hidden" 	name="col" 	value="005main" />
+		<input class="button" type="submit" value="search" />
+	</form>
+	</div><!-- end:top-baseline -->
+	
+		<div id="masthead"><h1 title="National Toxicology Program"><a href="/"><span id="banner"></span>National Toxicology Program</a></h1></div><!-- end:masthead -->
+	
+</div><!-- end:header --> 
+	
+	    <div id="content-navigation-container">
+	      <a name="navigation"></a>
+	      <div id="primary-navigation">
+		    
+        <ul>
+          <li class="home "><a href="/" title="Home"><span>Home</span></a></li>
+		  	
+		  <li class="testingInformation current"> <a href="/?objectid=72015D13-BDB7-CEBA-FCC75AAEAA3A08E6"  title="Testing Information"  target="_self"> <span>Testing Information</span></a> </li>		
+		  	
+		  <li class="studyResults "> <a href="/?objectid=720160DB-BDB7-CEBA-F7CC2DE0A230C920"  title="Study Results &amp; Research Projects"  target="_self"> <span>Study Results &amp; Research Projects</span></a> </li>		
+		  	
+		  <li class="publicHealth "> <a href="/?objectid=720161D5-BDB7-CEBA-F912171282926F28"  title="Public Health"  target="_self"> <span>Public Health</span></a> </li>		
+		  	
+		  <li class="aboutTheNTP "> <a href="/?objectid=7201637B-BDB7-CEBA-F57E39896A08F1BB"  title="About the NTP"  target="_self"> <span>About the NTP</span></a> </li>		
+		  	
+		  <li class="help "> <a href="/?objectid=720166C7-BDB7-CEBA-FF05E7ED4FB8FFCE"  title="Help"  target="_self"> <span>Help</span></a> </li>		
+		  
+        </ul>
+		
+	        	<div class="border"><span><img src="/images/template/subMastHead_testingInformation.gif" alt="Testing Information" title="Testing Information" /></span></div><!-- end:border -->
+			<p id="sectiontitle">Testing Status of Agents at NTP</p> 	
+	      </div><!-- end:primary-navigation -->
+	 	  
+				  <div id="breadcrumbs">
+						  
+						<p> <a href="/?objectid=7182FF48-BDB7-CEBA-F8980E5DD01A1E2D"  title="Home"  target="_self"> Home</a>  &#187; <a href="/?objectid=72015D13-BDB7-CEBA-FCC75AAEAA3A08E6"  title="Testing Information"  target="_self"> Testing Information</a>  &#187; <a href="http://ntp.niehs.nih.gov:8080/index.html?col=010stat"  title="Testing Status of Agents at NTP"  target="_self"> Testing Status of Agents at NTP</a>  &#187; <a href="/?objectid=000821AC-F1F6-975E-7CCCF3F8BDC3929E"  title="Methyl Vinyl Ketone"  target="_self"> Methyl Vinyl Ketone</a>  &#187; Executive Summary Methyl Vinyl Ketone </p>
+					
+				  </div><!-- end:breadcrumbs -->	
+			  
+          <div id="content">
+          
+            <div class="inside  no-menu  no-sidebar">
+			  <h2 id="pagetitle" class="floatleft">Executive Summary Methyl Vinyl Ketone</h2>
+              <div id="top-elements" class="floatright small">
+				
+	<span><a class="print" id="printthispage">Print this page</a></span>
+ 			
+			<span class="indent"><a id="friendly-url-link" href="#">Easy Link</a></span>
+			<div id="friendly-url">
+				<p>http://ntp.niehs.nih.gov/go/9047</p>		
+			</div>	<!-- end:friendly-url -->
+		
+			  </div><!--end:top-elements -->
+			  <div class="clearfix"><!-- do not delete --></div>
+              <!-- Content Body -->
+              <a name="pagecontent" class="printhide"></a>
+			  <div class="inside inside"> 
+				  <b>EXPOSURE INFORMATION</b><P><U> Commercial Availability</U><P> <U>Production and Producers</U>:  MVK and its analogscan be produced commercially by an Oppenhauer-type oxidation ofthe corresponding secondary alcohol.  Numerous publications describevarious catalysts which can be used to achieve the synthesis ofMVK in reasonable yields (Nakano <I>et al.</I>, 1987).  The precursor,3-ketobutanol can be formed by condensation of acetone with formaldehyde(HSDB, 1991).  Another route involves catalyzed oxidation from1-butene, used as the starting material (Sinfelt &amp; Barnett,1976).<BR><P>Two pharmaceutical manufacturers reported manufactureof this chemical to the EPA's TSCA plant and production database(TSCAPP, 1991).  Pfizer, Inc., Groton, CT, reported annual productionof 10,000 to 100,000 lbs, and Hoffmann-LaRoche, Inc., Nutley,NJ, declared no production volume (according to a company spokesman,they import MVK stocks from Switzerland).  No companies specificallyreported imports to the EPA for their TSCAPP data gathering effort. No other data on annual production volumes were found in theavailable literature.  Recent press reports mention several additionalcompanies currently using MVK in the manufacture of copolymers,including Ecolyte Atlantic, Inc. of Baltimore and EcoPlasticsLtd. of Ontario (Anon., 1988a; Anon. 1988b).  MVK is also availablein research quantifies from CTC Organics, Monomer-Polymer &amp;Dajac Labs (MTM Chemicals), and Pharmaglobe Laboratories, Ltd. Aldrich Chemical Co., Alfa Products, American Tokyo Kasei, Inc.,Chem Service,Inc., Fluka Chemical Corp., GFS Chemical Co., JanssenChimica, Lancaster Synthesis, Ltd., Pfaltz &amp; Bauer, Inc.,Riedel-De Haen AG, and Sigma Chemical Co. (FCD, 1991).  ExxonChemical Co. included MVK in a 1968 TSCA &#167;8d submission toEPA on a series of ketones.<BR><P>Aristech Chemical Corp., Eastman Kodak Co., ExxonResearch &amp; Engineering Co. and Mitsui Petrochemical Industries,Ltd. have been issued patents for syntheses of MVK and other unsaturatedketones and other pharmaceutical companies have had an interestin the use of this compound, including Hoffmann-LaRoche and Co.A.-G., Lilly Industries Ltd., Merck &amp; Co., Squibb &amp; Sons,Inc. and SmithKline Beckman Corp. (McMahon <I>et al.</I>, 1979;Lukac &amp; Soukup, 1988; Woltersdorf <I>et al.</I>, 1989; Badger<I>et al.</I>, 1989; Biller &amp; Misra, 1989; Hotten <I>et al.</I>,1990).<BR><P> <U>Use Pattern</U>:  MVK is an important monomerused in many polymer systems to produce plastics and resins. It is offered as a unique ketone monomer with good reactivitytoward acrylates, methacrylates, vinyls and itaconates.  It servesas a UV-sensitive comonomer which can be grafted to polyethylene,polypropylene, polyethylene terephthalate, polyvinyl chloride,nylon and polystyrene for improved degradability of such productsas packaging materials.  Styrene-MVK copolymers, for example,are useful as photodegradable polymers in packaging applications(Papa &amp; Sherman, 1981).  It has also been reported to be acomponent of a chain transfer agent used in the manufacture oflow density polyethylene (LDPE).  MVK dimerizes catalyticallyto form 3-methylene-2,6-heptadione which is also useful as a polymerprecursor (Basavaiah <I>et al</I>., 1987).  Various homopolymersof MVK, which can be induced by imidazole in water-ethanol mixtures,are also useful in further polymerization reactions (Ozu <I>etal</I>., 1989).<BR><P>MVK is a versatile reactive chemical, alkylatingagent, and important Michael acceptor used as a starting materialin numerous commercial- and research-scale organic syntheses. This conjugated ketone is a starting material in a Skraup synthesisof 4-methylquinoline (Holter, 1982) and in a Michael reactionto yield the indole derivative, 1-(3'-indolyl)-butan-3-one (Bannister,1981).  It has been reportedly used in the pharmaceutical, agriculturalchemical, cosmetic, coatings, and adhesives industries and inbioengineering.  For example, Chapman <I>et al.</I> (1990) reportedthat the synthesis of potent hypolipidemic agents (anticholesteremics)started with the Michael addition of MVK to appropriately substitutedphthalimides.  MVK is used as a pharmaceutical intermediate inthe synthesis of steroids and vitamin A and pyrazole derivativesas inhibitors of blood platelet aggregation (Ferroni, <I>et al</I>.,1989; Matsuda, 1987; Nakayana <I>et al.</I>, 1985; Sax &amp; Lewis,1987; Tanaka, <I>et al</I>., 1982).  The U.S. Department of Agriculturewas granted a patent in 1989 to use MVK as a chemical intermediatein the production of natural pesticides (Chuman <I>et al.</I>,1989).  Firmenich S.A. was granted a patent in 1990 for the preparationof tricyclic spiroketone perfume ingredients using MVK as a startingmaterial (Giersch &amp; Schulte-Elte, 1990).<BR><P> <U>Human Exposure</U>:  Human exposure to mutagenic<font face = "symbol">a</font>,<font face = "symbol">b</font>-unsaturated carbonyl compounds, including MVK, is saidto be widespread by both exogenous and endogenous routes (Chung<I>et al.</I>, 1986).  The odor threshold concentration for olfactoryrecognition of MVK is 0.5720 mg/m<sup>3</sup> (Ruth, 1986) or is approximately200 ppb (Waritz, 1988).<BR><P>  Occupational exposure may occur by inhalation orcontact as a result of use of MVK as an alkylating agent, chemicalintermediate and monomer in polymer manufacture.  MVK can be readilyabsorbed dermally and is considered extremely hazardous and toxicby all routes of exposure (HSDB, 1991).<BR><P>Hercules, Inc., in a 1988 FYI submission to the EPA,reported the formation of small amounts of MVK in the combustionzone of a plant incinerator burning waste methyl ethyl ketonefrom a plant process (Waritz, 1988).  They reported an approximately25 ppm concentration of MVK exiting the incinerator combustionarea which was reduced to approximately 2 ppm by a secondary catalyticcombustion unit.  A computer model downwash prediction, takinginto consideration the locale of the plant, estimated an 8-houraverage ground level concentration of 1 ppb MVK at the point ofnearest human habitation.<BR><P>MVK has been documented as one of the many combustionproducts found in cigarette/tobacco smoke (Curvall <I>et al.</I>,1984; Florin <I>et al.</I>, 1980).  Kusama <I>et al.</I> (1978)reported a semi-quantitative estimate of this low-boiling compoundin cellulose cigarette smoke of 0.13 mg/cigarette.<BR><P>Niemand <I>et al.</I> (1983) investigated the effectsof <font face = "symbol">g</font>-radiolysis on major sugars in subtropical fruits in connectionwith the safety of food irradiation.  They identified MVK as oneof the radiolytic products.<BR><P>Sheiseido Laboratories has reported that MVK arisesas one of several oxidation products resulting from the reactionof linalool, a common ingredient of perfumes, with cosmetic pigmentsin the presence of air (Sheiseido Laboratories, 1988).<BR><P>Ase <I>et al.</I> (1985) reported MVK to be amonga number of trace gaseous species identified in the combustionproducts obtained from firings of an M16 rifle.<BR><P> <U>Environmental Occurrence</U>:  MVK has been reportedto be a naturally occurring compound. Shimizu (1982) identified MVK as a volatile componentof grape musts of the Muscat of Alexandria variety.  Isidorov<I>et al.</I> (1985) found this substance in the volatile organiccompound (VOC) emissions characteristic of northern hemisphereforests.  They identified two arboreous plant sources of MVK asaspen and European oak.  MVK has also been identified in the undergroundenvironment of mines as a component of toxic fumes resulting frompyrolysis of virgin red oak and virgin and fire and rot retardant-treatedDouglas fir (Christos &amp; Hay, 1986).<BR><P>  Kallio (1989) described MVK as a component of naturalbirch syrup derived from birch sap by dehydrogenation.  Jackson<I>et al.</I> (1990) identified MVK as a component of Dufour glandsecretion in <I>Manica rubida</I> worker ants.<BR><P>According to Herrington <I>et al.</I> (1987), MVKis a natural soil fungistatic agent.  It is a volatile compoundproduced by the microorganism, <I>Streptomyces griseoruber</I>,and acts as a strong inhibitor of the spore germination of <I>Cladosporiumcladosporioides</I>.<BR><P>MVK has been reported to be one of several oxygen-containingimpurities in crude isoprene used in the production of rubber,butadiene, 3-buten-2-ol and methyl ethyl ketone. Noguchi <I>etal</I>., (1983) reported a 9.7% by-product yield of MVK in thesynthesis of vinyl ether monomers.  It has also been identifiedas a breakdown product in the autoxidation of isoprene and asa by-product of whiskey manufacture and biomass combustion.<BR><P>MVK is an ubiquitous low-molecular weight oxygenatedorganic air pollutant.  Jonsson and Berg (1983) identified MVKin city air and stressed the need to determine details of theoccurrence and distribution of such oxygenates in ambient atmospheres,their possible role in photochemical smog formation, and theirtoxic and potentially carcinogenic properties. Jonsson <I>et al.</I>(1985) found this chemical in five sites of ambient air samplingin a one-year study of Stockholm air.  These researchers documentedhigher concentration of MVK at two urban sites than at sites outsidethe city and reported a strong correlation of ambient air MVKconcentrations at these two sites with vehicle exhaust concentrations. Westerholm <I>et al.</I> (1990) identified MVK in passenger carexhausts measured under different driving conditions; and Westerholm<I>et al.</I> (1991) determined that levels of MVK in exhaustemissions from a heavy duty diesel vehicle during transient drivingconditions were in the range of 12 <U>+</U>5.9 mg/km.<BR><P>Dumdel and Kenny (1988) identified MVK as a breakdownproduct resulting from the photooxidation of toluene in pollutedurban atmospheres.  They reported a determination of 6 ppb effluentconcentration of the ring fragmentation product, MVK.  In orderto correlate ambient environmental pollutant levels with humanbody burden, Pellizzari <I>et al.</I> (1982) identified MVK inhuman milk in one of 12 samples from four urban areas studied.The atmospheric photochemical degradation of MVK by hydroxyl radicalswas reported to be relatively rapid (half-life in air: ~20.8 hr.). MVK's fate in soil was reported to be less well documented, butleaching was considered likely based on an estimated Koc valueof 28.<P>  <P>  MVK is a pollutant frequently found in industrialwastewaters (Levec, 1990).  Several citations have identifiedMVK as a wastewater component resulting, for example, from theoxidative dehydrogenation of butenes (Chen <I>et al.</I>, 1983). Hall <I>et al.</I> (1986) studied the thermal decomposition characteristicsof a 12-component mixture of organic solvents, including methylethyl ketone (MEK), devised to simulate an actual waste streamsubjected to incineration in a liquid-injection incineration unit. MVK was among the stable thermal reaction products reported tooccur at 650oC with a decomposition dependence observed relativeto time-at-temperature and O2 concentration in the decompositionatmosphere. MVK was classified as a major product of incompletecombustion (PIC) in this system.  The authors raised concern thatproducts may be more toxic than input materials in full scalethermal destruction of VOC input materials and warrant attentionas potential hazards.  In fact, as reported above in the <U>Human</U><U>Exposure</U> <U>section</U>, Hercules, Inc., identified MVKas a combustion zone PIC resulting from incineration of plantprocess MEK (Waritz, 1988).<BR><P><U>Regulatory Status</U>:  MVKis listed as a hazardous chemical subject to transportation restrictionsfor labeling and handling (49 CFR 171-177).  MTM Research Chemicals,Inc. (1991) recommends disposal by incineration and advises thatMVK will not degrade microbiologically in wastewater treatmentplants and should never be discarded by drain.<BR><P>  MVK is listed in the TSCA inventory and is subjectto several rules under SARA. The following information is summarizedbased on a search of the CHEMLIST database (CHEMLIST, 1991).<BR><P>   TSCA/FYI:  Toxicity/Exposure study and environmentalfate monitoring information (Hercules study cited above), 12/30/88<BR><P>   SARA/Title III:  Extremely hazardous substanceunder Section 302, proposed in FR 52 #77:13378, 4/22/87.<BR><P>   CERCLA:  Hazardous substance under Section 102(a),proposed in FR 54 #13:3388, 1/23/89.<BR><P>   SARA/Title III:  Final rule on reporting requirementsunder  Section 313 (Toxics Release Inventory) revising reportingunder Sections 311 &amp; 312;  proposed reduction from a reportingthreshold (RT) of 10,000 lbs. to 500 lbs., 3/29/89.<BR><P>  EPA reported the following regulatory informationin Anon. (1987):<BR><P>   Toxicity Value Used for Listing Under Section302:  LC50 inhalation (rat) = 0.007 mg/liter/4 hours<BR><P>   TPQ:  10 (lbs)<BR><P>   RQ:  1 (lb) (statutory, for notification underSARA Section 304(a)(2))<P>
+			  </div><!--end:inside inside -->
+              <!-- End Content Body -->
+              <div id="content-footer">
+	              <p class="floatleft"><a href="#top" class="backtotop" title="Go Back to the Top of the Page">Back to top</a></p>
+				  
+	              <p class="floatright">Web page last updated on August 15, 2005</p>
+				  
+			  </div><!-- end:content-footer -->
+            </div><!-- end:inside -->
+          </div><!-- end:content --> 
+		
+		</div> <!-- end:content-navigation-container -->
+					
+<div id="footer">
+	<div class="inside" >		
+		  <ul class="horizontal-pipe-list floatleft">
+		    <li class="first"><a href="/" title="Home">Home</a></li>
+			
+				<li> <a href="/?objectid=72015D13-BDB7-CEBA-FCC75AAEAA3A08E6"  title="Testing Information"  target="_self"> Testing Information</a> </li>											
+			
+				<li> <a href="/?objectid=720160DB-BDB7-CEBA-F7CC2DE0A230C920"  title="Study Results &amp; Research Projects"  target="_self"> Study Results &amp; Research Projects</a> </li>											
+			
+				<li> <a href="/?objectid=720161D5-BDB7-CEBA-F912171282926F28"  title="Public Health"  target="_self"> Public Health</a> </li>											
+			
+				<li> <a href="/?objectid=7201637B-BDB7-CEBA-F57E39896A08F1BB"  title="About the NTP"  target="_self"> About the NTP</a> </li>											
+			
+				<li> <a href="/?objectid=720166C7-BDB7-CEBA-FF05E7ED4FB8FFCE"  title="Help"  target="_self"> Help</a> </li>											
+			
+		  </ul>
+		  <p class="floatright"><a href="#top" class="backtotop">Back to top</a></p>
+		  <div class="clearfix"></div>
+		  <p><a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank"><img alt="PDF documents can be read using the Acrobat Reader plug-in --  download a free copy" title="PDF documents can be read using the Acrobat Reader plug-in --  download a free copy" src="http://www.adobe.com/images/shared/download_buttons/get_adobe_reader.gif" class="right"/></a></p>
+		  <div class="clearfix"></div>
+		  <p>The National Institute of Environmental Health Sciences is one of the National Institutes of Health within the 
+		    U.S. Department of Health and Human Services. The National Toxicology Program is headquartered on the <acronym title="National Institute of Environmental Health Sciences" >NIEHS</acronym> campus 
+		    in Research Triangle Park, NC.</p>
+		  <!-- Botom Floated Elements -->
+		  <div class="floatleft"> <a href="http://www.hhs.gov/" target="_blank"><img src="/images/footer_hhs.gif" alt="U.S. Department of Health and Human Services" title="U.S. Department of Health and Human Services" /></a> </div>
+		  <div class="floatleft">
+		    <ul class="horizontal-pipe-list inside">
+		      <li class="first"><a href="http://www.niehs.nih.gov/"><acronym title="National Institute of Environmental Health Sciences" >NIEHS</acronym></a></li>
+		      <li><a href="http://www.nih.gov/"><acronym title="National Institutes of Health">NIH</acronym></a></li>
+		      <li><a href="http://www.hhs.gov/"><acronym title="U.S. Department of Health and Human Services">HHS</acronym></a></li>
+		    </ul>
+		    <br />
+		    <ul class="horizontal-pipe-list inside">
+		      <li class="first"><a href="/index.cfm?objectid=0C228C90-BDB7-CEBA-F18ADEF0A533D435">Disclaimers &amp; Copyrights</a></li>
+		      <li><a href="/index.cfm?objectid=720166D7-BDB7-CEBA-FFE22B88FE9D9350">Site Map</a></li>
+		      <li><a href="http://oig.hhs.gov/" target="_blank" class="external">Inspector General</a></li>
+		      <li>For queries, comments, and suggestions: <a href="/index.cfm?objectid=720166E6-BDB7-CEBA-F0032407A834B400">Contact Us</a></li>
+		    </ul>
+		  </div><!-- end:floatleft -->
+		  <div class="floatright">
+		    <p> <a href="http://www.usa.gov/" target="_blank"><img  src="/images/footer_usagov.gif" alt="USA.gov is the U.S. government's official web portal to all federal, state, and local government web resources and services" title="USA.gov: Government Made Easy" /></a></p>
+		  </div><!-- end:floatright -->
+		  <div class="clearfix"></div>
+	</div><!-- end:inside -->	  
+</div><!-- end:footer --> 
+
+</body>
+</html>

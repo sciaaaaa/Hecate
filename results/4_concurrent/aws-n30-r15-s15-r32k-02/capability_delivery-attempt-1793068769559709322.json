@@ -1,0 +1,130 @@
+{
+  "phase": "capability_delivery",
+  "started_unix": 1793068769.559708,
+  "ended_unix": 1793068773.644469,
+  "resumed": false,
+  "prior_attempts": 0,
+  "summary": {
+    "concurrency": 15,
+    "submitted_count": 15,
+    "successful_count": 15,
+    "failed_count": 0,
+    "success_rate": 1.0,
+    "makespan_ms": 4082.805423,
+    "throughput_tasks_per_s": 3.6739443705789356,
+    "latency_sum_ms": 59210.08023100001,
+    "latency_p50_ms": 3991.100895,
+    "latency_p95_ms": 4082.473014,
+    "latency_max_ms": 4082.473014,
+    "start_spread_ms": 0.418685,
+    "payload_bytes": 55455,
+    "payload_goodput_bytes_per_s": 13582.572338030324
+  },
+  "tasks": [
+    {
+      "entity": "dr51",
+      "start_offset_ms": 0.054806,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 3738.402947
+    },
+    {
+      "entity": "dr52",
+      "start_offset_ms": 0.473491,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 3691.960295
+    },
+    {
+      "entity": "dr53",
+      "start_offset_ms": 0.093399,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 3886.453241
+    },
+    {
+      "entity": "dr54",
+      "start_offset_ms": 0.276557,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 4082.473014
+    },
+    {
+      "entity": "dr55",
+      "start_offset_ms": 0.294651,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 4010.102307
+    },
+    {
+      "entity": "dr56",
+      "start_offset_ms": 0.309456,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 3837.308858
+    },
+    {
+      "entity": "dr57",
+      "start_offset_ms": 0.116283,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 4061.386284
+    },
+    {
+      "entity": "dr58",
+      "start_offset_ms": 0.134572,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 4022.62499
+    },
+    {
+      "entity": "dr59",
+      "start_offset_ms": 0.151822,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 3991.100895
+    },
+    {
+      "entity": "dr60",
+      "start_offset_ms": 0.167309,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 4073.302749
+    },
+    {
+      "entity": "dr61",
+      "start_offset_ms": 0.183497,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 3989.381696
+    },
+    {
+      "entity": "dr62",
+      "start_offset_ms": 0.197374,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 4069.218417
+    },
+    {
+      "entity": "dr63",
+      "start_offset_ms": 0.211938,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 3925.206334
+    },
+    {
+      "entity": "dr64",
+      "start_offset_ms": 0.225982,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 3838.085514
+    },
+    {
+      "entity": "dr65",
+      "start_offset_ms": 0.24083,
+      "payload_bytes": 3697,
+      "status": "success",
+      "latency_ms": 3993.07269
+    }
+  ]
+}

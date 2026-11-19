@@ -1,0 +1,1889 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Hydrogen Data Resource Center: Unit Calculator</title>
+<meta name="keywords" content="">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/cocoon/morf/hydrogen/hydrogen_icon.png" type="image/png">
+<link rel="stylesheet" type="text/css" href="/cocoon/morf/hydrogen/hydrogen.css">
+<style type="text/css" media="all">
+<!--@import "/cocoon/morf/hydrogen/hydrogen_adv.css";-->
+</style>
+<link rel="stylesheet" type="text/css" href="/cocoon/morf/hydrogen/hydrogen_print.css" media="print">
+<script type="text/javascript" src="window.js"></script><script type="text/javascript" src="/cocoon/morf/website_content_hydrogen/javascript/calculator_util.js"></script><script type="text/javascript">
+    var unitToCombo;
+    var valueField;
+    var resultField;
+
+    // Given the ID of a select, rebuild the options based on the conversion type
+    function rebuild()
+    {
+		document.getElementById('accelerationRow').style.display = "none";
+		document.getElementById('astronomicalRow').style.display = "none";
+		document.getElementById('anglesRow').style.display = "none";
+		document.getElementById('areaRow').style.display = "none";
+		document.getElementById('distanceRow').style.display = "none";
+		document.getElementById('densityRow').style.display = "none";
+		document.getElementById('energyRow').style.display = "none";
+		document.getElementById('flowRateRow').style.display = "none";
+		document.getElementById('forceRow').style.display = "none";
+		document.getElementById('frequencyRow').style.display = "none";
+		document.getElementById('illuminanceRow').style.display = "none";
+		document.getElementById('luminanceRow').style.display = "none";
+		document.getElementById('powerRow').style.display = "none";
+		document.getElementById('pressureRow').style.display = "none";
+		document.getElementById('speedRow').style.display = "none";
+		document.getElementById('timeRow').style.display = "none";
+		document.getElementById('torqueRow').style.display = "none";
+		document.getElementById('massRow').style.display = "none";
+		document.getElementById('volumeRow').style.display = "none";
+
+		
+		var category = document.calculator.category.value;
+		document.getElementById(category+'Row').style.display = "block";
+		var unitFromCombo = document.getElementById(category);
+		unitToCombo.options.length = 0;
+		for(var i = 0; i < unitFromCombo.length; i++) {
+			unitToCombo.options[i] = new Option(unitFromCombo.options[i].text, unitFromCombo.options[i].value);	
+		}
+    }
+
+    // Converts the value from one unit to the other
+    function convert()
+    {
+      var conversionFactor;
+      var quantity = document.calculator.valueToConvert.value;
+      if (quantity.length == 0) {
+		conversionFactor = document.getElementById("conversionFactor");
+	  	if (conversionFactor.childNodes[0])
+			conversionFactor.removeChild(conversionFactor.firstChild);
+	    conversionFactor.appendChild(document.createTextNode(""));
+	    document.calculator.result.value = "";
+      	return;
+      }    	
+		var category = document.calculator.category.value;    
+		var unitFromCombo = document.getElementById(category);
+		var fromValue = unitFromCombo[unitFromCombo.selectedIndex].value;
+		//alert(fromValue);
+		var toValue = unitToCombo[unitToCombo.selectedIndex].value;
+		var valueToConvert = parseFloat(document.calculator.valueToConvert.value);
+		var conversionFactorValue = parseFloat(fromValue) / parseFloat(toValue);
+		//alert(toValue);
+		
+		conversionFactor = document.getElementById("conversionFactor");
+	  	if (conversionFactor.childNodes[0])
+			conversionFactor.removeChild(conversionFactor.firstChild);
+	    conversionFactor.appendChild(document.createTextNode(formatNumber(conversionFactorValue)));
+		document.calculator.result.value = formatNumber(conversionFactorValue * valueToConvert);
+
+    }
+    
+
+
+    // Called onload
+    function startup()
+    {
+		unitToCombo = document.getElementById('unitTo');
+    	rebuild();
+    }
+
+
+  </script>
+<style type="text/css">
+<!--
+        .row {
+          margin: 1em 0;
+          clear: left;
+        }
+
+        .row label {
+          display: block;
+          float: left;
+          width: 9em;
+          text-align: right;
+          padding-right: 0.5em;
+          font-weight: bold;
+          height: 2em;
+        }
+        .row label.small {
+          display: block;
+          float: left;
+          width: 9em;
+          text-align: right;
+          padding-right: 0.5em;
+          font-weight: normal; 
+        } 
+        .row span {
+          display: block;
+          font-weight: normal;
+          height: 1.5em;
+        }
+        #convertButton {
+          margin-left: 9.5em;
+
+        }
+    -->
+</style>
+</head>
+<body onload="startup()">
+<div id="banner">
+<img usemap="#bannerMap" alt="Hydrogen Analysis Resource Center" src="/cocoon/morf/hydrogen/banner.gif"><map name="bannerMap">
+  		
+<area alt="Hydrogen Analysis Resource Center" href="/cocoon/morf/hydrogen" shape="rect" coords="8,20,492,49">
+		
+<area alt="U.S. Department Of Energy" href="http://www.energy.gov/" shape="rect" coords="9,2,399,14">
+		
+<area alt="U.S. Department Of Energy Hydrogen Program" href="http://www.hydrogen.energy.gov/ " shape="rect" coords="517,5,726,44">
+    
+</map>
+</div>
+<a href="#content" id="skipNav">Skip navigation</a>
+<div id="toolbarContainer">
+<div id="toolbar">
+<div id="redArrow">
+<img alt="" src="/cocoon/morf/hydrogen/arrow.gif"></div>
+<form onsubmit="return (document.kbSearch.queryString.value != '' &amp;&amp; document.kbSearch.queryString.value != ' ')" action="/cocoon/morf/hydrogen/findIt" name="kbSearch" id="kbSearch">
+<label id="searchLabel" for="searchIndex">Search:</label><select name="searchIndex" id="searchIndex"><option value="all">
+                        All Media
+                      </option><option value="article">Articles</option><option value="datasheet">Data Tables</option></select><label id="forLabel" for="queryString">for:</label><input maxlength="128" size="26" name="queryString" id="queryString" type="text"><input value="true" id="showQuery" name="showQuery" type="hidden"><button type="submit" class="energyAppButton" id="keywordsButton"><span class="buttonText"><span class="buttonArrows">&raquo;</span> Search</span></button>
+</form>
+<form onsubmit="if(document.categorySearch.browsedCategory[document.categorySearch.browsedCategory.selectedIndex].value == '') return false" action="/cocoon/morf/hydrogen/findIt" name="categorySearch" id="categorySearch">
+<label id="browseLabel" for="categories">Browse:</label><select onchange="if(this[this.selectedIndex].value != '') document.categorySearch.submit()" name="browsedCategory" id="browsedCategory"><option value="">Select a Topic...</option><option class="parentCategory" value="Properties">Properties</option><option class="parentCategory" value="Production">Production</option><option class="parentCategory" value="Storage">Storage</option><option class="parentCategory" value="Delivery">Delivery</option><option class="parentCategory" value="Fuel Cells">Fuel Cells</option></select><input value="all" name="searchIndex" type="hidden"><button type="submit" class="energyAppButton" id="categoriesButton"><span class="buttonText"><span class="buttonArrows">&raquo;</span> Go!</span></button>
+</form>
+</div>
+</div>
+<div id="navigation">
+<ul id="tabs">
+<li id="home">
+<a href="/cocoon/morf/hydrogen">Home</a>
+</li>
+<li id="program">
+<a href="/cocoon/morf/hydrogen/article/103">Hydrogen Data Book</a>
+</li>
+<li id="glossary">
+<a href="/cocoon/morf/hydrogen/article/852">Hydrogen Glossary</a>
+</li>
+<li id="related">
+<a href="/cocoon/morf/hydrogen/article/825">Related Sites</a>
+</li>
+<li id="program2">
+<a href="/cocoon/morf/hydrogen/article/505">Guidelines and Assumptions</a>
+</li>
+<li id="calculator">
+<a href="/cocoon/morf/hydrogen/site_specific/tools?canprint=true">Calculator Tools</a>
+</li>
+<li id="analysis">
+<a href="/cocoon/morf/hydrogen/article/715">Analysis Tools</a>
+</li>
+<li id="contacts">
+<a href="/cocoon/morf/hydrogen/site_specific/question?canprint=false">Contact Us</a>
+</li>
+<li id="advancedSearch">
+<a href="/cocoon/morf/hydrogen/site_specific/advanced_search?canprint=false">Advanced Search</a>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+<div id="main">
+<div id="features"></div>
+<div id="content">
+<h1>Unit Conversion Calculator</h1>
+<p>You can use this calculator to convert values to different units of measure, for example from feet to meters. First, choose the <i>Category</i> for your unit of measure.  Then input the value in the <i>Convert Value</i> field and select its units from the menu labeled <i>From</i>. Select the units to which you want to convert from the menu labeled <i>To</i>. Click the <i>Convert</i> button and the value, in new units, will appear. This calculator contains a wide range of units of measure used in the scientific and engineering communities.</p>
+<form name="calculator" id="calculator" action="javascript:void(0)">
+
+    
+<div class="row">
+      
+<label for="category">Category:</label>
+      <select name="category" id="category" onchange="rebuild()">
+      <option value="acceleration">Acceleration</option>
+      <option value="astronomical">Astronomical</option>
+      <option value="angles">Angles</option>
+      <option value="area">Area</option>
+	  <option value="distance">Distance</option>
+	  <option value="density">Density</option>
+	  <option value="energy">Energy</option>
+	  <option value="flowRate">Flow Rate (Vol)</option>		  
+	  <option value="force">Force</option>
+	  <option value="frequency">Frequency</option>
+	  <option value="illuminance">Illuminance</option>
+	  <option value="luminance">Luminance</option>
+	  <option value="power">Power</option>
+	  <option value="pressure">Pressure</option>
+	  <option value="speed">Speed</option>
+	  <option value="time">Time</option>
+	  <option value="torque">Torque</option>
+	  <option value="mass">Weight/Mass</option>
+	  <option value="volume">Volume</option>
+
+	  
+      </select>
+    
+</div>
+    
+    
+<div class="row">
+      
+<label for="valueToConvert">Convert Value:</label>
+      <input type="text" name="valueToConvert" id="valueToConvert" size="27" onkeypress="if(event.keyCode == 13) convert()">
+    
+</div>
+
+    
+<div class="row" id="accelerationRow">
+	  
+<label for="acceleration">From:</label>
+	  <select name="acceleration" id="acceleration" onchange="convert()">
+            <option value="0.0001">centigal</option>
+            <option value="0.01">centimeter/square second</option>
+            <option value="0.001">decigal</option>
+            <option value="0.1">decimeter/square second</option>
+            <option value="10">dekameter/square second</option>
+            <option value="0.3048">foot/square second</option>
+            <option value="9.80665">g-unit (G)</option>
+            <option value="0.01">gal</option>
+            <option value="0.01">galileo</option>
+            <option value="9.80665">g<sub>n</sub></option>
+            <option value="9.80665">grav</option>
+            <option value="100">hectometer/square second</option>
+            <option value="0.0254">inch/square second</option>
+            <option value="0.277777777777778">kilometer/hour second</option>
+            <option value="1000">kilometer/square second</option>
+            <option value="1">meter/square second</option>
+            <option value="0.0074506666666666667">mile/hour minute</option>
+            <option value="0.44704">mile/hour second</option>
+            <option value="1609.344">mile/square second</option>
+            <option value="0.00001">milligal</option>
+            <option value="0.001">millimeter/square second</option>	  
+	  </select>
+    
+</div>
+    
+    
+<div class="row" id="astronomicalRow">
+		
+<label for="astronomical">From:</label>
+		<select name="astronomical" id="astronomical" onchange="convert()">
+            <option value="1e-3">meters</option>
+            <option value="1">kilometers</option>
+            <option value="1.609344">miles</option>
+            <option value="1.49597870691e8">Astronomical unit (A.U.)</option>
+            <option value="9454254955488">light-year</option>
+            <option value="3.0856780e13">parsec</option>		
+		</select>
+    
+</div>
+    
+<div class="row" id="anglesRow">
+		
+<label for="angles">From:</label>
+		<select name="angles" id="angles" onchange="convert()">
+  <option value="1">radian</option>
+  <option value="0.0009817477">mil</option>
+  <option value="0.0157079633">grad</option>
+  <option value="0.0174532925">degree</option>
+  <option value="0.0002908882">minute</option>
+  <option value="4.8481368111E-06">second</option>
+  <option value="0.1963495408">point</option>
+  <option value="0.3926990817">1/16 circle</option>
+  <option value="0.6283185307">1/10 circle</option>
+  <option value="0.7853981634">1/8 circle</option>
+  <option value="1.0471975512">1/6 circle</option>
+  <option value="1.5707963268">1/4 circle</option>
+  <option value="3.1415926536">1/2 circle</option>
+  <option value="6.2831853072">full circle</option>		
+		</select>
+    
+</div>
+    
+    
+<div class="row" id="areaRow">
+      
+<label for="area">From:</label>
+      <select name="area" id="area" onchange="convert()">
+    <option value="4046.856">acre</option>
+    <option value="3344.50944">acre [commercial]</option>
+    <option value="4046.872627">acre [survey]</option>
+    <option value="6555">acre [Ireland]</option>
+    <option value="100">are</option>
+    <option value="3418.89">arpent [Canada]</option>
+    <option value="1E-28">barn</option>
+    <option value="60000">bovate</option>
+    <option value="10000">bunder</option>
+    <option value="400000">caballeria [Spain/Peru]</option>
+    <option value="450000">caballeria [Central America]</option>
+    <option value="134200">caballeria [Cuba]</option>
+    <option value="12900">carreau</option>
+    <option value="486000">carucate</option>
+    <option value="5400">cawney</option>
+    <option value="1">centiare</option>
+    <option value="1000">cong</option>
+    <option value="2698">cover</option>
+    <option value="3930">cuerda</option>
+    <option value="1000">dekare</option>
+    <option value="10925">dessiatina</option>
+    <option value="16.929">dhur</option>
+    <option value="1000">dunum, dunham</option>
+    <option value="32.15">fall [Scots]</option>
+    <option value="47.03">fall [English]</option>
+    <option value="6430">fanega</option>
+    <option value="1012">farthingdale</option>
+    <option value="89600000">hacienda</option>
+    <option value="10000">hectare</option>
+    <option value="486000">hide</option>
+    <option value="647500">homestead</option>
+    <option value="50000000">hundred</option>
+    <option value="2000">jerib</option>
+    <option value="5755">jitro, joch, jutro</option>
+    <option value="154.26">kappland</option>
+    <option value="338">kattha [Nepal]</option>
+    <option value="716850">labor</option>
+    <option value="17920000">legua</option>
+    <option value="6988.96">manzana [Costa Rican]</option>
+    <option value="10000">manzana [Argentina]</option>
+    <option value="2500">morgen [Germany]</option>
+    <option value="8567">morgen [South Africa]</option>
+    <option value="666.6667">mu</option>
+    <option value="400">ngarn</option>
+    <option value="80937.128">nook</option>
+    <option value="60000">oxgang</option>
+    <option value="25.29285264">perch</option>
+    <option value="34.19">perche [Canada]</option>
+    <option value="3.305">ping</option>
+    <option value="3.306">pyong</option>
+    <option value="1600">rai</option>
+    <option value="1011.7141">rood</option>
+    <option value="2589998.5">section</option>
+    <option value="10E-52">shed</option>
+    <option value="18000000">sitio</option>
+    <option value="9.290304">square</option>
+    <option value="1.0E-20">square angstrom</option>
+    <option value="2.2379523E+22">square astronomical unit</option>
+    <option value="1.0E-36">square attometer</option>
+    <option value="1.0E-24">square bicron</option>
+    <option value="0.0001">square centimeter</option>
+    <option value="404.68726">square chain [Gunter, survey]</option>
+    <option value="929.03412">square chain [Ramden, Engineer]</option>
+	<option value="6474.97027584">square city block [East U.S.]</option>
+	<option value="10117.141056">square city block [Midwest U.S.]</option>
+	<option value="25899.88110336">square city block [South, West U.S.]</option>
+    <option value="0.20903184">square cubit</option>
+    <option value="0.01">square decimeter</option>
+    <option value="100">square dekameter</option>
+    <option value="1.0E+36">square exameter</option>
+    <option value="3.3445228">square fathom</option>
+    <option value="1.0E-30">square femtometer</option>
+    <option value="1.0E-30">square fermi</option>
+    <option value="0.09290304">square foot</option>
+    <option value="0.092903412">square foot [survey]</option>
+    <option value="40468.726">square furlong</option>
+    <option value="1.0E+18">square gigameter</option>
+    <option value="10000">square hectometer</option>
+    <option value="0.00064516">square inch</option>
+    <option value="0.000645163">square inch [survey]</option>
+    <option value="1000000">square kilometer</option>
+    <option value="3.0869136E+07">square league [nautical]</option>
+    <option value="2.3309986E+07">square league [U.S. statute]</option>
+    <option value="8.9505412E+31">square light year</option>
+    <option value="0.040468726">square link [Gunter, survey]</option>
+    <option value="0.092903412">square link [Ramden, Engineer]</option>
+    <option value="1.0E+12">square megameter</option>
+    <option value="1">square meter</option>
+    <option value="6.4516E-16">square microinch</option>
+    <option value="1.0E-12">square micrometer</option>
+    <option value="1.0E-24">square micromicron</option>
+    <option value="1.0E-12">square micron</option>
+    <option value="6.4516E-10">square mil</option>
+    <option value="2589988.11">square mile</option>
+    <option value="3429904">square mile [nautical]</option>
+    <option value="2589998.5">square mile [survey, U.S. statute]</option>
+    <option value="0.000001">square millimeter</option>
+    <option value="1.0E-18">square millimicron</option>
+    <option value="1.0E+8">square myriameter</option>
+    <option value="1.0E-18">square nanometer</option>
+    <option value="0.1055">square Paris foot</option>
+    <option value="9.5214087E+32">square parsec</option>
+    <option value="25.292954">square perch</option>
+    <option value="51.072">square perche</option>
+    <option value="1.0E+30">square petameter</option>
+    <option value="1.0E-24">square picometer</option>
+    <option value="25.29295392">square rod</option>
+    <option value="1.0E-20">square tenthmeter</option>
+    <option value="1.0E+24">square terameter</option>
+    <option value="6.4516E-10">square thou</option>
+    <option value="0.70258205">square vara [California]</option>
+    <option value="0.71684731">square vara [Texas]</option>
+    <option value="0.83612736">square yard</option>
+    <option value="0.836130708">square yard [survey]</option>
+    <option value="1.0E-48">square yoctometer</option>
+    <option value="1.0E+48">square yottameter</option>
+    <option value="2709">stang</option>
+    <option value="1000">stremma</option>
+    <option value="628.8">tarea</option>
+    <option value="1.6529">tatami</option>
+    <option value="5516">tonde land</option>
+    <option value="93239945.32">township</option>
+    <option value="3.3058">tsubo</option>
+    <option value="4936.4">tunnland</option>
+    <option value="0.83612736">yard</option>
+    <option value="120000">virgate</option>
+      </select>
+    
+</div>
+
+
+    
+        
+<div class="row" id="densityRow">
+	      
+<label for="density">From:</label>
+    	  <select name="density" id="density" onchange="convert()">
+            <option value="2643">aluminum</option>
+            <option value="8906">copper</option>
+            <option value="19300">gold</option>
+    		<option value="0.0022883519">grain/cubic foot</option>
+            <option value="3.9542721">grain/cubic inch</option>
+            <option value="0.000084753774">grain/cubic yard</option>
+            <option value="0.014253768">grain/gallon [U.K.]</option>
+            <option value="0.017118061">grain/gallon [U.S.]</option>
+            <option value="1000">gram/cubic centimeter</option>
+            <option value="1">gram/cubic decimeter</option>
+            <option value="0.001">gram/cubic meter</option>
+            <option value="1">gram/liter</option>
+            <option value="1000">gram/milliliter</option>
+            <option value="7658">iron</option>
+            <option value="1000000">kilogram/cubic centimeter</option>
+            <option value="1000">kilogram/cubic decimeter</option>
+            <option value="1">kilogram/cubic meter</option>
+            <option value="1000">kilogram/liter</option>
+            <option value="1000000">kilogram/milliliter</option>
+            <option value="11370">lead</option>
+            <option value="1.0E+09">megagram/cubic centimeter</option>
+            <option value="1000000">megagram/cubic decimeter</option>
+            <option value="1000">megagram/cubic meter</option>
+            <option value="1000000">megagram/liter</option>
+            <option value="1.0E+09">megagram/milliliter</option>
+            <option value="1">milligram/cubic centimeter</option>
+            <option value="0.001">milligram/cubic decimeter</option>
+            <option value="0.000001">milligram/cubic meter</option>
+            <option value="0.001">milligram/liter</option>
+            <option value="1">milligram/milliliter</option>
+            <option value="1.001154">ounce/cubic foot</option>
+            <option value="1.0984089">ounce/cubic foot [troy]</option>
+            <option value="1729.994">ounce/cubic inch</option>
+            <option value="1898.0506">ounce/cubic inch [troy]</option>
+            <option value="0.037079776">ounce/cubic yard</option>
+            <option value="0.040681812">ounce/cubic yard [troy]</option>
+            <option value="6.2360233">ounce/gallon [U.K.]</option>
+            <option value="7.4891517">ounce/gallon [U.S.]</option>
+            <option value="6.8418084">ounce/gallon [troy/U.K.]</option>
+            <option value="8.2166693">ounce/gallon [troy/U.S.]</option>
+            <option value="2.9369291">pound/circular mil foot</option>
+            <option value="16.018463">pound/cubic foot</option>
+            <option value="27679.905">pound/cubic inch</option>
+  <option value="0.59327642">pound/cubic yard</option>
+            <option value="99.776373">pound/gallon [U.K.]</option>
+            <option value="119.82643">pound/gallon [U.S.]</option>
+            <option value="10510">silver</option>
+            <option value="515.37882">slug/cubic foot</option>
+            <option value="890574.6">slug/cubic inch</option>
+            <option value="19.088104">slug/cubic yard</option>
+            <option value="3210.2099">slug/gallon [U.K.]</option>
+            <option value="3855.3013">slug/gallon [U.S.]</option>
+            <option value="35881.358">ton/cubic foot [long]</option>
+            <option value="32036.927">ton/cubic foot [short]</option>
+            <option value="6.2002987E+07">ton/cubic inch [long]</option>
+            <option value="5.5359809E+07">ton/cubic inch [short]</option>
+            <option value="1328.9392">ton/cubic yard [long]</option>
+            <option value="1186.5528">ton/cubic yard [short]</option>
+            <option value="223499.07">ton/gallon [long/U.K.]</option>
+            <option value="268411.2">ton/gallon [long/U.S.]</option>
+            <option value="199522.75">ton/gallon [short/U.K.]</option>
+            <option value="239652.85">ton/gallon [short/U.S.]</option>
+            <option value="1.0E+9">tonne/cubic centimeter</option>
+            <option value="1000000">tonne/cubic decimeter</option>
+            <option value="1000">tonne/cubic meter</option>
+            <option value="1000000">tonne/liter</option>
+            <option value="1.0E+09">tonne/milliliter</option>
+            <option value="1000">water</option>
+      </select>
+    
+</div>    
+
+    
+<div class="row" id="distanceRow">
+      
+<label for="distance">From:</label>
+      <select name="distance" id="distance" onchange="convert()">
+<option value="0.000352778">agate [Adobe]</option>
+<option value="0.6277">alen [Danish]</option>
+<option value="0.6">alen [Scandinavia]</option>
+<option value="0.5938">alen [Swedish]</option>
+<option value="1.00E-10">angstrom</option>
+<option value="0.7">arms-length</option>
+<option value="58.47">arpent [Canada]</option>
+<option value="58.471308">arpent [France]</option>
+<option value="0.7112">arsheen [Russia]</option>
+<option value="1.04">arshin [iran]</option>
+<option value="74.5">arshin [iraq]</option>
+<option value="1.50E+11">astronomical unit</option>
+<option value="1.00E-18">attometer</option>
+<option value="3.2">bamboo</option>
+<option value="0.0085">barleycorn</option>
+<option value="0.0065">bee space</option>
+<option value="1.00E-12">bicron</option>
+<option value="80.4672">block [East U.S.]</option>
+<option value="100.584">block [Midwest U.S.]</option>
+<option value="160.9344">block [South, West U.S.]</option>
+<option value="5.29E-11">bohr</option>
+<option value="0.7">braccio [Italy]</option>
+<option value="1.733">braza [Argentina]</option>
+<option value="1.67">braza [Spain]</option>
+<option value="1.693">braza [Texas]</option>
+<option value="0.000635">button measure</option>
+<option value="219.456">cable [U.S.]</option>
+<option value="185.3184">cable [British]</option>
+<option value="0.0254">caliber</option>
+<option value="2">cana (canna, canne)</option>
+<option value="0.314858">cape foot</option>
+<option value="0.026238167">cape inch</option>
+<option value="3.778296">cape rood</option>
+<option value="0.01">centimeter</option>
+<option value="20.1168402337">chain [Gunter, survey]</option>
+<option value="30.48">chain [Ramsden, engineer]</option>
+<option value="0.35814">ch'ih [China]</option>
+<option value="0.371475">chinese foot</option>
+<option value="0.0371475">chinese inch</option>
+<option value="557.21">chinese mile</option>
+<option value="0.89154">chinese yard</option>
+<option value="80.4672">city block [East U.S.]</option>
+<option value="100.584">city block [Midwest U.S.]</option>
+<option value="1.8">klafter [Switzerland]</option>
+<option value="1000">click [U.S. military]</option>
+<option value="84">cuadra</option>
+<option value="130">cuadra [Argentina]</option>
+<option value="0.45">cubit [Egyption]</option>
+<option value="0.5235">cubit [Royal Egyptian]</option>
+<option value="0.4572">cubit [English]</option>
+<option value="0.444">cubit [Roman]</option>
+<option value="21">cuerda</option>
+<option value="0.1">decimeter</option>
+<option value="10">dekameter</option>
+<option value="0.000377">didot point</option>
+<option value="0.019">digit</option>
+<option value="0.58">diraa [Egypt]</option>
+<option value="0.023333333">dong [Vietnam]</option>
+<option value="0.000188">douzieme [watchmaking]</option>
+<option value="0.000176389">douzieme [print]</option>
+<option value="0.745">dra [Iraq]</option>
+<option value="0.7112">dra [Russia]</option>
+<option value="0.69">el [Dutch]</option>
+<option value="1.143">ell [English]</option>
+<option value="0.945">ell [Scotland]</option>
+<option value="0.6">elle [Germany]</option>
+<option value="0.7793">elle [Vienna]</option>
+<option value="0.004217518">em</option>
+<option value="261">estadio [Portugal]</option>
+<option value="174">estadio [Spain]</option>
+<option value="1.00E+18">exameter</option>
+<option value="1.8965">faden [Austria]</option>
+<option value="1.8">faden [Switzerland]</option>
+<option value="6.858">fall [English]</option>
+<option value="5.67">fall [Scotland]</option>
+<option value="1.8288">fathom</option>
+<option value="1.829">fathom [ancient]</option>
+<option value="0.10536">faust [Hungary]</option>
+<option value="0.325">feet [pre-1963 Canada]</option>
+<option value="0.36">feet [Egypt]</option>
+<option value="0.3248406">feet [France]</option>
+<option value="0.3048">feet [international, U.S.]</option>
+<option value="0.316">feet [iraq]</option>
+<option value="0.28313">feet [Netherlands]</option>
+<option value="0.296">feet [Rome]</option>
+<option value="0.3048006096">feet [survey]</option>
+<option value="1.00E-15">femtometer</option>
+<option value="1.00E-15">fermi</option>
+<option value="0.1143">finger</option>
+<option value="0.01905">fingerbreadth</option>
+<option value="0.1">fist</option>
+<option value="0.3141">fod</option>
+<option value="0.325">foot [pre-1963 Canada]</option>
+<option value="0.36">foot [Egypt]</option>
+<option value="0.3248406">foot [France]</option>
+<option value="0.3048">foot [international, U.S.]</option>
+<option value="0.316">foot [iraq]</option>
+<option value="0.28313">foot [Netherlands]</option>
+<option value="0.296">foot [Rome]</option>
+<option value="00.3048006096">foot [survey]</option>
+<option value="100.584">football field [Canada]</option>
+<option value="91.44">football field [U.S.]</option>
+<option value="109.728">football field [U.S., complete]</option>
+<option value="201.168">furlong [international]</option>
+<option value="201.1684023368">furlong [survey]</option>
+<option value="0.31608">fuss [German]</option>
+<option value="1.00E+09">gigameter</option>
+<option value="3.09E+25">gigaparsec</option>
+<option value="0.000125">gnat's eye</option>
+<option value="1.3716">goad</option>
+<option value="0.000211667">gry</option>
+<option value="0.0001">hair's breadth</option>
+<option value="0.1016">hand [non-equine]</option>
+<option value="0.08">handbreadth</option>
+<option value="0.5">hat [Cambodia]</option>
+<option value="100">hectometer</option>
+<option value="73.152">heer</option>
+<option value="9.46E+24">hubble</option>
+<option value="1.8965">hvat [Croatia]</option>
+<option value="0.0254">inch [international, U.S.]</option>
+<option value="0.000529167">iron</option>
+<option value="1.818">ken [Japan]</option>
+<option value="0.0286">kerat</option>
+<option value="304.8">kilofoot</option>
+<option value="1000">kilometer</option>
+<option value="3.09E+19">kiloparsec</option>
+<option value="914.4">kiloyard</option>
+<option value="0.5">kind</option>
+<option value="1000">klick</option>
+<option value="0.00025">kyu</option>
+<option value="402.336">lap [old]</option>
+<option value="400">lap [competition]</option>
+<option value="100">lap [olympic pool]</option>
+<option value="2275">league [ancient Celtic]</option>
+<option value="5556">league [nautical]</option>
+<option value="5559.552">league [UK nautical]</option>
+<option value="4828">league [UK]</option>
+<option value="4828.0417">league [US statute]</option>
+<option value="2.0574">leap</option>
+<option value="6174.1">legoa</option>
+<option value="4200">legua</option>
+<option value="4233.4">legua [Texas]</option>
+<option value="4179.4">legua [Spanish, pre-1568]</option>
+<option value="6680">legua [Spanish, post-1568]</option>
+<option value="500">li [ancient China]</option>
+<option value="644.65">li [imperial China]</option>
+<option value="500">li [modern China]</option>
+<option value="3898">lieue [France]</option>
+<option value="4000">lieue [France, metric]</option>
+<option value="5556">lieue [France, nautical]</option>
+<option value="9.45E+15">light year</option>
+<option value="0.0021167">ligne [France]</option>
+<option value="0.002256">ligne [Swiss]</option>
+<option value="0.0021167">line</option>
+<option value="0.000635">line [small]</option>
+<option value="0.2011684023">link [Gunter, survey]</option>
+<option value="0.3048">link [Ramden, engineer]</option>
+<option value="5.0292">lug</option>
+<option value="6.4008">lug [great]</option>
+<option value="42194.988">marathon</option>
+<option value="3.6576074">mark twain</option>
+<option value="1000000">megameter</option>
+<option value="3.09E+22">megaparsec</option>
+<option value="7586">meile [Austria]</option>
+<option value="7412.7">meile [geographische]</option>
+<option value="7532.5">meile [North Germany]</option>
+<option value="1">meter</option>
+<option value="1">metre</option>
+<option value="1500">metric mile</option>
+<option value="1600">metric mile [high school]</option>
+<option value="2.54E-08">microinch</option>
+<option value="0.000001">micrometer</option>
+<option value="1.00E-12">micromicron</option>
+<option value="0.000001">micron</option>
+<option value="1488.6">miglio</option>
+<option value="7500">miil (mijl) [Danish]</option>
+<option value="7532.5">miil (mijl) [Denmark]</option>
+<option value="10687">miil (mijl) [Sweden, ancient]</option>
+<option value="0.0000254">mil</option>
+<option value="10000">mil [Sweden]</option>
+<option value="1609">mile [Britain, ancient]</option>
+<option value="2048">mile [Irish]</option>
+<option value="1609.344">mile [international]</option>
+<option value="1852">mile [nautical, international]</option>
+<option value="1853.184">mile [nautical, UK]</option>
+<option value="1852">mile [nautical, US]</option>
+<option value="1520">mile [Roman, ancient]</option>
+<option value="1814">mile [Scottish]</option>
+<option value="1609.344">mile [statute]</option>
+<option value="1609.3472186944">mile [survey, US]</option>
+<option value="2087.3">milha [Portuguese]</option>
+<option value="0.762">military pace</option>
+<option value="0.9144">military pace [double time]</option>
+<option value="1392">milla [Spanish]</option>
+<option value="1949">mille [French]</option>
+<option value="0.001478">milliare [Rome]</option>
+<option value="0.001">millimeter</option>
+<option value="1.00E-09">millimicron</option>
+<option value="0.4572">mkono [Africa]</option>
+<option value="0.0762">moot [India]</option>
+<option value="10000">myriameter</option>
+<option value="0.05715">nail</option>
+<option value="1.00E-09">nanometer</option>
+<option value="1.00E-09">nanon</option>
+<option value="1.524">pace [great]</option>
+<option value="1.48">pace [Roman]</option>
+<option value="0.1">palm [Dutch]</option>
+<option value="0.075">palm [Britain, Roman minor]</option>
+<option value="0.2286">palm [US, Roman major]</option>
+<option value="0.22">palmo [Portuguese]</option>
+<option value="0.2">palmo [Spanish]</option>
+<option value="0.2117">palmo [Texas]</option>
+<option value="6000">parasang</option>
+<option value="0.3248406">Paris foot</option>
+<option value="3.09E+16">parsec</option>
+<option value="0.33324">pe [Portuguese]</option>
+<option value="0.001757299">pearl</option>
+<option value="5.0292">perch</option>
+<option value="6.4008">perch [Ireland]</option>
+<option value="2.96">pertica</option>
+<option value="0.2967">pes</option>
+<option value="1.00E+15">petameter</option>
+<option value="0.004217518">pica</option>
+<option value="1.00E-12">picometer</option>
+<option value="0.2889">pie [Argentina]</option>
+<option value="0.298">pie [Italian]</option>
+<option value="0.2786">pie [Spanish]</option>
+<option value="0.2822">pie [Texas]</option>
+<option value="0.3248406">pied de roi</option>
+<option value="0.71">pik</option>
+<option value="0.71">pike [Greece]</option>
+<option value="0.0003527778">point [Adobe]</option>
+<option value="0.00035">point [Britain, US]</option>
+<option value="0.000377">point [Didot]</option>
+<option value="0.00035146">point [TeX]</option>
+<option value="5.0292">pole</option>
+<option value="0.02777">polegada [Portuguese]</option>
+<option value="0.02707">pouce</option>
+<option value="1.7907">pu [China]</option>
+<option value="0.02365">pulgada</option>
+<option value="0.346">pygme [Greece]</option>
+<option value="0.00025">Q</option>
+<option value="10001300">quadrant</option>
+<option value="402.336">quarter</option>
+<option value="0.2286">quarter [cloth]</option>
+<option value="0.00025">quarter [print]</option>
+<option value="9656.0833121666">range</option>
+<option value="2.679">reed [Israel]</option>
+<option value="3927">ri [Japan]</option>
+<option value="6.1722">ridge</option>
+<option value="2000">river [Egypt]</option>
+<option value="5.0292">rod [international]</option>
+<option value="5.0292100584">rod [survey]</option>
+<option value="10">roede</option>
+<option value="3.7783">rood</option>
+<option value="3.7783">rope</option>
+<option value="0.3248406">royal foot</option>
+<option value="3.75">rute [Germany]</option>
+<option value="2.1336">sadzhen</option>
+<option value="2.1336">sagene</option>
+<option value="0.30645">Scots foot</option>
+<option value="1814.2">Scots mile</option>
+<option value="1852">seemeile</option>
+<option value="27.432">shackle</option>
+<option value="0.15124">shaftment</option>
+<option value="0.165">shaftment [ancient]</option>
+<option value="0.303">shaku</option>
+<option value="1.50E+17">siriometer</option>
+<option value="1.7018">smoot</option>
+<option value="0.2286">span</option>
+<option value="1.00E+12">spat</option>
+<option value="185">stadium</option>
+<option value="0.762">step</option>
+<option value="3.048">stick</option>
+<option value="3.3">story</option>
+<option value="1.524">stride [great]</option>
+<option value="1.48">stride [Roman]</option>
+<option value="1.00E-10">tenthmeter</option>
+<option value="1.00E+12">terameter</option>
+<option value="0.0000254">thou</option>
+<option value="1.949">toise</option>
+<option value="9656.0833121666">township</option>
+<option value="0.0358">t'sun</option>
+<option value="161130">tu</option>
+<option value="3.6576074">twain</option>
+<option value="0.000017639">twip</option>
+<option value="0.04445">U</option>
+<option value="0.83820168">vara [California]</option>
+<option value="0.83802">vara [Mexico]</option>
+<option value="1.1">vara [Portuguese]</option>
+<option value="0.864">vara [South America]</option>
+<option value="0.83587">vara [Spanish]</option>
+<option value="0.84666836">vara [Texas]</option>
+<option value="0.9144">verge</option>
+<option value="0.04445">vershok</option>
+<option value="1066.8">verst</option>
+<option value="2">wah [Thailand]</option>
+<option value="1066.8">werst</option>
+<option value="1.00E-13">X unit</option>
+<option value="0.9144">yard</option>
+<option value="1.00E-24">yoctometer</option>
+<option value="1.00E+24">yottameter</option>
+<option value="1.00E-21">zeptometer</option>
+<option value="1.00E+21">zettameter</option>
+<option value="0.02634">zoll [Germany]</option>
+      </select>
+    
+</div>  
+    
+    
+    
+<div class="row" id="energyRow">
+      
+<label for="energy">From:</label>
+      <select name="energy" id="energy" onchange="convert()">    
+<option value="3600000">Board of Trade unit</option>
+<option value="1055.0559">Btu</option>
+<option value="1054.3503">Btu [thermochemical]</option>
+<option value="4.1868">calorie [I.T.]</option>
+<option value="4.1858">calorie [15 &deg;C]</option>
+<option value="4186.8">Calorie [nutritional]</option>
+<option value="4.184">calorie [thermochemical]</option>
+<option value="1899.1005">celsius heat unit</option>
+<option value="0.01">centijoule</option>
+<option value="2647795.5">cheval vapeur heure</option>
+<option value="0.1">decijoule</option>
+<option value="10">dekajoule</option>
+<option value="36000">dekawatt hour</option>
+<option value="1055057000">dekatherm</option>
+<option value="1.6021773E-19">electronvolt</option>
+<option value="0.0000001">erg</option>
+<option value="1E+18">exajoule</option>
+<option value="3.6E+21">exawatt hour</option>
+<option value="1E-15">femtojoule</option>
+<option value="1.3558179">foot pound</option>
+<option value="0.04214011">foot poundal</option>
+<option value="1.60218E-10">gigaelectronvolt</option>
+<option value="1000000000">gigajoule</option>
+<option value="3.6E+12">gigawatt hour</option>
+<option value="4.1858">gram calorie</option>
+
+<option value="4.35975E-18">hartree</option>
+<option value="100">hectojoule</option>
+<option value="360000">hectowatt hour</option>
+<option value="2684519.5">horsepower hour</option>
+<option value="108720000">hundred cubic foot of natural gas</option>
+<option value="0.007061552">inch ounce</option>
+<option value="0.112984825">inch pound</option>
+<option value="1">joule</option>
+<option value="4185.8">kilocalorie [15 &deg;C]</option>
+<option value="4186.8">kilocalorie [I.T.]</option>
+<option value="4184">kilocalorie [thermochemical]</option>
+<option value="1.6021773E-16">kiloelectronvolt</option>
+<option value="4185.8">kilogram calorie</option>
+<option value="9.80665">kilogram-force meter</option>
+<option value="1000">kilojoule</option>
+<option value="9.80665">kilopond meter</option>
+<option value="4.184E+12">kiloton [explosive]</option>
+<option value="3600000">kilowatt hour</option>
+<option value="101.325">liter atmosphere</option>
+<option value="1.6021773E-13">megaelectronvolt</option>
+<option value="1000000">megajoule</option>
+<option value="0.1">megalerg</option>
+<option value="4.184E+15">megaton [explosive]</option>
+<option value="3600000000">megawatthour</option>
+<option value="9.80665">meter kilogram-force</option>
+<option value="0.000001">microjoule</option>
+<option value="0.001">millijoule</option>
+<option value="36000000">myriawatt hour</option>
+<option value="0.000000001">nanojoule</option>
+<option value="1">newton meter</option>
+<option value="1E+15">petajoule</option>
+<option value="3.6E+18">petawatthour</option>
+<option value="2647795.5">pferdestarkenstunde</option>
+<option value="1E-12">picojoule</option>
+<option value="1.0550559E+21">Q unit</option>
+<option value="1.0550559E+18">quad</option>
+<option value="1.6021773E-07">teraelectronvolt</option>
+<option value="1E+12">terajoule</option>
+<option value="3.6E+15">terawatthour</option>
+<option value="105505590">therm [Europe]</option>
+<option value="105480400">therm [U.S.]</option>
+<option value="4185800">thermie</option>
+<option value="4184000000">ton [explosive]</option>
+<option value="29307600000">tonne of coal equivalent</option>
+<option value="41868000000">tonne of oil equivalent</option>
+<option value="3600">watthour</option>
+<option value="1">wattsecond</option>
+<option value="1E-24">yoctojoule</option>
+<option value="1E+24">yottajoule</option>
+<option value="3.6E+27">yottawatthour</option>
+<option value="1E-21">zeptojoule</option>
+<option value="1E+21">zettajoule</option>
+<option value="3.6E+24">zettawatthour</option>
+<option value="1E+21">zettajoule</option>
+<option value="3.6E+24">zettawatthour</option>
+          </select>
+    
+</div> 
+    
+  
+<div class="row" id="flowRateRow">
+      
+<label for="flowRate">From:</label>
+      <select name="flowRate" id="flowRate" onchange="convert()">    
+  <option value="0.0142764102">acre foot/day</option>
+  <option value="0.3426338444">acre foot/hour</option>
+  <option value="20.5580306667">acre foot/minute</option>
+  <option value="1233.48184">acre foot/second</option>
+  <option value="0.0142764958">acre foot/day [survey]</option>
+  <option value="0.3426359">acre foot/hour [survey]</option>
+  <option value="20.558154">acre foot/minute [survey]</option>
+  <option value="1233.48924">acre foot/second [survey]</option>
+  <option value="0.0011897008">acre inch/day</option>
+  <option value="0.0285528204">acre inch/hour</option>
+  <option value="1.7131692222">acre inch/minute</option>
+  <option value="102.7901533333">acre inch/second</option>
+  <option value="0.001189708">acre inch/day [survey]</option>
+  <option value="0.0285529917">acre inch/hour [survey]</option>
+  <option value="1.7131795">acre inch/minute [survey]</option>
+  <option value="102.79077">acre inch/second [survey]</option>
+  <option value="1.8401307361E-06">barrel/day [petroleum]</option>
+  <option value="4.4163137667E-05">barrle/hour [petroleum]</option>
+  <option value="0.0026497883">barrel/minute [petroleum]</option>
+  <option value="0.1589872956">barrel/second [petroleum]</option>
+  <option value="1.8942E-06">barrel/day [UK]</option>
+  <option value="4.54609E-05">barrle/hour [UK]</option>
+  <option value="0.002727654">barrel/minute [UK]</option>
+  <option value="0.16365924">barrel/second [UK]</option>
+  <option value="1.3800980521E-06">barrel/day [US]</option>
+  <option value="3.3122353250E-05">barrle/hour [US]</option>
+  <option value="0.0019873412">barrel/minute [US]</option>
+  <option value="0.1192404717">barrel/second [US]</option>
+  <option value="1.3581917338E-06">barrel/day [US beer/wine]</option>
+  <option value="3.2596601611E-05">barrle/hour [US beer/wine]</option>
+  <option value="0.0019557961">barrel/minute [US beer/wine]</option>
+  <option value="0.1173477658">barrel/second [US beer/wine]</option>
+  <option value="327.7412847222">billion cubic foot/day</option>
+  <option value="7865.7908333333">billion cubic foot/hour</option>
+  <option value="471947.45">billion cubic foot/minute</option>
+  <option value="28316847">billion cubic foot/second</option>
+  <option value="1.1574074074E-10">centiliter/day</option>
+  <option value="2.7777777778E-09">centiliter/hour</option>
+  <option value="1.6666666667E-07">centiliter/minute</option>
+  <option value="0.00001">centiliter/second</option>
+  <option value="48242.8452546296">cubem/day</option>
+  <option value="1157828.28611111">cubem/hour</option>
+  <option value="1233481840">million acre foot/second</option>
+  <option value="4168181830">cubem/second</option>
+  <option value="1.1574074074E-11">cubic centimeter/day</option>
+  <option value="2.7777777778E-10">cubic centimeter/hour</option>
+  <option value="1.6666666667E-08">cubic centimeter/minute</option>
+  <option value="0.000001">cubic centimeter/second</option>
+  <option value="1.1574074074E-08">cubic decimeter/day</option>
+  <option value="2.7777777778E-07">cubic decimeter/hour</option>
+  <option value="1.6666666667E-05">cubic decimeter/minute</option>
+  <option value="0.001">cubic decimeter/second</option>
+  <option value="0.0115740741">cubic dekameter/day</option>
+  <option value="0.2777777778">cubic dekameter/hour</option>
+  <option value="16.6666666667">cubic dekameter/minute</option>
+  <option value="1000">cubic dekameter/second</option>
+  <option value="3.2774128472E-07">cubic foot/day</option>
+  <option value="7.8657908333E-06">cubic foot/hour</option>
+  <option value="0.0004719475">cubic foot/minute</option>
+  <option value="0.028316847">cubic foot/second</option>
+  <option value="1.8966509533E-10">cubic inch/day</option>
+  <option value="4.5519622878E-09">cubic inch/hour</option>
+  <option value="2.7311773727E-07">cubic inch/minute</option>
+  <option value="1.6387064236E-05">cubic inch/second</option>
+  <option value="11574.0740740741">cubic kilometer/day</option>
+  <option value="277777.777777778">cubic kilometer/hour</option>
+  <option value="16666666.6666667">cubic kilometer/minute</option>
+  <option value="1000000000">cubic kilometer/second</option>
+  <option value="1.1574074074E-05">cubic meter/day</option>
+  <option value="0.0002777778">cubic meter/hour</option>
+  <option value="0.0166666667">cubic meter/minute</option>
+  <option value="1">cubic meter/second</option>
+  <option value="48242.8452546296">cubic mile/day</option>
+  <option value="1157828.28611111">cubic mile/hour</option>
+  <option value="69469697.1666667">cubic mile/minute</option>
+  <option value="4168181830">cubic mile/second</option>
+  <option value="1.1574074074E-14">cubic millimeter/day</option>
+  <option value="2.7777777778E-13">cubic millimeter/hour</option>
+  <option value="1.6666666667E-11">cubic millimeter/minute</option>
+  <option value="0.000000001">cubic millimeter/second</option>
+  <option value="8.8490146875E-06">cubic yard/day</option>
+  <option value="0.0002123764">cubic yard/hour</option>
+  <option value="0.0127425812">cubic yard/minute</option>
+  <option value="0.764554869">cubic yard/second</option>
+  <option value="0.028316847">cusec</option>
+  <option value="1.1574074074E-09">deciliter/day</option>
+  <option value="2.7777777778E-08">deciliter/hour</option>
+  <option value="1.6666666667E-06">deciliter/minute</option>
+  <option value="0.0001">deciliter/second</option>
+  <option value="1.1574074074E-07">dekaliter/day</option>
+  <option value="2.7777777778E-06">dekaliter/hour</option>
+  <option value="0.000166667">dekaliter/minute</option>
+  <option value="0.01">dekaliter/second</option>
+  <option value="5.2616782407E-08">gallon/day [UK]</option>
+  <option value="1.2628027778E-06">gallon/hour [UK]</option>
+  <option value="7.5768166667E-05">gallon/minute [UK]</option>
+  <option value="0.00454609">gallon/second [UK]</option>
+  <option value="4.3812636574E-08">gallon/day [US]</option>
+  <option value="1.0515032778E-06">gallon/hour [US]</option>
+  <option value="6.3090196667E-05">gallon/minute [US]</option>
+  <option value="0.0037854118">gallon/second [US]</option>
+  <option value="0.1157407407">hectare meter/day</option>
+  <option value="2.7777777778">hectare meter/hour</option>
+  <option value="166.6666666667">hectare meter/minute</option>
+  <option value="10000">hectare meter/second</option>
+  <option value="1.1574074074E-06">hectoliter/day</option>
+  <option value="2.7777777778E-05">hectoliter/hour</option>
+  <option value="0.001666667">hectoliter/minute</option>
+  <option value="0.1">hectoliter/second</option>
+  <option value="1.1574074074E-05">kiloliter/day</option>
+  <option value="0.0002777778">kiloliter/hour</option>
+  <option value="0.0166666667">kiloliter/minute</option>
+  <option value="1">kiloliter/second</option>
+  <option value="1.1574074074E-14">lambda/day</option>
+  <option value="2.7777777778E-13">lambda/hour</option>
+  <option value="1.6666666667E-11">lambda/minute</option>
+  <option value="0.000000001">lambda/second</option>
+  <option value="1.1574074074E-08">liter/day</option>
+  <option value="2.7777777778E-07">liter/hour</option>
+  <option value="1.6666666667E-05">liter/minute</option>
+  <option value="0.001">liter/second</option>
+  <option value="1.1574074074E-11">milliliter/day</option>
+  <option value="2.7777777778E-10">milliliter/hour</option>
+  <option value="1.6666666667E-08">milliliter/minute</option>
+  <option value="0.000001">milliliter/second</option>
+  <option value="14276.4101851852">million acre foot/day</option>
+  <option value="3342633.844444444">million acre foot/hour</option>
+  <option value="0.3277412847">million cubic foot/day</option>
+  <option value="7.865790833">million cubic foot/hour</option>
+  <option value="471.94745">million cubic foot/minute</option>
+  <option value="28316.847">million cubic foot/second</option>
+  <option value="0.0526167824">million gallon/day [UK]</option>
+  <option value="1.2628027778">million gallon/hour [UK]</option>
+  <option value="75.7681666667">million gallon/minute [UK]</option>
+  <option value="4546.09">million gallon/second [UK]</option>
+  <option value="0.0438126366">million gallon/day [US]</option>
+  <option value="1.0515032778">million gallon/hour [US]</option>
+  <option value="63.0901966667">million gallon/minute [US]</option>
+  <option value="3785.4118">million gallon/second [US]</option>
+  <option value="0.0007079212">miner's inch [AZ" CA" OR] </option>
+  <option value="0.0007374179">miner's inch [CO]</option>
+  <option value="0.0005678118">miner's inch [ID" WA" NM]</option>
+  <option value="3.2885489005E-10">ounce/day [UK]</option>
+  <option value="7.8925173611E-09">ounce/hour [UK]</option>
+  <option value="4.7355104167E-07">ounce/minute [UK]</option>
+  <option value="2.8413062500E-05">ounce/second [UK]</option>
+  <option value="3.4228622323E-10">ounce/day [US]</option>
+  <option value="8.2148693576E-09">ounce/hour [US]</option>
+  <option value="4.9289216146E-07">ounce/minute [US]</option>
+  <option value="2.9573529688E-05">ounce/second [US]</option>
+  <option value="5.4077311979E-05">petrograd standard/day</option>
+  <option value="0.0012978555">petrograd standard/hour</option>
+  <option value="0.0778713293">petrograd standard/minute</option>
+  <option value="4.672279755">petrograd standard/second</option>
+  <option value="1.1574074074E-05">stere/day</option>
+  <option value="0.0002777778">stere/hour</option>
+  <option value="0.0166666667">stere/minute</option>
+  <option value="1">stere/second</option>
+  <option value="0.0003277413">thousand cubic foot/day</option>
+  <option value="0.0078657908">thousand cubic foot/hour</option>
+  <option value="0.47194745">thousand cubic foot/minute</option>
+  <option value="28.316847">thousand cubic foot/second</option>
+  <option value="327741.284722222">trillion cubic foot/day</option>
+  <option value="7865790.83333333">trillion cubic foot/hour</option>
+  <option value="471947450">trillion cubic foot/minute</option>
+  <option value="28316847000">trillion cubic foot/second</option>
+        </select>
+    
+</div> 
+
+   
+<div class="row" id="forceRow">
+	      
+<label for="force">From:</label>
+    	  <select name="force" id="force" onchange="convert()"> 
+  <option value="1E-18">attonewton</option>
+  <option value="0.01">centinewton</option>
+  <option value="0.000980665">decigram-force</option>
+  <option value="0.1">decinewton</option>
+  <option value="0.0980665">dekagram-force</option>
+  <option value="10">dekanewton</option>
+  <option value="0.00001">dyne</option>
+  <option value="1E+18">exanewton</option>
+  <option value="1E-15">femtonewton</option>
+  <option value="1000000000">giganewton</option>
+  <option value="0.00980665">gram-force</option>
+  <option value="100">hectonewton</option>
+  <option value="1">joule/meter</option>
+  <option value="9.80665">kilogram-force</option>
+  <option value="1000">kilonewton</option>
+  <option value="9.80665">kilopond</option>
+  <option value="4448.2216">kip</option>
+  <option value="1000000">meganewton</option>
+  <option value="9806.65">megapond</option>
+  <option value="0.000001">micronewton</option>
+  <option value="0.001">millinewton</option>
+  <option value="0.000000001">nanonewton</option>
+  <option value="1">newton</option>
+  <option value="0.27801385">ounce-force</option>
+  <option value="1E+15">petanewton</option>
+  <option value="1E-12">piconewton</option>
+  <option value="0.00980665">pond</option>
+  <option value="4.4482216">pound-force</option>
+  <option value="0.13825495">poundal</option>
+  <option value="1000">sthene</option>
+  <option value="1E+12">teranewton</option>
+  <option value="9964.016384">ton-force [long]</option>
+  <option value="9806.65">ton-force [metric]</option>
+  <option value="8896.4432">ton-force [short]</option>
+  <option value="1E-24">yoctonewton</option>
+  <option value="1E+24">yottanewton</option>
+  <option value="1E-21">zeptonewton</option>
+  <option value="1E+21">zettanewton</option>    	  
+      </select>
+    
+</div>  
+
+   
+<div class="row" id="frequencyRow">
+	      
+<label for="frequency">From:</label>
+    	  <select name="frequency" id="frequency" onchange="convert()">    
+  <option value="1">1/second</option>
+  <option value="1">cycle/second</option>
+  <option value="7.71605E-07">degree/hour</option>
+  <option value="4.62963E-05">degree/minute</option>
+  <option value="0.002777778">degree/second</option>
+  <option value="1000000000">gigahertz</option>
+  <option value="1">hertz</option>
+  <option value="1000">kilohertz</option>
+  <option value="1000000">megahertz</option>
+  <option value="0.001">millihertz</option>
+  <option value="0.001">radian/hour</option>
+  <option value="0.002652582">radian/minute</option>
+  <option value="0.159154943">radian/second</option>
+  <option value="0.000277778">revolution/hour</option>
+  <option value="0.016666667">revolution/minute</option>
+  <option value="1">revolution/second</option>
+  //May want to talk to client about listing RPM because revolution/minute is also listed (clg 3-14-2006)
+  //Could label revolution/minute (RPM)
+  <option value="0.016666667">RPM</option> 
+  <option value="1E+12">terrahertz</option>
+      </select>
+    
+</div>     
+    
+   
+<div class="row" id="illuminanceRow">
+	      
+<label for="illuminance">From:</label>
+    	  <select name="illuminance" id="illuminance" onchange="convert()">      
+<option value="10.7639104">footcandle</option>
+<option value="1000">kilolux</option>
+<option value="10000">lumen/square centimeter</option>
+<option value="10.7639104">lumen/square foot</option>
+<option value="1550.003098">lumen/square inch</option>
+<option value="1">lumen/square meter</option>
+<option value="1">lux</option>
+<option value="1">metercandle</option>
+<option value="10">milliphot</option>
+<option value="0.001">nox</option>
+<option value="10000">phot</option>
+       </select>
+    
+</div>  
+    
+    
+<div class="row" id="luminanceRow">
+      
+<label for="luminance">From:</label>
+   	  <select name="luminance" id="luminance" onchange="convert()">  
+<option value="0.31830989">apostilb</option>
+<option value="0.31830989">blondel</option>
+<option value="10000">candela/square centimeter</option>
+<option value="10.76391">candela/square foot</option>
+<option value="1550.00304">candela/square inch</option>
+<option value="1">candela/square meter</option>
+<option value="3.4262591">Footlambert</option>
+<option value="10000000">kilocandela/square centimeter</option>
+<option value="10763.91">kilocandela/square foot</option>
+<option value="1550003.04">kilocandela/square inch</option>
+<option value="1000">kilocandela/square meter</option>
+<option value="3183.0989">lambert</option>
+<option value="3.1830989">millilambert</option>
+<option value="1">nit</option>
+<option value="10000">stilb</option>
+       </select>
+    
+</div>    
+    
+    
+<div class="row" id="powerRow">
+      
+<label for="power">From:</label>
+   	  <select name="power" id="power" onchange="convert()">     
+  <option value="1E-18">attowatt</option>
+  <option value="0.29307107">Btu/hour [I.T.]</option>
+  <option value="17.5842642">Btu/minute [I.T.]</option>
+  <option value="1055.055852">Btu/second [I.T.]</option>
+  <option value="0.001163">calorie/hour [I.T.]</option>
+  <option value="0.06978">calorie/minute [I.T.]</option>
+  <option value="4.1868">calorie/second [I.T.]</option>
+  <option value="0.01">centiwatt</option>
+  <option value="735.49875">cheval vapeur</option>
+  <option value="1.33322E-06">clusec</option>
+  <option value="0.1">deciwatt</option>
+  <option value="10">dekawatt</option>
+  <option value="2.7777777778E-11">dyne centimeter/hour</option>
+  <option value="1.6666666667E-09">dyne centimeter/minute</option>
+  <option value="0.0000001">dyne centimeter/second</option>
+  <option value="2.7777777778E-11">erg/hour</option>
+  <option value="1.6666666667E-09">erg/minute</option>
+  <option value="0.0000001">erg/second</option>
+  <option value="1E+18">exawatt</option>
+  <option value="1E-15">femtowatt</option>
+  <option value="0.0003766161">foot pound-force/hour</option>
+  <option value="0.022596965">foot pound-force/minute</option>
+  <option value="1.3558179">foot pound-force/second</option>
+  <option value="1.1705586111E-05">foot poundal/hour</option>
+  <option value="0.0007023352">foot poundal/minute</option>
+  <option value="0.04214011">foot poundal/second</option>
+  <option value="1000000000">gigawatt</option>
+  <option value="2.7240694444E-08">gram-force centimeter/hour</option>
+  <option value="1.6344416667E-06">gram-force centimeter/minute</option>
+  <option value="9.80665E-05">gram-force centimeter/second</option>
+  <option value="100">hectowatt</option>
+  <option value="745.69987">horsepower [international]</option>
+  <option value="746">horsepower [electric]</option>
+  <option value="735.49875">horsepower [metric]</option>
+  <option value="746.043">horsepower [water]</option>
+  <option value="0.000739484">inch ounce-force revolution/minute</option>
+  <option value="0.0002777778">joule/hour</option>
+  <option value="0.0166666667">joule/minute</option>
+  <option value="1">joule/second</option>
+  <option value="1.163">kilocalorie/hour [I.T.]</option>
+  <option value="69.78">kilocalorie/minute [I.T.]</option>
+  <option value="4186.8">kilocalorie/second [I.T.]</option>
+  <option value="0.0027240694">kilogram-force meter/hour</option>
+  <option value="0.1634441667">kilogram-force meter/minute</option>
+  <option value="9.80665">kilogram-force meter/second</option>
+  <option value="0.0027240694">kilopond meter/hour</option>
+  <option value="0.1634441667">kilopond meter/minute</option>
+  <option value="9.80665">kilopond meter/second</option>
+  <option value="1000">kilowatt</option>
+  <option value="1000000">megawatt</option>
+  <option value="0.000001">microwatt</option>
+  <option value="293071.07">million Btu/hour [I.T.]</option>
+  <option value="0.001">milliwatt</option>
+  <option value="0.000000001">nanowatt</option>
+  <option value="0.0002777778">newton meter/hour</option>
+  <option value="0.0166666667">newton meter/minute</option>
+  <option value="1">newton meter/second</option>
+  <option value="1E+15">petawatt</option>
+  <option value="735.49875">pferdestarke</option>
+  <option value="1E-12">picowatt</option>
+  <option value="980.665">poncelet</option>
+  <option value="0.04214011">pound square foot/cubic second</option>
+  <option value="1E+12">terawatt</option>
+  <option value="3516.85284">ton of refrigeration</option>
+  <option value="1">watt</option>
+  <option value="1E-24">yoctowatt</option>
+  <option value="1E+24">yottawatt</option>
+  <option value="1E-21">zeptowatt</option>
+  <option value="1E+21">zettawatt</option>
+  <option value="1E+24">yottawatt</option>
+  <option value="1E-21">zeptowatt</option>
+  <option value="1E+21">zettawatt</option>
+       </select>
+    
+</div> 
+
+
+    
+<div class="row" id="pressureRow">
+      
+<label for="pressure">From:</label>
+   	  <select name="pressure" id="pressure" onchange="convert()">  
+ <option value="101325.01">atmosphere [standard]</option>
+  <option value="98066.5">atmosphere [technical]</option>
+  <option value="1E-13">attobar</option>
+  <option value="1E-18">attopascal</option>
+  <option value="100000">bar</option>
+  <option value="0.1">barad</option>
+  <option value="0.1">barye</option>
+  <option value="1000">centibar</option>
+  <option value="1333.2239">centihg</option>
+  <option value="1333.2239">centimeter of mercury [0 &deg;C]</option>
+  <option value="98.0665">centimeter of water [4 &deg;C]</option>
+  <option value="0.01">centipascal</option>
+  <option value="1.3332237">centitorr</option>
+  <option value="10000">decibar</option>
+  <option value="0.1">decipascal</option>
+  <option value="13.332237">decitorr</option>
+  <option value="1000000">dekabar</option>
+  <option value="10">dekapascal</option>
+  <option value="0.1">dyne/square centimeter</option>
+  <option value="1E+23">exabar</option>
+  <option value="1E+18">exapascal</option>
+  <option value="1E-10">femtobar</option>
+  <option value="1E-15">femtopascal</option>
+  <option value="3.8640888">foot of air [0 &deg;C]</option>
+  <option value="3.6622931">foot of air [15 &deg;C]</option>
+  <option value="2989.0669">foot of head</option>
+  <option value="40636.664">foot of mercury [0 &deg;C]</option>
+  <option value="2989.0669">foot of water [4 &deg;C]</option>
+  <option value="1E+14">gigabar</option>
+  <option value="1000000000">gigapascal</option>
+  <option value="98.0665">gram-force/square centimeter</option>
+  <option value="10000000">hectobar</option>
+  <option value="100">hectopascal</option>
+  <option value="0.3220074">inch of air [0 &deg;C]</option>
+  <option value="0.305191092">inch of air [15 &deg;C]</option>
+  <option value="3386.388667">inch of mercury [0 &deg;C]</option>
+  <option value="249.0889083">inch of water [4 &deg;C]</option>
+  <option value="100000000">kilobar</option>
+  <option value="98066.5">kilogram-force/square centimeter</option>
+  <option value="9.80665">kilogram-force/square meter</option>
+  <option value="9806650">kilogram-force/square millimeter</option>
+  <option value="1000">kilonewton/square meter</option>
+  <option value="1000">kilopascal</option>
+  <option value="98066.5">kilopond/square centimeter</option>
+  <option value="9.80665">kilopond/square meter</option>
+  <option value="9806650">kilopond/square millimeter</option>
+  <option value="47880.25889">kip/square foot</option>
+  <option value="6894757.28">kip/square inch</option>
+  <option value="1E+11">megabar</option>
+  <option value="1000000">meganewton/square meter</option>
+  <option value="1000000">megapascal</option>
+  <option value="12.677457">meter of air [0 &deg;C]</option>
+  <option value="12.015397">meter of air [15 &deg;C]</option>
+  <option value="9804.139432">meter of head</option>
+  <option value="0.1">microbar</option>
+  <option value="0.13332239">micrometer of mercury [0 &deg;C]</option>
+  <option value="0.00980665">micrometer of water [4 &deg;C]</option>
+  <option value="0.13332239">micron of mercury [0 &deg;C]</option>
+  <option value="0.000001">micropascal</option>
+  <option value="100">millibar</option>
+  <option value="133.32239">millihg</option>
+  <option value="133.32239">millimeter of mercury [0 &deg;C]</option>
+  <option value="9.80665">millimeter of water [4 &deg;C]</option>
+  <option value="0.001">millipascal</option>
+  <option value="0.13332237">millitorr</option>
+  <option value="0.0001">nanobar</option>
+  <option value="0.000000001">nanopascal</option>
+  <option value="1">newton/square meter</option>
+  <option value="1000000">newton/square millimeter</option>
+  <option value="430.92233">ounce/square inch</option>
+  <option value="1">pascal</option>
+  <option value="1E+20">petabar</option>
+  <option value="1E+15">petapascal</option>
+  <option value="0.0000001">picobar</option>
+  <option value="1E-12">picopascal</option>
+  <option value="1000">pieze</option>
+  <option value="47.88025889">pound/square foot</option>
+  <option value="6894.75728">pound/square inch [absolute]</option>
+  <option value="1.4881639">poundal/square foot</option>
+  <option value="1000">sthene/square meter</option>
+  <option value="98066.5">technical atmosphere</option>
+  <option value="1E+17">terabar</option>
+  <option value="1E+12">terapascal</option>
+  <option value="107251.7799">ton/square foot [long]</option>
+  <option value="95760.51778">ton/square foot [short]</option>
+  <option value="15444256.31">ton/square inch [long]</option>
+  <option value="13789514.56">ton/square inch [short]</option>
+  <option value="9806.65">ton/square meter</option>
+  <option value="133.32237">torr</option>
+  <option value="98.0665">Water Column [centimeter]</option>
+  <option value="249.0889083">Water Column [inch]</option>
+  <option value="9.80665">Water Column [millimeter]</option>
+  <option value="1E-19">yoctobar</option>
+  <option value="1E-24">yoctopascal</option>
+  <option value="1E+29">yottabar</option>
+  <option value="1E+24">yottapascal</option>
+  <option value="1E-16">zeptobar</option>
+  <option value="1E-21">zeptopascal</option>
+  <option value="1E+26">zettabar</option>
+  <option value="1E+21">zettapascal</option>
+       </select>
+    
+</div> 
+    
+    
+<div class="row" id="speedRow">
+      
+<label for="speed">From:</label>
+   	  <select name="speed" id="speed" onchange="convert()">      
+   <option value="1">benz</option>
+   <option value="1.1574074074E-07">centimeter/day</option>
+   <option value="2.7777777778E-06">centimeter/hour</option>
+   <option value="0.0001666667">centimeter/minute</option>
+   <option value="0.01">centimeter/second</option>
+   <option value="0.0001157407">dekameter/day</option>
+   <option value="0.0027777778">dekameter/hour</option>
+   <option value="0.1666666667">dekameter/minute</option>
+   <option value="10">dekameter/second</option>
+   <option value="3.5277777778E-06">foot/day</option>
+   <option value="8.4666666667E-05">foot/hour</option>
+   <option value="0.00508">foot/minute</option>
+   <option value="0.3048">foot/second</option>
+   <option value="0.002328338">furlong/day [survey]</option>
+   <option value="0.0001663099">furlong/fortnight [survey]</option>
+   <option value="0.0558801111">furlong/hour [survey]</option>
+   <option value="3.352806667">furlong/minute [survey]</option>
+   <option value="201.1684">furlong/second [survey]</option>
+   <option value="0.0011574074">hectometer/day</option>
+   <option value="0.0277777778">hectometer/hour</option>
+   <option value="1.6666666667">hectometer/minute</option>
+   <option value="100">hectometer/second</option>
+   <option value="2.9398148148E-07">inch/day</option>
+   <option value="7.0555555556E-06">inch/hour</option>
+   <option value="0.0004233333">inch/minute</option>
+   <option value="0.0254">inch/second</option>
+   <option value="0.0115740741">kilometer/day</option>
+   <option value="0.2777777778">kilometer/hour</option>
+   <option value="16.6666666667">kilometer/minute</option>
+   <option value="1000">kilometer/second</option>
+   <option value="0.5144444444">knot</option>
+   <option value="0.0558801123">league/day [statute]</option>
+   <option value="1.3411226944">league/hour [statute]</option>
+   <option value="80.4673616667">league/minute [statute]</option>
+   <option value="4828.0417">league/second [statute]</option>
+   <option value="340.29">mach</option>
+   <option value="11.5740740741">megameter/day</option>
+   <option value="277.7777777778">megameter/hour</option>
+   <option value="16666.6666666667">megameter/minute</option>
+   <option value="1000000">megameter/second</option>
+   <option value="1.1574074074E-05">meter/day</option>
+   <option value="0.0002777778">meter/hour</option>
+   <option value="0.0166666667">meter/minute</option>
+   <option value="1">meter/second</option>
+   <option value="1000">millimeter/microsecond</option>
+   <option value="10">millimeter/100 microsecond</option>
+   <option value="0.44704">mile/hour</option>
+   <option value="26.8224">mile/minute</option>
+   <option value="1609.344">mile/second</option>
+   <option value="1.1574074074E-08">millimeter/day</option>
+   <option value="2.7777777778E-07">millimeter/hour</option>
+   <option value="1.6666666667E-05">millimeter/minute</option>
+   <option value="0.001">millimeter/second</option>
+   <option value="1000">millimeter/microsecond</option>
+   <option value="10">millimeter/100 microsecond</option>
+   <option value="0.0214351852">nautical mile/day</option>
+   <option value="0.5144444444">nautical mile/hour</option>
+   <option value="30.8666666667">nautical mile/minute</option>
+   <option value="1852">nautical mile/second</option>
+   <option value="299702547">speed of light [air]</option>
+   <option value="199861638">speed of light [glass]</option>
+   <option value="228849204">speed of light [ice]</option>
+   <option value="299792458">speed of light [vacuum]</option>
+   <option value="225407863">speed of light [water]</option>
+   <option value="340.29">speed of sound [air]</option>
+   <option value="5000">speed of sound [metal]</option>
+   <option value="1500">speed of sound [water]</option>
+   <option value="1.0583333333E-05">yard/day</option>
+   <option value="0.000254">yard/hour</option>
+   <option value="0.01524">yard/minute</option>
+   <option value="0.9144">yard/second</option>
+       </select>
+    
+</div> 
+    
+    
+<div class="row" id="timeRow">
+	  
+<label for="time">From:</label>
+	  <select name="time" id="time" onchange="convert()">    
+    <option value=".00000001">shake</option>
+    <option value=".001">millisecond</option>
+    <option value="1">second</option>
+    <option value="60">minute</option>
+    <option value="3600">hour</option>
+    <option value="86400">day</option>
+    <option value="604800">week</option>
+    <option value="1209600">fortnight</option>
+    <option value="2628000">month</option>
+    <option value="7884000">quarter</option>
+    <option value="31536000">year</option>
+    <option value="315360000">decade</option>
+    <option value="3153600000">century</option>
+    <option value="31536000000">millennium</option>
+	  </select>
+    
+</div>
+    
+    
+<div class="row" id="torqueRow">
+	  
+<label for="torque">From:</label>
+	  <select name="torque" id="torque" onchange="convert()">
+<option value="0.0000001">dyne centimeter</option>
+<option value="9.80665E-05">gram centimeter</option>
+<option value="0.0980665">kilogram centimeter</option>
+<option value="9.80665">kilogram meter</option>
+<option value="1000">kilonewton meter</option>
+<option value="9.80665">kilopond meter</option>
+<option value="1000000">meganewton meter</option>
+<option value="0.000001">micronewton meter</option>
+<option value="0.001">millinewton meter</option>
+<option value="0.01">newton centimeter</option>
+<option value="1">newton meter</option>
+<option value="0.084738622">ounce foot</option>
+<option value="0.0070615518">ounce inch</option>
+<option value="1.355817952">pound foot</option>
+<option value="0.04214011">poundal foot</option>
+<option value="0.1129848293">pound inch</option>	  
+	  </select>
+    
+</div>
+    
+    
+<div class="row" id="massRow">
+	  
+<label for="mass">From:</label>
+	  <select name="mass" id="mass" onchange="convert()">
+   <option value="0.5">arratel, artel [Arab]</option>
+   <option value="14.69">arroba [Portugal]</option>
+   <option value="11.502">arroba [Spain]</option>
+   <option value="0.000052">as, ass [Northern Europe]</option>
+   <option value="1.6603145E-27">atomic mass unit [1960]</option>
+   <option value="1.6605655E-27">atomic mass unit [1973]</option>
+   <option value="1.6605402E-27">atomic mass unit [1986]</option>
+   <option value="1.6605387E-27">atomic mass unit [1998]</option>
+   <option value="1.6605402E-27">avogram</option>
+   <option value="42.63768278">bag [portland cement]</option>
+   <option value="0.015">baht [Thailand]</option>
+   <option value="326.5865064">bale [UK]</option>
+   <option value="217.7243376">bale [US]</option>
+   <option value="5.993">bismar pound [Denmark]</option>
+   <option value="254">candy [India]</option>
+   <option value="0.0002">carat [international]</option>
+   <option value="0.0002">carat [metric]</option>
+   <option value="0.000259196">carat [UK]</option>
+   <option value="0.0002053">carat [pre-1913 US]</option>
+   <option value="140">carga [Mexico]</option>
+   <option value="0.604875">catti [China]</option>
+   <option value="0.594">catti [Japan]</option>
+   <option value="0.5">catty [China]</option>
+   <option value="0.6">catty [Japan, Thailand]</option>
+   <option value="45.359237">cental</option>
+   <option value="0.00001">centigram</option>
+   <option value="50">centner [Germany]</option>
+   <option value="100">centner [Russia]</option>
+   <option value="2692.52">chalder, chaldron</option>
+   <option value="0.5">chin [China]</option>
+   <option value="0.6">chin [Japan]</option>
+   <option value="3.175">clove</option>
+   <option value="0.000089885">crith</option>
+   <option value="1.6605402E-27">dalton</option>
+   <option value="50">dan [China]</option>
+   <option value="60">dan [Japan]</option>
+   <option value="0.0001">decigram</option>
+   <option value="100">decitonne</option>
+   <option value="0.01">dekagram</option>
+   <option value="10000">dekatonne</option>
+   <option value="0.0011">denaro [Italy]</option>
+   <option value="0.001275">denier [France]</option>
+   <option value="0.0038">drachme</option>
+   <option value="0.0017718452">dram</option>
+   <option value="0.0273">oncia [Italy]</option>
+   <option value="1.01971621E-06">dyne</option>
+   <option value="9.109382E-31">electron</option>
+   <option value="1.78266E-36">electronvolt</option>
+   <option value="0.1">etto [Italy]</option>
+   <option value="1E+15">exagram</option>
+   <option value="1E-18">femtogram</option>
+   <option value="25.40117272">firkin [butter, soap]</option>
+   <option value="34.7">flask</option>
+   <option value="979.7595192">fother [lead]</option>
+   <option value="32.65865064">fotmal [lead]</option>
+   <option value="0.4095">funt, funte [Russia]</option>
+   <option value="0.000000001">gamma</option>
+   <option value="1.78266E-27">gigaelectronvolt</option>
+   <option value="1000000">gigagram</option>
+   <option value="1E+12">gigatonne</option>
+   <option value="0.6">gin [China]</option>
+   <option value="0.594">gin [Japan]</option>
+   <option value="6.47989E-05">grain</option>
+   <option value="0.001">gram</option>
+   <option value="0.00082">gran [Germany]</option>
+   <option value="0.00004905">grano, grani [Italy]</option>
+   <option value="0.003824">gros</option>
+   <option value="0.1">hectogram</option>
+   <option value="50.80234544">hundredweight [long, UK]</option>
+   <option value="45.359237">hundredweight [short, US]</option>
+   <option value="9.80665">hyl</option>
+   <option value="0.5">jin [China]</option>
+   <option value="1.899E+27">jupiter</option>
+   <option value="0.5">kati [China]</option>
+   <option value="0.6">kati [Japan]</option>
+   <option value="21540.19446656">keel [coal]</option>
+   <option value="45.359237">keg [nails]</option>
+   <option value="1.66054E-24">kilodalton</option>
+   <option value="1">kilogram</option>
+   <option value="1">kilogram-force</option>
+   <option value="50.80234544">hundredweight [long, UK]</option>
+   <option value="45.359237">hundredweight [short, US]</option>
+   <option value="1000000">kilotonne</option>
+   <option value="0.6">kin [Japan]</option>
+   <option value="453.59237">kip</option>
+   <option value="2419">koyan [Malaysia]</option>
+   <option value="3.75">kwan [Japan]</option>
+   <option value="2000">last [Germany]</option>
+   <option value="1814.36948">last [US]</option>
+   <option value="1981.29147216">last [US, wool]</option>
+   <option value="0.45359237">lb, lbs</option>
+   <option value="0.05">liang [China]</option>
+   <option value="0.339">libra [Italy]</option>
+   <option value="0.459">libra [Portugal, Spain]</option>
+   <option value="0.323">libra [ancient Rome]</option>
+   <option value="1">libra [metric]</option>
+   <option value="0.4895">livre [France]</option>
+   <option value="1016.0469088">long ton</option>
+   <option value="0.015">lot [Germany]</option>
+   <option value="0.003778">mace [China]</option>
+   <option value="0.9253284348">mahnd [Arab]</option>
+   <option value="0.24475">marc [France]</option>
+   <option value="0.23">marco [Spanish]</option>
+   <option value="0.2268">mark [English]</option>
+   <option value="0.2805">mark [German]</option>
+   <option value="37.3242">maund [India]</option>
+   <option value="40">maund [Pakistan]</option>
+   <option value="1.6605402E-21">megadalton</option>
+   <option value="1000">megagram</option>
+   <option value="1000000000">megatonne</option>
+   <option value="0.46655">mercantile pound</option>
+   <option value="1000">metric ton</option>
+   <option value="0.000000001">mic</option>
+   <option value="0.000000001">microgram</option>
+   <option value="1.6605402E-30">millidalton</option>
+   <option value="1000">millier</option>
+   <option value="0.000001">milligram</option>
+   <option value="1.6605402E-30">millimass unit</option>
+   <option value="0.499">mina [Hebrew]</option>
+   <option value="0.00375">momme [Japan]</option>
+   <option value="10">myriagram</option>
+   <option value="1E-12">nanogram</option>
+   <option value="0.101971621">Newton</option>
+   <option value="0.0001">obol, obolos, obolus [Greece]</option>
+   <option value="0.0005">obolos [Ancient Greece]</option>
+   <option value="0.00057">obolus [Ancient Rome]</option>
+   <option value="1.28">oka, oke [Turkey]</option>
+   <option value="0.02869">onca [Portuguese]</option>
+   <option value="0.02869">onza [Spanish]</option>
+   <option value="0.1">ons [Dutch]</option>
+   <option value="0.0283495231">ounce</option>
+   <option value="0.0283495231">ounce-force</option>
+   <option value="0.0311034768">ounce [troy]</option>
+   <option value="490.79">packen [Russia]</option>
+   <option value="0.001555174">pennyweight [troy]</option>
+   <option value="1E+12">petagram</option>
+   <option value="0.5">pfund [Denmark, Germany]</option>
+   <option value="1E-15">picogram</option>
+   <option value="0.000002">point</option>
+   <option value="0.5">pond [Dutch]</option>
+   <option value="0.45359237">pound</option>
+   <option value="0.45359237">pound-force</option>
+   <option value="0.5">pound [metric]</option>
+   <option value="0.3732417216">pound [troy]</option>
+   <option value="16.3">pud, pood [Russia]</option>
+   <option value="0.5">pund [Scandinavia]</option>
+   <option value="0.005">qian [China]</option>
+   <option value="50">qintar [Arab]</option>
+   <option value="12.70058636">quarter [UK]</option>
+   <option value="11.33980925">quarter [US]</option>
+   <option value="226.796185">quarter (ton) [US]</option>
+   <option value="1.587573295">quartern</option>
+   <option value="1.81436948">quartern-loaf</option>
+   <option value="48.95">quintal [French]</option>
+   <option value="100">quintal [metric]</option>
+   <option value="58.752">quintal [Portugal]</option>
+   <option value="45.9">quintal [Spanish]</option>
+   <option value="0.002855">rebah</option>
+   <option value="0.5">rotl, rotel, rottle, ratel [Arab]</option>
+   <option value="165.10762268">sack [UK, wool]</option>
+   <option value="0.0012959782">scruple [troy]</option>
+   <option value="0.933105">seer [India]</option>
+   <option value="1">seer [Pakistan]</option>
+   <option value="0.01142">shekel [Hebrew]</option>
+   <option value="907.18474">short ton</option>
+   <option value="175.126836">slinch</option>
+   <option value="14.593903">slug</option>
+   <option value="6.35029318">stone</option>
+   <option value="0.03751">tael, tahil [Japan]</option>
+   <option value="0.05">tahil [China]</option>
+   <option value="30">talent [Hebrew]</option>
+   <option value="50">tan [China]</option>
+   <option value="9.80665">technische mass einheit (TME)</option>
+   <option value="1000000000">teragram</option>
+   <option value="0.014">tetradrachm [Hebrew]</option>
+   <option value="0.0164">tical [Asia]</option>
+   <option value="12.70058636">tod</option>
+   <option value="0.0116638125">tola [India]</option>
+   <option value="0.0125">tola [Pakistan]</option>
+   <option value="1016.0469088">ton [long, UK]</option>
+   <option value="1000">ton [metric]</option>
+   <option value="907.18474">ton [short, US]</option>
+   <option value="793.15">tonelada [Portugal]</option>
+   <option value="919.9">tonelada [Spain]</option>
+   <option value="1000">tonne</option>
+   <option value="979">tonneau [France]</option>
+   <option value="128.8">tovar [Bulgaria]</option>
+   <option value="0.0311034768">troy ounce</option>
+   <option value="0.3732417216">troy pound</option>
+   <option value="25.40117272">truss</option>
+   <option value="0.0272875">uncia [Rome]</option>
+   <option value="0.03125">unze [Germany]</option>
+   <option value="10000">vagon [Yugoslavia]</option>
+   <option value="1E-27">yoctogram</option>
+   <option value="1E+21">yottagram</option>
+   <option value="50">zentner [Germany]</option>
+   <option value="1E-24">zeptogram</option>
+   <option value="1E+18">zettagram</option>	  
+	  </select>
+    
+</div>
+        
+    
+    
+<div class="row" id="volumeRow">
+	  
+<label for="volume">From:</label>
+	  <select name="volume" id="volume" onchange="convert()">
+   <option value="1233.48185532">acre foot</option>
+   <option value="1233.489">acre foot [US survey]</option>
+   <option value="102.79015461">acre inch</option>
+   <option value="0.143201835">barrel [UK, wine]</option>
+   <option value="0.16365924">barrel [UK]</option>
+   <option value="0.1156271241">barrel [US, dry]</option>
+   <option value="0.1173477658">barrel [US, federal]</option>
+   <option value="0.1192404717">barrel [US, liquid]</option>
+   <option value="0.1589872956">barrel [US, petroleum]</option>
+   <option value="0.0023597372">board foot</option>
+   <option value="0.01818436">bucket [UK]</option>
+   <option value="0.018927059">bucket [US]</option>
+   <option value="0.03636872">bushel [UK]</option>
+   <option value="0.0352390704">bushel [US, dry]</option>
+   <option value="0.00001">centiliter</option>
+   <option value="3.624556416">cord [firewood]</option>
+   <option value="0.453069552">cord foot [timber]</option>
+   <option value="0.000001">cubic centimeter</option>
+   <option value="0.144">cubic cubit [ancient egypt]</option>
+   <option value="0.001">cubic decimeter</option>
+   <option value="1000">cubic dekameter</option>
+   <option value="0.0283168467">cubic foot</option>
+   <option value="1.6387064069E-05">cubic inch</option>
+   <option value="1000000000">cubic kilometer</option>
+   <option value="1">cubic meter</option>
+   <option value="4168181843.05845">cubic mile</option>
+   <option value="1E-18">cubic micrometer</option>
+   <option value="0.000000001">cubic millimeter</option>
+   <option value="0.7645548612">cubic yard</option>
+   <option value="0.000227305">cup [Canada]</option>
+   <option value="0.00025">cup [metric]</option>
+   <option value="0.0002365882">cup [US]</option>
+   <option value="0.0001">deciliter</option>
+   <option value="0.01">dekaliter</option>
+   <option value="3.6966912109E-06">dram</option>
+   <option value="0.208197649">drum [US, petroleum]</option>
+   <option value="0.2">drum [metric, petroleum]</option>
+   <option value="0.0007570824">fifth</option>
+   <option value="0.00454609">gallon [UK]</option>
+   <option value="0.004404884">gallon [US, dry]</option>
+   <option value="0.003785412">gallon [US, liquid]</option>
+   <option value="0.0001420653">gill [UK]</option>
+   <option value="0.0001182941">gill [US]</option>
+   <option value="10000">hectare meter</option>
+   <option value="0.1">hectoliter</option>
+   <option value="0.28640367">hogshead [UK]</option>
+   <option value="0.2384809434">hogshead [US]</option>
+   <option value="4.4360294531E-05">jigger</option>
+   <option value="1">kiloliter</option>
+   <option value="0.001">liter</option>
+   <option value="0.0077">measure [ancient hebrew]</option>
+   <option value="1000">megaliter</option>
+   <option value="0.000000001">microliter</option>
+   <option value="0.000001">milliliter</option>
+   <option value="5.9193880208E-08">minim [UK]</option>
+   <option value="6.1611520182E-08">minim [US]</option>
+   <option value="2.8413062500E-05">ounce [UK, liquid]</option>
+   <option value="2.9573529688E-05">ounce [US, liquid]</option>
+   <option value="0.00909218">peck [UK]</option>
+   <option value="0.0088097676">peck [US]</option>
+   <option value="0.000568261">pint [UK]</option>
+   <option value="0.000550605">pint [US, dry]</option>
+   <option value="0.000473165">pint [US, liquid]</option>
+   <option value="0.49097772">pipe [UK]</option>
+   <option value="0.4769618868">pipe [US]</option>
+   <option value="2.9573529688E-05">pony</option>
+   <option value="0.00114504">quart [Germany]</option>
+   <option value="0.00108">quart [ancient hebrew]</option>
+   <option value="0.0011365225">quart [UK]</option>
+   <option value="0.001101221">quart [US, dry]</option>
+   <option value="0.000946353">quart [US, liquid]</option>
+   <option value="0.29094976">quarter [UK, liquid]</option>
+   <option value="2.9573529688E-05">shot</option>
+   <option value="1">stere</option>
+   <option value="0.000015">Tablespoon [metric]</option>
+   <option value="1.4206531250E-05">Tablespoon [UK]</option>
+   <option value="1.4786764844E-05">Tablespoon [US]</option>
+   <option value="0.000005">Teaspoon [metric]</option>
+   <option value="3.5516328125E-06">Teaspoon [UK]</option>	  
+	  </select>
+    
+</div>
+    
+
+    
+    
+<div class="row">
+      
+<label for="unitTo">To:</label>
+      <select name="unitTo" id="unitTo" onchange="convert()"></select>
+    
+</div>
+
+    
+<div class="row">
+      
+<button onclick="convert()" id="convertButton">Convert</button>
+    
+</div>
+    
+    
+<div class="row">
+      
+<label for="conversionFactor" class="small">Conversion Factor:</label><span id="conversionFactor"></span>
+    
+</div> 
+    
+    
+<div class="row">
+      
+<label for="result">Conversion Result:</label>
+      <input type="text" name="result" id="result" size="27" readonly="true">
+    
+</div>
+  
+</form>
+<p>Conversions based on units and conversion factors from <a href="http://www.onlineconversion.com/" target="new">Online Conversions</a><img height="8" width="8" title="Link opens in a new window" alt="(Link opens in a new window)" src="/cocoon/morf/hydrogen/new_window_icon.gif">.</p>
+</div>
+</div>
+<hr>
+<div id="footer">
+<ul>
+<li>
+    
+<a href="http://www.hydrogen.energy.gov/">Hydrogen Program Home</a>
+  
+</li>
+<li>
+    
+<a href="http://www.firstgov.gov">FirstGov.gov</a>
+  
+</li>
+<li>
+    
+<a href="http://www.energy.gov/privacy.htm ">Security &amp; Privacy</a>
+  
+</li>
+<li class="sansBorder">
+    Last Modified: March 2006
+  </li>
+</ul>
+</div>
+</body>
+</html>

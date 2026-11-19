@@ -1,0 +1,535 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Southwest Area >SWA Predictive >SWA Fuels</title>
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#800000" alink="#008000" topmargin="0" leftmargin="0" marginheight="0" marginleft"0">
+
+<div align="left">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="680" id="AutoNumber1">
+    <tr>
+      <td width="100%">
+      <p align="center"><b>
+      <map name="FPMap0">
+      <font size="6" face="Arial">
+      <area alt="Home" href="http://www.fs.fed.us/r3/fire/" shape="rect" coords="436, 0, 478, 20">
+      <area alt="Contact Us" href="file:///J|/fsfiles/office/swa_admin/swa-email.htm" shape="rect" coords="490, 0, 558, 18">
+      <area alt="Site Disclaimer" href="file:///J|/fsfiles/office/swa_admin/swa-disclaimer.htm" shape="rect" coords="570, 0, 672, 18">
+      </map>
+      <img border="0" src="file:///J|/fsfiles/images/logoswa_2.jpg" width="680" height="40" alt="[Graphic] - Southwest Area Banner" usemap="#FPMap0"></font></b></td>
+    </tr>
+    <tr>
+      <td width="100%" height="30" bgcolor="#E9E3D6">
+      <b><font face="Arial" color="#800000">FUEL MOISTURE </font>
+      <font face="Arial" color="#008080">DATA INPUT FORM</font></b></td>
+    </tr>
+    <tr>
+      <td width="100%">
+
+<hr color="#FF9900" size="1" align="left">
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="left"></p>
+
+<form action="mail.php" method="POST" >
+  <table border="0" width="680" style="border-collapse: collapse" bordercolor="#111111" cellpadding="2">
+    <tr>
+      <td valign="top" width="297" align="left" colspan="2">
+      <p style="margin-left: 75"><label for="Unit"><b><font face="Arial" size="2">
+      UNIT</font></b></label><label for="Site"><b><font face="Arial" size="2"> / SITE:</font></b></label></td>
+      <td width="200" colspan="2">
+      <p align="center"><font face="Arial"><select size="1" name="SITE">
+      <option>- Select SITE -</option>
+      <option>AZ-TCA | Peach Springs</option>
+      <option>AZ-TCA | Thornton Tower</option>
+      <option></option>
+      <option>AZ-YUD | Cocopah</option>
+      <option>AZ-YUD | Mittry</option>
+      <option>AZ-YUD | 3E</option>
+      <option>AZ-YUD | San Luis</option>
+      <option>NM-ABD | Chain of Craters</option>
+      <option>NM-ABD | Coal Creek</option>
+      <option>NM-FAD | Rosa</option>
+      <option>NM-LCD | Dripping Springs</option>
+      <option>NM-TAD | WR 1</option>
+      <option>NM-TAD | WM 1</option>
+      <option>NM-TAD | SC 1</option>
+      <option>NM-TAD | PM 1</option>
+      <option>NM-TAD | CH 1</option>
+      <option></option>
+      <option>NM-BDR | River</option>
+      <option>NM-BDR | Upland</option>
+      <option>NM-SER | River</option>
+      <option>NM-SER | Upland</option>
+      <option></option>
+      <option>AZ-CHP | Admin Road</option>
+      <option>AZ-FBP | Weather Station</option>
+      <option>NM-BAP | Apache Springs</option>
+      <option>NM-BAP | Burnt Mesa</option>
+      <option>NM-BAP | Cerro Grande</option>
+      <option>NM-BAP | Scooter Peak</option>
+      <option>TX-GUP | Foothills</option>
+      <option>TX-GUP | Pine Spring</option>
+      <option>TX-GUP | The Bowl</option>
+      <option></option>
+      <option>AZ-ASF-ARD | Little Pine</option>
+      <option>AZ-ASF-ARD | Little MC</option>
+      <option>AZ-ASF-BRD | Larson</option>
+      <option>AZ-ASF-SRD | Greer</option>
+      <option>AZ-ASF-SRD | Big Lake</option>
+      <option>AZ-ASF-SRD | St. Mary's</option>
+      <option>AZ-ASF-SRD | Water Canyon</option>
+      <option>AZ-COF-RRD | Schnebly Hill #1</option>
+      <option>AZ-COF-RRD | Oak Creek #2</option>
+      <option>AZ-COF-RRD | Cave Springs #3</option>
+      <option>AZ-KNF-NKD | Dry Park</option>
+      <option>AZ-KNF-NKD | LeFevre Ridge</option>
+      <option>AZ-KNF-NKD | Warm Springs</option>
+      <option>AZ-TNF-PRD | Payson</option>
+      <option>NM-CAF-JRD | Bixler</option>
+      <option>NM-LNF-GRD | Queen Admin</option>
+      <option>NM-LNF-SRD | Mayhill</option>
+      <option>NM-LNF-SRD | Cosmic</option>
+      <option>NM-LNF-SRD | Cloudcroft</option>
+      </select></font></td>
+      <td valign="top" width="183">
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="297" align="left" colspan="2">
+      <p style="margin-left: 75"><b><font face="Arial" size="2">DATE OF 
+      SAMPLING:</font></b></td>
+      <td width="200" colspan="2">
+      <font size="3" face="Arial">
+      <input id="Date" size="20" name="DATE" style="float: left"></font></td>
+      <td valign="top" width="183">&nbsp;
+      </td>
+    </tr>
+    <tr>
+<td align="right" valign="top" colspan="5" width="680">
+<hr color="#000000" size="1" align="left"></td>
+    </tr>
+    <tr>
+<td align="right" valign="top" width="100">
+<p align="left"><font face="Arial">  </font> </td>
+      <td valign="top" width="197">&nbsp;
+      </td>
+      <td width="20">&nbsp;</td>
+      <td valign="top" width="180">&nbsp;
+      </td>
+      <td width="183">&nbsp;
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="5" width="680">
+      <p align="left" style="margin-left: 30"><b><font face="Arial" color="#800000">LIVE FUEL
+      MOISTURE:</font></b></td>
+    </tr>
+    <tr>
+      <td align="right" width="297" colspan="2">
+      <p align="left" style="margin-left: 30"><b><label for="Species"><font face="Arial">SPECIES</font></label></b></td>
+      <td width="20">&nbsp;</td>
+      <td width="183">
+      <p align="center"><font face="Arial"><b>PERCENT</b></font></td>
+      <td width="183" rowspan="18">
+      <p align="center">
+      <font face="Arial">
+      <img border="0" src="file:///J|/fsfiles/images/ktree.gif" width="114" height="438" align="left" alt="[Graphic] - Tree"></font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100"><font face="Arial"><b>1</b></font></td>
+      <td width="197"><font size="3" face="Arial">
+      <p align="left"><font face="Arial"><select size="1" name="Species_1">
+      <option>- Select SPECIES 1 -</option>
+      <option>Arrow Weed</option>
+      <option>Chaparral</option>
+      <option>Cypress</option>
+      <option>Fir, Douglas</option>
+      <option>Grass</option>
+      <option>Juniper (Bush)</option>
+      <option>Juniper, Alligator</option>
+      <option>Juniper, One-Seed</option>
+      <option>Juniper, Utah</option>
+      <option>Locust</option>
+      <option>Manzanita</option>
+      <option>Mesquite</option>
+      <option>Oak, Brush</option>
+      <option>Oak, Silver Leaf</option>
+      <option>Oak, White</option>
+      <option>Pine, Chihuahua</option>
+      <option>Pine, Pinon</option>
+      <option>Pine, Ponderosa</option>
+      <option>Sagebrush</option>
+      <option>Tamarisk</option>
+      <option>Other (State in Comments)</option>
+      </select></font></td>
+      <td width="20"></td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="Percent1" size="3" name="Percent1" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100"><font face="Arial"><b>2</b></font></td>
+      <td width="197"><font size="3" face="Arial">
+      <p align="left"><font face="Arial"><select size="1" name="Species_2">
+      <option>- Select SPECIES 2 -</option>
+      <option>Arrow Weed</option>
+      <option>Chaparral</option>
+      <option>Cypress</option>
+      <option>Fir, Douglas</option>
+      <option>Grass</option>
+      <option>Juniper (Bush)</option>
+      <option>Juniper, Alligator</option>
+      <option>Juniper, One-Seed</option>
+      <option>Juniper, Utah</option>
+      <option>Locust</option>
+      <option>Manzanita</option>
+      <option>Mesquite</option>
+      <option>Oak, Brush</option>
+      <option>Oak, Silver Leaf</option>
+      <option>Oak, White</option>
+      <option>Pine, Chihuahua</option>
+      <option>Pine, Pinon</option>
+      <option>Pine, Ponderosa</option>
+      <option>Sagebrush</option>
+      <option>Tamarisk</option>
+      <option>Other (State in Comments)</option>
+      </select></font></td>
+      <td width="20">&nbsp;</td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="Percent2" size="3" name="Percent2" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100"><font face="Arial"><b>3</b></font></td>
+      <td width="197"><font size="3" face="Arial">
+      <p align="left"><font face="Arial"><select size="1" name="Species_3">
+      <option>- Select SPECIES 3 -</option>
+      <option>Arrow Weed</option>
+      <option>Chaparral</option>
+      <option>Cypress</option>
+      <option>Fir, Douglas</option>
+      <option>Grass</option>
+      <option>Juniper (Bush)</option>
+      <option>Juniper, Alligator</option>
+      <option>Juniper, One-Seed</option>
+      <option>Juniper, Utah</option>
+      <option>Locust</option>
+      <option>Manzanita</option>
+      <option>Mesquite</option>
+      <option>Oak, Brush</option>
+      <option>Oak, Silver Leaf</option>
+      <option>Oak, White</option>
+      <option>Pine, Chihuahua</option>
+      <option>Pine, Pinon</option>
+      <option>Pine, Ponderosa</option>
+      <option>Sagebrush</option>
+      <option>Tamarisk</option>
+      <option>Other (State in Comments)</option>
+      </select></font></td>
+      <td width="20">&nbsp;</td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="Percent3" size="3" name="Percent3" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100"><font face="Arial"><b>4</b></font></td>
+      <td width="197"><font size="3" face="Arial">
+      <p align="left"><font face="Arial"><select size="1" name="Species_4">
+      <option>- Select SPECIES 4 -</option>
+      <option>Arrow Weed</option>
+      <option>Chaparral</option>
+      <option>Cypress</option>
+      <option>Fir, Douglas</option>
+      <option>Grass</option>
+      <option>Juniper (Bush)</option>
+      <option>Juniper, Alligator</option>
+      <option>Juniper, One-Seed</option>
+      <option>Juniper, Utah</option>
+      <option>Locust</option>
+      <option>Manzanita</option>
+      <option>Mesquite</option>
+      <option>Oak, Brush</option>
+      <option>Oak, Silver Leaf</option>
+      <option>Oak, White</option>
+      <option>Pine, Chihuahua</option>
+      <option>Pine, Pinon</option>
+      <option>Pine, Ponderosa</option>
+      <option>Sagebrush</option>
+      <option>Tamarisk</option>
+      <option>Other (State in Comments)</option>
+      </select></font></td>
+      <td width="20">&nbsp;</td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="Percent4" size="3" name="Percent4" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100"><font face="Arial"><b>5</b></font></td>
+      <td width="197"><font size="3" face="Arial">
+      <p align="left"><font face="Arial"><select size="1" name="Species_5">
+      <option>- Select SPECIES 5 -</option>
+      <option>Arrow Weed</option>
+      <option>Chaparral</option>
+      <option>Cypress</option>
+      <option>Fir, Douglas</option>
+      <option>Grass</option>
+      <option>Juniper (Bush)</option>
+      <option>Juniper, Alligator</option>
+      <option>Juniper, One-Seed</option>
+      <option>Juniper, Utah</option>
+      <option>Locust</option>
+      <option>Manzanita</option>
+      <option>Mesquite</option>
+      <option>Oak, Brush</option>
+      <option>Oak, Silver Leaf</option>
+      <option>Oak, White</option>
+      <option>Pine, Chihuahua</option>
+      <option>Pine, Pinon</option>
+      <option>Pine, Ponderosa</option>
+      <option>Sagebrush</option>
+      <option>Tamarisk</option>
+      <option>Other (State in Comments)</option>
+      </select></font></td>
+      <td width="20">&nbsp;</td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="Percent5" size="3" name="Percent5" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100"><font face="Arial"><b>6</b></font></td>
+      <td width="197"><font size="3" face="Arial">
+      <p align="left"><font face="Arial"><select size="1" name="Species_6">
+      <option>- Select SPECIES 6 -</option>
+      <option>Arrow Weed</option>
+      <option>Chaparral</option>
+      <option>Cypress</option>
+      <option>Fir, Douglas</option>
+      <option>Grass</option>
+      <option>Juniper (Bush)</option>
+      <option>Juniper, Alligator</option>
+      <option>Juniper, One-Seed</option>
+      <option>Juniper, Utah</option>
+      <option>Locust</option>
+      <option>Manzanita</option>
+      <option>Mesquite</option>
+      <option>Oak, Brush</option>
+      <option>Oak, Silver Leaf</option>
+      <option>Oak, White</option>
+      <option>Pine, Chihuahua</option>
+      <option>Pine, Pinon</option>
+      <option>Pine, Ponderosa</option>
+      <option>Sagebrush</option>
+      <option>Tamarisk</option>
+      <option>Other (State in Comments)</option>
+      </select></font></td>
+      <td width="20">&nbsp;</td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="Percent6" size="3" name="Percent6" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100"><font face="Arial"><b>7</b></font></td>
+      <td width="197"><font size="3" face="Arial">
+      <p align="left"><font face="Arial"><select size="1" name="Species_7">
+      <option>- Select SPECIES 7 -</option>
+      <option>Arrow Weed</option>
+      <option>Chaparral</option>
+      <option>Cypress</option>
+      <option>Fir, Douglas</option>
+      <option>Grass</option>
+      <option>Juniper (Bush)</option>
+      <option>Juniper, Alligator</option>
+      <option>Juniper, One-Seed</option>
+      <option>Juniper, Utah</option>
+      <option>Locust</option>
+      <option>Manzanita</option>
+      <option>Mesquite</option>
+      <option>Oak, Brush</option>
+      <option>Oak, Silver Leaf</option>
+      <option>Oak, White</option>
+      <option>Pine, Chihuahua</option>
+      <option>Pine, Pinon</option>
+      <option>Pine, Ponderosa</option>
+      <option>Sagebrush</option>
+      <option>Tamarisk</option>
+      <option>Other (State in Comments)</option>
+      </select></font></td>
+      <td width="20">&nbsp;</td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="Percent7" size="3" name="Percent7" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100"><font face="Arial"><b>8</b></font></td>
+      <td width="197"><font size="3" face="Arial">
+      <p align="left"><font face="Arial"><select size="1" name="Species_8">
+      <option>- Select SPECIES 8 -</option>
+      <option>Arrow Weed</option>
+      <option>Chaparral</option>
+      <option>Cypress</option>
+      <option>Fir, Douglas</option>
+      <option>Grass</option>
+      <option>Juniper (Bush)</option>
+      <option>Juniper, Alligator</option>
+      <option>Juniper, One-Seed</option>
+      <option>Juniper, Utah</option>
+      <option>Locust</option>
+      <option>Manzanita</option>
+      <option>Mesquite</option>
+      <option>Oak, Brush</option>
+      <option>Oak, Silver Leaf</option>
+      <option>Oak, White</option>
+      <option>Pine, Chihuahua</option>
+      <option>Pine, Pinon</option>
+      <option>Pine, Ponderosa</option>
+      <option>Sagebrush</option>
+      <option>Tamarisk</option>
+      <option>Other (State in Comments)</option>
+      </select></font></td>
+      <td width="20">&nbsp;</td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="Percent8" size="3" name="Percent8" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100">&nbsp;</td>
+      <td width="197">&nbsp;</td>
+      <td width="20">&nbsp;</td>
+      <td width="180">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right" width="497" colspan="4">
+      <p align="left" style="margin-left: 30"><b><font face="Arial" color="#800000">DEAD FUEL
+      MOISTURE:  </font></b><font size="2" face="Arial">(Optional)</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="297" colspan="2">
+      <p style="margin-left: 30" align="left"><label for="Species"><b>
+      <font face="Arial">FUEL SIZE</font></b></label></td>
+      <td width="20">&nbsp;</td>
+      <td width="183">
+      <p align="center"><font face="Arial"><b>PERCENT</b></font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100">&nbsp;</td>
+      <td width="197">
+      <p><font face="Arial">1000-Hour</font></td>
+      <td width="20"></td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="1000_Percent1" size="3" name="1000_Percent1" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100">&nbsp;</td>
+      <td width="197">
+      <p><font face="Arial">100-Hour</font></td>
+      <td width="20">&nbsp;</td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="100_Percent2" size="3" name="100_Percent2" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100">&nbsp;</td>
+      <td width="197">
+      <p><font face="Arial">10-Hour</font></td>
+      <td width="20">&nbsp;</td>
+      <td align="center" width="183"><font size="3" face="Arial">
+       <!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-maximum-length="3" --><input type="text" id="10_Percent3" size="3" name="10_Percent3" maxlength="3">%</font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100">
+      <p align="left"><font face="Arial">  </font> </td>
+      <td width="197">&nbsp;</td>
+      <td width="20">&nbsp;</td>
+      <td width="180">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right" width="297" colspan="2">
+      <p align="left" style="margin-left: 30"><font face="Arial" color="#800000"><b>FINE FUEL
+      LOADING:</b></font></td>
+      <td width="20">&nbsp;</td>
+      <td width="180">
+      <p align="center"><font face="Arial"><select size="1" name="LOADING">
+      <option>- Select LOADING -</option>
+      <option>Below Normal</option>
+      <option>Normal</option>
+      <option>Above Normal</option>
+      </select></font></td>
+    </tr>
+    <tr>
+      <td align="right" width="100">&nbsp;</td>
+      <td width="197">&nbsp;</td>
+      <td width="20">&nbsp;</td>
+      <td width="180">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right" width="680" colspan="5">
+      <hr color="#000000" size="1" align="left"></td>
+    </tr>
+    <tr>
+      <td align="right" width="100">&nbsp;</td>
+      <td width="197">&nbsp;</td>
+      <td width="20">&nbsp;</td>
+      <td width="180">&nbsp;</td>
+      <td width="183">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right" colspan="2" width="297">
+      <p align="left" style="margin-left: 75"><b><font face="Arial" size="2">COMMENTS:</font></b></td>
+      <td width="383" colspan="3">
+      <font face="Arial">
+  <textarea rows="2" id="Comments" cols="43" WRAP="TRUE" name="COMMENTS_QUESTIONS"></textarea></font></td>
+    </tr>
+    <tr>
+      <td align="left" width="280" colspan="2">
+      <p style="margin-left: 75">
+      <label for="City"><b><font face="Arial" size="2">SUBMITTED BY:</font></b></label></td>
+      <td width="363" colspan="2">
+      <font size="3" face="Arial">
+      <input id="Name0" size="20" name="NAME" style="float: left"></font></td>
+      <td align="left" width="183">
+      </td>
+    </tr>
+    <tr>
+      <td align="left" width="280" colspan="2">
+  <p style="margin-left: 75">
+      <font face="Arial" size="2"><b>E-MAIL
+      ADDRESS:</b></font></td>
+      <td width="363" colspan="2">
+  <font size="3" face="Arial">
+  <input id="E-mail" size="20" name="E_MAIL" style="float: left"></font></td>
+      <td align="left" width="183">&nbsp;
+  </td>
+    </tr>
+    <tr>
+      <td align="right" colspan="2" width="297">
+      <p align="left" style="margin-left: 50">&nbsp;</td>
+      <td width="20">&nbsp;</td>
+      <td width="180">
+      <p align="center">&nbsp;</td>
+      <td width="183">&nbsp;</td>
+    </tr>
+    </table>
+<!-- -------------------------------------- // -->
+
+  <p align="left" style="margin-left: 150"><font face="Arial"><input type="submit" value="Submit Readings"> <input type="reset" value="Clear Form"></font></p>
+</form>
+
+
+      <div align="left">
+        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="680" id="AutoNumber2">
+          <tr>
+            <td bgcolor="#E9E3D6">&nbsp;
+            </td>
+          </tr>
+          <tr>
+            <td bgcolor="#FFFFFF"><font face="Arial" size="2" color="#0000FF"> 
+            </font></td>
+          </tr>
+        </table>
+</div>
+
+
+      </body>
+
+</html>

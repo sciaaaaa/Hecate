@@ -1,0 +1,2134 @@
+E0000163|Adriamycin|doxorubicin|
+E0000359|Amytal|amobarbital|
+E0000401|Apresoline||
+E0000419|Aralen|chloroquine|
+E0000420|Aramine|metaraminol|
+E0000432|Arechine||
+E0000438|Aristocort||
+E0000442|Arlidin|triprolidine hydrochloride|
+E0000458|Artane|tri-hexyphenidyl|
+E0000470|Arwin|ancrod|
+E0000498|Atabrine|quinacrine|
+E0000538|Azulfidine|triprolidine hydrochloride|
+E0000718|Bactrim|trimethoprim-sulphamethoxazole|
+E0000726|Bakelite||
+E0000750|Banminth|pyrantel tartrate|
+E0000824|Baytex|fenthion|
+E0000882|Benadryl|diphenhydramine|
+E0000891|Benemid|probenecid|
+E0000897|Benlate|benomyl|
+E0000905|Bentyl|dicyclomine hydrochloride|
+E0000932|Berotec||
+E0000939|Betadine|povidone-iodine|
+E0000944|Betaloc-Astra|metoprolol|
+E0000945|Betalok|metoprolol tartrate|
+E0000947|Betapressin|penbutolol|
+E0000948|Betaprone|propiolactone|
+E0000954|Betnesol-V||
+E0000956|Betnovate|betamethasone valerate|
+E0000958|Bezalip|bezafibrate|
+E0000965|Bidocef|cefadroxil monohydrate|
+E0000974|Bilarcil|metrifonate|
+E0000977|Bilevon M|niclofolan|
+E0000978|Bilevon R|niclofolan|
+E0000987|Bilopaque|tyropanoate sodium|
+E0000989|Biltricide|praziquantel|
+E0001019|Bisolvon|bromhexine hydrochloride|
+E0001020|Bispan|isopropamide iodide|
+E0001021|Bitin|bithionol|
+E0001030|Blenoxane|bleomycin sulfate|
+E0001032|Blocadren|timolol|
+E0001062|Bonine||
+E0001106|Brevital|methohexital sodium|
+E0001138|Bromural||
+E0001292|CG|indocyanine green|
+E0001412|Camoquin||
+E0001423|Candeptin|candicidin|
+E0001427|Canesten|clotrimazole|
+E0001444|Carbocaine|mepivacaine hydrochloride|
+E0001445|Carbowax||
+E0001629|Cortenema|hydrocortisone|
+E0001634|Cortrosyn|cortisone acetate|
+E0001640|Cosmegen|dactinomycin|
+E0001641|Cosmoline||
+E0001647|Coumadin|sodium warfarin|
+E0001684|Cronolone|flurogestone acetate|
+E0001717|Cuprimine|penicillamine|
+E0001735|Cyclogyl|cyclopentolate hydrochloride|
+E0001736|Cyclospasmol|cyclandelate|
+E0001747|Cystografin|diatrizoate meglumine|
+E0001748|Cysto-Conray|iothalamate meglumine|
+E0001750|Cytomel|liothyronine sodium|
+E0001752|Cytosar-U|cytarabine|
+E0001756|Cytoxan|cyclophosphamide|
+E0001909|Dacron||
+E0001912|Dagenan|sulfapyridine|
+E0001922|Dalmane|flurazepam hydrochloride|
+E0001945|Daranide|dichlorphenamide|
+E0001946|Daraprim|pyrimethamine|
+E0001953|Dartal|thiopropazate dihydrochloride|
+E0001954|Darvon|propoxyphene hydrochloride|
+E0001971|Deaner|deanol acetamidobenzoate|
+E0001976|Decadron|dexamethasone|
+E0001977|Decapryn|doxyl-amine succinate|
+E0001981|Decholin|dehydrocholic acid|
+E0001983|Declomycin|demeclocycline|
+E0002005|Deltasone|prednisone|
+E0002006|Delvinal|vinbarbital|
+E0002010|Demerol|meperidine|
+E0002024|Desferal|deferoxamine mesylate|
+E0002032|Dexoval|methamphetamine hydrochloride|
+E0002039|Diamox|acetazolamide|
+E0002041|Diazinon||
+E0002042|Dibenamine|dibenzylchlorethamine|
+E0002044|Dibenzyline|phenoxybenzamine hydrochloride|
+E0002051|Dicodid|hydrocodone bitartrate|
+E0002060|Didrex|benzphetamine hydrochloride|
+E0002078|Dilantin|diphenylhydantoin|
+E0002080|Dilaudid|dihydromorphinone|
+E0002092|Dimetane|brompheniramine maleate|
+E0002104|Diodoquin|diiodohydroxyquinoline|
+E0002105|Diodrast|iodopyracet|
+E0002109|Dionosil|propyliodone|
+E0002119|Disipal|orphenadrine hydrochloride|
+E0002176|Duphalac|lactulose|
+E0002197|Dyazide||
+E0002363|Ephynal|vitamin E|
+E0002364|Epinal|epinephryl borate|
+E0002397|Estraval|estradiol valerate|
+E0002420|Evipal|hexobarbital|
+E0002580|Forhistal|dimethindene maleate|
+E0002581|Formalin||
+E0003177|Humatin|paromomycin sulfate|
+E0003180|Humulin|insulin|
+E0003212|Hydergine||
+E0003213|Hydrea|hydroxyurea|
+E0003214|Hydrocal||
+E0003216|Hydrolose|methylcellulose|
+E0003220|Hygroton|chlorthalidone|
+E0003223|Hypaque||
+E0003224|Hypaque 50||
+E0003226|Hyperstat|diazoxide|
+E0003227|Hypertensin|angiotensin amide|
+E0003313|INH|isoniazid|
+E0003337|Ichthyol|ichthammol|
+E0003380|Iletin|insulin|
+E0003384|Ilosone|erythromycin estolate|
+E0003385|Ilotycin|erythromycin|
+E0003386|Ilozyme|pancrelipase|
+E0003396|Inderal|propranolol hydrochloride|
+E0003411|Intal|cromolyn sodium|
+E0003437|Ipral|probarbital|
+E0003613|Kinetron||
+E0003620|Kleenex||
+E0003631|Kodak||
+E0003779|Lanoxin|digoxin|
+E0003789|Lasix|furosemide|
+E0003873|Lioresal|baclofen|
+E0003928|Lynoral|ethinyl estradiol|
+E0004002|Mace|omega-chloroacetophenone|
+E0004081|Mebaral|mephobarbital|
+E0004173|Moderil|rescinnamine|
+E0004429|Nembutal|pentobarbital|
+E0004430|Neobiotic|neomycin sulfate|
+E0004510|Nupercainal|dibucaine|
+E0004611|Oxsoralen|methoxsalen|
+E0004612|Oxycel|oxidized cellulose|
+E0004615|Oxyterracine|oxytetracycline hydrochloride|
+E0004777|Pamisyl|aminosalicylic acid|
+E0004795|Panteric|pancreatin|
+E0004797|Pantopaque|iophendylate|
+E0004798|Pantopon||
+E0004809|Paraflex|chlorzoxazone|
+E0004814|Paral|paraldehyde|
+E0004820|Parasal|aminosalicylic acid|
+E0004856|Pentothal|thiopental|
+E0004859|Percoll||
+E0004860|Peritrate|pentaerythritol tetranitrate|
+E0004904|Photostat||
+E0004936|Piptal|pipenzolate|
+E0004946|Pitocin|oxytocin|
+E0004947|Pitressin|vasopressin|
+E0004967|Polaroid||
+E0004996|Prantal|diphemanil methylsulfate|
+E0005377|Scrabble||
+E0005380|Seconal|secobarbital|
+E0005442|Solganal|aurothioglucose|
+E0005564|Surital|sodium thiamylal|
+E0005683|Teslac|testolactone|
+E0005710|Thrombolysin|fibrinolysin|
+E0005721|Ticar|ticarcillin disodium|
+E0005743|Tisercin|methotrimeprazine|
+E0005753|Tofranil|imipramine hydrochloride|
+E0005760|Tolectin|tolmetin sodium|
+E0005768|Topicort|desoximetasone|
+E0005769|Topicycline|tetracycline|
+E0005773|Topsyn|fluocinonide|
+E0005785|Tral|hexocyclium methylsulfate|
+E0005786|Trancopal|chlormezanone|
+E0005972|Urecholine|bethanechol chloride|
+E0005976|Uval|sulisobenzone|
+E0006021|VP16|etoposide|
+E0006041|Vaseline|petrolatum|
+E0006295|Wydase|hyaluronidase|
+E0006317|Xanax|alprazolam|
+E0006320|Xerox||
+E0006323|Xylocaine|lidocaine|
+E0006326|Xyloneural|lidocaine hydrochloride|
+E0006354|Yodoxin|iodoquinol|
+E0006357|Yomesan|niclosamide|
+E0006380|Zarontin|ethosuximide|
+E0006381|Zaroxolyn|metolazone|
+E0006387|Zephiran|benzalkonium chloride|
+E0008364|alundum||
+E0008513|americaine|benzocaine|
+E0009507|antifebrin|acetanilide|
+E0015185|Carborundum||
+E0015261|cardilate|erythrityl tetranitrate|
+E0020068|Culdoscope||
+E0022532|didronel|etidronate disodium|
+E0023763|Dornavac|pancreatic dornase|
+E0025891|epitrate|epinephrine bitartrate|
+E0029293|gantanol|sulfa-methoxazole|
+E0032387|HydroDIURIL|hydrochlorothiazide|
+E0036063|isordil|isosorbide dinitrate|
+E0042660|ninhydrin|triketohydrindene hydrate|
+E0042708|nitrol|nitroglycerin|
+E0045173|Paludrine||
+E0046943|Perspex||
+E0047788|phytin||
+E0047982|ping-pong|table tennis|
+E0048714|polycillin|ampicillin|
+E0055418|serpasil|reserpine|
+E0056784|sorbitrate|isosorbide dinitrate|
+E0059623|Synophylate|theophylline sodium glycinate|
+E0061680|Trandate|labetalol hydrochloride|
+E0062697|Tylenol|acetaminophen|
+E0066079|Aerosporin|polymyxin B sulfate|
+E0066081|Aldactazide||
+E0066082|Amikin|amikacin sulfate|
+E0066083|Aminosol||
+E0066085|Anadrol|oxymetholone|
+E0066086|Ananase|bromelain|
+E0066088|Anectine|succinylcholine chloride|
+E0066089|Anesthesin|benzocaine|
+E0066092|Antistine|antazoline|
+E0066094|Argyrol||
+E0066095|Avertin|chlortetracycline|
+E0066096|Banthine|methantheline|
+E0066101|Brethine|terbutaline sulfate|
+E0066102|Butazolidin|phenylbutazone|
+E0066106|Chloromycetin|chloramphenicol|
+E0066107|Cholebrine|iocetamic acid|
+E0066108|Cholografin|iodipamide|
+E0066109|Choloxin|triprolidine hydrochloride|
+E0066110|Cleocin|clindamycin|
+E0066111|Clistin|carbinoxamine maleate|
+E0066113|Cogentin|benztropine mesylate|
+E0066114|Compazine|prochlorperazine maleate|
+E0066115|Coramine|nikethamide|
+E0066118|Cyclaine|hexylcaine hydrochloride|
+E0066119|Cytellin|sitosterol|
+E0066121|Deca-Durabolin|nandrolone decanoate|
+E0066122|Dexedrine|dextroamphetamine|
+E0066123|Dolophine|methadone|
+E0066124|Dramamine|dimenhydrinate|
+E0066125|Durabolin|nandrolone phenpropionate|
+E0066127|Ecotrin||
+E0066128|Edecrin|ethacrynic acid|
+E0066129|Elixophyllin|theophylline|
+E0066130|Enzactin|triacetin|
+E0066133|Floridin|Fuller's earth|
+E0066134|Formin|methenamine|
+E0066137|Fulvicin|griseofulvin|
+E0066138|Furacin|amphotericin B|
+E0066141|Gastrografin|meglumine diatrizoate|
+E0066143|Grifulvin|griseofulvin|
+E0066144|Grisactin|griseofulvin|
+E0066145|Haldol|haloperidol|
+E0066146|Halotestin|flu-oxymesterone|
+E0066147|Hexadrol|dexamethasone|
+E0066150|Inapsine|droperidol|
+E0066151|Indocin|indomethacin|
+E0066152|Intropin|dopamine hydrochloride|
+E0066153|Ismelin|guanethidine sulfate|
+E0066154|Keflin|cephalothin sodium|
+E0066155|Kefzol|cefazolin sodium|
+E0066156|Kemadrin|procyclidine|
+E0066160|Limbitrol||
+E0066161|Lincocin|lincomycin hydrochloride|
+E0066162|Lipiodol||
+E0066164|Lotrimin|clotrimazole|
+E0066167|Macrodantin|nitrofurantoin|
+E0066168|Mandelamine|methenamine mandelate|
+E0066169|Marcaine|bupivacaine hydrochloride|
+E0066170|Marezine|cyclizine hydrochloride|
+E0066172|Maxibolin|ethylestrenol|
+E0066173|Medrol|methylprednisolone|
+E0066174|Megimide|bemegride|
+E0066175|Mercuhydrin|meralluride|
+E0066176|Mesantoin|mephenytoin|
+E0066177|Methergine|methylergonovine maleate|
+E0066178|Metol||
+E0066179|Metrazol|pentylenetetrazol|
+E0066180|Metubine|metocurine iodide|
+E0066182|Minocin|minocycline hydrochloride|
+E0066183|Mintezol|thiabendazole|
+E0066184|Miochol|acetylcholine chloride|
+E0066186|Motrin|ibuprofen|
+E0066188|Mutamycin|mitomycin|
+E0066189|Myambutol|ethambutol hydrochloride|
+E0066190|Myochrysine||
+E0066191|Mysoline|primidone|
+E0066192|Naturetin|bendroflumethiazide|
+E0066193|Nebcin|tobramycin sulfate|
+E0066195|Nesacaine|chloroprocaine hydrochloride|
+E0066196|Norlutin|norethindrone|
+E0066197|Oncovin|vincristine sulfate|
+E0066198|Ophthaine|proparacaine hydrochloride|
+E0066199|Oretic|hydrochlorothiazide|
+E0066200|Orinase|tolbutamide|
+E0066201|Orthoxine|meth-oxyphenamine|
+E0066202|Oxaine|oxethazaine|
+E0066203|Paredrine|hydroxyamphetamine hydrobromide|
+E0066204|Parsidol|ethopropazine hydrochloride|
+E0066205|Persantine|dipyridamole|
+E0066207|Phospholine|echothiophate iodide|
+E0066209|Polaramine|dexchlorpheniramine maleate|
+E0066211|Pontocaine|tetracaine|
+E0066212|Privine|naphazoline|
+E0066213|Pro-Banthine|propantheline bromide|
+E0066214|Prolixin|fluphenazine hydrochloride|
+E0066215|Prostaphlin|oxacillin sodium|
+E0066216|Prostigmin|neostigmine|
+E0066217|Purinethol|mercaptopurine|
+E0066218|Quelicin|succinylcholine|
+E0066219|Regitine|phentolamine|
+E0066221|Renografin||
+E0066223|Rifadin|rifampin|
+E0066224|Ritalin||
+E0066225|Robaxin|methocarbamol|
+E0066226|Rondomycin|methacycline hydrochloride|
+E0066227|Roniacol|nicotinyl alcohol|
+E0066229|Seromycin|cycloserine|
+E0066231|Silastic||
+E0066232|Sparine|promazine hydrochloride|
+E0066233|Staphcillin|sodium methicillin|
+E0066234|Stelazine|trifluoperazine hydrochloride|
+E0066236|Stilphostrol|diethylstilbestrol diphosphate|
+E0066237|Synemol|fluocinolone acetonide|
+E0066238|Taka-diastase||
+E0066239|Talwin|pentazocine|
+E0066240|Tegretol|carbamazepine|
+E0066242|Thephorin|phenindamine tartrate|
+E0066244|Thorazine|chlorpromazine|
+E0066245|Trasentine|adiphenine hydrochloride|
+E0066246|Travasol||
+E0066247|Tyzine|tetrahydrozoline hydrochloride|
+E0066248|Urotropin|methenamine|
+E0066249|Valpin|anisotropine methylbromide|
+E0066250|Vancocin|vancomycin hydrochloride|
+E0066251|Varidase||
+E0066252|Vibramycin|doxycycline|
+E0066254|Viocin|viomycin sulfate|
+E0066255|Viokase|pancreatin|
+E0066256|Achromycin|tetracycline|
+E0066257|Visine|tetrahydrozoline|
+E0066258|Vontrol|diphenidol|
+E0066446|Aureomycin|chlortetracycline|
+E0066502|Bromsulphalein||
+E0066825|delalutin|hydroxyprogesterone caproate|
+E0066863|dianabol||
+E0066938|Elkosin|sulfisomidine|
+E0066987|erythrosin|erythromycin|
+E0067002|ethiodol||
+E0067049|Formol||
+E0067081|Gantrisin|sulfisoxazole|
+E0067082|garamycin|gentamicin sulfate|
+E0067683|Mycostatin|nystatin|
+E0067753|norisodrine|isoproterenol|
+E0067763|nupercaine|dibucaine|
+E0067797|organidin|iodinated glycerol|
+E0067810|otrivin|xylometazoline hydrochloride|
+E0067870|pediamycin|erythromycin ethylsuccinate|
+E0067885|periactin|cyproheptadine hydrochloride|
+E0067908|phemerol|benzethonium|
+E0067958|pituitrin||
+E0068013|premarin||
+E0068084|pyribenzamine|tripelennamine|
+E0068122|renacidin|hemiacidrin|
+E0068428|trobicin|spectinomycin hydrochloride|
+E0069190|Amipaque|metrizamide|
+E0069247|Basaljel|basic aluminum carbonate gel|
+E0069249|Benzedrex|propylhexedrine inhaler|
+E0069299|Conray|iothalamate meglumine|
+E0069365|Amicar|aminocaproic acid|
+E0069366|Anspor|cephradine|
+E0069367|Antepar||
+E0069368|Betapar|meprednisone|
+E0069369|Calcimar|salmon calcitonin|
+E0069381|Dymelor|acetohexamide|
+E0069397|Ilidar|azapetine phosphate|
+E0069400|Innovar||
+E0069402|Jectofer|iron sorbitex|
+E0069403|Ketalar|ketamine hydrochloride|
+E0069408|Lopressor|metoprolol tartrate|
+E0069420|Ophthochlor|chloramphenicol|
+E0069455|Synalar|fluocinolone acetonide|
+E0069459|Thyrolar|liotrix|
+E0069472|Aludrox|aluminium hydroxide|
+E0069479|Polymox|amoxicillin|
+E0069482|Dextrostix||
+E0069485|Esidrix|hydrochlorothiazide|
+E0069487|Evex||
+E0069488|Urex|methenamine hippurate|
+E0069489|Kantrex|kanamycin|
+E0069490|Hiprex|methenamine hippurate|
+E0069491|Sanorex|mazindol|
+E0069492|Herplex|idoxuridine|
+E0069493|Fluoroplex|fluorouracil|
+E0069494|Norflex|orphenadrine citrate|
+E0069495|Keflex|cephalexin|
+E0069496|Rheomacrodex|dextran 40|
+E0069497|Lidex|fluocinonide|
+E0069498|Cidex|glutaraldehyde|
+E0069499|Sephadex||
+E0069500|Pneumovax||
+E0069501|Eurax|crotamiton|
+E0069502|Serax|oxazepam|
+E0069503|Atarax|hydroxyzine hydrochloride|
+E0069513|Mucomyst|acetylcysteine|
+E0069520|Clinitest||
+E0069522|Citanest|prilocaine hydrochloride|
+E0069523|Duranest|etidocaine hydrochloride|
+E0069546|Kenacort|triamcinolone|
+E0069547|Sansert|methysergide maleate|
+E0069552|Senokot|senna|
+E0069553|Alupent|metaproterenol sulfate|
+E0069563|Aldomet|methyldopa|
+E0069564|Tagamet|cimetidine|
+E0069572|Nitrostat|nitroglycerin|
+E0069601|Catapres|clonidine hydrochloride|
+E0069614|Urispas|flavoxate hydrochloride|
+E0069615|Rezipas|p-aminosalicylic acid|
+E0069652|Vasoxyl|methoxamine hydrochloride|
+E0069661|Pronestyl|procainamide hydrochloride|
+E0069669|Delatestryl|testosterone enanthate|
+E0069671|Floropryl|isoflurophate|
+E0069684|Estinyl|ethinyl estradiol|
+E0069692|Bricanyl|terbutaline sulfate|
+E0069702|Flagyl|metronidazole|
+E0069704|Placidyl|ethchlorvynol|
+E0069705|Choledyl|oxtriphylline|
+E0069706|Cefadyl|cephapirin sodium|
+E0069707|Mydriacyl|tropicamide|
+E0069710|Kwell|lindane|
+E0069712|Stoxil|idoxuridine|
+E0069713|Amoxil|amoxicillin|
+E0069714|Elavil|amitriptyline hydrochloride|
+E0069715|Lomotil|diphenoxylate hydrochloride and atropine|
+E0069716|Nisentil|alphaprodine|
+E0069717|Serentil|mesoridazine besylate|
+E0069718|Vivactil|protriptyline hydrochloride|
+E0069719|Prontosil||
+E0069721|Vallestril|methallenestril|
+E0069722|Cortril|hydrocortisone|
+E0069723|Viadril|hydroxydione sodium|
+E0069727|Vistaril|hydroxyzine|
+E0069728|Temaril|trimeprazine tartrate|
+E0069729|Mellaril|thioridazine hydrochloride|
+E0069730|Plaquenil|hydroxychloroquine sulfate|
+E0069731|Equanil|meprobamate|
+E0069735|Hemofil||
+E0069736|Thiosulfil|sulfamethizole|
+E0069737|Nardil|phenelzine sulfate|
+E0069738|Flaxedil|gallamine triethiodide|
+E0069739|Metamucil|psyllium hydrophilic mucilloid|
+E0069740|Osbil|iobenzamic acid|
+E0069743|Ponstel|mefenamic acid|
+E0069747|Symmetrel|amantadine hydrochloride|
+E0069748|Isuprel|isoproterenol|
+E0069749|Metaprel|metaproterenol sulfate|
+E0069750|Amphojel|aluminum hydroxide gel|
+E0069753|Methocel|methylcellulose|
+E0069754|Surgicel||
+E0069758|Vioform|iodochlorhydroxyquin|
+E0069779|Antilirium|physostigmine salicylate|
+E0069781|Librium|chlordiaz-epoxide hydrochloride|
+E0069790|Dyrenium|triamterene|
+E0069794|Vitallium||
+E0069796|Valium|diazepam|
+E0069803|Imodium|loperamide hydrochloride|
+E0069805|Pyridium|phenazopyridine hydrochloride|
+E0069820|Gelfilm|absorbable gelatin film|
+E0069822|Zyloprim|allopurinol|
+E0069825|Adrenosem|carbazochrome salicylate|
+E0069829|Dopram|doxapram hydrochloride|
+E0069830|Protopam|pralidoxime|
+E0069837|Gelfoam||
+E0069839|RhoGAM|Rho (D) immune globulin|
+E0069846|Antiminth|pyrantel pamoate|
+E0069852|Eskalith|lithium carbonate|
+E0069863|Sublimaze|fentanyl citrate|
+E0069867|Isopaque|metrizoate sodium|
+E0069868|telepaque|iopanoic acid|
+E0069890|Ovrette|norgestrel|
+E0069897|Folvite|folic acid|
+E0069913|Norlutate|norethindrone acetate|
+E0069926|Trilisate|choline magnesium trisalicylate|
+E0069930|Ergotrate|ergonovine maleate|
+E0069967|Trocinate|thiphenamil hydrochloride|
+E0069974|Plasmanate|human plasma protein fraction|
+E0069991|Merthiolate|thimerosal|
+E0069998|Kayexalate|sodium polystyrene sulfonate|
+E0070027|Antabuse|tetraethylthiuram disulfide|
+E0070069|Diabinese|chlorpropamide|
+E0070070|Renese||
+E0070109|Fungizone|amphotericin B|
+E0070118|Furoxone|furazolidone|
+E0070122|Celestone|betameth-asone|
+E0070123|Cortone|cortisone acetate|
+E0070126|Chloretone|chlorobutanol|
+E0070129|Aldactone|spironolactone|
+E0070135|Diprosone|beta-methasone dipropionate|
+E0070143|Depo-Testosterone|testosterone|
+E0070151|Narone|dipyrone|
+E0070152|Kepone|chlordecone|
+E0070174|Acti-Dione|cycloheximide|
+E0070175|Tridione|trimethadione|
+E0070188|Neo-Synephrine|phenylephrine|
+E0070195|Tranxene|clorazepate dipotassium|
+E0070207|Diaparene|methylbenzethonium chloride|
+E0070236|Silvadene|silver sulfadiazine|
+E0070243|Navane|thiothixene|
+E0070246|Loxitane|loxapine succinate|
+E0070247|Rimactane|rifampin|
+E0070249|Anturane|sulfinpyrazone|
+E0070254|Penthrane|methoxyflurane|
+E0070255|Ethrane|enflurane|
+E0070256|Pertofrane|desipramine hydrochloride|
+E0070258|Aarane|cromolyn sodium|
+E0070260|Fluothane|halothane|
+E0070261|Tronothane|pramoxine|
+E0070262|Lithane|lithium carbonate|
+E0070272|Dialume||
+E0070288|Mercurochrome|merbromin|
+E0070302|Tapazole|methimazole|
+E0070328|Laetrile||
+E0070373|Estrace|estradiol|
+E0070374|Norpace|disopyramide phosphate|
+E0070375|Megace|megestrol acetate|
+E0070389|Akineton||
+E0070390|Albalon|naphazoline hydrochloride|
+E0070391|Alkeran|melphalan|
+E0070392|Aminosyn||
+E0070394|Ancef|cefazolin sodium|
+E0070395|Ancobon|flucytosine|
+E0070396|Antergan|phenbenzamine|
+E0070398|AquaMEPHYTON|phytonadione|
+E0070399|Arfonad|trimethaphan camsylate|
+E0070400|Aristospan|triamcinolone hexacetonide|
+E0070403|Butyn|butacaine|
+E0070408|Cardio-Green|indocyanine green|
+E0070411|Cedilanid|lanatoside C|
+E0070412|Celontin|methsuximide|
+E0070421|Clomid|clomiphene citrate|
+E0070428|Cortef|hydrocortisone|
+E0070439|Debrisan|dextranomer|
+E0070440|Delestrogen|estradiol valerate|
+E0070451|Dexon||
+E0070453|Diafen|diphenylpyraline hydrochloride|
+E0070454|Diapid|lypressin|
+E0070461|Ditropan|oxybutynin hydrochloride|
+E0070463|Domeboro|aluminum subacetate|
+E0070464|Doriden|glutethimide|
+E0070467|Drolban|dromostanolone propionate|
+E0070469|Duphaston|dydrogesterone|
+E0070476|Endoxan|cyclophosphamide|
+E0070477|Enovid||
+E0070493|Florinef|fludrocortisone acetate|
+E0070494|Fluonid|fluocinolone acetonide|
+E0070508|Geopen|carbenicillin disodium|
+E0070524|Halog|halcinonide|
+E0070544|Hetrazan|diethylcarbamazine citrate|
+E0070546|Histalog|betazole|
+E0070556|Imuran|azathioprine|
+E0070559|Indoklon|flurothyl|
+E0070566|Intralipid||
+E0070575|Kenalog|triamcinolone acetonide|
+E0070579|Konakion|phytonadione|
+E0070582|Largon|propiomazine hydrochloride|
+E0070583|Larodopa|levodopa|
+E0070586|Gynergen|ergotamine tartrate|
+E0070587|Leukeran|chlorambucil|
+E0070588|Levophed|norepinephrine bitartrate|
+E0070589|Locorten|flumethasone pivalate|
+E0070590|Lorfan|levallorphan tartrate|
+E0070591|Lysodren|mitotane|
+E0070592|Maxipen|phenethicillin potassium|
+E0070593|Mestinon|pyridostigmine bromide|
+E0070594|Metandren|methyltestosterone|
+E0070595|Meticorten|prednisone|
+E0070596|Miltown|meprobamate|
+E0070597|Moban|molindone hydrochloride|
+E0070598|Mustargen|mechlorethamine hydrochloride|
+E0070599|Mylaxen|hexafluorenium bromide|
+E0070600|Myleran|busulfan|
+E0070601|Nalfon|fenoprofen calcium|
+E0070602|Naprosyn|naproxen|
+E0070603|Naqua|trichlormethiazide|
+E0070604|Narcan|naloxone hydrochloride|
+E0070605|Negatan|negatol|
+E0070606|Nitroglyn|nitroglycerin|
+E0070607|Noctec|chloral hydrate|
+E0070608|Numorphan|oxymorphone hydrochloride|
+E0070609|Omnipen|ampicillin|
+E0070610|Oreton|testosterone propionate|
+E0070611|Pathilon|tridihexethyl chloride|
+E0070612|Pavulon|pancuronium bromide|
+E0070613|Peptavlon|pentagastrin|
+E0070614|Perandren|testosterone|
+E0070615|Phenergan|promethazine hydrochloride|
+E0070616|Progynon|estradiol|
+E0070617|Proluton|progesterone|
+E0070618|Protalba|protoveratrine A|
+E0070619|Provera|medroxyprogesterone acetate|
+E0070620|pyopen|carbenicillin disodium|
+E0070621|Questran|cholestyramine resin|
+E0070622|Quinora|quinidine sulfate|
+E0070623|Riopan|magaldrate|
+E0070624|Salyrgan|mersalyl|
+E0070625|Sinequan|doxepin hydrochloride|
+E0070626|Skiodan|methiodal sodium|
+E0070627|Stypven|Russell's viper venom|
+E0070628|Sulfamylon|mafenide|
+E0070629|Surfak|docusate calcium|
+E0070630|Synthroid|levothyroxine sodium|
+E0070631|Syntocinon|synthetic oxytocin|
+E0070632|Taractan|chlorprothixene|
+E0070633|Tegopen|cloxacillin sodium|
+E0070634|Tensilon|edrophonium chloride|
+E0070635|Tessalon|benzonatate|
+E0070636|Tigan|trimethobenzamide hydrochloride|
+E0070637|Tridesilon|desonide|
+E0070638|Trilafon|perphenazine|
+E0070639|Trisoralen|trioxsalen|
+E0070640|Velban|vinblastine sulfate|
+E0070641|Velosef|cephradine|
+E0070642|Veralba||
+E0070679|Liposyn||
+E0070803|APL|human chorionic gonadotropin|
+E0070804|DBI|phenformin hydrochloride|
+E0070805|TAO|troleandomycin|
+E0070806|Teflon|polytetrafluoroethylene|
+E0070807|Tween|polysorbates|
+E0070870|Cedilanid-D|deslanoside|
+E0070878|DTIC-Dome|dacarbazine|
+E0070879|Depo-Provera|medroxyprogesterone|
+E0070883|Entero-Vioform|clioquinol|
+E0070890|Gris-PEG|griseofulvin|
+E0070908|Neo-Cobefrin|levonordefrin|
+E0070919|Retin-A|tretinoin|
+E0070923|Solu-Cortef|hydrocortisone sodium succinate|
+E0070951|Zovirax|acyclovir|
+E0070952|Normodyne|labetalol hydrochloride|
+E0070953|Alfenta|alfentanil hydrochloride|
+E0070954|Lopurin|allopurinol|
+E0070955|Anaprox|naproxen sodium|
+E0070956|Trasylol|aprotinin|
+E0070957|Elspar|L-asparaginase|
+E0070960|Fortaz|ceftazidime|
+E0070961|Cerubidine|daunorubicin|
+E0070962|Platinol|cisplatin|
+E0070963|Proglycem|oral diazoxide|
+E0070964|Dolobid|diflunisal|
+E0070965|Prostin E2||
+E0070966|Emcyt|estramustine|
+E0070967|VePesid|etoposide|
+E0070968|Ftorafur|tegafur|
+E0070969|Lopid|gemfibrozil|
+E0070970|Diucardin|hydroflumethiazide|
+E0070971|Rufen|ibuprofen|
+E0070972|Lente insulin|zinc insulin|
+E0070974|Vermox|mebendazole|
+E0070975|Meclomen|meclofenamate sodium|
+E0070976|Diulo|metolazone|
+E0070977|Midamor|amiloride hydrochloride|
+E0070978|Mixtard||
+E0070979|Ambilhar|niridazole|
+E0070980|Ocusert||
+E0070981|Parlodel|bromocriptine mesylate|
+E0070983|Feldene|piroxicam|
+E0070984|Vicryl|polyglactin 910|
+E0070985|Droncit|prazi-quantel|
+E0070986|Minipress|prazosin hydrochloride|
+E0070987|Rocephin|ceftriaxone sodium|
+E0070988|Sinografin|diatrizoate meglumine|
+E0070989|Angio-Conray|sodium iothalamate|
+E0070990|Depakene|valproic acid|
+E0070991|Tracrium|atracurium besylate|
+E0070992|Norcuron|vecuronium bromide|
+E0070993|Velosulin|insulin injection (regula|
+E0070995|Gamulin Rh|RhO(D) immune serum globulin|
+E0070996|Ketaset|ketamine hydrochloride|
+E0070997|Adrucil|fluorouracil|
+E0070998|Uticillin|penicillin V potassium|
+E0070999|Tambocor|flecainide acetate|
+E0071000|Sufenta|sufentanil|
+E0071001|Mexate|methotrexate sodium|
+E0071323|sulphamezathine|sulfamethazine|
+E0071889|renovist||
+E0072593|Tampax||
+E0100070|Grapenuts||
+E0202051|Monotard|insulin zinc|
+E0202274|DOCA|deoxycorticosterone acetate|
+E0203606|Atebrin|quinacrine|
+E0203643|Benzedrine|amphetamine sulfate|
+E0204155|Freon||
+E0204171|Gammexane|lindane|
+E0204313|Hopcalite||
+E0204449|Neosalvarsan|neoarsphenamine|
+E0204617|lucite||
+E0205049|Salix|furosemide|
+E0205051|Salvarsan|arsphenamine|
+E0205449|Veronal|barbital|
+E0205541|Decalin|decahydronaphthalene|
+E0205671|Dulcin||
+E0205761|Gilsonite|uintaite|
+E0206368|Tetralin|tetrahydronaphthalene|
+E0206405|Thionine||
+E0206465|primus||
+E0206489|Protargol||
+E0206819|sevin||
+E0207361|Dictaphone||
+E0209050|Schroeder stylette||
+E0211418|CircOlectric bed||
+E0214617|Proketazine|carphenazine maleat|
+E0214771|Tryptar|trypsin|
+E0215434|EMIT||
+E0218042|moduretic|amiloride HCl-hydrochlorothiazide|
+E0218277|Metopirone|metyrapone|
+E0218336|synthrom|acenocoumarol|
+E0220691|Remune|HIV-1 Immunogen|
+E0220697|Biojector||
+E0221535|Eppy|epinephryl borate|
+E0221541|Sterno|cooking fuel|
+E0222426|Photoshop||
+E0223126|Plexiglas||
+E0223254|Dopler FloWire||
+E0223255|Flowire||
+E0223278|UroLume||
+E0223324|Kooliner||
+E0223328|Resinomer||
+E0223387|Pyrex||
+E0223403|Reebok||
+E0223507|Camptosar||
+E0223514|Actigel||
+E0223517|Flavourzyme||
+E0223541|Ceramigold||
+E0223546|Deflux||
+E0224148|Compleat||
+E0224149|Compleat Modified||
+E0224150|Enfamil||
+E0224154|Glucerna||
+E0224155|Guinness||
+E0224156|Isomil||
+E0224157|Jevity||
+E0224160|Neocate||
+E0224161|Nutramigen||
+E0224163|Pulmocare||
+E0224165|Similac||
+E0224167|Survimed||
+E0224337|Biostator||
+E0224358|Frisbee||
+E0224406|Dembone||
+E0224906|Shreddies||
+E0224907|Frosties||
+E0224908|Wheaties||
+E0224909|Smartie||
+E0225812|Coca Cola||
+E0225819|Velcro||
+E0225823|Cyclohaler||
+E0225824|Diskhaler||
+E0225827|EpiPen||
+E0225832|PlastiBell||
+E0225837|Rotablator||
+E0225838|Spacehaler||
+E0225839|Spinhaler||
+E0225840|Ventimask||
+E0225947|XenoDerm||
+E0226244|Netscape||
+E0226262|Scanora||
+E0226281|DXplain||
+E0226288|PubMed||
+E0226446|INTERCEED||
+E0227299|Alimentum||
+E0227563|Tes-Tape||
+E0227606|Bovril||
+E0227607|Enlive!||
+E0227766|Steri-Strip||
+E0227873|Day Nurse||
+E0227887|Enlight||
+E0227891|Equiform||
+E0227894|Flector||
+E0227926|Humist||
+E0227959|Theelin|estrone|
+E0228354|Super Bowl||
+E0228356|Adrenalin||
+E0228357|Blanco||
+E0228358|Butyl||
+E0228359|Celite||
+E0228360|Chartreuse||
+E0228361|Coke||
+E0228362|Dial|diallylbarbituric acid|
+E0228363|Dissector||
+E0228364|Dixie||
+E0228365|Flit||
+E0228366|Formica||
+E0228367|Jeep||
+E0228368|Luminal|phenobarbital|
+E0228369|Novocain|procaine hydrochloride|
+E0228371|Spam||
+E0228372|Ada||
+E0228381|Bathinette||
+E0228382|Calgon||
+E0228383|Exaltolide||
+E0228384|Jacuzzi||
+E0228385|Mecholyl|methacholine|
+E0228386|Caplet||
+E0228387|Brangus||
+E0228388|Cibacron||
+E0228389|Elastoplast||
+E0228390|Feldenkrais||
+E0228391|Fluorol||
+E0228392|Pinacyanol||
+E0228393|Spackle||
+E0228394|Tabasco||
+E0228395|Elon||
+E0228397|Hovis||
+E0228398|Roquefort||
+E0228399|Airbrasive||
+E0228400|Fuadin|stibophen|
+E0228401|Kinetoscope||
+E0228402|Metaphen|nitromersol|
+E0228403|Neo-Antergan|pyrilamine maleate|
+E0228404|Para-thor-mone|parathyroid hormone|
+E0228405|Phoroptor||
+E0228406|Propadrine|phenylpropanolamine hydrochloride|
+E0228407|Sulfasuxidine|succinylsulfathiazole|
+E0228408|Sulfathalidine|phthalylsulfathiazole|
+E0228447|Cantil|mepenzolate bromide|
+E0228448|Dialogue||
+E0228449|Hemoccult||
+E0228450|Letter|levothyroxine sodium|
+E0228452|Pima|potassium iodide|
+E0228454|Possum||
+E0228456|Tindal|acetophenazine maleate|
+E0228457|Acidulin|glutamic acid hydrochloride|
+E0228458|Acthar|corticotropin|
+E0228459|Adroyd|oxymetholone|
+E0228460|Aeroseb-Dex|dexamethasone|
+E0228461|Afrin|oxy-metazoline hydrochloride|
+E0228462|Albamycin|novobiocin|
+E0228463|Albutein||
+E0228464|Alu-Cap||
+E0228465|Anthra-Derm|anthralin|
+E0228466|Aquatensen|methyclothiazide|
+E0228467|Arthropan|choline salicylate|
+E0228468|Atropisol|atropine sulfate|
+E0228469|Baciguent|bacitracin|
+E0228470|Bactocill|oxacillin sodium|
+E0228471|Bendylate|diphenhydramine hydrochloride|
+E0228472|Benoquin|monobenzone|
+E0228473|BiCNU|carmustine|
+E0228474|Buminate|human albumin|
+E0228475|Butisol sodium|sodium butabarbital|
+E0228476|Calcibind|sodium cellulose phosphate|
+E0228477|Capastat|capreomycin sulfate|
+E0228478|Capitrol|chloroxine|
+E0228479|Cardioquin|quinidine polygalacturonate|
+E0228480|Caytine|protokylol hydrochloride|
+E0228481|Ce-Vi-Sol|ascorbic acid|
+E0228482|Cecon|ascorbic acid|
+E0228483|Cenolate|ascorbic acid|
+E0228484|Cevalin|ascorbic acid|
+E0228485|Chlor-Trimeton|chlorpheniramine maleate|
+E0228486|Chloroptic|chloramphenicol|
+E0228487|Conestron|conjugated estrogens|
+E0228488|Cordran|flurandrenolide|
+E0228489|Cort-Dome|hydrocortisone|
+E0228490|Cotazym|pancrelipase|
+E0228491|Crystodigin|digitoxin|
+E0228492|Cytadren|aminoglutethimide|
+E0228493|Decaderm|dexamethasone|
+E0228494|Decadron-LA|dexamethasone acetate|
+E0228495|Delta-Cortef|prednisolone|
+E0228496|Demi-Regroton|chlorthalidone and reserpine|
+E0228497|Dendrid|idoxuridine|
+E0228498|Desoxyn|methamphetamine hydrochloride|
+E0228499|Dicurin|merethoxylline|
+E0228500|Diuril|chlorothiazide|
+E0228501|Dopar|levodopa|
+E0228502|Duvoid|bethanechol chloride|
+E0228503|Dyclone|dyclonine hydrochloride|
+E0228504|E-Ferol|an intravenous vitamin E|
+E0228505|E-Mycin|erythromycin|
+E0228506|Eldadryl|diphenhydramine|
+E0228507|Eldecort|hydrocortisone|
+E0228508|Eldopaque|hydroquinone|
+E0228509|Eldoquin|hydroquinone|
+E0228510|Elipten|aminoglutethimide|
+E0228511|Endrate|edetate disodium|
+E0228512|Enduronyl||
+E0228513|Ergomar|ergotamine tartrate|
+E0228514|Esimil||
+E0228515|Exna|benzthiazide|
+E0228516|Feminone|ethinyl estradiol|
+E0228517|Feosol|ferrous sulfate|
+E0228518|Fer-In-Sol|ferrous sulfate|
+E0228519|Fergon|ferrous gluconate|
+E0228520|Fluogen|influenza virus vaccine|
+E0228521|Fourneau 309|suramin sodium|
+E0228522|Furadantin|nitrofurantoin|
+E0228523|Gamastan|immune human serum globulin|
+E0228524|Halotex|haloprogin|
+E0228525|Harmonyl|deserpidine|
+E0228526|Heptavax-B|hepatitis B vaccine|
+E0228527|Hycodan|hydrocodone bitartrate|
+E0228528|Hydeltra|prednisolone|
+E0228529|Hydrocortone|hydrocortisone|
+E0228530|Hyper-Tet|tetanus immune human|
+E0228531|Hytakerol|dihydrotachysterol|
+E0228532|Ilopan|dexpanthenol|
+E0228533|Insulatard NPH|isophane insulin suspension|
+E0228534|Inversine|mecamylamine hydrochloride|
+E0228535|Ionamin|phentermine|
+E0228536|Ircon|ferrous fumarate|
+E0228537|Kaochlor|potassium chloride|
+E0228538|Kaon|potassium gluconate|
+E0228539|Kay Ciel|potassium chloride|
+E0228540|Mol-Iron|ferrous sulfate|
+E0228541|Mycifradin|neomycin sulfate|
+E0228542|Mylicon|simethicone|
+E0228543|Neutra-Phos-K|potassium phosphate|
+E0228544|Prostin F2 Alpha|dinoprost tromethamine|
+E0228545|Ser-Ap-Es||
+E0228546|Sterane|prednisolone|
+E0228549|Sytobex|cyanocobalamin|
+E0228550|Tacaryl|methdilazine|
+E0228551|Teldrin|chlorpheniramine maleate|
+E0228552|Tinactin|tolnaftate|
+E0228553|Tolinase|tolazamide|
+E0228554|Torecan|thiethylperazine|
+E0228555|Totacillin|ampicillin|
+E0228556|Tuamine|tuaminoheptane|
+E0228557|Unipen|nafcillin sodium|
+E0228558|Valisone|betamethasone valerate|
+E0228559|Vansil|oxamniquine|
+E0228560|Vasodilan|isoxsuprine hydrochloride|
+E0228561|Vectrin|minocycline hydrochloride|
+E0228562|Veetids||
+E0228563|Vesprin|triflupromazine|
+E0228564|Winstrol|stanozolol|
+E0228565|Wycillin||
+E0228566|X-Prep|senna|
+E0229310|Neutrogena||
+E0231951|Opticon||
+E0232967|Abstem||
+E0232968|Adumbran|oxazepam|
+E0232969|Dipidolor|piritramide|
+E0232970|Entumine||
+E0232971|Equipertine||
+E0232973|Erinit|pentaerythritol|
+E0232974|Gastrographin||
+E0232975|Solustibosan||
+E0232976|Fucidin||
+E0232977|GoreTex||
+E0232982|Phosphocol||
+E0232983|tarivid|ofloxacin|
+E0232984|Toxogonin|obidoxime|
+E0233003|BioScope||
+E0233592|Lipofect AMINE||
+E0235397|Stomacher||
+E0236132|Thumper||
+E0236206|Medtronic||
+E0236261|Superose||
+E0236267|TaqMan||
+E0236268|Zeiss||
+E0236270|Scotchbond||
+E0236283|Bayer||
+E0236339|Zantac|ranitidine|
+E0236401|Toyopearl||
+E0236408|BIAcore||
+E0236432|Transwell||
+E0236450|Dornier||
+E0236890|Olympus||
+E0236959|Steri-Oss||
+E0236972|Nix||
+E0236973|Niprisan||
+E0237021|Optipress||
+E0237181|Redy||
+E0237182|Redy sorbent cartridge||
+E0237274|Vacutainer||
+E0237290|Chemstrip||
+E0237534|Incare||
+E0238036|Estraderm||
+E0238048|COZAAR|losartan|
+E0238050|Vicks||
+E0238051|Lipitor|atorvastatin|
+E0238055|Diovan|valsartan|
+E0238059|GIF||
+E0238069|Rollerblade||
+E0238087|Perclose||
+E0238120|Vitek||
+E0238122|Sandoz||
+E0238151|Upjohn||
+E0238158|Conservatrix||
+E0238160|DNA Strider||
+E0238291|Polytrim||
+E0238432|Precose|acarbose|
+E0238434|Prelone|prednisolone|
+E0238435|Prepidil|dinoprostone|
+E0238436|Prevalite|cholestryramine resin|
+E0238437|Prevnar|pneumococcal heptavalent conjugate vaccine|
+E0238470|Precedex|dexmedetomidine hydrochloride|
+E0238479|Premphase||
+E0238490|Prevpac||
+E0238966|Zyban|bupropion hydrochloride|
+E0238967|Zomig|zolmitriptan|
+E0238968|Zyvox|linezolid|
+E0238969|Zometa|zoledronic acid|
+E0238970|Zyprexa|olanzapine|
+E0238971|Zyflo|zileuton|
+E0238973|Zemplar|paricalcitol|
+E0238974|Zanaflex|tizanidine hydrochloride|
+E0238975|Zestoretic||
+E0238976|Zonegran|zonisamide|
+E0238977|Zetafuge||
+E0238978|Zetar|coal tar|
+E0239099|Novolin|insulin|
+E0300077|Chow||
+E0300410|Kontrikal||
+E0300439|Acylpyrin|aspirin|
+E0300455|Tenormin|atenolol|
+E0300464|AtromidS|clofibrate|
+E0300479|Stresnil||
+E0300496|Baritop||
+E0300546|Jacutin||
+E0300564|Betaloc|metoprolol|
+E0300605|Brethaire|terbutaline sulfate|
+E0300606|Bretylol|bretylium tosylate|
+E0300608|Brevicidin||
+E0300620|Bromyl|bromisovalum|
+E0300621|Bromvaleton|bromisovalum|
+E0300637|Brulamycin||
+E0300660|Buprenex|buprenorphine hydrochloride|
+E0300689|Buscapine|butylscopolammonium bromide|
+E0300690|Buscolysin|butylscopolammonium bromide|
+E0300691|Buscopan|butylscopolammonium bromide|
+E0300718|Soldactone||
+E0300757|Bukarban|carbutamide|
+E0300796|Keclor||
+E0300972|Ketanest|ketamine|
+E0300996|Klaforan|cefotaxime sodium|
+E0301034|Clostilbegit|enclomiphene citrate|
+E0301035|Klostilbegit|enclomiphene citrate|
+E0301073|Avicon||
+E0301145|Avlosulfon|dapsone|
+E0301243|Faustan||
+E0301262|Kelthane|dicofol|
+E0301263|Keltane|dicofol|
+E0301439|Jumex|deprenyl|
+E0301515|Enterodes||
+E0301587|Novidium|ethidium|
+E0301693|Phetanol||
+E0301722|Pfizerpen|penicillin G potassium|
+E0301768|Liquamar|phenprocoumon|
+E0301773|Butacote||
+E0301871|Biofix|polyglycolic acid|
+E0301883|pellethane||
+E0301889|Vinylite||
+E0301901|Kollidon|polyvinylpyrrolidone|
+E0301915|Centrax|prazepam|
+E0301921|Pre-par|ritodrin|
+E0301925|Kortancyl|prednisone|
+E0302006|Proplast||
+E0302008|Diprivan|propofol|
+E0302120|Quindan||
+E0302122|Quinimax||
+E0302217|Ridzol|ronidazole|
+E0302350|Solupsan||
+E0302388|Klofelin||
+E0302403|Keoflo|starch|
+E0302490|Bromsulfalein||
+E0302491|Bromthalein||
+E0302518|Syntarpen|cloxacillin|
+E0302551|Vumon|teniposide|
+E0302595|Bronkodyl|theophylline|
+E0302671|Bryamycin||
+E0302678|Thomasin||
+E0302698|Butamide|tolbutamide|
+E0302744|Ditak|triamterene|
+E0302820|Kepinol||
+E0302895|Ursodiol||
+E0302928|Devincan||
+E0302948|Komplamin|xanthinol niacinate|
+E0303067|Actifed||
+E0304095|Carbitol||
+E0304149|Catalin||
+E0304406|Biaxin||
+E0305956|styrofoam||
+E0306291|thiokol||
+E0306706|Vascoray||
+E0307129|nichrome||
+E0307425|Aureocyclin|chlortetracycline hydrochloride|
+E0307430|Biotidin|ranitidine hydrochloride|
+E0307435|Blutal|iron-chondroitin sulfate|
+E0307478|Feloran|diclofenac sodium|
+E0307499|Intraglobin|immunoglobulin|
+E0307504|Kexiping|poly-2-vinylpyridine N-oxide|
+E0307554|Tiniba|Tinidazole|
+E0307853|antrycide||
+E0307930|astiban|stibocaptate|
+E0308253|Cellosolve||
+E0309058|disalcid|salsalate|
+E0309393|Eradacin||
+E0309662|Formvar||
+E0309774|geocillin|carbenicillin indanyl sodium|
+E0309826|Glurenorm||
+E0310094|Indalone|butopyronoxyl|
+E0310385|leukocell|feline leukemia vaccine|
+E0310434|lithostat|acetohydroxamic acid|
+E0310446|LoDose||
+E0310852|mylar||
+E0311111|Orlon||
+E0311302|perlon||
+E0314778|Universal Medical Device Nomenclature System||
+E0315379|Hibtiter||
+E0315489|Alec||
+E0315512|Co-magaldrox||
+E0316421|Equ-Lin||
+E0316422|Equron||
+E0316423|Equ-SeE||
+E0316424|Erocon||
+E0316425|Erycell||
+E0316426|Ethyodide||
+E0316427|Farrowsure||
+E0316428|Felaxin||
+E0316429|Felobits||
+E0316430|Felocine||
+E0316431|Felo-Form||
+E0316432|Felovite||
+E0316433|Fermistrept||
+E0316434|Ferro-Treet||
+E0316435|Filaribits||
+E0316436|Finquel||
+E0316437|Fleatol||
+E0316438|Flo-Cillin||
+E0316439|Flumune||
+E0316440|Fluvac||
+E0316441|Foalimmune||
+E0316442|Follutein||
+E0316443|Footvax||
+E0316444|Forte-Topical||
+E0316445|Fresh-Ear||
+E0316446|Fungi-Dry-Ear||
+E0316447|Fura-Septin||
+E0316448|Fura-Zone||
+E0316449|Furos-A-Vet||
+E0316450|Furox||
+E0316451|Gastro-Cote||
+E0316452|Gingi-Derm||
+E0316453|Gleptosil||
+E0316454|Glytussin||
+E0316455|Go-Dry||
+E0316456|Granulex-V||
+E0316457|Guailaxin||
+E0316458|Heifer-oid||
+E0316459|Higamm-Equi||
+E0316460|Histavet-P||
+E0316461|Hitravax||
+E0316462|Humilac||
+E0316463|Huskerlyte||
+E0316464|Hyalovet||
+E0316465|Hydra-Lyte||
+E0316466|Hydro-Plus||
+E0316467|Hylartin||
+E0316468|Hy-O-Dine||
+E0316469|Hy-Sorb||
+E0316470|Iosan||
+E0316471|Kantrim|kanamycin sulfate|
+E0316472|Ketofen||
+E0316473|Laxatone||
+E0316474|Life-Guard||
+E0316475|Linoplex||
+E0316476|Lipotinic||
+E0316477|Liquichlor||
+E0316478|Liquiduster||
+E0316479|Litterguard||
+E0316480|Littermaker||
+E0316481|Lixotinic||
+E0316482|Lubiseptol||
+E0316483|Lubogel-V||
+E0316484|Lubrivet||
+E0316485|Lysigin||
+E0316486|Lysoff||
+E0316487|Magnadex||
+E0316488|Magnalyte||
+E0316489|Magnapaste||
+E0316490|Marexine||
+E0316491|Matar||
+E0316492|Medamycin||
+E0316493|Methigel||
+E0316494|Morumide||
+E0316495|Multi-Prime||
+E0316496|Mylepsin||
+E0316497|Naxcel||
+E0316498|Nematel||
+E0316499|Neobacimyx||
+E0316500|Neosol||
+E0316501|Neovet||
+E0316502|Neurosyn||
+E0316503|Nutri-Cal||
+E0316504|Nutriderm||
+E0316505|Optiprime||
+E0316506|Oxydent||
+E0316507|Oxytet||
+E0316508|Pancrezyme||
+E0316509|Panodry||
+E0316510|Paracide-F||
+E0316511|Parvocine||
+E0316512|Parvo-Vac||
+E0316513|Pen-Aqueous||
+E0316514|Pen-Dihydro||
+E0316515|Penstrep||
+E0316516|Performer-Feline||
+E0316517|Performer-One||
+E0316518|Performer-Seven-K||
+E0316519|Performer-Seven-L||
+E0316520|Pet-Cal||
+E0316521|Petdent||
+E0316522|Pet-Form||
+E0316523|Pet-Guard||
+E0316524|Petrolax||
+E0316525|Petrotone||
+E0316526|Pet-Tabs||
+E0316527|Pilimune||
+E0316528|Pipfuge||
+E0316529|Polyflex||
+E0316530|Primor||
+E0316531|Proban||
+E0316532|Promace||
+E0316533|Puppyvite||
+E0316534|Quanto||
+E0316535|Quartermaster||
+E0316536|Quatamine||
+E0316537|Quatcide||
+E0316539|Rabcine||
+E0316540|Regressin-V||
+E0316541|Regu-Mate||
+E0316542|Rehydro-Lyte||
+E0316543|Reovac-A||
+E0316544|Re-Sorb||
+E0316545|Respomune-CP||
+E0316546|Rhinomune||
+E0316547|Rhinopan-MLV||
+E0316548|Rhusigen||
+E0316549|Robaxin-V||
+E0316550|Robinul-V||
+E0316551|Rocadyne||
+E0316552|Roccal-D||
+E0316553|Rumatel||
+E0316554|Sebbafon||
+E0316555|Seletoc||
+E0316556|Sleepaway||
+E0316557|Soloxine||
+E0316558|Solu/Tet||
+E0316559|Somlethol||
+E0316560|Spartrix||
+E0316561|Spotton||
+E0316562|Steer-oid||
+E0316563|Strepta-Cillin||
+E0316564|Sulfa-Max||
+E0316565|Sulfa-Span||
+E0316566|Sun-I-Pine||
+E0316567|Sunup||
+E0316568|Swat-Dri||
+E0316569|Synacid||
+E0316570|Syncro-Mate-B||
+E0316571|Talwin-V||
+E0316572|Tanni-Gel||
+E0316573|Tek-Trol||
+E0316574|Tetnogen||
+E0316575|Thenatol||
+E0316576|Therophyllin||
+E0316577|Thiomar||
+E0316578|Thyro-Form||
+E0316579|Thyro-L||
+E0316580|Thyro-Tab||
+E0316581|Thyrozine||
+E0316582|Tolvid||
+E0316583|Topazone||
+E0316584|Torbugesic||
+E0316585|Torbutrol||
+E0316586|Totalon||
+E0316587|Trachine||
+E0316588|Tranquazine||
+E0316589|Tremvac||
+E0316590|Trimune||
+E0316591|Trioptic-P||
+E0316592|Trioptic-S||
+E0316593|Triple-E||
+E0316594|Triplevac||
+E0316595|Tritop||
+E0316596|Trivib||
+E0316597|Tumil-K||
+E0316598|Twin-Pen||
+E0316599|Typhimune||
+E0316600|Uddermate||
+E0316601|Udder-San||
+E0316602|Unamax||
+E0316603|Unitox||
+E0316604|Uroeze||
+E0316605|Uthol||
+E0316606|Vapona||
+E0316607|Ved-Hist||
+E0316608|Vedichol||
+E0316609|Veltrim||
+E0316610|Vemorsul||
+E0316611|Vercom||
+E0316612|Veta-Lac||
+E0316613|Vetalar||
+E0316614|Vetisulid||
+E0316615|Vetropolycin||
+E0316616|Vibrin||
+E0316617|Vigilante||
+E0316618|Vigilquat||
+E0316619|Vilec-Sol||
+E0316620|Vi-Sorbin||
+E0316621|ViSorbits||
+E0316622|Vitamag||
+E0316623|Voren||
+E0316624|Vovax||
+E0316625|Weanguard||
+E0316626|Wildnil||
+E0316627|Yersivax||
+E0316628|Z-Bec||
+E0316629|Zinpro||
+E0316630|C-Film||
+E0316631|Beesix||
+E0316632|Hexa-Betalin||
+E0316633|Co-danthramer||
+E0316634|Autoplex||
+E0316635|Acset||
+E0316636|Clinifeed||
+E0316637|Fortimel||
+E0316638|Fortisip||
+E0316639|Liquisorb||
+E0316640|Liquisorbon||
+E0316641|Nutrison||
+E0316642|Fortipudding||
+E0316643|Maxisorb||
+E0316644|Cinchocaine||
+E0316645|Dextrolyte||
+E0316646|Electrolade||
+E0316647|Glucolyte||
+E0316648|Rapolyte||
+E0316649|Rehidrat||
+E0316650|Advera||
+E0316651|Emsogen||
+E0316652|Fortijuce||
+E0316653|Formance||
+E0316654|Desyrel||
+E0316655|Flolan||
+E0316656|Eprex||
+E0316657|Recormon||
+E0316658|Procrit||
+E0316659|Fosamax||
+E0317507|Panasonic||
+E0320980|Terramycin||
+E0330004|Livial|tibilone|
+E0335858|Nephro-Calci||
+E0338367|Estradurin||
+E0338368|Fansidar||
+E0338369|Feiba||
+E0338383|Frisium||
+E0345795|Robitussin|guaifenesin/codeine|
+E0345803|Sudafed||
+E0345986|Advil|ibuprofen|
+E0348301|Monistat||
+E0351221|Visco-gel||
+E0351381|Enduron||
+E0351415|TACE|chlorotrianisene|
+E0353868|Carnivora|plumbagin|
+E0354537|Xenical||
+E0354580|DepoFoam||
+E0354651|Serzone||
+E0354762|Campral||
+E0354771|Beclovent|beclomethasone|
+E0354801|ProstaScint||
+E0354802|Risperdal||
+E0354818|Gemzar||
+E0354826|Synsorb||
+E0354833|Avonex||
+E0354877|ReVia|naltrexone|
+E0354894|VaxSyn||
+E0355113|Ovcon||
+E0355114|Orthoclone||
+E0355115|Oncotice||
+E0355120|Vitrasert||
+E0355229|Actigall||
+E0355317|Britlofex||
+E0355364|Zenapax||
+E0355376|Viramune||
+E0355377|Leuvectin||
+E0355395|Valtrex|valacyclovir|
+E0355401|Octreoscan||
+E0355409|Optison||
+E0355447|Exelon|rivastigmine|
+E0355449|Aricept|donepezil|
+E0355454|Ziagen|abacavir|
+E0355463|Viagra|sildenafil citrate|
+E0355469|Targretin|bexarotene|
+E0355481|Palivizumab||
+E0355497|Allovectin||
+E0355498|Celebrex|celecoxib|
+E0355499|Vioxx|rofecoxib|
+E0355517|Pancrecarb||
+E0355527|Evista|raloxifene|
+E0355533|DaunoXome|daunorubicin|
+E0355564|Campath||
+E0355577|Peptamen||
+E0355578|Paxil|paroxetine|
+E0355593|Depakote|divalproex sodium|
+E0355598|Breathalyzer||
+E0355632|PediaSure||
+E0355646|Celexa|citalopram|
+E0355658|Serostim|human growth hormone|
+E0355669|Scandishake||
+E0355670|Roferon||
+E0355674|Prempro|medroxyprogesterone|
+E0355684|Nilandron|nilutamide|
+E0355685|Orap|pimozide|
+E0355688|Nasonex|mometasone furoate|
+E0355690|Flixonase||
+E0355691|Nasacort||
+E0355694|Neoral|cyclosporine|
+E0355698|Mycobutin|rifabutin|
+E0355729|Lofenalac||
+E0355732|Mediport||
+E0355762|Depacon|valproic acid|
+E0355771|CellCept|mycophenolate|
+E0355777|Becloforte||
+E0355783|Atgam||
+E0357044|Tenuate|diethylpropion hydrochloride|
+E0357750|Dubonnet||
+E0357866|Carbolineum||
+E0358018|Esoterica||
+E0358033|Zymase||
+E0358530|Lustral||
+E0358564|Comox||
+E0358578|Caroid||
+E0358586|Beano||
+E0358606|Roxane||
+E0358724|Campho-Phenique||
+E0358791|Sarna||
+E0358873|Stellite||
+E0359117|Domical||
+E0359193|Aloe Vesta||
+E0359659|Conte||
+E0362737|Wil-o-dont||
+E0364031|Lisacort|prednisone|
+E0364034|Lipo-Lutin|progesterone|
+E0364144|Lutromone|progesterone|
+E0364170|Levoprome|meth-otrimeprazine|
+E0364175|Lida-Mantle|lidocaine|
+E0364199|Magan|magnesium salicylate|
+E0364294|Maolate|chlorphenesin carbamate|
+E0364319|Marplan|isocarboxazide|
+E0364384|Luride|sodium fluoride|
+E0364606|Menest|esterified estrogens tablets|
+E0364616|Mephyton|Phytonadione|
+E0364631|Metahydrin|Trichlormethiazide|
+E0364674|Meticortelone|preparations of prednisolone|
+E0364680|Micatin|miconazole nitrate|
+E0364703|Milontin|phensuximide|
+E0364720|Minizide|Prazosin and Polythiazide|
+E0364721|Miradon|anisindione|
+E0364742|Mithracin|Plicamycin|
+E0364938|NegGram|Nalidixic acid|
+E0364960|Neohetramine|thonzylamine hydrochloride|
+E0364966|Nacton|Poldine methylsulphate|
+E0365002|Neo-Calglucon|calcium supplement|
+E0365003|Neo-Decadron|Neomycin-Dexamethasone|
+E0365004|Neoloid|oral laxative|
+E0365009|Neothylline|dyphylline|
+E0365012|Nephramine||
+E0365013|Nalline|nalorphine|
+E0365023|Neptazane|Methazolamide|
+E0365064|Nicorette|Suppressible|
+E0365093|Nipride|Sodium Nitroprusside|
+E0365105|Nivemycin|Neomycin Sulphate|
+E0365127|Norpramin|Desipramine hydrochloride|
+E0365224|Nydrazid|isoniazid|
+E0365277|Ogen|piperazine estrone sulfate|
+E0365583|Ophthetic|proparacaine hydrochloride|
+E0365587|Ora-Testryl|fluoxymesterone|
+E0365615|Orimune|Live Poliovirus Oral Vaccine|
+E0365794|Pamine|methscopolamine bromide|
+E0365814|Panmycin|Tetracycline HCl|
+E0365840|Panwarfin|warfarin sodium|
+E0365914|Paradione|paramethadione|
+E0365944|Parnate|tranylcypromine sulfate|
+E0366012|Peganone|ethotoin|
+E0366040|Pen-Vee|penicillin V|
+E0366043|Penbritin|ampicillin|
+E0366104|Permitil|fluphenazine|
+E0366210|Phenolax|phenolphthalein|
+E0366229|pHisoHex|Hexachlorophene|
+E0366405|Metycaine|piperocaine hydrochloride|
+E0366738|Pondimin|Fenfluramine|
+E0366801|Principen|Ampicillin|
+E0366917|Prulet|laxative|
+E0367097|Quarzan|Clidinium|
+E0367171|Rauzide|rauwolfia serpentina|
+E0367223|Regonol|Pyridostigmine Bromide|
+E0367409|Rimifon|Isoniazid|
+E0367770|Salutensin|Hydroflumethiazide, Reserpine|
+E0367771|Salutensin-Demi|Hydroflumethiazide, Reserpine|
+E0368261|Selsun|Selenium sulfide|
+E0368262|Selsun Blue|Selenieum Sulfide and menthol|
+E0370085|Syntropan|amprotropinephosphate|
+E0370495|Sumycin|tetracycline|
+E0372000|Amias|Candesartan cilexetil|
+E0375291|Aminex|low protein cookie|
+E0377185|Broncho-Grippol DM|dextromethorphan|
+E0400041|Metosyn|fluocinonide|
+E0400049|Efudex|fluorouracil|
+E0400144|Kirondrin|glaucarubin|
+E0400146|Diabeta||
+E0400151|Gliclazide||
+E0400201|Jintan|glycyrrhetinic acid|
+E0400222|Breonesin||
+E0400226|Isobarin||
+E0400350|Superoxol|hydrogen peroxide|
+E0400445|Kerecide|5-iododeoxyuridine|
+E0400538|Exypaque|iohexol|
+E0400545|Niopam|iopamidol|
+E0400548|Jopamidol||
+E0400586|Dyflos|isoflurophate|
+E0400633|Ivomec|ivermectin|
+E0400634|Janimine|imipramine hydrochloride|
+E0400640|Jodopax|acetrizoate sodium|
+E0400642|Justac|1-(4-amino-6,7-dimethoxy-2-quinazolinyl)-4-(2-furanylcarbonyl)-piperazine|
+E0400656|Ketocef|cefuroxime|
+E0400754|Microlut|levonorgestrel|
+E0400757|Norplant||
+E0400771|Kryptocur|luteinizing hormone-releasing hormone|
+E0400814|CeeNU|lomustine|
+E0400817|Ativan||
+E0400859|Postacton||
+E0400947|Bemecor|medigoxin|
+E0400948|Medixin||
+E0400955|Lariam|mefloquine|
+E0401026|Acemethadone||
+E0401032|Aimax||
+E0401053|Quaalude|methaqualone|
+E0401074|Brietal|methohexitone|
+E0401087|Meladinine||
+E0401104|Vofatox||
+E0401163|Trichopol||
+E0401225|Khloditan|1-chloro-2-(2,2-dichloro)-1-(4-chlorophenyl)ethylbenzene|
+E0401365|Netropsin||
+E0401386|Sermion|nicergoline|
+E0401405|Korinfar|nifedipine|
+E0401410|Cordipin|nifedipine|
+E0401417|Lampit|nifurtimox|
+E0402874|combipres||
+E0403276|Marvelon|desogestrel|
+E0403838|equagesic||
+E0404195|frumil||
+E0404247|Fybogel||
+E0404764|Inderide||
+E0405253|Lysol||
+E0405368|Curretab|medroxyprogesterone 17-acetate|
+E0405579|Promin|glucosulfone|
+E0405581|Promizole|thiazolsulfone|
+E0405909|Scintadren|selenomethylnorcholesterol|
+E0406271|Taxol|paclitaxel|
+E0407034|Corwin|xamoterol hemifumarate|
+E0407035|Xamtol|xamoterol hemifumarate|
+E0407099|zomax|zomepirac sodium|
+E0407146|Prozac|fluoxetine hydrochloride|
+E0407147|Durrax||
+E0407193|Kinetor||
+E0407425|Regroton||
+E0407787|Norditropin|somatropin|
+E0409009|Matulane|procarbazine hydrochloride|
+E0409032|Thorotrast||
+E0409046|Zofran|ondansetron hydrochloride|
+E0410024|UMDNS||
+E0410281|Primperan||
+E0410292|Actidil|triprolidine hydrochloride|
+E0410297|Betoptic|betaxolol hydrochloride|
+E0410394|Skelaxin|metaxalone|
+E0410395|batrafen||
+E0410544|accupril|quinapril hydrochloride|
+E0410763|Lescol|fluvastatin sodium|
+E0411625|Nutropin|somatropin|
+E0411931|cumopyran|cyclocumarol|
+E0411932|cumopyrin|cyclocumarol|
+E0412608|Betagan|levobunolol hydrochloride|
+E0412609|Takus||
+E0412610|Cipro|ciprofloxacin hydrochloride|
+E0412613|Cystagon|cysteamine bitartrate|
+E0412614|Bonefos||
+E0412615|Cardil||
+E0412618|Colace||
+E0412620|Revivon||
+E0412621|Dizan||
+E0412627|Polybrene||
+E0412630|Shiomarin|disodium latamoxef|
+E0412633|Actinex|meso-nordihydroguaiaretic acid|
+E0412640|Gramoxone||
+E0412645|Novocainamide|procamide|
+E0412646|Novocamid|procamide|
+E0412647|Tensatrin||
+E0412649|Flumadine|rimantadine hydrochloride|
+E0412651|Robenz|robenidine hydrochloride|
+E0412653|Trapanal|thiopental sodium|
+E0412654|Vasartel||
+E0412658|Peflacine|pefloxacin mesylate|
+E0412778|Uromiron|meglumine iodamide|
+E0412822|azeptin|azelastine hydrochloride|
+E0412851|Vetoron|beta carotene|
+E0412863|olbetam|acipimox|
+E0412974|Zoloft||
+E0412993|Zinnat|cefuroxime axetil|
+E0413045|lamictal|lamotrigine|
+E0413046|lamiktal|lamotrigine|
+E0413363|ReoPro|abciximab|
+E0414005|Saizen|somatropin|
+E0414887|Baymeth|promethazine|
+E0414888|Compal|promethazine|
+E0414889|Mepergan|promethazine|
+E0414890|Anergan|promethazine hydrochloride|
+E0414891|Ganphen|promethazine hydrochloride|
+E0414892|Provigan|promethazine hydrochloride|
+E0414894|Trans-Plantar|salicylic acid|
+E0414895|Trans-Ver-Sal|salicylic acid|
+E0414896|SalAc|salicylic acid|
+E0414900|Hep-Lock|sodium heparin|
+E0414901|Lipo-Hepin|sodium heparin|
+E0414904|Scleromate|sodium morrhuate|
+E0414908|Zanosar|streptozocin|
+E0414909|Fibocide|pentosan polysulfate sodium|
+E0414911|Vehem|teniposide|
+E0414912|Marinol|tetrahydrocannabinol|
+E0414915|Slo-bid|theophylline|
+E0414916|Somophyllin-CRT|theophylline|
+E0414918|LaBID|theophylline|
+E0414919|T-Phyl|theophylline|
+E0414920|Respbid|theophylline|
+E0414921|Theochron|theophylline|
+E0414923|Thibenzole|thiabendazole|
+E0414924|Thioseconal|thiamylal|
+E0414925|STEPA|thiotepa|
+E0414926|Tio-TEF|thiotepa|
+E0414927|Thiofozil|thiotepa|
+E0414928|thioplex|thiotepa|
+E0414929|Thiotef|thiotepa|
+E0414935|Tobex|tobramycin|
+E0414936|Cefamezin|cephazolin sodium|
+E0414938|Vesanoid|tretinoin|
+E0414940|Cotrim|trimethoprim-sulfamethoxazole combination|
+E0414941|Septra|trimethoprim-sulfamethoxazole combination|
+E0414942|Aplisol|tubercidin|
+E0414944|Ureaphil|urea|
+E0414946|Breokinase|urokinase|
+E0414947|Velba|vinblastine sulfate|
+E0414948|Velsar|vinblastine sulfate|
+E0414949|Oncovine|vincristine sulfate|
+E0414950|Vincasar|vincristine sulfate|
+E0414951|A-Vitan|vitamin A|
+E0414952|Alphalin|vitamin A|
+E0414953|Avitrol|vitamin A|
+E0414959|Orbenin D.C.|benzathine cloxacillin|
+E0414961|Solatene|beta carotene|
+E0414967|Alar-85|daminozide|
+E0414968|Mylone|dazomet|
+E0414969|Butox|decamethrin|
+E0414970|K-othrin|decamethrin|
+E0414971|Depo-Medrol|methylprednisolone acetate|
+E0414972|depo-medrone|methylprednisolone acetate|
+E0414975|Karathane|dinocap|
+E0414980|Bovilene|fenprostalene|
+E0414981|fumar|ferrous fumarate|
+E0414985|Ovaban|megestrol acetate|
+E0414992|Infumorph|morphine sulfate|
+E0414993|Roxanol|morphine sulfate|
+E0414994|Cesamet|nabilone|
+E0414999|Ortho-Cept|19-norpregna-1,3,5(10)-trien-20-yne-3,17-diol, (17alpha)-, mixture with (17alpha)-13-ethyl-11-methylene-18,19-dinorpregn-4-en-20-yn-17-ol|
+E0415000|Pre-Pen|penicilloyl polylysine|
+E0415002|Phenurone|phenacemide|
+E0415003|Dynacirc|isradipine|
+E0415004|Lomir|isradipine|
+E0415009|pydrin|fenvalerate|
+E0415011|Triatec|ramipril|
+E0415012|MICRhoGAM|Rho (D) immune globulin|
+E0415015|Risperidal|risperidone|
+E0415017|Salflex|salicylsalicylic acid|
+E0415018|Sarapin||
+E0415019|theo-hexanicit||
+E0415020|Vagistat|tioconazole|
+E0415023|Novaldex|tamoxifen citrate|
+E0415024|Nolvadex|tamoxifen citrate|
+E0415036|A-MethaPred|methylprednisolone sodium succinate|
+E0415039|Bellergal-S||
+E0415040|Harzol|beta-sitosterol|
+E0415046|Campto|irinotecan|
+E0415047|Meclan|meclocycline sulfosalicylate|
+E0415049|Puri-Clens|methylbenzethonium chloride|
+E0415052|AK-Taine|ophthaine|
+E0415053|Alcaine|ophthaine|
+E0415054|Regityn|phentolamine methanesulfonate|
+E0415058|Ansatipine|rifabutin|
+E0415061|Imagent|perflubron|
+E0415062|Pergamid|perfosfamide|
+E0415064|Humatrope|somatropin|
+E0415066|Band-aid||
+E0415069|Q-Tip||
+E0415077|Epivir|lamivudine|
+E0415079|Leucomax||
+E0415081|Antrypol|suramin sodium|
+E0415082|Moranyl|suramin sodium|
+E0415083|Naganine|suramin sodium|
+E0415086|Crixivan|indinavir sulfate|
+E0415088|Methadose|methadone hydrochloride|
+E0415093|Laudicon|hydromorphone hydrochloride|
+E0415094|Ergamisole|levamisole hydrochloride|
+E0415096|Ketrax|levamisole hydrochloride|
+E0415097|Tramisol|levamisole hydrochloride|
+E0415098|Trimisol|levamisole hydrochloride|
+E0415101|Naphcon|naphazoline hydrochloride|
+E0415105|AK-Sulf|sulfacetamide sodium|
+E0415107|Idamycin|idarubicin hydrochloride|
+E0415109|Invirase|saquinavir mesylate|
+E0415111|Norvir|ritonavir|
+E0415114|Dimetan||
+E0415118|Aquathol|disodium salt of endothall|
+E0415122|Bryonin|bryonidin|
+E0415140|AK-Con||
+E0415141|AK-Con-A||
+E0415149|AK-Pentolate||
+E0415151|AK-Pred||
+E0415173|Actibine||
+E0415195|Adsorbotear||
+E0415206|Agarol||
+E0415211|Albuminar-25||
+E0415212|Albuminar-5||
+E0415248|Amen||
+E0415253|Amesec||
+E0415255|Amino-Cerv||
+E0415284|Anticon||
+E0415286|Antivert||
+E0415290|Apresazide||
+E0415302|Arco-Lase||
+E0415361|Balnetar||
+E0415445|Bronkolixir||
+E0415473|Calphosan||
+E0415493|Carnitor||
+E0415531|Charcoaid||
+E0415565|Cibacalcin||
+E0415566|Cibalith-S||
+E0415571|Citrucel||
+E0415581|CoAdvil||
+E0415627|Corticaine||
+E0415628|Cortifoam||
+E0415654|Cyclomydril||
+E0415659|Cystospaz||
+E0415660|Cystospaz-M||
+E0415678|Darvon-N||
+E0415762|EMLA|eutectic lidocaine-prilocaine|
+E0415765|Charcocap||
+E0415766|Cholybar||
+E0415767|Donnagel||
+E0415768|Drisdol||
+E0415769|Dritho-Scalp||
+E0415770|Drithocreme||
+E0415771|Drysol||
+E0415772|DuoCet||
+E0415773|Duoplant||
+E0415774|Eldepryl||
+E0415775|Eldercap||
+E0415776|Eldertonic||
+E0415777|Emetrol||
+E0415778|Emulsoil||
+E0415779|Enuclene||
+E0415780|Ergostat||
+E0415781|Estrovis||
+E0415782|Euthroid||
+E0415783|Factrel||
+E0415784|Fero-Folic-500||
+E0415785|Ferro-Sequel||
+E0415786|Fibrad||
+E0415787|Fluor-I-Strip||
+E0415788|Fluoracaine||
+E0415789|Forane||
+E0415790|Gammar||
+E0415791|Gammar-IV||
+E0415792|Glaucon||
+E0415793|Glutose||
+E0415794|Hep-B-Gammagee||
+E0415795|Iberet||
+E0415796|Iberet-Folic-500||
+E0415797|Iberet-Liquid||
+E0415798|Insta-Glucose||
+E0415799|K-Dur|potassium chloride|
+E0415800|Klotrix||
+E0415801|Kyolic||
+E0415802|Legatrin||
+E0415803|Levatol||
+E0415804|Mega-B||
+E0415805|Monistat-Derm||
+E0415806|Mumpsvax||
+E0415807|Myadec||
+E0417630|orthopantomograph||
+E0419849|Bjork-Shiley convexo-concave valve||
+E0421198|Ronidazol|ronidazole|
+E0421200|Hydromorphon|hydromorphone|
+E0421702|Diasone|sulfoxone sodium|
+E0421719|Quinosol|8-hydroxyquinoline sulfate|
+E0421720|Chinosol|8-hydroxyquinoline sulfate|
+E0421721|Khinozol|8-hydroxyquinoline sulfate|
+E0421864|Tizertsin|methotrimeprazine|
+E0421865|Tizercine|methotrimeprazine|
+E0424656|Chromosorb P|kieselguhr|
+E0426112|Clozaril|clozapine|
+E0426113|Leponex|clozapine|
+E0426213|Dynapen|dicloxacillin sodium|
+E0429524|Betafectin|PGG-glycan|
+E0429525|bicillin|penicillin G benzathine|
+E0429647|Acarosan|benzyl benzoate|
+E0435688|Linotype||
+E0435997|Monotype||
+E0437171|Saluron||
+E0438443|Albuminar|human albumin|
+E0438603|betalin||
+E0439528|Robinul|glycopyrrolate|
+E0440306|Attenuvax||
+E0442784|Pentostam|sodium stibogluconate|
+E0444997|Shur Clens||
+E0444998|Derma-Clens||
+E0444999|Oti-Clens||
+E0445000|Sea-Clens||
+E0445001|Supra-Clens||
+E0449646|Perdix|moexipril hydrochloride|
+E0450785|V-Cillin-K|penicillin VK|
+E0450786|Agri-Cillin||
+E0456693|ionone||
+E0456965|Lacri-Lube||
+E0456966|Xero-Lube||
+E0456967|Aqua Lube||
+E0457011|Lute-It||
+E0457367|Non-Ovlon|ethinyloestradiol/norethisterone-actate|
+E0458120|Plasma-Lyte||
+E0459695|Levo-Dromoran|levorphanol tartrate|
+E0459696|Dromoran|levorphanol|
+E0477542|Adria|doxorubicin|
+E0482116|Online Mendelian Inheritance in Man||
+E0482117|OMIM||
+E0484825|Cervex-Brush||
+E0484831|Gamma-Venin|gammaglobulin|
+E0500014|Tri-Regol|Hormone-Triphasic contraceptive|
+E0500081|d-ROMs test||
+E0500198|Linco-Spectin|lincomycin hydrochloride-spectinomycin|
+E0500465|Ful-Fil|dental composite|
+E0500550|Diantalvic|dextropropoxyphene and paracetamol|
+E0500646|LOINC|database|
+E0500658|Advantage-S||
+E0500660|ACTA scanner||
+E0500753|Bio-Oss|bone graft material|
+E0500820|ER-ICA||
+E0501232|Volumatic|spacer|
+E0501355|Spectranetics||
+E0501357|Cyberonics||
+E0501362|Cardiometrics||
+E0501373|Flexical||
+E0501382|Intersurgical||
+E0501587|Kevlar||
+E0501900|Photac-Fil|resin-modified glass-ionomer restorative material|
+E0501901|Photac-Bond|resin-modified cement|
+E0501931|Definity|perflutren lipid microspheres|
+E0501934|Curity||
+E0501943|LaparoSonic Coagulating Shears||
+E0501996|LoFric|hydrophilic coated catheter|
+E0501997|LoFric catheter||
+E0502117|NeuroCybernetic Prosthesis||
+E0502422|Geomedic||
+E0502423|Geomedic prosthesis||
+E0502435|Matrex||
+E0502482|Compoglass|polyacidmodified composite resin|
+E0502483|Dyract|polyacidmodified composite resin|
+E0502546|Antagonic-Stress||
+E0502668|Zyloric|allopurinol|
+E0502680|Biosense||
+E0502791|Estring||
+E0502816|DenTASTIC||
+E0502925|Lojic||
+E0502983|Seralyzer||
+E0503036|Duragesic|transdermal fentanyl|
+E0503111|Herculite|dental composite and laminated & coated textile|
+E0503155|Norgesic|paracetamol and orphenadrine|
+E0503156|Norgesic Forte|orphenadrine citrate, aspirin, and caffeine|
+E0503254|SYMLIN|pramlintide acetate|
+E0503261|Rubidazone||
+E0503268|Dysport|Clostridium botulinum type - A neurotoxin complex|
+E0503356|Botox|botulinum toxin type A|
+E0503751|Broncho-Vaxom|oral vaccine composed of lysates from eight pneumotropic bacteria|
+E0503752|Uro-Vaxom|lyophilized bacterial lysates of Escherichia coli|
+E0503927|Pulmosonic||
+E0503945|Sumamed|Azithromycin|
+E0503948|Scimed||
+E0503950|Reptimed||
+E0504056|Fortagesic|pentazocine and acetaminophen|
+E0504174|Falope-Ring||
+E0504280|Coomassie blue||
+E0504281|Coomassie brilliant blue||
+E0504282|Coomassie||
+E0504419|Deoxo-Fluor||
+E0504501|Pulmicort Turbuhaler|metered-dose budesonide inhaler|
+E0504523|Minitek||
+E0504615|Diskus|fluticasone propionate and salmeterol|
+E0504616|Advair Diskus|fluticasone propionate and salmeterol inhalation powder|
+E0504617|Serevent Diskus|salmeterol inhaler|
+E0504637|Implanon|etonogestrel|
+E0504664|Symbicort Turbuhaler|budesonide and formoterol|
+E0504665|Oxis Turbuhaler|eformoterol fumarate dihydrate|
+E0504666|Turbuhaler||
+E0504680|Eudragit|methylmethacrylate-methacrylic acid copolymer|
+E0504750|Ultrogel|hydroxyapatite chromatography sorbent|
+E0504974|Dianeal||
+E0505086|Nebuhaler|spacer device|
+E0505105|Ortho Novum|birth control|
+E0505106|Cetiprin Novum|emepronium|
+E0505340|Clearfil||
+E0505361|Epoxybond|epoxy adhesive putty in stick form|
+E0505391|Nexium|esomeprazole magnesium|
+E0505403|Clinac||
+E0505404|Clinac BPO|benzoyl peroxide|
+E0505455|Amplatzer||
+E0505459|Amplatzer septal occluder||
+E0505460|Amplatzer PFO occluder||
+E0505461|Amplatzer duct occluder||
+E0505462|Amplatzer muscular ventricular septal occluder||
+E0505476|Fractogel||
+E0505710|Tetric Ceram||
+E0505711|Hi Ceram||
+E0505712|Vita Hi Ceram||
+E0505713|In-Ceram||
+E0505714|Oral Ceram-Etch||
+E0505715|Will-Ceram porcelain||
+E0505716|Will-Ceram||
+E0505727|Panavia EX||
+E0505728|Panavia TC||
+E0505729|Panavia 21||
+E0505730|Panavia TPN-S||
+E0505731|Panavia Opaque||
+E0505732|Panavia-Fluoro||
+E0506032|Zimmer bone cement||
+E0506045|Celsior||
+E0506069|Axert|almotriptan malate|
+E0506138|Multiload||
+E0506219|Colgate||
+E0506225|MaxEPA||
+E0506267|Lee Silverman Voice Treatment||
+E0506316|MicroScan||
+E0506342|Spherisorb||
+E0506422|Kathon 886|isothiazolinone mix|
+E0506423|Kathon|isothiazolinone mix|
+E0506424|Kathon 893||
+E0506425|Kathon WT||
+E0506442|Hemopump||
+E0506790|Phadiatop||
+E0506912|Syntac||
+E0507037|OpSite||
+E0507113|MS Contin|controlled-release morphine sulfate|
+E0507415|Progestasert|progesterone-containing IUD|
+E0507474|Lipofundin||
+E0507475|Lipofundin S||
+E0507476|Lipofundin MCT||
+E0507477|Lipofundin MCT/LCT||
+E0507498|Alimta|pemetrexed|
+E0507520|Synovex-S||
+E0507521|Synovex C||
+E0507522|Synovex H||
+E0507523|Synovex||
+E0507737|AlloDerm|acellular dermis|
+E0508076|Rotahaler|dry powder inhaler|
+E0508289|Pycnogenol|extract of Pinus pinaster bark|
+E0508438|Turbohaler|dry powder inhaler|
+E0508465|Technicon||
+E0508467|Centaur||
+E0508473|Excluder||
+E0508562|Gravigard|copper intrauterine contraceptive device|
+E0508622|Calcofluor||
+E0508797|Hologic||
+E0508888|Groshong catheter||
+E0508889|Groshong||
+E0508910|Sensititre||
+E0509033|Ultroser G|serum substitute|
+E0509034|Ultroser SF|serum substitute|
+E0509035|Ultroser HY|serum substitute|
+E0509036|Ultroser|serum substitute|
+E0509052|Adcon||
+E0509154|Hemashield graft||
+E0509155|Hemashield||
+E0509186|Seprafilm||
+E0509332|Fortical||
+E0509349|Optimoist||
+E0509370|Gerovital|procaine|
+E0509496|Acrawax|N,N-ethylenebisstearamide|
+E0509503|Adenoscan|adenosine injection|
+E0509606|Sonoclot||
+E0509607|Sonoclot analyzer|coagulation and platelet function analyzer|
+E0509712|Oncophage||
+E0509843|Maximizer||
+E0509881|Atragen|liposomal tretinoin|
+E0509889|Spasmex|trospium chloride|
+E0509916|Berocca||
+E0510203|Micral test strip||
+E0510204|Micral-Test||
+E0510225|Albustix||
+E0510241|Millipore||
+E0510513|Cerebyx|fosphenytoin sodium injection|
+E0510650|Euphyllin Retard|sustained-release theophylline|
+E0510826|Ultraflex stent||
+E0510828|Ultraflex||
+E0510862|MESAM||
+E0511042|Conjunctisan A||
+E0511043|Conjunctisan B||
+E0511044|Condyline|podophyllotoxin|
+E0511045|ColoSHIELD||
+E0511080|Crestor|Rosuvastatin|
+E0511137|SOS chromotest||
+E0511157|Relaxograph||
+E0511243|DentinBloc||
+E0511392|Endotak||
+E0511427|NovoSeven|recombinant coagulation Factor VIIa|
+E0511496|Dianette|ethinyl estradiol|
+E0511531|Panoral|cefaclor|
+E0511554|Nitrolingual|nitroglycerin spray|
+E0511604|Caelyx|doxorubicin|
+E0511785|Cereport|labradimil|
+E0511786|Sorin Bicarbon prosthesis||
+E0511788|Bicarbon||
+E0511947|Dualmesh|Biomaterial|
+E0511989|SpaceLab||
+E0512048|Evorel||
+E0512092|Esclim||
+E0512191|Chiralpak||
+E0512193|Chiralpak AS|amylose methylbenzylcarbamate|
+E0512194|Chiralpak AD|amylose tris(3,5-dimethylphenylcarbamate)|
+E0512245|Flovent|fluticasone propionate|
+E0512372|Glandosane|saliva substitute containing carboxymethylcellulose|
+E0512541|Hemopure|hemoglobin glutamer - 250 (bovine)|
+E0512605|NovoPen|insulin injection device|
+E0512625|Clophen|polychlorinated biphenyl|
+E0512718|HydroDerm||
+E0512780|Thera-Flur|sodium fluoride gel|
+E0512782|Thera-Gesic||
+E0512783|Thera Hematinic||
+E0512784|Thera-M|multivitamin|
+E0512785|Thera-Flur-N|sodium fluoride gel|
+E0512786|Thera-Plus|multivitamin|
+E0512787|Thera||
+E0512788|Thera-Band tubing||
+E0512816|Molloplast-B||
+E0512833|HemoQuant test||
+E0512834|HemoQuant||
+E0512897|Gianturco-Roubin stent||
+E0513055|Crino-Kaban||
+E0513118|Emdogain||
+E0513133|Autohaler|inhalation device|
+E0513299|Levafix||
+E0513325|Lotrisone|clotrimazole and betamethasone dipropionate|
+E0513429|Myocrisin|sodium aurothiomalate|
+E0513877|Mysteclin|tetracycline|
+E0513903|ADSOL|adenine, dextrose, sorbitol, sodium chloride and mannitol|
+E0513916|RiboPrint||
+E0514009|Nerisone|diflucortolone valerate|
+E0514036|Nordiject|growth hormone|
+E0514038|Norprolac|quinagolide|
+E0514088|Novamyl||
+E0514186|Oculotect||
+E0514267|OvaRex||
+E0514268|Ovide|malathion|
+E0514379|Pedvax HIB||
+E0514392|Peptisorb|nutritional supplement|
+E0514396|Pharmaton||
+E0514397|Pharmavit||
+E0514427|Pilogel|Pilocarpine hydrochloride|
+E0514474|Polyplasdone||
+E0514540|Provenge||
+E0514633|AngioJet||
+E0514637|Ultrasphere||
+E0514664|Memotherm||
+E0514665|Memotherm stent||
+E0514709|Quinaglute||
+E0514809|Guidant||
+E0514905|Valtrac ring|biofragmentable anastomosis ring|
+E0514906|Valtrac||
+E0515086|Mesigyna||
+E0515107|TSKgel||
+E0515113|Plastipore||
+E0515214|SonoVue|sulphur hexafluoride|
+E0515741|Seitz filter||
+E0515798|Ribbond||
+E0515807|Strongid C||
+E0515822|Carisolv||
+E0515907|Topamax|topiramate|
+E0515914|Tinosorb S|HydroxyPhenylTriazine|
+E0516046|Vacutex|advanced wound dressings|
+E0516048|Uvinul|plastic additive|
+E0516067|Vagifem|local oestrogen therapy|
+E0516081|Viracea||
+E0516082|Virend||
+E0516084|Viscotears|sterile eye drops for dry eyes|
+E0516147|Vitrogen|pepsin-solubilized bovine dermal collagen|
+E0516148|Synercid|quinupristin and dalfopristin|
+E0516153|Remazol brilliant blue R||
+E0516154|Remazol black B||
+E0516155|Remazol brilliant violet||
+E0516156|Remazol blue||
+E0516157|Remazol yellow||
+E0516158|Remazol red||
+E0516159|Remazol||
+E0516174|Mammotome||
+E0516178|Gelucire||
+E0516195|AneuRx stent-graft||
+E0516197|AneuRx||
+E0516226|Zyprexa Zydis|olanzapine|
+E0516230|Zydis||
+E0516253|Accelar 20||
+E0516256|Accupro|quinapril|
+E0516325|Aggrenox||
+E0516328|Allervax||
+E0516346|Panorex|edrecolomab|
+E0516360|Interpore|hydroxyapatite|
+E0516379|Ancotil|Flucytosine (Systemic)|
+E0516380|Angio-seal|vascular closure device|
+E0516479|Variglass VLC||
+E0516480|Variglass||
+E0516495|Tanderil|oxyphenbutazone|
+E0516510|ProPac||
+E0516536|Metabond||
+E0516623|Vitadur Alpha||
+E0516624|Vitadur N||
+E0516635|Atrisorb||
+E0516638|Avandia|rosiglitazone maleate|
+E0516647|Azopt|brinzolamide hydrochloride|
+E0516683|Bifluorid 12||
+E0516684|Blairex|pharmaceutical company|
+E0516720|Humalog|insulin lispro|
+E0516996|Ceporex|cefalexin|

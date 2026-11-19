@@ -1,0 +1,345 @@
+  Identification_Information: 
+    Citation: 
+      Citation_Information: 
+        Originator: U.S. Department of Transportation, Pipeline and Hazardous 
+        Materials Safety Administration (PHMSA) 
+        Publication_Date: 200101 
+        Title: 
+        Ecological Unusually Sensitive Areas in Arkansas: ar_eco1 
+        Edition: First 
+        Geospatial_Data_Presentation_Form: vector digital data 
+        Series_Information: 
+          Series_Name: None 
+          Issue_Identification: Ecological USAs for Arkansas 
+        Publication_Information: 
+          Publication_Place: Washington, D.C. 
+          Publisher: U.S. Department of Transportation, Pipeline and Hazardous 
+          Materials Safety Administration (PHMSA) 
+        Larger_Work_Citation: 
+          Citation_Information: 
+            Other_Citation_Details: 
+            Prepared by Research Planning, Inc. Columbia, South Carolina for the 
+            U.S. Department of Transportation, Pipeline and Hazardous Materials 
+            Safety Administration (PHMSA) 
+    Description: 
+      Abstract: 
+This dataset comprises Unusually Sensitive Areas (USAs) data for ecological resources in the state of Arkansas. In accordance with pipeline safety laws (49 U.S.C. Section 60109), PHMSA is required to identify areas unusually sensitive to environmental damage in the event of a hazardous liquid pipeline accident. Through interactions with various regulatory agencies, pipeline operators, private contractors, non-profit conservation organizations, and the general public, a process has been developed and adopted by PHMSA to identify USAs for ecological resources. The process consists of identifying a set of candidate ecological resources using approved data sources, and subjecting candidates to a set of filter criteria to determine USAs. The identification of USAs is conducted using standardized data processing steps and an automated GIS model. The resultant USA data are applicable to current and future regulatory requirements as specified by PHMSA, including but not limited to pipeline integrity management and spill response planning. For additional information concerning ecological USAs, please refer to the documents listed in the Cross Reference Section of this report.Purpose: 
+Pipeline operators conducting risk assessments can use ecological USAs, in conjunction with their pipeline information and other data, to identify areas that may suffer long-term and permanent environmental/resource damage in the event of a hazardous liquid pipeline accident. Users of these data are encouraged to read carefully the technical reports cited in the Cross Reference section to understand the limitations of the ecological USA data.Time_Period_of_Content: 
+      Time_Period_Information: 
+        Single_Date/Time: 
+          Calendar_Date: 200101 
+      Currentness_Reference: 
+publication dateStatus: 
+      Progress: Complete 
+      Maintenance_and_Update_Frequency: As required 
+    Spatial_Domain: 
+      Bounding_Coordinates: 
+        West_Bounding_Coordinate: -102.034237 
+        East_Bounding_Coordinate: -94.513525 
+        North_Bounding_Coordinate: 40.067974 
+        South_Bounding_Coordinate: 36.923849 
+    Keywords: 
+      Theme: 
+        Theme_Keyword_Thesaurus: None 
+        Theme_Keyword: Unusually Sensitive Areas 
+        Theme_Keyword: Pipeline Safety 
+        Theme_Keyword: Oil Spill Planning 
+        Theme_Keyword: Ecological resources 
+        Theme_Keyword: Endangered species 
+        Theme_Keyword: Imperiled species 
+      Place: 
+        Place_Keyword_Thesaurus: None 
+        Place_Keyword: Arkansas 
+    Access_Constraints: A formal request must be made to the U. S. Department of 
+    Transportation, Pipeline and Hazardous Materials Safety Administration to 
+    obtain access to this data layer. For more information, the National 
+    Pipeline Mapping System website can be accessed at 
+    <http://www.npms.phmsa.dot.gov>. 
+    Use_Constraints: 
+Use constraints will be supplied by the U. S. Department of Transportation, Pipeline and Hazardous Materials Safety Administration upon receipt of data requests.Point_of_Contact: 
+      Contact_Information: 
+        Contact_Person_Primary: 
+          Contact_Person: GIS Manager 
+          Contact_Organization: Pipeline and Hazardous Materials Safety 
+          Administration 
+        Contact_Position: Contracting Officer Technical Representative 
+        Contact_Address: 
+          Address_Type: physical address 
+          Address: 
+1200 New Jersey Avenue SECity: Washington 
+          State_or_Province: DC 
+          Postal_Code: 20590 
+          Country: USA 
+        Contact_Voice_Telephone: 202.493.0591 
+        Contact_Facsimile_Telephone: 202.493.2311 
+        Contact_Electronic_Mail_Address: npms-nr@mbakercorp.com 
+    Browse_Graphic: 
+      Browse_Graphic_File_Name: ARecousa.jpg 
+      Browse_Graphic_File_Description: 
+      Map of USAs for ecological resources in Arkansas 
+      Browse_Graphic_File_Type: JPEG 
+    Data_Set_Credit: 
+This project was conducted by the U. S. Department of Transportation, Pipeline and Hazardous Materials Safety Administration. Raw data and information contributing to the development of ecological USAs were provided by the Association for Biodiversity Information (now NatureServe), The Nature Conservancy, the International Network of Natural Heritage Programs, individual state Natural Heritage Programs, the National Oceanographic and Atmospheric Administration, the U.S. Fish and Wildlife Service Office of International Affairs (for Ramsar sites), the Manomet Center for Conservation Sciences, and others (refer to the lineage section for details). The automated GIS model used to generate ecological USAs was written by McCulley, Frick, and Gilman, Inc. and Morrison Knudsen Corporation, with updates by Research Planning, Inc. (RPI). RPI was primarily responsible for processing the raw data, conducting and verifying model runs, and preparing the final datasets and metadata for delivery to PHMSA.Native_Data_Set_Environment: 
+    Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI 
+    ArcCatalog 9.1.0.722 
+    Cross_Reference: 
+      Citation_Information: 
+        Originator: U. S. Department of Transportation, Pipeline and Hazardous 
+        Materials Safety Administration 
+        Publication_Date: 200101 
+        Title: 
+        Unusually Sensitive Areas for Ecological Resources: General Report, 
+        Appendix II, Ecological USAs for Arkansas 
+        Geospatial_Data_Presentation_Form: document 
+        Publication_Information: 
+          Publication_Place: Washington, D.C. 
+          Publisher: U. S. Department of Transportation, Pipeline and Hazardous 
+          Materials Safety Administration 
+        Other_Citation_Details: 
+        Prepared by Research Planning, Inc., Columbia, South Carolina for the U. 
+        S. Department of Transportation, Pipeline and Hazardous Materials Safety 
+        Administration 
+        Larger_Work_Citation: 
+          Citation_Information: 
+            Other_Citation_Details: 
+            Prepared by Research Planning, Inc., Columbia, South Carolina for 
+            the U.S. Department of Transportation, Pipeline and Hazardous 
+            Materials Safety Administration. 
+    Cross_Reference: 
+      Citation_Information: 
+        Originator: U. S. Department of Transportation, Pipeline and Hazardous 
+        Materials Safety Administration 
+        Publication_Date: 200203 
+        Title: 
+        Unusually Sensitive Areas for Ecological Resources: General Report 
+        Geospatial_Data_Presentation_Form: document 
+        Publication_Information: 
+          Publication_Place: Washington, D.C. 
+          Publisher: U. S. Department of Transportation, Pipeline and Hazardous 
+          Materials Safety Administration 
+        Other_Citation_Details: 
+        Prepared by Research Planning, Inc., Columbia, South Carolina for the 
+        U.S. Department of Transportation, Research and Special Programs 
+        Administration, Pipeline and Hazardous Materials Safety Administration. 
+    Cross_Reference: 
+      Citation_Information: 
+        Originator: U. S. Department of Transportation, Pipeline and Hazardous 
+        Materials Safety Administration 
+        Publication_Date: 200207 
+        Title: 
+        Unusually Sensitive Areas for Ecological Resources: GIS Methodology 
+        Report 
+        Geospatial_Data_Presentation_Form: document 
+        Publication_Information: 
+          Publication_Place: Washington, D.C. 
+          Publisher: U. S. Department of Transportation, Pipeline and Hazardous 
+          Materials Safety Administration 
+        Other_Citation_Details: 
+        Prepared by Research Planning, Inc., Columbia, South Carolina for the U. 
+        S. Department of Transportation, Pipeline and Hazardous Materials Safety 
+        Administration 
+    Cross_Reference: 
+      Citation_Information: 
+        Originator: U. S. Department of Transportation, Pipeline and Hazardous 
+        Materials Safety Administration 
+        Publication_Date: 200012 
+        Title: 
+        49 CFR Part 195, Pipeline Safety: Areas Unusually Sensitive to 
+        Environmental Damage; Final Rule 
+        Geospatial_Data_Presentation_Form: document 
+        Publication_Information: 
+          Publication_Place: Washington, D.C. 
+          Publisher: National Archives and Records Administration 
+        Other_Citation_Details: 
+        Federal Register, Vol. 65, No. 246, Pages 80530-80546, December 21, 2000 
+  Data_Quality_Information: 
+    Attribute_Accuracy: 
+      Attribute_Accuracy_Report: 
+A multi-stage error checking process is used to verify both attribute accuracy and logical consistency throughout data production. The process includes a standardized data entry methodology, on-screen data review by in-house experts, a final Quality Assurance/Quality Control (QA/QC) process, and multiple automated and manual logical consistency checks. For a more detailed evaluation of source data attribute accuracy, contact the sources listed in the Lineage section.Logical_Consistency_Report: 
+A multi-stage error checking process, described in the above Attribute_Accuracy_Report, is used to verify both attribute accuracy and logical consistency throughout data production. This process includes multiple automated and manual logical consistency checks that test the files for missing or duplicate data, rules for proper coding, and GIS topological consistencies.Completeness_Report: 
+These data represent a synthesis of available digital data and hardcopy reports and maps. For additional information refer to the reports listed in the Cross Reference section above.Positional_Accuracy: 
+      Horizontal_Positional_Accuracy: 
+        Horizontal_Positional_Accuracy_Report: 
+The Ecological USA dataset was developed from pre-existing digital sources and reflects the positional accuracy of these original data. See the Lineage and Process_Description sections for more information on the original source data and how these data were integrated or manipulated to create the final dataset.Lineage: 
+      Source_Information: 
+        Source_Citation: 
+          Citation_Information: 
+            Originator: U.S. Department of Transportation, Research and Special 
+            Programs Administration, Pipeline and Hazardous Materials Safety 
+            Administration (PHMSA) 
+            Publication_Date: 200109 
+            Title: 
+            Ecological Unusually Sensitive Areas in Arkansas: arecousa 
+            Series_Information: 
+              Series_Name: First 
+              Issue_Identification: Ecological USAs for Arkansas 
+            Publication_Information: 
+              Publication_Place: Washington, D.C. 
+              Publisher: U.S. Department of Transportation, Research and Special 
+              Programs Administration, Pipeline and Hazardous Materials Safety 
+              Administration (PHMSA) 
+            Other_Citation_Details: 
+            Prepared by Research Planning, Inc. Columbia, South Carolina for the 
+            U.S. Department of Transportation, Research and Special Programs 
+            Administration, Pipeline and Hazardous Materials Safety 
+            Administration (PHMSA 
+      Process_Step: 
+        Process_Description: 
+The process of developing the ecological USA dataset consisted of several steps: preparing the raw data for model entry; identifying records meeting data quality criteria; identifying records meeting USA candidate criteria; applying USA filter criteria; generating USA boundaries; final USA QA/QC; and preparing the files for delivery to PHMSA. These steps are described in more detail in the general and GIS methodology reports listed in the cross-reference section. Specific or unique processing steps for individual states are outlined in the state appendices, also cited in the cross-reference section.Process_Date: 200101 
+        Process_Contact: 
+          Contact_Information: 
+            Contact_Person_Primary: 
+              Contact_Person: Scott Zengel 
+              Contact_Organization: Research Planning, Inc. 
+            Contact_Position: Senior Ecologist 
+            Contact_Address: 
+              Address_Type: physical address 
+              Address: 
+1121 Park St.City: Columbia 
+              State_or_Province: SC 
+              Postal_Code: 29201 
+              Country: USA 
+            Contact_Voice_Telephone: 803.256.7322 
+            Contact_Facsimile_Telephone: 803.254.6445 
+            Contact_Electronic_Mail_Address: szengel@researchplanning.com 
+      Process_Step: 
+        Process_Description: 
+Metadata imported.Source_Used_Citation_Abbreviation: 
+        C:\DOCUME~1\rhinton\LOCALS~1\Temp\xml23.tmp 
+  Spatial_Data_Organization_Information: 
+    Direct_Spatial_Reference_Method: Vector 
+    Point_and_Vector_Object_Information: 
+      SDTS_Terms_Description: 
+        SDTS_Point_and_Vector_Object_Type: G-polygon 
+        Point_and_Vector_Object_Count: 1193 
+      SDTS_Terms_Description: 
+        SDTS_Point_and_Vector_Object_Type: Label point 
+        Point_and_Vector_Object_Count: 6980 
+      SDTS_Terms_Description: 
+        SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains 
+        Point_and_Vector_Object_Count: 6980 
+      SDTS_Terms_Description: 
+        SDTS_Point_and_Vector_Object_Type: Point 
+        Point_and_Vector_Object_Count: 176 
+  Spatial_Reference_Information: 
+    Horizontal_Coordinate_System_Definition: 
+      Geographic: 
+        Latitude_Resolution: 0.000000 
+        Longitude_Resolution: 0.000000 
+        Geographic_Coordinate_Units: Decimal degrees 
+      Geodetic_Model: 
+        Horizontal_Datum_Name: North American Datum of 1983 
+        Ellipsoid_Name: Geodetic Reference System 80 
+        Semi-major_Axis: 6378137.000000 
+        Denominator_of_Flattening_Ratio: 298.257222 
+  Entity_and_Attribute_Information: 
+    Detailed_Description: 
+      Entity_Type: 
+        Entity_Type_Label: ar_eco1 
+        Entity_Type_Definition: 
+        The spatial data layer ecousa contains complex polygons representing 
+        Final Ecological USAs. 
+        Entity_Type_Definition_Source: 
+        U. S. Department of Transportation, Pipeline and Hazardous Materials 
+        Safety Administration 
+      Attribute: 
+        Attribute_Label: FID 
+        Attribute_Definition: 
+Internal feature number.Attribute_Definition_Source: 
+ESRIAttribute_Domain_Values: 
+          Unrepresentable_Domain: 
+          Sequential unique whole numbers that are automatically generated. 
+      Attribute: 
+        Attribute_Label: Shape 
+        Attribute_Definition: 
+Feature geometry.Attribute_Definition_Source: 
+ESRIAttribute_Domain_Values: 
+          Unrepresentable_Domain: 
+          Coordinates defining the features. 
+      Attribute: 
+        Attribute_Label: AREA 
+        Attribute_Definition: 
+Area of feature in internal units squared.Attribute_Definition_Source: 
+ESRIAttribute_Domain_Values: 
+          Unrepresentable_Domain: 
+          Positive real numbers that are automatically generated. 
+      Attribute: 
+        Attribute_Label: PERIMETER 
+        Attribute_Definition: 
+Perimeter of feature in internal units.Attribute_Definition_Source: 
+ESRIAttribute_Domain_Values: 
+          Unrepresentable_Domain: 
+          Positive real numbers that are automatically generated. 
+      Attribute: 
+        Attribute_Label: USA_ 
+      Attribute: 
+        Attribute_Label: USA_ID 
+      Attribute: 
+        Attribute_Label: ECOUNIQUE_ 
+      Attribute: 
+        Attribute_Label: TYPE 
+      Attribute: 
+        Attribute_Label: SOURCE 
+      Attribute: 
+        Attribute_Label: ORGANIZATI 
+      Attribute: 
+        Attribute_Label: URL 
+    Overview_Description: 
+      Entity_and_Attribute_Overview: 
+TYPE= type of USA
+SOURCE=Acronym describing the source files from which individual USAs were derived. The accompanying text file 'ecosource.txt' provides additional information related to SOURCE, including the source agency or organization and their Internet address. In general, contact information for state Natural Heritage Program sources can be obtained from <http://www.natureserve.org/nhp/us_programs.htm>. In addition, NatureServe's Network Division, <http://www.natureserve.org/natureservestaff.htm> or phone: 703-908-1800, can be contacted for assistance.
+  Distribution_Information: 
+    Distributor: 
+      Contact_Information: 
+        Contact_Person_Primary: 
+          Contact_Person: GIS Manager 
+          Contact_Organization: US DOT PHMSA 
+        Contact_Position: GIS Manager 
+        Contact_Address: 
+          Address_Type: physical address 
+          Address: 
+1200 New Jersey Ave SECity: Washington 
+          State_or_Province: DC 
+          Postal_Code: 20590 
+          Country: USA 
+        Contact_Voice_Telephone: 202.493.0591 
+        Contact_Electronic_Mail_Address: npms-nr@mbakercorp.com 
+    Resource_Description: Ecological USAs 
+    Distribution_Liability: 
+Any and all data/information from the Pipeline and Hazardous Materials Safety Administration's National Pipeline Mapping System must be treated as DOT proprietary information. Parties using this information must: restrict disclosure of and access to this data/information to persons with official state and local government responsibility; refrain from redistributing the data/information; and refer requests by other persons for such information to the Associate Administrator for Pipeline Safety. Users must also maintain a list of those persons that have been provided access to this information. This information is provided with the understanding that it is not guaranteed to be correct or complete and conclusions drawn from such information are the responsibility of the user.Standard_Order_Process: 
+      Digital_Form: 
+        Digital_Transfer_Information: 
+          Transfer_Size: 0.024 
+    Custom_Order_Process: 
+To request USA data, please e-mail the following information to npms-nr@mbakercorp.com: First Name; Last Name; Middle Initial; Title; Pipeline Operator Name; PHMSA Operator ID; Street Address; City; State; ZIP Code; Phone; Fax; Email; Type of USA Requested (Ecological or Drinking Water); State(s) Requested.Available_Time_Period: 
+      Time_Period_Information: 
+        Single_Date/Time: 
+          Calendar_Date: 200101 
+  Metadata_Reference_Information: 
+    Metadata_Date: 20080116 
+    Metadata_Contact: 
+      Contact_Information: 
+        Contact_Organization_Primary: 
+          Contact_Organization: Research Planning, Inc. 
+          Contact_Person: Mark White 
+        Contact_Position: GIS Manager 
+        Contact_Address: 
+          Address_Type: physical address 
+          Address: 
+1121 Park StreetCity: Columbia 
+          State_or_Province: SC 
+          Postal_Code: 29201 
+          Country: USA 
+        Contact_Voice_Telephone: 803.256.7322 
+        Contact_Facsimile_Telephone: 803.254.6445 
+        Contact_Electronic_Mail_Address: mwhite@researchplanning.com 
+    Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial 
+    Metadata 
+    Metadata_Standard_Version: FGDC-STD-001-1998 
+    Metadata_Time_Convention: local time 
+    Metadata_Extensions: 
+      Online_Linkage: http://www.esri.com/metadata/esriprof80.html 
+      Profile_Name: ESRI Metadata Profile 
+    Metadata_Extensions: 
+      Online_Linkage: http://www.esri.com/metadata/esriprof80.html 
+      Profile_Name: ESRI Metadata Profile 

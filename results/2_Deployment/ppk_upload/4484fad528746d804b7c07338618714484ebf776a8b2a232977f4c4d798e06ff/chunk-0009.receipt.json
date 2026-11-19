@@ -1,0 +1,11 @@
+{
+  "action": "chunk-0009",
+  "block_hash": "0xecfe7741b555a0e8acfff624599bdf73f97ed811c174bb19639a51db3ded02e3",
+  "block_number": 229,
+  "first_attempt_to_confirmations_s": 16.108609199523926,
+  "gas_used": 2233036,
+  "input_bytes": 3172,
+  "signed_transaction_bytes": 3281,
+  "transaction_fee_wei": 2233036000000000,
+  "tx_hash": "0xab4e643bd9cfbb34ac4ea7e70bac8e6628e9983bf0e7530716070452f35d7966"
+}

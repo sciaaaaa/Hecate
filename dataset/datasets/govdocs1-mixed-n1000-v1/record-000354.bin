@@ -1,0 +1,1864 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!------------------------------------------------->
+<!-- Department of Transportation | PHMSA portal -->
+<!------------------------------------------------->
+
+<!-- Vignette Application Portal 7.2.2 (build 251) (JAR 7.2.2 SP4 2008-04-30 1304635 build 251) -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>PHMSA - Home </title>
+	
+	<meta name="DC.title" content="PHMSA - Home" />
+	<meta name="DC.description" content="PHMSA - US Department of Transportation Pipeline and Hazardous Materials Safety Administration" />
+	<meta name="description" content="PHMSA - US Department of Transportation Pipeline and Hazardous Materials Safety Administration" />
+	<meta name="DC.creator" content="Department of Transportation's Pipeline and Hazardous Materials Safety Administration" />
+	<meta name="DC.date.created" scheme="ISO 8601" content="2007-08-14" />
+	<meta name="DC.date.reviewed" scheme="ISO 8601" content="2007-08-14" />
+	<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+	<meta name="channel" content="Home" />	
+	
+	<base target="_top">
+	<script language="JavaScript" src="/portal/jslib/form_state_manager.js"></script>
+	<noscript>
+	</noscript>	
+	<link rel="stylesheet" type="text/css" href="/portal/css/portal0123163222142612316322214261192248514141.css">
+
+	
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+	<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+	<link rel="P3Pv1" href="/phmsa-ext/policy/p3p.xml" />
+	<link rel="stylesheet" type="text/css" href="/staticfiles/PHMSA/SiteStylesheets/phmsa_public_global.css" />
+	<link rel="stylesheet" type="text/css" href="/staticfiles/PHMSA/SiteStylesheets/content_area_render.css" />
+	
+	
+	
+	
+	
+	
+</head>
+
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+<table border="0" valign="top" align="center" cellpadding="0" cellspacing="0" summary="This table is used for layout purposes only">	
+<tr>
+	<td>
+
+
+
+
+		
+
+
+</td>
+</tr>
+<tr>
+	<td id="grid" valign="top" align="center"><a href="#content" tabindex="1" title="Skip Navigation"></a>
+
+
+
+
+
+    
+    
+    
+	
+    
+
+
+
+
+
+
+
+
+
+
+<!-- Start Page Controls - Horz Area -->
+
+<!-- End Page Controls - Horz Area -->
+
+
+<table border="0" cellspacing="0" cellpadding="0"  width=100% height="240">
+
+	
+	<tr>
+		<td width="100%" valign="top">
+			<table border="0" width="100%" cellpadding="0" cellspacing="0">
+		  	<tr>
+			
+			  	<td width=1% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            <div xmlns:DPMUtil="com.vignette.ext.templating.util" class="header">
+<a href="/portal/site/PHMSA"><img border="0" alt="[Header] PHMSA - U.S. Department of Transportation - Pipeline and Hazardous materials Safety Adminis" src="/staticfiles/PHMSA/SiteHeaders/Images/PHMSASiteHeader.gif"></a>
+</div>
+
+
+
+
+
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+			  	<td width=99% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="floatingLinks">
+
+			<span class="item"><a href="/careers">Careers</a></span>
+			
+				|
+				
+			<span class="item"><a href="/about/contact">Contact Us</a></span>
+			
+				|
+				
+			<span class="item"><a href="/about/faq">FAQs</a></span>
+			
+				|
+				
+			<span class="item"><a href="/about/sitemap">Site Map</a></span>
+			
+</td>
+    <td class="floatRight"><img src="/staticfiles/PHMSA/SiteImages/Common/spacer.gif" alt="spacer" width="11" height="11" /></td>
+  </tr>
+</table>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+	
+<form id="simpleSearchForm" name="simpleSearchForm" action="/vgn-ext-templating/v/index.jsp" method="get">
+	<input type="hidden" name="vgnextoid" value="4a38272cb3eae010VgnVCM1000008055a8c0RCRD" />
+	<input type="hidden" name="vgnextchannel" value="4a38272cb3eae010VgnVCM1000008055a8c0RCRD" />
+	<input class="textBox" type="text" name="as_q" size="20" value="" alt="PHMSA Search" tabindex="2" />
+	<input class="goButton" type="submit" value="Go" tabindex="3" />
+	<div class="advancedSearch"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=4a38272cb3eae010VgnVCM1000008055a8c0RCRD&vgnextchannel=4a38272cb3eae010VgnVCM1000008055a8c0RCRD&showAdv=1&as_epq=&as_eq=&as_dt=&sort=&as_sitesearch=&num=10&as_oq=&as_occt=&as_q="  tabindex="4">Advanced Search</a></div>
+</form>
+	
+
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+         	</tr>
+      		</table>
+    	</td>
+	</tr>
+	
+		<!-- vertical spacer between divs/rows - begins -->
+		<!-- vertical spacer between divs/rows - ends -->
+		
+	<tr>
+		<td width="100%" valign="top">
+			<table border="0" width="100%" cellpadding="0" cellspacing="0">
+		  	<tr>
+			
+			  	<td width=100% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0" class="keyAudienceMenu"><tr><td class="keyAudienceMenuSpacer">
+</td>
+
+
+			<td class="KeyAudienceMenuItem_1"><a href="/public">For the Public<br />&nbsp;</a></td>			
+		
+			<td class="KeyAudienceMenuItem_2"><a href="/hazmat">Hazmat Safety Community</a></td>			
+		
+			<td class="KeyAudienceMenuItem_3"><a href="/pipeline">Pipeline Safety Community</a></td>			
+		
+			<td class="KeyAudienceMenuItem_4"><a href="/media-congress">Media | Congress<br />&nbsp;</a></td>			
+		
+			<td class="KeyAudienceMenuItem_5"><a href="/doing-biz">Doing Business with PHMSA</a></td>			
+		
+</tr></table>
+
+
+
+
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+         	</tr>
+      		</table>
+    	</td>
+	</tr>
+	
+		<!-- vertical spacer between divs/rows - begins -->
+		<!-- vertical spacer between divs/rows - ends -->
+		
+	<tr>
+		<td width="100%" valign="top">
+			<table border="0" width="100%" cellpadding="0" cellspacing="0">
+		  	<tr>
+			
+			  	<td width=1% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+	 	
+
+<div class="Key_Menu_Home">
+  	<a href="/home"><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/home.gif" alt="PHMSA Home" border="0" /></a>
+</div>
+
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="Key_Menu_About">
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/about.gif" alt="About PHMSA" width="150" height="43" class="Key_Menu_About_header" /></li>
+
+			<li><a href="/about/mission">Mission and Goals</a></li>
+			
+		
+			
+			<li><a href="/about/agency">About the Agency</a></li>
+			
+		
+			
+			<li><a href="/about/key-officials">Key Officials</a></li>
+			
+		
+			
+			<li><a href="/about/org">Organization</a></li>
+			
+		
+			
+			<li><a href="/about/calendar">Calendar</a></li>
+			
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/bottom-box.gif" alt=" " /></li>
+</ul>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="Key_Menu_PSS">
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/PSS.gif" alt="Promoting Safety &amp; Security" width="150" height="43" class="Key_Menu_PSS_header" /></li>
+
+	
+	
+			<li><a href="/regulations">Regulations</a></li>
+			
+			
+			
+			<li><a href="/special-permits-approvals">Special Permits & Approvals</a></li>
+			
+			
+			
+			<li><a href="/international">International Standards</a></li>
+			
+			
+			
+			<li><a href="/security">Security</a></li>
+			
+			
+			
+			<li><a href="/initiatives">Initiatives</a></li>
+			
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/bottom-box.gif" alt=" " /></li>
+</ul>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="Key_Menu_EncComp">
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/ENCcomp.gif" alt="Encouraging Compliance" width="150" height="43" class="Key_Menu_EncComp_header" /></li>
+
+
+	
+	
+			<li><a href="/training">Training Resources</a></li>
+			
+			
+			
+			<li><a href="/outreach">Outreach</a></li>
+			
+			
+			
+			<li><a href="/inspect-enforce">Inspections & Enforcement</a></li>
+			
+			
+			
+			<li><a href="/drug">Drug & Alcohol Testing</a></li>
+			
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/bottom-box.gif" alt=" " /></li>
+</ul>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="Key_Menu_SupCom">
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/SCR.gif" alt="Supporting Community Response" width="150" height="43" class="Key_Menu_SupCom_header" /></li>
+
+			<li><a href="/prepare-respond">Preparedness & Response</a></li>
+			
+			<li><a href="/grants-state-programs">State Programs & Grants</a></li>
+			
+			<li><a href="/incident-report">Incident Reporting</a></li>
+			
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/bottom-box.gif" alt=" " /></li>
+</ul>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="Key_Menu_Resources">
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/resources.gif" alt="PHMSA Resources" width="150" height="43" class="Key_Menu_Resources_header" /></li>
+
+
+			<li><a href="/resources/data-stats">Data & Statistics</a></li>
+			
+			<li><a href="/resources/e-forms">eForms</a></li>
+			
+			<li><a href="/resources/e-pay">ePayments</a></li>
+			
+			<li><a href="/resources/glossary">Glossary</a></li>
+			
+			<li><a href="/resources/library">Library</a></li>
+			
+
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/bottom-box.gif" alt=" " /></li>
+</ul>
+
+
+
+
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+			  	<td width=99% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+ 
+ 
+
+
+
+
+
+
+		<!-- JavaScript function to display random splash image  -->
+		<script language="javascript">
+		function swapImage(){
+		var imgSource=new Array();
+		var imgAlt=new Array();
+		
+			imgSource[0] = "/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_10.jpg";
+			imgAlt[0] = "To prevent emergencies and reduce the consequences (harm to people, environment, and economic impacts) after a pipeline or hazmat failure has occurred. (Includes image of a PHMSA enforcement badge and a US flag.)";
+			
+			imgSource[1] = "/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_1.jpg";
+			imgAlt[1] = "PHMSA’s mission is to protect people and the environment from the risks inherent in transportation of hazardous materials - by pipeline and other modes of transportation. (Includes image of a ’Before You Dig’ sign.)";
+			
+			imgSource[2] = "/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_4.jpg";
+			imgAlt[2] = "To harmonize and standardize the requirements for pipeline and hazardous materials transportation internationally, to facilitate efficient and safe transportation through ports of entry and through the supply chain. (Includes illustrative image of gears.)";
+			
+			imgSource[3] = "/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_8.jpg";
+			imgAlt[3] = "To reduce the risk of harm to people due to the transportation of hazardous materials by pipelines and other modes. (Includes image of a plane.)";
+			
+			imgSource[4] = "/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_2.jpg";
+			imgAlt[4] = "PHMSA’s mission is to protect people and the environment from the risks inherent in transportation of hazardous materials - by pipeline and other modes of transportation. (Includes image of workers assembling a pipeline pig.)";
+			
+			imgSource[5] = "/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_5.jpg";
+			imgAlt[5] = "To reduce the risk of harm to people due to the transportation of hazardous materials by pipelines and other modes. (Includes image of a man in front of a truck.)";
+			
+			imgSource[6] = "/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_7.jpg";
+			imgAlt[6] = "PHMSA’s mission is to protect people and the environment from the risks inherent in transportation of hazardous materials - by pipeline and other modes of transportation. (Includes image of Hazmat placards.)";
+			
+			imgSource[7] = "/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_9.jpg";
+			imgAlt[7] = "To help maintain and improve the reliability of systems that deliver energy products and other hazardous materials. (Includes image of a train.)";
+			
+			imgSource[8] = "/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_3.jpg";
+			imgAlt[8] = "To reduce the risk of harm to the environment due to the transportation of oil and hazardous materials by pipeline and other modes. (Includes image of a pipeline winding through a mountain landscape.)";
+			
+			imgSource[9] = "/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_6.jpg";
+			imgAlt[9] = "To harmonize and standardize the requirements for pipeline and hazardous materials transportation internationally, to facilitate efficient and safe transportation through ports of entry and through the supply chain. (Includes image of a ship.)";
+			
+		var ranNum = Math.floor(Math.random()*10);
+		document.getElementById('rotatingImage').innerHTML = "<img src='" + imgSource[ranNum] + "' alt='" + imgAlt[ranNum] + "'>";
+		}
+		</script>
+		
+
+	<div class="randomImagePageSplash">
+	
+	
+		<div id="rotatingImage"><noscript><img src="/staticfiles/PHMSA/ImageCollections/Images/homeSplashV2_6.jpg" alt="To harmonize and standardize the requirements for pipeline and hazardous materials transportation internationally, to facilitate efficient and safe transportation through ports of entry and through the supply chain. (Includes image of a ship.)"></noscript></div>
+		<!-- Call to random image function  -->
+		<script language="javascript">
+		swapImage();
+		</script>
+	
+	</div>
+	
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+		 				 	
+
+
+
+
+
+
+
+
+
+
+
+
+<!--PAGEWATCH CODE=""-->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+<tr>
+	<!------------------------->
+	<!-- Main Content Region -->
+	<!------------------------->
+	<td valign="top" width="100%">
+		<a id="content" name="content" />
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		
+			<tr>
+				<td>
+
+
+
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+
+		<tr>
+	<td id="1440697228_MCS_S_0" valign="top" >
+	
+	<div class="mainContentSet">
+	
+	<b class="spiffy"><b class="spiffy1"><b></b></b><b class="spiffy2"><b></b></b><b class="spiffy3"></b><b class="spiffy4"></b><b class="spiffy5"></b></b>
+	
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=9a1e6141ef38b110VgnVCM1000001ecb7898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print" title="What has Changed?" >What has Changed?</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+</div>
+</td>
+</tr>
+		
+		<tr>
+	<td id="1440697228_MCS_S_1" valign="top" >
+	
+	<div class="mainContentSet">
+	
+	<b class="spiffy"><b class="spiffy1"><b></b></b><b class="spiffy2"><b></b></b><b class="spiffy3"></b><b class="spiffy4"></b><b class="spiffy5"></b></b>
+	
+		<div class="title">Latest News</div>
+		
+		<img alt="ERG cover" src="/staticfiles/PHMSA/MainContentSets/Images/2008_ergcov1.jpg" />
+		
+		<div class="description"><p><font color="green"><b>Website Updates Released</b></font> Review the <a href="/portal/site/PHMSA/menuitem.ebdc7a8a7e39f2e55cf2031050248a0c/?vgnextoid=9a1e6141ef38b110VgnVCM1000001ecb7898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print">changes</a>.
+<p><font color="ff0033"><b>NOW AVAILABLE</b></font> - See <a href="/hazmat/library/erg"> How To Use the ERG Training Video</a> under "Related Links"</p>
+
+<p><font color="ff0033"><b>FRAUD ALERT</b></font> - <a href="/portal/site/PHMSA/menuitem.ebdc7a8a7e39f2e55cf2031050248a0c/?vgnextoid=b780ae7bae831110VgnVCM100000762c7798RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print#page1">  Bogus Requests for Financial Information </a></p>
+<p><a href="/pipeline/imp">DIMP Webcast</a>:   
+ Video background information on the proposed rule for integrity management of distribution pipelines.</p> 
+
+<p> DOT Proposal Revolutionizes Rail Hazmat Tank Car Safety <a 
+href="/portal/site/PHMSA/menuitem.ebdc7a8a7e39f2e55cf2031050248a0c/?vgnextoid=fb60d6b3fa1f8110VgnVCM1000001ecb7898RCRD&vgnextchannel=8fd9f08df5f3f010VgnVCM1000008355a8c0RCRD&vgnextfmt=print">Press Release</a> </p>
+
+<p><a
+href="http://www.dot.gov/bib2009/htm/PHMSA.html"> PHMSA Budget in Brief</a> for Fiscal Year 2009.</p></div>
+		
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="/media/press-releases" title="More PHMSA News" >More PHMSA News</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="/media/speeches" title="Speeches and Remarks" >Speeches and Remarks</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="/media/newsletters" title="PHMSA Focus Newsletters" >PHMSA Focus Newsletters</a></td>
+					       		</tr>
+					       		
+					       			<tr>
+					       				<td></td>
+					       				<td><span class="itemDescription">Read the latest edition or visit the archives.</span></td>
+					       			</tr>
+					       			
+					       		</table>	
+					       	</div>
+					       	
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="http://service.govdelivery.com/service/multi_subscribe.html?code=USDOTPHMSA" title="<b>Sign Up for Updates</b> (Opens in new window)" target="_new"><b>Sign Up for Updates</b></a></td>
+					       		</tr>
+					       		
+					       			<tr>
+					       				<td></td>
+					       				<td><span class="itemDescription">Sign up for email notification of changes to specified areas of the site.</span></td>
+					       			</tr>
+					       			
+					       		</table>	
+					       	</div>
+					       	
+</div>
+</td>
+</tr>
+		
+		
+
+
+
+
+
+
+<tr>
+<td id="1440697228_MCS_D_2" valign="top" >
+
+<div class="mainContentSet">
+
+<b class="spiffy"><b class="spiffy1"><b></b></b><b class="spiffy2"><b></b></b><b class="spiffy3"></b><b class="spiffy4"></b><b class="spiffy5"></b></b>
+
+	<div class="title">Latest Events</div>
+	
+	<img alt="megaphone" src="/staticfiles/PHMSA/MainContentSets/Images/megaphone2.jpg" />
+
+	<div class="description">The following are just some of the events you can find on the <a href="/portal/site/PHMSA/menuitem.ac33b684b2793a8e4148451067c27789/?vgnextoid=721a764e4da7e010VgnVCM1000008055a8c0RCRD&vgnextchannel=721a764e4da7e010VgnVCM1000008055a8c0RCRD&vgnextfmt=print">PHMSA Calendar</a>.</div>
+	
+								<div class="item">
+					        		<table border="0" cellpadding="0" cellspacing="0">
+					       			<tr>
+					       				<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       				<td>
+										
+												<a href="/vgn-ext-templating/v/index.jsp?vgnextoid=2429ca2068bbe110VgnVCM1000001ecb7898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print">
+												
+											Feb 16, 2009
+											
+												</a>
+												
+										 - <b>Federal Holiday:</b> Washington's Birthday (celebrated)
+										
+										</td>
+									</tr>
+									</table>
+								</div>
+								
+								<div class="item">
+					        		<table border="0" cellpadding="0" cellspacing="0">
+					       			<tr>
+					       				<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       				<td>
+										
+												<a href="/vgn-ext-templating/v/index.jsp?vgnextoid=aabaca2068bbe110VgnVCM1000001ecb7898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print">
+												
+											Mar 3, 2009
+											
+												</a>
+												
+										 - Hazardous Materials Public Safety One-Day Workshop
+										
+											,&nbsp;Charleston, SC
+											
+										</td>
+									</tr>
+									</table>
+								</div>
+								
+								<div class="item">
+					        		<table border="0" cellpadding="0" cellspacing="0">
+					       			<tr>
+					       				<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       				<td>
+										
+												<a href="/vgn-ext-templating/v/index.jsp?vgnextoid=0ddaca2068bbe110VgnVCM1000001ecb7898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print">
+												
+											Mar 5, 2009
+											
+												</a>
+												
+										 - Hazardous Materials Transportation Safety One-Day Workshop
+										
+											,&nbsp;Asheville, NC
+											
+										</td>
+									</tr>
+									</table>
+								</div>
+								
+								<div class="item">
+					        		<table border="0" cellpadding="0" cellspacing="0">
+					       			<tr>
+					       				<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       				<td>
+										
+												<a href="/vgn-ext-templating/v/index.jsp?vgnextoid=6da4394ce5abd110VgnVCM1000001ecb7898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print">
+												
+											Mar 30, 2009&nbsp;-&nbsp;Apr 3, 2009
+											
+												</a>
+												
+										 - 2009 NAPSR Regional Meeting: Southern Region
+										
+											,&nbsp;Orange Beach, AL
+											
+										</td>
+									</tr>
+									</table>
+								</div>
+								
+								<div class="item">
+					        		<table border="0" cellpadding="0" cellspacing="0">
+					       			<tr>
+					       				<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       				<td>
+										
+												<a href="/vgn-ext-templating/v/index.jsp?vgnextoid=4609b3a5a1cae110VgnVCM1000001ecb7898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print">
+												
+											Mar 30, 2009&nbsp;-&nbsp;Apr 3, 2009
+											
+												</a>
+												
+										 - Regulations and Code Compliance Seminar
+										
+											,&nbsp;Hawaii 
+											
+										</td>
+									</tr>
+									</table>
+								</div>
+								
+								<div class="item">
+					        		<table border="0" cellpadding="0" cellspacing="0">
+					       			<tr>
+					       				<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       				<td>
+										
+												<a href="/vgn-ext-templating/v/index.jsp?vgnextoid=86fe394ce5abd110VgnVCM1000001ecb7898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print">
+												
+											Mar 30, 2009&nbsp;-&nbsp;Apr 3, 2009
+											
+												</a>
+												
+										 - 2009 Hawaii Hazardous Liquid Pipeline Seminar
+										
+											,&nbsp;Hawaii 
+											
+										</td>
+									</tr>
+									</table>
+								</div>
+								
+								<div class="item">
+					        		<table border="0" cellpadding="0" cellspacing="0">
+					       			<tr>
+					       				<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       				<td>
+										
+												<a href="/vgn-ext-templating/v/index.jsp?vgnextoid=7e8dd8152015b110VgnVCM1000001ecb7898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print">
+												
+											Apr 13, 2009&nbsp;-&nbsp;Apr 17, 2009
+											
+												</a>
+												
+										 - Regulations and Code Compliance
+										
+											,&nbsp;Georgia
+											
+										</td>
+									</tr>
+									</table>
+								</div>
+								
+</div>
+</td>
+</tr>
+		
+		<tr>
+	<td id="1440697228_MCS_S_3" valign="top" >
+	
+	<div class="mainContentSet">
+	
+	<b class="spiffy"><b class="spiffy1"><b></b></b><b class="spiffy2"><b></b></b><b class="spiffy3"></b><b class="spiffy4"></b><b class="spiffy5"></b></b>
+	
+		<div class="title">PIPES Act Signed</div>
+		
+		<div class="description">On December 29th President Bush signed HR 5782, the Pipeline Inspection, Protection, Enforcement and Safety Act (PIPES Act) of 2006.  It will greatly improve safety and strengthen Federal and state pipeline safety programs.  Implementing the new law will be a priority for PHMSA in 2007 and beyond.
+
+Outreach and discussion has begun on HAZMAT reauthorization which will be an issue in the next (2007) Congress.</div>
+		
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_cong_public_laws&docid=f:publ468.109.pdf" title="Pipes Act (PDF)" >Pipes Act (PDF)</a></td>
+					       		</tr>
+					       		
+					       			<tr>
+					       				<td></td>
+					       				<td><span class="itemDescription">You can also read the <a href="http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_cong_public_laws&docid=f:publ468.109" title="text version (opens in a new window)" target="_new">text-only</a> version.</span></td>
+					       			</tr>
+					       			
+					       		</table>	
+					       	</div>
+					       	
+</div>
+</td>
+</tr>
+		
+		<tr>
+	<td id="1440697228_MCS_S_4" valign="top" >
+	
+	<div class="mainContentSet">
+	
+	<b class="spiffy"><b class="spiffy1"><b></b></b><b class="spiffy2"><b></b></b><b class="spiffy3"></b><b class="spiffy4"></b><b class="spiffy5"></b></b>
+	
+		<div class="title">PHMSA Strategic Plan and Budget Information</div>
+		
+		<img alt="null" src="/staticfiles/PHMSA/MainContentSets/Images/cash.jpg" />
+		
+		<div class="description">Get a glimpse of the budgets for PHMSA and the Department and our plans to maintain safety throughout 2011.</div>
+		
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=f1086082ba265110VgnVCM1000009ed07898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print" title="Strategic Plan 2007 to 2011" >Strategic Plan 2007 to 2011</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="http://www.dot.gov/bib2009/htm/PHMSA.html" title="PHMSA Budget in Brief" >PHMSA Budget in Brief</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="http://www.dot.gov/bib2009/2009budgetrequest.htm" title="FY 2009 Budget Request" >FY 2009 Budget Request</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+</div>
+</td>
+</tr>
+		
+		<tr>
+	<td id="1440697228_MCS_S_5" valign="top" colspan="1" >
+	
+	<div class="mainContentSet">
+	
+	<b class="spiffy"><b class="spiffy1"><b></b></b><b class="spiffy2"><b></b></b><b class="spiffy3"></b><b class="spiffy4"></b><b class="spiffy5"></b></b>
+	
+		<div class="title">Agency Guidance</div>
+		
+		<div class="description">A one-stop shop for all PHMSA guidance including sections for Hazardous Materials Safety Guidance and Pipeline Safety Guidance.</div>
+		
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="/resources/library/guidance" title="Agency Guidance" >Agency Guidance</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+</div>
+</td>
+</tr>
+		
+</table></td>
+			</tr>	
+			
+		</table>		
+	</td>
+	
+	<!------------------------->
+	<!-- Side Content Region -->
+	<!------------------------->
+	
+		<td valign="top" width="250px">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			
+			<tr>
+				<td>
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+	<tr>
+		<td id="1440697228_SCS_0" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Travel Resources</div>
+			
+			<div class="description">Tips on how to safely pack and transport batteries, battery-powered devices, and other personal items when traveling.</p>
+<a href="http://safetravel.dot.gov/index.html"><img alt="Safe Travel: Safety Tips for Travelers" src="/staticfiles/PHMSA/SideContentSets/Images/SafeTravel_215.jpg" border="0" /></a>
+</div>
+			
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="1440697228_SCS_1" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Emergency? Accident? Call us!</div>
+			
+			<div class="description"><font color="ff0033"><b>1-800-424-8802</b></font></p>
+<p>Hazardous Materials Transportation and Pipeline Accidents must be reported directly to the 24-hour National Response Center (NRC).</div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://www.nrc.uscg.mil/nrchp.html" title="Report an incident online" >Report an incident online</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="1440697228_SCS_2" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Freedom of Information Act</div>
+			
+			<div align="center"><img alt="US Flag" src="/staticfiles/PHMSA/SideContentSets/Images/flagThumb.jpg" /></div>
+			
+			<div class="description">FOIA established the public's right to obtain information from Federal agencies.</div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/about/foia" title="FOIA and FOIA Requests" >FOIA and FOIA Requests</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="1440697228_SCS_3" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Report Fraud and Abuse</div>
+			
+			<div class="description"><b><a href="http://www.oig.dot.gov/Hotline">OIG Hotline Website</a> <font color="ff0033">or 1-800-424-9071</font></b></p>
+<p>Department of Transportation, Office of the Inspector General Hotline</p></div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=b780ae7bae831110VgnVCM100000762c7798RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print" title="Fraud Alert February 2008" >Fraud Alert February 2008</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/portal/site/PHMSA/menuitem.ebdc7a8a7e39f2e55cf2031050248a0c/?vgnextoid=b780ae7bae831110VgnVCM100000762c7798RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print#page2" title="Fraud Alert October 2007" >Fraud Alert October 2007</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="1440697228_SCS_4" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Sign Up for Updates</div>
+			
+			<div align="center"><img alt="envelope" src="/staticfiles/PHMSA/SideContentSets/Images/envelope.jpg" /></div>
+			
+			<div class="description">Click below to sign up to receive email notification of changes to specific areas of this site.  </div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://service.govdelivery.com/service/multi_subscribe.html?code=USDOTPHMSA" title="Keep up-to-date on this topic (Opens in new window)" target="_new">Keep up-to-date on this topic</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="1440697228_SCS_5" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Hazardous Materials Safety Resources</div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/hazmat/info-center" title="Hazardous Materials Information Center" >Hazardous Materials Information Center</a></td>
+		       		</tr>
+		       		
+		       			<tr>
+		       				<td></td>
+		       				<td><span class="itemDescription">1-800-HMR-4922 Mon to Fri 9 to 5 EST (202-366-4488 for Washington DC residents)</span></td>
+		       			</tr>
+		       			
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/hazmat/registration" title="Hazardous Materials Registration" >Hazardous Materials Registration</a></td>
+		       		</tr>
+		       		
+		       			<tr>
+		       				<td></td>
+		       				<td><span class="itemDescription">Are you required to be registered? If so, how do you go about it? </span></td>
+		       			</tr>
+		       			
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://www.phmsa.dot.gov/phmsa-ext/feedback/hmsatPresenterRequestForm.jsp" title="HMSAT Presenter Form" >HMSAT Presenter Form</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="https://hazmatonline.phmsa.dot.gov/services/" title="Order Publications (Opens in new window)" target="_new">Order Publications</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/hazmat/training/seminars" title="Register for a Workshop or Seminar" >Register for a Workshop or Seminar</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/hazmat/training-outreach" title="Training Information - 202-366-2301" >Training Information - 202-366-2301</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/initiatives/r-and-d" title="Research & Development" >Research & Development</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/hazmat/regs/safety-notices" title="Safety Advisory Notices" >Safety Advisory Notices</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/about/org/special-investigations" title="Special Investigations" >Special Investigations</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/staticfiles/PHMSA/SiteHTMLPages/Error/404.html" title="Other Federal, State, and local links" >Other Federal, State, and local links</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/hazmat" title="<b>Hazardous Materials Safety page</b>" ><b>Hazardous Materials Safety page</b></a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="1440697228_SCS_6" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-noframe">
+			
+			<div align="center"><img alt="Investigator badge" src="/staticfiles/PHMSA/SideContentSets/Images/PHMSA Investigator_smallest.jpg" /></div>
+			
+			<div class="description">All across the nation, Hazardous Materials Enforcement complaints are investigated by:</div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/about/org/special-investigations" title="Special Investigations" >Special Investigations</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="1440697228_SCS_7" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-noframe">
+			
+			<div align="center"><img alt="Emergency Response Guidebook 2008 cover" src="/staticfiles/PHMSA/SideContentSets/Images/2008_ergcov1.jpg" /></div>
+			
+			<div class="description"><hr>The Emergency Response Guidebook (ERG) is for use by first responders at the scene of a transportation incident involving hazardous materials.</div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=ebfeca57e196d110VgnVCM1000009ed07898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print" title="<u>Emergency Response Guidebook</u>" ><u>Emergency Response Guidebook</u></a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=3d998a849ed83110VgnVCM1000009ed07898RCRD&vgnextchannel=d248724dd7d6c010VgnVCM10000080e8a8c0RCRD&vgnextfmt=print" title="<u>DOT and HHS Announce ERG to be Available by Mobile Devices</u>" ><u>DOT and HHS Announce ERG to be Available by Mobile Devices</u></a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="1440697228_SCS_8" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-noframe">
+			
+			<div class="description"><a href="http://hazmat.dot.gov/HMpubsreview"><img alt="HMpubsreview: Publications Review Webpage.  Review and comment on hazardous materials publications under development or on training materials being revised." src="/staticfiles/PHMSA/SideContentSets/Images/HMpubsreview BANNER 1a 225pixWide.jpg" border="0" /></a></p></div>
+			
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="1440697228_SCS_9" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Pipeline Safety Resources</div>
+			
+			<div align="center"><img alt="pipeline" src="/staticfiles/PHMSA/SideContentSets/Images/npms.jpg" /></div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://www.npms.phmsa.dot.gov/" title="National Pipeline Mapping System" >National Pipeline Mapping System</a></td>
+		       		</tr>
+		       		
+		       			<tr>
+		       				<td></td>
+		       				<td><span class="itemDescription">View maps of natural gas transmission and hazardous liquid pipelines, LNG facilities, and breakout tanks by county.</span></td>
+		       			</tr>
+		       			
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="https://www.npms.phmsa.dot.gov/application.asp?tact=Data&page=subapp.asp?app=data&act=data_req" title="National Pipeline Mapping System: Downloads" >National Pipeline Mapping System: Downloads</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://www.npms.phmsa.dot.gov/publicsearch" title="National Pipeline Mapping System: Public Search" >National Pipeline Mapping System: Public Search</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/imp" title="Integrity Management Program (IMP)" >Integrity Management Program (IMP)</a></td>
+		       		</tr>
+		       		
+		       			<tr>
+		       				<td></td>
+		       				<td><span class="itemDescription">Programs for Liquid, Gas, Distribution, and Rulemaking.   View the <a href="/pipeline/imp">DIMP</a> Webcast. </span></td>
+		       			</tr>
+		       			
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/phmsa-ext/redirect/externalLink.jsp?name=Pipeline Emergencies First Reponder Training&new=false&url=http%3A%2F%2Fwww.pipelineemergencies.com%2F" title="Pipeline Emergencies First Reponder Training" >Pipeline Emergencies First Reponder Training</a></td>
+		       		</tr>
+		       		
+		       			<tr>
+		       				<td></td>
+		       				<td><span class="itemDescription">FREE Comprehensive pipeline emergencies training materials for first responders 
+</span></td>
+		       			</tr>
+		       			
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://opsweb.rspa.dot.gov/cfdocs/opsapps/pipes/main.cfm" title="Pipeline Operator Registration System (Opens in new window)" target="_new">Pipeline Operator Registration System</a></td>
+		       		</tr>
+		       		
+		       			<tr>
+		       				<td></td>
+		       				<td><span class="itemDescription">Online data entry and Operator Registration System</span></td>
+		       			</tr>
+		       			
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/advisory-bulletin" title="Safety Advisory Bulletins" >Safety Advisory Bulletins</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://primis.phmsa.dot.gov/rd/" title="Research & Development" >Research & Development</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/drug" title="Drug & Alcohol Testing information" >Drug & Alcohol Testing information</a></td>
+		       		</tr>
+		       		
+		       			<tr>
+		       				<td></td>
+		       				<td><span class="itemDescription">Policy and investigation to deter and detect illegal drug use and alcohol misuse in the pipeline industry.</span></td>
+		       			</tr>
+		       			
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline" title="<b>Pipeline Safety page</b>" ><b>Pipeline Safety page</b></a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+</table></td>
+			</tr>
+			</table>
+		</td>
+				
+</tr>
+</table>
+
+<!--/PAGEWATCH-->
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+         	</tr>
+      		</table>
+    	</td>
+	</tr>
+	
+		<!-- vertical spacer between divs/rows - begins -->
+		<!-- vertical spacer between divs/rows - ends -->
+		
+	<tr>
+		<td width="100%" valign="top">
+			<table border="0" width="100%" cellpadding="0" cellspacing="0">
+		  	<tr>
+			
+			  	<td width=100% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="page_bottom">
+
+
+		<a href="/careers" title="Careers">Careers</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/contact" title="Contact Us">Contact Us</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/no-fear" title="No Fear">No Fear</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/privacy" title="Privacy Policy">Privacy Policy</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/foia" title="FOIA">FOIA</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/accessibility" title="Accessibility">Accessibility</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/faq" title="FAQs">FAQs</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/web-policy" title="Web Policies">Web Policies</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/sitemap" title="Site Map">Site Map</a>
+		
+			&nbsp;|&nbsp;
+			
+			<a href="/phmsa-ext/redirect/externalLink.jsp?name=Download Acrobat&new=true&url=http%3A%2F%2Fwww.adobe.com%2Fproducts%2Facrobat%2Freadstep2.html" title="Download Acrobat (Opens in new window)" target="_new">Download Acrobat</a>
+			
+</div>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            <div xmlns:DPMUtil="com.vignette.ext.templating.util" class="FedFooter">
+<a href="http://www.whitehouse.gov">WhiteHouse.gov</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.regulations.gov">Regulations.gov</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.usa.gov">USA.gov</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.dot.gov">DOT.gov</a>
+</div>
+
+
+
+
+
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+         	</tr>
+      		</table>
+    	</td>
+	</tr>
+	 
+	
+</table>
+	
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+

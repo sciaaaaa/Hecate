@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "purpose": "Reference experiment manifest.",
+  "units": {
+    "sizes": "bytes unless explicitly marked otherwise",
+    "timeout": "seconds"
+  },
+  "cryptography": {
+    "pairing_curve": "BLS12-381",
+    "scalar_bytes": 32,
+    "g1_compressed_bytes": 48,
+    "g2_compressed_bytes": 96,
+    "gt_encoded_bytes": 576,
+    "setup_capacity_B": 4096
+  },
+  "profiles": {
+    "concurrency-10-5-5": {
+      "legacy_driver_directory": "8_concurrent_10",
+      "legacy_settings": {
+        "experiment": "aws-n10-r5-s5-c01",
+        "receivers": [
+          "dr01",
+          "dr02",
+          "dr03",
+          "dr04",
+          "dr05"
+        ],
+        "records_per_receiver": 2,
+        "authorized_per_receiver": 1,
+        "min_im_bytes": 32768,
+        "max_im_bytes": 32768,
+        "im_with_replacement": true,
+        "seed": 20261015,
+        "em": "urgent",
+        "confirmations": 2,
+        "timeout": 600
+      },
+      "senders": 10,
+      "receiver_count": 5,
+      "authorized_submissions": 5,
+      "execution": {
+        "encryption": "serial",
+        "ciphertext_upload": "concurrent",
+        "decryption": "serial",
+        "capability_delivery": "concurrent",
+        "rd_query": "concurrent"
+      },
+      "initialization": "Reuse initialized B=4096 deployment and existing keys; not included in per-run timing."
+    },
+    "concurrency-100-50-50": {
+      "legacy_driver_directory": "17_concurrent_100",
+      "legacy_settings": {
+        "experiment": "aws-n100-r50-s50-r32k-01",
+        "receivers": [
+          "dr01",
+          "dr02",
+          "dr03",
+          "dr04",
+          "dr05",
+          "dr06",
+          "dr07",
+          "dr08",
+          "dr09",
+          "dr10",
+          "dr11",
+          "dr12",
+          "dr13",
+          "dr14",
+          "dr15",
+          "dr16",
+          "dr17",
+          "dr18",
+          "dr19",
+          "dr20",
+          "dr21",
+          "dr22",
+          "dr23",
+          "dr24",
+          "dr25",
+          "dr26",
+          "dr27",
+          "dr28",
+          "dr29",
+          "dr30",
+          "dr31",
+          "dr32",
+          "dr33",
+          "dr34",
+          "dr35",
+          "dr36",
+          "dr37",
+          "dr38",
+          "dr39",
+          "dr40",
+          "dr41",
+          "dr42",
+          "dr43",
+          "dr44",
+          "dr45",
+          "dr46",
+          "dr47",
+          "dr48",
+          "dr49",
+          "dr50"
+        ],
+        "records_per_receiver": 2,
+        "authorized_per_receiver": 1,
+        "min_im_bytes": 32768,
+        "max_im_bytes": 32768,
+        "im_with_replacement": false,
+        "seed": 20261015,
+        "em": "urgent",
+        "confirmations": 2,
+        "timeout": 1800
+      },
+      "senders": 100,
+      "receiver_count": 50,
+      "authorized_submissions": 50,
+      "execution": {
+        "encryption": "serial",
+        "ciphertext_upload": "concurrent",
+        "decryption": "serial",
+        "capability_delivery": "concurrent",
+        "rd_query": "concurrent"
+      },
+      "initialization": "Reuse initialized B=4096 deployment and existing keys; not included in per-run timing."
+    },
+    "comparison-576B": {
+      "legacy_driver_directory": "19_im576_10",
+      "legacy_settings": {
+        "experiment": "aws-n10-r5-s5-im576-01",
+        "receivers": [
+          "dr01",
+          "dr02",
+          "dr03",
+          "dr04",
+          "dr05"
+        ],
+        "records_per_receiver": 2,
+        "authorized_per_receiver": 1,
+        "min_im_bytes": 576,
+        "max_im_bytes": 576,
+        "im_with_replacement": false,
+        "seed": 20261015,
+        "em": "urgent",
+        "confirmations": 2,
+        "timeout": 1800
+      },
+      "senders": 10,
+      "receiver_count": 5,
+      "authorized_submissions": 5,
+      "execution": {
+        "encryption": "serial",
+        "ciphertext_upload": "concurrent",
+        "decryption": "serial",
+        "capability_delivery": "concurrent",
+        "rd_query": "concurrent"
+      },
+      "initialization": "Reuse initialized B=4096 deployment and existing keys; not included in per-run timing."
+    },
+    "presence-detection": {
+      "legacy_driver_directory": "presence-study2000",
+      "legacy_settings": {
+        "format": "HECATE-STUDY-2000-v1",
+        "im_bytes": 1024,
+        "pairs_per_batch": 100,
+        "threshold": 0.5,
+        "model_seed": 20261017,
+        "bootstrap_seed": 20261031,
+        "bootstrap_repeats": 2000,
+        "feature_sets": [
+          "F1_gas",
+          "F2_gas_structure",
+          "F3_public_statistics"
+        ],
+        "models": [
+          "dummy",
+          "logistic",
+          "random_forest",
+          "xgboost"
+        ],
+        "selection": "maximum validation AUC, first candidate on ties; threshold fixed at 0.5; no refit on validation",
+        "batches": [
+          {
+            "number": 1,
+            "experiment": "presence-p100-1k-01",
+            "seed": 20261017,
+            "role": "train"
+          },
+          {
+            "number": 2,
+            "experiment": "presence-p100-1k-02",
+            "seed": 20261020,
+            "role": "train"
+          },
+          {
+            "number": 3,
+            "experiment": "presence-p100-1k-03",
+            "seed": 20261023,
+            "role": "train"
+          },
+          {
+            "number": 4,
+            "experiment": "presence-p100-1k-04",
+            "seed": 20261024,
+            "role": "train"
+          },
+          {
+            "number": 5,
+            "experiment": "presence-p100-1k-05",
+            "seed": 20261025,
+            "role": "train"
+          },
+          {
+            "number": 6,
+            "experiment": "presence-p100-1k-06",
+            "seed": 20261026,
+            "role": "validation"
+          },
+          {
+            "number": 7,
+            "experiment": "presence-p100-1k-07",
+            "seed": 20261027,
+            "role": "validation"
+          },
+          {
+            "number": 8,
+            "experiment": "presence-p100-1k-08",
+            "seed": 20261028,
+            "role": "test"
+          },
+          {
+            "number": 9,
+            "experiment": "presence-p100-1k-09",
+            "seed": 20261029,
+            "role": "test"
+          },
+          {
+            "number": 10,
+            "experiment": "presence-p100-1k-10",
+            "seed": 20261030,
+            "role": "test"
+          }
+        ],
+        "scope": "Reuse B01/B02 only as development data. Primary test B08-B10 after freezing all models. Same account and deployment; im1KiB only. All nine real detector combinations and three dummy baselines reported; do not choose winner by test score."
+      },
+      "samples": 2000,
+      "regular_samples": 1000,
+      "anamorphic_samples": 1000,
+      "train_samples": 1000,
+      "validation_samples": 400,
+      "test_samples": 600,
+      "split_unit": "batch; paired samples remain in the same split",
+      "source_note": "Historical driver reuses batches 01 and 02; it is not a fresh-deployment generator."
+    }
+  },
+  "scalability_series": {
+    "senders": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100
+    ],
+    "receivers_and_authorized_submissions": "senders / 2",
+    "ordinary_message_bytes": 32768,
+    "driver_mapping": {
+      "10": "8_concurrent-10",
+      "20": "9_concurrent_20",
+      "30": "10_concurrent-30",
+      "40": "11_concurrent-40",
+      "50": "12-concurrent-50",
+      "60": "13-concurrent-60",
+      "70": "14-concurrent-70",
+      "80": "15-concurrent-80",
+      "90": "16-concurrent-90",
+      "100": "17-concurrent-100"
+    }
+}

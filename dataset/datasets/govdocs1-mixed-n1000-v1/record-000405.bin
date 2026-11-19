@@ -1,0 +1,31 @@
+====== MeDICi: Middleware for Data-Intensive Computing ======
+
+MeDICi is an evolving middleware platform for building complex, high performance analytical applications. These applications typically comprise a pipeline of software components, each of which performs some analysis on incoming data and passes on its results to the next step in the pipeline. 
+
+
+The MeDICi technology is being designed to specifically address two difficult aspects of building analytical applications, namely:
+
+
+  - Pipeline creation. The software components in an analysis pipeline have usually been created by different programmers using various programming languages, and each may have particular hardware platform dependencies. MeDICi provides features that makes creating pipelines from heterogeneous, distributed components easier.
+  - Handling large data.  Passing large data sets between pipeline components can kill application performance. MeDICi provide features that give pipeline designers choices on how to pass data in pipelines to maximize application performance.
+
+
+The MeDICi project comprises three sub-projects:
+
+  * [[MeDICi Integration Framework]] (MIF) -- a Java-based, asynchronous messaging platform for application integration.
+
+  * MeDICi Provenance -- a Java API, RDF-based store and content management system for capturing and querying important metadata that can be used for forensic investigations and reconstruction of application results. This technology is in test and will be added to the wiki in the near future.
+
+  * MeDICi Workflow -- a BPEL-based environment that integrates with the MIF to provide workflow definition tools and a standards-based recoverable workflow execution engine. This technology is in development and will be added to the wiki once it is ready for use.
+
+
+{{medici_overview.png?|MeDICI Architecture Overview}}
+
+
+The MeDICi Integration Framework (MIF) is the first subsystem to be released. It is the core of the MeDICi technology, and can be used standalone to build analytical pipelines. The MIF has been used in several applications, and is currently available for download. This wiki contains documentation that describes the overall architecture of the MIF and how to use the MIF API to build application pipelines. The wiki will evolve as other MeDICi subsystems and tools are built and tested.
+
+We're also starting to analyze the performance of the MIF container. See here for [[MIF Benchmark Test Details]]. This is work in progress.
+
+MeDICi is funded by [[http://www.pnl.gov/|Pacific Northwest National Laboratory's]] [[http://dicomputing.pnl.gov/|Data Intensive Computing Initiative]]. See here for details on the [[MeDICi people]].
+
+

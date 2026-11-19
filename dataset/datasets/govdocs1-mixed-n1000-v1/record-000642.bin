@@ -1,0 +1,7753 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 TRANSITIONAL//EN"
+
+                     "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+
+
+<HTML LANG="en">
+
+<HEAD>
+
+<script>
+
+if (document.layers)
+
+  WM_scaleFont(initialFontSize, fontUnits);
+
+</script>
+
+<TITLE>American Housing Survey for the United States: 2001
+
+</TITLE>
+
+<link REL="stylesheet" HREF="/main/.in/style.css" TYPE="text/css" />
+
+<link rel="stylesheet" type="text/css" href="/hhes/www/stylesheets/hhes_redesign.css" /> </head>
+
+<body>
+
+<script language="JavaScript">
+<!--
+
+function WM_scaleFont(targetSize, initialFontSize, fontUnit) {
+
+  // This checks for the existence of the document objects and 
+  // properties where we store the passed variables.
+  if (typeof document.WM == 'undefined'){
+    document.WM = new Object;
+  }
+  if (typeof document.WM.WM_scaleFont == 'undefined') {
+    document.WM.WM_scaleFont = new Object;
+    document.WM.WM_scaleFont.screenTarget = targetSize;
+    document.WM.WM_scaleFont.targetBodyFontSize = initialFontSize;
+    document.WM.WM_scaleFont.fontUnit = fontUnit;
+  }
+  // The actual screen width is gotten here.
+  if (document.all) {
+    var screenWidth = document.body.offsetWidth;
+  } else if (document.layers) {
+    var screenWidth = window.innerWidth;
+  }
+  // This one line is the core of the routine. It takes the 
+  // targeted font size and divides it by the actual width 
+  // times the targeted width.
+  var scaledFont = parseInt(document.WM.WM_scaleFont.targetBodyFontSize) * (screenWidth / document.WM.WM_scaleFont.screenTarget);
+  // Now this new font size is applied to the body. 
+  // For IE, it changes the body's style declaration and 
+  // sets things up such that on resize this function is 
+  //called again. For Netscape, it writes out a style tag 
+  // in the head, and then depends on WM_netscapeCssFix() 
+  // to reload the page if it's been resized. 
+  if (document.all) {
+    document.body.style.fontSize = scaledFont + document.WM.WM_scaleFont.fontUnit;
+    window.onresize = WM_scaleFont;
+  } else if(document.layers) {
+    var netscapeScaleReturn = '<style type="text/css">\nBODY {font-size: ' + scaledFont + document.WM.WM_scaleFont.fontUnit + '}\n</style>';
+    document.writeln(netscapeScaleReturn);
+  }
+}
+
+
+// -->
+
+</script>
+<!-- top banner and navigation bar -->
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+<tr align="left" valign="top">
+<td colspan="2"><a href="/"><img src="/main/www/img/cb_head.gif" alt="U.S. Census Bureau" width="639" height="25" border="0"></a></td>
+</tr>
+<tr align="left" valign="top">
+<td align="left" valign="middle" class="masthead" height="20">
+<strong><font size="+2">&nbsp;American Housing Survey (AHS) </font></strong>
+</td>
+<td align="right" class="masthead" valign="middle">
+<br />
+
+	<form name="gs" method="GET" action="http://search.census.gov/search">
+	<input type="text" name="q" size="32" maxlength="256" value="">
+	<input type="submit" name="btnG" value="Search This Site">
+	<br /><br />
+	<input type="hidden" name="filter" value="0" />
+	<input type="hidden" name="entqr" value="0">
+	<input type="hidden" name="output" value="xml_no_dtd">
+	<input type="hidden" name="ud" value="1">
+	<input type="hidden" name="ie" value="UTF-8">
+	<input type="hidden" name="client" value="subsite">
+	<input type="hidden" name="proxystylesheet" value="subsite">
+	<input type="hidden" name="hq" value="inurl:www.census.gov/hhes/www/ahs">
+	<input type="hidden" name="subtitle" value="hhes-american housing survey">
+	</form>
+	
+
+</td>
+</tr>
+<tr align="left" valign="top">
+<td colspan="2" valign="middle">
+<div id="topnav"> <ul>
+<font size="2%"><li><a href="/hhes/www/housing/ahs/ahs.html">AHS Main</a>
+</li>
+<li><a href="/hhes/www/housing/ahs/overview.html">Overview</a>
+</li>
+<li><a href="/hhes/www/housing/ahs/definitions.html">Definitions</a>
+</li>
+<li><a href="/hhes/www/housing/ahs/related.html">Related Sites</a>
+</li>
+<li><a href="/hhes/www/housing/ahs/access.html">Data Access</a>
+</li>
+<li><a href="/hhes/www/housing/ahs/ahsfaq.html">FAQ</a>
+</li>
+</font>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<br />
+
+<!-- end top banner and navigation bar -->
+
+
+
+
+<META NAME="Description" CONTENT="The American Housing Survey (AHS) collects data on the Natinal's housing, including apartments, single-family homes, mobile homes, vacant housing units, household characteristics, income, housing and neighborhood quality, housing costs, and recent movers.  National data are collected every other year, and data for each of 46 selected Metropolitan Areas are collected about every four years, with an average of 12 Metropolitan Areas included each year.  The survey is conducted by the Bureau of the Census for the Department of Housing and Urban Development.">
+
+<META NAME="Keywords" CONTENT="American Housing Survey, housing, housing units, house, houses, home, homes, homeownership, homeowner, home owner, mobile homes, units in structure, new construction, stories in structure, housing unit size, home value, value, purchase price, mortgage, owners, renters, housing characteristics, housing characteristics by age, housing characteristics by sex, year built, housing costs, housing quality, housing condition, neighborhood, fuels, utilities, household composition, substandard housing, appliances">
+
+</HEAD>
+
+<BODY bgcolor="#FFFFFF">
+
+<a HREF="/">
+
+<IMG SRC="/main/www/img/cb_head.gif" ALT="Census Bureau" border=0></a>
+
+<H2> American Housing Survey for the United States: 2001<HR></H2>
+
+<em>To print this entire table, use 8.50 x 11 inch paper and land
+
+scape orientation.</em><br>
+
+<table border> 
+
+<strong>1980 Weighting--American Housing Survey 2001<br> 
+
+Table 7-20.  Income of Families and Primary Individuals by Selected Characteristics--Occupied Units<br> 
+
+With Elderly Householder<br> </strong><font size="-1">[Numbers in thousands.]<br></font>
+
+ 
+
+<tr valign=bottom><td> </td> 
+
+<th>Total</th> 
+
+<th>Zero to<br> 
+
+negative</th> 
+
+<th>$1 to<br> 
+
+$4,999</th> 
+
+<th>$5,000<br> 
+
+to<br> 
+
+$9,999</th> 
+
+<th>$10,000<br> 
+
+to<br> 
+
+$14,999</th> 
+
+<th>$15,000<br> 
+
+to<br> 
+
+$19,999</th> 
+
+<th>$20,000<br> 
+
+to<br> 
+
+$29,999</th> 
+
+<th>$30,000<br> 
+
+to<br> 
+
+$39,999</th> 
+
+<th>$40,000<br> 
+
+to<br> 
+
+$59,999</th> 
+
+<th>$60,000<br> 
+
+to<br> 
+
+$79,999</th> 
+
+<th>$80,000<br> 
+
+to<br> 
+
+$99,999</th> 
+
+<th>$100,000<br> 
+
+to<br> 
+
+$119,999</th> 
+
+<th>$120,000<br> 
+
+or more</th> 
+
+<th>Median</th> 
+
+<tr valign=bottom><th align=left><br>        Total</th> 
+
+<td align=right><b>21846 </td>
+
+<td align=right><b>846 </td>
+
+<td align=right><b>1202 </td>
+
+<td align=right><b>3027 </td>
+
+<td align=right><b>3267 </td>
+
+<td align=right><b>2456 </td>
+
+<td align=right><b>3762 </td>
+
+<td align=right><b>2361 </td>
+
+<td align=right><b>2158 </td>
+
+<td align=right><b>1061 </td>
+
+<td align=right><b>515 </td>
+
+<td align=right><b>401 </td>
+
+<td align=right><b>789 </td>
+
+<td align=right><b>20335 </td>
+
+<tr valign=bottom><th align=left><br>Units in Structure<br> <br>1, detached</th> 
+
+<td align=right><b>15005 </td>
+
+<td align=right><b>567 </td>
+
+<td align=right><b>768 </td>
+
+<td align=right><b>1599 </td>
+
+<td align=right><b>2036 </td>
+
+<td align=right><b>1652 </td>
+
+<td align=right><b>2660 </td>
+
+<td align=right><b>1816 </td>
+
+<td align=right><b>1658 </td>
+
+<td align=right><b>872 </td>
+
+<td align=right><b>391 </td>
+
+<td align=right><b>327 </td>
+
+<td align=right><b>659 </td>
+
+<td align=right><b>23314 </td>
+
+<tr valign=bottom><th align=left>1, attached</th> 
+
+<td align=right><b>1232 </td>
+
+<td align=right><b>62 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>188 </td>
+
+<td align=right><b>163 </td>
+
+<td align=right><b>106 </td>
+
+<td align=right><b>203 </td>
+
+<td align=right><b>128 </td>
+
+<td align=right><b>140 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>20670 </td>
+
+<tr valign=bottom><th align=left>2 to 4</th> 
+
+<td align=right><b>1172 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>75 </td>
+
+<td align=right><b>249 </td>
+
+<td align=right><b>200 </td>
+
+<td align=right><b>140 </td>
+
+<td align=right><b>241 </td>
+
+<td align=right><b>72 </td>
+
+<td align=right><b>73 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>15394 </td>
+
+<tr valign=bottom><th align=left>5 to 9</th> 
+
+<td align=right><b>575 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>146 </td>
+
+<td align=right><b>109 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>71 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>13944 </td>
+
+<tr valign=bottom><th align=left>10 to 19</th> 
+
+<td align=right><b>489 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>106 </td>
+
+<td align=right><b>88 </td>
+
+<td align=right><b>82 </td>
+
+<td align=right><b>65 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>15648 </td>
+
+<tr valign=bottom><th align=left>20 to 49</th> 
+
+<td align=right><b>641 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>139 </td>
+
+<td align=right><b>144 </td>
+
+<td align=right><b>81 </td>
+
+<td align=right><b>75 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>14455 </td>
+
+<tr valign=bottom><th align=left>50 or more</th> 
+
+<td align=right><b>1266 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>102 </td>
+
+<td align=right><b>348 </td>
+
+<td align=right><b>239 </td>
+
+<td align=right><b>118 </td>
+
+<td align=right><b>164 </td>
+
+<td align=right><b>63 </td>
+
+<td align=right><b>87 </td>
+
+<td align=right><b>37 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>12704 </td>
+
+<tr valign=bottom><th align=left>Manufactured/mobile home or trailer</th> 
+
+<td align=right><b>1468 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>87 </td>
+
+<td align=right><b>252 </td>
+
+<td align=right><b>287 </td>
+
+<td align=right><b>211 </td>
+
+<td align=right><b>285 </td>
+
+<td align=right><b>146 </td>
+
+<td align=right><b>74 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>23 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>16330 </td>
+
+<tr valign=bottom><th align=left><br>Year Structure Built@14<br> <br>2000 to 2004</th> 
+
+<td align=right><b>270 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>37 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>23 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>23 </td>
+
+<td align=right><b>21252 </td>
+
+<tr valign=bottom><th align=left>1995 to 1999</th> 
+
+<td align=right><b>926 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>57 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>130 </td>
+
+<td align=right><b>94 </td>
+
+<td align=right><b>158 </td>
+
+<td align=right><b>92 </td>
+
+<td align=right><b>122 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>24345 </td>
+
+<tr valign=bottom><th align=left>1990 to 1994</th> 
+
+<td align=right><b>879 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>117 </td>
+
+<td align=right><b>109 </td>
+
+<td align=right><b>80 </td>
+
+<td align=right><b>174 </td>
+
+<td align=right><b>110 </td>
+
+<td align=right><b>113 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>24503 </td>
+
+<tr valign=bottom><th align=left>1985 to 1989</th> 
+
+<td align=right><b>1118 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>164 </td>
+
+<td align=right><b>121 </td>
+
+<td align=right><b>115 </td>
+
+<td align=right><b>215 </td>
+
+<td align=right><b>118 </td>
+
+<td align=right><b>96 </td>
+
+<td align=right><b>70 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>22780 </td>
+
+<tr valign=bottom><th align=left>1980 to 1984</th> 
+
+<td align=right><b>1147 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>64 </td>
+
+<td align=right><b>190 </td>
+
+<td align=right><b>195 </td>
+
+<td align=right><b>121 </td>
+
+<td align=right><b>184 </td>
+
+<td align=right><b>116 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>18166 </td>
+
+<tr valign=bottom><th align=left>1975 to 1979</th> 
+
+<td align=right><b>1970 </td>
+
+<td align=right><b>91 </td>
+
+<td align=right><b>96 </td>
+
+<td align=right><b>289 </td>
+
+<td align=right><b>330 </td>
+
+<td align=right><b>174 </td>
+
+<td align=right><b>328 </td>
+
+<td align=right><b>206 </td>
+
+<td align=right><b>201 </td>
+
+<td align=right><b>134 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>77 </td>
+
+<td align=right><b>20161 </td>
+
+<tr valign=bottom><th align=left>1970 to 1974</th> 
+
+<td align=right><b>2183 </td>
+
+<td align=right><b>100 </td>
+
+<td align=right><b>111 </td>
+
+<td align=right><b>350 </td>
+
+<td align=right><b>302 </td>
+
+<td align=right><b>237 </td>
+
+<td align=right><b>370 </td>
+
+<td align=right><b>225 </td>
+
+<td align=right><b>195 </td>
+
+<td align=right><b>111 </td>
+
+<td align=right><b>71 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>19810 </td>
+
+<tr valign=bottom><th align=left>1960 to 1969</th> 
+
+<td align=right><b>3701 </td>
+
+<td align=right><b>128 </td>
+
+<td align=right><b>170 </td>
+
+<td align=right><b>407 </td>
+
+<td align=right><b>514 </td>
+
+<td align=right><b>364 </td>
+
+<td align=right><b>652 </td>
+
+<td align=right><b>491 </td>
+
+<td align=right><b>424 </td>
+
+<td align=right><b>206 </td>
+
+<td align=right><b>100 </td>
+
+<td align=right><b>81 </td>
+
+<td align=right><b>164 </td>
+
+<td align=right><b>24107 </td>
+
+<tr valign=bottom><th align=left>1950 to 1959</th> 
+
+<td align=right><b>3710 </td>
+
+<td align=right><b>117 </td>
+
+<td align=right><b>187 </td>
+
+<td align=right><b>411 </td>
+
+<td align=right><b>527 </td>
+
+<td align=right><b>464 </td>
+
+<td align=right><b>713 </td>
+
+<td align=right><b>412 </td>
+
+<td align=right><b>433 </td>
+
+<td align=right><b>173 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>93 </td>
+
+<td align=right><b>120 </td>
+
+<td align=right><b>22076 </td>
+
+<tr valign=bottom><th align=left>1940 to 1949</th> 
+
+<td align=right><b>1856 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>108 </td>
+
+<td align=right><b>285 </td>
+
+<td align=right><b>333 </td>
+
+<td align=right><b>257 </td>
+
+<td align=right><b>281 </td>
+
+<td align=right><b>214 </td>
+
+<td align=right><b>152 </td>
+
+<td align=right><b>65 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>17901 </td>
+
+<tr valign=bottom><th align=left>1930 to 1939</th> 
+
+<td align=right><b>1157 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>92 </td>
+
+<td align=right><b>182 </td>
+
+<td align=right><b>206 </td>
+
+<td align=right><b>160 </td>
+
+<td align=right><b>159 </td>
+
+<td align=right><b>103 </td>
+
+<td align=right><b>95 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>16658 </td>
+
+<tr valign=bottom><th align=left>1920 to 1929</th> 
+
+<td align=right><b>1036 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>63 </td>
+
+<td align=right><b>194 </td>
+
+<td align=right><b>171 </td>
+
+<td align=right><b>108 </td>
+
+<td align=right><b>173 </td>
+
+<td align=right><b>109 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>17569 </td>
+
+<tr valign=bottom><th align=left>1919 or earlier</th> 
+
+<td align=right><b>1893 </td>
+
+<td align=right><b>121 </td>
+
+<td align=right><b>128 </td>
+
+<td align=right><b>332 </td>
+
+<td align=right><b>305 </td>
+
+<td align=right><b>244 </td>
+
+<td align=right><b>325 </td>
+
+<td align=right><b>141 </td>
+
+<td align=right><b>139 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>64 </td>
+
+<td align=right><b>16225 </td>
+
+<tr valign=bottom><th align=left>Median</th> 
+
+<td align=right><b>1963 </td>
+
+<td align=right><b>1964 </td>
+
+<td align=right><b>1961 </td>
+
+<td align=right><b>1962 </td>
+
+<td align=right><b>1961 </td>
+
+<td align=right><b>1959 </td>
+
+<td align=right><b>1963 </td>
+
+<td align=right><b>1964 </td>
+
+<td align=right><b>1964 </td>
+
+<td align=right><b>1967 </td>
+
+<td align=right><b>1970 </td>
+
+<td align=right><b>1962 </td>
+
+<td align=right><b>1967 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left><br>Rooms<br> <br>1 room</th> 
+
+<td align=right><b>64 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>8459 </td>
+
+<tr valign=bottom><th align=left>2 rooms</th> 
+
+<td align=right><b>192 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>10671 </td>
+
+<tr valign=bottom><th align=left>3 rooms</th> 
+
+<td align=right><b>1962 </td>
+
+<td align=right><b>93 </td>
+
+<td align=right><b>143 </td>
+
+<td align=right><b>650 </td>
+
+<td align=right><b>425 </td>
+
+<td align=right><b>213 </td>
+
+<td align=right><b>227 </td>
+
+<td align=right><b>82 </td>
+
+<td align=right><b>84 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>11120 </td>
+
+<tr valign=bottom><th align=left>4 rooms</th> 
+
+<td align=right><b>3643 </td>
+
+<td align=right><b>142 </td>
+
+<td align=right><b>231 </td>
+
+<td align=right><b>694 </td>
+
+<td align=right><b>683 </td>
+
+<td align=right><b>518 </td>
+
+<td align=right><b>600 </td>
+
+<td align=right><b>299 </td>
+
+<td align=right><b>245 </td>
+
+<td align=right><b>96 </td>
+
+<td align=right><b>67 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>15693 </td>
+
+<tr valign=bottom><th align=left>5 rooms</th> 
+
+<td align=right><b>5581 </td>
+
+<td align=right><b>186 </td>
+
+<td align=right><b>327 </td>
+
+<td align=right><b>765 </td>
+
+<td align=right><b>919 </td>
+
+<td align=right><b>701 </td>
+
+<td align=right><b>1099 </td>
+
+<td align=right><b>634 </td>
+
+<td align=right><b>493 </td>
+
+<td align=right><b>187 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>70 </td>
+
+<td align=right><b>124 </td>
+
+<td align=right><b>19240 </td>
+
+<tr valign=bottom><th align=left>6 rooms</th> 
+
+<td align=right><b>5053 </td>
+
+<td align=right><b>219 </td>
+
+<td align=right><b>275 </td>
+
+<td align=right><b>488 </td>
+
+<td align=right><b>722 </td>
+
+<td align=right><b>573 </td>
+
+<td align=right><b>932 </td>
+
+<td align=right><b>609 </td>
+
+<td align=right><b>577 </td>
+
+<td align=right><b>262 </td>
+
+<td align=right><b>112 </td>
+
+<td align=right><b>100 </td>
+
+<td align=right><b>185 </td>
+
+<td align=right><b>22675 </td>
+
+<tr valign=bottom><th align=left>7 rooms</th> 
+
+<td align=right><b>2880 </td>
+
+<td align=right><b>107 </td>
+
+<td align=right><b>122 </td>
+
+<td align=right><b>222 </td>
+
+<td align=right><b>297 </td>
+
+<td align=right><b>246 </td>
+
+<td align=right><b>515 </td>
+
+<td align=right><b>434 </td>
+
+<td align=right><b>390 </td>
+
+<td align=right><b>240 </td>
+
+<td align=right><b>107 </td>
+
+<td align=right><b>64 </td>
+
+<td align=right><b>136 </td>
+
+<td align=right><b>28653 </td>
+
+<tr valign=bottom><th align=left>8 rooms</th> 
+
+<td align=right><b>1374 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>116 </td>
+
+<td align=right><b>115 </td>
+
+<td align=right><b>226 </td>
+
+<td align=right><b>158 </td>
+
+<td align=right><b>193 </td>
+
+<td align=right><b>135 </td>
+
+<td align=right><b>80 </td>
+
+<td align=right><b>99 </td>
+
+<td align=right><b>106 </td>
+
+<td align=right><b>35316 </td>
+
+<tr valign=bottom><th align=left>9 rooms</th> 
+
+<td align=right><b>524 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>63 </td>
+
+<td align=right><b>70 </td>
+
+<td align=right><b>106 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>73 </td>
+
+<td align=right><b>45869 </td>
+
+<tr valign=bottom><th align=left>10 rooms or more</th> 
+
+<td align=right><b>573 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>39 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>82 </td>
+
+<td align=right><b>63 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>55 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>106 </td>
+
+<td align=right><b>37206 </td>
+
+<tr valign=bottom><th align=left><br>Bedrooms<br> <br>None</th> 
+
+<td align=right><b>124 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>64 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>9049 </td>
+
+<tr valign=bottom><th align=left>1</th> 
+
+<td align=right><b>2591 </td>
+
+<td align=right><b>141 </td>
+
+<td align=right><b>204 </td>
+
+<td align=right><b>768 </td>
+
+<td align=right><b>554 </td>
+
+<td align=right><b>288 </td>
+
+<td align=right><b>298 </td>
+
+<td align=right><b>127 </td>
+
+<td align=right><b>129 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>11649 </td>
+
+<tr valign=bottom><th align=left>2</th> 
+
+<td align=right><b>6784 </td>
+
+<td align=right><b>241 </td>
+
+<td align=right><b>394 </td>
+
+<td align=right><b>1055 </td>
+
+<td align=right><b>1154 </td>
+
+<td align=right><b>904 </td>
+
+<td align=right><b>1247 </td>
+
+<td align=right><b>685 </td>
+
+<td align=right><b>549 </td>
+
+<td align=right><b>218 </td>
+
+<td align=right><b>103 </td>
+
+<td align=right><b>81 </td>
+
+<td align=right><b>151 </td>
+
+<td align=right><b>18030 </td>
+
+<tr valign=bottom><th align=left>3</th> 
+
+<td align=right><b>9182 </td>
+
+<td align=right><b>348 </td>
+
+<td align=right><b>471 </td>
+
+<td align=right><b>951 </td>
+
+<td align=right><b>1244 </td>
+
+<td align=right><b>1006 </td>
+
+<td align=right><b>1690 </td>
+
+<td align=right><b>1166 </td>
+
+<td align=right><b>1049 </td>
+
+<td align=right><b>534 </td>
+
+<td align=right><b>232 </td>
+
+<td align=right><b>153 </td>
+
+<td align=right><b>338 </td>
+
+<td align=right><b>23372 </td>
+
+<tr valign=bottom><th align=left>4 or more</th> 
+
+<td align=right><b>3164 </td>
+
+<td align=right><b>113 </td>
+
+<td align=right><b>125 </td>
+
+<td align=right><b>188 </td>
+
+<td align=right><b>299 </td>
+
+<td align=right><b>253 </td>
+
+<td align=right><b>518 </td>
+
+<td align=right><b>379 </td>
+
+<td align=right><b>426 </td>
+
+<td align=right><b>265 </td>
+
+<td align=right><b>160 </td>
+
+<td align=right><b>160 </td>
+
+<td align=right><b>279 </td>
+
+<td align=right><b>32296 </td>
+
+<tr valign=bottom><th align=left><br>Complete Bathrooms<br> <br>None</th> 
+
+<td align=right><b>184 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>9896 </td>
+
+<tr valign=bottom><th align=left>1</th> 
+
+<td align=right><b>8919 </td>
+
+<td align=right><b>353 </td>
+
+<td align=right><b>590 </td>
+
+<td align=right><b>1933 </td>
+
+<td align=right><b>1785 </td>
+
+<td align=right><b>1147 </td>
+
+<td align=right><b>1415 </td>
+
+<td align=right><b>729 </td>
+
+<td align=right><b>549 </td>
+
+<td align=right><b>191 </td>
+
+<td align=right><b>81 </td>
+
+<td align=right><b>55 </td>
+
+<td align=right><b>91 </td>
+
+<td align=right><b>14435 </td>
+
+<tr valign=bottom><th align=left>1 1/2</th> 
+
+<td align=right><b>4118 </td>
+
+<td align=right><b>162 </td>
+
+<td align=right><b>214 </td>
+
+<td align=right><b>398 </td>
+
+<td align=right><b>565 </td>
+
+<td align=right><b>532 </td>
+
+<td align=right><b>803 </td>
+
+<td align=right><b>519 </td>
+
+<td align=right><b>462 </td>
+
+<td align=right><b>181 </td>
+
+<td align=right><b>75 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>130 </td>
+
+<td align=right><b>22326 </td>
+
+<tr valign=bottom><th align=left>2 or more</th> 
+
+<td align=right><b>8626 </td>
+
+<td align=right><b>319 </td>
+
+<td align=right><b>382 </td>
+
+<td align=right><b>630 </td>
+
+<td align=right><b>890 </td>
+
+<td align=right><b>758 </td>
+
+<td align=right><b>1524 </td>
+
+<td align=right><b>1107 </td>
+
+<td align=right><b>1137 </td>
+
+<td align=right><b>681 </td>
+
+<td align=right><b>360 </td>
+
+<td align=right><b>270 </td>
+
+<td align=right><b>569 </td>
+
+<td align=right><b>28758 </td>
+
+<tr valign=bottom><th align=left><br>Main Heating Equipment<br> <br>Warm-air furnace</th> 
+
+<td align=right><b>13011 </td>
+
+<td align=right><b>494 </td>
+
+<td align=right><b>678 </td>
+
+<td align=right><b>1502 </td>
+
+<td align=right><b>1960 </td>
+
+<td align=right><b>1431 </td>
+
+<td align=right><b>2314 </td>
+
+<td align=right><b>1508 </td>
+
+<td align=right><b>1377 </td>
+
+<td align=right><b>689 </td>
+
+<td align=right><b>341 </td>
+
+<td align=right><b>246 </td>
+
+<td align=right><b>470 </td>
+
+<td align=right><b>21899 </td>
+
+<tr valign=bottom><th align=left>Steam or hot water system</th> 
+
+<td align=right><b>3228 </td>
+
+<td align=right><b>108 </td>
+
+<td align=right><b>176 </td>
+
+<td align=right><b>506 </td>
+
+<td align=right><b>419 </td>
+
+<td align=right><b>336 </td>
+
+<td align=right><b>541 </td>
+
+<td align=right><b>362 </td>
+
+<td align=right><b>341 </td>
+
+<td align=right><b>147 </td>
+
+<td align=right><b>79 </td>
+
+<td align=right><b>71 </td>
+
+<td align=right><b>141 </td>
+
+<td align=right><b>21269 </td>
+
+<tr valign=bottom><th align=left>Electric heat pump</th> 
+
+<td align=right><b>2004 </td>
+
+<td align=right><b>74 </td>
+
+<td align=right><b>126 </td>
+
+<td align=right><b>238 </td>
+
+<td align=right><b>219 </td>
+
+<td align=right><b>242 </td>
+
+<td align=right><b>336 </td>
+
+<td align=right><b>226 </td>
+
+<td align=right><b>205 </td>
+
+<td align=right><b>126 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>111 </td>
+
+<td align=right><b>23069 </td>
+
+<tr valign=bottom><th align=left>Built-in electric units</th> 
+
+<td align=right><b>1102 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>57 </td>
+
+<td align=right><b>216 </td>
+
+<td align=right><b>206 </td>
+
+<td align=right><b>143 </td>
+
+<td align=right><b>188 </td>
+
+<td align=right><b>105 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>15875 </td>
+
+<tr valign=bottom><th align=left>Floor, wall, or other built-in hot-air<br> units without ducts</th> 
+
+<td align=right><b>1037 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>72 </td>
+
+<td align=right><b>193 </td>
+
+<td align=right><b>184 </td>
+
+<td align=right><b>113 </td>
+
+<td align=right><b>199 </td>
+
+<td align=right><b>70 </td>
+
+<td align=right><b>77 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>16197 </td>
+
+<tr valign=bottom><th align=left>Room heaters with flue</th> 
+
+<td align=right><b>452 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>42 </td>
+
+<td align=right><b>128 </td>
+
+<td align=right><b>79 </td>
+
+<td align=right><b>56 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>11918 </td>
+
+<tr valign=bottom><th align=left>Room heaters without flue</th> 
+
+<td align=right><b>455 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>140 </td>
+
+<td align=right><b>95 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>11956 </td>
+
+<tr valign=bottom><th align=left>Portable electric heaters</th> 
+
+<td align=right><b>133 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>37 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>13223 </td>
+
+<tr valign=bottom><th align=left>Stoves</th> 
+
+<td align=right><b>242 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>15403 </td>
+
+<tr valign=bottom><th align=left>Fireplaces with inserts</th> 
+
+<td align=right><b>26 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>21736 </td>
+
+<tr valign=bottom><th align=left>Fireplaces without inserts</th> 
+
+<td align=right><b>18 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>22206 </td>
+
+<tr valign=bottom><th align=left>Other</th> 
+
+<td align=right><b>54 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>19001 </td>
+
+<tr valign=bottom><th align=left>Cooking stove</th> 
+
+<td align=right><b>28 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>22684 </td>
+
+<tr valign=bottom><th align=left>None</th> 
+
+<td align=right><b>56 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>17454 </td>
+
+<tr valign=bottom><th align=left><br>Primary Source of Water<br> <br>Public system or private company</th> 
+
+<td align=right><b>18725 </td>
+
+<td align=right><b>702 </td>
+
+<td align=right><b>1013 </td>
+
+<td align=right><b>2614 </td>
+
+<td align=right><b>2833 </td>
+
+<td align=right><b>2072 </td>
+
+<td align=right><b>3239 </td>
+
+<td align=right><b>1994 </td>
+
+<td align=right><b>1854 </td>
+
+<td align=right><b>917 </td>
+
+<td align=right><b>451 </td>
+
+<td align=right><b>351 </td>
+
+<td align=right><b>686 </td>
+
+<td align=right><b>20398 </td>
+
+<tr valign=bottom><th align=left>Well serving 1 to 5 units</th> 
+
+<td align=right><b>2962 </td>
+
+<td align=right><b>139 </td>
+
+<td align=right><b>170 </td>
+
+<td align=right><b>377 </td>
+
+<td align=right><b>417 </td>
+
+<td align=right><b>360 </td>
+
+<td align=right><b>506 </td>
+
+<td align=right><b>347 </td>
+
+<td align=right><b>297 </td>
+
+<td align=right><b>139 </td>
+
+<td align=right><b>65 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>99 </td>
+
+<td align=right><b>20374 </td>
+
+<tr valign=bottom><th align=left>Drilled</th> 
+
+<td align=right><b>2628 </td>
+
+<td align=right><b>119 </td>
+
+<td align=right><b>151 </td>
+
+<td align=right><b>322 </td>
+
+<td align=right><b>357 </td>
+
+<td align=right><b>317 </td>
+
+<td align=right><b>460 </td>
+
+<td align=right><b>303 </td>
+
+<td align=right><b>274 </td>
+
+<td align=right><b>130 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>90 </td>
+
+<td align=right><b>21053 </td>
+
+<tr valign=bottom><th align=left>Dug</th> 
+
+<td align=right><b>249 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>16361 </td>
+
+<tr valign=bottom><th align=left>Not reported</th> 
+
+<td align=right><b>85 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>16908 </td>
+
+<tr valign=bottom><th align=left>Other</th> 
+
+<td align=right><b>159 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>15488 </td>
+
+<tr valign=bottom><th align=left><br>Means of Sewage Disposal<br> <br>Public sewer</th> 
+
+<td align=right><b>16811 </td>
+
+<td align=right><b>606 </td>
+
+<td align=right><b>926 </td>
+
+<td align=right><b>2399 </td>
+
+<td align=right><b>2577 </td>
+
+<td align=right><b>1805 </td>
+
+<td align=right><b>2916 </td>
+
+<td align=right><b>1775 </td>
+
+<td align=right><b>1693 </td>
+
+<td align=right><b>807 </td>
+
+<td align=right><b>393 </td>
+
+<td align=right><b>329 </td>
+
+<td align=right><b>585 </td>
+
+<td align=right><b>20316 </td>
+
+<tr valign=bottom><th align=left>Septic tank, cesspool, chemical toilet</th> 
+
+<td align=right><b>5003 </td>
+
+<td align=right><b>234 </td>
+
+<td align=right><b>276 </td>
+
+<td align=right><b>620 </td>
+
+<td align=right><b>684 </td>
+
+<td align=right><b>645 </td>
+
+<td align=right><b>847 </td>
+
+<td align=right><b>582 </td>
+
+<td align=right><b>463 </td>
+
+<td align=right><b>252 </td>
+
+<td align=right><b>123 </td>
+
+<td align=right><b>72 </td>
+
+<td align=right><b>205 </td>
+
+<td align=right><b>20491 </td>
+
+<tr valign=bottom><th align=left>Other</th> 
+
+<td align=right><b>32 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>12548 </td>
+
+<tr valign=bottom><th align=left><br>Main House Heating Fuel<br> <br>        Housing units with heating fuel</th> 
+
+<td align=right><b>21790 </td>
+
+<td align=right><b>843 </td>
+
+<td align=right><b>1198 </td>
+
+<td align=right><b>3022 </td>
+
+<td align=right><b>3254 </td>
+
+<td align=right><b>2447 </td>
+
+<td align=right><b>3757 </td>
+
+<td align=right><b>2354 </td>
+
+<td align=right><b>2152 </td>
+
+<td align=right><b>1057 </td>
+
+<td align=right><b>515 </td>
+
+<td align=right><b>401 </td>
+
+<td align=right><b>789 </td>
+
+<td align=right><b>20347 </td>
+
+<tr valign=bottom><th align=left>Electricity</th> 
+
+<td align=right><b>5793 </td>
+
+<td align=right><b>241 </td>
+
+<td align=right><b>353 </td>
+
+<td align=right><b>890 </td>
+
+<td align=right><b>907 </td>
+
+<td align=right><b>683 </td>
+
+<td align=right><b>950 </td>
+
+<td align=right><b>593 </td>
+
+<td align=right><b>497 </td>
+
+<td align=right><b>279 </td>
+
+<td align=right><b>140 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>176 </td>
+
+<td align=right><b>18702 </td>
+
+<tr valign=bottom><th align=left>Piped gas</th> 
+
+<td align=right><b>11476 </td>
+
+<td align=right><b>414 </td>
+
+<td align=right><b>592 </td>
+
+<td align=right><b>1414 </td>
+
+<td align=right><b>1687 </td>
+
+<td align=right><b>1213 </td>
+
+<td align=right><b>2063 </td>
+
+<td align=right><b>1292 </td>
+
+<td align=right><b>1260 </td>
+
+<td align=right><b>565 </td>
+
+<td align=right><b>286 </td>
+
+<td align=right><b>249 </td>
+
+<td align=right><b>443 </td>
+
+<td align=right><b>22030 </td>
+
+<tr valign=bottom><th align=left>Bottled gas</th> 
+
+<td align=right><b>1424 </td>
+
+<td align=right><b>71 </td>
+
+<td align=right><b>100 </td>
+
+<td align=right><b>253 </td>
+
+<td align=right><b>237 </td>
+
+<td align=right><b>170 </td>
+
+<td align=right><b>208 </td>
+
+<td align=right><b>149 </td>
+
+<td align=right><b>99 </td>
+
+<td align=right><b>62 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>37 </td>
+
+<td align=right><b>16467 </td>
+
+<tr valign=bottom><th align=left>Fuel oil</th> 
+
+<td align=right><b>2506 </td>
+
+<td align=right><b>92 </td>
+
+<td align=right><b>116 </td>
+
+<td align=right><b>343 </td>
+
+<td align=right><b>329 </td>
+
+<td align=right><b>296 </td>
+
+<td align=right><b>429 </td>
+
+<td align=right><b>278 </td>
+
+<td align=right><b>259 </td>
+
+<td align=right><b>124 </td>
+
+<td align=right><b>61 </td>
+
+<td align=right><b>55 </td>
+
+<td align=right><b>123 </td>
+
+<td align=right><b>21794 </td>
+
+<tr valign=bottom><th align=left>Kerosene or other liquid fuel</th> 
+
+<td align=right><b>174 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>14080 </td>
+
+<tr valign=bottom><th align=left>Coal or coke</th> 
+
+<td align=right><b>30 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>10742 </td>
+
+<tr valign=bottom><th align=left>Wood</th> 
+
+<td align=right><b>360 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>71 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>17483 </td>
+
+<tr valign=bottom><th align=left>Solar energy</th> 
+
+<td align=right><b>4 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>101825 </td>
+
+<tr valign=bottom><th align=left>Other</th> 
+
+<td align=right><b>22 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>1 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>19379 </td>
+
+<tr valign=bottom><th align=left><br>Cooking Fuel<br> <br>        With cooking fuel</th> 
+
+<td align=right><b>21772 </td>
+
+<td align=right><b>841 </td>
+
+<td align=right><b>1191 </td>
+
+<td align=right><b>3000 </td>
+
+<td align=right><b>3258 </td>
+
+<td align=right><b>2451 </td>
+
+<td align=right><b>3758 </td>
+
+<td align=right><b>2359 </td>
+
+<td align=right><b>2156 </td>
+
+<td align=right><b>1059 </td>
+
+<td align=right><b>513 </td>
+
+<td align=right><b>399 </td>
+
+<td align=right><b>787 </td>
+
+<td align=right><b>20386 </td>
+
+<tr valign=bottom><th align=left>Electricity</th> 
+
+<td align=right><b>13287 </td>
+
+<td align=right><b>498 </td>
+
+<td align=right><b>702 </td>
+
+<td align=right><b>1649 </td>
+
+<td align=right><b>1988 </td>
+
+<td align=right><b>1504 </td>
+
+<td align=right><b>2347 </td>
+
+<td align=right><b>1471 </td>
+
+<td align=right><b>1356 </td>
+
+<td align=right><b>715 </td>
+
+<td align=right><b>319 </td>
+
+<td align=right><b>239 </td>
+
+<td align=right><b>500 </td>
+
+<td align=right><b>21289 </td>
+
+<tr valign=bottom><th align=left>Piped gas</th> 
+
+<td align=right><b>7270 </td>
+
+<td align=right><b>290 </td>
+
+<td align=right><b>417 </td>
+
+<td align=right><b>1098 </td>
+
+<td align=right><b>1069 </td>
+
+<td align=right><b>783 </td>
+
+<td align=right><b>1238 </td>
+
+<td align=right><b>756 </td>
+
+<td align=right><b>718 </td>
+
+<td align=right><b>295 </td>
+
+<td align=right><b>180 </td>
+
+<td align=right><b>160 </td>
+
+<td align=right><b>264 </td>
+
+<td align=right><b>19854 </td>
+
+<tr valign=bottom><th align=left>Bottled gas</th> 
+
+<td align=right><b>1200 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>73 </td>
+
+<td align=right><b>244 </td>
+
+<td align=right><b>200 </td>
+
+<td align=right><b>158 </td>
+
+<td align=right><b>172 </td>
+
+<td align=right><b>132 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>23 </td>
+
+<td align=right><b>15984 </td>
+
+<tr valign=bottom><th align=left>Kerosene or other liquid fuel</th> 
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>7500 </td>
+
+<tr valign=bottom><th align=left>Coal or coke</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>Wood</th> 
+
+<td align=right><b>9 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>15609 </td>
+
+<tr valign=bottom><th align=left>Other</th> 
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>7500 </td>
+
+<tr valign=bottom><th align=left><br>Persons<br> <br>1 person</th> 
+
+<td align=right><b>9953 </td>
+
+<td align=right><b>410 </td>
+
+<td align=right><b>706 </td>
+
+<td align=right><b>2358 </td>
+
+<td align=right><b>2073 </td>
+
+<td align=right><b>1259 </td>
+
+<td align=right><b>1503 </td>
+
+<td align=right><b>698 </td>
+
+<td align=right><b>487 </td>
+
+<td align=right><b>209 </td>
+
+<td align=right><b>84 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>100 </td>
+
+<td align=right><b>13623 </td>
+
+<tr valign=bottom><th align=left>2 persons</th> 
+
+<td align=right><b>9751 </td>
+
+<td align=right><b>401 </td>
+
+<td align=right><b>427 </td>
+
+<td align=right><b>568 </td>
+
+<td align=right><b>1034 </td>
+
+<td align=right><b>1010 </td>
+
+<td align=right><b>1878 </td>
+
+<td align=right><b>1386 </td>
+
+<td align=right><b>1320 </td>
+
+<td align=right><b>659 </td>
+
+<td align=right><b>323 </td>
+
+<td align=right><b>232 </td>
+
+<td align=right><b>514 </td>
+
+<td align=right><b>27645 </td>
+
+<tr valign=bottom><th align=left>3 persons</th> 
+
+<td align=right><b>1286 </td>
+
+<td align=right><b>23 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>72 </td>
+
+<td align=right><b>116 </td>
+
+<td align=right><b>114 </td>
+
+<td align=right><b>234 </td>
+
+<td align=right><b>128 </td>
+
+<td align=right><b>213 </td>
+
+<td align=right><b>133 </td>
+
+<td align=right><b>70 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>32882 </td>
+
+<tr valign=bottom><th align=left>4 persons</th> 
+
+<td align=right><b>519 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>105 </td>
+
+<td align=right><b>84 </td>
+
+<td align=right><b>87 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>36105 </td>
+
+<tr valign=bottom><th align=left>5 persons</th> 
+
+<td align=right><b>145 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>36921 </td>
+
+<tr valign=bottom><th align=left>6 persons</th> 
+
+<td align=right><b>121 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>36868 </td>
+
+<tr valign=bottom><th align=left>7 persons or more</th> 
+
+<td align=right><b>70 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>44508 </td>
+
+<tr valign=bottom><th align=left><br>Household Composition by Age of<br> Householder<br> <br>2-or-more-person households</th> 
+
+<td align=right><b>11893 </td>
+
+<td align=right><b>436 </td>
+
+<td align=right><b>495 </td>
+
+<td align=right><b>668 </td>
+
+<td align=right><b>1194 </td>
+
+<td align=right><b>1197 </td>
+
+<td align=right><b>2259 </td>
+
+<td align=right><b>1663 </td>
+
+<td align=right><b>1671 </td>
+
+<td align=right><b>853 </td>
+
+<td align=right><b>431 </td>
+
+<td align=right><b>335 </td>
+
+<td align=right><b>690 </td>
+
+<td align=right><b>28657 </td>
+
+<tr valign=bottom><th align=left>Married-couple families,<br>   no nonrelatives</th> 
+
+<td align=right><b>9198 </td>
+
+<td align=right><b>351 </td>
+
+<td align=right><b>379 </td>
+
+<td align=right><b>385 </td>
+
+<td align=right><b>847 </td>
+
+<td align=right><b>857 </td>
+
+<td align=right><b>1769 </td>
+
+<td align=right><b>1339 </td>
+
+<td align=right><b>1360 </td>
+
+<td align=right><b>725 </td>
+
+<td align=right><b>351 </td>
+
+<td align=right><b>278 </td>
+
+<td align=right><b>559 </td>
+
+<td align=right><b>30092 </td>
+
+<tr valign=bottom><th align=left>Under 25 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>25 to 29 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>30 to 34 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>35 to 44 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>45 to 64 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>65 years and over</th> 
+
+<td align=right><b>9198 </td>
+
+<td align=right><b>351 </td>
+
+<td align=right><b>379 </td>
+
+<td align=right><b>385 </td>
+
+<td align=right><b>847 </td>
+
+<td align=right><b>857 </td>
+
+<td align=right><b>1769 </td>
+
+<td align=right><b>1339 </td>
+
+<td align=right><b>1360 </td>
+
+<td align=right><b>725 </td>
+
+<td align=right><b>351 </td>
+
+<td align=right><b>278 </td>
+
+<td align=right><b>559 </td>
+
+<td align=right><b>30092 </td>
+
+<tr valign=bottom><th align=left>Other male householder</th> 
+
+<td align=right><b>690 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>78 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>124 </td>
+
+<td align=right><b>96 </td>
+
+<td align=right><b>90 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>26022 </td>
+
+<tr valign=bottom><th align=left>Under 45 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>45 to 64 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>65 years and over</th> 
+
+<td align=right><b>690 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>78 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>124 </td>
+
+<td align=right><b>96 </td>
+
+<td align=right><b>90 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>26022 </td>
+
+<tr valign=bottom><th align=left>Other female householder</th> 
+
+<td align=right><b>2005 </td>
+
+<td align=right><b>56 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>230 </td>
+
+<td align=right><b>270 </td>
+
+<td align=right><b>264 </td>
+
+<td align=right><b>367 </td>
+
+<td align=right><b>229 </td>
+
+<td align=right><b>221 </td>
+
+<td align=right><b>87 </td>
+
+<td align=right><b>61 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>99 </td>
+
+<td align=right><b>22734 </td>
+
+<tr valign=bottom><th align=left>Under 45 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>45 to 64 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>65 years and over</th> 
+
+<td align=right><b>2005 </td>
+
+<td align=right><b>56 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>230 </td>
+
+<td align=right><b>270 </td>
+
+<td align=right><b>264 </td>
+
+<td align=right><b>367 </td>
+
+<td align=right><b>229 </td>
+
+<td align=right><b>221 </td>
+
+<td align=right><b>87 </td>
+
+<td align=right><b>61 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>99 </td>
+
+<td align=right><b>22734 </td>
+
+<tr valign=bottom><th align=left>1-person households</th> 
+
+<td align=right><b>9953 </td>
+
+<td align=right><b>410 </td>
+
+<td align=right><b>706 </td>
+
+<td align=right><b>2358 </td>
+
+<td align=right><b>2073 </td>
+
+<td align=right><b>1259 </td>
+
+<td align=right><b>1503 </td>
+
+<td align=right><b>698 </td>
+
+<td align=right><b>487 </td>
+
+<td align=right><b>209 </td>
+
+<td align=right><b>84 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>100 </td>
+
+<td align=right><b>13623 </td>
+
+<tr valign=bottom><th align=left>Male householder</th> 
+
+<td align=right><b>2440 </td>
+
+<td align=right><b>106 </td>
+
+<td align=right><b>119 </td>
+
+<td align=right><b>410 </td>
+
+<td align=right><b>429 </td>
+
+<td align=right><b>291 </td>
+
+<td align=right><b>419 </td>
+
+<td align=right><b>239 </td>
+
+<td align=right><b>200 </td>
+
+<td align=right><b>100 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>69 </td>
+
+<td align=right><b>17662 </td>
+
+<tr valign=bottom><th align=left>Under 45 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>45 to 64 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>65 years and over</th> 
+
+<td align=right><b>2440 </td>
+
+<td align=right><b>106 </td>
+
+<td align=right><b>119 </td>
+
+<td align=right><b>410 </td>
+
+<td align=right><b>429 </td>
+
+<td align=right><b>291 </td>
+
+<td align=right><b>419 </td>
+
+<td align=right><b>239 </td>
+
+<td align=right><b>200 </td>
+
+<td align=right><b>100 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>69 </td>
+
+<td align=right><b>17662 </td>
+
+<tr valign=bottom><th align=left>Female householder</th> 
+
+<td align=right><b>7514 </td>
+
+<td align=right><b>304 </td>
+
+<td align=right><b>587 </td>
+
+<td align=right><b>1949 </td>
+
+<td align=right><b>1643 </td>
+
+<td align=right><b>968 </td>
+
+<td align=right><b>1085 </td>
+
+<td align=right><b>459 </td>
+
+<td align=right><b>288 </td>
+
+<td align=right><b>108 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>12791 </td>
+
+<tr valign=bottom><th align=left>Under 45 year</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>45 to 64 years</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>65 years and over</th> 
+
+<td align=right><b>7514 </td>
+
+<td align=right><b>304 </td>
+
+<td align=right><b>587 </td>
+
+<td align=right><b>1949 </td>
+
+<td align=right><b>1643 </td>
+
+<td align=right><b>968 </td>
+
+<td align=right><b>1085 </td>
+
+<td align=right><b>459 </td>
+
+<td align=right><b>288 </td>
+
+<td align=right><b>108 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>12791 </td>
+
+<tr valign=bottom><th align=left><br>Own Never Married Children Under<br> 18 Years Old<br> <br>No own children under 18 years</th> 
+
+<td align=right><b>21717 </td>
+
+<td align=right><b>843 </td>
+
+<td align=right><b>1197 </td>
+
+<td align=right><b>3011 </td>
+
+<td align=right><b>3260 </td>
+
+<td align=right><b>2449 </td>
+
+<td align=right><b>3736 </td>
+
+<td align=right><b>2348 </td>
+
+<td align=right><b>2127 </td>
+
+<td align=right><b>1056 </td>
+
+<td align=right><b>515 </td>
+
+<td align=right><b>397 </td>
+
+<td align=right><b>778 </td>
+
+<td align=right><b>20262 </td>
+
+<tr valign=bottom><th align=left>With own children under 18 years</th> 
+
+<td align=right><b>129 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>31160 </td>
+
+<tr valign=bottom><th align=left>Under 6 years only</th> 
+
+<td align=right><b>6 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>24872 </td>
+
+<tr valign=bottom><th align=left>1</th> 
+
+<td align=right><b>6 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>24872 </td>
+
+<tr valign=bottom><th align=left>2</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>3 or more</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>6 to 17 years only</th> 
+
+<td align=right><b>122 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>31826 </td>
+
+<tr valign=bottom><th align=left>1</th> 
+
+<td align=right><b>96 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>33313 </td>
+
+<tr valign=bottom><th align=left>2</th> 
+
+<td align=right><b>18 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>27581 </td>
+
+<tr valign=bottom><th align=left>3 or more</th> 
+
+<td align=right><b>8 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>41209 </td>
+
+<tr valign=bottom><th align=left>Both age groups</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>2</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>3 or more</th> 
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left><br>Monthly Housing Costs<br> <br>Less than $100</th> 
+
+<td align=right><b>560 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>171 </td>
+
+<td align=right><b>105 </td>
+
+<td align=right><b>84 </td>
+
+<td align=right><b>67 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>23 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>11760 </td>
+
+<tr valign=bottom><th align=left>$100 to $199</th> 
+
+<td align=right><b>3328 </td>
+
+<td align=right><b>173 </td>
+
+<td align=right><b>230 </td>
+
+<td align=right><b>728 </td>
+
+<td align=right><b>652 </td>
+
+<td align=right><b>435 </td>
+
+<td align=right><b>576 </td>
+
+<td align=right><b>256 </td>
+
+<td align=right><b>150 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>14092 </td>
+
+<tr valign=bottom><th align=left>$200 to $249</th> 
+
+<td align=right><b>2333 </td>
+
+<td align=right><b>80 </td>
+
+<td align=right><b>142 </td>
+
+<td align=right><b>416 </td>
+
+<td align=right><b>359 </td>
+
+<td align=right><b>308 </td>
+
+<td align=right><b>440 </td>
+
+<td align=right><b>240 </td>
+
+<td align=right><b>162 </td>
+
+<td align=right><b>81 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>17731 </td>
+
+<tr valign=bottom><th align=left>$250 to $299</th> 
+
+<td align=right><b>2211 </td>
+
+<td align=right><b>70 </td>
+
+<td align=right><b>107 </td>
+
+<td align=right><b>269 </td>
+
+<td align=right><b>412 </td>
+
+<td align=right><b>252 </td>
+
+<td align=right><b>397 </td>
+
+<td align=right><b>269 </td>
+
+<td align=right><b>236 </td>
+
+<td align=right><b>103 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>19921 </td>
+
+<tr valign=bottom><th align=left>$300 to $349</th> 
+
+<td align=right><b>1860 </td>
+
+<td align=right><b>60 </td>
+
+<td align=right><b>101 </td>
+
+<td align=right><b>220 </td>
+
+<td align=right><b>229 </td>
+
+<td align=right><b>254 </td>
+
+<td align=right><b>335 </td>
+
+<td align=right><b>251 </td>
+
+<td align=right><b>203 </td>
+
+<td align=right><b>82 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>21956 </td>
+
+<tr valign=bottom><th align=left>$350 to $399</th> 
+
+<td align=right><b>1469 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>62 </td>
+
+<td align=right><b>147 </td>
+
+<td align=right><b>214 </td>
+
+<td align=right><b>157 </td>
+
+<td align=right><b>274 </td>
+
+<td align=right><b>197 </td>
+
+<td align=right><b>195 </td>
+
+<td align=right><b>57 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>70 </td>
+
+<td align=right><b>23804 </td>
+
+<tr valign=bottom><th align=left>$400 to $449</th> 
+
+<td align=right><b>1210 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>55 </td>
+
+<td align=right><b>162 </td>
+
+<td align=right><b>189 </td>
+
+<td align=right><b>122 </td>
+
+<td align=right><b>236 </td>
+
+<td align=right><b>137 </td>
+
+<td align=right><b>142 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>21159 </td>
+
+<tr valign=bottom><th align=left>$450 to $499</th> 
+
+<td align=right><b>1056 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>73 </td>
+
+<td align=right><b>152 </td>
+
+<td align=right><b>168 </td>
+
+<td align=right><b>109 </td>
+
+<td align=right><b>161 </td>
+
+<td align=right><b>123 </td>
+
+<td align=right><b>86 </td>
+
+<td align=right><b>55 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>19334 </td>
+
+<tr valign=bottom><th align=left>$500 to $599</th> 
+
+<td align=right><b>1763 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>112 </td>
+
+<td align=right><b>178 </td>
+
+<td align=right><b>244 </td>
+
+<td align=right><b>192 </td>
+
+<td align=right><b>277 </td>
+
+<td align=right><b>185 </td>
+
+<td align=right><b>223 </td>
+
+<td align=right><b>104 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>78 </td>
+
+<td align=right><b>22810 </td>
+
+<tr valign=bottom><th align=left>$600 to $699</th> 
+
+<td align=right><b>1238 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>42 </td>
+
+<td align=right><b>105 </td>
+
+<td align=right><b>197 </td>
+
+<td align=right><b>133 </td>
+
+<td align=right><b>233 </td>
+
+<td align=right><b>117 </td>
+
+<td align=right><b>165 </td>
+
+<td align=right><b>82 </td>
+
+<td align=right><b>42 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>23952 </td>
+
+<tr valign=bottom><th align=left>$700 to $799</th> 
+
+<td align=right><b>948 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>72 </td>
+
+<td align=right><b>111 </td>
+
+<td align=right><b>102 </td>
+
+<td align=right><b>159 </td>
+
+<td align=right><b>148 </td>
+
+<td align=right><b>106 </td>
+
+<td align=right><b>82 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>26483 </td>
+
+<tr valign=bottom><th align=left>$800 to $999</th> 
+
+<td align=right><b>1272 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>112 </td>
+
+<td align=right><b>144 </td>
+
+<td align=right><b>111 </td>
+
+<td align=right><b>227 </td>
+
+<td align=right><b>157 </td>
+
+<td align=right><b>162 </td>
+
+<td align=right><b>106 </td>
+
+<td align=right><b>77 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>28274 </td>
+
+<tr valign=bottom><th align=left>$1,000 to $1,249</th> 
+
+<td align=right><b>754 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>56 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>67 </td>
+
+<td align=right><b>147 </td>
+
+<td align=right><b>96 </td>
+
+<td align=right><b>104 </td>
+
+<td align=right><b>69 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>30876 </td>
+
+<tr valign=bottom><th align=left>$1,250 to $1,499</th> 
+
+<td align=right><b>490 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>60 </td>
+
+<td align=right><b>62 </td>
+
+<td align=right><b>77 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>67 </td>
+
+<td align=right><b>38048 </td>
+
+<tr valign=bottom><th align=left>$1,500 or more</th> 
+
+<td align=right><b>878 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>62 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>116 </td>
+
+<td align=right><b>84 </td>
+
+<td align=right><b>109 </td>
+
+<td align=right><b>85 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>134 </td>
+
+<td align=right><b>39325 </td>
+
+<tr valign=bottom><th align=left>No cash rent</th> 
+
+<td align=right><b>478 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>139 </td>
+
+<td align=right><b>115 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>11382 </td>
+
+<tr valign=bottom><th align=left>Median (excludes no cash rent)</th> 
+
+<td align=right><b>363 </td>
+
+<td align=right><b>343 </td>
+
+<td align=right><b>331 </td>
+
+<td align=right><b>274 </td>
+
+<td align=right><b>310 </td>
+
+<td align=right><b>324 </td>
+
+<td align=right><b>356 </td>
+
+<td align=right><b>384 </td>
+
+<td align=right><b>436 </td>
+
+<td align=right><b>545 </td>
+
+<td align=right><b>578 </td>
+
+<td align=right><b>546 </td>
+
+<td align=right><b>640 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left><br>Median Monthly Housing Costs for<br> Owners<br> <br>Monthly costs including all mortgages<br> plus maintenance costs</th> 
+
+<td align=right><b>361 </td>
+
+<td align=right><b>329 </td>
+
+<td align=right><b>322 </td>
+
+<td align=right><b>266 </td>
+
+<td align=right><b>295 </td>
+
+<td align=right><b>310 </td>
+
+<td align=right><b>344 </td>
+
+<td align=right><b>391 </td>
+
+<td align=right><b>436 </td>
+
+<td align=right><b>543 </td>
+
+<td align=right><b>590 </td>
+
+<td align=right><b>546 </td>
+
+<td align=right><b>683 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left>Monthly costs excluding second and<br> subsequent mortgages and maintenance<br> costs</th> 
+
+<td align=right><b>338 </td>
+
+<td align=right><b>311 </td>
+
+<td align=right><b>303 </td>
+
+<td align=right><b>247 </td>
+
+<td align=right><b>281 </td>
+
+<td align=right><b>295 </td>
+
+<td align=right><b>325 </td>
+
+<td align=right><b>361 </td>
+
+<td align=right><b>403 </td>
+
+<td align=right><b>507 </td>
+
+<td align=right><b>553 </td>
+
+<td align=right><b>505 </td>
+
+<td align=right><b>614 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left><br>Monthly Housing Costs as Percent of<br> Current Income@3<br> <br>Less than 5 percent</th> 
+
+<td align=right><b>1078 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>61 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>135 </td>
+
+<td align=right><b>137 </td>
+
+<td align=right><b>126 </td>
+
+<td align=right><b>132 </td>
+
+<td align=right><b>385 </td>
+
+<td align=right><b>96427 </td>
+
+<tr valign=bottom><th align=left>5 to 9 percent</th> 
+
+<td align=right><b>2948 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>75 </td>
+
+<td align=right><b>143 </td>
+
+<td align=right><b>500 </td>
+
+<td align=right><b>549 </td>
+
+<td align=right><b>719 </td>
+
+<td align=right><b>385 </td>
+
+<td align=right><b>179 </td>
+
+<td align=right><b>151 </td>
+
+<td align=right><b>209 </td>
+
+<td align=right><b>44717 </td>
+
+<tr valign=bottom><th align=left>10 to 14 percent</th> 
+
+<td align=right><b>3151 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>256 </td>
+
+<td align=right><b>419 </td>
+
+<td align=right><b>813 </td>
+
+<td align=right><b>631 </td>
+
+<td align=right><b>481 </td>
+
+<td align=right><b>227 </td>
+
+<td align=right><b>103 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>91 </td>
+
+<td align=right><b>30029 </td>
+
+<tr valign=bottom><th align=left>15 to 19 percent</th> 
+
+<td align=right><b>2444 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>147 </td>
+
+<td align=right><b>371 </td>
+
+<td align=right><b>370 </td>
+
+<td align=right><b>657 </td>
+
+<td align=right><b>358 </td>
+
+<td align=right><b>287 </td>
+
+<td align=right><b>134 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>24990 </td>
+
+<tr valign=bottom><th align=left>20 to 24 percent</th> 
+
+<td align=right><b>1884 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>213 </td>
+
+<td align=right><b>399 </td>
+
+<td align=right><b>330 </td>
+
+<td align=right><b>405 </td>
+
+<td align=right><b>202 </td>
+
+<td align=right><b>203 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>19746 </td>
+
+<tr valign=bottom><th align=left>25 to 29 percent</th> 
+
+<td align=right><b>1564 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>344 </td>
+
+<td align=right><b>366 </td>
+
+<td align=right><b>241 </td>
+
+<td align=right><b>278 </td>
+
+<td align=right><b>145 </td>
+
+<td align=right><b>86 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>16268 </td>
+
+<tr valign=bottom><th align=left>30 to 34 percent</th> 
+
+<td align=right><b>1142 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>256 </td>
+
+<td align=right><b>264 </td>
+
+<td align=right><b>143 </td>
+
+<td align=right><b>228 </td>
+
+<td align=right><b>138 </td>
+
+<td align=right><b>61 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>16707 </td>
+
+<tr valign=bottom><th align=left>35 to 39 percent</th> 
+
+<td align=right><b>955 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>203 </td>
+
+<td align=right><b>217 </td>
+
+<td align=right><b>163 </td>
+
+<td align=right><b>221 </td>
+
+<td align=right><b>67 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>16447 </td>
+
+<tr valign=bottom><th align=left>40 to 49 percent</th> 
+
+<td align=right><b>1360 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>39 </td>
+
+<td align=right><b>347 </td>
+
+<td align=right><b>363 </td>
+
+<td align=right><b>206 </td>
+
+<td align=right><b>237 </td>
+
+<td align=right><b>86 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>14061 </td>
+
+<tr valign=bottom><th align=left>50 to 59 percent</th> 
+
+<td align=right><b>871 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>261 </td>
+
+<td align=right><b>263 </td>
+
+<td align=right><b>133 </td>
+
+<td align=right><b>114 </td>
+
+<td align=right><b>42 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>12593 </td>
+
+<tr valign=bottom><th align=left>60 to 69 percent</th> 
+
+<td align=right><b>545 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>180 </td>
+
+<td align=right><b>164 </td>
+
+<td align=right><b>65 </td>
+
+<td align=right><b>56 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>12103 </td>
+
+<tr valign=bottom><th align=left>70 to 99 percent</th> 
+
+<td align=right><b>929 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>354 </td>
+
+<td align=right><b>267 </td>
+
+<td align=right><b>112 </td>
+
+<td align=right><b>77 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>10962 </td>
+
+<tr valign=bottom><th align=left>100 percent or more@4</th> 
+
+<td align=right><b>1684 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>951 </td>
+
+<td align=right><b>449 </td>
+
+<td align=right><b>127 </td>
+
+<td align=right><b>64 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>Zero or negative income</th> 
+
+<td align=right><b>811 </td>
+
+<td align=right><b>811 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>No cash rent</th> 
+
+<td align=right><b>478 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>139 </td>
+
+<td align=right><b>115 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>11382 </td>
+
+<tr valign=bottom><th align=left>Median (excludes 2 previous lines)</th> 
+
+<td align=right><b>21.7 </td>
+
+<td align=right><b>22.3 </td>
+
+<td align=right><b>100+ </td>
+
+<td align=right><b>44.2 </td>
+
+<td align=right><b>31.6 </td>
+
+<td align=right><b>23.8 </td>
+
+<td align=right><b>18.6 </td>
+
+<td align=right><b>14.5 </td>
+
+<td align=right><b>12.2 </td>
+
+<td align=right><b>10.1 </td>
+
+<td align=right><b>8.6 </td>
+
+<td align=right><b>7.2 </td>
+
+<td align=right><b>5.1 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left>Median (excludes 3 lines before medians)</th> 
+
+<td align=right><b>19.6 </td>
+
+<td align=right><b>19.7 </td>
+
+<td align=right><b>55.2 </td>
+
+<td align=right><b>38.0 </td>
+
+<td align=right><b>30.4 </td>
+
+<td align=right><b>23.3 </td>
+
+<td align=right><b>18.4 </td>
+
+<td align=right><b>14.4 </td>
+
+<td align=right><b>12.2 </td>
+
+<td align=right><b>10.0 </td>
+
+<td align=right><b>8.6 </td>
+
+<td align=right><b>7.2 </td>
+
+<td align=right><b>5.1 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left><br>OWNER OCCUPIED UNITS<br> <br>        Total</th> 
+
+<td align=right><b>17543 </td>
+
+<td align=right><b>672 </td>
+
+<td align=right><b>864 </td>
+
+<td align=right><b>1777 </td>
+
+<td align=right><b>2397 </td>
+
+<td align=right><b>1963 </td>
+
+<td align=right><b>3224 </td>
+
+<td align=right><b>2131 </td>
+
+<td align=right><b>1923 </td>
+
+<td align=right><b>979 </td>
+
+<td align=right><b>485 </td>
+
+<td align=right><b>379 </td>
+
+<td align=right><b>748 </td>
+
+<td align=right><b>23404 </td>
+
+<tr valign=bottom><th align=left><br>Value<br> <br>Less than $10,000</th> 
+
+<td align=right><b>367 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>104 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>12493 </td>
+
+<tr valign=bottom><th align=left>$10,000 to $19,999</th> 
+
+<td align=right><b>392 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>86 </td>
+
+<td align=right><b>91 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>60 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>12860 </td>
+
+<tr valign=bottom><th align=left>$20,000 to $29,999</th> 
+
+<td align=right><b>547 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>149 </td>
+
+<td align=right><b>102 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>97 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>13623 </td>
+
+<tr valign=bottom><th align=left>$30,000 to $39,999</th> 
+
+<td align=right><b>587 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>110 </td>
+
+<td align=right><b>125 </td>
+
+<td align=right><b>71 </td>
+
+<td align=right><b>110 </td>
+
+<td align=right><b>62 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>14762 </td>
+
+<tr valign=bottom><th align=left>$40,000 to $49,999</th> 
+
+<td align=right><b>754 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>79 </td>
+
+<td align=right><b>141 </td>
+
+<td align=right><b>143 </td>
+
+<td align=right><b>173 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>18624 </td>
+
+<tr valign=bottom><th align=left>$50,000 to $59,999</th> 
+
+<td align=right><b>1016 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>39 </td>
+
+<td align=right><b>150 </td>
+
+<td align=right><b>218 </td>
+
+<td align=right><b>167 </td>
+
+<td align=right><b>180 </td>
+
+<td align=right><b>97 </td>
+
+<td align=right><b>67 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>16668 </td>
+
+<tr valign=bottom><th align=left>$60,000 to $69,999</th> 
+
+<td align=right><b>1167 </td>
+
+<td align=right><b>69 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>158 </td>
+
+<td align=right><b>196 </td>
+
+<td align=right><b>162 </td>
+
+<td align=right><b>231 </td>
+
+<td align=right><b>124 </td>
+
+<td align=right><b>99 </td>
+
+<td align=right><b>37 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>18368 </td>
+
+<tr valign=bottom><th align=left>$70,000 to $79,999</th> 
+
+<td align=right><b>1216 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>69 </td>
+
+<td align=right><b>121 </td>
+
+<td align=right><b>218 </td>
+
+<td align=right><b>204 </td>
+
+<td align=right><b>233 </td>
+
+<td align=right><b>143 </td>
+
+<td align=right><b>107 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>18713 </td>
+
+<tr valign=bottom><th align=left>$80,000 to $99,999</th> 
+
+<td align=right><b>2131 </td>
+
+<td align=right><b>77 </td>
+
+<td align=right><b>126 </td>
+
+<td align=right><b>186 </td>
+
+<td align=right><b>327 </td>
+
+<td align=right><b>271 </td>
+
+<td align=right><b>497 </td>
+
+<td align=right><b>241 </td>
+
+<td align=right><b>224 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>21586 </td>
+
+<tr valign=bottom><th align=left>$100,000 to $119,999</th> 
+
+<td align=right><b>1607 </td>
+
+<td align=right><b>63 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>132 </td>
+
+<td align=right><b>201 </td>
+
+<td align=right><b>155 </td>
+
+<td align=right><b>349 </td>
+
+<td align=right><b>218 </td>
+
+<td align=right><b>224 </td>
+
+<td align=right><b>94 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>25356 </td>
+
+<tr valign=bottom><th align=left>$120,000 to $149,999</th> 
+
+<td align=right><b>1947 </td>
+
+<td align=right><b>65 </td>
+
+<td align=right><b>96 </td>
+
+<td align=right><b>150 </td>
+
+<td align=right><b>213 </td>
+
+<td align=right><b>211 </td>
+
+<td align=right><b>328 </td>
+
+<td align=right><b>275 </td>
+
+<td align=right><b>295 </td>
+
+<td align=right><b>140 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>42 </td>
+
+<td align=right><b>80 </td>
+
+<td align=right><b>27295 </td>
+
+<tr valign=bottom><th align=left>$150,000 to $199,999</th> 
+
+<td align=right><b>2268 </td>
+
+<td align=right><b>93 </td>
+
+<td align=right><b>98 </td>
+
+<td align=right><b>131 </td>
+
+<td align=right><b>223 </td>
+
+<td align=right><b>196 </td>
+
+<td align=right><b>436 </td>
+
+<td align=right><b>348 </td>
+
+<td align=right><b>287 </td>
+
+<td align=right><b>198 </td>
+
+<td align=right><b>100 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>115 </td>
+
+<td align=right><b>29043 </td>
+
+<tr valign=bottom><th align=left>$200,000 to $249,999</th> 
+
+<td align=right><b>1158 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>77 </td>
+
+<td align=right><b>109 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>177 </td>
+
+<td align=right><b>171 </td>
+
+<td align=right><b>177 </td>
+
+<td align=right><b>101 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>88 </td>
+
+<td align=right><b>33491 </td>
+
+<tr valign=bottom><th align=left>$250,000 to $299,999</th> 
+
+<td align=right><b>723 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>116 </td>
+
+<td align=right><b>88 </td>
+
+<td align=right><b>111 </td>
+
+<td align=right><b>72 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>37 </td>
+
+<td align=right><b>68 </td>
+
+<td align=right><b>36882 </td>
+
+<tr valign=bottom><th align=left>$300,000 or more</th> 
+
+<td align=right><b>1663 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>84 </td>
+
+<td align=right><b>110 </td>
+
+<td align=right><b>118 </td>
+
+<td align=right><b>107 </td>
+
+<td align=right><b>192 </td>
+
+<td align=right><b>184 </td>
+
+<td align=right><b>209 </td>
+
+<td align=right><b>154 </td>
+
+<td align=right><b>108 </td>
+
+<td align=right><b>112 </td>
+
+<td align=right><b>241 </td>
+
+<td align=right><b>39594 </td>
+
+<tr valign=bottom><th align=left>Median</th> 
+
+<td align=right><b>107398 </td>
+
+<td align=right><b>99840 </td>
+
+<td align=right><b>95872 </td>
+
+<td align=right><b>74238 </td>
+
+<td align=right><b>82432 </td>
+
+<td align=right><b>86186 </td>
+
+<td align=right><b>99430 </td>
+
+<td align=right><b>120002 </td>
+
+<td align=right><b>132056 </td>
+
+<td align=right><b>159118 </td>
+
+<td align=right><b>180848 </td>
+
+<td align=right><b>209912 </td>
+
+<td align=right><b>212762 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left><br>Ratio of Value to Current Income<br> <br>Less than 1.5</th> 
+
+<td align=right><b>2336 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>141 </td>
+
+<td align=right><b>161 </td>
+
+<td align=right><b>141 </td>
+
+<td align=right><b>296 </td>
+
+<td align=right><b>269 </td>
+
+<td align=right><b>322 </td>
+
+<td align=right><b>240 </td>
+
+<td align=right><b>155 </td>
+
+<td align=right><b>150 </td>
+
+<td align=right><b>446 </td>
+
+<td align=right><b>49090 </td>
+
+<tr valign=bottom><th align=left>1.5 to 1.9</th> 
+
+<td align=right><b>1146 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>23 </td>
+
+<td align=right><b>67 </td>
+
+<td align=right><b>64 </td>
+
+<td align=right><b>189 </td>
+
+<td align=right><b>156 </td>
+
+<td align=right><b>260 </td>
+
+<td align=right><b>161 </td>
+
+<td align=right><b>81 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>88 </td>
+
+<td align=right><b>45311 </td>
+
+<tr valign=bottom><th align=left>2.0 to 2.4</th> 
+
+<td align=right><b>1237 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>79 </td>
+
+<td align=right><b>236 </td>
+
+<td align=right><b>229 </td>
+
+<td align=right><b>271 </td>
+
+<td align=right><b>150 </td>
+
+<td align=right><b>62 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>39620 </td>
+
+<tr valign=bottom><th align=left>2.5 to 2.9</th> 
+
+<td align=right><b>1219 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>103 </td>
+
+<td align=right><b>140 </td>
+
+<td align=right><b>250 </td>
+
+<td align=right><b>245 </td>
+
+<td align=right><b>224 </td>
+
+<td align=right><b>105 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>32481 </td>
+
+<tr valign=bottom><th align=left>3.0 to 3.9</th> 
+
+<td align=right><b>2089 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>117 </td>
+
+<td align=right><b>173 </td>
+
+<td align=right><b>282 </td>
+
+<td align=right><b>625 </td>
+
+<td align=right><b>321 </td>
+
+<td align=right><b>302 </td>
+
+<td align=right><b>140 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>39 </td>
+
+<td align=right><b>27465 </td>
+
+<tr valign=bottom><th align=left>4.0 to 4.9</th> 
+
+<td align=right><b>1620 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>82 </td>
+
+<td align=right><b>230 </td>
+
+<td align=right><b>268 </td>
+
+<td align=right><b>408 </td>
+
+<td align=right><b>297 </td>
+
+<td align=right><b>190 </td>
+
+<td align=right><b>60 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>25279 </td>
+
+<tr valign=bottom><th align=left>5.0 or more</th> 
+
+<td align=right><b>7236 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>829 </td>
+
+<td align=right><b>1324 </td>
+
+<td align=right><b>1616 </td>
+
+<td align=right><b>991 </td>
+
+<td align=right><b>1221 </td>
+
+<td align=right><b>615 </td>
+
+<td align=right><b>354 </td>
+
+<td align=right><b>122 </td>
+
+<td align=right><b>63 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>57 </td>
+
+<td align=right><b>14517 </td>
+
+<tr valign=bottom><th align=left>Zero or negative income</th> 
+
+<td align=right><b>661 </td>
+
+<td align=right><b>661 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5000- </td>
+
+<tr valign=bottom><th align=left>Median</th> 
+
+<td align=right><b>4.3 </td>
+
+<td align=right><b>4.8 </td>
+
+<td align=right><b>49.5 </td>
+
+<td align=right><b>35.6 </td>
+
+<td align=right><b>29.0 </td>
+
+<td align=right><b>5.8 </td>
+
+<td align=right><b>4.0 </td>
+
+<td align=right><b>3.5 </td>
+
+<td align=right><b>2.7 </td>
+
+<td align=right><b>2.3 </td>
+
+<td align=right><b>2.0 </td>
+
+<td align=right><b>1.9 </td>
+
+<td align=right><b>1.3 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left><br>Monthly Payment for Principal<br> and Interest<br> <br>One or more regular mortgages</th> 
+
+<td align=right><b>3845 </td>
+
+<td align=right><b>139 </td>
+
+<td align=right><b>159 </td>
+
+<td align=right><b>285 </td>
+
+<td align=right><b>410 </td>
+
+<td align=right><b>327 </td>
+
+<td align=right><b>605 </td>
+
+<td align=right><b>520 </td>
+
+<td align=right><b>526 </td>
+
+<td align=right><b>344 </td>
+
+<td align=right><b>160 </td>
+
+<td align=right><b>120 </td>
+
+<td align=right><b>249 </td>
+
+<td align=right><b>29939 </td>
+
+<tr valign=bottom><th align=left>Less than $100</th> 
+
+<td align=right><b>176 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>19069 </td>
+
+<tr valign=bottom><th align=left>$100 to $199</th> 
+
+<td align=right><b>349 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>17061 </td>
+
+<tr valign=bottom><th align=left>$200 to $249</th> 
+
+<td align=right><b>237 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>37 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>20213 </td>
+
+<tr valign=bottom><th align=left>$250 to $299</th> 
+
+<td align=right><b>281 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>19779 </td>
+
+<tr valign=bottom><th align=left>$300 to $349</th> 
+
+<td align=right><b>270 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>37 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>27195 </td>
+
+<tr valign=bottom><th align=left>$350 to $399</th> 
+
+<td align=right><b>267 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>26747 </td>
+
+<tr valign=bottom><th align=left>$400 to $449</th> 
+
+<td align=right><b>264 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>29379 </td>
+
+<tr valign=bottom><th align=left>$450 to $499</th> 
+
+<td align=right><b>210 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>31123 </td>
+
+<tr valign=bottom><th align=left>$500 to $599</th> 
+
+<td align=right><b>396 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>72 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>68 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>34693 </td>
+
+<tr valign=bottom><th align=left>$600 to $699</th> 
+
+<td align=right><b>299 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>68 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>31872 </td>
+
+<tr valign=bottom><th align=left>$700 to $799</th> 
+
+<td align=right><b>195 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>43111 </td>
+
+<tr valign=bottom><th align=left>$800 to $999</th> 
+
+<td align=right><b>327 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>57 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>42146 </td>
+
+<tr valign=bottom><th align=left>$1,000 to $1,249</th> 
+
+<td align=right><b>221 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>36370 </td>
+
+<tr valign=bottom><th align=left>$1,250 to $1,499</th> 
+
+<td align=right><b>132 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>59174 </td>
+
+<tr valign=bottom><th align=left>$1,500 or more</th> 
+
+<td align=right><b>221 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>68971 </td>
+
+<tr valign=bottom><th align=left>Median</th> 
+
+<td align=right><b>468 </td>
+
+<td align=right><b>464 </td>
+
+<td align=right><b>397 </td>
+
+<td align=right><b>288 </td>
+
+<td align=right><b>357 </td>
+
+<td align=right><b>352 </td>
+
+<td align=right><b>440 </td>
+
+<td align=right><b>503 </td>
+
+<td align=right><b>522 </td>
+
+<td align=right><b>570 </td>
+
+<td align=right><b>672 </td>
+
+<td align=right><b>719 </td>
+
+<td align=right><b>924 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left><br>Average Monthly Cost Paid for<br> Real Estate Taxes<br> <br>Less than $25</th> 
+
+<td align=right><b>3406 </td>
+
+<td align=right><b>167 </td>
+
+<td align=right><b>219 </td>
+
+<td align=right><b>676 </td>
+
+<td align=right><b>679 </td>
+
+<td align=right><b>462 </td>
+
+<td align=right><b>530 </td>
+
+<td align=right><b>278 </td>
+
+<td align=right><b>207 </td>
+
+<td align=right><b>87 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>14723 </td>
+
+<tr valign=bottom><th align=left>$25 to $49</th> 
+
+<td align=right><b>2785 </td>
+
+<td align=right><b>92 </td>
+
+<td align=right><b>132 </td>
+
+<td align=right><b>332 </td>
+
+<td align=right><b>493 </td>
+
+<td align=right><b>396 </td>
+
+<td align=right><b>568 </td>
+
+<td align=right><b>336 </td>
+
+<td align=right><b>199 </td>
+
+<td align=right><b>92 </td>
+
+<td align=right><b>47 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>62 </td>
+
+<td align=right><b>19341 </td>
+
+<tr valign=bottom><th align=left>$50 to $74</th> 
+
+<td align=right><b>2420 </td>
+
+<td align=right><b>116 </td>
+
+<td align=right><b>125 </td>
+
+<td align=right><b>178 </td>
+
+<td align=right><b>340 </td>
+
+<td align=right><b>304 </td>
+
+<td align=right><b>483 </td>
+
+<td align=right><b>272 </td>
+
+<td align=right><b>276 </td>
+
+<td align=right><b>135 </td>
+
+<td align=right><b>63 </td>
+
+<td align=right><b>56 </td>
+
+<td align=right><b>73 </td>
+
+<td align=right><b>23052 </td>
+
+<tr valign=bottom><th align=left>$75 to $99</th> 
+
+<td align=right><b>1699 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>67 </td>
+
+<td align=right><b>147 </td>
+
+<td align=right><b>180 </td>
+
+<td align=right><b>184 </td>
+
+<td align=right><b>344 </td>
+
+<td align=right><b>251 </td>
+
+<td align=right><b>215 </td>
+
+<td align=right><b>137 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>57 </td>
+
+<td align=right><b>25989 </td>
+
+<tr valign=bottom><th align=left>$100 to $149</th> 
+
+<td align=right><b>2597 </td>
+
+<td align=right><b>57 </td>
+
+<td align=right><b>109 </td>
+
+<td align=right><b>173 </td>
+
+<td align=right><b>283 </td>
+
+<td align=right><b>267 </td>
+
+<td align=right><b>501 </td>
+
+<td align=right><b>397 </td>
+
+<td align=right><b>411 </td>
+
+<td align=right><b>180 </td>
+
+<td align=right><b>78 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>82 </td>
+
+<td align=right><b>28163 </td>
+
+<tr valign=bottom><th align=left>$150 to $199</th> 
+
+<td align=right><b>1666 </td>
+
+<td align=right><b>65 </td>
+
+<td align=right><b>87 </td>
+
+<td align=right><b>117 </td>
+
+<td align=right><b>164 </td>
+
+<td align=right><b>97 </td>
+
+<td align=right><b>344 </td>
+
+<td align=right><b>241 </td>
+
+<td align=right><b>240 </td>
+
+<td align=right><b>114 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>93 </td>
+
+<td align=right><b>28815 </td>
+
+<tr valign=bottom><th align=left>$200 or more</th> 
+
+<td align=right><b>2969 </td>
+
+<td align=right><b>110 </td>
+
+<td align=right><b>126 </td>
+
+<td align=right><b>154 </td>
+
+<td align=right><b>258 </td>
+
+<td align=right><b>254 </td>
+
+<td align=right><b>454 </td>
+
+<td align=right><b>356 </td>
+
+<td align=right><b>375 </td>
+
+<td align=right><b>233 </td>
+
+<td align=right><b>174 </td>
+
+<td align=right><b>131 </td>
+
+<td align=right><b>344 </td>
+
+<td align=right><b>33619 </td>
+
+<tr valign=bottom><th align=left>Median</th> 
+
+<td align=right><b>77 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>51 </td>
+
+<td align=right><b>60 </td>
+
+<td align=right><b>77 </td>
+
+<td align=right><b>92 </td>
+
+<td align=right><b>107 </td>
+
+<td align=right><b>110 </td>
+
+<td align=right><b>140 </td>
+
+<td align=right><b>143 </td>
+
+<td align=right><b>183 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left><br>Purchase Price<br> <br>Home purchased or built</th> 
+
+<td align=right><b>16557 </td>
+
+<td align=right><b>616 </td>
+
+<td align=right><b>795 </td>
+
+<td align=right><b>1634 </td>
+
+<td align=right><b>2223 </td>
+
+<td align=right><b>1830 </td>
+
+<td align=right><b>3094 </td>
+
+<td align=right><b>2042 </td>
+
+<td align=right><b>1830 </td>
+
+<td align=right><b>956 </td>
+
+<td align=right><b>452 </td>
+
+<td align=right><b>365 </td>
+
+<td align=right><b>722 </td>
+
+<td align=right><b>23819 </td>
+
+<tr valign=bottom><th align=left>Less than $10,000</th> 
+
+<td align=right><b>2251 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>151 </td>
+
+<td align=right><b>392 </td>
+
+<td align=right><b>432 </td>
+
+<td align=right><b>330 </td>
+
+<td align=right><b>386 </td>
+
+<td align=right><b>230 </td>
+
+<td align=right><b>130 </td>
+
+<td align=right><b>37 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>16125 </td>
+
+<tr valign=bottom><th align=left>$10,000 to $19,999</th> 
+
+<td align=right><b>3379 </td>
+
+<td align=right><b>88 </td>
+
+<td align=right><b>131 </td>
+
+<td align=right><b>359 </td>
+
+<td align=right><b>498 </td>
+
+<td align=right><b>425 </td>
+
+<td align=right><b>746 </td>
+
+<td align=right><b>419 </td>
+
+<td align=right><b>359 </td>
+
+<td align=right><b>131 </td>
+
+<td align=right><b>77 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>88 </td>
+
+<td align=right><b>22522 </td>
+
+<tr valign=bottom><th align=left>$20,000 to $29,999</th> 
+
+<td align=right><b>1984 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>86 </td>
+
+<td align=right><b>175 </td>
+
+<td align=right><b>284 </td>
+
+<td align=right><b>239 </td>
+
+<td align=right><b>378 </td>
+
+<td align=right><b>208 </td>
+
+<td align=right><b>274 </td>
+
+<td align=right><b>113 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>48 </td>
+
+<td align=right><b>90 </td>
+
+<td align=right><b>24281 </td>
+
+<tr valign=bottom><th align=left>$30,000 to $39,999</th> 
+
+<td align=right><b>1364 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>108 </td>
+
+<td align=right><b>193 </td>
+
+<td align=right><b>176 </td>
+
+<td align=right><b>263 </td>
+
+<td align=right><b>191 </td>
+
+<td align=right><b>141 </td>
+
+<td align=right><b>104 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>24386 </td>
+
+<tr valign=bottom><th align=left>$40,000 to $49,999</th> 
+
+<td align=right><b>972 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>55 </td>
+
+<td align=right><b>105 </td>
+
+<td align=right><b>129 </td>
+
+<td align=right><b>95 </td>
+
+<td align=right><b>146 </td>
+
+<td align=right><b>118 </td>
+
+<td align=right><b>109 </td>
+
+<td align=right><b>77 </td>
+
+<td align=right><b>23 </td>
+
+<td align=right><b>27 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>23977 </td>
+
+<tr valign=bottom><th align=left>$50,000 to $59,999</th> 
+
+<td align=right><b>807 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>90 </td>
+
+<td align=right><b>99 </td>
+
+<td align=right><b>170 </td>
+
+<td align=right><b>108 </td>
+
+<td align=right><b>117 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>25902 </td>
+
+<tr valign=bottom><th align=left>$60,000 to $69,999</th> 
+
+<td align=right><b>677 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>87 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>170 </td>
+
+<td align=right><b>84 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>24778 </td>
+
+<tr valign=bottom><th align=left>$70,000 to $79,999</th> 
+
+<td align=right><b>505 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>38 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>50 </td>
+
+<td align=right><b>87 </td>
+
+<td align=right><b>71 </td>
+
+<td align=right><b>69 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>29017 </td>
+
+<tr valign=bottom><th align=left>$80,000 to $99,999</th> 
+
+<td align=right><b>792 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>68 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>147 </td>
+
+<td align=right><b>129 </td>
+
+<td align=right><b>141 </td>
+
+<td align=right><b>74 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>43 </td>
+
+<td align=right><b>33181 </td>
+
+<tr valign=bottom><th align=left>$100,000 to $119,999</th> 
+
+<td align=right><b>541 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>45 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>84 </td>
+
+<td align=right><b>96 </td>
+
+<td align=right><b>68 </td>
+
+<td align=right><b>56 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>44 </td>
+
+<td align=right><b>32911 </td>
+
+<tr valign=bottom><th align=left>$120,000 to $149,999</th> 
+
+<td align=right><b>590 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>42 </td>
+
+<td align=right><b>46 </td>
+
+<td align=right><b>96 </td>
+
+<td align=right><b>104 </td>
+
+<td align=right><b>81 </td>
+
+<td align=right><b>64 </td>
+
+<td align=right><b>55 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>33 </td>
+
+<td align=right><b>34692 </td>
+
+<tr valign=bottom><th align=left>$150,000 to $199,999</th> 
+
+<td align=right><b>573 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>25 </td>
+
+<td align=right><b>81 </td>
+
+<td align=right><b>73 </td>
+
+<td align=right><b>99 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>37 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>76 </td>
+
+<td align=right><b>39950 </td>
+
+<tr valign=bottom><th align=left>$200,000 to $249,999</th> 
+
+<td align=right><b>236 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>39 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>54 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>39571 </td>
+
+<tr valign=bottom><th align=left>$250,000 to $299,999</th> 
+
+<td align=right><b>135 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>66435 </td>
+
+<tr valign=bottom><th align=left>$300,000 or more</th> 
+
+<td align=right><b>210 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>14 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>23 </td>
+
+<td align=right><b>49 </td>
+
+<td align=right><b>70338 </td>
+
+<tr valign=bottom><th align=left>Not reported</th> 
+
+<td align=right><b>1540 </td>
+
+<td align=right><b>144 </td>
+
+<td align=right><b>99 </td>
+
+<td align=right><b>240 </td>
+
+<td align=right><b>240 </td>
+
+<td align=right><b>180 </td>
+
+<td align=right><b>261 </td>
+
+<td align=right><b>153 </td>
+
+<td align=right><b>93 </td>
+
+<td align=right><b>53 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>39 </td>
+
+<td align=right><b>16261 </td>
+
+<tr valign=bottom><th align=left>Median</th> 
+
+<td align=right><b>29467 </td>
+
+<td align=right><b>35598 </td>
+
+<td align=right><b>27667 </td>
+
+<td align=right><b>18482 </td>
+
+<td align=right><b>22133 </td>
+
+<td align=right><b>22916 </td>
+
+<td align=right><b>27525 </td>
+
+<td align=right><b>34587 </td>
+
+<td align=right><b>37529 </td>
+
+<td align=right><b>48613 </td>
+
+<td align=right><b>63770 </td>
+
+<td align=right><b>45843 </td>
+
+<td align=right><b>59561 </td>
+
+<td align=right><b>... </td>
+
+<tr valign=bottom><th align=left>Received as inheritance or gift</th> 
+
+<td align=right><b>801 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>57 </td>
+
+<td align=right><b>115 </td>
+
+<td align=right><b>153 </td>
+
+<td align=right><b>114 </td>
+
+<td align=right><b>112 </td>
+
+<td align=right><b>79 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>21 </td>
+
+<td align=right><b>11 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>16554 </td>
+
+<tr valign=bottom><th align=left>Not reported</th> 
+
+<td align=right><b>185 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>20 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>12 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>18654 </td>
+
+<tr valign=bottom><th align=left><br>RENTER OCCUPIED UNITS<br> <br>        Total</th> 
+
+<td align=right><b>4303 </td>
+
+<td align=right><b>174 </td>
+
+<td align=right><b>338 </td>
+
+<td align=right><b>1249 </td>
+
+<td align=right><b>870 </td>
+
+<td align=right><b>492 </td>
+
+<td align=right><b>538 </td>
+
+<td align=right><b>230 </td>
+
+<td align=right><b>235 </td>
+
+<td align=right><b>83 </td>
+
+<td align=right><b>31 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>41 </td>
+
+<td align=right><b>12245 </td>
+
+<tr valign=bottom><th align=left><br>Rent Reductions<br> <br>No subsidy</th> 
+
+<td align=right><b>2924 </td>
+
+<td align=right><b>115 </td>
+
+<td align=right><b>227 </td>
+
+<td align=right><b>665 </td>
+
+<td align=right><b>563 </td>
+
+<td align=right><b>343 </td>
+
+<td align=right><b>449 </td>
+
+<td align=right><b>204 </td>
+
+<td align=right><b>202 </td>
+
+<td align=right><b>71 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>35 </td>
+
+<td align=right><b>14040 </td>
+
+<tr valign=bottom><th align=left>Rent control</th> 
+
+<td align=right><b>171 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>18 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>19246 </td>
+
+<tr valign=bottom><th align=left>No rent control</th> 
+
+<td align=right><b>2701 </td>
+
+<td align=right><b>115 </td>
+
+<td align=right><b>219 </td>
+
+<td align=right><b>595 </td>
+
+<td align=right><b>531 </td>
+
+<td align=right><b>315 </td>
+
+<td align=right><b>410 </td>
+
+<td align=right><b>187 </td>
+
+<td align=right><b>186 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>26 </td>
+
+<td align=right><b>19 </td>
+
+<td align=right><b>32 </td>
+
+<td align=right><b>13970 </td>
+
+<tr valign=bottom><th align=left>Reduced by owner</th> 
+
+<td align=right><b>287 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>15 </td>
+
+<td align=right><b>104 </td>
+
+<td align=right><b>58 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>36 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>11331 </td>
+
+<tr valign=bottom><th align=left>Not reduced by owner</th> 
+
+<td align=right><b>2408 </td>
+
+<td align=right><b>107 </td>
+
+<td align=right><b>203 </td>
+
+<td align=right><b>491 </td>
+
+<td align=right><b>469 </td>
+
+<td align=right><b>287 </td>
+
+<td align=right><b>374 </td>
+
+<td align=right><b>168 </td>
+
+<td align=right><b>176 </td>
+
+<td align=right><b>63 </td>
+
+<td align=right><b>24 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>30 </td>
+
+<td align=right><b>14294 </td>
+
+<tr valign=bottom><th align=left>Owner reduction not reported</th> 
+
+<td align=right><b>6 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>14525 </td>
+
+<tr valign=bottom><th align=left>Rent control not reported</th> 
+
+<td align=right><b>53 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>8184 </td>
+
+<tr valign=bottom><th align=left>Owned by public housing authority</th> 
+
+<td align=right><b>559 </td>
+
+<td align=right><b>34 </td>
+
+<td align=right><b>65 </td>
+
+<td align=right><b>226 </td>
+
+<td align=right><b>123 </td>
+
+<td align=right><b>59 </td>
+
+<td align=right><b>40 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>7 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>9015 </td>
+
+<tr valign=bottom><th align=left>Government subsidy</th> 
+
+<td align=right><b>494 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>28 </td>
+
+<td align=right><b>250 </td>
+
+<td align=right><b>112 </td>
+
+<td align=right><b>52 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>10 </td>
+
+<td align=right><b>6 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>9180 </td>
+
+<tr valign=bottom><th align=left>Other, income verification</th> 
+
+<td align=right><b>273 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>16 </td>
+
+<td align=right><b>95 </td>
+
+<td align=right><b>66 </td>
+
+<td align=right><b>29 </td>
+
+<td align=right><b>22 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>17 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>11322 </td>
+
+<tr valign=bottom><th align=left>Subsidy not reported</th> 
+
+<td align=right><b>53 </td>
+
+<td align=right><b>8 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>13 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>9 </td>
+
+<td align=right><b>5 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>3 </td>
+
+<td align=right><b>4 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>0 </td>
+
+<td align=right><b>2 </td>
+
+<td align=right><b>13391 </td>
+
+</table>
+
+<font size=-1>@14For manufactured/mobile homes, oldest category is 1939 or earlier.</font><br> 
+
+<font size=-1>@3Beginning with 1989, this item uses current income in its calculation, see Appendix A.</font><br> 
+
+<font size=-1>@4May reflect a temporary situation, living off savings, or response error.</font><br> 
+
+<em>Source: U.S. Census Bureau, American Housing Survey Branch</em>
+
+<pre><HR><h4>Contact the AHS staff at (301) 763-3235 or e-mail to <a href="mailto:ahsn@census.gov">ahsn@census.gov</a> for further information on the<br> American Housing Survey.
+
+<HR>Go to <A HREF="ahs01-80.html">American Housing Survey for the United States: 2001</a> 
+
+Go to <A HREF="/hhes/www/housing/ahs/ahs.html">American Housing Survey</a>  
+
+<br />
+
+<!-- End body of sub-level page -->
+
+
+
+<!-- bottom contact and source info -->
+<hr />
+Contact the American Housing Survey Branch by <a href="mailto:&#97;&#104;&#115;&#110;&#64;&#99;&#101;&#110;&#115;&#117;&#115;&#46;&#103;&#111;&#118;">email</a> or by phone at 301-763-3235 or 1-888-518-7365, or visit <a href="https://ask.census.gov/cgi-bin/askcensus.cfg/php/enduser/std_alp.php">ask.census.gov</a> for further information on American Housing Survey Data.
+<hr /><br />
+<div align="center">
+<em>Source: U.S. Census Bureau, Housing and Household Economic Statistics Division</em>
+<br /></div>
+<!-- end bottom contact and source info -->
+
+
+
+
+<div align="center">Last Revised: <i>August 12, 2008</i></div><br />
+
+<!-- bottom footer and bottom navigation bar -->
+
+<div align="center">
+<table>
+<tr align="left" valign="top">
+<td colspan="2" valign="middle">
+<div id="bottomnav"> <ul>
+<font size="2%"><li><a href="/hhes/www/housing/ahs/ahs.html">AHS Main</a>
+</li>
+<li><a href="/hhes/www/housing/ahs/overview.html">Overview</a>
+</li>
+<li><a href="/hhes/www/housing/ahs/definitions.html">Definitions</a>
+</li>
+<li><a href="/hhes/www/housing/ahs/related.html">Related Sites</a>
+</li>
+<li><a href="/hhes/www/housing/ahs/access.html">Data Access</a>
+</li>
+<li><a href="/hhes/www/housing/ahs/ahsfaq.html">FAQ</a>
+</li>
+</font>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- end footer and bottom navigation bar -->
+
+
+<div id="cb_footer">
+
+<span style="height: 0; width: 0;  overflow: hidden;  position: absolute; font-size: 0;"><a href="#SKIP" title="Skip Navigation">Skip this navigation</a></span> <br />
+
+<div style="font: bold 11px Arial, Helvetica, sans-serif; color: #000; text-decoration: none; text-align: center; border-top: 1px solid #0055BB; padding: 6px 0 10px 0;">
+
+Census Bureau Links: &nbsp; <a href="http://www.census.gov/index.html" style="font-weight: normal; text-decoration: underline; color: #05b;" target="_top">Home</a>
+
+&#183; <a href="/main/www/srchtool.html" target="_top" style="font-weight: normal; color: #05B; text-decoration: underline; display: inline;">Search</a>
+
+&#183; <a href="/main/www/subjects.html" target="_top" style="font-weight: normal; color: #05B; text-decoration: underline; display: inline;">Subjects A-Z</a>
+
+&#183; <a href="https://ask.census.gov/" style="font-weight: normal; color: #05B; text-decoration: underline; display: inline;">FAQs</a>
+
+&#183; <a href="/main/www/access.html" target="_top" style="font-weight: normal; color: #05B; text-decoration: underline; display: inline;">Data Tools</a>
+
+&#183; <a href="/mp/www/cat/" target="_top" style="font-weight: normal; color: #05B; text-decoration: underline; display: inline;">Catalog</a>
+
+&#183; <a href="/main/www/cen2000.html" style="font-weight: normal; color: #05B; text-decoration: underline; display: inline;">Census 2000</a>
+
+&#183; <a href="/quality/" style="font-weight: normal; color: #05B; text-decoration: underline; display: inline;">Quality</a>
+
+&#183; <a href="/privacy/" target="_top" style="font-weight: normal; color: #05B; text-decoration: underline; display: inline;">Privacy Policy</a>
+
+&#183; <a href="/main/www/contacts.html" target="_top" style="font-weight: normal; color: #05B; text-decoration: underline; display: inline;">Contact Us</a>
+<br />
+<br />
+<img src="/main/www/img/wordmarktl.gif"  width="217" height="35" alt="U.S. Census Bureau: Helping You Make Informed Decisions" style=" margin-top: -6px;" />
+<a name="SKIP"> </a>
+</div>
+
+<div style="font: normal 11px Arial, Helvetica, sans-serif; color: #000; text-decoration: none; text-align: center;">
+	 Page Last Modified: August 12, 2008
+</div>
+
+</div>
+
+<!-- Foresee Survey -->
+<script type="text/javascript" src="/fsrscripts/triggerParams.js"></script>
+<script type="text/javascript" src="/fsrscripts/stdLauncher.js"></script>
+<script type="text/javascript">Poll();</script>
+<!-- End Foresee Survey -->
+
+</body>
+
+</html>
+

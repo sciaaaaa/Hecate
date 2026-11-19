@@ -1,0 +1,454 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+                                                           
+  <meta http-equiv="Content-Type" content="text/html;CHARSET=iso-8859-1">
+                                                           
+  <meta name="description" content="Tools for comparative genomics">
+                                                           
+  <meta name="keywords"
+ content="genome, genome browser, VISTA, GenomeVISTA, LBNL, bioinformatics, whole-genome alignment, comparative genomics">
+  <title>VISTA Genome Browser</title>
+                                                                        
+<script language="JavaScript">
+var oldNetscape = document.layers;
+var BAD_VALUE=-9999;
+var java_disabled="/notenabled.html";
+function formLoad()
+{
+	var form = document.inForm;
+        var released = form.released;
+	var family = released.options[released.selectedIndex].value;
+//        var genomeIndex = form.genomes.selectedIndex;
+//	  var family = form.genomes.options[genomeIndex].value;
+        var positionText = form.position.value;
+        if(!positionText)form.position.value = genomes[family].default_pos;   
+}
+function changeGenome(index) {
+	var form = document.inForm;
+	if( form.genomes.selectedIndex != index )
+	    form.genomes.selectedIndex = index;
+	form.position.value=genomes[index].default_pos;
+	form.target="_self";
+	form.bg.value=genomes[index].family;
+        var purl =parent.location.protocol+"//"+parent.location.hostname+parent.location.pathname;
+	var selector="vista";
+	if(form.selector[1].checked)selector="ucsc";
+	window.open(purl+"?bg="+genomes[index].family+"&selector="+selector,"_top");
+}
+
+function changeFamily(family) {
+        var form = document.inForm;
+	form.bg.value=family;
+	var purl =parent.location.protocol+"//"+parent.location.hostname+parent.location.pathname;
+	var selector="vista";
+	if(form.selector[1].checked)selector="ucsc";
+	window.open(purl+"?bg="+family+"&selector="+selector,"_top");	
+}
+
+function changePosition() {
+    var form = document.inForm;
+    var genomesList = form.genomes;
+    var index = genomesList.selectedIndex;
+    var family = genomesList.options[index].value;
+    genomes[family].default_pos=form.position.value;
+    return true;
+}
+function checkForm() {
+
+    var form = document.inForm;
+    var genomesList = form.genomes;
+    if(genomesList.options[genomesList.selectedIndex].value==BAD_VALUE) {
+	alert("Please choose base genome from the list");
+	genomesList.focus();
+	return false;
+    }	
+    var position_chars = form.position.value.split('');
+    var position_string = "";
+    for(i=0;i<position_chars.length;i++){
+       if(position_chars[i] != '"')position_string+=position_chars[i];
+    }
+    form.position.value = position_string;
+    if(form.position.value=="") {
+	alert("Please enter the position in the field!");
+	form.position.focus();
+	return false;
+    }
+    if(form.position.value.length < 2) {
+	alert("Please enter at least two characters the field");
+	form.position.focus();
+	return false;
+    }
+    var released = form.released;
+    var family = released.options[released.selectedIndex].value;
+    var info = genomes[family];
+//    alert( family + " Run "+ info.run + " " + info.tbl_name);
+//    return false;
+     form.bg.value=info.family; 
+     form.run.value=info.run; 
+     form.ref.value=info.tbl_name;
+     if((form.bg.value == 'rice')||
+	(form.bg.value == 'ara')||
+	(form.bg.value == 'osa1')
+       ){
+         form.selector[0].checked=true;
+	 form.selector[1].checked=false;
+       }
+     var maxWidth = screen.availWidth;
+     var maxHeight = screen.availHeight;
+     form.availwidth.value = maxWidth;
+     form.availheight.value= maxHeight;
+     if(!maxWidth)maxWidth=800;
+     if(!maxHeight)maxHeight=700;
+     maxHeight=Math.min(maxHeight,700);
+     maxWidth =Math.min(maxWidth,1200);
+     form.clientwidth.value = maxWidth;
+     form.clientheight.value = maxHeight;
+     var targ = "_self";
+	if(form.selector[0].checked){
+	  if(!navigator.javaEnabled()){
+             form.hasjava.value = "disabled";
+	  }
+	  form.browser.value = 'vista';
+          form.scrollbar.value = '0';
+	  //form.run.value = '';
+          targ="VGB"+Math.round(1000000*Math.random());
+	  window.open("about:blank", targ, "fullscreen=no,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=yes,directories=no,location=no,height="+maxHeight+",width="+maxWidth+",top=0,left=0");
+	}
+	if(form.selector[1].checked){
+	  form.browser.value = 'UCSC';
+          targ="UCSC"+Math.round(1000000*Math.random());
+	  window.open("about:blank", targ);
+	}
+     form.target=targ;
+     return true;
+}
+function initForm(){
+   if(document.layers)document.layers["lwarn"].visibility="hide";
+   else if(document.all)document.all["warn"].style.display= "none";
+   else document.getElementById("warn").style.display= "none";
+   formLoad();
+}
+</script> 
+
+</head>
+  <body text="#000000" alink="#6600ff" vlink="#330066" link="#0000cc"
+ bgcolor="#ffffff" onLoad="initForm()">
+<link rel=stylesheet href="http://genome.lbl.gov/vista/style_ns.css">
+<style type="text/css">@import "http://genome.lbl.gov/vista/style.css";</style>
+<table width="100%" cellspacing=0 cellpadding="0">
+<tr>
+<td rowspan="2" width="157" bgcolor="#5F8AC5">
+<a href="http://genome.lbl.gov/vista/index.shtml">
+<img src="http://genome.lbl.gov/vista/images/logos/vistalogo1.jpg" border="0">
+</a>
+</td>
+    <td>
+<a href="http://genome.lbl.gov/vista/index.shtml">
+<img src="http://genome.lbl.gov/vista/images/vistatitle.jpg" width="178" height="75" align="left" border="0"><img src="http://genome.lbl.gov/vista/images/toolstitle.jpg" width="243" height="75" align="right" border="0">
+</a></td>
+<tr>
+<td>
+<table cellpadding=0 cellspacing=0 border=0 width=100% id="topmenu">
+<tr>
+<td>&nbsp;</td>
+<td valign=top>
+<a href="http://genome.lbl.gov/vista/index.shtml">&nbsp;&nbsp;&nbsp;VISTA&nbsp;Home&nbsp;&nbsp;&nbsp;</a></td>
+<td>&nbsp;</td>
+<td valign=top><a href="http://pga.lbl.gov" target="_new">&nbsp;&nbsp;&nbsp;PGA&nbsp;Home&nbsp;&nbsp;&nbsp;</a></td>
+<td>&nbsp;</td>
+<td valign=top><a href="http://genome.lbl.gov/vista/servers.shtml">&nbsp;&nbsp;&nbsp;Servers&nbsp;&nbsp;&nbsp;</a></td>
+<td>&nbsp;</td>
+<td class="selected" valign=top><a href="/">&nbsp;&nbsp;&nbsp;Browser&nbsp;&nbsp;&nbsp;</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td> 
+<td align=left valign=top> 
+<div><a href="http://enhancer.lbl.gov/" target="_new">&nbsp;&nbsp;&nbsp;Enhancer&nbsp;DB&nbsp;&nbsp;&nbsp;</a></div> 
+</td> 
+<td>&nbsp;</td>
+<td valign=top><a href="http://genome.lbl.gov/vista/faq.shtml">&nbsp;&nbsp;&nbsp;FAQ&nbsp;&nbsp;&nbsp;</a></td>
+<td>&nbsp;</td>
+<td valign=top><a href="http://genome.lbl.gov/vista/contact.shtml">&nbsp;&nbsp;&nbsp;Contact&nbsp;&nbsp;&nbsp;</a></td>
+<td>&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr></table>
+</td>
+</tr>
+</table>
+ 
+             
+<table width=100% cellspacing=0 cellpadding=0 border=0 id="bottommenu">
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;<font color="#FFC900">VISTA&nbsp;Browser</font></td>
+<td valign=top><a href="/cgi-bin/gateway2?bg=hg16">&nbsp;&nbsp;&nbsp;Hum/Mus/Rat&nbsp;&nbsp;&nbsp;</a></td>
+<td valign=top>&nbsp;</td>
+<td valign=top><a href="/cgi-bin/gateway2?bg=dm2">&nbsp;&nbsp;&nbsp;Drosophila&nbsp;&nbsp;&nbsp;</a></td>
+<td valign=top>&nbsp;</td> 
+<td valign=top><a href="/methods.shtml">&nbsp;&nbsp;&nbsp;Methods&nbsp;&nbsp;&nbsp;</a></td>
+<td valign=top>&nbsp;</td> 
+<td valign=top><a href="/help.shtml">&nbsp;&nbsp;&nbsp;Help&nbsp;&nbsp;&nbsp;</a></td>
+<td valign=top>&nbsp;</td> 
+<td>&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr></table>
+
+
+<ilayer id="lwarn" width="100%" height="100">
+<div id="warn" style="display: block;">
+   <h3><font color=red>Warning!</font></h3> 
+   <p>This page can not be shown properly because JavaScript is disabled by your browser.</p>
+   <p>Enable JavaScript following our <a href="/instructions.html">instructions</a>.</p>
+</div> 
+</ilayer>
+
+
+<table width="95%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td background="/images/sidegraph.jpg" width="75" valign="top"></td>
+<td valign="top">
+<!--
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><h3 align=center><font color=red>
+This Web service will be unavailable for a few hours 
+on Tuesday, September 23rd, 2008 
+due to the scheduled relocation of our computers. The server will be 
+turned off at 7am PT and turned back on in the afternoon. 
+Sorry for the inconvenience.</font></h1></td>
+</tr>
+</table>
+-->
+<!--<p><b>11/05/2004 During the next few days, you may experience service interruptions when using the pipeline webserver, which is responsible for the VISTA Browser, Vista Track, and GenomeVista.  We are performing emergency maintenance on our machines.  Everything should be back to normal shortly.</b></p>-->
+<p><font color=red>Attention</font>: This page provides access to the <b>new and improved VISTA Browser</b> (VGB2). To use
+this browser, Java 2 must be installed on your computer (<a href=/vgb2help.shtml#install>installation instructions</a>).  If you have problems with the browser, the installation process, or would like to make any comments, please contact <a href="mailto:vista@lbl.gov">vista@lbl.gov</a>.</p>
+
+<p>           To browse whole-genome alignments, please select a base genome and enter a RefSeq gene name or a
+ position (e.g. chrX:1-100000)  on this genome: </p>
+
+<div style='margin: 0 100 0 100; border: 1px solid #5F8AC5; padding: 0 5mm'>
+<form name="inForm" method="get" onsubmit="return checkForm()" action="/cgi-bin/gateway2">
+<input type="hidden" name="section" value="Default">
+<input type="hidden" name="browser" value="">
+<input type="hidden" name="hasjava" value="">
+<input type="hidden" name="clientheight" value="700">
+<input type="hidden" name="clientwidth"  value="100%">
+<input type="hidden" name="availheight"  value="700">
+<input type="hidden" name="availwidth"   value="100%">
+<input type="hidden" name="bg" value="">
+<input type="hidden" name="run" value="">
+<input type="hidden" name="ref" value="">
+<input type="hidden" name="scrollbar" value="1">
+<input type='hidden' name="hgsid" value="">
+<input type='hidden' name="extend" value="0">
+<table align="center" width="300" border="0"
+  cellspacing="0" cellpadding="2">
+  <tr>
+		 <td valign="top" align="left">Clade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+     <td valign="top" align="left">Genome&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		 <td valign="top" align="left">Release</td>
+     <td valign="top" align="left" width="60">Position</td>
+     <td width ="100">&nbsp;</td>
+  </tr>
+  <tr>
+		 <td valign="top" align="left" >
+     		 <SELECT name="clade" onChange="changeFamily(clade.options[selectedIndex].value)">
+     		 <option selected value="hg18">Vertebrate</option><option  value="droMel_caf1">Insect</option><option  value="ce1">Nematode</option><option  value="Cioin2">Deuterostome</option><option  value="ptr2filt">Plant</option><option  value="Aspni1">Fungus</option><option  value="Ost9901_3">Alga</option><option  value="Capca1">Annelid</option><option  value="phr1">Stramenopile</option><option  value="Brafl1">Other metazoa</option><option  value="Monbr1">Other</option>
+     		 </SELECT>
+		 </td>
+     <td valign="top" align="left" >
+        <SELECT name="genomes" onChange="changeFamily(options[selectedIndex].value);" >
+         <option selected value="hg18">Human</option><option  value="mm9">Mouse</option><option  value="rn4">Rat</option><option  value="Takru4">Fugu</option><option  value="panTro2">Chimpanzee</option><option  value="galGal3">Chicken</option><option  value="xenTro2">Frog</option><option  value="canFam2">Dog</option><option  value="calJac01">Marmoset</option><option  value="danRer4">Zebrafish</option><option  value="bosTau1">Cow</option><option  value="tetNig1">Tetraodon</option><option  value="monDom1">Gray short-tailed opossum</option><option  value="rheMac2">Rhesus</option><option  value="equCab1">Horse</option><option  value="ponAbe01">Orangutan</option>
+        </SELECT>
+     </td>
+ 		 <td valign="top" align="left" >
+     		 <SELECT name="released" onChange="changeFamily(released.options[selectedIndex].value)">
+     		 <option selected value="hg18">Mar. 2006</option><option  value="hg17">May 2004</option><option  value="hg16">July 2003</option>
+     		 </SELECT>
+		 </td>
+
+     <td valign="top" align="left" width="60">
+        <input type="text" name="position" size="25" value="" onchange="changePosition()">
+     </td>
+     <td valign="top" align="center">
+        <input type="submit" name="submitGo" value="Go">
+     </td>
+  </tr>
+  <tr>
+     <td colspan="3">
+     <input type="radio" name="selector" value="VGB2" checked>VISTA Browser (Requires Java2)<br>
+     <input type="radio" name="selector" value="UCSC" ><font color=black>VISTA tracks on UCSC Browser</font>
+     </td>
+     <td><a href="/help.shtml" target="Help">Help</a></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+    <font size=-1><a href=/vgb2help.shtml#install>Java 2 installation instructions</font></a></font>
+    </td>
+  </tr>
+
+</table>
+</form>
+<br>
+</div>
+<font class="instructional">
+</font><p><font class="instructional"></font></p><table width="90%" border="0" cellspacing="0" cellpadding="1">
+  <tbody><tr>
+    <td width="3%"></td>
+    <td width="97%">
+	<table width="100%" border="0" cellspacing="0" cellpadding="1">
+	<tbody><tr>
+          <td> <p align="center"></p>
+            <p align="center"><strong>WHOLE GENOME COMPARATIVE ANALYSIS OF THE <i>Human Mar. 2006</i> GENOME</strong></p>
+            </td></tr>
+	  <tr>
+	  <td valign="top" width="500" bgcolor="#cccccc" colspan="5">
+	  </td></tr>
+	  <tr>
+		  <td>
+<p>From this page you can access the results of:</p>
+
+<p>the <b>multiple alignments</b></p>
+
+  <ul>
+	<li><p><a href="http://hgdownload.cse.ucsc.edu/goldenPath/hg18/bigZips/">Human Mar. 2006</a>, <a href="http://genome.wustl.edu/pub/organism/Primates/Callithrix_jacchus/assembly/Callithrix_jacchus-2.0.2/">Callithrix jacchus v.2.0.2</a>, <a href="http://hgdownload.cse.ucsc.edu/goldenPath/rheMac2/bigZips/">Rhesus Jan. 2006</a> and <a href="http://genome.wustl.edu/pub/organism/Primates/Pongo_pygmaeus_abelii/assembly/Pongo_pygmaeus_abelii-2.0.2/">Pongo pygmaeus abelii v.2.0.2</a> genomes.</p>
+  </ul>	
+
+  <ul>
+	<li><p><a href="http://hgdownload.cse.ucsc.edu/goldenPath/hg18/bigZips/">Human Mar. 2006</a>, <a href="http://hgdownload.cse.ucsc.edu/goldenPath/mm9/bigZips/">Mouse Jul. 2007</a>, <a href="http://hgdownload.cse.ucsc.edu/goldenPath/rn4/bigZips/">Rat Nov. 2004</a>, <a href="http://hgdownload.cse.ucsc.edu/goldenPath/galGal3/bigZips/">Chicken May 2006</a>, <a href="http://hgdownload.cse.ucsc.edu/downloads.html#dog">Dog May 2005</a>, <a href="http://hgdownload.cse.ucsc.edu/goldenPath/rheMac2/bigZips/">Rhesus Jan. 2006</a> and <a href="http://hgdownload.cse.ucsc.edu/goldenPath/equCab1/bigZips/">Horse Jan. 2007</a> genomes.</p>
+  </ul>	
+
+
+
+
+<p>the <b>pairwise alignments of the </b></p>
+<p>
+<a href="http://hgdownload.cse.ucsc.edu/goldenPath/hg18/bigZips/">Human Mar. 2006</a> genome
+	
+		 produced by the
+		<a href="http://www.genome.gov/11006939">International Human Genome Sequencing Consortium</a> 	
+	
+	
+with the following genomes:
+</p>
+
+<ul>
+<li><p>The <a href="http://genome.jgi-psf.org/Takru4/Takru4.home.html">Fugu rubripes v.4.0</a> genome
+
+	 produced by the 
+	<a href="http://www.jgi.doe.gov/">JGI</a>
+
+</p>
+</ul>
+
+<ul>
+<li><p>The <a href="http://hgdownload.cse.ucsc.edu/goldenPath/panTro2/bigZips/">Chimp Mar. 2006</a> genome
+
+	 produced by the 
+	<a href="http://genome.wustl.edu/genome.cgi?GENOME=Pan%20troglodytes&SECTION=collaborators">Chimpanzee Sequencing and Analysis Consortium</a>
+
+</p>
+</ul>
+
+<ul>
+<li><p>The <a href="http://hgdownload.cse.ucsc.edu/goldenPath/galGal3/bigZips/">Chicken May 2006</a> genome
+
+	 produced by the 
+	<a href="http://genome.wustl.edu/">Washington University School of Medicine in St. Louis</a>
+
+</p>
+</ul>
+
+<ul>
+<li><p>The <a href="http://genome.jgi-psf.org/Xentr4/Xentr4.home.html">Xenopus tropicalis v.4.1</a> genome
+
+	 produced by the 
+	<a href="http://www.jgi.doe.gov/">JGI</a>
+
+</p>
+</ul>
+
+<ul>
+<li><p>The <a href="http://hgdownload.cse.ucsc.edu/downloads.html#dog">Dog May 2005</a> genome
+
+	 produced by  
+	<a href="http://www.broad.mit.edu/">The Broad Institute</a>
+
+</p>
+</ul>
+
+<ul>
+<li><p>The <a href="http://hgdownload.cse.ucsc.edu/goldenPath/danRer4/bigZips/">Zebrafish Mar. 2006</a> genome
+
+	 produced by  
+	<a href="http://www.sanger.ac.uk/">The Wellcome Trust Sanger Institute</a>
+
+</p>
+</ul>
+
+<ul>
+<li><p>The <a href="http://genome.jgi-psf.org/Triad1/Triad1.home.html">Trichoplax adhaerens v.1.0</a> genome
+
+	 produced by the 
+	<a href="http://www.jgi.doe.gov/">JGI</a>
+
+</p>
+</ul>
+			
+
+
+ <!-- HAS_PAIRWISE -->
+
+
+<p>Annotation for this genome comes from the
+
+<a href="http://genome.ucsc.edu/">UCSC</a>.</p>
+
+
+<p><a href="/methods.shtml">Methods and references</a>
+	            <p></p>
+            <p align="center"><img src="/descriptions/icon1.jpg" width="161" height="40"></p>
+            <p>
+	  </p></td>
+  </tr>
+</tbody></table>
+	  </td>
+  </tr>
+</tbody></table>
+<p><font class="instructional"></font></p>
+<p><font class="instructional"></font></p>
+<p><font class="instructional"></font></p>
+<p><font class="instructional"></font></p>
+
+<br>
+ <script language=JavaScript>  var genomes = {
+'hg18' : {released_month : '3',org : '1',long_name : 'Human Mar. 2006',default_pos : 'chr9:106,583,107-106,730,257',clade_id : '1',released_year : '2006',name : 'Human',tbl_name : 'refseq3',run : '80',released_date : 'Mar. 2006',dset_id : '94',family : 'hg18'},
+'hg17' : {released_month : '5',org : '1',long_name : 'Human May 2004',default_pos : 'chr9:104622841-104769991',clade_id : '1',released_year : '2004',name : 'Human',tbl_name : 'refseq5',run : '1039',released_date : 'May 2004',dset_id : '69',family : 'hg17'},
+'hg16' : {released_month : '7',org : '1',long_name : 'Human July 2003',default_pos : 'chr9:102923121-103070274',clade_id : '1',released_year : '2003',name : 'Human',tbl_name : 'refseq3',run : '38',released_date : 'July 2003',dset_id : '35',family : 'hg16'},
+'mm9' : {released_month : '7',org : '2',long_name : 'Mouse Jul. 2007',default_pos : 'chr1:1-100000',clade_id : '1',released_year : '2007',name : 'Mouse',tbl_name : 'refseq2',run : '80',released_date : 'July 2007',dset_id : '283',family : 'mm9'},
+'mm7' : {released_month : '8',org : '2',long_name : 'Mouse Aug. 2005',default_pos : 'chr10:10000001-10100000',clade_id : '1',released_year : '2005',name : 'Mouse',tbl_name : 'refseq',run : '1039',released_date : 'Aug. 2005',dset_id : '551',family : 'mm7'},
+'mm5' : {released_month : '5',org : '2',long_name : 'Mouse May 2004',default_pos : 'chr4:52275833-52404937',clade_id : '1',released_year : '2004',name : 'Mouse',tbl_name : 'refseq3',run : '33',released_date : 'May 2004',dset_id : '77',family : 'mm5'},
+'rn4' : {released_month : '11',org : '3',long_name : 'Rat Nov. 2004',default_pos : 'chr1:1-100000',clade_id : '1',released_year : '2004',name : 'Rat',tbl_name : 'refseq2',run : '80',released_date : 'Nov. 2004',dset_id : '286',family : 'rn4'},
+'rn3' : {released_month : '6',org : '3',long_name : 'Rat June 2003',default_pos : 'chr10:10000001-10100000',clade_id : '1',released_year : '2003',name : 'Rat',tbl_name : 'refseq3',run : '1039',released_date : 'June 2003',dset_id : '4',family : 'rn3'},
+'Takru4' : {released_month : '10',org : '4',long_name : 'Fugu rubripes v.4.0',default_pos : 'scaffold_1:43000-532000',clade_id : '1',released_year : '2004',name : 'Fugu',tbl_name : 'jgi',run : '142',released_date : 'Oct. 2004',dset_id : '110',family : 'Takru4'},
+'panTro2' : {released_month : '3',org : '9',long_name : 'Chimp Mar. 2006',default_pos : 'chr9:104,097,206-104,245,437',clade_id : '1',released_year : '2006',name : 'Chimpanzee',tbl_name : 'refseq',run : '39',released_date : 'Mar. 2006',dset_id : '183',family : 'panTro2'},
+'panTro1' : {released_month : '11',org : '9',long_name : 'Chimp Nov. 2003',default_pos : 'chr1:1025-63739',clade_id : '1',released_year : '2003',name : 'Chimpanzee',tbl_name : 'twinscan',run : '38',released_date : 'Nov. 2003',dset_id : '38',family : 'panTro1'},
+'galGal3' : {released_month : '5',org : '11',long_name : 'Chicken May 2006',default_pos : 'chr5:57,710,001-57,780,000',clade_id : '1',released_year : '2006',name : 'Chicken',tbl_name : 'refseq2',run : '55',released_date : 'May 2006',dset_id : '52',family : 'galGal3'},
+'galGal2' : {released_month : '3',org : '11',long_name : 'Chicken Feb. 2004',default_pos : 'chr10:10000001-10100000',clade_id : '1',released_year : '2004',name : 'Chicken',tbl_name : 'refseq3',run : '1039',released_date : 'Mar. 2004',dset_id : '61',family : 'galGal2'},
+'xenTro2' : {released_month : '8',org : '19',long_name : 'Xenopus tropicalis v.4.1',default_pos : 'scaffold_78:3003452-3058317',clade_id : '1',released_year : '2005',name : 'Frog',tbl_name : 'jgi',run : '26',released_date : 'Aug. 2005',dset_id : '117',family : 'xenTro2'},
+'canFam2' : {released_month : '5',org : '23',long_name : 'Dog May 2005',default_pos : 'chr10:10000001-10100000',clade_id : '1',released_year : '2005',name : 'Dog',tbl_name : 'refseq2',run : '1039',released_date : 'May 2005',dset_id : '553',family : 'canFam2'},
+'calJac01' : {released_month : '6',org : '25',long_name : 'Callithrix jacchus v.2.0.2',default_pos : 'Contig0:1-100000',clade_id : '1',released_year : '2007',name : 'Marmoset',tbl_name : '',run : '54',released_date : 'June 2007',dset_id : '773',family : 'calJac01'},
+'danRer4' : {released_month : '3',org : '31',long_name : 'Zebrafish Mar. 2006',default_pos : 'chr11:6,125,147-6,193,640',clade_id : '1',released_year : '2006',name : 'Zebrafish',tbl_name : 'refseq',run : '6',released_date : 'Mar. 2006',dset_id : '3',family : 'danRer4'},
+'danRer2' : {released_month : '6',org : '31',long_name : 'Danio rerio June 2004',default_pos : 'chr7:22264844-22311549',clade_id : '1',released_year : '2004',name : 'Zebrafish',tbl_name : 'refseq',run : '142',released_date : 'June 2004',dset_id : '111',family : 'danRer2'},
+'bosTau1' : {released_month : '9',org : '39',long_name : 'Bos taurus Sep. 2004',default_pos : 'SCAFFOLD50651:63-26319',clade_id : '1',released_year : '2004',name : 'Cow',tbl_name : 'genscan',run : '107',released_date : 'Sep. 2004',dset_id : '186',family : 'bosTau1'},
+'tetNig1' : {released_month : '2',org : '158',long_name : 'Tetraodon nigroviridis Feb. 2004 (V7)',default_pos : 'chrUn_random:6431132-6440701',clade_id : '1',released_year : '2004',name : 'Tetraodon',tbl_name : 'gaze',run : '144',released_date : 'Feb. 2004',dset_id : '115',family : 'tetNig1'},
+'monDom1' : {released_month : '10',org : '165',long_name : 'Opossum Oct. 2004',default_pos : 'scaffold_18607:716,814-869,091',clade_id : '1',released_year : '2004',name : 'Gray short-tailed opossum',tbl_name : 'genscan',run : '328',released_date : 'Oct. 2004',dset_id : '187',family : 'monDom1'},
+'rheMac2' : {released_month : '1',org : '362',long_name : 'Rhesus Jan. 2006',default_pos : 'chr7:58,999,504-59,100,350',clade_id : '1',released_year : '2006',name : 'Rhesus',tbl_name : 'refseq2',run : '54',released_date : 'Jan. 2006',dset_id : '291',family : 'rheMac2'},
+'equCab1' : {released_month : '1',org : '696',long_name : 'Horse Jan. 2007',default_pos : 'chr1:1-100000',clade_id : '1',released_year : '2007',name : 'Horse',tbl_name : 'refseq2',run : '80',released_date : 'Jan. 2007',dset_id : '469',family : 'equCab1'},
+'ponAbe01' : {released_month : '7',org : '722',long_name : 'Pongo pygmaeus abelii v.2.0.2',default_pos : 'chr9:106,583,107-106,730,257',clade_id : '1',released_year : '2007',name : 'Orangutan',tbl_name : '',run : '54',released_date : 'July 2007',dset_id : '90',family : 'ponAbe01'}
+}; var dataset; var positionChanged=false;
+  </script> 
+
+</td></tr></table>                                                               
+
+</body>
+</html>

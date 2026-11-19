@@ -1,0 +1,1603 @@
+
+
+
+
+
+
+
+
+                             UNITED STATES DISTRICT COURT
+                            FOR THE DISTRICT OF NEW JERSEY
+
+
+     _______________________________________
+                                            :
+     IN RE MILESTONE SCIENTIFIC             :  No. 98-3404 (AJL)
+     SECURITIES LITIGATION                  :
+     _______________________________________:
+                                            :
+     VIVIAN BOLLAG, et al.,                 :
+                                            : 
+                 Plaintiffs,                : 
+                                            : 
+                                            :
+                 v.                         :  No. 98-2854 (AJL)
+                                            : 
+     LEONARD OSSER, et al.,                 :
+                                            :
+                 Defendants.                :
+                                            :
+     _______________________________________:
+
+
+
+                          MEMORANDUM OF THE SECURITIES AND 
+                          EXCHANGE COMMISSION, AMICUS CURIAE
+
+
+
+                                   HARVEY J. GOLDSCHMID (HG 0499)
+                                   General Counsel
+
+                                   ERIC SUMMERGRAD (ES 3628)
+                                   Principal Assistant General Counsel
+
+                                   LUIS de la TORRE (LT 5440)
+     Of Counsel                    Attorney
+       PAUL GONSON
+       Solicitor                   Securities and Exchange Commission
+                                   450 5th Street, N.W. (Stop 6-6)
+                                   Washington, D.C.  20549
+                                   (202) 942-0813 (de la Torre)
+
+
+
+     Dated:  December 3, 1998
+
+
+
+
+
+                              ======END OF PAGE 1======
+
+
+
+
+
+
+
+                                  TABLE OF CONTENTS
+
+                                                                  PAGE
+
+     TABLE OF AUTHORITIES  . . . . . . . . . . . . . . . . . . . . . . . . .  ii
+
+     INTRODUCTION AND SUMMARY OF THE COMMISSION'S POSITION . . . . . . . . .   1
+
+     BACKGROUND  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+
+     ARGUMENT  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+
+          A.   The Litigation Reform Act Contemplates that the Court
+               Will Exercise Control Over the Selection of Lead
+               Counsel.  . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+
+          B.   The Appointment of Multiple Lead Counsel May Allow for the
+               Pooling of Resources and Expertise, But May Also Engender
+               Conflict, Delay, and Inefficiency in Class Action
+               Litigation. . . . . . . . . . . . . . . . . . . . . . . . . .   8
+
+          C.   The Courts Should Consider at the Outset of the Litigation
+               The Appropriateness of Multiple Counsel.  . . . . . . . . . .  14
+
+          D.   In Evaluating Proposed Lead Counsel, the Court Should Take
+               into Account the Nature of the Litigation, the Counsels'
+               Resources and Expertise, the Circumstances Under Which a
+               Group of Counsel Was Formed, and Conflicts of Interest, but
+               Should Not Use Multiple Counsel as a Means of Assuring
+               Diversity of Representation.  . . . . . . . . . . . . . . . .  16
+
+     CONCLUSION  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        - i -
+
+
+
+
+
+
+
+                                 TABLE OF AUTHORITIES
+
+     CASES                                                        PAGE
+
+     Ballan v. Upjohn Co., 
+       159 F.R.D. 473 (W.D. Mich. 1994)  . . . . . . . . . . . . . . . .  11, 12
+
+     Bateman Eichler, Hill Richards, Inc. v. Berner, 
+       472 U.S. 299 (1985) . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+     Blue Chip Stamps v. Manor Drug Stores, 
+       421 U.S. 723 (1975) . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+     In re Cendant Corp. Litig.,
+       182 F.R.D. 144 (D.N.J. 1998)  . . . . . . . . . . . . . . . . . 8, 13, 20
+
+     Chill v. Green Tree Financial Corp., 
+       181 F.R.D. 398 (D. Minn. 1998)  . . . . . . . . . . . . . . . . . . .  18
+
+     In re Donnkenny Inc. Sec. Litig., 
+       171 F.R.D. 156 (S.D.N.Y. 1997)  . . . . . . . . . . . . . . . . . . .  13
+
+     Fischler v. AmSouth Bancorporation, 
+       1997 WL 118429 (M.D. Fla. Feb. 6, 1997) . . . . . . . . . . . . . . . . 7
+
+     Garr v. U.S. Healthcare, Inc., 
+       22 F.3d 1274 (3d Cir. 1994) . . . . . . . . . . . . . . . . . . . . .  22
+
+     In re General Motors Corp. Pick-Up Truck Fuel Tank
+       Products Liability Litig., 
+       55 F.3d 768 (3d Cir.), 
+       cert. denied, 516 U.S. 824 (1995) . . . . . . . . . . . . . . . . . .  10
+
+     Gluck v. Cellstar Corp., 
+       976 F. Supp. 542 (N.D. Tex. 1997) . . . . . . . . . . . . . . . . . . . 7
+
+     Horizon/CMS Healthcare Corp. Sec. Litig., 
+       3 F. Supp.2d 1208 (D.N.M. 1998) . . . . . . . . . . . . . . .  10, 15, 19
+
+     Housler v. First National Bank of East Islip, 
+       524 F. Supp. 1063 (E.D.N.Y. 1981) . . . . . . . . . . . . . . . . . .  12
+
+     J.I. Case Co. v. Borak, 
+       377 U.S. 426 (1964) . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+     Lax v. First Merchants Acceptance Corp., 
+       1997 WL 461036 (N.D. Ill. Aug. 11, 1997)  . . . . . . . . . . . . . .  13
+
+     Malin v. Ivax Corp., 
+       No. 96-1843, (S.D. Fla. Nov. 1, 1996) . . . . . . . . . . . . . . . .  17
+
+
+
+                                        - ii -
+
+
+
+
+
+
+
+     TABLE OF AUTHORITIES (continued)
+
+     CASES                                                        PAGE
+
+     Nager v. Websecure, Inc., 
+       1997 WL 773717 (D. Mass. Nov. 26, 1997) . . . . . . . . . . . . .  14, 18
+
+     Oxford Health Plans, Inc. Sec. Litig., 
+       182 F.R.D. 42 (S.D.N.Y. 1998) . . . . . . . . . . . . . . . . . 9, 13, 23
+
+     Percodani v. Riker-Maxson Corp., 
+       51 F.R.D. 263 (S.D.N.Y. 1970), 
+       aff'd, 442 F.2d 457 (2d Cir. 1971)  . . . . . . . . . . . . . . . . .  12
+
+     Raftery v. Mercury Finance Co., 
+       1997 WL 529553 (N.D. Ill. Aug. 15, 1997)  . . . . . . . . . . . . . .  20
+
+     Ravens v. Iftikar, 
+       174 F.R.D. 651 (N.D. Cal. 1997) . . . . . . . . . . . . . . . . . . . . 7
+
+     Reiger v. Altris Software, Inc., 
+       1998 U.S. Dist. LEXIS 14705 
+       (S.D. Cal. Sept. 11, 1998)  . . . . . . . . . . . . . . . . . . . . .  13
+
+     In re Reliance Acceptance Group, Inc. Sec. Litig., 
+       1998 WL 388260 (W.D. Tex. June 29, 1998)  . . . . . . . . . . . . . .  13
+
+     In re Revco Sec. Litig., 
+       142 F.R.D. 659 (N.D. Ohio 1992) . . . . . . . . . . . . . . . . . . .  13
+
+     In re Wells Fargo Sec. Litig., 
+       156 F.R.D. 223 (N.D. Cal. 1994) . . . . . . . . . . . . . . . . 9, 13, 17
+
+     In re Wells Fargo Sec. Litig., 
+       157 F.R.D. 467 (N.D. Cal. 1995) . . . . . . . . . . . . . . . . .  10, 12
+
+     Zuckerman v. FoxMeyer Health Corp., 
+       1997 WL 314422 (N.D. Tex. Mar. 28, 1997)  . . . . . . . . . . . . . .  14
+
+     STATUTES
+
+     Securities Exchange Act of 1934, 15 U.S.C. 78a, et. seq.
+
+          Section 21D, 15 U.S.C. 78u-4 . . . . . . . . . . . . . . . . . . . . 2
+          Section 21D(a)(3), 15 U.S.C. 78u-4(a)(3) . . . . . . . . . . . . . . 6
+          Section 21D(a)(3)(B)(v),
+            15 U.S.C. 78u-4(a)(3)(B)(v)  . . . . . . . . . . . . . . . . .  3, 7
+
+     28 U.S.C. 1927  . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+
+
+
+
+                                       - iii -
+
+
+
+
+
+
+
+     TABLE OF AUTHORITIES (continued)
+
+
+     LEGISLATIVE HISTORY                                         PAGE
+
+     Joint Explanatory Statement of the Committee 
+       of Conference, Conference Report on 
+       Securities Litigation Reform, 
+       H.R. Rep. No. 104-369 (1995)  . . . . . . . . . . . . . . . . . . 2, 7, 8
+                                                               passim
+     Report on the Private Securities Litigation 
+       Reform Act of 1995, S. Rep. No. 104-98 (1995) . . . . . . . . . . . . . 8
+
+     MISCELLANEOUS
+
+     Elliott J. Weiss & John S. Beckerman, 
+       Let the Money Do the Monitoring: 
+       How Institutional Investors Can Reduce 
+       Agency Costs in Securities Class Actions, 
+       104 Yale L.J. 2053 (1995) . . . . . . . . . . . . . . . . . . . 7, 10, 20
+
+     Elliott J. Weiss, The Impact to Date of the 
+       Lead Plaintiff Provisions of the Private 
+       Securities Litigation Reform Act, 
+       39 Ariz. L. Rev. 561 (1997) . . . . . . . . . . . . . . . . . . .  19, 21
+
+     Janet Cooper Alexander, Do the Merits Matter?  
+       A Study of Settlements in Securities Class 
+       Actions, 43 Stan. L. Rev. 497 (1991)  . . . . . . . . . . . . . . . 9, 22
+
+     John C. Coffee, Jr., Rescuing the Private Attorney 
+       General:  Why the Model of the Lawyer as Bounty 
+       Hunter Is Not Working, 
+       42 Md. L. Rev. 215 (1983) . . . . . . . . . . . . . . . . . . . .  13, 22
+
+     John C. Coffee, Jr., The Regulation of 
+       Entrepreneurial Litigation:  Balancing 
+       Fairness and Efficiency in the Large 
+       Class Action, 54 U. Chi. L. Rev. 877 (1987) . . . . . . . . . . .  16, 22
+
+     Jonathan R. Macey & Geoffrey P. Miller, 
+       The Plaintiffs' Attorney's Role in Class 
+       Action and Derivative Litigation: Economic 
+       Analysis and Recommendations for Reform, 
+       58 U. Chi. L. Rev. 1 (1991) . . . . . . . . . . . . . . . . . . . . .  15
+
+     Report to the President and the Congress 
+       on the First Year of Practice Under the 
+       Private Securities Litigation Reform Act
+       of 1995 (Apr. 1997)   . . . . . . . . . . . . . . . . . . . . . . . .  11
+
+
+
+                                        - iv -
+
+
+
+
+
+
+
+                             UNITED STATES DISTRICT COURT
+                            FOR THE DISTRICT OF NEW JERSEY
+     _______________________________________
+                                            :
+     IN RE MILESTONE SCIENTIFIC             :  No. 98-3404 (AJL)
+     SECURITIES LITIGATION                  :
+     _______________________________________:
+                                            :
+     VIVIAN BOLLAG, et al.,                 :
+                                            : 
+                 Plaintiffs,                : 
+                                            : 
+                                            :
+                 v.                         :  No. 98-2854 (AJL)
+                                            : 
+     LEONARD OSSER, et al.,                 :
+                                            :
+                 Defendants.                :
+                                            :
+     _______________________________________:
+
+     MEMORANDUM OF THE SECURITIES AND 
+     EXCHANGE COMMISSION, AMICUS CURIAE
+
+                INTRODUCTION AND SUMMARY OF THE COMMISSION'S POSITION
+
+          Pursuant to the Court's letter and letter opinion dated October 22,
+
+     1998, the Securities and Exchange Commission respectfully submits this
+
+     memorandum, as amicus curiae, to address, as requested by the Court, the
+
+     issue of "the appropriateness of multiple lead counsel in a securities
+
+     fraud class action."
+
+          This issue is of importance because the selection of lead counsel can
+
+     affect whether private securities litigation is prosecuted in an effective
+
+     and efficient manner.  The Commission has long expressed the view that
+
+     legitimate private actions under the federal securities laws serve an
+
+     important role, both because they work to compensate investors who have
+
+     been harmed by securities law violations and because, as the Supreme Court
+
+     has repeatedly recognized, they "provide `a most effective weapon in the
+
+     enforcement' of the securities laws and are `a necessary supplement to
+
+     Commission action.'"  Bateman Eichler, Hill Richards, Inc. v. Berner, 472
+
+
+
+
+
+
+
+                                        - 2 -
+
+     U.S. 299, 310 (1985), quoting J.I. Case Co. v. Borak, 377 U.S. 426, 432
+
+     (1964); see also Blue Chip Stamps v. Manor Drug Stores, 421 U.S. 723, 730
+
+     (1975).
+
+          In adopting the Private Securities Litigation Reform Act of 1995
+
+     ("Litigation Reform Act" or "Act"), codified at Section 21D of the
+
+     Securities Exchange Act of 1934, 15 U.S.C. 78u-4, Congress affirmed that
+
+     "[p]rivate securities litigation is an indispensable tool with which
+
+     defrauded investors can recover their losses."  It further stated that
+
+     private lawsuits "promote public and global confidence in our capital
+
+     markets and help to deter wrongdoing and to guarantee that corporate
+
+     officers, auditors, directors, lawyers and others properly perform their
+
+     jobs."  Joint Explanatory Statement of the Committee of Conference,
+
+     Conference Report on Securities Litigation Reform, H.R. Rep. No. 104-369,
+
+     at 31 (1995) ("Conf. Rep.").
+
+          One of the objectives of the Litigation Reform Act's provisions for
+
+     the appointment of lead plaintiff was to ensure more effective
+
+     representation of investors' interests in private securities class actions
+
+     by transferring control of securities class actions from lawyers to
+
+     investors.  Conf. Rep. at 32-35.  The Act's provision governing the
+
+     selection and retention of lead counsel is an important part of that
+
+     effort.  Id. at 35.
+
+          The Act provides that "[t]he most adequate plaintiff shall, subject to
+
+     the approval of the court, select and retain counsel to represent the
+
+     class."  15 U.S.C. 78u-4(a)(3)(B)(v).  This provision gives the lead
+
+     plaintiff the initial choice of counsel, and ensures that only in very
+
+     unusual circumstances will the lead plaintiff have to accept counsel that
+
+
+
+
+
+
+
+                                        - 3 -
+
+     it did not choose for itself.  The provision otherwise preserves the
+
+     court's traditional discretion to evaluate the likely effectiveness of
+
+     proposed class counsel for the protection of the class.
+
+          The Commission believes that courts generally should defer to the lead
+
+     plaintiff's choice of counsel (e.g., except in very unusual circumstances,
+
+     courts should not force a lead plaintiff to retain counsel it has not
+
+     selected itself).  Particular problems may arise from multiple counsel
+
+     arrangements, however, and courts should actively exercise their discretion
+
+     to review proposals for such arrangements.  Although appointment of more
+
+     than one counsel may be appropriate in circumstances where a single firm
+
+     lacks the resources or expertise to manage the litigation, appointment of
+
+     multiple counsel can raise significant concerns.  These include impairment
+
+     of the lead plaintiff's ability to manage the litigation and supervise
+
+     counsel effectively, duplication of effort, lack of coordination among
+
+     counsel, delay of the litigation, and increase in attorneys' fees.  The
+
+     presumptive lead plaintiff should provide the court with full information
+
+     about the structure and intended functioning of the proposed counsel group
+
+     and efforts it has made to avoid the potential problems with multiple
+
+     counsel.
+
+          A particularly important consideration in evaluating a multiple
+
+     counsel proposal is that the lead counsel have sufficient resources and
+
+     flexibility to manage the litigation effectively for the class.  Multiple
+
+     counsel may be justified where the firms provide necessary resources,
+
+     skill, experience, or expertise.  The court should not rely on, or give
+
+     weight to, generic asserted benefits such as assuring input from more
+
+
+
+
+
+
+
+                                        - 4 -
+
+     rather than fewer class members or lawyers or avoiding disputes among
+
+     competing lead plaintiff movants and among their counsel.
+
+          The Commission believes that another important consideration in
+
+     evaluating the proposal is the possibility of a conflict of interest
+
+     involving one or more of the chosen counsel.  If the circumstances justify
+
+     particular confidence in the lead plaintiff's independence and ability to
+
+     make choices, then deference to those choices would be appropriate.  Where,
+
+     however, it appears that the prospective lead plaintiff has not played an
+
+     active, effective role in choosing counsel or that the relationship between
+
+     the plaintiff and one or more of its chosen law firms is based on factors
+
+     other than the merits of the firms, then greater scrutiny is warranted.
+
+          Finally, the Commission believes that the court should place
+
+     appropriate conditions on the appointment of multiple counsel and indicate
+
+     a willingness to revisit the issue.
+
+                                      BACKGROUND
+
+          This is a consolidated class action alleging that Milestone
+
+     Scientific, which develops, markets, and sells dental products, committed
+
+     securities fraud in promoting one of its products.  A group of members of
+
+     the purported plaintiff class, claiming losses of approximately $10
+
+     million, filed the only motion to be appointed lead plaintiff under the
+
+     Litigation Reform Act.
+
+          The group consisted of (1) an individual who is the chairman of the
+
+     board, chief executive officer, and director of a mutual fund and who is
+
+     the owner and one of two limited partners of an equity management firm that
+
+     is the general partner of the mutual fund; (2) his wife; (3) the mutual
+
+     fund; and (4) the equity management firm.  The motion was unopposed, and,
+
+
+
+
+
+
+
+                                        - 5 -
+
+     according to the group, is "supported by plaintiffs in 14 of the 16 pending
+
+     actions and by additional class members who purchased over 400,000 shares
+
+     and suffered over $3.8 million in losses."  August 17, 1998 Memorandum of
+
+     Law ("Mem.") at 4.
+
+          The group sought appointment as lead counsel of an "executive
+
+     committee" of three law firms, with one of the firms serving as the "chair"
+
+     of the committee. <(1)>  On October 22, 1998, the Court appointed the
+
+     group as lead plaintiff, <(2)> but determined that "[a]t this stage,
+
+     the [group] has not demonstrated sufficient need justifying the approval of
+
+     multiple lead counsel."  Opinion at 43.  The Court ordered additional
+
+     briefing from the lead plaintiff "addressing the factual and legal bases
+
+     for the approval of multiple lead counsel, as proposed."  October 22, 1998
+
+     letter to Commission; see Opinion at 41-45.
+
+                                       ARGUMENT
+
+     A.   The Litigation Reform Act Contemplates that the Court Will Exercise
+          Control Over the Selection of Lead Counsel.      
+
+          Although the Commission takes no position on the whether the specific
+
+     lead counsel arrangement proposed in this case should be approved, the
+
+                              
+
+          <(1)>     Although the group also sought appointment of a fourth
+                    firm as "liaison counsel," the members of the proposed
+                    executive committee have since withdrawn the proposal
+                    for a liaison counsel.  See Letter dated November 11,
+                    1998 from Abbey, Guardy & Squitieri to the Court, with
+                    attached proposed order; Memorandum of Law dated
+                    November 11, 1998, with attached proposed order,
+                    submitted by Cohen, Milstein, Hausfeld & Toll and
+                    Schoengold & Sporn.
+
+          <(2)>     The Court states that its opinion is not to be
+                    published.  The Commission urges the Court to consider
+                    publishing its opinion, given the thoroughness of the
+                    Court's analysis, and the importance of guidance under
+                    the Litigation Reform Act.
+
+
+
+
+
+
+
+                                        - 6 -
+
+     Commission believes that it is proper and, indeed, of critical importance
+
+     for a court to inquire into the appropriateness of multiple lead counsel in
+
+     the circumstances of each securities class action in which multiple counsel
+
+     is proposed.  The nature and extent of this inquiry will vary with the
+
+     circumstances of each case and may take as much or as little time as
+
+     appropriate.  The Litigation Reform Act provides detailed procedures and
+
+     criteria for the appointment of lead plaintiff, gives a large role in the
+
+     choice of lead counsel to the lead plaintiff, and ensures that only in very
+
+     unusual circumstances will that lead plaintiff have to accept counsel that
+
+     it did not itself choose.  However, the Act otherwise preserves the court's
+
+     traditional discretion to evaluate counsel for the protection of the class. 
+
+     See 15 U.S.C. 78u-4(a)(3).
+
+          The Act provides that "[t]he most adequate plaintiff shall, subject to
+
+     the approval of the court, select and retain counsel to represent the
+
+     class."  15 U.S.C. 78u-4(a)(3)(B)(v).  One court has stated that this
+
+     provision "[g]iv[es] the Lead Plaintiff primary control for the selection
+
+     of counsel" and "was a critical part of Congress' effort to transfer
+
+     control of securities class actions from lawyers to investors."  Gluck v.
+
+     Cellstar Corp., 976 F. Supp. 542, 550 (N.D. Tex. 1997).
+
+          The overall purpose of the lead plaintiff provisions was "to encourage
+
+     the most capable representatives of the plaintiff class to participate in
+
+     class action litigation and to exercise supervision and control of the
+
+     lawyers for the class."  Conf. Rep. at 32; see, e.g., Ravens v. Iftikar,
+
+     174 F.R.D. 651, 654 (N.D. Cal. 1997) ("The Reform Act affords large,
+
+     sophisticated institutional investors a preferred position in securities
+
+     class actions.  * * *  Congress sought to eliminate figurehead plaintiffs
+
+
+
+
+
+
+
+                                        - 7 -
+
+     who exercise no meaningful supervision of litigation.").  Congress sought
+
+     to eliminate the practice that occurred at times where counsel effectively
+
+     chose itself as lead counsel by selecting a plaintiff and initiating
+
+     litigation. <(3)>
+
+          Although the lead counsel provision gives the lead plaintiff a large
+
+     role in the choice of lead counsel, and contemplates that a court would
+
+     impose additional or different counsel on the lead plaintiff only in very
+
+     unusual circumstances, the selection of counsel remains "subject to the
+
+     approval of the court."  The legislative history of the provision makes
+
+     clear that Congress "does not intend to disturb the court's discretion
+
+     under existing law to approve or disapprove the lead plaintiff's choice of
+
+     counsel when necessary to protect the interests of the plaintiff class." 
+
+     Conf. Rep. at 35.  As noted in In re Cendant Corp. Litig., 182 F.R.D. 144,
+
+     149-150 (D.N.J. 1998), "[i]n contrast to the strictly defined procedures
+
+     and considerations that prescribe the determination of lead plaintiff * * *
+
+     the Court's approval [of the proposed lead counsel] is subject to its
+                              
+
+          <(3)>     See Fischler v. AmSouth Bancorporation, 1997 WL 118429,
+                    at *1 (M.D. Fla. Feb. 6, 1997); Conf. Rep. at 35
+                    ("[T]his lead plaintiff provision solves the dilemma of
+                    who will serve as class counsel[:] * * * the plaintiff
+                    will choose counsel rather than, as is true today,
+                    counsel choosing the plaintiff."); Elliott J. Weiss &
+                    John S. Beckerman, Let the Money Do the Monitoring: How
+                    Institutional Investors Can Reduce Agency Costs in
+                    Securities Class Actions, 104 Yale L.J. 2053, 2062-63,
+                    2098 (1995) ("Weiss & Beckerman") (before passage of
+                    the Litigation Reform Act courts would "generally
+                    appoint as lead counsel either the lawyer who files the
+                    first complaint or a lawyer elected by all the lawyers
+                    who have filed complaints").  Weiss & Beckerman was
+                    cited in the legislative history of the Act as
+                    "provid[ing] the basis for the `most adequate
+                    plaintiff' provision."  Report on the Private
+                    Securities Litigation Reform Act of 1995, S. Rep. No.
+                    104-98, at 11 n.32 (1995).
+
+
+
+
+
+
+
+                                        - 8 -
+
+     discretionary judgment that lead plaintiff's choice of representative best
+
+     suits the needs of the class," and "the Court should not rely solely on
+
+     th[e] [lead plaintiff's] judgment" in that regard.
+
+     B.   The Appointment of Multiple Lead Counsel May Allow for the Pooling of
+          Resources and Expertise, But May Also Engender Conflict, Delay, and
+          Inefficiency in Class Action Litigation.                               
+                         
+
+          There is no question that the appointment of multiple counsel may at
+
+     times promote the effective management of class action litigation.  A
+
+     single firm may lack the resources to prosecute the action.  For example,
+
+     in Oxford Health Plans, Inc. Sec. Litig., 182 F.R.D. 42, 46 (S.D.N.Y.
+
+     1998), the court was "concerned with the potential costs and expenses of
+
+     th[e] litigation" and with "the resources of the plaintiffs' counsel in
+
+     order to support what could prove to be [the] costly and time-consuming
+
+     litigation."  After appointing "co-lead plaintiffs" (a decision with which
+
+     the Commission disagrees), the court appointed as lead counsel each lead
+
+     plaintiff's chosen law firm, two of which it described as "small" firms. 
+
+     The court appears to have determined that "[i]n light of the magnitude of
+
+     this case * * * the sharing of resources and experience" was necessary "to
+
+     ensure that the litigation will proceed expeditiously against Oxford and
+
+     the experienced counsel it has retained to represent it."  Id. at 49. <(4)>
+                              
+
+          <(4)>     See generally In re Wells Fargo Sec. Litig., 156 F.R.D.
+                    223, 226 (N.D. Cal. 1994) (explaining that "plaintiff
+                    law firms, which usually take cases on a contingent fee
+                    basis, join together to prosecute major complex cases
+                    because doing so allows them to leverage their
+                    resources and spread the risks of unfavorable
+                    outcomes"); Janet Cooper Alexander, Do the Merits
+                    Matter?  A Study of Settlements in Securities Class
+                    Actions, 43 Stan. L. Rev. 497, 546-47 (1991)
+                    ("Alexander") ("Plaintiffs' firms are quite small in
+                    comparison to defense firms, which frequently have
+                                                             (continued...)
+
+
+
+
+
+
+
+                                        - 9 -
+
+          Additional firms may not only add resources, but may bring particular
+
+     substantive expertise to a case.  For example, a firm may have done
+
+     extensive pre-filing investigation of a case and filed a well-drafted
+
+     complaint on behalf of a client that was not selected as lead plaintiff. 
+
+     Such a firm may therefore possess considerable knowledge and experience
+
+     about the case that would be of benefit in assuring its efficient
+
+     prosecution.  That firm might offer unique advantages "[t]o the extent this
+
+     experience could be translated into a benefit to the class" and to the
+
+     extent selection of the firm was otherwise consistent with effective and
+
+     efficient litigation of the case.  In re Wells Fargo Sec. Litig., 157
+
+     F.R.D. 467, 470 (N.D. Cal. 1995). <(5)>
+                              
+
+          <(4)>(...continued)
+                    hundreds of lawyers.  * * *  Several plaintiffs' firms
+                    are involved in any case, in effect forming an `ad hoc
+                    firm' for purposes of the litigation.  The firms that
+                    specialize in securities class actions * * * maintain a
+                    portfolio of such cases at any given time.  Securities
+                    cases are large, complex and expensive to litigate, and
+                    take a long time to resolve.  The number of such large
+                    cases a small firm can actively litigate at once is
+                    limited. * * *  For most plaintiffs' firms, taking even
+                    one large case to trial could seriously strain the
+                    firm's resources.") (footnotes omitted).
+
+          <(5)>     The Commission does not believe that a court should
+                    give any weight in evaluating a multiple counsel
+                    proposal (or later fee request) to which firm simply
+                    filed a complaint first or recruited the most clients
+                    in the case.  The Commission does believe, however,
+                    that the court can and should award appropriate
+                    compensation to law firms, whether or not they have
+                    been selected as lead counsel, that do significant work
+                    investigating and bringing meritorious securities
+                    actions.  See Conf. Rep. at 33 (Congress sought to
+                    encourage "diligence in drafting complaints" and
+                    "thoroughly researched" complaints); Weiss & Beckerman,
+                    104 Yale L.J. at 2108-09 (to "counter any hesitation
+                    [an attorney] might have about doing the prefiling
+                    investigation and other work necessary to prepare a
+                                                             (continued...)
+
+
+
+
+
+
+
+                                        - 10 -
+
+          On the other hand, appointment of multiple class counsel can fail to
+
+     serve the interests of the class for various reasons.  The greater the
+
+     number of lead counsel, the more difficult it is likely to be for the lead
+
+     plaintiff to manage the litigation and supervise the lawyers.  In one pre-
+
+     Litigation Reform Act case, for example, the court felt the need to caution
+
+     that "[a]lthough `[t]he functions of lead counsel may be handled by one
+
+     person or by several,' still `the number should not be so large as to
+
+     hamper the unity of direction that is needed.'"  See Ballan v. Upjohn Co.,
+
+     159 F.R.D. 473 (W.D. Mich. 1994) (quoting Manual for Complex Litigation
+
+     (Second)  20.22 at 16).  In "a case with eight law firms and one
+
+     plaintiff," that court found that the three co-lead counsel had not
+
+     "satisf[ied] the court that the [lead] plaintiff was willing and able to
+
+     supervise so many firms."  Id.  In its report on the first year of practice
+
+     under the Act, the Commission's staff identified two cases brought after
+
+     the Act in which lead plaintiffs had selected 30 or 33 law firms as lead
+
+     counsel, and noted that "even the most active institutional investor may
+
+     have difficulty controlling thirty or more law firms."  Office of the
+                              
+
+          <(5)>(...continued)
+                    complaint," if that attorney "is not retained by the
+                    lead plaintiff, the court should award her a reasonable
+                    fee for her efforts whenever the case results in a
+                    recovery for the plaintiff class"); see generally In re
+                    General Motors Corp. Pick-Up Truck Fuel Tank Products
+                    Liability Litig., 55 F.3d 768, 820 n.39 (3d Cir.) ("The
+                    common fund doctrine provides that a private plaintiff,
+                    or a plaintiff's attorney, whose efforts create,
+                    discover, increase, or preserve a fund to which others
+                    also have a claim, is entitled to recover from the fund
+                    the costs of his litigation, including attorneys'
+                    fees."), cert. denied, 516 U.S. 824 (1995); Horizon/CMS
+                    Healthcare Corp. Sec. Litig., 3 F. Supp.2d 1208, 1214-
+                    15 (D.N.M. 1998) (awarding fees to counsel for
+                    institutional investors which successfully objected to
+                    amount of lead counsel's fees).
+
+
+
+
+
+
+
+                                        - 11 -
+
+     General Counsel, Securities and Exchange Commission, Report to the
+
+     President and the Congress on the First Year of Practice Under the Private
+
+     Securities Litigation Reform Act of 1995 at 51 (Apr. 1997). <(6)>
+
+          Even prior to the Litigation Reform Act, courts expressed concern that
+
+     appointing multiple class counsel could cause duplication of effort,
+
+     increased attorneys' fees, friction or lack of coordination among counsel,
+
+     and delay of the litigation. <(7)>  Additional concerns associated
+
+     with multiple counsel include unnecessary complication of the litigation,
+
+     diminished accountability for its conduct, diminished incentives for each
+
+     firm to make its optimum contribution to the litigation, and a reduction in
+
+     merits-based competition among firms to represent the lead plaintiff.
+
+
+
+
+                              
+
+          <(6)>     The Report noted that the "phenomenon of multiple law
+                    firms representing the class was a familiar pattern
+                    prior to the Reform Act."  Id.
+
+          <(7)>     See, e.g., Percodani v. Riker-Maxson Corp., 51 F.R.D.
+                    263, 265 (S.D.N.Y. 1970) ("this Court sees no reason to
+                    saddle the plaintiff class with the burden of
+                    additional counsel fees and the added confusion which
+                    the appointment of co-lead counsel would bring"),
+                    aff'd, 442 F.2d 457 (2d Cir. 1971); Wells Fargo, 157
+                    F.R.D. at 468 ("Because a well-advised class in this
+                    case would seek to avoid unnecessary duplication of
+                    effort, the court earlier decided that only one firm
+                    should be selected to represent the class."); Ballan,
+                    159 F.R.D. at 491 (court "expect[s] co-lead counsel to
+                    satisfy [it] that the remaining plaintiff had
+                    determined the class would not be burdened by any
+                    unnecessary expenses arising from the presence of a
+                    legion of lawyers"); Housler v. First National Bank of
+                    East Islip, 524 F. Supp. 1063, 1068 (E.D.N.Y. 1981)
+                    (stating that if "the necessity for dual
+                    representation" of the class arose the court would
+                    inquire into "whether an appropriate understanding with
+                    all attorneys could be reached regarding the avoidance
+                    of duplication of effort").
+
+
+
+
+
+
+
+                                        - 12 -
+
+     <(8)>  These concerns have continued to be expressed since adoption of
+
+     the Act. <(9)>
+                              
+
+          <(8)>     See, e.g., Wells Fargo, 156 F.R.D. at 226 (the "common
+                    practice for plaintiff firms to join together * * * to
+                    prosecute big cases * * * effectively extinguishes
+                    competition among the plaintiff lawyers and therefore
+                    harms the interests of the class"); In re Revco Sec.
+                    Litig., 142 F.R.D. 659, 670 (N.D. Ohio 1992) (noting
+                    that "the presence of numerous counsel for the various
+                    plaintiffs" would "complicate the management of this
+                    case and waste judicial resources"); Ballan, 159 F.R.D.
+                    at 491 ("[e]ach of the firms designated as `co-lead'
+                    counsel was quick to point the finger at someone else
+                    [concerning a mistake], and none assumed ultimate
+                    accountability"); John C. Coffee, Jr., Rescuing the
+                    Private Attorney General:  Why the Model of the Lawyer
+                    as Bounty Hunter Is Not Working, 42 Md. L. Rev. 215,
+                    260-61 (1983).
+
+          <(9)>     See, e.g., In re Donnkenny Inc. Sec. Litig., 171 F.R.D.
+                    156, 158 (S.D.N.Y. 1997) (allowing lead plaintiff to
+                    select two law firms as co-lead counsel "provided that
+                    there is no duplication of attorneys' services, and the
+                    use of co-lead counsel does not in any way increase
+                    attorneys' fees and expenses"); Cendant, 182 F.R.D. at
+                    151 (denying "all motions for appointment of liaison
+                    counsel" because "[q]ualified lead counsel will be
+                    surely capable of performing these ministerial tasks"
+                    and the court "finds no need to involve another law
+                    firm in this matter"); Reiger v. Altris Software, Inc.,
+                    1998 U.S. Dist. LEXIS 14705, at *15-16, *18 (S.D. Cal.
+                    Sept. 11, 1998) (expressing concern that enlarging the
+                    number of lead counsel through appointment of "co-lead
+                    plaintiffs" could "unnecessarily increase the time and
+                    expense spent on preparing and litigating the case,"
+                    where the presumptive lead plaintiff "already has three
+                    co-counsel" and "[a]ppointing [a co-lead plaintiff]
+                    would add two more counsel") (citation omitted);
+                    Oxford, 182 F.R.D. at 50 (appointing co-lead counsel
+                    "with the understanding that there shall be no
+                    duplication of attorney's services and that the use of
+                    [three] co-lead counsel will not in any way increase
+                    attorney's fees and expenses"; stating that "[t]he
+                    efforts of the Executive Committee [led by the co-lead
+                    counsel] are to be conducted economically and without
+                    duplication," delay of the progress of the litigation,
+                    or unnecessary enlargement of expenses); In re Reliance
+                    Acceptance Group, Inc. Sec. Litig., 1998 WL 388260, at
+                                                             (continued...)
+
+
+
+
+
+
+
+                                        - 13 -
+
+     C.   The Courts Should Consider at the Outset of the Litigation The
+          Appropriateness of Multiple Counsel.                  
+
+          The Commission believes that it is appropriate and, in general,
+
+     necessary in terms of the effectiveness of the litigation effort for this
+
+     Court to address the foregoing concerns at the lead counsel selection
+
+     stage.  Some courts have suggested, however, that these concerns can be
+
+     dealt with by alternative means.  For example, in Nager v. Websecure, Inc.,
+
+     1997 WL 773717, at *1 (D. Mass. Nov. 26, 1997), the court stated that
+
+     "[t]here should be no concern that duplicative legal efforts will result in
+
+     higher legal costs to the class because the statute limits total attorneys'
+
+     fees to `a reasonable percentage of the amount of any damages and
+
+     prejudgment interest actually paid to the class.'"  In Zuckerman v.
+
+     FoxMeyer Health Corp., 1997 WL 314422, at *2 (N.D. Tex. Mar. 28, 1997), the
+
+     court also seemed to disregard concerns about multiple class counsel.  It
+
+     stated that "[a]s in any other litigation conducted in the Northern
+
+     District of Texas, the attorneys for both sides are under a continuing
+
+     obligation to comply with [a case establishing standards of litigation
+
+     conduct to be observed in civil actions in the District] and the local
+
+     Rules," citing Civil Justice Expense and Delay Reduction Plan and 28 U.S.C.
+
+     1927 ("Counsel's liability for excessive costs").
+
+                              
+
+          <(9)>(...continued)
+                    *5 (W.D. Tex. June 29, 1998) ("Counsel is warned,
+                    however, that there should be no duplication of
+                    services, and approval of three law firms should not be
+                    considered as a license to artificially inflate
+                    attorney's fees."); Lax v. First Merchants Acceptance
+                    Corp., 1997 WL 461036, at *7 (N.D. Ill. Aug. 11, 1997)
+                    (appointing two law firms as co-lead counsel, "provided
+                    that there is no duplication of attorneys' services,
+                    and the use of co-lead counsel does not in any way
+                    increase attorneys' fees and expenses.").
+
+
+
+
+
+
+
+                                        - 14 -
+
+          The Commission believes that the existence of other methods of
+
+     addressing the issues of cost and delay does not warrant disregarding these
+
+     issues at the time the court appoints counsel. These other methods of
+
+     controlling cost, delay, and inefficiency are less effective than an
+
+     approach that also includes evaluation of lead counsel proposals at the
+
+     outset.  No rule's dictate can completely overcome the inefficiency, added
+
+     cost, and delay inherent in an inappropriate multiple counsel arrangement. 
+
+     And although, as was true prior to the 1995 Act, courts should review
+
+     settlements and requests for attorneys' fees with rigor at the end of the
+
+     litigation, early review will go far to avoid the inherent inefficiency,
+
+     expense, and delay in an inappropriate counsel arrangement.  Post hoc
+
+     review of a proposed settlement or attorneys' fee award is inevitably
+
+     difficult and time-consuming, <(10)> and is no substitute for having
+
+     in place an efficient and effective counsel arrangement in the first place.
+
+          For these reasons, the Commission agrees with this Court that a
+
+     prospective lead plaintiff should provide the court with full information
+
+     about its multiple counsel arrangement.  See Opinion at 43-44.  The
+
+     plaintiff should describe the lines of authority among the proposed co-
+
+     counsel, the responsibilities and duties of each, and efforts it has made
+
+     to avoid problems such as loss of direction of the litigation, duplication
+
+     of effort, lack of coordination, and increase in costs.  Where, as in this
+
+     case, proposed lead counsel are described as an "executive committee," the
+                              
+
+          <(10)>    See Horizon, 3 F. Supp.2d at 1212-13 (court "reluctant
+                    to attempt a detailed, retroactive analysis of the work
+                    allocation made by lead counsel"); Jonathan R. Macey &
+                    Geoffrey P. Miller, The Plaintiffs' Attorney's Role in
+                    Class Action and Derivative Litigation: Economic
+                    Analysis and Recommendations for Reform, 58 U. Chi. L.
+                    Rev. 1, 44-50 (1991).
+
+
+
+
+
+
+
+                                        - 15 -
+
+     court should inquire about plans for the use of additional counsel and the
+
+     likely effectiveness of such plans. <(11)>
+
+
+     D.   In Evaluating Proposed Lead Counsel, the Court Should Take into
+          Account the Nature of the Litigation, the Counsels' Resources and
+          Expertise, the Circumstances Under Which a Group of Counsel Was
+          Formed, and Conflicts of Interest, but Should Not Use Multiple Counsel
+          as a Means of Assuring Diversity of Representation.                    
+                    
+
+          The court, in exercising its discretion to evaluate the multiple
+
+     counsel proposal, should carefully consider the nature, magnitude, and
+
+     likely demands of the case.  The lead counsel must have sufficient
+
+     resources and flexibility to manage the litigation effectively for the
+
+     class.  It would therefore be relevant whether the multiple counsel
+
+     proposal includes "a large, well-financed firm plainly able to handle the
+
+     litigation without the assistance of another firm" or instead consists of
+
+     "two or more firms otherwise too small to take on class counsel
+
+     responsibilities."  See In re Wells Fargo Sec. Litig., 156 F.R.D. 223, 226
+
+     (N.D. Cal. 1994).
+
+          Where the court is less concerned about individual law firms'
+
+     resources and where a number of plaintiffs' attorneys are available to
+
+                              
+
+          <(11)>    One commentator has argued that courts should
+                    "encourage greater hierarchical control" within a
+                    committee of class counsel "so that the lead counsel,
+                    once selected, does not have to negotiate continuously
+                    with various constituencies, or to award them patronage
+                    in return for their votes."  John C. Coffee, Jr., The
+                    Regulation of Entrepreneurial Litigation:  Balancing
+                    Fairness and Efficiency in the Large Class Action, 54
+                    U. Chi. L. Rev. 877, 909 (1987).  According to this
+                    view, "[o]nce freed of `political' constraints, the
+                    plaintiffs' lead counsel could prune deadwood from the
+                    `ad hoc firm' but could also invite in other attorneys
+                    and firms in order to achieve efficient risk-sharing." 
+                    Id.
+
+
+
+
+
+
+
+                                        - 16 -
+
+     provide any necessary assistance to lead counsel, appointment of fewer or a
+
+     single lead counsel might be warranted.  See, e.g., Wells Fargo, 156 F.R.D.
+
+     at 227 (appointing one law firm as lead counsel and stating that the firm
+
+     could "farm[] out work on the case to another law firm because of
+
+     specialized knowledge, geographic proximity to witnesses or evidence or
+
+     other comparative advantages, or even to spread risk"); Malin v. Ivax
+
+     Corp., No. 96-1843, Order at 8 (S.D. Fla. Nov. 1, 1996) (appointing two co-
+
+     lead counsel with the "expect[ation] that counsel retained by the [lead
+
+     plaintiff] will utilize the talents and expertise of the various firms who
+
+     were retained by the other plaintiffs in this action in their position as
+
+     lead counsel").  Of course, lead counsel should be able to explain to the
+
+     court why and how the use of additional law firms promotes the effective,
+
+     efficient prosecution of the litigation, rather than serving the interests
+
+     of the law firms.
+
+          However, because the Commission agrees with this Court that the
+
+     Litigation Reform Act is intended to "empower[] a unified force to control
+
+     the litigation," Opinion at 38, the Commission believes that certain
+
+     purported rationales for appointing multiple counsel are not valid.  In one
+
+     case, a magistrate judge seemed to suggest using the lead counsel provision
+
+     as a back-door method of facilitating input from disparate class members
+
+     that are not the lead plaintiff.  See Chill v. Green Tree Financial Corp.,
+
+     181 F.R.D. 398, 413 (D. Minn. 1998).  It might similarly be suggested that
+
+     the provision be used to avoid disputes over who should be lead plaintiff.
+
+          The Commission believes that such an approach works at cross-purposes
+
+     with the provisions for selecting the lead plaintiff.  In particular, it
+
+     risks introducing disunity and dissipating the ability of the lead
+
+
+
+
+
+
+
+                                        - 17 -
+
+     plaintiff to control the litigation.  Nor is there cause for it, since the
+
+     lead plaintiff has, by virtue of the Act's requirements, already been
+
+     determined by the court to adequately represent the class.  This does not
+
+     mean, however, that lead counsel should not establish some mechanism for
+
+     communication with members of the class other than the lead plaintiff; it
+
+     merely means that assuring input or avoiding competition does not justify
+
+     appointment of additional class members as lead plaintiffs or law firms as
+
+     lead counsel.
+
+          The Commission also questions whether "it seems sensible to employ the
+
+     [lawyer] `committee' approach to minimize the potential for disputes about
+
+     the direction of the litigation."  Nager, 1997 WL 773717, at *1.  An
+
+     important purpose of the Act was to allow the lead plaintiff to direct the
+
+     litigation.  Any disputes over the direction of the litigation should be
+
+     resolved by the lead plaintiff, and may merely be exacerbated if the lead
+
+     plaintiff has to deal with disparate and contentious multiple lead counsel. 
+
+     The goals of the Act should not be subordinated to the desire to avoid or
+
+     minimize disputes among counsel.  Indeed, a key goal of the Act was to
+
+     lessen the influence of counsel in the process of selecting lead plaintiff
+
+     and lead counsel.
+
+          Another important consideration in evaluating the multiple counsel
+
+     proposal is the possibility that a conflict of interest, or other
+
+     inappropriate factor, may intrude into the choice of counsel.  If
+
+     circumstances justify particular confidence in the lead plaintiff's
+
+     independence and ability to choose counsel, deference to those choices
+
+     would be appropriate.
+
+
+
+
+
+
+
+                                        - 18 -
+
+          Where, however, it appears that the prospective lead plaintiff has not
+
+     played an active, effective role in choosing counsel or the relationship
+
+     between the plaintiff and one or more of its chosen law firms is based on
+
+     factors other than the merits of the firms, greater scrutiny is clearly
+
+     warranted.  For example, a law firm conceivably could make large political
+
+     contributions to a decision maker at a prospective lead plaintiff which
+
+     thereafter is appointed lead plaintiff; this would clearly warrant scrutiny
+
+     from the court.  See Elliott J. Weiss, The Impact to Date of the Lead
+
+     Plaintiff Provisions of the Private Securities Litigation Reform Act, 39
+
+     Ariz. L. Rev. 561, 572 (1997) ("Weiss").  Thus, while deference to the
+
+     judgment of the lead plaintiff may be appropriate where it is capable of
+
+     managing the litigation, and has acted in a manner that best serves the
+
+     interests of the class, blanket deference is not. <(12)>
+
+          The court might find it useful in this regard to consider the
+
+     relationship between each proposed counsel and the lead plaintiff and the
+
+     circumstances under which that relationship was formed.  Absent concerns
+
+     about litigation skills, experience, or resources, a single law firm or
+
+     cohesive team of firms representing a single client is likely to provide
+
+                              
+
+          <(12)>    See Horizon, 3 F. Supp.2d at 1211 n.1, 1212
+                    (contrasting "consortium" that "was constructed largely
+                    by counsel seeking the lead role in the litigation"
+                    with the Litigation Reform Act "model" of "shareholders
+                    who possess a sufficient financial interest in the
+                    outcome to maintain some supervisory responsibility
+                    over both the litigation and their counsel"); Raftery
+                    v. Mercury Finance Co., 1997 WL 529553, at *2 (N.D.
+                    Ill. Aug. 15, 1997) (expressing concern about lead
+                    plaintiff movant's retainer agreement with law firm
+                    because "the court suspects that [it] is not the result
+                    of hard bargaining," not the product of "a discerning
+                    client in an arms length negotiation with well-
+                    qualified counsel").
+
+
+
+
+
+
+
+                                        - 19 -
+
+     more effective representation than an ad hoc collection of firms assembled
+
+     during the course of the litigation that represent (or represented)
+
+     separate parties.  Where a court has concerns about a multiple counsel
+
+     arrangement, the court might therefore consider limiting lead counsel to
+
+     the firm or firms representing the lead plaintiff at the outset of the
+
+     litigation.  This would be consistent with Congress' desire that the class
+
+     benefit from the ways in which the lead plaintiff chooses, and negotiates
+
+     with, its own counsel.  See Cendant, 182 F.R.D. at 148 ("Indeed, one of the
+
+     assumptions underlying the Reform Act's presumption of adequacy is that
+
+     plaintiffs with the assets necessary to have made large investments will
+
+     also be able to negotiate the most advantageous counsel rates to the
+
+     class."). <(13)>
+
+          For example, a number of law firms might come together during the
+
+     process of applying for, or competing for, lead plaintiff status.  In
+
+     LaPerriere v. Vesta Insurance Group, Inc., No. 98-AR-1407-S (N.D. Ala.,
+
+     Acker, J.), a large proposed lead plaintiff "group" originally requested
+
+                              
+
+          <(13)>    See also Weiss & Beckerman, 104 Yale L.J. at 2058,
+                    2106, 2107 (arguing that having institutions as lead
+                    plaintiffs "would allow market forces, not courts, to
+                    play a dominant role in determining who served as
+                    plaintiffs' lead counsel in class actions, how lead
+                    counsel would be compensated, and the settlement terms
+                    that counsel for the plaintiff class would be inclined
+                    to propose" because "plaintiffs' attorneys frequently
+                    would find themselves competing to be retained by
+                    institutional investors" and institutions would be "in
+                    a position to negotiate fee arrangements with
+                    plaintiffs' lawyers before class actions are
+                    initiated"); Weiss, 39 Ariz. L. Rev. at 563 (stating
+                    that institutions are "likely to negotiate fee
+                    arrangements that more closely aligned the interests of
+                    plaintiffs' attorneys with those of the plaintiff class
+                    than do the fee structures that courts generally
+                    employ").
+
+
+
+
+
+
+
+                                        - 20 -
+
+     approval of two firms as "co-lead counsel."  When it joined with a second
+
+     "group" to compete with an institution to be lead plaintiff, the group
+
+     increased, without explanation, the number of proposed co-lead counsel to
+
+     three firms, adding the firm representing the second group.  Ultimately,
+
+     the institution negotiated with three members of the large group a joint
+
+     lead plaintiff proposal, providing for two firms as lead counsel, which the
+
+     court accepted.  This suggests that unless there has been active, effective
+
+     client participation in the process, it is possible that the counsel
+
+     arrangement may simply reflect bargaining among lawyers for their own stake
+
+     in the case, and not serve the best interests of the class. <(14)>
+                              
+
+          <(14)>    Practices described in various cases and commentaries
+                    pre-dating the Litigation Reform Act could still be at
+                    work in the formation of some "committees" of class
+                    counsel and in the allotment of work assignments by
+                    those committees.  See Garr v. U.S. Healthcare, Inc.,
+                    22 F.3d 1274, 1277 (3d Cir. 1994) (noting that "[t]he
+                    lead attorney position is coveted as it is likely to
+                    bring its occupant the largest share of the fees
+                    generated by the litigation" and defense counsel's
+                    "expla[nation] that in class actions additional
+                    complaints are generated so that the original attorney
+                    will have allies when a vote is taken to determine the
+                    lead attorney"); Alexander, 43 Stan. L. Rev. at 528-29
+                    n.117 ("Some state court filings appear to be motivated
+                    primarily by strategic considerations in the intramural
+                    relations between plaintiffs' attorneys.  For example,
+                    an agreement to stay the state action while the federal
+                    action proceeds * * * may depend on whether the lawyers
+                    who filed in state court are satisfied with their role
+                    in the federal case."); Coffee, The Regulation of
+                    Entrepreneurial Litigation, 54 U. Chi. L. Rev. at 908
+                    (selection of class counsel could resemble "the legal
+                    equivalent of an unsupervised political convention
+                    * * * .  Rival slates would form.  Competing groups
+                    would invite other attorneys into the action in order
+                    to secure their vote for lead counsel.  Eventually, a
+                    political compromise would emerge.  The price of such a
+                    compromise was often both overstaffing and an
+                    acceptance of the free-riding or marginally competent
+                    attorney, whose vote gave him leverage that his ability
+                                                             (continued...)
+
+
+
+
+
+
+
+                                        - 21 -
+
+          Finally, if the court determines that it is appropriate under the
+
+     circumstances to appoint multiple lead counsel, the court should condition
+
+     their appointment on there being no duplication of attorney services or
+
+     increase in attorneys' fees and expenses.  The court should also reserve
+
+     the right to alter the counsel structure if it finds that the litigation is
+
+     being delayed, that expenses are being unnecessarily incurred, or if the
+
+     structure proves otherwise detrimental to the best interests of the
+
+     proposed class.  The court might also find it useful in appointing a
+
+     committee of law firms to require the submission of itemized, quarterly
+
+     reports detailing the services rendered, the costs expended, and the hourly
+
+     charges reasonably incurred in the litigation.  See Oxford, 182 F.R.D. at
+
+     50.
+
+                                      CONCLUSION
+
+          For the foregoing reasons, the Commission believes that courts should
+
+     actively exercise their discretion to review multiple lead counsel
+
+     proposals for the protection of the class.  The Commission believes that
+
+     courts should conduct that review 
+
+     based on careful attention to the facts of each case and in accordance with
+
+     the considerations discussed in this memorandum.
+
+
+                                   Respectfully submitted,
+
+                              
+
+          <(14)>(...continued)
+                    did not."); Coffee, Rescuing the Private Attorney
+                    General, 42 Md. L. Rev. at 250 ("The centrality of lead
+                    counsel's role means that there is often a spirited
+                    contest to determine who will occupy this position.  In
+                    a major case, the process can resemble a political
+                    convention:  vote-trading occurs, compromises are
+                    struck, and promises of favorable work assignments are
+                    made in return for support.").
+
+
+
+
+
+
+
+                                        - 22 -
+
+                                   ___________________________________
+                                   HARVEY J. GOLDSCHMID (HG 0499)
+                                   General Counsel
+
+                                   ___________________________________
+                                   ERIC SUMMERGRAD (ES 3628)
+                                   Principal Assistant General Counsel
+
+                                   ___________________________________
+                                   LUIS de la TORRE (LT 5440)
+                                   Attorney
+     Of Counsel
+      PAUL GONSON                  Securities and Exchange Commission
+      Solicitor                    450 5th Street, N.W. (Stop 6-6)
+                                   Washington, D.C.  20549
+                                   (202) 942-0813 (de la Torre)
+
+     Dated:  December 3, 1998
+

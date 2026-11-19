@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><mets:mets xmlns:rights="http://www.loc.gov/rights/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lc="http://www.loc.gov/mets/profiles" xmlns:bib="http://www.loc.gov/mets/profiles/bibRecord" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="loc.afc.afc9999005.11509" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" PROFILE="lc:bibRecord">
+    <mets:dmdSec ID="dmd1">
+        <mets:mdWrap MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods ID="mods1">
+                    <mods:titleInfo>
+                        <mods:title>Jesus is mine</mods:title>
+                    </mods:titleInfo>
+                    <mods:titleInfo type="alternative">
+                        <mods:title>The Sacred Harp, no. 545</mods:title>
+                    </mods:titleInfo>
+                    <mods:name type="personal">
+                        <mods:namePart>Lomax, John Avery</mods:namePart>
+                        <mods:namePart type="date">1867-1948</mods:namePart>
+                        <mods:role>
+                            <mods:roleTerm type="text">Recording engineer</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:name type="personal">
+                        <mods:namePart>Lomax, Ruby T. (Ruby Terrill)</mods:namePart>
+                        <mods:role>
+                            <mods:roleTerm type="text">Recording engineer</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:name type="personal">
+                        <mods:namePart>Henderson</mods:namePart>
+                        <mods:role>
+                            <mods:roleTerm type="text">Singer</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:name type="personal">
+                        <mods:namePart>Gentry, A. G.</mods:namePart>
+                        <mods:role>
+                            <mods:roleTerm type="text">Singer</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:name type="personal">
+                        <mods:namePart>Gentry, Lloyd</mods:namePart>
+                        <mods:role>
+                            <mods:roleTerm type="text">Singer</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:name type="personal">
+                        <mods:namePart>Spurgion, Johnny</mods:namePart>
+                        <mods:role>
+                            <mods:roleTerm type="text">Singer</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:name type="personal">
+                        <mods:namePart>Bond, C. A.</mods:namePart>
+                        <mods:role>
+                            <mods:roleTerm type="text">Singer</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:originInfo>
+                        <mods:place>
+                            <mods:placeTerm type="text">near Covington, Texas</mods:placeTerm>
+                        </mods:place>
+                        <mods:place>
+                            <mods:placeTerm type="text">Rock County, Texas</mods:placeTerm>
+                        </mods:place>
+                        <mods:dateCaptured encoding="iso8601">19400900</mods:dateCaptured>
+                    </mods:originInfo>
+                    <mods:language authority="iso639-2b">
+                        <mods:languageTerm type="code">eng</mods:languageTerm>
+                    </mods:language>
+                    <mods:physicalDescription>
+                        <mods:form authority="gmd">sound recording</mods:form>
+                    </mods:physicalDescription>
+                    <mods:note type="statement of responsibility">Sung by Henderson, A. G. Gentry, Lloyd Gentry, Johnny Spurgion, and C. A. Bond.</mods:note>
+                    <mods:note>Cf. The Sacred Harp, no. 545.</mods:note>
+                    <mods:note>33 R PM.</mods:note>
+                    <mods:note type="venue">Union Springs Church</mods:note>
+                    <mods:subject>
+                        <mods:hierarchicalGeographic>
+                            <mods:country>United States of America</mods:country>
+                            <mods:state>Texas</mods:state>
+                            <mods:county>Rock</mods:county>
+                            <mods:city>near Covington</mods:city>
+                        </mods:hierarchicalGeographic>
+                    </mods:subject>
+                    <mods:identifier type="AFS Number">AFS 03971 B03</mods:identifier>
+                    <mods:identifier type="afsNum">3971</mods:identifier>
+                    <mods:identifier type="index">afc9999005</mods:identifier>
+                    <mods:location>
+                        <mods:physicalLocation>American Folklife Center, Library of Congress</mods:physicalLocation>
+                    </mods:location>
+                    <mods:location>
+                        <mods:physicalLocation authority="marcorg">DLC</mods:physicalLocation>
+                    </mods:location>
+                    <mods:recordInfo>
+                        <mods:recordContentSource>IHAS</mods:recordContentSource>
+                        <mods:recordChangeDate encoding="marc">080529</mods:recordChangeDate>
+                        <mods:recordIdentifier source="IHAS">loc.afc.afc9999005.11509</mods:recordIdentifier>
+                    </mods:recordInfo>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="MASTER">
+            <mets:file MIMETYPE="image/tiff" GROUPID="G1" ID="f0784m">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb4.loc.gov/natlib/ihas/warehouse/afc9999005/AFS_3659_A-3999_B5/0784.tif"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="SERVICE">
+            <mets:file MIMETYPE="image/jpeg" GROUPID="G1" ID="f0784s">
+                <mets:FLocat LOCTYPE="URL" xlink:href="http://lcweb4.loc.gov/natlib/ihas/service/afc9999005/AFS_3659_A-3999_B5/0784v.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap>
+        <mets:div DMDID="mods1" TYPE="bib:bibRecord">
+            <mets:div TYPE="bib:card">
+                <mets:div TYPE="lc:image">
+                    <mets:fptr FILEID="f0784m"/>
+                    <mets:fptr FILEID="f0784s"/>
+                </mets:div>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

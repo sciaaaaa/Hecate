@@ -1,0 +1,878 @@
+
+ *Pages 1--24 from  Microsoft Word - 39463*
+ Federal  Communications  Commission  FCC  04-  131 
+ 1 
+ Before  the  Federal  Communications  Commission 
+ Washington,  D.  C.  20554 
+
+
+ In  the  Matter  of 
+ Joint  Application  for  Review  of  Constellation  Communications  Holdings,  Inc., 
+ Mobile  Communications  Holdings,  Inc.  and  ICO  Global  Communications  (Holdings)  Limited 
+
+
+ )  ) 
+ )  ) 
+ )  ) 
+ )  ) 
+
+
+ File  Nos.  SAT-  T/  C-  20020718-  00114  SAT-  T/  C-  20020719-  00104 
+ SAT-  MOD-  20020719-  00103  SAT-  MOD-  20020719-  00105 
+
+
+ Call  Signs  S2318,  S2319 
+ MEMORANDUM  OPINION  AND  ORDER 
+ Adopted:  June  9,  2004  Released:  June  24,  2004 
+
+
+ By  the  Commission:  Commissioner  Martin  approving  in  part,  concurring  in  part,  and  issuing  a  statement;  Commissioner  Copps  dissenting  and  issuing  a  statement. 
+
+
+ I.  INTRODUCTION 
+ 1.  In  this  Order,  we  deny  the  joint  application  for  review  filed  by  Constellation  Communications  Holdings,  Inc.  (Constellation),  Mobile  Communications  Holdings,  Inc.  (MCHI),  and  ICO  Global 
+ Communications  (Holdings)  Limited  (ICO).  1  These  parties  request  that  we  overturn  the  International  Bureau  (Bureau)  Order  that  found  Constellation's  and  MCHI's  2  GHz  Mobile-  Satellite  Service  (MSS) 
+ authorizations  to  be  null  and  void  for  failure  to  satisfy  the  first  implementation  milestone.  2  The  first  milestone  requires  a  2  GHz  MSS  system  licensee  to  enter  into  a  non-  contingent  satellite  manufacturing 
+ contract  within  one  year  of  authorization.  3  Milestone  requirements  promote  efficient  use  of  limited 
+
+
+ 1  Joint  Application  for  Review  of  Constellation  Communications  Holdings,  Inc.,  Mobile 
+ Communications  Holdings,  Inc.,  and  ICO  Global  Communications  (Holdings)  Limited,  File  Nos.  SAT-  T/  C-  20020718-  00114,  SAT-  T/  C-  20020719-  00104,  SAT-  MOD-  20020719-  00103,  SAT-  MOD-  20020719- 
+
+
+ 00105  (March  3,  2003)  (ICO  et  al.  Joint  Application  for  Review).  2 
+ Applications  of  Mobile  Communications  Holdings,  Inc.  and  ICO  Global  Communications  (Holdings)  Limited  for  Transfer  of  Control,  Constellation  Communications  Holdings,  Inc.  and  ICO  Global 
+
+
+ Communications  (Holdings)  Limited  for  Transfer  of  Control,  Mobile  Communications  Holdings,  Inc.  for  Modification  of  2  GHz  License,  Constellation  Communications  Holdings,  Inc.  for  Modification  of  2  GHz  License, 
+ Memorandum  Opinion  and  Order,  18  FCC  Rcd  1094  (Int'l  Bur.  2003)  (Constellation/  MCHI  Milestone  Order). 
+ 3  The  Establishment  of  Policies  and  Service  Rules  for  the  Mobile  Satellite  Service  in  the  2  GHz 
+ Band,  IB  Docket  No.  99-  81,  Report  and  Order,  15  FCC  Rcd  16127,  16177  ¶  106  (2000)  (2  GHz  MSS  Report  and  Order).  In  this  Order,  we  sometimes  use  the  term  "authorization"  to  refer  to  both  MSS  systems  licensed  by  the 
+
+
+ Commission  to  serve  the  United  States,  as  well  as  non-  U.  S.-  licensed  satellite  systems  for  which  the  Commission  reserved  spectrum  to  serve  the  United  States.  Specifically,  ICO  is  a  United  Kingdom-  authorized  system  operator 
+ seeking  access  to  the  U.  S.  market.  Section  25.137  of  the  Commission’s  rules  permits  a  non-  U.  S.  licensed  space  station  to  participate  in  a  space  station  processing  round  by  submitting  a  Letter  of  Intent  (LOI).  47  C.  F.  R.  §  25.137 
+ (continued….) 
+1
+ Federal  Communications  Commission  FCC  04-  131 
+ 2 
+ spectrum  resources  and  are  an  especially  important  mechanism  by  which  we  can  assure  that  satellite  licensees  utilize  their  spectrum  assignments.  4  As  discussed  in  detail  below,  the  Bureau  properly  enforced 
+ our  milestone  requirements,  and  therefore,  we  affirm  the  Bureau’s  decision. 
+ II.  BACKGROUND 
+ A.  The  Commission's  Milestone  Policy 
+ 1.  Purpose 
+ 2.  It  is  longstanding  Commission  policy  to  impose  milestones  for  satellite  system  implementation  upon  licensees.  5  Milestone  schedules  are  designed  to  ensure  that  licensees  are  proceeding  with 
+ construction  and  will  launch  their  satellites  in  a  timely  manner,  and  that  the  orbit  spectrum  resource  is  not  being  held  by  licensees  unable  or  unwilling  to  proceed  with  their  plans.  6  Milestones  ensure  speedy 
+ delivery  of  service  to  the  public  and  prevent  warehousing  of  valuable  orbit  locations  and  spectrum,  by  requiring  licensees  to  begin  operation  within  a  certain  time.  7  Warehousing  could  hinder  the  availability 
+ of  services  to  the  public  at  the  earliest  possible  date  by  blocking  entry  by  other  entities  willing  and  able  to 
+
+
+ (Continued  from  previous  page)  (2002).  The  grant  of  an  LOI  in  a  space  station  processing  round  reserves  spectrum  for  eventual  use  in  the  United 
+ States  by  earth  stations  to  be  licensed  at  a  later  date  to  communicate  with  the  non-  U.  S.  licensed  space  station.  4 
+ In  promulgating  the  licensing  and  service  rules  for  2  GHz  MSS,  we  stated  that  "milestone  requirements  are  especially  important  because  we  are  declining  to  adopt  financial  qualifications  as  an  entry  criterion 
+
+
+ for  2  GHz  MSS  systems."  2  GHz  MSS  Report  and  Order,  15  FCC  Rcd  at  16177  ¶  106.  More  recently,  we  reiterated  that  "[  m]  ilestones  remain  an  important  tool  to  prevent  warehousing  of  scarce  orbit  and  spectrum 
+ resources"  and  "strict  enforcement  of  milestones  will  help  safeguard  against  speculative  satellite  applications."  Amendment  of  the  Commission's  Space  Station  Licensing  Rules  and  Policies,  IB  Docket  No.  02-  34,  First  Report  and 
+ Order  and  Further  Notice  of  Proposed  Rulemaking,  18  FCC  Rcd  10760,  10828  ¶  175  (2003)  (First  Space  Station  Reform  Order). 
+ 5  See,  e.  g.,  Inquiry  into  the  Development  of  Regulatory  Policy  in  Regard  to  Direct  Broadcast 
+ Satellites,  Report  and  Order,  90  F.  C.  C.  2d  676,  719  ¶  114  (1982)  (adopting  rule  requiring  DBS  licensees  to  "begin  construction  or  complete  contracting  for  construction"  of  satellites  within  one  year  after  receiving  construction 
+
+
+ permits),  and  MCI  Communications  Corp.,  Memorandum  Opinion  and  Order,  2  FCC  Rcd  233,  233  ¶  5  (Com.  Car.  Bur.  1987)  (MCI)  (noting  that  a  milestone  schedule  is  included  in  each  domestic  space  station  authorization  issued 
+ by  the  Commission).  See  also  Norris  Satellite  Communications,  Inc.,  Memorandum  Opinion  and  Order,  12  FCC  Rcd  22299  (1997)  (Norris  Review  Order);  Morning  Star  Satellite  Company,  L.  L.  C.,  Memorandum  Opinion  and 
+ Order,  15  FCC  Rcd  11350  (Int’l  Bur.  2000),  aff’d,  Memorandum  Opinion  and  Order,  16  FCC  Rcd  11550  (2001)  (Morning  Star  Reconsideration  Order). 
+
+
+ 6  See,  e.  g.,  Advanced  Communications  Corporation,  Memorandum  Opinion  and  Order,  10  FCC 
+ Rcd  13337,  13338  ¶  4  (Int’l  Bur.  1995)  (Advanced),  aff’d,  Memorandum  Opinion  and  Order,  11  FCC  Rcd  3399  (1995)  (Advanced  Review  Order),  aff’d,  Advanced  Communications  Corporation  v.  FCC,  84  F.  3d  1452  (D.  C.  Cir. 
+
+
+ 1996)  (unpublished  order  available  at  1996  WL  250460);  National  Exchange  Satellite,  Inc.,  Memorandum  Opinion  and  Order,  7  FCC  Rcd  1990  (Com.  Car.  Bur.  1992);  AMSC  Subsidiary  Corp.,  Memorandum  Opinion  and  Order,  8 
+ FCC  Rcd  4040,  4042  ¶  13  (1993)  (AMSC  Order);  Motorola,  Inc.  and  Teledesic  LLC,  Memorandum  Opinion  and  Order,  17  FCC  Rcd  16543  (Int’l  Bur.  2002)  (Motorola/  Teledesic). 
+ 7  2  GHz  MSS  Order,  15  FCC  Rcd  at  16177  ¶  106.  See  also  Columbia  Communications 
+ Corporation,  Memorandum  Opinion  and  Order,  15  FCC  Rcd  15566,  15571,  ¶  11  (Int’l  Bur.  2000)  (First  Columbia  Milestone  Order). 
+2
+ Federal  Communications  Commission  FCC  04-  131 
+ 3 
+ proceed  immediately  with  the  construction  and  launch  of  their  satellite  systems.  8  Moreover,  warehousing  undercuts  decisions  by  the  Commission  to  allocate  scarce  spectrum  resources  to  satellite  services  over 
+ other  competing  services.  Consequently,  to  ensure  that  unused  spectrum  is  reassigned  as  quickly  as  possible,  the  Commission  has  strictly  enforced  the  construction  commencement  milestone.  9 
+
+
+ 2.  Milestone  Framework 
+ 3.  The  Commission  has  required  satellite  licensees  to  adhere  to  milestone  schedules  for  over  two  decades.  For  most  of  that  time,  the  Commission  has  imposed  three  milestones  for  each  space  station  or 
+ satellite  system  it  has  licensed.  These  milestones  require  that,  within  specified  time  periods,  licensees  must  (1)  begin  construction  –  which  the  Commission  has  defined  as  entering  into  a  non-  contingent 
+ construction  contract;  10  (2)  complete  construction;  and  (3)  launch.  As  early  as  1983,  the  Commission  stated  that  including  specified  dates  for  each  milestone  as  a  condition  of  each  license  will  "discourage 
+ warehousing"  and  noted  that  "delays  in  the  commencement  and  completion  of  construction  and  launch  activities  beyond  the  specified  dates  will  render  the  orbital  assignment  null  and  void."  11  The 
+ Commission  noted,  at  that  time,  that  the  milestone  dates  it  imposed  were  generally  based  upon  the  implementation  schedule  proposed  in  the  license  application  for  a  particular  satellite.  12  In  1985,  the 
+ Commission  stated,  however,  that  given  the  inherent  uncertainty  in  long-  term  traffic  projections  and  rapidly  changing  satellite  technology,  it  would  deny  applications  proposing  to  launch  satellites  more  than 
+ five  years  after  grant.  13 
+ 4.  In  the  last  decade,  the  Commission  has  often  imposed  uniform  schedules  for  each  of  the  three  milestones  in  each  license  granted  in  a  processing  round.  For  example,  in  granting  the  first  licenses  for 
+ constellations  of  non-  geostationary  satellite  orbit  (NGSO)  satellites  in  1991  for  "Little  LEO"  systems,  the  Commission  required  all  licensees  to  begin  construction  of  the  first  two  satellites  in  the  constellation 
+ within  one  year  of  license  grant,  to  begin  construction  of  the  remaining  satellites  within  three  years  of  grant,  to  complete  construction  of  the  first  two  satellites  within  four  years  of  grant,  and  to  have  the  entire 
+
+
+ 8  Amendment  of  the  Commission's  Space  Station  Licensing  Rules  and  Policies,  First  Report  and 
+ Order,  IB  Docket  No.  02-  34,  18  FCC  Rcd  10760,  10827  ¶  173  (2003)  (First  Space  Station  Reform  Order),  citing  PanAmSat  Ka-  Band  License  Revocation  Review  Order,  16  FCC  Rcd  at  11537-  38  (para.  12),  citing  Nexsat  Order, 
+
+
+ 7  FCC  Rcd  at  1991  (para.  8);  MCI  Order,  2  FCC  Rcd  at  233  (para.  5);  First  Columbia  Milestone  Order,  15  FCC  Rcd  at  15571  (para.  11). 
+
+
+ 9  See  Columbia  Communications  Corporation,  Application  for  Amendment  to  Pending  Application 
+ to  Extend  Milestones,  Memorandum  Opinion  and  Order,  15  FCC  Rcd  16496,  16502  ¶  16  (Int'l  Bur.,  2000)  (Second  Columbia  Milestone  Order);  AMSC  Order,  8  FCC  Rcd  at  4042  (para.  13);  Norris  Review  Order,  12  FCC  Rcd  at 
+
+
+ 22306  (para.  17). 
+ 10  See  Section  II.  A.  3.,  infra. 
+
+
+ 11  Licensing  of  Space  Stations  in  the  Domestic  Fixed-  Satellite  Service,  Report  and  Order,  CC 
+ Docket  No.  81-  704,  48  Fed.  Reg.  40233  (1983)  at  para.  82. 
+ 12  Id. 
+
+
+ 13  Licensing  Space  Stations  in  the  Domestic  Fixed-  Satellite  Service,  Report  and  Order,  CC  Docket 
+ No.  85-  135,  50  Fed.  Reg  36071  (1985)  at  para.  28  and  n.  43. 
+3
+ Federal  Communications  Commission  FCC  04-  131 
+ 4 
+ system  launched  and  in  operation  within  six  years  of  grant.  14  In  other  services,  such  as  the  Ka-  band  service,  the  Commission  has  based  milestone  dates  on  other  considerations,  such  as  the  date  by  which  the 
+ satellites  must  be  "brought  into  use"  under  international  Radio  Regulations  in  order  to  protect  their  international  filing  priority  status.  15 
+
+
+ 5.  In  the  2  GHz  Order  adopted  in  2000,  the  Commission  adopted  two  new  milestones  for  2  GHz  mobile-  satellite  service  systems.  16  It  did  so  because  of  its  concern  that  the  often  three-  year  gap  between 
+ the  commencing  construction  and  completing  construction  milestones  did  not  provide  adequate  assurance  that  licensees  are  taking  sufficient  steps  toward  system  implementation.  17  Consequently,  the  Commission 
+ imposed  two  new  milestones  on  2  GHz  licensees  –  Critical  Design  Review  (CDR)  and  Commencement  of  Physical  Construction  –  that  would  occur  between  the  beginning  construction  and  completing 
+ construction  milestones.  18  For  both  2  GHz  geostationary-  satellite  orbit  (GSO)  and  non-  geostationary-satellite  orbit  (NGSO)  licensees  2  GHz  licensees,  CDR  must  be  completed  within  two  years  of  grant.  19 
+ Further,  NGSO  licensees  must  commence  physical  construction  of  the  first  two  satellites  in  their  systems  within  two-  and-  a-  half  years  of  licensing,  while  GSO  licensees  must  commence  physical  construction 
+ within  three  years  of  licensing.  20 
+ 6.  In  the  2003  First  Space  Station  Reform  Order,  the  Commission  extended  the  CDR  and  Commencement  of  Physical  Construction  milestones  from  2  GHz  licensees  to  all  satellite  licensees 
+ (except  for  Direct  Broadcast  Satellite  systems  and  Digital  Audio  Radio  Service  systems)  on  a  going-forward  basis.  21  It  also  codified  uniform  milestone  dates  for  these  satellites,  requiring  all  licensees  to 
+ enter  into  a  binding  non-  contingent  contract  for  the  satellite  or  satellite  system  within  one  year  of  grant  and  to  complete  CDR  within  two  years  of  grant.  22  GSO  operators  must  begin  physical  construction  of  the 
+ satellite  within  three  years  of  grant  and  must  launch  and  operate  the  satellite  within  five  years  of  grant.  23  NGSO  operators  must  begin  physical  construction  of  the  first  satellite  in  the  system  within  two  and  one-half 
+ years  of  grant,  launch  and  operate  the  first  satellite  within  three  and  one-  half  years  of  grant,  and  bring 
+
+
+ 14  Amendment  of  the  Commission’s  Rules  to  Establish  Rules  and  Policies  Pertaining  to  a  Non-Voice, 
+ Non-  Geostationary  Mobile-  Satellite  Service,  Report  and  Order,  CC  Docket  No.  92-  76,  8  FCC  Rcd  8450,  8455  ¶  18  (1993)  (Little  LEO  Order). 
+
+
+ 15  See,  e.  g.,  VisionStar,  Inc.,  Order  and  Authorization,  13  FCC  Rcd  1428  (Int’l  Bur.  1997). 
+ 16  For  a  detailed  discussion  of  these  new  milestone  requirements,  see  Establishment  of  Policies  and 
+ Service  Rules  for  the  Mobile  Satellite  Service  in  the  2  GHz  band,  Report  and  Order,  IB  Docket  No.  99-  81,  15  FCC  Rcd  16127,  16177-  78  ¶  106  (2000)  (2  GHz  MSS  Order). 
+
+
+ 17  2  GHz  MSS  Order,  15  FCC  Rcd  at  16178-  79  ¶  108. 
+ 18  2  GHz  MSS  Order,  15  FCC  Rcd  at  16177-  78  ¶  106. 
+ 19  2  GHz  MSS  Order,  15  FCC  Rcd  at  16177-  78  ¶  106. 
+ 20  2  GHz  MSS  Order,  15  FCC  Rcd  at  16177-  78  ¶  106. 
+ 21  See  First  Space  Station  Reform  Order,  18  FCC  Rcd  at  10827-  28  ¶  174. 
+ 22  47  C.  F.  R.  §  25.164. 
+ 23  47  C.  F.  R.  §  25.164. 
+4
+ Federal  Communications  Commission  FCC  04-  131 
+ 5 
+ all  the  satellites  in  the  licensed  system  into  operation  within  six  years  of  grant.  24 
+ 3.  "Beginning  Construction"  Milestone 
+ 7.  The  Commission  has  viewed  the  first  milestone  condition  –  the  "beginning  construction"  or  "contract"  milestone  –  as  especially  important  because  it  provides  an  early  objective  indication  of  whether 
+ a  licensee  is  committed  to  proceeding  with  implementation  of  its  proposal.  25  The  Commission  established  the  criteria  for  meeting  this  first  milestone  requirement  in  the  Tempo  Order.  First,  licensees  must  enter 
+ into  a  binding,  non-  contingent  contract  with  a  spacecraft  manufacturer  to  construct  the  licensed  satellite  system.  26  Second,  satellite  construction  contracts  must  describe  the  licensee's  payment  terms  and 
+ schedule  sufficiently  to  demonstrate  the  parties’  investment  and  commitment  to  completion  of  the  system.  27  In  other  words,  the  Commission  established  two  general  principles  for  milestone  review  in  the 
+ Tempo  Order:  (1)  the  contract  must  be  binding  and  non-  contingent,  and  (2)  the  contract  must  demonstrate  that  the  licensee  is  committed  to  completing  the  construction  of  the  satellite  system  within  the  time  frame 
+ specified  in  the  license.  28 
+ 8.  Since  the  Tempo  Order,  the  Bureau  has  correctly  clarified  that  the  first  prong  of  this  analysis,  the  "binding,  non-  contingent  contract"  requirement,  requires  that  the  contract  identify  specific  satellites 
+ and  their  design  characteristics,  and  specify  dates  for  the  start  and  completion  of  construction.  29  The  Bureau  also  correctly  found  that  there  must  be  neither  significant  delays  between  the  execution  of  the 
+ construction  contract  and  the  actual  commencement  of  construction  nor  conditions  precedent  to  construction.  30 
+
+
+ 9.  In  order  to  meet  the  second  prong  of  this  analysis,  the  construction  contract  must  set  forth  a 
+
+
+ 24  47  C.  F.  R.  §  25.164. 
+ 25  See,  e.  g.,  Motorola/  Teledesic,  17  FCC  Rcd  at  16547  ¶  11. 
+ 26  Tempo  Enterprises,  Inc.,  et  al.,  Memorandum  Opinion  and  Order,  1  FCC  Rcd  20,  21  ¶  7  (1986) 
+ (Tempo  Order).  See  also  MCI  Order,  2  FCC  Rcd  at  234  ¶  10,  Nexsat  Order,  7  FCC  Rcd  at  1990  ¶¶  3-  4.  See  also  Letter  from  Chief,  Domestic  Facilities  Division,  Common  Carrier  Bureau  to  Counsel,  Hughes  Communications 
+
+
+ Galaxy,  Inc.  (June  7,  1990)  stating  that  "[  r]  equiring  a  non-  contingent  construction  contract  provides  a  uniform  standard  for  all  licensees  and  tangible  evidence  that  implementation  is  proceeding." 
+ 27  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7. 
+ 28  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7. 
+ 29  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7. 
+
+
+ 30  Norris  Satellite  Communications,  Inc.,  Memorandum  Opinion  and  Order,  12  FCC  Rcd  22299, 
+ 22303-  04  ¶  9  (1997)  (Norris  Review  Order),  PanAmSat  Licensee  Corp.,  Memorandum  Opinion  and  Order,  15  FCC  Rcd  18720  (Int’l  Bur.  2000),  PanAmSat  Licensee  Corp.  Application  for  Authority  to  Construct,  Launch,  and  Operate 
+
+
+ a  Ka-  Band  Communications  Satellite  System  in  the  Fixed-  Satellite  Service  at  Orbital  Locations  58°  W.  L.  and  125°  W.  L.,  Memorandum  Opinion  and  Order,  16  FCC  Rcd  11534,  11539  (para.  16)  (2001);  Mobile  Communications 
+ Holdings,  Inc.,  Memorandum  Opinion  and  Order,  17  FCC  Rcd  11898  (Int’l  Bur.  2002),  aff’d  18  FCC  Rcd  11650  (2003). 
+5
+ Federal  Communications  Commission  FCC  04-  131 
+ 6 
+ specific  construction  schedule  that  is  consistent  with  the  licensee's  milestones.  31  In  particular,  the  contract  must  require  the  licensee  to  make  significant  initial  payments  and  the  majority  of  payments  well  before 
+ the  end  of  the  construction  period.  32 
+ 10.  Under  the  two  prong  analysis  for  the  first  milestone,  there  is  substantial  FCC  precedent  that  provides  guidance  to  the  Commission  and  licensees  in  making  a  determination  as  to  whether  a  licensee  33 
+ has  met  its  first  milestone.  Specifically,  in  determining  whether  a  satellite  system  construction  contract  demonstrates  the  requisite  investment  and  commitment  to  meet  the  standards  of  the  two-  prong  analysis, 
+ the  Commission  has  generally  considered  several  factors,  including  but  not  limited  to  the  following:  1)  it  sets  forth  a  specific  construction  schedule  that  is  consistent  with  the  licensee’s  milestone  schedule  and 
+ that  does  not  unduly  postpone  commencement  of  construction  work;  2)  the  licensee  is  required  to  make  significant  initial  payments;  3)  most  of  the  consideration  to  be  paid  by  the  licensee  under  the  contract  will 
+ be  due  well  before  the  end  of  the  construction  period;  4)  the  contract  identifies  specific  satellites  and  their  design  characteristics,  consistent  with  the  license,  in  appropriate  detail;  and  5)  obligations  under  the 
+ contract  are  not  contingent  upon  future  performance  of  an  elective  action  by  the  licensee.  During  the  milestone  review  process,  if  the  individual  case  analysis  does  not  demonstrate  that  the  licensee  has  met 
+ these  or  other  factors,  the  Commission,  in  the  absence  of  some  countervailing  factor,  34  will  find  that  the  licensee  has  not  met  its  first  milestone  commitment. 
+
+
+ 11.  Bureau  decisions  have  correctly  followed  this  two-  prong  analysis  in  determining  whether  a  licensee  has  met  the  first  milestone.  For  example,  in  nullifying  a  license  held  by  Norris  Satellite 
+ Communications,  Inc.  in  1994  for  failure  to  meet  the  first  milestone,  the  International  Bureau  noted  that  while  Norris  had,  in  fact,  "signed  a  construction  contract  with  Harris  Corporation,  it  failed  to  make  the  $3 
+ million  down  payment  necessary  to  render  that  contract  non-  contingent."  35  Thus,  Norris's  contract  was  not  binding  and  non-  contingent.  Similarly,  on  several  occasions,  the  Commission  has  found  that  satellite 
+ construction  contracts  that  do  not  provide  for  completion  of  the  satellite  system  within  the  milestone  schedule  in  the  license  are  not  sufficient  to  meet  the  second  prong  of  the  standard  set  forth  in  the  Tempo 
+ Order,  that  the  licensee  is  committed  to  completing  the  construction  of  the  satellite  system  within  the  time 
+
+
+ 31  See  Morning  Star  Satellite  Company,  LLC,  Memorandum  Opinion  and  Order,  15  FCC  Rcd 
+ 11350,  11352  ¶  6  (Int'l  Bur.,  2000),  aff'd  in  Morning  Star  Satellite  Company,  LLC,  Memorandum  Opinion  and  Order,  16  FCC  Rcd  11550  (Int'l  Bur.,  2001). 
+
+
+ 32  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7. 
+ 33  In  this  Order,  the  term  "license"  is  used  to  refer  both  to  licenses  issued  pursuant  to  Section  301  of 
+ the  Communications  Act,  47  USC  §  301,  and  to  a  spectrum  reservation  adopted  pursuant  to  the  Commission's  procedures  for  considering  letter  of  intent  filings.  See  47  CFR  §  25.137;  Amendment  of  the  Commission's 
+
+
+ Regulatory  Policies  to  Allow  Non-  U.  S.  Licensed  Satellites  Providing  Domestic  and  International  Service  in  the  United  States,  Report  and  Order,  IB  Docket  No.  96-  111,  12  FCC  Rcd  24094,  24173-  74  ¶  185  (1997)  (DISCO  II). 
+
+
+ 34  One  example  of  a  countervailing  factor  is  a  case  in  which  the  licensee  committed  to  build  its 
+ own  satellite  system  rather  than  hiring  an  outside  satellite  manufacturer.  In  that  case,  the  licensee  submitted  an  "Inter-  organizational  Work  Order"  committing  a  subsidiary  to  build  the  satellite  system,  and  allocating  $3  million 
+
+
+ to  the  project.  The  licensee  also  demonstrated  that  it  had  sufficient  facilities  to  build  a  satellite  system.  See  The  Boeing  Company,  Order  and  Authorization,  18  FCC  Rcd  12317,  12328-  29  ¶¶  30-  31  (Int'l  Bur.  and  OET,  2003) 
+ (listing  factors  that  the  Commission  may  consider  in  reviewing  "in-  house"  satellite  manufacturing  arrangements). 
+ 35  Norris  Satellite  Communications,  Inc.,  Order,  11  FCC  Rcd  5402,  5402  ¶  4  (Int.  Bur.  1996),  aff’d 
+ 12  FCC  Rcd  22299  (1997). 
+6
+ Federal  Communications  Commission  FCC  04-  131 
+ 7 
+ frame  specified  in  the  license.  36  Also,  the  Bureau  has  stated  that  contracts  that  unduly  delay  the  commencement  of  satellite  construction  do  not  show  that  the  licensee  has  sufficient  commitment  to 
+ proceed  with  construction  of  the  satellite.  37  Moreover,  the  Commission  has  determined  that  a  contract  to  use  capacity  on  another  satellite  does  not  show  that  the  licensee  is  committed  to  construct  and  operate  a 
+ licensee's  own  satellite,  and  so  cannot  meet  the  Tempo  Order  standard.  38  Last,  the  Bureau  held  that  a  licensee  had  met  its  first  milestone  when  its  commonly-  controlled  sister  corporation  had  entered  into  a 
+ non-  contingent  construction  contract  with  a  spacecraft  manufacturer,  where  the  contract  provided  for  construction  of  a  satellite  with  design  characteristics  fully  consistent  with  those  specified  in  the  license.  39 
+
+
+ 12.  The  Commission  is  not  required  to  prescribe  all-  inclusive,  specific,  and  detailed  terms  for  contractual  arrangements  that  meet  the  requirements  of  the  contract  execution  milestone.  40  Such  an 
+ intrusion  into  a  licensee's  business  decisions  is  not  necessary  to  determine  whether  it  is  sufficiently  committed  to  constructing  and  launching  a  satellite  system.  In  addition,  we  have  never  found  it  to  be 
+ desirable  or  possible  to  try  to  anticipate  and  articulate  every  possible  scenario  that  we  might  be  asked  to  rule  on  in  deciding  compliance  with  our  milestone  requirements.  Instead  of  adopting  such  detailed  rules 
+ requiring  or  prohibiting  certain  contract  provisions  or  types  of  arrangements,  the  Commission  has  adopted  general  standards.  Under  those  standards,  (1)  the  contract  must  be  binding  and  non-  contingent,  and  (2) 
+ the  contract  must  demonstrate  that  the  licensee  is  committed  to  completing  the  construction  of  the  satellite  system.  41  As  a  result,  licensees  have  more  flexibility  to  consider  different  construction  and  related 
+ financing  arrangements,  as  long  as  they  meet  the  general  standards  developed  in  the  Commission's  precedents.  42 
+
+
+ B.  2  GHz  MSS  Milestones 
+
+
+ 36  See  Direct  Broadcasting  Satellite  Corp.,  Memorandum  Opinion  and  Order,  8  FCC  Rcd  7959, 
+ 7960  ¶6  (Mass  Media  Bur.,  Video  Services  Div.  1993)  (a  non-  contingent  contract  must  specify  a  construction  timetable  with  “regular,  specific”  progress  deadlines),  quoting  United  States  Satellite  Broadcasting  Co.,  Inc.  and 
+
+
+ Dominion  Video  Satellite,  Inc.,  Memorandum  Opinion  and  Order,  3  FCC  Rcd  6858,  6861  ¶  20  (1988)  (USSB/  Dominion  Order);  Morning  Star  Satellite  Co.,  LLC,  Memorandum  Opinion  and  Order,  15  FCC  Rcd  11350, 
+ 11352  ¶  8  (Int'l  Bur.  2001),  aff'd.  16  FCC  Rcd  11550  (2001)  (contract  found  contingent  in  part  because  it  did  not  specify  a  construction  schedule),  EchoStar  Satellite  Corp.,  Memorandum  Opinion  and  Order,  17  FCC  Rcd  12780, 
+ 12783  ¶7  (Int'l  Bur.  2002). 
+ 37  EchoStar  Satellite  Corporation,  Memorandum  Opinion  and  Order,  17  FCC  Rcd  12780,  12783  ¶ 
+ 7  (Int'l  Bur.,  2002). 
+ 38  Advanced  Review  Order,  11  FCC  Rcd  at  3414  ¶  39. 
+
+
+ 39  KaStarCom  World  Satellite,  LLC,  Order  and  Authorization,  18  FCC  Rcd  22337,  22339  n.  16  (Int'l.  Bur. 
+ 2003)  (KaStarCom  Order). 
+ 40  Lakeshore  Broadcasting,  Inc.,  v.  FCC,  199  F.  3d  468  (D.  C.  Cir.,  1999)  (Lakeshore),  Trinity 
+ Broadcasting  of  Florida  v.  FCC,  211  F.  3d  618  (D.  C.  Cir.  2000)  (Trinity). 
+ 41  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7. 
+
+
+ 42  It  is  well  established  that  administrative  agencies  may  develop  policy  in  either  rulemaking  or 
+ adjudicatory  proceedings.  SEC  v.  Chenery  Corp.,  332  U.  S.  194  (1947),  cited  in  Winter  Park  Communications,  Inc.  v.  FCC,  873  F.  2d  347,  351  n.  4  (D.  C.  Cir.  1989);  SBC  Communications,  Inc.  v.  FCC,  138  F.  2d  410,  421  (D.  C. 
+
+
+ Cir.  1998)  (Commission  is  allowed  to  proceed  in  adjudications  so  that  it  can  develop  policy  in  small  steps). 
+7
+ Federal  Communications  Commission  FCC  04-  131 
+ 8 
+ 13.  As  noted  above,  the  Commission  adopted  the  milestone  requirements  for  2  GHz  MSS  licensees  as  part  of  the  rulemaking  proceeding  to  establish  service  rules  governing  operation  of  2  GHz 
+ MSS  systems.  43  After  notice  and  an  opportunity  for  comment,  the  Commission  adopted  the  2  GHz  MSS  milestone  requirements  proposed  in  the  2  GHz  Notice,  including  a  binding,  non-  contingent  contract 
+ within  one  year  of  the  date  the  license  is  issued.  44  No  party  sought  reconsideration  or  clarification  of  the  milestones,  or  their  definitions.  The  Commission  also  indicated  in  the  2  GHz  MSS  Report  and  Order  that, 
+ after  the  passage  of  each  milestone,  it  would  evaluate  what  to  do  with  any  "abandoned"  spectrum,  including  spectrum  that  the  Commission  reclaims  as  a  result  of  the  licensee  missing  milestones.  45  We 
+ sought  comment  on  how  to  redistribute  abandoned  spectrum  in  the  AWS  Further  Notice,  46  wherein  we  once  again  underscored  that  achievement  of  milestones  is  a  condition  of  the  2  GHz  MSS  authorization.  47 
+
+
+ C.  2  GHz  MSS  Authorizations 
+ 14.  On  July  17,  2001,  the  Bureau  (along  with  the  Office  of  Engineering  and  Technology)  granted  the  2  GHz  MSS  system  license  applications  of  several  parties,  including  Constellation,  ICO,  48  and  MCHI. 
+ Each  authorization  incorporated  the  construction  milestones  adopted  in  the  2  GHz  Report  and  Order  as  conditions,  and  stated  that  the  authorization  would  become  null  and  void  with  no  further  action  required 
+ on  the  Commission’s  part  in  the  event  the  space  station(  s)  are  not  constructed,  launched  and  placed  into  operation  in  accordance  with  the  technical  parameters  and  terms  and  conditions  of  the  authorization  by 
+ the  milestones  dates.  49  The  first  milestone  requirement  for  each  system  was  to  enter  into  a  non-  contingent  satellite-  manufacturing  contract  by  July  17,  2002. 
+
+
+ D.  2  GHz  Milestone  Review 
+ 15.  On  July  17-  18,  2002,  Constellation,  MCHI,  and  ICO  filed  a  set  of  applications  proposing  to:  (1)  transfer  control  of  Constellation’s  and  MCHI’s  MSS  licenses  to  ICO  (the  "Transfer  of  Control 
+ Applications");  50  and  (2)  modify  the  technical  specifications  of  Constellation’s  and  MCHI’s  2  GHz  MSS 
+
+
+ 43  The  Establishment  of  Policies  and  Service  Rules  for  the  Mobile  Satellite  Service  in  the  2  GHz 
+ Band,  IB  Docket  No.  99-  81,  Notice  of  Proposed  Rulemaking,  14  FCC  Rcd  4843,  4881-  83  ¶¶  83-  90  (1999)  (2  GHz  MSS  Notice). 
+
+
+ 44  In  the  2  GHz  Report  and  Order,  the  Commission  also  adopted  milestone  requirements  after  the 
+ contact  execution  milestone,  including  critical  design  review,  and  commencement  of  physical  construction.  For  a  complete  discussion  of  2  GHz  MSS  milestone  requirements,  see  2  GHz  MSS  Report  and  Order,  15  FCC  Rcd  at 
+
+
+ 16177-  78  ¶  106.  45 
+ Id.  at  16139  ¶  18.  46 
+ See  Amendment  of  Part  2  of  the  Commission’s  Rules  to  Allocate  Spectrum  Below  3  GHz  for  Mobile  and  Fixed  Services  to  Support  the  Introduction  of  New  Advanced  Wireless  Services,  including  Third 
+
+
+ Generation  Wireless  Systems,  ET  Docket  No.  00-  258,  Memorandum  Opinion  and  Order  and  Further  Notice  of  Proposed  Rulemaking,  16  FCC  Rcd  16043,  16056  ¶  28  (2001)  (AWS  Further  Notice). 
+ 47  AWS  Further  Notice,  16  FCC  Rcd  at  16051  ¶  16  (citing  47  C.  F.  R.  §  25.143(  e)(  3)). 
+ 48  In  this  document,  the  term  "ICO"  refers  to  either  ICO  Services  Limited  or  its  parent,  ICO  Global 
+ Communications  (Holding)  Limited,  depending  on  context.  49 
+ See  Constellation  Communications  Holdings,  Inc.,  Order  and  Authorization,  16  FCC  Rcd  13724,  13731  ¶  15  (Int’l  Bur./  OET  2001)  (Constellation  2  GHz  MSS  Order);  Mobile  Communications  Holdings,  Inc., 
+
+
+ Order  and  Authorization,  16  FCC  Rcd  13794,  13800  ¶  16  (Int’l  Bur./  OET  2001)  (MCHI  2  GHz  MSS  Order).  50 
+ FCC  Form  312  Application  of  Constellation  Communications  Holdings,  Inc.  and  ICO  Global  (continued….) 
+8
+ Federal  Communications  Commission  FCC  04-  131 
+ 9 
+ systems  to  conform  with  the  technical  specifications  of  ICO’s  2  GHz  MSS  system  (the  "Constellation/  MCHI  Modification  Applications").  51  These  applications  stated  that,  if  the  proposed 
+ system  modifications  were  granted,  Constellation  and  MCHI  would  implement  their  2  GHz  MSS  systems  by  sharing  satellite  infrastructure  with  ICO  pursuant  to  a  Satellite  System  Sharing  Agreement  (the 
+ "Sharing  Agreements"),  52  pending  approval  of  the  Transfer  of  Control  Applications.  Should  the  Commission  deny  the  Transfer  of  Control  Applications,  Constellation  and  MCHI  stated  they  would 
+ continue  to  operate  their  respective  systems  off  of  ICO’s  platform  pursuant  to  the  Sharing  Agreement.  In  other  words,  MCHI  and  Constellation  argued  that,  since  ICO  had  met  its  milestone,  the  execution  of  the 
+ Sharing  Agreements  with  ICO  satisfied  their  initial  construction  milestone  as  well.  The  Constellation/  MCHI  Modification  Applications  requested  that,  if  the  Commission  determined  the  Sharing 
+ Agreements  did  not  satisfy  the  first  milestone,  the  Commission  should  waive  or  extend  each  of  Constellation’s  and  MCHI’s  system  milestones  for  one  year. 
+
+
+ 16.  The  Bureau  declared  Constellation’s  and  MCHI’s  authorizations  null  and  void  in  the  Constellation/  MCHI  Milestone  Order.  53  First,  the  Bureau  found  that  Constellation  and  MCHI  did  not 
+ enter  into  satellite  manufacturing  agreements,  despite  the  clear  terms  of  their  authorizations.  54  Specifically,  the  Bureau  stated:  "Rather  than  providing  for  satellite  construction,  the  Sharing  Agreements 
+ are  merely  contracts  for  purchase  of  satellite  capacity  if  and  when  the  satellites  in  question  have  been  constructed,  launched,  and  made  ready  for  operation,  pursuant  to  a  separate  contract  to  which  MCHI  and 
+ Constellation  are  not  parties."  55  In  addition,  the  Bureau  dismissed  as  moot  applications  to  modify  Constellation’s  and  MCHI’s  systems  and  transfer  control  of  their  authorizations  to  ICO.  56 
+
+
+ 17.  In  a  Joint  Application  for  Review,  ICO,  Constellation,  and  MCHI  (collectively,  "ICO  et  al.") 
+ (Continued  from  previous  page)  Communications  (Holdings)  Limited,  File  No.  SAT-  T/  C-  20020718-  00114  (July  18,  2002)  and  FCC  Form  312 
+
+
+ Application  of  Mobile  Communications  Holdings,  Inc.  and  ICO  Global  Communications  (Holdings)  Limited,  File  No.  SAT-  T/  C-  20020719-  00104  (July  18,  2002).  These  transfers  of  control  were  to  take  place  pursuant  to  agreements 
+ for  the  sale  of  the  outstanding  capital  stock  of  Constellation  and  ESBH,  Inc.,  a  wholly-  owned  subsidiary  of  MCHI,  respectively  (the  "Stock  Purchase  Agreements").  The  Bureau  granted  consent  to  the  pro  forma  assignment  of 
+ MCHI’s  license  to  ESBH,  Inc.  by  Letter  from  Jennifer  Gilsenan,  Chief,  Policy  Branch,  Satellite  Division,  International  Bureau,  FCC  to  Tom  Davidson,  Counsel  to  Mobile  Communications  Holdings,  Inc.,  File  No.  SAT-ASG- 
+ 20020719-  00106  (September  11,  2002).  51 
+ Application  for  Minor  Modification  of  Authorization  of  Constellation  Communications  Holdings,  Inc.,  File  No.  SAT-  MOD-  20020719-  00103  (July  17,  2002)  and  Application  for  Minor  Modification  of 
+
+
+ Authorization  of  Mobile  Communications  Holdings,  Inc.,  File  No.  SAT-  MOD-  20020719-  00105  (July  18,  2002).  See  Public  Notice,  Report  No.  SAT-  00116  (August  5,  2002). 
+ 52  Satellite  System  Sharing  Agreement  By  and  Between  ICO  Global  Communications  (Operations) 
+ Limited  and  Constellation  Communications  Holdings,  Inc.  (July  16,  2002)  (redacted  version  submitted  by  Letter  of  Robert  A.  Mazer,  Counsel  to  Constellation  Communications  Holdings,  Inc.  to  Marlene  H.  Dortch,  Secretary,  FCC 
+
+
+ (July  29,  2002)  (Constellation-  ICO  Sharing  Agreement);  Satellite  System  Sharing  Agreement  By  and  Between  ICO  Global  Communications  (Operations)  Limited  and  Mobile  Communications  Holdings,  Inc.  (July  12,  2002) 
+ (redacted  version  submitted  by  Letter  of  Tom  W.  Davidson,  Counsel  to  Mobile  Communications  Holdings,  Inc.  to  Marlene  H.  Dortch,  Secretary,  FCC  (July  29,  2002)  (MCHI-  ICO  Sharing  Agreement). 
+ 53  Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  1094. 
+ 54  Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1100  ¶  16. 
+ 55  Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1100  ¶  16  (emphasis  in  original)  (footnotes 
+ omitted).  56 
+ Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1102-  03  ¶  20-  23. 
+9
+ Federal  Communications  Commission  FCC  04-  131 
+ 10 
+ challenge  the  Bureau’s  conclusions  that  the  Sharing  Agreements  were  not  satellite  manufacturing  contracts  for  milestone  purposes,  57  and  did  not  demonstrate  sufficient  commitment  to  proceed  with  system 
+ implementation.  58  ICO  et  al.  also  challenge  the  Bureau’s  denial  of  Constellation’s  and  MCHI’s  alternative  requests  for  waiver  or  extension  of  their  milestones.  59  Therefore,  ICO  et  al.  request  that  we 
+ reinstate  Constellation  and  MCHI’s  licenses,  grant  the  Constellation/  MCHI  Modification  Applications,  and  grant  the  requested  transfers  of  those  licenses  to  ICO.  60  AT&  T  Wireless  Services,  Inc.,  Verizon 
+ Wireless  and  Cingular  Wireless  LLC  (collectively,  "Wireless  Carriers")  opposed  ICO  et  al.  ’s  Application  for  Review,  to  which  ICO  et  al.  replied.  61 
+
+
+ 18.  For  the  reasons  discussed  below,  we  find  that  MCHI  and  Constellation  have  not  met  the  Tempo  Order  standards  for  determining  whether  a  licensee's  satellite  construction  contract  is  adequate.  In 
+ particular,  neither  MCHI  nor  Constellation  submitted  a  binding,  non-  contingent  contract  to  build  either  of  their  satellite  systems.  Nor  did  either  MCHI  or  Constellation  demonstrate  an  intent  to  construct  their 
+ licensed  satellite  systems  within  the  time  frame  specified  in  their  licenses.  Accordingly,  we  deny  the  ICO  et  al.  application  for  review. 
+
+
+ III.  DISCUSSION 
+ A.  Construing  Sharing  Agreements  as  Construction  Contracts 
+ 19.  ICO  et  al.  assert  that  their  sharing  agreement  should  be  interpreted  as  a  construction  contract  for  purposes  of  our  milestone  review.  62  As  an  initial  matter,  we  find  that  the  Bureau  correctly  concluded 
+ that  the  Sharing  Agreements  that  Constellation  and  MCHI  submitted  are  not  satellite  manufacturing  contracts.  The  Sharing  Agreements  contain  none  of  the  terms,  conditions,  and  specifications  typically 
+ included  in  a  satellite  manufacturing  contract.  In  particular,  the  Sharing  Agreement  did  not  commit  either  Constellation  or  MCHI  to  implement  the  proposed  satellite  system  they  were  licensed  to  operate.  63 
+ Furthermore,  for  reasons  explained  further  below,  we  disagree  with  ICO  et  al.  to  the  extent  that  they  argue  that  our  precedents  compel  us  to  treat  the  Sharing  Agreements  as  tantamount  to  satellite 
+ manufacturing  contracts  for  the  purposes  of  assessing  compliance  with  the  first  milestone.  Accordingly,  we  find  that  neither  Constellation  nor  MCHI  submitted  a  binding,  non-  contingent  satellite  construction 
+ contract,  as  required  by  the  Tempo  Order.  We  also  conclude  that  neither  Constellation  nor  MCHI  demonstrated  the  commitment  discussed  in  the  Tempo  Order  to  completing  the  construction  of  their 
+ satellite  systems  within  the  time  frame  specified  in  their  licenses. 
+
+
+ 57  See,  e.  g.,  ICO  et  al.  Joint  Application  for  Review  at  8  ("  The  Bureau  based  its  revocation  of  the 
+ [Constellation]  and  MCHI  licenses  on  the  erroneous  findings  that  that  Sharing  Agreements  are  not  satellite  manufacturing  contracts"). 
+
+
+ 58  ICO  et  al.  Joint  Application  for  Review  at  6,  8-  18. 
+ 59  ICO  et  al.  Joint  Application  for  Review  at  7,  21-  24. 
+ 60  ICO  et  al.  Joint  Application  for  Review  at  25. 
+ 61  See  Opposition  to  ICO  et  al.  Joint  Application  for  Review  of  AT&  T  Wireless  Services,  Inc., 
+ Verizon  Wireless  and  Cingular  Wireless  LLC  (March  18,  2003);  Joint  Reply  of  ICO  et  al.  (March  28,  2003)  (ICO  et  al.  Joint  Reply).  Also  on  file  are  several  ex  parte  letters  cited  in  this  Order  below. 
+
+
+ 62  See,  e.  g.,  ICO  et  al.  Joint  Application  for  Review  at  8  ("  The  Bureau  wrongly  concluded  that  the 
+ Sharing  Agreements  are  not  manufacturing  contracts  .  .  .  .").  63 
+ MCHI/  Constellation  Milestone  Order,  18  FCC  Rcd  at  1099-  1100  (paras.  15-  16). 
+10
+ Federal  Communications  Commission  FCC  04-  131 
+ 11 
+ B.  Consistency  with  Precedent 
+ 1.  Overview 
+ 20.  Background.  In  the  MCHI/  Constellation  Milestone  Order,  the  Bureau  concluded  that  Constellation  and  MCHI  did  not  satisfy  their  first  milestone  because  the  arrangements  they  entered  into 
+ with  ICO  did  not  show  sufficient  commitment  and  investment  on  Constellation's  and  MCHI's  part  to  implement  their  respective  2  GHz  MSS  systems.  64  ICO  et  al.  assert  that  the  Bureau's  Order  is  arbitrary 
+ and  capricious  because  it  was  inconsistent  with  several  Orders  holding  that  sharing  arrangements  are  sufficient  to  meet  milestone  requirements.  65 
+
+
+ 21.  The  Bureau  also  found  that  MCHI's  and  Constellation's  Sharing  Agreements  were  comparable  to  the  agreement  in  the  Advanced  Review  Order,  in  which  the  Commission  found  that  the 
+ sharing  arrangement  did  not  satisfy  a  milestone  requirement.  ICO  et  al.  argue  that  their  Sharing  Agreements  are  distinguishable  from  that  rejected  in  the  Advanced  Review  Order.  66 
+
+
+ 22.  Discussion.  ICO  et  al.  claim  that  "the  Bureau  ignored  or  misstated  relevant  Commission  precedent"  in  rejecting  their  alternative  arrangements  to  satisfying  the  first  construction  milestone.  67  We 
+ disagree.  As  we  noted  above,  the  test  for  determining  whether  a  licensee  has  met  its  first  milestone  is  (1)  has  the  licensee  entered  into  a  binding,  non-  contingent  satellite  construction  contract,  and  (2)  has  the 
+ licensee  demonstrated  an  adequate  investment  and  commitment  to  construct  its  licensed  satellite  system  within  the  time  frame  set  forth  in  its  license.  The  Bureau  correctly  concluded  that  Constellation  and 
+ MCHI  did  not  meet  the  two-  prong  test  for  the  first  milestone  by  submitting  the  specific  Sharing  Agreements  that  they  submitted.  ICO  et  al.  have  added  nothing  new  to  the  record  to  change  this  result. 
+ In  summary,  neither  Constellation  nor  MCHI  submitted  a  contract  to  built  its  own  satellite  system,  nor  did  they  show  a  commitment  to  completing  construction  of  their  own  satellite  systems  within  the  time  frame 
+ specified  in  their  licenses.  Instead,  Constellation  and  MCHI  planned  merely  to  use  capacity  in  ICO's  satellite  system. 
+
+
+ 23.  ICO  et  al.  rely  primarily  on  the  USSB  and  VITA  decisions,  68  claiming  that  these  Orders  provide  "ample  precedent  approving  other  similar  satellite  sharing  agreements  for  milestone  purposes."  69 
+ As  the  Bureau  pointed  out,  however,  the  question  of  allowing  a  satellite  sharing  agreement  to  substitute  for  the  licensee  meeting  its  milestones  was  presented  to  us  in  both  of  these  cases  after  the  Commission 
+
+
+ 64  MCHI/  Constellation  Milestone  Order,  18  FCC  Rcd  at  1101. 
+ 65  ICO  et  al.  Joint  Application  for  Review  at  8-  18.  See  also  Letter  from  Suzanne  Hutchings, 
+ Counsel  for  ICO,  to  Marlene  H.  Dortch,  Secretary,  FCC  (dated  Oct.  28,  2003);  Letter  from  Cheryl  A.  Tritt,  Counsel  for  ICO,  to  Marlene  H.  Dortch,  Secretary,  FCC  (dated  Dec.  18,  2003). 
+
+
+ 66  ICO  et  al.  Joint  Application  for  Review  at  17-  18. 
+ 67  See,  e.  g.,  ICO  et  al.  Joint  Application  for  Review  at  2. 
+ 68  United  States  Satellite  Broadcasting  Company,  Inc.,  Memorandum  Opinion  and  Order,  7  FCC 
+ Rcd  7247  (Vid.  Serv.  Div.,  Mass  Med.  Bur.  1992)  (USSB),  Volunteers  in  Technical  Assistance,  Order,  12  FCC  Rcd  3094  (Int’l  Bur.  1997)  (VITA),  aff’d,  Memorandum  Opinion  and  Order,  12  FCC  Rcd  13995  (1997). 
+
+
+ 69  ICO  et  al.  Joint  Reply  at  2. 
+11
+ Federal  Communications  Commission  FCC  04-  131 
+ 12 
+ determined  that  the  relevant  licensee  had  already  met  its  first  (contract)  milestone.  70  ICO  et  al.  assert  that  the  distinction  between  the  construction  commencement  milestone  and  later  milestones  was  not  relevant, 
+ because  the  Commission’s  approval  of  those  sharing  arrangements  was  not  wholly  premised  on  the  licensee’s  previously  meeting  its  construction  contract  milestones.  71  Constellation  and  MCHI  are 
+ mistaken.  The  first  milestone  is  especially  important  because  it  provides  an  early  indication  as  to  whether  a  licensee  is  committed  to  proceeding  with  implementation  of  its  proposal.  72  If  a  licensee  does  not  even 
+ begin  construction  of  its  satellite  by  the  date  specified  in  its  license,  it  raises  substantial  doubts  as  to  whether  the  licensee  intends  to  or  is  able  to  proceed  with  its  business  plan.  73 
+
+
+ 24.  A  comparison  of  the  MCHI/  Constellation  case,  on  one  hand,  and  USSB  and  VITA,  on  the  other,  illustrates  that  the  Sharing  Agreement  was  not  adequate  for  meeting  either  MCHI's  or 
+ Constellation's  milestone  requirements.  In  USSB,  the  licensee  had  started  construction  of  its  three  authorized  satellites,  and  had  arranged  for  launch  of  one  of  those  satellites  to  its  authorized  orbit  location, 
+ 101°  W.  L.  74  In  spite  of  this,  USSB  asked  the  Commission  to  allow  it  to  purchase  a  payload  of  five  transponders  on  a  Hughes  satellite,  also  to  be  located  at  101°  W.  L.,  to  modify  the  technical  specifications 
+ of  its  license,  and  to  extend  the  time  within  which  to  initiate  service  at  101°  W.  L.  to  match  those  of  the  Hughes  satellite.  75  USSB  maintained  its  contractual  commitments  to  construct  its  other  two  satellites.  76 
+ The  payload  purchase  agreement  between  USSB  and  Hughes  did  not  contain  any  unresolved  contingencies  that  could  preclude  construction  of  the  satellite,  but  it  included  a  schedule  of  payments 
+ from  USSB  to  Hughes  that  coincided  with  contractual  construction  milestones.  77  Moreover,  at  that  time,  USSB  was  not  seeking  to  merge  with  Hughes,  but  planned  its  own  stand-  alone  service  on  the  satellite.  78 
+ The  Video  Services  Division  of  the  Mass  Media  Bureau  found  that  the  payload  purchase  agreement  complied  with  the  construction  contract  due  diligence  requirement.  Specifically,  the  Division  found  that 
+ USSB  had  made  a  real  commitment  to  establish  its  own  DBS  system,  and  that  its  agreement  with  Hughes  was  not  an  indication  of  a  weakening  of  that  commitment.  79 
+
+
+ 70  Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1101  ¶  19,  citing  USSB,  7  FCC  Rcd  at  7249 
+ ¶  11,  7250  ¶  17;  VITA,  12  FCC  Rcd  at  3094.  71 
+ ICO  et  al.  Joint  Application  for  Review  at  10.  72 
+ Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1099  ¶  15,  citing  Motorola/  Teledesic,  17  FCC  Rcd  at  16547  ¶  11. 
+
+
+ 73  Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1101  ¶  18.  See  also  Second  Columbia 
+ Milestone  Order,  15  FCC  Rcd  at  16502  ¶  16,  citing  AMSC  Order,  8  FCC  Rcd  at  4042  ¶  13  (failing  to  begin  construction  raises  questions  regarding  the  licensee's  intention  to  proceed);  Norris  Review  Order,  12  FCC  Rcd  at 
+
+
+ 22306  ¶  17  (by  failing  to  commence  construction  or  request  extension  within  the  milestone  deadline,  licensee  in  that  Order  did  not  demonstrate  a  commitment  to  proceed  with  its  proposed  system). 
+
+
+ 74  USSB,  7  FCC  Rcd  at  7250  ¶  17. 
+ 75  USSB,  7  FCC  Rcd  at  7249  ¶  11. 
+ 76  USSB,  7  FCC  Rcd  at  7250  n.  6. 
+ 77  USSB,  7  FCC  Rcd  at  7250  ¶¶  20-  21. 
+ 78  USSB  subsequently  transferred  control  of  its  DBS  authorization  to  Hughes’  DirecTV,  never 
+ deploying  its  own  satellites.  See  United  States  Satellite  Broadcasting  Co.,  Inc.  and  DIRECTV  Enterprises  Inc.,  Order  and  Authorization,  14  FCC  Rcd  4585  (Int’l  Bur.  1999). 
+
+
+ 79  USSB,  7  FCC  Rcd  at  7250  ¶  17. 
+12
+ Federal  Communications  Commission  FCC  04-  131 
+ 13 
+ 25.  In  the  VITA  case,  VITA  had  already  completed  construction  and  attempted  launch  of  its  first  satellite  in  compliance  with  its  license.  80  When  the  launch  failed,  VITA  asked  to  implement  its 
+ communications  payload  on  another  licensee’s  experimental  satellite  pursuant  to  an  agreement  whereby  that  licensee  would  construct  and  launch  a  satellite  containing  both  VITA’s  licensed  payload  and  its 
+ experimental  payload.  81  The  Bureau  permitted  this  sharing  arrangement  as  VITA’s  inability  to  meet  its  milestones  was  caused  by  circumstances  beyond  its  control  (launch  failure)  and  consistent  with  the 
+ Commission’s  policy  to  approve  replacement  satellites  following  launch  failure.  82 
+ 26.  In  light  of  this  precedent,  we  conclude  that  the  Bureau  correctly  found  that  the  alternative  arrangements  presented  by  ICO  et  al.  do  not  demonstrate  sufficient  commitment  on  Constellation’s  and 
+ MCHI’s  parts  to  proceed  with  system  implementation.  Neither  Constellation  nor  MCHI  have  shown  progress  in  launching  their  systems  other  than  that  purportedly  made  through  the  negotiation  and 
+ execution  of  the  various  agreements  with  ICO,  and  doing  so  within  mere  days  of  the  approaching  milestone  deadline.  83  Constellation  and  MCHI  are  purchasing  nothing  more  than  "title"  to  channels  on 
+ ICO’s  satellites,  and  that  is  only  if  the  merger  the  parties  contemplate  is  not  approved.  Neither  Constellation  nor  MCHI  would  own  any  satellites,  or  pay  for  any  of  the  construction  of  the  satellites  prior 
+ to  the  date  of  the  agreement,  which  is  significantly  less  than  the  entire  system’s  cost  since  the  bulk  of  satellite  construction  has  already  occurred.  Upon  signing  the  Sharing  Agreements,  Constellation  and 
+ MCHI  each  paid  ICO  less  than  one-  half  of  one  percent  of  the  total  contractual  price.  84  Unlike  USSB,  there  appears  to  be  no  capability  or  commitment  on  Constellation’s  or  MCHI’s  part  to  launch  their  own 
+ services.  Unlike  VITA,  their  inability  to  satisfy  their  milestone  obligations  is  not  caused  by  circumstances  beyond  their  control. 
+
+
+ 27.  Moreover,  we  also  affirm  the  Bureau's  conclusion  that  ICO  et  al.  's  sharing  agreement  is  comparable  to  that  in  the  Advanced  Review  Order.  In  that  Order,  the  Commission  disapproved  a 
+ spectrum  sharing  arrangement  because  of  Advanced’s  lack  of  commitment  to  establish  its  DBS  system.  After  progressing  no  further  than  executing  a  construction  contract,  Advanced  filed  applications  for 
+ consent  to  assign  its  DBS  construction  permit  to  TCI’s  Tempo  subsidiary,  and  to  modify  its  construction  permit  to  allow  it  to  substitute  satellites  that  TCI  was  constructing  for  Tempo  (the  practical  effect  being 
+ that  the  satellites  Advanced  had  contracted  for  –  and  were  the  basis  of  Advanced’s  initial  due  diligence  showing  –  would  not  be  built).  As  an  alternative  to  the  construction  permit  assignment,  Advanced  and 
+ TCI  entered  into  a  Capacity  Purchase  Agreement  (CPA)  by  which  TCI  would  provide  Advanced  with  access  to  the  Tempo  satellites,  TCI  stock  and  other  monetary  incentives;  in  return,  Advanced  would 
+ irrevocably  sell  TCI  all  of  its  rights  to  the  transponder  capacity  on  those  satellites.  Advanced  submitted  the  CPA  to  satisfy  its  previously-  extended  construction  and  launch  milestones,  characterizing  the  CPA  as 
+ a  binding  contract  for  the  launch,  deployment,  and  operation  of  its  own  satellites,  and  asking  the  Commission  to  give  it  credit  for  Tempo’s  construction  efforts.  Under  the  CPA,  Advanced  would  not  own 
+
+
+ 80  VITA,  12  FCC  Rcd  3094.  VITA’s  first  satellite  was  built  under  an  agreement  with  CTA 
+ Commercial  Systems  that  provided  CTA  would  construct,  launch,  and  provide  certain  operational  services  in  return  for  commercial  use  of  50%  of  the  satellite’s  capacity.  CTA  was  not  a  Commission  licensee,  and  thus,  the  fact  that 
+
+
+ the  Commission  eventually  approved  of  that  agreement  to  allow  the  launch  is  inapposite  to  the  analysis  of  whether  a  licensee  can  meet  its  milestones  by  sharing  satellites  with  another  licensee. 
+ 81  VITA,  12  FCC  Rcd  at  3097  ¶  7.  Ultimately,  this  satellite  failed  to  function  properly. 
+ 82  VITA,  12  FCC  Rcd  at  3108  ¶  42  and  3110  ¶  51. 
+ 83  The  Constellation-  ICO  Sharing  Agreement  was  signed  July  16,  2002  and  the  MCHI-  ICO  Sharing 
+ Agreement  was  signed  July  12,  2002.  The  milestone  date  was  July  17,  2002.  84 
+ Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1100  ¶  17. 
+13
+ Federal  Communications  Commission  FCC  04-  131 
+ 14 
+ any  satellites  or  pay  for  the  construction,  launch,  or  operation  of  any  satellites.  Rather,  TCI  was  responsible  for  virtually  every  aspect  of  the  transaction  and  subsequent  operation  of  the  DBS  systems. 
+ Finally,  the  CPA  provided  for  the  complete  liquidation  of  Advanced  upon  consummation  of  the  sale  of  transponder  capacity  to  TCI,  leading  the  Bureau  to  conclude:  "it  appears  that  Advanced  wants  to  abandon 
+ its  business  to  Tempo  DBS."  85  In  these  circumstances,  the  full  Commission  held  that  the  CPA  cannot  be  characterized  as  demonstrating  Advanced’s  due  diligence,  and  upheld  the  Bureau’s  actions  nullifying 
+ Advanced’s  license  and  dismissing  Advanced’s  requests  to  assign  and  modify  its  permit  as  moot.  86  The  Commission  distinguished  USSB  by  noting  that  USSB  was  found  to  be  in  compliance  with  its  due 
+ diligence  obligations,  showing  the  requisite  capability  and  commitment  to  its  own  DBS  service.  87 
+ 28.  ICO  et  al.  contend  that  this  precedent  is  not  relevant  because  MCHI  and  Constellation  would  retain  ownership  of  "channels"  on  ICO's  satellite,  while  Advanced  would  not  retain  ownership  of 
+ anything  under  its  agreement.  As  noted  above,  MCHI  and  Constellation  paid  less  than  one  percent  of  the  costs  of  constructing  the  satellite  system.  The  balance  for  title  to  the  channels  was  not  due  until  30  days 
+ after  "the  ICO  System  Channels  become  available  for  commercial  services  as  reasonably  determined  by  ICO"  (emphasis  added).  88  In  other  words,  ICO  has  complete  control  over  when  this  agreement  takes 
+ effect,  and  thus,  were  the  Commission  to  approve  the  merger,  ICO  would  consummate  the  merger  prior  to  reasonably  determining  that  its  channels  are  available  for  commercial  service.  Indeed,  it  appears  that,  like 
+ Advanced,  there  is  little  independent  business  purpose  of  the  Sharing  Agreements  other  than  an  attempt  at  milestone  compliance  while  waiting  for  action  on  a  merger  –  in  this  case,  a  merger  that  would  combine 
+ the  spectrum  of  three  systems  under  ICO’s  common  control.  In  these  circumstances,  particularly  where,  based  on  all  the  information  before  us,  the  Sharing  Agreements  would  be  superceded  by  consummation  of 
+ the  simultaneously-  executed  Stock  Purchase  Agreements,  and  thus,  Constellation  and  MCHI  would  disappear  upon  merger  consummation,  89  the  Sharing  Agreements  cannot  fairly  be  characterized  as  an 
+ arrangement  by  Constellation  and  MCHI  for  the  construction,  launch,  deployment,  and  operation  of  their  own  satellite  systems.  In  sum,  under  our  precedent,  the  Sharing  Agreements  are  not  tantamount  to  a  non-contingent 
+ satellite  construction  contract. 
+ 2.  Recent  Precedent 
+ 29.  In  an  ex  parte  statement,  ICO  claims  that  the  recent  KaStarCom  Milestone  Order  compels  us 
+
+
+ 85  Advanced,  10  FCC  Rcd  at  13342  ¶  15. 
+ 86  Advanced  Review  Order,  11  FCC  Rcd  at  3414-  15  ¶¶  38-  41,  aff’g,  Advanced,  10  FCC  Rcd  13337. 
+ 87  Advanced  Review  Order,  11  FCC  Rcd  at  3416  ¶  42. 
+ 88  Constellation-  ICO  Sharing  Agreement  (redacted  version)  at  Section  2.3.2  (the  remainder  of  the 
+ Purchase  Price  to  be  paid  at  the  Closing);  id.  at  Section  2.4  (Closing  shall  occur  on  the  date  that  is  30  days  following  the  Commencement  Date);  id.  at  Section  1  (Commencement  Date  means  the  date  on  which  the  ICO  System 
+
+
+ Channels  become  available  for  commercial  services  as  reasonably  determined  by  ICO).  MCHI-  ICO  Sharing  Agreement  (redacted  version)  at  Section  2.3.2  (the  remainder  of  the  Purchase  Price  to  be  paid  on  the  date  that  is  30 
+ days  following  the  Commencement  Date);  id.  at  Section  1  (Commencement  Date  means  the  date  on  which  the  ICO  System  Channels  become  available  for  commercial  services  as  reasonably  determined  by  ICO). 
+ 89  See  Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1096  ¶¶  5-  6  (noting  that  Constellation 
+ and  MCHI  represented  that  they  would  provide  service  independently  only  in  the  event  that  the  Commission  permitted  them  to  share  ICO’s  facilities  but  barred  consummation  of  the  Stock  Purchase  Agreements). 
+14
+ Federal  Communications  Commission  FCC  04-  131 
+ 15 
+ to  grant  the  ICO  et  al  Joint  Application  for  Review.  90  The  KaStarCom  Milestone  Order  did  not  revise  in  any  way  the  Commission's  standard  for  determining  compliance  with  the  first  milestone.  Furthermore, 
+ these  two  cases  are  readily  distinguishable.  In  the  KaStarCom  Milestone  Order,  KaStarCom,  a  second  round  Ka-  band  licensee,  submitted  the  following  for  its  first  milestone  requirement  showing:  (1)  a 
+ satellite  sharing  agreement  with  WB  Holdings  1  LLC  (WB  Holdings),  a  first  round  Ka-  band  licensee  that  was  authorized  for  different  Ka-  Band  frequencies  at  the  same  orbit  location  as  KaStarCom,  and  (2)  a 
+ satellite  manufacturing  contract  between  a  WB  Holdings’  subsidiary  and  Loral.  KaStarCom  and  WB  Holdings  had  formulated  and  clearly  disclosed  their  plans  to  construct  and  own  a  single  satellite  prior  to 
+ the  Bureau’s  licensing  of  KaStarCom,  and  thus,  well  prior  to  the  first  milestone.  91  The  Bureau  found  that  the  WB  Holdings  contract  satisfied  KaStarCom’s  first  milestone  because  KaStarCom  and  WB  Holdings 
+ became  commonly  controlled  during  the  pendency  of  the  milestone  review.  The  Bureau  specifically  did  not  address  whether  the  earlier  arrangements  involving  the  satellite  sharing  agreement  satisfied  the  first 
+ milestone  requirement.  92  Thus,  the  KaStarCom  Milestone  Order  does  not  provide  any  guidance  regarding  the  use  of  sharing  agreements  to  satisfy  milestone  requirements. 
+
+
+ 30.  In  contrast,  Constellation  and  MCHI  were  issued  licenses  to  construct  their  own  satellite  systems.  93  They  submitted  their  requests  to  share  ICO’s  satellite  platform  and  transfer  control  of  their  2 
+ GHz  MSS  licenses  to  ICO  within  mere  days  of  the  approaching  milestone  deadline.  94  Thus,  unlike  KaStarCom  and  WB  Holdings,  who  planned  to  build  and  obtained  a  license  for  only  one  satellite  system, 
+ ICO,  MCHI,  and  Constellation  were  licensed  to  build  three  satellite  systems,  and  tried  to  use  the  construction  progress  for  one  of  those  systems  to  satisfy  all  three.  Furthermore,  this  distinction  is  of 
+ particular  significance  in  the  2  GHz  MSS  context  because,  unlike  the  Ka-  band,  the  amount  of  spectrum  awarded  each  2  GHz  MSS  system  proponent  was  based  specifically  on  the  fact  that  the  system  proponent 
+ was  constructing  its  own  system.  Had  ICO  et  al.  ’s  plan  been  formulated  and  disclosed  prior  to  authorization,  the  2  GHz  MSS  band  arrangement  may  well  have  been  structured  differently.  95 
+
+
+ 90  See,  e.  g.,  Letter  from  Cheryl  A.  Tritt,  Counsel  for  ICO,  to  Marlene  H.  Dortch,  Secretary,  FCC 
+ (dated  Oct.  31,  2003)  (ICO  Oct.  31  Ex  Parte  Statement),  citing  KaStarCom.  World  Satellite,  LLC,  Memorandum  Opinion  and  Order,  18  FCC  Rcd  22337  (Int’l  Bur.,  2003)  (KaStarCom  Milestone  Order). 
+
+
+ 91  See  KaStarCom.  World  Satellite,  LLC,  Order  and  Authorization,  16  FCC  Rcd  20133,  20134  ¶  3 
+ (Int’l  Bur.  2001).  92 
+ See  KaStarCom  Milestone  Order,  18  FCC  Rcd  at  22339  ¶  6  &  n.  16.  93 
+ See  Constellation  2  GHz  MSS  Order,  16  FCC  Rcd  at  13724-  25  ¶  2  (describing  Constellation’s  proposal  to  construct  its  own  2  GHz  MSS  system);  MCHI  2  GHz  MSS  Order,  16  FCC  Rcd  13794-  95  ¶  2  (describing 
+
+
+ MCHI’s  proposal  to  construct  its  own  2  GHz  MSS  system).  94 
+ The  Constellation-  ICO  Sharing  Agreement  was  signed  July  16,  2002  and  the  MCHI-  ICO  Sharing  Agreement  was  signed  July  12,  2002.  The  milestone  date  was  July  17,  2002. 
+
+
+ 95  As  the  Bureau  stated  in  the  Constellation/  MCHI  Milestone  Order: 
+ [A  concern  with  speculative  filings  by  applicants  with  no  reasonable  prospect  or  intention  of  constructing  a  system]  is  particularly  relevant  in  the  context  of  2  GHz  MSS  systems,  given  the 
+
+
+ 2  GHz  MSS  licensing  plan.  As  the  Commission  has  indicated,  the  2  GHz  licensing  plan  was  premised  on  the  award  of  spectrum  for  the  purpose  of  constructing  satellite  systems.  One  year 
+ after  accepting  a  license,  the  award  of  which  was  premised  on  the  construction  of  a  satellite  system,  Constellation  and  MCHI  seek  to  significantly  alter  their  plans,  in  a  manner  which  in  effect 
+ would  authorize  the  use  by  one  system  of  the  spectrum  awarded  to  support  three  systems.  While  there  may  be  benefits  from  operation  of  fewer  systems,  such  as  lesser  interference  potential, 
+ reduction  of  potential  orbital  debris,  and  simplification  of  coordination,  these  benefits  could  have  been  identified  and  addressed  through  agreements  prior  to  licensing.  (The  same  alleged  benefits 
+ (continued….) 
+15
+ Federal  Communications  Commission  FCC  04-  131 
+ 16 
+ 31.  In  summary,  starting  with  the  1986  Tempo  Order,  the  Commission  and  the  Bureau  have  held  that,  to  meet  the  contract  milestone,  a  licensee  must  (1)  provide  a  binding,  non-  contingent  satellite 
+ construction  contract,  and  (2)  the  contract  must  demonstrate  that  the  licensee  is  committed  to  completing  the  construction  of  the  satellite  system  within  the  time  frame  specified  in  the  license.  96  To  determine 
+ whether  a  licensee  has  met  these  two  standards,  we  look  at,  among  other  things,  whether  the  contract  requires  the  licensee  to  make  significant  initial  payments,  and  to  make  the  majority  of  payments  well 
+ before  the  end  of  the  construction  period.  97  We  also  see  whether  there  will  be  significant  delays  between  the  execution  of  the  construction  contract  and  the  actual  commencement  of  construction,  or  conditions 
+ precedent  to  construction.  98  For  determining  whether  a  sharing  agreement  can  be  used  to  meet  the  contract  milestone,  we  examine  whether  the  licensee  has  demonstrated  the  same  financial  investment  and 
+ commitment  in  the  shared  project  as  if  it  were  constructing  the  satellite  system  it  was  licensed  to  operate.  99 
+
+
+ C.  Sufficient  Notice  of  Legal  Standard 
+ 32.  Background.  ICO  et  al.  claim  that  the  Commission's  precedents  were  not  sufficient  to  inform  licensees  adequately  whether  or  to  what  extent  Sharing  Agreements  could  be  used  to  meet  milestone 
+ requirements.  100 
+ 33.  Discussion.  We  disagree  with  ICO  et  al.  The  Court  set  forth  the  standard  for  determining  whether  regulated  parties  have  adequate  notice  of  the  requirements  placed  on  them  in  the  Lakeshore  and 
+ Trinity  cases.  101  In  Lakeshore,  the  Court  found  that,  while  parties  need  "full  and  explicit  notice  of  all  prerequisites,"  102  the  Commission  need  not  have  "made  the  clearest  possible  articulation."  "[  I]  t  is  enough 
+
+
+ (Continued  from  previous  page)  will  be  achieved  by  the  result  we  reach  here;  i.  e.,  cancellation  of  the  2  GHz  MSS  licenses  that 
+ were  issued  to  MCHI  and  Constellation.)  In  any  event,  approval  of  the  type  of  arrangement  before  us  would  create  substantial  incentives  for  applicants  to  pursue  authorizations  to  construct 
+ satellite  systems,  even  if  they  do  not  intend  to  construct  and  operate  the  system,  and  would  create  an  unacceptably  high  risk  of  gaming  of  the  licensing  process. 
+
+
+ Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1102  ¶¶  21  (citing  AWS  Further  Notice,  16  FCC  Rcd  at  16058  ¶  35  and  2  GHz  MSS  Report  and  Order,  15  FCC  Rcd  at  16138  ¶  16). 
+ 96  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7. 
+ 97  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7. 
+ 98  Norris  Satellite  Communications,  Inc.,  Memorandum  Opinion  and  Order,  12  FCC  Rcd  22299, 
+ 22303-  04  ¶  9  (1997)  (Norris  Review  Order),  PanAmSat  Licensee  Corp.,  Memorandum  Opinion  and  Order,  15  FCC  Rcd  18720  (Int’l  Bur.  2000),  PanAmSat  Licensee  Corp.  Application  for  Authority  to  Construct,  Launch,  and 
+
+
+ Operate  a  Ka-  Band  Communications  Satellite  System  in  the  Fixed-  Satellite  Service  at  Orbital  Locations  58°  W.  L.  and  125°  W.  L.,  Memorandum  Opinion  and  Order,  16  FCC  Rcd  11534,  11539  (para.  16)  (2001). 
+ 99  Compare  USSB,  7  FCC  Rcd  at  7250  ¶  19  with  Advanced  Review  Order,  11  FCC  Rcd  at  3415  ¶ 
+ 41. 
+ 100  ICO  et  al.  Joint  Application  for  Review  at  18-  20. 
+
+
+ 101  Lakeshore,  199  F.  3d  468,  Trinity,  211  F.  3d  618. 
+ 102  Lakeshore,  199  F.  3d  at  475,  citing  Salzer  v.  FCC,  778  F.  2d  869,  871-  72  (D.  C.  Cir.  1985); 
+ McElroy  Electronics  Corp.  v.  FCC,  990  F.  2d  1351,  1358  (D.  C.  Cir.  1993)  (McElroy). 
+16
+ Federal  Communications  Commission  FCC  04-  131 
+ 17 
+ if,  based  on  a  'fair  reading'  of  the  rule,  applicants  knew  or  should  have  known  what  the  Commission  expected  of  them."  103  Similarly,  in  Trinity,  the  Court  explained  that  "[  w]  e  thus  ask  whether  'by  reviewing 
+ the  regulations  and  other  public  statements  by  the  agency,  a  regulated  party  acting  in  good  faith  would  be  able  to  identify,  with  ascertainable  certainty,  the  standards  with  which  the  agency  expects  parties  to 
+ conform...  '"  104 
+ 34.  ICO  et  al.  assert  that  the  Commission's  precedents  do  not  meet  this  "ascertainable  certainty"  standard.  105  Again,  ICO  et  al.  misinterpret  those  precedents.  As  we  discussed  above,  the  Tempo  Order 
+ explains  that  a  licensee  needs  to  enter  into  a  binding,  non-  contingent  contract  to  meet  the  construction  commencement  milestone.  106  The  Tempo  Order  and  its  progeny  further  explain  that  a  "binding,  non-contingent 
+ contract"  must  have  several  characteristics,  including  significant  initial  payments,  and  a  demonstration  of  a  commitment  to  complete  construction  of  the  satellite  system.  107  Furthermore,  the 
+ Commission  explained  in  USSB  and  Advanced  that  a  sharing  agreement  cannot  satisfy  the  requirements  of  the  construction  commencement  milestone  unless  the  licensee  has  made  substantial  progress  constructing 
+ the  satellite  system  it  was  licensed  to  operate.  108 
+ 35.  The  Commission  set  forth  its  standard  even  more  clearly  in  Directsat.  109  In  that  case,  Directsat  sought  authority  to  merge  with  EchoStar,  place  its  capacity  on  EchoStar’s  satellite,  and  extend 
+ time  to  launch  and  operate  its  DBS  system.  However,  unlike  ICO  et  al.,  Directsat  had  made  substantial  progress  (e.  g.,  first  satellite  2/  3  complete;  launch  scheduled  and  all  launch  payments  made;  export  license 
+ secured  by  satellite  contractor)  prior  to  its  transfer  of  control  request.  The  Bureau  determined  that  Directsat  had  shown  "a  continuing  capability  and  commitment  to  implement  its  DBS  system."  110  In 
+ granting  Directsat’s  requests,  the  Bureau  noted  that,  had  Directsat  sought  a  milestone  extension  to  merge  with  EchoStar  (relying  solely  on  EchoStar’s  satellite  to  meet  its  due  diligence  requirements)  and  had  it 
+ not  begun  construction  on  its  own  satellites,  the  Advanced  decision  would  govern  and  Directsat’s  requests  would  have  been  denied.  111 
+
+
+ 36.  Thus,  it  is  clear  that,  to  meet  the  construction  commencement  milestone,  licensees  must  enter  into  a  contract  that  requires  the  licensee  to  make  significant  initial  payments,  and  to  make  a  real 
+
+
+ 103  Lakeshore,  199  F.  3d  at  475,  citing  McElroy,  990  F.  2d  at  1358. 
+ 104  Trinity,  211  F.  3d  at  628,  quoting  GE  v.  EPA,  53  F.  3d  1324,  1329  (D.  C.  Cir.  1995)  (emphasis 
+ added). 
+ 105  ICO  et  al.  Joint  Application  for  Review  at  18-  20.  See  also  Letter  from  Suzanne  Hutchings, 
+ Counsel  for  ICO,  to  Marlene  H.  Dortch,  Secretary,  FCC  (dated  Jan.  8,  2004);  Letter  from  Suzanne  Hutchings,  Counsel  for  ICO,  to  Marlene  H.  Dortch,  Secretary,  FCC  (dated  Feb.  26,  2004). 
+
+
+ 106  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7. 
+ 107  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7.  See  also  USSB,  7  FCC  Rcd  at  7250  ¶  19,  Norris  Review 
+ Order,  12  FCC  Rcd  at  22303-  04  ¶  9;  Second  Columbia  Milestone  Order,  15  FCC  Rcd  at  16500-  01  ¶  12;  PanAmSat  Ka-  band  License  Cancellation  Review  Order,  16  FCC  Rcd  at  11539  ¶  16. 
+
+
+ 108  USSB,  7  FCC  Rcd  at  7250  ¶  19,  Advanced  Review  Order,  11  FCC  Rcd  at  3415  ¶  41. 
+ 109  Directsat  Corporation,  Order,  11  FCC  Rcd  1775  (Int’l  Bur.  1996)  (Directsat). 
+ 110  Directsat,  11  FCC  Rcd  at  1776  ¶  12. 
+ 111  Directsat,  11  FCC  Rcd  at  1777  ¶  16. 
+17
+ Federal  Communications  Commission  FCC  04-  131 
+ 18 
+ commitment  to  completing  construction  of  the  satellite  system  it  was  licensed  to  launch  and  operate.  112  MCHI  and  Constellation  clearly  did  not  meet  either  of  these  standards.  They  did  not  make  significant 
+ initial  payments,  because  they  paid  less  than  one  percent  of  the  costs  of  constructing  the  satellite  system.  113  They  did  not  make  a  commitment  to  construct  their  licensed  satellite  systems,  because  they 
+ instead  contracted  to  operate  channels  on  ICO's  satellite,  and  ICO  would  have  retained  discretion  to  decide  whether  to  provide  any  capacity  at  all  to  MCHI  or  Constellation.  114 
+
+
+ D.  Permissible  Sharing  Agreements 
+ 37.  ICO  et  al.  contend  that  the  Bureau’s  decision  generally  would  prohibit  satellite  capacity  purchase  agreements  as  a  method  to  meet  the  first  milestone.  115  We  disagree.  A  review  of  the  relevant 
+ precedent  discussed  above  shows  that  the  Commission  does  not  prohibit  sharing  agreements.  Rather,  as  we  also  discussed  above,  we  require  that  (1)  a  licensee's  satellite  construction  contract  must  be  binding 
+ and  non-  contingent,  and  (2)  the  contract  must  demonstrate  that  the  licensee  is  committed  to  completing  the  construction  of  the  satellite  system  within  the  time  frame  specified  in  the  license.  116  We  further 
+ explained  above  that  such  a  contract  must  require  the  licensee  to  make  significant  initial  payments,  and  must  make  the  majority  of  payments  due  well  before  the  end  of  the  construction  period.  117  Moreover,  we 
+ pointed  out  in  this  Order  that  a  sharing  agreement  might  satisfy  the  requirements  of  the  construction  commencement  milestone  set  forth  in  the  Tempo  Order  if  the  licensee  seeking  to  share  demonstrates 
+ substantial  progress  in  its  own  right,  e.  g.,  that  it  has  the  same  financial  investment  and  commitment  in  the  shared  project  as  if  it  were  constructing  the  satellite  system  it  was  licensed  to  operate.  118  The  Commission 
+ simply  does  not  allow  licensees  simply  to  "piggy-  back"  on  another  licensee's  satellite  construction  for  their  own  for  purposes  of  meeting  the  contract  execution  milestone.  The  ICO  et  al.  sharing  agreements 
+ are  efforts  by  MCHI  and  Constellation  to  piggy-  back  on  ICO's  construction,  and  so  neither  MCHI  nor  Constellation  can  rely  on  those  sharing  agreements  to  meet  their  milestones. 
+
+
+ E.  Waiver  Request 
+ 38.  Background.  As  an  alternative  to  their  argument  that  their  Sharing  Agreements  satisfy  their  construction  commencement  milestone,  ICO  et  al.  requested  a  waiver  of  the  construction  commencement 
+ milestone  for  one  year.  119  The  Bureau  denied  this  request,  finding  that  granting  such  a  waiver  would  establish  a  precedent  that  would  undercut  efforts  to  limit  warehousing  of  scarce  orbit  and  spectrum 
+
+
+ 112  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7;  USSB,  7  FCC  Rcd  at  7250  ¶  19,  Advanced  Review  Order, 
+ 11  FCC  Rcd  at  3415  ¶  41;  Directsat,  11  FCC  Rcd  at  1777  ¶  16;  Review  Order,  18  FCC  Rcd  at  11656  ¶  19. 
+ 113  MCHI/  Constellation  Milestone  Order,  18  FCC  Rcd  at  1100  ¶  17. 
+
+
+ 114  Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1100  n.  28. 
+ 115  ICO  et  al.  Joint  Application  for  Review  at  8. 
+ 116  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7. 
+ 117  Tempo  Order,  1  FCC  Rcd  at  21  ¶  7. 
+ 118  Compare  USSB,  7  FCC  Rcd  at  7250  ¶  19  with  Advanced  Review  Order,  11  FCC  Rcd  at  3415  ¶ 
+ 41. 
+ 119  ICO  et.  al.  Modification  Application  at  17. 
+18
+ Federal  Communications  Commission  FCC  04-  131 
+ 19 
+ resources.  120 
+ 39.  ICO  et  al.  contend  that  the  Bureau  "misconstrued"  Constellation’s  and  MCHI’s  waiver  requests  as  a  request  for  waiver  of  all  milestone  deadlines,  rather  than  "a  waiver  of  the  milestones,  to  the 
+ extent  that  they  are  interpreted  to  require  construction  of  duplicative  facilities."  121  We  have  reviewed  the  original  waiver  requests  as  filed  in  the  Constellation/  MCHI  Modification  Applications.  122  We  believe  the 
+ Bureau  properly  assessed  the  scope  of  Constellation’s  and  MCHI’s  waiver  requests  and  thoroughly  articulated  a  number  of  reasons  why  it  was  inappropriate  to  grant  their  waiver  requests  in  the  context  of 
+ 2  GHz  MSS  systems.  123  Moreover,  ICO  et.  al.  have  not  provided  good  cause  for  the  more  limited  waiver  they  claim  they  requested  originally,  in  either  their  waiver  request  or  their  application  for  review.  124 
+
+
+ F.  Extension  Request 
+ 40.  Background.  ICO  et  al.  also  request  extension  of  Constellation’s  and  MCHI’s  milestones,  asserting  that  they  need  additional  time  to  comply  with  the  Bureau’s  so-  called  "newly  announced" 
+ milestone  requirements.  125 
+ 41.  Discussion.  ICO  et  al.  have  not  supplied  any  basis  for  us  to  extend  any  of  Constellation’s  or  MCHI’s  milestones.  As  discussed  at  length  above,  the  Bureau’s  decision  is  wholly  supported  by 
+ Commission  precedent  and  thus,  does  not  contain  "newly  announced  requirements."  In  any  case,  on  the  basis  of  the  record  before  us,  we  agree  with  the  Bureau  that  Constellation  and  MCHI  have  not 
+ demonstrated  that  additional  time  is  required  due  to  unforeseeable  circumstances  beyond  their  control,  or  that  unique  and  overriding  public  interest  concerns  justify  an  extension.  126  Constellation  and  MCHI 
+
+
+ 120  Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1103  ¶  20-  22. 
+ 121  ICO  et  al.  Joint  Application  for  Review  at  21. 
+ 122  Constellation/  MCHI  Modification  Applications  at  17-  19. 
+ 123  To  grant  such  relief  here  would  establish  a  precedent  that  would  make  it  possible  for 
+ parties  with  marginal  prospects  and  uncertain  intentions  to  delay  for  as  long  as  a  year  after  receiving  licenses  before  arranging  for  disposition  of  their  license  interests  and  then  continue  to 
+
+
+ hold  the  licenses  past  the  one-  year  deadline  for  as  long  as  it  would  take  to  resolve  any  issues  presented  by  their  last-  minute  assignment  or  transfer-  of-  control  applications.  Such  a  precedent 
+ would  also  tend  to  encourage  speculative  filings  by  applicants  with  no  reasonable  prospect  or  intention  of  constructing  a  system. 
+
+
+ Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1102  ¶  20.  124 
+ Section  1.3  of  the  Commission’s  rules  provides  that  waiver  of  a  rule  may  be  granted  upon  "good  cause  shown."  47  C.  F.  R.  §  1.3.  However,  as  noted  by  the  Court  of  Appeals  for  the  D.  C.  Circuit,  agency  rules  are 
+
+
+ presumed  valid,  and  "an  applicant  for  waiver  faces  a  high  hurdle  even  at  the  starting  gate."  WAIT  Radio  v.  FCC,  418  F.  2d  1153,  1157  (D.  C.  Cir.  1969),  cert.  denied,  409  U.  S.  1027  (1972).  The  Commission  may  exercise  its 
+ discretion  to  waive  a  rule,  where  the  particular  facts  make  strict  compliance  inconsistent  with  the  public  interest.  Northeast  Cellular  Telephone  Co.  v.  FCC,  897  F.  2d  1164,  1166  (D.  C.  Cir.  1990).  Further,  if  it  grants  a  waiver, 
+ the  Commission  must  articulate  a  rational  justification  for  the  exception  that  establishes  a  predictable,  workable  standard  for  non-  discriminatory  resolution  of  future  cases.  WAIT  Radio,  418  F.  2d  at  1159;  Northeast  Cellular, 
+ 897  F.  2d  at  1166. 
+ 125  ICO  et  al.  Joint  Application  for  Review  at  24. 
+
+
+ 126  Constellation/  MCHI  Milestone  Order,  18  FCC  Rcd  at  1103  ¶  23  &  n.  44  (citing  milestone 
+ extension  precedent). 
+19
+ Federal  Communications  Commission  FCC  04-  131 
+ 20 
+ asked  for  the  extension  only  in  case  their  modification  requests  were  denied.  Filing  applications  to  modify  their  licenses  and  merge  with  ICO  are  strictly  business  decisions  within  their  control,  and  the 
+ Commission  has  held  unequivocally  that  such  business  decisions  do  not  warrant  an  extension  of  milestones.  127 
+
+
+ G.  Hearing  Requirement 
+ 42.  ICO  et  al.  argue  that  the  Bureau  violated  Section  312(  c)  of  the  Communications  Act  by  depriving  them  of  an  opportunity  for  a  hearing  prior  to  finding  the  authorizations  null  and  void.  128 
+ Section  312(  c)  provides  that  "[  b]  efore  revoking  a  [station]  license  or  [construction]  permit  pursuant  to  subsection  (a),  …  the  Commission  shall  serve  upon  the  licensee,  permittee,  or  person  involved  an  order  to 
+ show  cause  why  an  order  of  revocation  .  .  .  should  not  be  issued."  129  Failure  to  timely  construct  facilities  is  not  one  of  the  enumerated  reasons  for  which  the  Commission  may  revoke  a  license  or  permit  pursuant 
+ to  Section  312(  a).  130  Thus,  Section  312(  c)  is  not  triggered  by  the  Bureau’s  actions.  Moreover,  Constellation  and  MCHI  accepted  their  authorizations  as  conditioned,  131  and  were  therefore  on  notice  that 
+ failure  to  meet  those  conditions  would  result  in  nullification  of  the  authorization.  132 
+ IV.  CONCLUSION  AND  ORDERING  CLAUSES 
+ 43.  The  Commission  has  been  reviewing  satellite  licensees'  milestone  demonstrations  for  almost 
+
+
+ 127  See,  e.  g.,  MCI,  2  FCC  Rcd  at  234  ¶  7  (mergers  do  not  justify  extension  of  milestones);  see  also 
+ Columbia  Communications  Corporation,  Memorandum  Opinion  and  Order,  15  FCC  Rcd  15566,  15571  ¶  12  (Int’l  Bur.  2000)  (Columbia  First  Milestone  Order);  Columbia  Communications  Corporation,  Memorandum  Opinion  and 
+
+
+ Order,  ,  15  FCC  Rcd  16496,  16497-  98  ¶  5  (Int’l  Bur.  2000)  (Columbia  Second  Milestone  Order);  Advanced,  10  FCC  Rcd  at  13341  ¶  14. 
+ 128  ICO  et  al.  Joint  Application  for  Review  at  20,  ICO  et.  al  Reply  at  4. 
+ 129  47  U.  S.  C.  §  312(  c). 
+ 130  Compare  47  U.  S.  C.  §  312(  a)  (listing  seven  bases  for  license  or  permit  revocation)  with  47  U.  S.  C. 
+ §  319(  b)  ("  permits  for  construction  shall  show  specifically  the  earliest  and  latest  dates  between  which  the  actual  operation  of  such  station  is  expected  to  begin,  and  shall  provide  that  said  permit  will  be  automatically  forfeited  if  the 
+
+
+ station  is  not  ready  for  operation  within  the  time  specified").  For  more  on  the  Commission’s  policy  incorporating  space  station  construction  permit  authority  into  the  launch  and  operation  authority,  see  Streamlining  the 
+ Commission's  Rules  and  Regulations  for  Satellite  Application  and  Licensing  Procedures,  IB  Docket  No.  95-  117,  Report  and  Order,  11  FCC  Rcd  21581,  21584-  85  ¶  8  (1996)  (waiving  construction  permit  requirement  for  space 
+ stations  will  accelerate  the  provision  of  satellite-  delivered  services,  and  eliminate  administrative  burdens  and  potential  delays).  See  also  2  GHz  MSS  Report  and  Order,  15  FCC  Rcd  at  16179-  80  ¶  111  (applying  this  policy  to  2 
+ GHz  MSS).  131 
+ The  authorizations  included  an  ordering  clause  stating  the  licensee  "may  decline  this  authorization  as  conditioned  within  30  days  of  the  date  of  the  release  of  this  Order  and  Authorization.  Failure  to  respond  within 
+
+
+ this  period  will  constitute  formal  acceptance  of  the  authorization  as  conditioned."  See  Constellation  2  GHz  MSS  Order,  16  FCC  Rcd  at  13736  ¶  34;  MCHI  2  GHz  MSS  Order,  16  FCC  Rcd  at  13805  ¶  33. 
+ 132  See,  e.  g.,  P&  R  Temmer  v.  FCC,  743  F.  2d  at  928  ("  An  FCC  licensee  takes  its  license  subject  to  the 
+ conditions  imposed  on  its  use.  .  .  .  Acceptance  of  a  license  constitutes  accession  to  all  such  conditions.  A  licensee  may  not  accept  only  the  benefits  of  the  license  while  rejecting  the  corresponding  obligations.");  Capital  Telephone 
+
+
+ Co.  v.  FCC,  498  F.  2d  734,  740  (D.  C.  Cir.  1974)  ("  When  an  applicant  accepts  a  government  permit  which  is  subject  to  certain  conditions,  he  cannot  later  assert  alleged  rights  which  the  permit  required  him  to  surrender  in  order  to 
+ receive  it."). 
+20
+ Federal  Communications  Commission  FCC  04-  131 
+ 21 
+ 20  years.  During  that  time,  we  have  developed  a  significant  body  of  law  regarding  the  requirements  for  meeting  the  construction  commencement  milestone.  Most  relevant  for  this  Order,  licensees  must  show 
+ that  they  have  entered  into  a  binding,  non-  contingent  contract  for  the  construction  of  the  satellite  system  that  they  were  licensed  to  operate.  Such  contracts  include  significant  initial  payments,  require  the 
+ majority  of  payments  well  before  the  end  of  the  construction  period,  and  demonstrate  an  intent  to  complete  the  satellite  system  construction.  Moreover,  licensees  attempting  to  comply  with  the 
+ construction  commencement  milestone  through  executing  a  sharing  agreement  with  another  licensee  must  demonstrate  the  same  investment  and  commitment  to  completing  the  satellite  system  construction  as  if  it 
+ were  constructing  the  satellite  system  it  was  licensed  to  operate.  We  find  that  the  Bureau’s  decisions  were  correct  and  consistent  with  applicable  precedent,  and  we  therefore  deny  ICO  et  al.  ’s  Joint 
+ Application  for  Review. 
+ 44.  Accordingly,  IT  IS  ORDERED  that  the  Joint  Application  for  Review  filed  on  March  3,  2003  by  Constellation  Communications  Holdings,  Inc.,  Mobile  Communications  Holdings,  Inc.,  and  ICO 
+ Global  Communications  (Holdings)  Limited,  File  Nos.  SAT  T/  C  20020718-  00114,  SAT-  T/  C-  20020719-  00104,  SAT-  MOD-  20020719-  00103,  SAT-  MOD-  20020719-  00105  IS  DENIED. 
+
+
+ 45.  This  Memorandum  Opinion  and  Order  is  issued  pursuant  to  Sections  4(  i)  and  5(  c)(  5)  of  the  Communications  Act  of  1934,  as  amended,  47  U.  S.  C.  §§  154(  i),  155(  c)(  5)  and  Section  1.115  of  the 
+ Commission’s  rules,  47  C.  F.  R.  §  1.115. 
+
+
+ FEDERAL  COMMUNICATIONS  COMMISSION 
+
+
+ Marlene  H.  Dortch  Secretary 
+21
+ Federal  Communications  Commission  FCC  04-  131 
+ 22 
+ DISSENTING  STATEMENT  OF  COMMISSIONER  MICHAEL  J.  COPPS 
+ Re:  Joint  Application  for  Review  of  Constellation  Communications  Holdings,  Inc.,  Mobile  Communications,  Inc.  and  ICO  Global  Communications  (Holdings)  Limited,  Memorandum 
+ Opinion  and  Order. 
+ Today’s  decision  was  an  exceptionally  difficult  one.  It  was  difficult  because  it  pitted  two  important  Commission  responsibilities  against  one  another.  On  one  hand  the  Commission  has  a 
+ statutory  responsibility  to  protect  the  people’s  spectrum.  That  means  protecting  against  the  warehousing  of  spectrum  and  working  to  maximize  output  for  each  band.  Because  the 
+ Commission  does  not  auction  satellite  spectrum,  it  devised  a  series  of  milestones  that  allow  it  to  measure  commitment  to  achieve  a  fully  operational  satellite  system  according  to  a  specified 
+ schedule.  Each  milestone  provides  a  way  to  assess  whether  a  licensee  is  on  the  path  to  delivering  service  to  consumers  or  is  underutilizing  the  spectrum  resource  that  has  been 
+ entrusted  to  it. 
+ On  the  other  hand  the  Commission  has  an  ongoing  responsibility  to  be  clear  about  licensees’  responsibilities  and  to  give  adequate  notice  of  its  policies.  Regulatory  transparency 
+ and  predictability  are  critical.  They  encourage  more  investment  because  companies  making  large  investments  can  do  so  with  the  knowledge  that  they  understand  the  rules  of  the  game  and 
+ that  those  rules  will  not  be  changed  without  adequate  notice.  Transparency  and  predictability  are  also  core  legal  requirements  for  regulatory  agencies  under  the  Administrative  Procedures  Act. 
+
+
+ In  a  perfect  world  we  would  be  able  to  meet  both  of  these  responsibilities  to  everyone’s  satisfaction.  But  in  this  case  I  fear  that  we  cannot.  In  the  relatively  new  world  of  satellite 
+ milestones,  and  in  the  very  new  world  of  “strict  enforcement”  of  those  milestones,  our  licensees’  precise  responsibilities  are  not  adequately  clear  in  all  circumstances.  In  this  case  a  milestone 
+ designed  to  further  our  goal  of  fighting  warehousing  and  maximizing  output  was  not  clear  enough.  Despite  that  lack  of  clarity,  today  the  Commission  rescinds  authorizations  held  by 
+ Constellation  and  MCHI  –  the  equivalent  of  the  death  penalty  for  a  satellite  company. 
+ I  am  not  comfortable  with  this  extreme  remedy,  given  the  confusion  over  the  exact  requirements  of  our  milestone.  In  the  related  Globalstar  milestone  order  the  company’s  non-contingent 
+ contract  would  not  have  allowed  it  to  launch  a  satellite  system  that  met  its  deadlines.  For  this  reason  the  Commission  correctly  found  that  the  company  did  not  demonstrate  a 
+ commitment  to  complete  the  construction  of  the  system  within  the  time  frame  specified  in  the  license. 
+
+
+ Here,  by  contrast,  Constellation  and  MCHI’s  contract  did  provide  evidence  of  a  commitment  to  complete  their  satellite  system.  The  wrinkle  was  that  the  companies  intended  to 
+ do  so  using  ICO  satellites.  While  I  would  prefer  licensees  to  build  their  own  systems  so  that  more  satellite  infrastructure  becomes  available,  I  am  not  convinced  that  our  rules  clearly 
+ prohibited  this  arrangement.  For  this  reason,  I  am  pleased  that  the  Commission  is  using  this  opportunity  to  explain  our  standard  more  clearly  so  that  licensees  have  better  notice  of  what 
+ types  of  non-  traditional  contractual  arrangements  satisfy  the  milestone,  but  I  believe  that  given 
+22
+ Federal  Communications  Commission  FCC  04-  131 
+ 23 
+ the  circumstances  of  this  case,  granting  a  waiver  as  we  did  in  the  related  TMI  case,  would  have  been  more  appropriate  than  the  extreme  act  of  rescinding  authorizations. 
+23
+ Federal  Communications  Commission  FCC  04-  131 
+ 24 
+ CONSOLIDATED  SEPARATE  STATEMENT  OF  COMMISSIONER  KEVIN  J  .  MARTIN,  CONCURRING  IN  PART 
+ Re:  Joint  Application  for  Review  of  Constellation  Communications  Holdings,  Inc.,  Mobile  Communications,  Inc.  and  ICO  Global  Communications  (Holdings)  Limited,  Memorandum 
+ Opinion  and  Order,  File  Nos.  SAT-  T/  C-  20020718-  00114  et  al.;  Emergency  Application  for  Stay  of  Globalstar,  L.  P.,  Memorandum  Opinion  and  Order,  File  Nos. 
+ SAT-  LOA-  19970926-  00151/  52/  53/  54/  56  et  al.; 
+ While  I  do  not  take  issue  with  these  Orders’  interpretation  of  the  “non-  contingent  satellite  manufacturing  contract”  milestone,  I  question  the  usefulness  of  our  approach.  With  respect  to  Globalstar, 
+ we  take  away  its  license  because  Globalstar’s  manufacturing  contract  would  not  have  provided  for  completion  of  construction  of  Globalstar’s  originally  proposed  system  within  Globalstar’s  original 
+ construction  milestones.  But  Globalstar  sought  modification  of  its  system  and  extension  of  the  construction  milestones.  Globalstar  specifically  sought  an  opportunity  to  cure  its  satellite  manufacturing 
+ contract  to  conform  to  the  original  requirements  should  its  modification  and  extension  requests  be  denied.  In  light  of  these  facts,  I  think  Globalstar  could  rather  easily  have  entered  into  the  requisite  contract  in 
+ order  to  meet  the  first  milestone  and  preserve  its  license.  Whether  Globalstar  could  have  ultimately  lived  with  such  a  contract  is  a  harder  question,  but  Globalstar  would  have  bought  itself  time  to  try.  It  thus 
+ seems  to  me  that  Globalstar  is  here  being  penalized  for  taking  a  more  honest  approach. 
+ With  respect  to  Constellation  and  MCHI,  we  take  away  their  licenses  because  we  conclude  that  their  agreements  to  share  satellite  infrastructure  with  ICO  do  not  constitute  satellite  manufacturing 
+ contracts.  As  with  Globalstar,  we  rely  in  large  part  on  the  fact  that  these  agreements  do  not  commit  Constellation  and  MCHI  to  implement  the  systems  they  were  originally  licensed  to  operate.  While  it  is 
+ unclear  whether  Constellation  and  MCHI  could  have  entered  into  the  kind  of  contracts  we  deem  are  required  in  order  to  preserve  their  licenses,  it  does  seem  clear  that  they  could  have  provided  a  viable 
+ service  through  their  sharing  agreements.  I  am  not  sure  that  the  penalty  of  taking  away  their  licenses  is  a  fair  match  to  the  perceived  transgressions. 
+
+
+ In  the  end,  I  think  the  strict  enforcement  of  the  “non-  contingent  satellite  manufacturing  contract”  milestone  may  be  too  blunt  an  instrument  to  address  these  questions.  Going  forward,  I  would  prefer  a 
+ more  nuanced  approach. 
+24
+

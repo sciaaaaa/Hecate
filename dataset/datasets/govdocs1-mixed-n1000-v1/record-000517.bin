@@ -1,0 +1,219 @@
+pro scc_icerdiv2,i,d, PIPELINE=pipeline, FAST=fast
+;+
+; $Id: scc_icerdiv2.pro,v 1.16 2007/11/19 19:36:24 nathan Exp $
+;
+; Project : STEREO SECCHI
+;
+; Name    : scc_icerdiv2
+;
+; Purpose : correct for conditional DIV2 by on-board IP prior to ICER
+;
+; Algorithm:
+;  - Two conditions: 1. either an explicit DIV2 IP just before the ICER IP
+;    or 2. an implicit div2 that was done within ICER
+;  - 1. Check for explicit DIV2: last IP is ICER and prior IP is DIV2
+;  - 2. Check for implicit div2:
+;    - last IP is ICER
+;    - and: datap01 is smaller than 3/4 of biasmean
+;    - and: there was no explicit ICER filter IP just before the ICER IP
+;      (the presence of a filter IP would signal that no div2 was done,
+;       since the filter IP would have otherwise been replaced by DIV2)
+;    - and: there was no "subtract bias" IP (would skew datap01 check)
+;  If condition 2.: multiply data and DATA??? keywords by 2. If there is
+;  an explicit DIV2, then it is corrected by scc_sebip in secchi_prep.
+;
+; Use     : IDL> scc_icerdiv2,index,data
+;
+; Input/output  :
+;    index = header index structure.  Must have at least the following tags:
+;         .BIASMEAN
+;         .IP_00_19
+;         .DATAP01
+;         .DATAMIN
+;         .DATAMAX
+;         .DATAAVG
+;         .DATAP01
+;         .DATAP10
+;         .DATAP25
+;         .DATAP75
+;         .DATAP90
+;         .DATAP95
+;         .DATAP98
+;         .DATAP99
+;   	  .DIV2CORR
+;            the DATA??? tags may get modified
+;    data  = image data array.  Replaced by corrected data array
+;
+; Keywords:
+;
+; Common  : scc_reduce contains basehdr, nom_hdr, icerdiv2flag, which are used
+;   	    if /PIPELINE is set.
+;
+; Restrictions:
+;    - Does not check whether the correction may have already been applied
+;    - Algorithm for finding implicit div2 is not foolproof
+;
+; Side effects:
+;    - May incorrectly apply correction if SQRT, DIVx applied when condition 2. above is also met
+;
+; Category    : Pipeline
+;
+; Prev. Hist. :
+;
+; Written     : Jean-Pierre Wuelser, LMSAL, 15-Jan-2007
+;               JPW, revised                17-Jan-2007
+;               JPW, fixed incorrect IP range for noticfilt   29-Jan-2007
+;
+; $Log: scc_icerdiv2.pro,v $
+; Revision 1.16  2007/11/19 19:36:24  nathan
+; Fix problem with non-pipeline call; add messages
+;
+; Revision 1.15  2007/11/08 22:59:12  secchia
+; fixed check for icradiv2
+;
+; Revision 1.14  2007/11/08 22:33:41  nathan
+; forgot we have to do correction also (Bug 252)
+;
+; Revision 1.13  2007/11/08 22:29:51  nathan
+; if DIV2CORR happens 2x, DIV2CORR=F (Bug 252)
+;
+; Revision 1.12  2007/11/08 20:38:47  secchia
+; add lulog msg if pipeline and print more info
+;
+; Revision 1.11  2007/08/28 21:03:53  nathan
+; fix comment
+;
+; Revision 1.10  2007/03/15 15:24:37  nathan
+; add /FAST
+;
+; Revision 1.9  2007/02/12 18:06:03  mcnutt
+; fixed common block added entire definition
+;
+; Revision 1.8  2007/02/12 14:43:44  nathan
+; fix common block
+;
+; Revision 1.7  2007/02/05 23:19:33  nathan
+; implement /PIPELINE to detect ICER div 2 from ipcmd and idecomp output
+;
+; Revision 1.6  2007/02/05 16:20:05  nathan
+; update comments
+;
+; revision 1.5  2007/02/05 16:19:15 nathan
+; removed DIV2 criteria for domul2 (Bug 49)
+
+; Revision 1.4  2007/01/31 21:18:55  nathan
+; add histinfo to header
+;
+; Revision 1.2  2007/01/29 21:04:03  euvi
+; fixed IP range for noticfilt
+;
+; Revision 1.1  2007/01/23 18:35:20  mcnutt
+; correct ICER images that are divided by 2
+;
+; Revision 1.2  2007/01/17 17:03:20  euvi
+; updated logic in scc_icerdiv2
+;
+;-
+common scc_reduce,  lulog, basehdr, nom_hdr, ext_hdr, scch, leapsecs, enums, resetvars, $
+    	    	    ipdat, nom_tlr, prevbasename, readfileidline, wavefileidline, $
+		    setupfileidline, exposfileidline, maskfileidline, ipfileidline, icerdiv2flag, $
+		    rotblidlines,hbtimes,hbtemps, subdir, date_fname_utc, ispb, islz, isrt, aorb
+; defined in secchi_reduce.pro
+
+info="$Id: scc_icerdiv2.pro,v 1.16 2007/11/19 19:36:24 nathan Exp $"
+len=strlen(info)
+histinfo=strmid(info,1,len-2)
+
+ ; get the IP commands
+ ip = i.ip_00_19
+ if strlen(ip) lt 60 then ip=' '+ip      ; ip should be 3x20 char long, but
+ if strlen(ip) lt 60 then ip=' '+ip      ; could be as short as 58 if trimmed
+ ip = fix(string(reform(byte(ip),3,20)))
+ print,'IP_00_19: ',byte(ip)
+    w = where(ip ne 0,nip)
+ 
+icradiv2=0
+idecdiv2=0
+icramsg=''
+datap01=i.datap01
+biasmean=i.biasmean
+IF keyword_set(PIPELINE) THEN BEGIN
+    ip =basehdr.ipcmdlog
+    ip0=nom_hdr.ipcmd
+    w = where(ip ne 0,nip)
+    print,'ipcmdlog: ',ip
+    print,'ipcmd:    ',ip0
+    
+    ;IF total(ip[w]) NE total(ip0[w]) THEN stop
+    IF ip[nip-2] eq 1 AND ip0[nip-2] GE 106 AND ip0[nip-2] LE 112 THEN BEGIN
+    ; ICRA was converted to DIV2
+    	icradiv2=1
+	icramsg=icramsg+' ICRA was converted to DIV2;'
+    ENDIF
+    IF (icerdiv2flag) THEN BEGIN
+    ; ICER_DIV2_FLAG caught in idecomp output in secchi_reduce
+    	idecdiv2=1
+	icramsg=icramsg+' ICER_DIV2_FLAG from idecomp'
+    ENDIF
+    
+ENDIF 
+ ; calculate various conditions
+ icer      = ip(nip-1) ge 90 and ip(nip-1) le 102    ; last  IP was ICER
+ div2      = ip(nip-2) eq 1                          ; prior IP was DIV2
+ noticfilt = ip(nip-2) lt 106 or ip(nip-2) gt 112    ; prior IP was not filter
+ nosubbias = (where(ip eq 103))[0] eq -1             ; no subtract_bias in IP  
+ biasmp01  = (biasmean/2)-datap01                
+ help,biasmp01     
+ p01ltbias = (abs(biasmp01) LT 0.02*(biasmean/2))
+    	    	    	    	    	             ; low data approx 1/2 bias
+
+ ; logic to determine whether data was most likely divided by 2
+ ; the first part finds an explicit DIV2, the second an implicit one in ICER
+ ; this logic does not determine whether the correction was already applied
+ ;domul2 = (icer and div2) or (icer and noticfilt and nosubbias and p01ltbias)
+domul2 = icradiv2 or idecdiv2 OR (icer and noticfilt and nosubbias and p01ltbias)
+print,icradiv2,'=icradiv2,',idecdiv2,'=idecdiv2,',icer,'=icer,',noticfilt,'=noticfilt,',nosubbias,'=nosubbias,',p01ltbias,'=p01ltbias'
+IF keyword_set(PIPELINE) THEN printf,lulog, $
+icradiv2,'=icradiv2,',idecdiv2,'=idecdiv2,',icer,'=icer,',noticfilt,'=noticfilt,',nosubbias,'=nosubbias,',p01ltbias,'=p01ltbias'
+; Correction for div2 is applied in scc_sebip.pro, part of secchi_prep,
+; unless DIV2CORR=T.
+
+ ; apply correction
+ if domul2 then begin
+    m2 = d[0,0]
+    m2[0] = 2                            ; constant 2 of same type as d
+    d = d * m2
+    i.datap01 = i.datap01 * 2
+    i.datamin = i.datamin * 2
+    i.datamax = i.datamax * 2
+    i.dataavg = i.dataavg * 2
+    i.datap10 = i.datap10 * 2
+    i.datap25 = i.datap25 * 2
+    i.datap75 = i.datap75 * 2
+    i.datap90 = i.datap90 * 2
+    i.datap95 = i.datap95 * 2
+    i.datap98 = i.datap98 * 2
+    i.datap99 = i.datap99 * 2
+    i.div2corr = 'T'
+; Check for case where DIV2CORR happens twice onboard. This has happened if
+; icradiv2 AND idecdiv2. Make sure correction is correctly applied  in scc_sebip by making 
+; DIV2CORR=F even though we apply the correction here.
+    IF (idecdiv2) and (icradiv2) THEN i.div2corr = 'F'
+
+    print,'************Image corrected by icerdiv2 ************'
+    icramsg='Corrected for icerdiv2 because: '+icramsg
+ endif ELSE isramsg='No div2 correction: '+icramsg
+ 
+print,icramsg
+IF keyword_set(PIPELINE) THEN printf,lulog,icramsg
+
+ if datap01 lt 0.75*biasmean then begin
+    help,datap01,biasmean
+    print, 0.02*(biasmean/2)
+    IF not(keyword_set(FAST)) THEN wait,2
+    
+ endif
+h_dex= 20-total(strmatch(i.HISTORY,''),1)
+i.history[h_dex]=histinfo
+
+end

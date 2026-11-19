@@ -1,0 +1,49 @@
+{
+  "B": 4096,
+  "arguments": {
+    "bundle": "fixtures/aesctr-B4096-v2",
+    "command": "bench-controlled",
+    "em": "urgent",
+    "out": "results/im-controlled-10points-v2",
+    "rd_file": null,
+    "repeats": 30,
+    "save_ciphertexts": false,
+    "seed": 2026,
+    "sizes": [
+      128,
+      512,
+      1024,
+      4096,
+      16384,
+      65536,
+      262144,
+      1048576,
+      4194304,
+      16777216
+    ],
+    "warmups": 3
+  },
+  "command": "bench-controlled",
+  "note": "Fresh crypto randomness every encryption. Validation repeated and timed separately. No blockchain, Pre lookup or per-record receiver decryption. Independent recovery self-test was run during prepare.",
+  "offline_test_identities": true,
+  "packages": {
+    "coincurve": "21.0.0",
+    "cryptography": "46.0.3",
+    "py-ecc": "8.0.0"
+  },
+  "platform": "Linux-5.15.0-174-generic-x86_64-with-glibc2.35",
+  "profile": "hecate-aenc-aesctr-offline-v2",
+  "public_load_validate_ms": 1058.202073,
+  "python": "3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]",
+  "rd_bytes": 65536,
+  "rd_read_ms": 0.046184,
+  "rd_sha256": "4ecc6cf1278dedc1768a73c5ad7a9421ae183da5bb07e3194433c7bbf70288d5",
+  "rd_source": "synthetic 65536 bytes of R; NOT claimed to belong to Pre",
+  "setup_id": "0x195d5a75087fa2e01d018a823683cd715745ca5a620fb68a41afd19bb9c8f9f9",
+  "sources": {
+    "aenc.py": "b30f88892ff4a7092d63e62cdeceef798360161356284d7b0a01fd9179925d41",
+    "aenc_test_em.py": "5205fc64fd9be2c1d66858ac193705465bbff8cde044b125db3bbe32d10df6c6",
+    "hecate_bench_batch.py": "a08ca9e172ef802a0b4c37fb88974667ee454069003700d087bdd3ca08fa6102",
+    "hecate_bench_core.py": "6d0ce2ef3a74e4e87a9614c2c2ffae02798578fd02f749ae77a9239aee25be94"
+  }
+}

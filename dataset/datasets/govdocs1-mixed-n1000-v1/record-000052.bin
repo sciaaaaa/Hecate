@@ -1,0 +1,707 @@
+{\rtf1\ansi \deflang1033\deff0{\fonttbl
+{\f0\fnil \fcharset0 \fprq2 ;}{\f1\fnil \fcharset0 \fprq2 Courier New;}}{\colortbl
+\red0\green0\blue0;}
+{\stylesheet{\fs20 \snext0 Normal;}
+}\margl1440\margr1440\ftnbj\ftnrestart\aftnnar \sectd \sbknone\endnhere 
+{\*\pnseclvl1\pndec\pnstart1{\pntxta .}}
+{\*\pnseclvl2\pnlcltr\pnstart1{\pntxta .}}
+{\*\pnseclvl3\pnlcrm\pnstart1{\pntxta .}}
+{\*\pnseclvl4\pndec\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl5\pnlcltr\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl6\pnlcrm\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl7\pndec\pnstart1{\pntxta .}}
+{\*\pnseclvl8\pnlcltr\pnstart1{\pntxta .}}
+{\*\pnseclvl9\pnlcrm\pnstart1}
+
+\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 * * * * * * * * * *\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 READ AND }{\plain \b\fs20 REMOVE THIS PAGE}{\plain \fs20  BEFORE PLACING\par
+}\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 THE SPECIFICATION SECTION IN THE CONTRACT\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 * * * * * * * * * *\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 }{\plain \ul\fs20 DIVISION 17: SUPPLIES AND SERVICES}{\plain \fs20 \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 SECTION 17361 - AIRCRAFT PARKING RAMP MAINTENANCE\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 USE:\tab Furnishing and applying a sealcoat on an existing aircraft ramp 
+bituminous wearing surface. \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \b\f1\fs20 NOTES TO SPECIFIER:}{\plain \f1\fs20 \par
+}{\plain \f1\fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \f1\fs20 \tab A.\tab Options within paragraphs are identified by enclosure in brackets; 
+blank spaces enclosed by brackets [_____] provide for information to 
+be inserted, as appropriate, to individual projects.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \f1\fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \f1\fs20 \tab B.\tab }{\plain \b\f1\fs20 TO AVOID CONFLICTING REQUIREMENTS AND COSTLY MISTAKES,}{\plain \f1\fs20  the specifier 
+must edit (delete, substitute or add to the text).  The remaining 
+paragraphs must be renumbered.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \f1\fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \f1\fs20 \tab C.\tab DELETE FOR FINAL COPY: Notes to the Specifier, located between lines 
+of asterisks; all [brackets], }{\plain \ul\f1\fs20 underlining}{\plain \f1\fs20 , }{\plain \b\f1\fs20 boldface}{\plain \f1\fs20 , and }{\plain \i\f1\fs20 italics}{\plain \f1\fs20 , 
+within the paragraphs; and this page.  (Open Reveal Codes [alt F3] to 
+do this accurately.)\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \f1\fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \f1\fs20 \tab D.\tab }{\plain \ul\f1\fs20 To Edit \'93(Footer B)\'94:}{\plain \f1\fs20  (Corel 8).  }{\plain \b\f1\fs20 ENTIRE FOOTER SHOULD BE BOLDED.}{\plain \f1\fs20   
+Click in the footer and delete the \'93Project Name (ftr B)\'94 text and 
+replace it with the }{\plain \b\f1\fs20 Name of the Project (upper and lower case)}{\plain \f1\fs20 .  
+Replace date with current MM/YY (WITHOUT BRACKETS).\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \f1\fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \f1\fs20 \tab E.\tab The Guide Specifications are intended to be continuously reviewed and 
+revised.  User\'92s technical comments are appreciated.  Also, other 
+related or similar specification that are written \'93from scratch\'94 that 
+could benefit others, or other questions can be sent to NSTC A/E 
+Group, ST 110, or call (303) 987-6868.}{\plain \fs20 \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \b\fs20 DRAWING DATA REQUIRED:}{\plain \fs20  \par
+}{\plain \fs20 \par
+}{\plain \b\fs20 REQUIRED SPEC MODIFICATIONS:}{\plain \fs20 \par
+}{\plain \fs20 \par
+}\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 }{\plain \ul\fs20 GENERAL NOTES}{\plain \fs20 \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 A.\tab Whenever entire articles, paragraphs, or subparagraphs are not 
+applicable, the articles, paragraphs, or subparagraphs should be 
+deleted; when necessary, reletter or renumber articles, paragraphs, or 
+subparagraphs.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 B.\tab THIS GUIDE IS NOT INTENDED AS A SUBSTITUTE FOR READING THE ENTIRE 
+SECTION.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 }{\plain \ul\fs20 TECHNICAL NOTES}{\plain \fs20 \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 A.\tab 1.1A:  Select applicable words.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 B.\tab 1.1B:  Select or add applicable specification sections.  Do not list 
+specification sections from Division 17.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 C.\tab 1.2:  Select or add applicable references.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 D.\tab 1.3A:  Select applicable specification section.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 E.\tab 1.3B:  Insert number of copies of Certificates of Conformance 
+required.  Normally 3 copies are required.  Distribution after review 
+is normally 1 copy to the COR, 1 copy to the Contractor, and 1 copy to 
+the project file.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 F.\tab 4.1 and 4.2:  When a "lump sum" Contract is used, delete the title 
+PART 4:  MEASUREMENT AND PAYMENT, and both articles from this section.  
+Measurement and payment will be addressed in Part 4 of Section 01009 
+or Section 01010.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 G.\tab 4.1A:  When not a "lump sum" Contract, select applicable phrases: use 
+the "no measurement" phrase when none of the Pay Items in this 
+sections are included in the Bid Schedule.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 H.\tab 4.2A:  When not a "lump sum" Contract, select applicable phrases; use 
+the "no direct payment" phrase when none of the Pay Items in this 
+section are included in the Bid Schedule.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 I.\tab 4.2A:  When not a "lump sum" Contract and payment is to be made under 
+this section, select applicable Pay Items.  Do not change Pay Item 
+number.  When Government-furnished property is specified for Pay 
+Items, the letter suffix GF will be added after the parenthesis of the 
+item number.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \b\f1\fs20 REVISIONS OF THIS SECTION:\par
+}{\plain \f1\fs20 CSI format, editorial changes: 12/01\par
+}{\plain \f1\fs20 Metric:  \par
+}{\plain \f1\fs20 Technical Update: 02/90}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}\pard\page 
+\sect \sectd \sbknone\pgnx6120\pgny15120\endnhere 
+{\*\pnseclvl1\pndec\pnstart1{\pntxta .}}
+{\*\pnseclvl2\pnlcltr\pnstart1{\pntxta .}}
+{\*\pnseclvl3\pnlcrm\pnstart1{\pntxta .}}
+{\*\pnseclvl4\pndec\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl5\pnlcltr\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl6\pnlcrm\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl7\pndec\pnstart1{\pntxta .}}
+{\*\pnseclvl8\pnlcltr\pnstart1{\pntxta .}}
+{\*\pnseclvl9\pnlcrm\pnstart1}
+
+\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 SECTION 17361\par
+}{\plain \fs20 \par
+}{\plain \fs20 AIRCRAFT PARKING RAMP MAINTENANCE\par
+}{\plain \fs20 \par
+}\sect \sectd \sbknone\pgnrestart\pgndec\pgnx6120\pgny15120\endnhere 
+{\*\pnseclvl1\pndec\pnstart1{\pntxta .}}
+{\*\pnseclvl2\pnlcltr\pnstart1{\pntxta .}}
+{\*\pnseclvl3\pnlcrm\pnstart1{\pntxta .}}
+{\*\pnseclvl4\pndec\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl5\pnlcltr\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl6\pnlcrm\pnstart1{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl7\pndec\pnstart1{\pntxta .}}
+{\*\pnseclvl8\pnlcltr\pnstart1{\pntxta .}}
+{\*\pnseclvl9\pnlcrm\pnstart1}
+
+\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 }{\plain \ul\fs20 PART 1:  GENERAL}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 1.1  SUMMARY:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab Section Includes:  [Sealing cracks] [and] applying a coal-tar pitch 
+emulsion sealcoat, (including a siliconed latex rubber additive) 
+[with] [and] [without] mineral aggregate, on an existing bituminous 
+wearing surface.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \fs20 1.2  REFERENCES:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab American Association of State Highway and Transportation Officials:\par
+}\pard \fi-3456\li3744\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab AASHTO M 52-81\tab \tab Tar for Use in Road Construction (R 1986)\par
+}\pard \fi-3456\li3744\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab AASHTO T 27-84\tab \tab Sieve Analysis of Fine and Coarse Aggregates\par
+}\pard \fi-3456\li3744\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab AASHTO T 182-84\tab \tab Coating and Stripping of Bitumen-Aggregate 
+Mixtures\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab B.\tab Federal Specifications:\par
+}\pard \fi-3456\li3744\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab Fed. Spec. R-P-355E\tab Pitch, Coal Tar Emulsion (Coating for 
+Bituminous Pavements)\par
+}\pard \fi-3456\li3744\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab Fed. Spec. SS-S-1401C\tab Sealant, Joint, Non-Jet-Fuel-Resistant, Hot 
+Applied, for Portland Cement and Asphalt 
+Concrete Pavements\par
+}\pard \qj\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \fs20 1.3  SUBMITTALS:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab General:  Submittals shall be according to [Section 01009 - General 
+Information and Requirements.] [Section 01300 - Submittals.]  [Section 
+01365 - Certificates of Conformance.]\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab B.\tab Certificates of Conformance:  Submit [____] copies of written 
+certification from the manufacturer of the Contractor-furnished coal-tar pitch emulsion and rubber additive, for each consignment of the 
+emulsion shipped to be used on this project that they conform to the 
+requirements of this specification section, with the exception that 
+the volatile material shall not exceed 50% and the non-volatile be 50 
+percent.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \ul\fs20 PART 2:  PRODUCTS}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 2.1  MATERIALS:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab Crack Sealer:  Shall be hot-poured, conforming to Fed. Spec. SS-S-1401 
+and shall set to a tack free condition within 24 hours.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab B.\tab Rubberized Coal Tar Pitch Emulsion Sand Slurry Protective Coating:  
+Shall be a basic coal tar pitch emulsion containing not more than 50% 
+water and not less than 50% non-volatile material content and conform 
+to Fed. Spec. R-P 355.  In addition, the following additives shall be 
+used:  Rubber as will provide a thixotropic composition as a copolymer 
+being present as a percent of the coal tar pitch emulation and having 
+an average particle size between 2000 and 4000 angstroms, said latex 
+copolymer containing 20 to 30 parts acrylic nonomer and 70 to 80 parts 
+of vinyl acetate with silicones as 3% of rubber content, and No. 3 
+sand blasting sand generally passing U.S. sieve 20 and retained on 
+U.S. sieve 30, 16 pounds per gallon, or 80 percent by volume of the 
+coal tar pitch emulsion, water as needed for application consistency 
+}\sect \sectd \sbknone\footery1680\endnhere 
+{\footer }
+{\footer \pard \qr\sl0\tx-1440\tx-720\tx0\tx480\tx960\tx1440\tx1920\tx2400\tx2880\tx3360\tx3840\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain \b AIRCRAFT PARKING RAMP MAINTENANCE\par }{\plain \b 12/01\par }\pard \sl0\tx-1440\tx-720\tx0\tx480\tx960\tx1440\tx1920\tx2400\tx2880\tx3360\tx3840\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\tx9360 
+{\plain \b Project Name (ftr B)}{\plain \par }}
+{\*\pnseclvl1\pndec\pnstart1\pnindent864{\pntxta .}}
+{\*\pnseclvl2\pnlcltr\pnstart1\pnindent864{\pntxta .}}
+{\*\pnseclvl3\pnlcrm\pnstart1\pnindent864{\pntxta .}}
+{\*\pnseclvl4\pndec\pnstart1\pnindent864{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl5\pnlcltr\pnstart1\pnindent864{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl6\pnlcrm\pnstart1\pnindent864{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl7\pndec\pnstart1\pnindent864{\pntxta .}}
+{\*\pnseclvl8\pnlcltr\pnstart1\pnindent864{\pntxta .}}
+{\*\pnseclvl9\pnlcrm\pnstart1\pnindent864}
+
+\pard \li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+(not exceeding equal parts of coal tar pitch emulsion and water), to 
+assure uniform sand coverage on each coat.  This composition shall be 
+used for the first two coats.  The third coat shall consist of the 
+same materials except that no sand shall be present and the latex 
+additive reduced proportionately.\par
+\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+\par
+\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+C.\tab Bituminous Material:  Shall be a coal tar pitch emulsion prepared from 
+a high temperature coal tar pitch conforming to the requirements of 
+AASHTO M-52.  Oil and water gas tars shall not be used.  The coal tar 
+pitch emulsion shall conform to Fed. Spec. R-P-355 with the exception 
+that the ash of Non-Volatile shall be 50% + and the water content 
+shall not exceed 50%.\par
+\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+\par
+\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+D.\tab Water:  Shall be clear fresh potable water having a temperature of 50 
+degrees F or higher.  The amount of water added to the coal tar pitch 
+emulsion shall not exceed 100%. \par
+\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+\par
+\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+E.\tab Mineral Aggregate:  Shall be either a natural or a manufactured 
+angular product and shall be composed of clean, hard, durable, 
+uncoated particles, free from lumps of clay and all organic matter.  
+The mineral aggregate shall meet the gradation given in Table 1.  The 
+test for gradation shall be made according to AASHTO T-27.\par
+\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+\par
+\par
+\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+TABLE 1 - REQUIREMENTS FOR GRADATION OF AGGREGATE\par
+\pard \li288\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \ul\fs20                                                                           }{\plain \fs20 \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-2304\li3168\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 Sieve Designation\tab                         Percentage of Weight\par
+}\pard \fi-2304\li3168\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 (Square Openings)\tab                            Passing Sieves\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 No. 16 . . . . . . . . . . . . . . . . . . . . . . . 100\par
+}\pard \li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 No. 20 . . . . . . . . . . . . . . . . . . . . . .95-100\par
+}\pard \li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 No. 30 . . . . . . . . . . . . . . . . . . . . . . 5-15\par
+}\pard \li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 No. 40 . . . . . . . . . . . . . . . . . . . . . . 2-5\par
+}\pard \li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 No. 100. . . . . . . . . . . . . . . . . . . . . . 0-2\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \fs20 2.2  EQUIPMENT:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab Crack Sealing:\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 1.\tab Sealing Equipment:  The melting kettle used to melt the crack 
+sealing compound shall be a double boiler, indirect fired type.  
+The space between the inner and outer shells shall be filled with 
+a suitable heat transfer oil or substitute having a flash point of 
+not less than 600 degrees F. (315 degrees C).  The kettle shall be 
+equipped with a satisfactory means of agitating the crack sealer 
+at all times.  This may be accomplished by continuous stirring 
+with mechanically operated paddles and/or by a continuous 
+circulating gear pump attached to the heating unit.  The kettle 
+shall be equipped with thermostatic control calibrated between 200 
+and 550 degrees F (93 and 288 degrees C).  A pressure hose will be 
+directly connected to the melting kettle in such a manner as to 
+permit pumping the melted sealer throughout the hose to a suitable 
+applicator which will be direct and control the filling of joints 
+and cracks.  The hose handle and applicator nozzle will be so 
+designed as to preclude the necessity of using direct flame on any 
+portion to free sealer.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 2.\tab Routing Machine:  A self-powered machine operating a power driven 
+tool or bit specifically designed for this purpose.  The bit shall 
+rotate about a designed for axis at sufficient speed to cut a 
+smooth walled, slightly tapered groove in the pavement surface on 
+the meandering line of the crack.  The machine used to power the 
+router shall be so designed as to permit the router to follow the 
+trace of the crack without deviation.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab B.\tab Resurfacing:\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 1.\tab Spray Distributors:  Shall be self-propelled, equipped with 
+pneumatic tires, and be capable of applying 0.10 to 0.50 gal/yd}{\plain \super\fs20 2}{\plain \fs20  
+of tar emulsion slurry over the required width of application.  
+Distributors shall be equipped with removable manhole covers, 
+tachometers. pressure gauges, and volume-measuring devices.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 2.\tab Mixing or Agitating Equipment:  Shall be tank-type power mixer.  
+Mixing in tanks may be done in horizontal, round-bottom tanks 
+equipped with a power driven full-sweep mixer of sufficient 
+capacity to maintain the mineral content of the emulsion in 
+complete suspension.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 3.\tab Pumping Equipment:  Shall be available for pumping water and for 
+handling or applying the emulsion.  When compressed-air spray 
+equipment is used for applications of the emulsion, heavy-duty air 
+compressors shall be furnished.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 4.\tab Mixing Machines:  Shall be a central plant mixer, a transit mixer, 
+or any type mixer approved by the Contracting Officer capable of 
+producing a uniform mixture of emulsion and aggregate.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li2016\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab a.\tab Transit Mixer or Other Type Mixer:  When used for preparing 
+the slurry, the slurry may be applied with a spreader box 
+into which the slurry is conveyed by a chute.  The spreader 
+box shall consist of a rectangular frame 10 feet or more in 
+width and not less than 8 feet long, equipped for towing, and 
+with a squeegee screed across the inside of the box about 
+three-quarters toward the rear which is adjustable for 
+thickness of application and crown of pavement.  The squeegee 
+on the spreader box may be neoprene rubber belting, 1/2 inch 
+thick and 6 to 8 inches in width, held vertically across the 
+width of the box (preferable with 4 inches of "free rubber" 
+for aggregate flexibility) and anchored to an adjustable 
+frame.  The front and side of the box shall be lined with 1/4 
+inch thick belting to prevent slurry leakage and to assure 
+proper spreading.  The slurry box shall be equipped with 
+wheels in order that it may be raised off the pavement and 
+quickly towed into position for use on adjacent lanes.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li2016\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab b.\tab Spray-Type Applicator or Distributor:  Shall be used for 
+applying the slurry when approved by the Contracting Officer.  
+This equipment shall be equipped with an agitator to keep the 
+slurry uniformly mixed before and during application and so 
+designed to uniformly spread the slurry on the pavement 
+surface at the specified rates of application.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li2016\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab c.\tab Other Tools or Equipment:  Brushes, hand squeegees, hose 
+equipment, aggregate batched, and sand spreaders, tank 
+trucks, water distributors and flushers, power sweepers, 
+power blowers, barricades, shall be provided as required.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \pard\page 2.3  MIXES:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab Quantities And Composition of Materials Per Square Yard:  The 
+approximate amounts and composition of materials per square yard for 
+the sealcoat shall be as provided in Table 2.  The exact amounts to be 
+used shall be determined by the Contracting Officer.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 TABLE 2 - QUANTITIES AND COMPOSITION OF MATERIALS\par
+}\pard \li288\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 }{\plain \ul\fs20                                                                           \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \ul\fs20 \par
+}\pard \fi-1440\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab \tab \tab          Gallons\par
+}\pard \li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20          of Coal                       Gallons    Application\par
+}\pard \li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20         Tar Pitch  Gallons   Pounds      of        Rate/Gal.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20       Application   Emulsion   of Water  of Sand  Additives   Square Yard\par
+}\pard \li288\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 }{\plain \ul\fs20                                                                           \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \li288\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20       1st         100        45        800        5       0.20 - 0.30\par
+}\pard \li288\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20       2nd         100        45        800        5       0.20 - 0.30\par
+}\pard \li288\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20       3rd         100        30        -0-        3       0.15 - 0.20\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \ul\fs20 \tab                                                                           \par
+}{\plain \fs20 \par
+}{\plain \ul\fs20 PART 3:  EXECUTION}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 3.1  PREPARATION:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab Crack Sealing:  Cracks shall be routed to a depth of not less than 3/4 
+inch and not less than 1/2 inch in width.  The cracks shall then be 
+cleaned by blowing with compressed air.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab B.\tab Resurfacing:  Bituminous pavement surfaces which have been softened by 
+petroleum derivatives or have failed due to any other cause shall be 
+removed to the full depth of the damage and replaced with new 
+bituminous concrete coarser than that of the existing pavement.  Areas 
+of the pavement surface to be treated shall be in a firm consolidated 
+condition and sufficiently cured so that there is no concentration of 
+oils on the surface.  Areas that have been  subjected to fuel or oil 
+spillage shall be wire brushed to remove any accumulations.  The 
+accumulations removed by air blowing and the area primed with shellac 
+or a synthetic resin which will not allow the oil in the pavement to 
+bleed through to prevent disbonding of the protective coating.  Prior 
+to placing the sealcoat, the surface of the pavement shall be clean 
+and free from dust, dirt, or other loose foreign matter, grease, oil, 
+or any type of objectionable surface film.  The existing surface shall 
+be cleaned with a power blower and wire brushes, when approved by the 
+Contracting Officer.  Where vegetation exists in cracks, the 
+vegetation shall be removed and the cracks cleaned to a depth of two 
+inches.  These cracks shall be treated with a concentrated solution of 
+an approved herbicide. \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \fs20 3.2  APPLICATION:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab Crack Sealing:\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 1.\tab Crack Filling:  Cracks shall be sealed immediately following final 
+cleaning of the sides of the cracks.  The sides of the cracks 
+shall be surface dry, and the atmospheric and pavement 
+temperatures shall both be above 40 degrees F at the time of 
+installation of crack sealing materials.  Open cracks ready for 
+sealing that cannot be sealed under the conditions specified or 
+when rain interrupts filling operations,shall be blown out and 
+allowed to dry prior to installing the crack sealing materials.  
+Crack sealer shall be heated and applied at the temperature 
+specified by the manufacturer.  Cracks shall be filled with crack 
+sealer without formation of voids or entrapped air.  More than one 
+application of crack sealer may be necessary to fill cracks to the 
+required level.  Excess or spilled sealer shall be removed from 
+the pavement and discarded.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 2.\tab Weather Limitation:.  Crack repair materials shall not be applied 
+in wet cracks or where frost, snow or ice is present nor when the 
+ambient temperature is below 40 degrees F (4 degrees C).\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab B.\tab Resurfacing:\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 1.\tab Premixing:  When the emulsion and aggregate are blended, the 
+material shall be premixed to produce a slurry seal coat.  The 
+quantities of materials to be combined in each batch shall be 
+according to the proportions shown in Table 2.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 2.\tab Mixing:  Before application, the materials shall be proportioned 
+accurately and mixed by approved mixing equipment.  The emulsion 
+and the water are first charged into the mixer and blended to the 
+desired consistency.  Aggregate shall be added at a slow and 
+uniform rate while the mixing is continued, mineral aggregate and 
+the latex rubber additive shall then be added.  After all the 
+constituents are in the mixer, the mixing shall continue for 
+approximately five minutes longer.  The mixing shall produce a 
+smooth, free flowing, homogeneous mixture of uniform consistency.  
+Slow mixing shall be continuous from the time the bitumen is 
+placed into the mixer until the slurry is applied by distributor 
+truck or poured into the spreading equipment.  During the entire 
+mixing process, no breaking, segregating, or hardening of the 
+emulsion, nor balling, lumping, or swelling of the aggregate shall 
+be permitted.  When transit mixers are used, the drum shall be 
+rotated at its lowest possible speed.  The emulsion shall be 
+continuously circulated or agitated from the time it has been 
+mixed until its application on the pavement surface.  Spray bar 
+nozzles, pumps, or other equipment can be cleaned with coal-tar 
+toluene or xylene.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 3.\tab Application:  After the pavement surface has been inspected, the 
+coating shall be applied over the pavement in three applications 
+according to the method described below.  The emulsion shall be 
+thoroughly agitated before use and during use so that a 
+homogeneous consistency is assured for proper and uniform 
+application.  The slurry shall be applied at a uniform rate to 
+provide the desired amount.  Care shall be taken not to overload 
+the box with slurry but a sufficient quantity shall be maintained 
+to supply a feed against the full width of the squeegee. During 
+the application, surfaces of adjacent structures shall be 
+protected to prevent them from being spattered or marred.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-576\li2016\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 a.\tab Hand Method:  The emulsion shall be applied in two or three 
+coats in the amounts per square yard as stated in Table 2.  
+The material shall be poured in rows on the pavement and 
+spread with a squeegee or brush.  This procedure shall be 
+continued until the entire area is covered.  The first coat 
+shall be allowed to dry and cure sufficiently to prevent 
+pickup before the second coat is applied.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li2016\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab b.\tab Distributor or Applicator:  When applied by distributor or 
+approved applicator, the emulsion shall be applied uniformly 
+to the surface of the pavement at the prescribed pressures 
+and in the amounts per square yard as specified in Table 2.  
+The first application shall be cured sufficiently to drive 
+over without damage before the second application is applied.  
+In areas inaccessible to the distributor application may be 
+by the hand method.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 4.\tab Curing:  The applied emulsion sealcoat shall be allowed to cure 
+for not less than four hours between coats and not less than 
+forty-eight hours after the 3rd coat, during which time all 
+traffic shall be excluded from the area that has been sealed.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-1152\li1440\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 5.\tab Weather Limitations:  The tar emulsion seal coat shall not be 
+applied when the weather is foggy or when rain threatens, nor when 
+the atmospheric or pavement temperature is below 50 degrees F, 
+unless otherwise approved by the Contracting Officer. \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \fs20 3.3  FIELD QUALITY CONTROL:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab Sampling and Testing:  The Government will test all materials and bear 
+such costs; except, the Contractor will bear the costs of retesting 
+when required by initial failure of materials or work to meet 
+specified requirements.  The Government will order all tests.  The 
+Contractor shall cooperate with personnel gathering samples for tests.\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \ul\fs20 PART 4:  MEASUREMENT AND PAYMENT}{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 4.1  METHOD OF MEASUREMENT:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab Units:  [The work described in this section will not be measured for 
+payment.]  [Crack sealing will be measured and paid for [on a lump sum 
+basis.] [by the linear foot of crack routed, cleaned, and sealed 
+measured along the ground surface of the crack sealed.]  [Resurfacing 
+will be measured and paid for [on a lump sum basis.]  [by the square 
+yard.]  [One measurement will be made to include all applications of 
+coal-tar pitch emulsion seal coat.]  [Mineral Aggregate shall be 
+included in the per square yard measurement of quantities.]\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \fs20 4.2  BASIS OF PAYMENT:\par
+}{\plain \fs20 \par
+}\pard \fi-864\li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab A.\tab Payment:  [No direct payment for the work described under this section 
+will be made.  The Contractor shall include consideration for this 
+item in the bid price for other items of the Contract.]  [Prices and 
+payment will be full compensation for the work described in this 
+section.  Payment will be made under:]\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \fi-2880\li3744\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 }{\plain \ul\fs20 Pay Item\tab \tab \tab \tab \tab \tab \tab \tab \tab \tab Pay Unit}{\plain \fs20 \par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}\pard \li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 17361(1)  Crack Sealing. . . . . . . . . . . . . . . Lump Sum\par
+}\pard \li864\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 17361(2)  Crack Sealing. . . . . . . . . . . . . . . Linear Foot\par
+}\pard \li288\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 17361(11)  Resurfacing (Coal-Tar Pitch Emulsion) . . Lump Sum\par
+}\pard \li288\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \tab 17361(12)  Resurfacing (Coal-Tar Pitch Emulsion) . . Square Yard\par
+}\pard \sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 \par
+}{\plain \fs20 \par
+}{\plain \fs20 \par
+}\pard \qc\sl0\tx288\tx864\tx1440\tx2016\tx2592\tx3168\tx3744\tx4320\tx4896\tx5472\tx6048\tx6624\tx7200\tx7776\tx8352\tx8928\tx9504\tx10080\tx10656 
+{\plain \fs20 END OF SECTION\par
+}}

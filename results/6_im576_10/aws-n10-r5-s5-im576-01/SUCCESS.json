@@ -1,0 +1,1 @@
+{"authorized":5,"batch":"0xcd60eaeb3edf34148b9b473aeace599083da873c5d6da7f3db7178c66d371fb6","csv_sha256":"2ada795fda521b09d80331b4ba9d91feae64d438f3cdafedced8fbef032c7467","fresh_parallel_measurements":true,"note":"Correctness success. Inspect phase_attempt rows and key_stage reuse flag before treating this as a fresh performance trial.","receivers":5,"records":10}

@@ -1,0 +1,11 @@
+{
+  "action": "deploy",
+  "block_hash": "0x9a5af022f7faef22881d1779482f3d806cd943eb216af63cba885686feac82d5",
+  "block_number": 488,
+  "first_attempt_to_confirmations_s": 12.07925820350647,
+  "gas_used": 753925,
+  "input_bytes": 4700,
+  "signed_transaction_bytes": 4789,
+  "transaction_fee_wei": 753925001507850,
+  "tx_hash": "0x363945787f91b387c5069a4566113ef611c25c30b61498dabcf4300ec85337eb"
+}

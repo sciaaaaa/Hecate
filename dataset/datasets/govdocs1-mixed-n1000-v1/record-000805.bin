@@ -1,0 +1,300 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>National Pipeline Mapping System (NPMS)</title>
+<link rel="stylesheet" href="stylesheets/primarycss.css" type="text/css">
+<script language="JavaScript" TYPE="text/javascript" src="imageop.js"></script>
+
+<script type="text/javascript">
+function popitup(url)
+{
+	newwindow=window.showModalDialog(url,'','dialogHeight:360px;dialogWidth:570px;dialogTop:200;dialogLeft:170;titlebar:no;help:no;toolbars:no;scrollbars:no;status:no;resizable:no;');
+	return false;
+}
+</script>
+
+<style type="text/css">
+<!--
+.style1 {
+	color: #FF0000;
+	font-weight: bold;
+	font-size: medium;
+}
+-->
+</style>
+</head>
+<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/button_07_on.gif','images/on_datareq.png','images/on_subs.png','images/on_pimma.png','images/on_about.png')"><!-- begin banner -->
+
+  	 <form action="search/search.asp" method="post">
+	 <table width="763" cellpadding="0" cellspacing="0" border="0" >
+  <tr>
+    <td width="553" rowspan="3" align="left" valign="top"><IMG height=85 alt="National Pipeline Mapping System" src="images/top_all1.jpg" width=553 useMap=#Map border=0></td>
+    <td colspan="2" align="left" valign="top"><A href="../"><IMG height=10 alt="National Pipeline Mapping System" src="images/top_R_bar.jpg" width=209 border=0></A></td>
+  </tr>
+  <tr>
+    <td width="161" height="20" align="left" valign="center" background="images/search_back.png"> <div align="center"><A onmouseover="MM_swapImage('button_07','','images/button_07_on.gif',1)" onmouseout=MM_swapImgRestore() href="search/search.asp">
+        </A><A onmouseover="MM_swapImage('button_07','','images/button_07_on.gif',1)" onmouseout=MM_swapImgRestore() href="search/search.asp">
+        </A>
+        <input ID="search" NAME="SearchString" SIZE="15" MAXLENGTH="100" class="search_input" alt="NPMs Search"></div>
+    </td>
+    <td width="49" align="left" valign="center"><input type="image" src="images/search_go.gif" width="40" height="25" border="0" alt="Go Search" name="search_go"    
+      onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('search_go','','images/search_go_on.gif',1)" 
+     ><IMG height=25 alt="NPMS Background" src="images/banner_d.gif" width=8></td>
+  </tr>
+  <tr>
+    <td height="50" colspan="2" align="left" valign="top"><IMG height=50 alt="NPMS Background" src="images/top_R_bottom.jpg" width=209></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left" valign="top"><IMG height=55 alt="NPMS Background" src="images/left_bar_filler.png" width=362><A
+    onmouseover="MM_swapImage('About','','images/on_about.png',1)" onmouseout=MM_swapImgRestore() href="application.asp?tact=npms&amp;page=subapp.asp?app=aboutnpms&amp;act=about" ><IMG height=55 alt="About NPMS" src="images/off_about.png" width=100 border=0 name=About></A><A
+    onmouseover="MM_swapImage('PIMMA','','images/on_pimma.png',1)" onmouseout=MM_swapImgRestore() href="application.asp?tact=pimma&amp;page=pimma/about_pimma.htm" ><IMG height=55 alt=PIMMA src="images/off_pimma.png" width=100 border=0 name=PIMMA></A><A
+    onmouseover="MM_swapImage('submission','','images/on_subs.png',1)" onmouseout=MM_swapImgRestore() href="application.asp?tact=Submission&amp;page=subapp.asp?app=submissions&amp;act=sub_reqs" ><IMG height=55 alt="Making a Submission" src="images/off_subs.png" width=100 border=0 name=submission></A><A
+    onmouseover="MM_swapImage('data req','','images/on_datareq.png',1)" onmouseout=MM_swapImgRestore() href="application.asp?tact=Data&amp;page=subapp.asp?app=data&amp;act=data_req" ><IMG height=55 alt="Data requestes and downloads" src="images/off_datareq.png" width =100 border=0 name="data req" ></A><A onmouseover="MM_swapImage('About','','images/on_about.png',1)" onmouseout=MM_swapImgRestore() href="aboutnpms/about.htm"></A></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left" valign="top"><IMG height=10 alt=Banner src="images/banner_i.gif" width=762 border=0></td>
+  </tr>
+
+</table>  </form><!-- end banner -->
+<a name="skiptopnav"></a>
+<div style="MARGIN-LEFT: 10px"><!-- begin content wrapper -->
+  <table width="740" height="420" border="0" cellpadding="0" cellspacing="0" ><!--DWLayoutTable-->
+    <tr>
+      <td width="160" height="420" align="left" valign="top"><p>&nbsp;</p>
+        <table width="160" cellpadding="0" cellspacing="0" border="0" ><!--DWLayoutTable-->
+          <tr>
+            <td align="left" valign="top" colspan=3><IMG height=10 alt=Banner src="images/lc_top_empty.gif" width=160></td>
+          </tr>
+          <tr>
+            <td width="10" height="205" align="left" valign="top" background="images/lc_edge_lef.gif"><A href="#skipside"><IMG height=1 alt="Skip side navigation" src="../../images/spacer.gif" width =10 border=0 ></A></td>
+            <td width="140" align="left" valign="top"> <table width="140" cellpadding="0" cellspacing="0" border="0" bgcolor="#f5f5e5" 
+           ><!--DWLayoutTable-->
+                <tr>
+                  <td width="140" height="205" align="left" valign="top"><!-- begin text -->
+                    <table cellpadding="0" cellspacing="0" border="0" width="100%" ><!--DWLayoutTable-->
+                      <tr>
+                        <td width="10" height="10" valign="top"><IMG height=10 alt=bullet src="images/bullet_blue_squ.gif" width=10></td>
+                        <td width="92" rowspan="2" valign="top">
+							<font color="#0000FF" face="Arial, Helvetica, sans-serif"><A class=left_nav_normal href="application.asp?tact=npms&amp;page=subapp.asp?app=aboutnpms&amp;act=public" >
+										About the NPMS Public Map Viewer</A></font>                          
+                          </td>
+                        <!--td width="4" colspan="2"><IMG alt="" src="images/new.gif" border=0 --></td>
+                       
+                      </tr>
+                      <tr>
+                        <td height="7"></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="5" colspan=3 valign="top">&nbsp;</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td width="10" height="10" valign="top"><IMG height=10 alt=bullet src="images/bullet_blue_squ.gif" width=10></td>
+                        <td width="92" rowspan="2" valign="top"><font color="#ff0000" face="Arial, Helvetica, sans-serif"><A class=left_nav_normal href="application.asp?tact=npms&amp;page=subapp.asp?app=aboutnpms&amp;act=whats_new" >
+                          What's New?</A></font></td>
+                        <td width="4"></td>
+                        <td width="3"></td>
+                      </tr>
+                      <tr>
+                        <td height="7"></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="5" colspan=3 valign="top">&nbsp;</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="10" valign="top"><IMG height=10 alt=bullet src="images/bullet_blue_squ.gif" width=10></td>
+                        <td colspan="2" rowspan="2" valign="top"><font face="Arial, Helvetica, sans-serif"><a href="http://opsweb.rspa.dot.gov/cfdocs/opsapps/pipes/search_operator.cfm" class="left_nav_normal" target=_top>Operator
+                          ID Search</a></font></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="2"></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="10" colspan=3 valign="top">&nbsp;</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="14" valign="top"><IMG height=10 alt=bullet src="images/bullet_blue_squ.gif" width=10></td>
+                        <td colspan="2" valign="top"><p><font face="Arial, Helvetica, sans-serif"><A class=left_nav_normal href="/submission/">Update Your<br>
+                        </A></font><font face="Arial, Helvetica, sans-serif"><A class=left_nav_normal href="/submission/">Submission Online</A></font></p>
+                        </td>
+                        <td></td>
+                      </tr>
+					   <tr>
+                        <td height="10" colspan=3 valign="top">&nbsp;</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="15" valign="top"><IMG height=10 alt=bullet src="images/bullet_blue_squ.gif" width=10></td>
+                        <td colspan="2" valign="top"><font face="Arial, Helvetica, sans-serif">
+						<a class="left_nav_normal" href="/Documents/Operator_Standards.pdf">NPMS Operator Standards
+						</a></font></td>
+                        <td></td>
+                      </tr>
+					  <tr>
+                        <td height="10" colspan=3 valign="top">&nbsp;</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="13" valign="top"><IMG height=10 alt=bullet src="images/bullet_blue_squ.gif" width=10></td>
+                        <td colspan="2" valign="top"><font face="Arial, Helvetica, sans-serif"><a href="http://199.107.71.25/npms/index.php" class="left_nav_normal">NPMS Submission FTP</a></font></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="10" colspan=3 valign="top">&nbsp;</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="26" valign="top"><IMG height=10 alt=bullet src="images/bullet_blue_squ.gif" width=10></td>
+                        <td colspan="2" valign="top"><font face="Arial, Helvetica, sans-serif"><A class=left_nav_normal href="/Documents/SubStatus.pdf">NPMS Operator Submission Status</A></font></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="10" colspan=3 valign="top">&nbsp;</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="26" valign="top"><IMG height=10 alt=bullet src="images/bullet_blue_squ.gif" width=10></td>
+                        <td colspan="2" valign="top"><font face="Arial, Helvetica, sans-serif"><A class=left_nav_normal href="/publicsearch">Find
+                          Who's Operating Pipelines in Your Area</A></font></td>
+                        <td></td>
+                      </tr>
+			    <tr>
+                        <td height="10" colspan=3 valign="top">&nbsp;</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td height="26" valign="top"><IMG height=10 alt=bullet src="images/bullet_blue_squ.gif" width=10></td>
+                        <td colspan="2" valign="top"><font face="Arial, Helvetica, sans-serif"><A class=left_nav_normal href="/Documents/NPMS resources.pdf">
+				Resources for Government Officials</A></font></td>
+                        <td></td>
+                      </tr>
+			    <tr>
+                        <td height="10" colspan=3 valign="top">&nbsp;</td>
+                        <td></td>
+                      </tr>
+			    <tr>
+                        <td height="26" valign="top"><IMG height=10 alt=bullet src="images/bullet_blue_squ.gif" width=10></td>
+                        <td colspan="2" valign="top"><font face="Arial, Helvetica, sans-serif"><A class=left_nav_normal href="/DataAccessPolicy/policy.htm">
+				Data Access Policy</A></font></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+		            <td height="13"></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table></td>
+                </tr>
+              </table></td>
+            <td width="10" align="left" valign="top" background="images/lc_edge_rig.gif"><IMG height=8 alt=bullet src="images/spacer.gif" width=10 border=0></td>
+          </tr>
+          <tr>
+            <td height="10" colspan=3 align="left" valign="top"><IMG height=10 alt=Background src="images/lc_bottom.gif" width=160 border=0></td>
+          </tr>
+          <tr>
+            <td height="10" colspan=3 align="left" valign="top"><IMG height=10 alt=bullet src="images/spacer.gif" width=160 border=0></td>
+          </tr>
+          <tr>
+            <td height="10" colspan=3 align="left" valign="top"><IMG height=10 alt=Background src="images/lc_top_02.gif" width=160 border=0></td>
+          </tr>
+          <tr>
+            <td height="115" align="left" valign="top" background="images/lc_edge_lef.gif"><IMG height=1 alt=bullet src="images/spacer.gif" width=10 border=0></td>
+            <td align="left" valign="top" bgcolor="#f5f5e5"> <table cellpadding="0" cellspacing="0" border="0" bgcolor="#f5f5e5">
+                <tr>
+                  <td align="left" valign="top"><a href="http://www.dot.gov/"><IMG height=50 alt="Link to U.S. Department of Transportation" src  ="images/logo_dot.gif" width=138 border=0 ></a></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" colspan=3><IMG height=5 alt=bullet src="images/spacer.gif" width=1 border=0></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top"><a href="http://www.firstgov.gov/"><IMG height=50 alt="Link to FirstGov" src="images/logo_first_gov.gif" width =138 border=0 ></a></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" colspan=3><IMG height=10 alt=bullet src="images/spacer.gif" width=1 border=0></td>
+                </tr>
+              </table></td>
+            <td align="left" valign="top" background="images/lc_edge_rig.gif"><IMG height=8 alt=background src="images/spacer.gif" width=10 border=0></td>
+          </tr>
+          <tr>
+            <td height="10" colspan=3 align="left" valign="top"><IMG height=10 alt=Background src="images/lc_bottom.gif" width=160 border=0></td>
+          </tr>
+        </table></td>
+      <td width=10 align="left" valign="top"><IMG height=1 alt=background src="images/spacer.gif" width=10 border=0></td>
+      <td width="560" align="left" valign="top">
+		<p>&nbsp;&nbsp;&nbsp;</p>
+		<table width="507px" align="center">
+					<tr>
+						<td align="center">
+							<a alt="Public Map Viewer" target="_blank" href="/searchp/newlogin.asp?search=Pub"><IMG alt="Public Map Viewer" src="images/public.png" border=0 ></a>
+						</td>
+					</tr>					
+		</table>
+        <p align="center"><IMG style="LEFT: 23px; TOP: 44px" height=324 alt="PIMMA Graphic" src="images/default_pimma.png" width=507 useMap=#Map2 border=0 ></p>
+		<table width="507px" align="center">
+					<tr>
+						<td align="center">
+							<a alt="Download PDF PipeLine Map" target="_blank" href="/Documents/NPMS_Pipelines.pdf"><IMG alt="Download PDF PipeLine Map" src="images/download_pdf_pipeline_map.png" border=0 ></a>
+						</td>
+					</tr>								
+		</table>
+		
+		
+	<!--	<table width="507px" align="center">
+			<tr>
+				<td colspan="2" align="center" valign="top"><font face="Arial, Helvetica, sans-serif" color="red"><A class=left_nav_normal>We are conducting maintenance 
+				on the system. Users may experience service interruptions during this time.
+				We apologize for any inconvenience.</A></font></td>
+			</tr>	
+		</table> 	-->	
+	
+
+	  </td>
+      <td width=10 align="left" valign="top"><IMG height=1 alt=background src="images/spacer.gif" width=10 border=0></td>
+    </tr>
+
+  </table>
+</div>
+<div style="MARGIN-LEFT: 10px">
+<table width="740" height="44" border="0" cellpadding="0" cellspacing="0" >
+    <tr>
+      <td height="13" align="left" valign="top" class="footer_normal"><div align="left">&nbsp;&nbsp;<A class=foot_nav_strong href="../default.htm">Home</A> &nbsp;|&nbsp;<A
+      class=foot_nav_strong href="application.asp?tact=npms&amp;page=subapp.asp?app=aboutnpms&amp;act=contactdirectory">Contact</A> &nbsp;|&nbsp;<A
+      class=foot_nav_strong href="application.asp?tact=npms&amp;page=subapp.asp?app=aboutnpms&amp;act=faqs">FAQ</A></div></td>
+      <td align="right" valign="top" class="footer_normal"><A class=foot_nav_strong href="/privacy.html">Privacy
+        Policy</A>&nbsp;|&nbsp;<a href="http://ops.dot.gov/common/foia.htm" class="foot_nav_strong">FOIA</a></td>
+    </tr>
+    <tr valign="bottom">
+      <td height="13" colspan=2 align="left" class="footer_normal">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top" colspan="2"><IMG height=10 alt=background src="images/spacer.gif" width=1 border=0><span class="footer_normal">All Rights Reserved - <a href="http://www.phmsa.dot.gov" class="foot_nav_normal">PHMSA - Pipeline and Hazardous Materials Safety Administration</a> - 2007</span></td>
+    </tr>
+  </table><!-- end footer wrapper -->
+</div>
+<map name="Map">
+  <area shape="RECT" coords="230,9,274,35" href="default.htm" alt="Link to NPMS">
+  <area shape="RECT" coords="273,10,354,34" href="http://www.phmsa.dot.gov" alt="Link to PHMSA">
+  <area shape="RECT" coords="354,11,427,34" href="http://ops.dot.gov" alt="Link to OPS">
+  <area shape="RECT" coords="427,10,486,34" href="aboutnpms/contactdirectory.htm" alt="Link to Contact Directory">
+</map>
+<map name="Map2">
+  <area shape="RECT" coords="14,206,191,231" onclick   ="return popitup('/searchp/search.asp?search=Op')" href="/searchp/search.asp?search=Op&amp;warn=f" target="_blank" alt="Pipeline Operator Login">
+  <area shape="RECT" coords="13,246,211,270" onclick   ="return popitup('/searchp/search.asp?search=Fed')" href="/searchp/search.asp?search=Fed&amp;warn=f" target="_blank" alt="Federal Government Login">
+  <area shape="RECT" coords="14,287,265,310" onclick   ="return popitup('/searchp/search.asp?search=St')" href="/searchp/search.asp?search=St&amp;warn=f" target="_blank" alt="State and Local Government Login">
+  <area shape="RECT" coords="317,29,488,76" href   ="application.asp?tact=pimma&amp;page=pimma/about_pimma.htm" alt="Apply for PIMMA Access">
+	
+</map>
+
+</body>
+</html>
+

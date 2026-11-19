@@ -1,0 +1,198 @@
+%!PS-Adobe-3.0
+%%BoundingBox: 54 360 558 720
+%%Title: Graphics produced by IDL
+%%For: SDAC::AMY, USER_DISK0:[AMY]
+%%Creator: IDL Version 3.6.1c (vms alpha)
+%%CreationDate: Wed Mar 22 18:12:50 1995
+%%DocumentData: Clean7bit
+%%LanguageLevel: 1
+%%PageOrder: Ascend
+%%Pages: (atend)
+%%DocumentNeededResources: (atend)
+%%EndComments
+%%BeginProlog
+%+ prolog.ps -- Prolog for IDL generated PostScript files
+%+ Copyright (c) 1988-1993 Research Systems, Inc. All Rights Reserved.
+%v 3
+save /$IDL_DICT 40 dict def $IDL_DICT begin /bdef { bind def } bind def /C
+{currentpoint newpath moveto} bdef /CP {currentpoint} bdef /D {currentpoint
+stroke moveto} bdef /F {closepath fill} bdef /K { setgray } bdef /M {moveto}
+bdef /N {rmoveto} bdef /P {lineto} bdef /R {rlineto} bdef /S {gsave show
+grestore} bdef /X {currentpoint pop} bdef /Z {gsave currentpoint lineto 20
+setlinewidth 1 setlinecap stroke grestore} bdef /L0 {[] 0 setdash} bdef /L1
+{[40 100] 0 setdash} bdef /L2 {[200 200] 0 setdash} bdef /L3 {[200 100 50
+100] 0 setdash} bdef /L4 {[300 100 50 100 50 100 50 100] 0 setdash} bdef /L5
+{[400 200] 0 setdash} bdef /STDFONT { findfont exch scalefont setfont } bdef
+/ISOFONT { findfont dup length dict begin { 1 index /FID ne {def} {pop pop}
+ifelse } forall /Encoding ISOLatin1Encoding def currentdict end /idltmpfont
+exch definefont exch scalefont setfont } bdef /ISOBULLET { gsave /Helvetica
+findfont exch scalefont setfont (\267) show currentpoint grestore moveto}
+bdef end 2.5 setmiterlimit
+%%EndProlog
+%%Page: 0 1
+%%PageResources: (atend)
+%%PageOrientation: Portrait
+%%PageBoundingBox: 54 360 558 720
+%%BeginPageSetup
+save $IDL_DICT begin 54 360 translate 0.0283465 dup scale
+%%IncludeResource: font Helvetica
+423.333 /Helvetica STDFONT
+%%EndPageSetup
+0.000 K gsave 9610 12300 translate 0 0 M 1.0147 dup scale -3093.93 0 N
+(DISCLA Rates \(1.024 s average\)) show grestore 10 setlinewidth L0
+2342 2857 M 14537 0 R D 4933 2857 M 0 185 R D
+gsave 4933 2428 translate 0 0 M 0.811761 dup scale -823.807 0 N
+(18:57:30) show grestore 7840 2857 M 0 185 R D
+gsave 7840 2428 translate 0 0 M 0.811761 dup scale -823.807 0 N
+(18:58:00) show grestore 10747 2857 M 0 185 R D
+gsave 10747 2428 translate 0 0 M 0.811761 dup scale -823.807 0 N
+(18:58:30) show grestore 13655 2857 M 0 185 R D
+gsave 13655 2428 translate 0 0 M 0.811761 dup scale -823.807 0 N
+(18:59:00) show grestore 16562 2857 M 0 185 R D
+gsave 16562 2428 translate 0 0 M 0.811761 dup scale -823.807 0 N
+(18:59:30) show grestore 2995 2857 M 0 93 R D 3964 2857 M 0 93 R D
+5902 2857 M 0 93 R D 6871 2857 M 0 93 R D 8809 2857 M 0 93 R D 9778 2857 M
+0 93 R D 11716 2857 M 0 93 R D 12686 2857 M 0 93 R D 14624 2857 M 0 93 R D
+15593 2857 M 0 93 R D 2342 12128 M 14537 0 R D 4933 12128 M 0 -185 R D
+7840 12128 M 0 -185 R D 10747 12128 M 0 -185 R D 13655 12128 M 0 -185 R D
+16562 12128 M 0 -185 R D 2995 12128 M 0 -93 R D 3964 12128 M 0 -93 R D
+5902 12128 M 0 -93 R D 6871 12128 M 0 -93 R D 8809 12128 M 0 -93 R D
+9778 12128 M 0 -93 R D 11716 12128 M 0 -93 R D 12686 12128 M 0 -93 R D
+14624 12128 M 0 -93 R D 15593 12128 M 0 -93 R D 2342 2857 M 0 9271 R D
+2342 2857 M 291 0 R D gsave 2252 2857 translate 0 0 M 0.811761 dup scale
+-1082.46 0 N
+(-1000) show grestore 2342 5175 M 291 0 R D gsave 2252 5060 translate 0 0 M
+0.811761 dup scale -235.373 0 N
+(0) show grestore 2342 7493 M 291 0 R D gsave 2252 7378 translate 0 0 M
+0.811761 dup scale -941.493 0 N
+(1000) show grestore 2342 9810 M 291 0 R D gsave 2252 9696 translate 0 0 M
+0.811761 dup scale -941.493 0 N
+(2000) show grestore 2342 12128 M 291 0 R D gsave 2252 11928 translate 0 0 M
+0.811761 dup scale -941.493 0 N
+(3000) show grestore 2342 3089 M 146 0 R D 2342 3321 M 146 0 R D 2342 3552 M
+146 0 R D 2342 3784 M 146 0 R D 2342 4016 M 146 0 R D 2342 4248 M 146 0 R D
+2342 4479 M 146 0 R D 2342 4711 M 146 0 R D 2342 4943 M 146 0 R D
+2342 5407 M 146 0 R D 2342 5638 M 146 0 R D 2342 5870 M 146 0 R D
+2342 6102 M 146 0 R D 2342 6334 M 146 0 R D 2342 6565 M 146 0 R D
+2342 6797 M 146 0 R D 2342 7029 M 146 0 R D 2342 7261 M 146 0 R D
+2342 7724 M 146 0 R D 2342 7956 M 146 0 R D 2342 8188 M 146 0 R D
+2342 8420 M 146 0 R D 2342 8651 M 146 0 R D 2342 8883 M 146 0 R D
+2342 9115 M 146 0 R D 2342 9347 M 146 0 R D 2342 9579 M 146 0 R D
+2342 10042 M 146 0 R D 2342 10274 M 146 0 R D 2342 10506 M 146 0 R D
+2342 10737 M 146 0 R D 2342 10969 M 146 0 R D 2342 11201 M 146 0 R D
+2342 11433 M 146 0 R D 2342 11665 M 146 0 R D 2342 11896 M 146 0 R D
+gsave 1104 7493 translate 0 0 M 90 rotate 0.811761 dup scale -1989.43 0 N
+(counts \(s 2000 cm) show X 192.937 M
+%%IncludeResource: font Helvetica
+262.467 /Helvetica STDFONT
+(2) show X 0 M
+%%IncludeResource: font Helvetica
+423.333 /Helvetica STDFONT
+(\)) show X 192.937 M
+%%IncludeResource: font Helvetica
+262.467 /Helvetica STDFONT
+(-1) show grestore
+%%IncludeResource: font Helvetica
+423.333 /Helvetica STDFONT 16879 2857 M 0 9271 R D 16879 2857 M -291 0 R D
+16879 5175 M -291 0 R D 16879 7493 M -291 0 R D 16879 9810 M -291 0 R D
+16879 12128 M -291 0 R D 16879 3089 M -146 0 R D 16879 3321 M -146 0 R D
+16879 3552 M -146 0 R D 16879 3784 M -146 0 R D 16879 4016 M -146 0 R D
+16879 4248 M -146 0 R D 16879 4479 M -146 0 R D 16879 4711 M -146 0 R D
+16879 4943 M -146 0 R D 16879 5407 M -146 0 R D 16879 5638 M -146 0 R D
+16879 5870 M -146 0 R D 16879 6102 M -146 0 R D 16879 6334 M -146 0 R D
+16879 6565 M -146 0 R D 16879 6797 M -146 0 R D 16879 7029 M -146 0 R D
+16879 7261 M -146 0 R D 16879 7724 M -146 0 R D 16879 7956 M -146 0 R D
+16879 8188 M -146 0 R D 16879 8420 M -146 0 R D 16879 8651 M -146 0 R D
+16879 8883 M -146 0 R D 16879 9115 M -146 0 R D 16879 9347 M -146 0 R D
+16879 9579 M -146 0 R D 16879 10042 M -146 0 R D 16879 10274 M -146 0 R D
+16879 10506 M -146 0 R D 16879 10737 M -146 0 R D 16879 10969 M -146 0 R D
+16879 11201 M -146 0 R D 16879 11433 M -146 0 R D 16879 11665 M -146 0 R D
+16879 11896 M -146 0 R D 2427 5504 M 49 0 R 0 214 R 49 0 R 50 0 R 0 -323 R
+50 0 R 50 0 R 0 283 R 49 0 R 50 0 R 0 -186 R 49 0 R 50 0 R 0 48 R 50 0 R
+49 0 R 0 -114 R 49 0 R 50 0 R 0 212 R 50 0 R 49 0 R 0 -295 R 50 0 R 50 0 R
+0 224 R 49 0 R 50 0 R 0 -222 R 49 0 R 50 0 R 0 42 R 49 0 R 50 0 R 0 183 R
+50 0 R 50 0 R 0 -203 R 49 0 R 50 0 R 0 -249 R 50 0 R 50 0 R 0 215 R 49 0 R
+50 0 R 0 212 R 49 0 R 50 0 R 0 -194 R 49 0 R 50 0 R 0 -63 R 49 0 R 50 0 R
+0 -313 R 50 0 R 49 0 R 0 291 R 50 0 R 50 0 R 0 -250 R 49 0 R 50 0 R 0 293 R
+49 0 R 50 0 R 0 -32 R 49 0 R 50 0 R 0 29 R 50 0 R 49 0 R 0 -190 R 50 0 R
+50 0 R 0 95 R 50 0 R 50 0 R 0 48 R 49 0 R 50 0 R 0 -73 R 49 0 R 50 0 R
+0 121 R 49 0 R 50 0 R 0 -1 R 49 0 R 50 0 R 0 -196 R 50 0 R 49 0 R 0 80 R
+49 0 R 51 0 R 0 -32 R 49 0 R 50 0 R 0 136 R 49 0 R 50 0 R 0 80 R 49 0 R
+50 0 R 0 -137 R 50 0 R 49 0 R 0 -208 R 49 0 R 51 0 R 0 241 R 49 0 R 49 0 R
+0 -208 R 50 0 R 50 0 R 0 163 R 50 0 R 50 0 R 0 -245 R 49 0 R 50 0 R 0 46 R
+49 0 R 50 0 R 0 -33 R 50 0 R 50 0 R 0 290 R 48 0 R 50 0 R 0 -206 R 50 0 R
+50 0 R 0 86 R 49 0 R 50 0 R 0 190 R 49 0 R 50 0 R 0 -446 R 49 0 R 50 0 R
+0 135 R 49 0 R 50 0 R 0 85 R 50 0 R 49 0 R 0 -117 R 50 0 R 50 0 R 0 158 R
+49 0 R 50 0 R 0 -98 R 49 0 R 50 0 R 0 88 R 50 0 R 50 0 R 0 -46 R 49 0 R
+50 0 R 0 -112 R 49 0 R 50 0 R 0 55 R 50 0 R 50 0 R 0 -128 R 49 0 R 50 0 R
+0 185 R 49 0 R 50 0 R 0 66 R 49 0 R 50 0 R 0 53 R 49 0 R 50 0 R 0 -20 R
+50 0 R 50 0 R 0 -34 R 49 0 R 50 0 R 0 -64 R 49 0 R 50 0 R 0 110 R 49 0 R
+50 0 R 0 -13 R 49 0 R 50 0 R 0 116 R 50 0 R 49 0 R 0 -74 R 50 0 R 50 0 R
+0 156 R 50 0 R 50 0 R 0 -73 R 48 0 R 51 0 R 0 712 R 49 0 R 50 0 R 0 -303 R
+49 0 R 50 0 R 0 -114 R 49 0 R 50 0 R 0 -334 R 50 0 R 50 0 R 0 28 R 48 0 R
+50 0 R 0 180 R 50 0 R 50 0 R 0 -426 R 49 0 R 50 0 R 0 298 R 49 0 R 50 0 R
+0 -190 R 50 0 R 49 0 R 0 -12 R 49 0 R 50 0 R 0 147 R 50 0 R 50 0 R 0 -167 R
+49 0 R 50 0 R 0 424 R 50 0 R 50 0 R 0 -484 R 49 0 R 50 0 R 0 51 R 49 0 R
+50 0 R 0 -25 R 49 0 R 51 0 R 0 -19 R 48 0 R 50 0 R 0 -193 R 50 0 R 50 0 R
+0 260 R 49 0 R 50 0 R 0 -63 R 49 0 R 50 0 R 0 214 R 49 0 R 50 0 R 0 -147 R
+49 0 R 50 0 R 0 243 R 50 0 R 50 0 R 0 -318 R 49 0 R 50 0 R 0 155 R 49 0 R
+50 0 R 0 -308 R 50 0 R 50 0 R 0 413 R 49 0 R 50 0 R 0 -337 R 49 0 R 50 0 R
+0 390 R 49 0 R 50 0 R 0 -345 R 50 0 R 50 0 R 0 377 R 49 0 R 50 0 R 0 -218 R
+49 0 R 50 0 R 0 -168 R 49 0 R 50 0 R 0 207 R 49 0 R 50 0 R 0 -31 R 50 0 R
+50 0 R 0 126 R 49 0 R 50 0 R 0 -86 R 49 0 R 50 0 R 0 -187 R 49 0 R 50 0 R
+0 234 R 49 0 R 50 0 R 0 -76 R 50 0 R 50 0 R 0 203 R 49 0 R 50 0 R 0 -190 R
+50 0 R 50 0 R 0 185 R 48 0 R 50 0 R 0 -305 R 50 0 R 50 0 R 0 202 R 49 0 R
+50 0 R 0 67 R 49 0 R 50 0 R 0 -83 R 50 0 R 50 0 R 0 239 R 48 0 R 50 0 R
+0 -87 R 50 0 R 50 0 R 0 -60 R 49 0 R 50 0 R 0 181 R 49 0 R 50 0 R 0 -266 R
+49 0 R 50 0 R 0 343 R 49 0 R 50 0 R 0 -105 R 50 0 R 51 0 R 0 -83 R 48 0 R
+50 0 R 0 114 R 50 0 R 50 0 R 0 -6 R 49 0 R 50 0 R 0 -27 R 49 0 R 50 0 R
+0 225 R 49 0 R 50 0 R 0 107 R 49 0 R 50 0 R 0 -365 R 50 0 R 50 0 R 0 132 R
+49 0 R 50 0 R 0 -100 R 49 0 R 50 0 R 0 105 R 49 0 R 50 0 R 0 195 R 49 0 R
+50 0 R 0 325 R 50 0 R 50 0 R 0 192 R 49 0 R 50 0 R 0 1514 R 50 0 R 50 0 R
+0 72 R 49 0 R 50 0 R 0 -772 R 49 0 R 50 0 R 0 -588 R 49 0 R 50 0 R 0 50 R
+49 0 R 50 0 R 0 2221 R 50 0 R 50 0 R 0 2266 R 49 0 R 50 0 R 0 773 R 49 0 R D
+gsave 2342 1968 translate 0 0 M 0.913231 dup scale
+(Data Start: 92/10/26, 1857:03.266    Current: 95/03/22, 1812) show grestore
+gsave 2342 1647 translate 0 0 M 0.913231 dup scale
+(LAD  Geometric Area cm) show X 192.937 M
+%%IncludeResource: font Helvetica
+262.467 /Helvetica STDFONT
+(2) show grestore
+%%IncludeResource: font Helvetica
+423.333 /Helvetica STDFONT gsave 2342 1325 translate 0 0 M
+0.913231 dup scale
+( 3     1688 \(83%\)) show grestore gsave 2342 1004 translate 0 0 M
+0.913231 dup scale
+( 2     1495 \(74%\)) show grestore gsave 2342 682 translate 0 0 M
+0.913231 dup scale grestore gsave 7188 1968 translate 0 0 M
+0.913231 dup scale grestore gsave 7188 1647 translate 0 0 M
+0.913231 dup scale
+(Channels:  0 1 \(25.0 - 100.0 keV\)) show grestore
+gsave 7188 1325 translate 0 0 M 0.913231 dup scale
+(Background subtracted) show grestore gsave 7188 1004 translate 0 0 M
+0.913231 dup scale
+(Average LAD rates weighted by effective area) show grestore 2342 2857 M
+14537 0 R D gsave 11791 10459 translate 0 0 M 0.811761 dup scale
+(Flare 3367) show grestore gsave 11791 10142 translate 0 0 M
+0.811761 dup scale
+(1418 counts / 2000 cm) show X 192.937 M
+%%IncludeResource: font Helvetica
+262.467 /Helvetica STDFONT
+(2) show grestore
+%%IncludeResource: font Helvetica
+423.333 /Helvetica STDFONT 8157 11433 M 0 232 R D
+gsave 8157 11242 translate 0 0 M 0.710291 dup scale
+(F) show grestore 8157 11549 M 2907 0 R D 11064 11433 M 0 232 R D
+4281 11433 M 0 232 R D gsave 4280 11242 translate 0 0 M 0.710291 dup scale
+(B) show grestore 4281 11549 M 3682 0 R D 7963 11433 M 0 232 R D
+11199 11433 M 0 232 R D gsave 11200 11242 translate 0 0 M 0.710291 dup scale
+(B) show grestore 11199 11549 M 1357 0 R D 12556 11433 M 0 232 R D
+%%PageTrailer
+showpage
+end restore
+%%PageResources: font Helvetica
+%%Trailer
+restore
+%%Pages: 1
+%%DocumentNeededResources: font Helvetica
+%%EOF

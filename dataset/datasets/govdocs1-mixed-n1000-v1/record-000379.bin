@@ -1,0 +1,643 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+	<meta name="description" content="Home page of U.S. Rep. Jay Inslee, First District State of Washington.  Useful information about the First District, and activities in the 106th Congress.">
+	<meta name="keywords" content="congress, inslee, jay, washington, privacy, bainbridge island, kitsap, king county, snohomish, lynnwood, redmond, mountlake terrace, edmonds, bothell, kirkland, poulsbo, bremerton, mill creek, duvall, kenmore, woodinville, monroe, mukilteo, silverdale, hansville, keyport, kingston, seabeck, washington d.c., privacy, environment, energy, renewable energy, pipeline, baggage, medicare, representative, government">
+	<title>Legislative Issues - Pipeline</title>
+	<link rel="stylesheet" type="text/css" href="../../css/simple.css">
+	<style type="text/css" media="all"><!--
+		@import "../../css/substyle.css";
+	//--></style>
+	<link rel="stylesheet" type="text/css" media="print" href="../../css/subprint.css">
+	<link rel="P3Pv1" href="http://www.house.gov/inslee/p3p/p3p.xml">
+	<script type="text/javascript"><!--
+		normal_photoalbum = new Image(1,0);
+		normal_photoalbum.src ="../../resources/graphics/photoalbum.gif";
+		over_photoalbum = new Image(1,1);
+		over_photoalbum.src="../../resources/graphics/photoalbum-over.gif";
+		normal_signup = new Image(2,0);
+		normal_signup.src ="../../resources/graphics/signup.gif";
+		over_signup = new Image(2,1);
+		over_signup.src="../../resources/graphics/signup-over.gif";
+		function chGraphic(imgModule,imgObject){
+		document.images[imgModule].src = eval(imgObject + ".src"); }
+	//--></script>
+</head>
+<body>
+<div ID="accessibility">
+	<a href="#nav">skip to navigation</a> | <a href="#main">skip to content</a>
+</div>
+<div ID="container1">
+  <div ID="portrait">
+		<img src="../../resources/photos/mastpic_issues.jpg" width="178" height="221" alt="Inslee listens to a constituent." />
+	</div>
+	<div ID="searchsite">
+		<form method="post" action="http://wwws.house.gov/search97cgi/s97_cgi?WA01">
+			<p><input type="hidden" name="Action" value="FilterSearch">
+			<input type="hidden" name="filter" value="member_srch_flt.hts">
+			<input type="hidden" name="Collection" value="members">
+			<input type="hidden" name="ResultTemplate" value="memberresult.hts">
+			<input type="hidden" name="ViewTemplate" value="memberview.hts">
+			<input type="hidden" name="SearchPage" value="/MemberSrch.html">
+			<input type="hidden" name="SourceQueryText" value="vdkvgwkey &lt;substring&gt; &quot;/wa01_inslee/&quot;">
+			<input type="hidden" name="SourceQueryText" value="vdkvgwkey &lt;substring&gt; &quot;/inslee/&quot;">
+			<label>search: 
+			<input name="QueryText" SIZE="18" tabindex="1">
+			</label>
+			<input name="Submit" type=submit tabindex="2" value="Go" alt="go">
+		  </p>
+		</form>
+	</div>
+	<div ID="masthead">
+		<img src="../../resources/graphics/masthead2.jpg" width="550px" height="111px" alt="Montage of Wing Point in Bainbridge Island and the Edmonds Ferry." />
+	</div>
+	<div ID="nav">
+<p /><ul class="level1">
+		
+        <li><a href="../../index.shtml">Home</a></li>
+		<li class="withsub"><a href="../../bio/index.html">About Jay</a>
+        <ul class="level2">
+        <li><a href="../../bio/bio.html">Biography</a></li>
+        <li><a href="../../bio/resume.html">Resume</a></li>
+        <li><a href="../../bio/accomplishments.html">Accomplishments</a></li>
+        </ul>
+		</li>
+		<li class="withsub"><a href="../../contact/index.html">Contact Jay</a>
+        <ul class="level3">
+        <li><a href="../../contact/email.html">E-mail</a></li>
+        <li><a href="../../contact/signup.html">Get e-mail updates</a></li>
+        <li><a href="../../contact/offices.html">Offices</a></li>
+        <li><a href="../../contact/directions.html">Directions</a></li>
+        <li><a href="../../contact/staff.html">Staff</a></li>
+        <li><a href="../../contact/schedule.html">Schedule a meeting</a></li>
+        </ul>
+		</li>
+		
+		<li class="withsub"><a href="../../services/index.html">Get assistance</a>
+			<ul class="level4">
+			<li><a href="../../services/faq.html">FAQ</a></li>
+            <li><a href="../../services/federal.html">Help with a federal agency</a></li>
+            <li><a href="../../services/resources.html">Federal resources</a></li>
+            <li><a href="../../services/register.html">Register to vote</a></li>
+			<li><a href="../../services/tours.html">Tours in Washington, D.C.</a></li>
+			<li><a href="../../services/flags.html">Flags</a></li>
+            <li><a href="../../services/grants.html">Grants</a></li>
+			<li><a href="../../services/academies.html">Service Academies</a></li>
+			<li><a href="../../services/internships.html">Internships</a></li>
+			<li><a href="../../services/refunds.html">Unclaimed tax refunds</a></li>
+		  </ul>
+		</li>
+            <li class="withsub"><a href="../../work/index.html">Jay's work in Congress</a>
+			  <ul class="level5">
+			<li><a href="../../work/committees.html">Committees</a></li>
+			<li><a href="../../work/bills.html">Bills sponsored</a></li>
+			<li><a href="../../work/record.html">Voting record</a></li>
+			<li><a href="../../work/votes.html">Key votes</a></li>
+			<li><a href="../../work/speeches.html">Speeches in the Congressional Record</a></li>
+			</ul>
+            </li>
+		<li class="withsub"><a href="../../issues/index.html">Issues</a>
+			<ul class="level6">
+			
+			<li><a href="../../issues/boeing/index.html">Boeing</a></li>
+			<li><a href="../../issues/education/index.html">Education</a></li>
+			<li><a href="../../issues/energy/index.html">Energy</a></li>
+			<li><a href="../../issues/environment/index.html">Environment</a></li>
+			<li><a href="../../issues/families/index.html">Families</a></li>
+			<li><a href="../../issues/environment/globalwarmingindex.html">Global warming</a></li>
+			<li><a href="../../issues/health/index.html">Health</a></li>
+			<li><a href="../../issues/iraq/index.html">Iraq</a></li>
+            <li><a href="../../issues/memorial/index.html">Japanese American memorial</a></li>
+			<li><a href="../../issues/media_ownership/index.html">Media ownership</a></li>
+			<li><a href="../../issues/microsoft/index.html">Microsoft</a></li>
+			<li><a href="../../issues/miscellaneous/index.html">Miscellaneous</a></li>
+			<li><a href="../../issues/security/index.html">National security</a></li>
+			<li><a href="../../issues/pipeline/index.html">Pipeline</a></li>
+			<li><a href="../../issues/privacy/index.html">Privacy</a></li>
+			<li><a href="../../issues/public_safety/index.html">Public safety</a></li>
+			<li><a href="../../issues/social_security/index.html">Social Security</a></li>
+			<li><a href="../../issues/technology/index.html">Technology</a></li>
+			<li><a href="../../issues/transportation/index.html">Transportation</a></li>
+			<li><a href="../../issues/veterans/index.html">Veterans</a></li>
+		  </ul>
+		</li>
+		<li class="withsub"><a href="../../press/index.html">Press</a>
+        <ul class="level7">
+        <li><a href="../../press/releases.html">Media releases</a></li>
+        <li><a href="../../press/multimedia.html">Multimedia</a></li>
+        <li><a href="../../press/columns.html">Columns</a></li>
+        <li><a href="../../press/interview.html">Request an interview</a></li>
+        <li><a href="../../press/photo.html">Official photo</a></li>
+        </ul>
+		</li>
+        <li class="withsub"><a href="../../district/index.html">About the 1st District</a>
+        <ul class="level8">
+        <li><a href="../../district/map.html">Map</a></li>
+        <li><a href="../../district/google.html">Google map</a></li>
+        <li><a href="../../district/description.html">Description</a></li>
+        <li><a href="../../district/census.html">Census information</a></li>
+        <li><a href="../../district/tourism.html">Tourism</a></li>
+        <li><a href="../../district/resources.html">State and local resources</a></li>
+        </ul>
+        </li>
+        <li class="withsub"><a href="../../congress/index.html">About Congress</a>
+        <ul class="level9">
+        <li><a href="../../congress/history.html">History</a></li>
+        <li><a href="../../congress/laws.html">How laws are made</a></li>
+        <li><a href="../../congress/floor.html">Currently on the House floor</a></li>
+        <li><a href="../../congress/watch.html">Watch the House floor</a></li>
+        <li><a href="../../congress/daily.html">Daily House schedule</a></li>
+        <li><a href="../../congress/weekly.html">Weekly House schedule</a></li>
+        <li><a href="../../congress/annual.html">Annual House schedule</a></li>
+        </ul>
+        </li>
+		<li><a href="../../privacy/index.html">Privacy policy</a></li>
+        <li><a href="../../site/index.html">Site map</a></li>
+        <li></li>
+	</ul>
+		<a href="../../photos/index.html" onMouseOver="chGraphic('photoalbum','over_photoalbum')" onMouseOut="chGraphic('photoalbum','normal_photoalbum')"><img name ="photoalbum" src="../../resources/graphics/photoalbum.gif" width="177" height="19" alt="Photo Album"></a><img src="../../resources/photos/navy.jpg" width="177" height="69" alt="Sailors on the U.S.S. Rodney M. Davis." />
+		
+        
+        
+        <a href="../../contact/signup.html" onMouseOver="chGraphic('signup','over_signup')" onMouseOut="chGraphic('signup','normal_signup')"><img name ="signup" src="../../resources/graphics/signup.gif" width="177" height="48" alt="sign up for Inslee Updates"></a>
+       
+   
+        
+        
+<!--
+
+<p>Get Inslee Updates:</p>
+<div class="signup">
+		<form method="post" action="/htbin/formproc/inslee/docs/signup_small.txt&amp;display=/inslee/contact/thankssignup.html">
+			<p><label>name: <br /><input name="required-NAME" SIZE="15" tabindex="3">
+			</label><br />
+			<label>e-mail: <br /><input name="required-EMAIL" SIZE="15" tabindex="4">
+			</label><br />
+			<label>address: <br /><input name="required-ADDRESS" SIZE="15" tabindex="5">
+			</label><br />
+			<label>city: <br /><input name="required-CITY" SIZE="15" tabindex="6">
+			</label><br />
+			<label>state: <br /><input name="required-STATE" SIZE="15" tabindex="7">
+			</label><br />
+			<label>zip code: <br /><input name="required-ZIP" SIZE="10" maxlength="5" tabindex="8">
+			</label><br />
+			<input type="image" src="resources/graphics/go_button.gif" size="25px" alt="go" tabindex="9" value="Go"></p>
+		</form>
+		</div>
+        
+	-->
+	</div>
+<div ID="main">
+		<div class="printonly">
+			<h1>Jay Inslee: <span class="shrink">Washington&#39;s 1st Congressional District</span></h1>
+		</div>
+		<div ID="crumbs">
+			<p><a href="../../index.shtml">Home</a> > <a href="../index.html"> Issues</a> > <span class="current">Pipeline</span></p>
+	</div>
+		<h2> Issues</h2>
+	<h5>Pipeline</h5>
+		<p class="para">On 10 June 1999, an oil pipeline ruptured in Bellingham, Wsh., resulting in the deaths of two children and one young man.  Since that date, Jay has been fighting a two-pronged battle to ensure that the pipelines running under our communities are safe.  He successfully has worked to ensure that the pipeline that exploded in Bellingham is water-pressure tested.  He also introduced strong pipeline safety legislation in the House, and has been working to get it enacted.</p>
+		<p class="aligncenter">[ <a href="factsheet.html">Fact Sheet on Pipeline Safety</a> ] [ <a href="map.html">Map of Pipeline</a> ]</p>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>House Passes Pipeline Safety Legislation</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 23 July 2002 ]</p>
+				<p>The U.S. House of Representatives voted tonight to pass improved pipeline safety legislation that contains a number of stronger regulations proposed by the House Energy and Commerce Committee.  <em>&quot;It appears that our decision to fight for a stronger bill than was offered in the last Congress has paid off,&quot;</em> said Inslee.</p>
+				<p><a href="floor_vote.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Pipeline Safety Moving Forward</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 13 February 2002 ]</p>
+				<p>Inslee continues to urge the House leadership to take action on U.S. Rep. Larsen's Pipeline Safety legislation.  Inslee is working with members of the Washington delegation and Transportation Committee members to move this legislation forward, because it has been in the House Transportation Committee for over one year without being considered for debate.</p>
+				<p><a href="02_13_02_photo.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Calling the House to Action</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td>
+				<p>[ 16 May 2001 ]</p>
+				<p>U.S. Reps. Inslee, Larsen, Sen. Murray Call for House Action</p>
+				<p><a href="dc.html">more...</a></p>
+				<hr />
+				<p>[ 14 May 2001 ]</p>
+				<p>Inslee, Local Mayors Demand Action in House of Representatives</p>
+				<p>[ <a href="renton_photo.html">See photos of this event</a> ]</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Pipeline Ruptures During Water Pressure Test</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 8 May 2001 ]</p>
+				<p>The result was a loss of approximately 100 barrels of water which soaked the nearby landscape and street.  While this may sound alarming, it is actually a great safety victory, because this weak spot was detected with water instead of gasoline or airplane fuel.  Mel Carpenter, who lives just adjacent to the pipeline told Inslee, <em>&quot;if this would have been jet fuel, my house would be gone right now.&quot;</em>  BP and their testing consultants are excavating the pipeline to investigate the cause of the failure.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Pipeline Safetly Legislation</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 8 February 2001 ]</p>
+				<p>Pipeline Safety Legislation Passes Senate</p>
+				<hr />
+				<p>[ 6 February 2001 ]</p>
+				<p>New Pipeline Safety Legislation in House of Representatives</p>
+				<p><a href="larsen.html">more...</a></p>				
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>GPS Pipeline Location Technology Demo</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 23 September 2000 ]</p>
+				<p>Inslee and local emergancy response officers demonstrated a pipeline location device that was developed by a Snohomish County Deputy Sherriff.</p>
+				<p><a href="gps.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Press Conference in D.C.</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 7 September 2000 ]</p>
+				<p>Inslee and Rep. Metcalf hold news conference with victims of pipeline explosions from across the nation to urge strong pipeline legislation in the House.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>CNN Web Chat</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 3 September 2000 ]</p>
+				<p>Inslee featured on CNN Web Chat regarding pipeline safety legislation.</p>
+				<p><a href="http://www.house.gov/htbin/leave_site?ln_url=http://cnn.com/CNN/Programs/cnntime/archives/transcripts/inslee.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Olympic Agrees to Water Pressure Test</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 7 August 2000 ]</p>
+				<p>OPS Administrator Kelly Coyner calls Inslee to inform him that Olympic has decided to hydrostatically test its 16&quot; line.  Inslee and other Eastside leaders welcomed the news.</p>
+				<p><a href="olympictest.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Letter to New Olympic President</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 3 August 2000 ]</p>
+				<p>Inslee sent a letter and had a phone conversation with newly appointed Olympic President Bob Batch urging him to hydrostatically test the pipeline. Mr. Batch moved from BP/Amoco to the position of President of Olympic Pipe Line Company.</p>
+				<p><a href="batch.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>New Management</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ June 2000 ]</p>
+				<p>Olympic Pipe Line Company announced that BP/Amoco will be buying a majority share of the company, and taking over operations of the pipeline. Inslee immediately set up a conference call with BP&#146;s Western General Manager and the BP Olympic Transition Team Leader regarding the benefits of hydrostatic testing  Olympic's pipeline.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee's Pipeline Safety Legislation</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 29 June 2000 ]</p>
+				<p>Inslee and Rep. Pallone (NJ) introduce the most aggressive pipeline safety legislation in Congress.</p>
+				<p><a href="inslee_pallone.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee, Local Leaders Meet with Head of OPS</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 3 June 2000 ]</p>
+				<p>OPS Administrator Kelly Coyner flew out to Washington State to meet with Congressman Inslee and Eastside mayors.  At the meeting, Inslee again asserted that until a proven technology is available for detecting longitudinal weaknesses, the pipeline must be hydrostatically tested.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee Amendment to Transportation Funding Bill</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 19 May 2000 ]</p>
+				<p>Inslee offered an amendment to the Transportation Appropriations bill which would have required the OPS to order the hydrostatic testing of Olympic&#146;s pipeline.  A point of order was raised against the amendment by the majority leadership, and the amendment was not allowed a vote.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee Issue Forum</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 25 March 2000 ]</p>
+				<p>Inslee organized an issue forum on pipeline safety.</p>
+				<p><a href="forum.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>OPS Ordered Tests Not Good Enough</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 10 March 2000 ]</p>
+				<p>OPS announced that it will order an experimental technology to find longitudinal problems in the pipe.  Declaring that the people of East Puget Sound should not be lab rats for an unproven technology, Inslee criticized OPS for not taking the necessary step of hydrostatically testing the line.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee and Sims News Conference</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 12 February 2000 ]</p>
+				<p>Inslee and King County Executive Ron Sims held a joint press conference demanding more local input in OPS&#146;s decision making.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee Urges Water Pressure Tests</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 11 February 2000 ]</p>
+				<p>Inslee sent a second letter to the Administrator urging that the Corrective Action Order against Olympic be changed to include hydrostatic testing.</p>
+				<p><a href="letter_ops2.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee Speaks at Pipeline Safety Forum</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 22 January 2000 ]</p>
+				<p>Inslee was the keynote speaker at a Pipeline Safety Forum sponsored by the Cascade Columbia Alliance.  In his address he again publicly called on the Olympic Pipe Line Company to hydrostatically test the line.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>OPS Data</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 21 January 2000 ]</p>
+				<p>In a letter to the Administrator of OPS, Congressman Inslee used OPS&#146;s own data to demonstrate that the pipe manufactured by U.S. Steel had a very similar failure history as Lone Star Steel.  OPS and the Olympic Pipe Line Company initially argued that although most of the 16-inch pipeline consisted of pipe manufactured by U.S. Steel, only the Lone Star Steel Corporation pipe was unsafe and needed hydrostatic testing.</p>
+				<p>[ <a href="letter_ops1.html">Read the text of the letter</a> ]</p>
+				<p><a href="summary.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee Urges Water Pressure Testing</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 20 January 2000 ]</p>
+				<p>Inslee organized local mayors of communities through which the pipeline crossed to publicly urge hydrostatic testing.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Pipeline Safety Hearing</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 27 October 1999 ]</p>
+				<p>Inslee first called on the Olympic Pipe Line Company to hydrostatically test their entire line on 27 October 1999, at a congressional hearing.  At the hearing, Inslee also urged OPS to order the hydrostatic tests if Olympic failed to do so voluntarily.</p>
+				<p><a href="testimony.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee, Local Leaders Meet with Olympic Officials</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 8 October 1999 ]</p>
+				<p>Inslee meets with Mayors and officials from the Olympic Pipe Line Company in his Mountlake Terrace office.</p>
+				<p><a href="mayors.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee Letter to Olympic</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 5 October 1999 ]</p>
+				<p>Inslee sends follow-up letter to Olympic Pipe Line Company requesting documentation supporting their assertion that hydrostatic tests fatigue pipelines.  In a letter dated October 25, Olympic responds by stating <em>&quot;under certain circumstances hydro tests may cause fatigue on the pipe.&quot;</em></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Inslee Meets with Olympic President</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 28 September 1999 ]</p>
+				<p>Inslee hosts meeting between Olympic Pipe Line Company President Fred Crognale and public officials in his D.C. congressional office to discuss recent water pressure test failure.</p>
+				<p><a href="tour.html">more...</a></p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Pipe Ruptures Again</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 18 September 1999 ]</p>
+				<p>Olympic's pipeline ruptures during water pressure test in Bellingham.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Feds Order Olympic To Close the Line</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 18 June 1999 ]</p>
+				<p>Federal regulators order Olympic Pipe Line Company to close their pipeline.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Olympic Pipe Line Ruptures</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><p>[ 10 June 1999 ]</p>
+				<p>Olympic's pipeline ruptures in Bellingham, killing three children.</p>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+		<table class="accent" cellspacing="0">
+			<thead>
+			<tr>
+				<th>Other Useful Information</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><ul class="minilist">
+					<li><a href="http://www.house.gov/htbin/leave_site?ln_url=http://www.gao.gov">May 2000 GAO Report</a> &#150; <em>&quot;Pipeline Safety: The Office of Pipeline Safety Is Changing How It Oversees the Pipeline Industry&quot;</em> (Search for Report # RCED-00-128)</li>
+					<li><a href="gaotext.html">1993 GAO Report on Pipeline Safety</a></li>
+					<li><a href="summary.html">Summary of seam failures on Olympic's pipeline</a></li>
+					<li><a href="numbers.html">Table of seam failures</a></li>
+					<li><a href="fedleg.html">Other Federal Pipeline Safety Legislation</a></li>
+				</ul></td>
+			</tr>
+			</tbody>
+		</table>
+		<p class="shrink"><a href="../index.html">Back to Issues</a></p>
+	</div>
+	<div ID="copyright">
+		<p class="tiny">U.S. Rep Jay Inslee</p>
+	</div>
+</div>
+</body>
+</html>

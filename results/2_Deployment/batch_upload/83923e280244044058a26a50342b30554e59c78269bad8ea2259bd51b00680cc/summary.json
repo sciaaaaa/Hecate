@@ -1,0 +1,31 @@
+{
+  "batchgen": {
+    "U_bytes": 96,
+    "auth_bytes": 1020,
+    "batchgen_wall_ms": 36.079932,
+    "compute_cpu_ms": 35.940036,
+    "compute_wall_ms": 35.939685,
+    "contract_argument_payload_bytes": 898,
+    "info_bytes": 705,
+    "note": "BatchGen includes U/auth/signature construction and public serialization; excludes input validation, self verification, disk IO and blockchain. No traffic overhead is included.",
+    "private_xi_bytes": 32,
+    "public_json_bytes": 3964,
+    "self_verify_wall_ms": 65.05996,
+    "serialize_wall_ms": 0.140247,
+    "signature_bytes": 65,
+    "tx_batch_serialized_bytes": 1992
+  },
+  "note": "Deployment gas is reported separately. Publication latency includes confirmation waits/restarts.",
+  "publication": {
+    "action": "publish",
+    "block_hash": "0x07f74d194790b516991af94bb9f4748d719669aef3f9ad743331b68d62507516",
+    "block_number": 508,
+    "first_attempt_to_confirmations_s": 12.072450637817383,
+    "gas_used": 774065,
+    "input_bytes": 1156,
+    "signed_transaction_bytes": 1265,
+    "transaction_fee_wei": 774065001548130,
+    "tx_hash": "0x7e0080087d64cd18be5f2c1a875cfdea1fbbcb06fad337ad63cbad3b69ff28de"
+  },
+  "t": "0x83923e280244044058a26a50342b30554e59c78269bad8ea2259bd51b00680cc"
+}

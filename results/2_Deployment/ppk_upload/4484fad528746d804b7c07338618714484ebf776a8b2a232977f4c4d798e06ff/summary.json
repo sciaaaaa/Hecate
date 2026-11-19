@@ -1,0 +1,16 @@
+{
+  "B": 4096,
+  "complete_transaction_measurement": true,
+  "contract": "0xFbfaa2Cda04CC608f45C57957c9c777C51825aA2",
+  "expected_fresh_transactions": 66,
+  "manifest_bytes": 3712,
+  "note": "Payload and transaction sizes exclude RPC/TCP/P2P overhead; latency includes confirmation waits and interruptions.",
+  "public_payload_bytes": 200416,
+  "recorded_transactions": 66,
+  "setup_id": "0x4484fad528746d804b7c07338618714484ebf776a8b2a232977f4c4d798e06ff",
+  "srs_bytes": 196704,
+  "total_gas_used": 162051626,
+  "total_input_bytes": 214386,
+  "total_signed_transaction_bytes": 221558,
+  "total_transaction_fee_wei": 162051626000000000
+}

@@ -1,0 +1,584 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  
+
+
+
+<head><link rel="stylesheet" type="text/css" href="/pgdata/etc/design/blm.Css.l2fWChmVqKXnl3rLBxbSyxrLCY9oyxrPB25HBa--.css">
+  <TITLE>DOI: BLM: National Home Page</TITLE>
+  <meta name="encoding" content="iso-8859-1" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="date" content="2009-02-05" />
+<meta name="DC.Title" content="en" />
+<meta name="DC.Subject" content="" />
+<meta name="DC.Description" content="" />
+<meta name="DC.Date" content="2009-02-05" />
+<meta name="DC.Publisher" content="" />
+
+  <link href="/pgdata/screen.css" rel="stylesheet">
+  <script type="text/javascript">
+     function blmAlert() {
+     var alertText = "You are now leaving the Bureau of Land Management. The BLM does not control or guarantee the accuracy, relevance, timeliness, or completeness of the materials provided by other agencies or organizations, nor does the BLM endorse other agencies or organizations, their views, products or services.";
+        for (var i = 0; i < document.links.length; i++) {
+	   var href = document.links[i].href;
+	   if (href.indexOf(document.domain) == -1 &&
+	       href.indexOf('#') == -1 &&
+	       href.indexOf('www.blm.gov') == -1 &&
+	       href.indexOf('.mil') == -1 &&
+	       href.indexOf('.gov') == -1 &&
+	       href.indexOf('.fed.us') == -1 &&
+	       href.indexOf('javascript:') == -1 &&
+	       href.indexOf('CFC_') == -1) {
+	      document.links[i].target = '_blank';
+	      document.links[i].onclick = function() {alert(alertText)} ;
+	   }
+	}
+     }
+  </script>
+
+  
+
+
+
+
+
+
+
+
+</head><body marginheight="0" topmargin="0" marginwidth="0" leftmargin="0" onLoad="blmAlert();;"  class="body">
+
+
+
+
+<TABLE BORDER=0 WIDTH="1003" CELLPADDING="0" CELLSPACING="0" SUMMARY="Main Table">
+   <!-- Begin Header Here -->
+   
+
+	<style type="text/css" media="screen">
+        #gradient{
+	        width:23px;
+	        background: #cccc99 url(/pgdata/images/gradient2.gif) repeat-x top;	
+        }
+	#header{
+		background: #5A7B63 url(/wo/st/en.-Header-Single-BackgroundImageRef.-imagemedprocessing.jpeg) no-repeat top left;
+	}
+	.header_photo {
+		height: 82px;
+		width: 82px;
+		float: left;
+		margin: 4px 13px 0px 1px;
+		border: 1px solid white;
+	}
+	</style>
+	<tr>
+	<td colspan="4">
+	      
+        </td>
+	</tr>
+	<tr>
+		<td colspan=4 VALIGN="top">
+			<div style="position:relative; top:3;">
+			<div style="position:relative;z-index:1;">
+				<img alt="Bitterroot Range, Montana" title="Bitterroot Range, Montana" src="/wo/st/en.-Header-Single-BackgroundImageRef.-imagemedprocessing.jpeg"/>
+			</div>
+			<div style="position:absolute; left:10; top:0; z-index:2;">
+			<DIV ID="headerside"><A HREF="http://www.blm.gov" TARGET="_blank"><IMG SRC="/pgdata/images/BLMLOGO.gif" BORDER="0" alt="BLM"></A></DIV>
+			<div id="topa" >U.S. DEPARTMENT OF THE INTERIOR</div>
+			<div id="topb">BUREAU OF LAND MANAGEMENT</div>
+			<div id="header_photos">
+				<img class="header_photo" alt="Wind Turbines, Palm Springs, CA" title="Wind Turbines, Palm Springs, CA" src="/wo/st/en.-Header-Single-Image1Ref.-imagemedprocessing.jpeg"/>
+				<img class="header_photo" alt="Happy Angler, Alaska" title="Happy Angler, Alaska" src="/wo/st/en.-Header-Single-Image2Ref.-imagemedprocessing.jpeg"/>
+				<img class="header_photo" alt="Sage Grouse Strutting, Wyoming" title="Sage Grouse Strutting, Wyoming" src="/wo/st/en.-Header-Single-Image3Ref.-imagemedprocessing.gif"/>
+				<img class="header_photo" alt="Livestock on Hillside, Montana" title="Livestock on Hillside, Montana" src="/wo/st/en.-Header-Single-Image4Ref.-imagemedprocessing.jpeg"/>
+				<img class="header_photo" alt="Oil 'Donkey', New Mexico" title="Oil 'Donkey', New Mexico" src="/wo/st/en.-Header-Single-Image5Ref.-imagemedprocessing.jpeg"/>
+				<div id="header_text"><!-- I used a margin in CSS to set the vertical placement of this, so you don't need the <BR>s -->
+					National
+				</div>
+			</div>
+		</td>
+	</tr>
+
+   <!-- End Header Here -->
+	<TR>
+          <!-- Begin Navigation Here -->
+          
+	  
+<TD ID="menu" VALIGN="top">
+<DIV ID="search_bar">
+	<FORM ACTION="http://www.blm.gov/search/">
+		<INPUT NAME="query" TYPE="text" VALUE="Search BLM" SIZE="12" onFocus="this.value = '';"><BUTTON TYPE="submit" NAME="submit">Go</BUTTON>
+		<input name="adv" type="hidden" value="1">
+		<input name="narrow" type="hidden" value="pr:default">
+		<input name="pr" type="hidden" value="VALUE_HERE">
+		<input name="dropXSL" type="hidden" value="yes">
+	</FORM>
+</DIV>
+<DIV id="PageNav">
+
+
+ 
+	
+	<DIV CLASS="menuTitle"><a href="/wo/st/en.html">National</a></DIV>
+		<UL>
+		
+					
+			
+								
+								
+				<li>
+				<div id="What We Do">
+				<a href="#"><strong>What We Do</strong></a>
+				<UL>
+
+						<li><a href="/wo/st/en/prog/energy.html">Energy</a></li>
+						
+						<li><a href="/nifc/st/en/prog/fire.html">Fire</a></li>
+						
+						<li><a href="/wo/st/en/prog/grazing.html">Grazing</a></li>
+						
+						<li><a href="/wo/st/en/prog/planning.html">Planning</a></li>
+						
+						<li><a href="/wo/st/en/prog/Recreation.html">Recreation</a></li>
+						
+						<li><a href="/wo/st/en/prog/blm_special_areas/NLCS.html">BLM Special Areas</a></li>
+						
+						<li><a href="/wo/st/en/prog/wild_horse_and_burro.html">Wild Horses & Burros</a></li>
+						
+						<li><a href="/wo/st/en/prog/more.html">More...</a></li>
+						</UL>
+
+				</div>
+  				</li>
+				
+				
+					
+			
+								
+								
+				<li>
+				<div id="Visit Us">
+				<a href="#"><strong>Visit Us</strong></a>
+				<UL>
+
+						<li><a href="/wo/st/en/prog/blm_special_areas/NLCS/monuments.html">Monuments</a></li>
+						
+						<li><a href="http://www.recreation.gov/recFacilitySearch.do?agencies=126 ">Recreation Opportunities</a></li>
+						
+						<li><a href="/wo/st/en/prog/blm_special_areas/NLCS.html">Special Areas</a></li>
+						
+						<li><a href="/wo/st/en/prog/blm_special_areas/NLCS/Wilderness.html">Wilderness</a></li>
+						</UL>
+
+				</div>
+  				</li>
+				
+				
+					
+			
+								
+								
+				<li>
+				<div id="Information Center">
+				<a href="#"><strong>Information Center</strong></a>
+				<UL>
+
+						<li><a href="/wo/st/en/info/About_BLM.html">About BLM</a></li>
+						
+						<li><a href="/wo/st/en/res/Direct_Links_to_Publications.html">General Publications</a></li>
+						
+						<li><a href="http://jobsearch.usajobs.opm.gov/a9blm.asp">Jobs/USAJOBS</a></li>
+						
+						<li><a href="/wo/st/en/prog/more/land_records.html">Land Records</a></li>
+						
+						<li><a href="/wo/st/en/info/regulations.html">Laws, Regulations, Policies</a></li>
+						
+						<li><a href="/wo/st/en/info/newsroom.html">Newsroom</a></li>
+						
+						<li><a href="/wo/st/en/res/Public_Room.html">Online Services</a></li>
+						
+						<li><a href="/wo/st/en/bpd.html">Photo Library</a></li>
+						</UL>
+
+				</div>
+  				</li>
+				
+				
+					
+			
+								
+								
+				<li>
+				<div id="Get Involved">
+				<a href="#"><strong>Get Involved</strong></a>
+				<UL>
+
+						<li><a href="/wo/st/en/info/resource_advisory.html">Advisory Councils/Committees</a></li>
+						
+						<li><a href="/wo/st/en/res/blm_jobs.html">Careers</a></li>
+						
+						<li><a href="/wo/st/en/res/Education_in_BLM.html">Education</a></li>
+						
+						<li><a href="/wo/st/en/info/nepa.html">Land Use Planning/NEPA</a></li>
+						
+						<li><a href="/wo/st/en/prog/more/partnerships_home.html">Partnerships</a></li>
+						
+						<li><a href="/wo/st/en/prog/more/children_and_nature.html">Take It Outside!</a></li>
+						
+						<li><a href="/wo/st/en/res/Volunteer.html">Volunteer</a></li>
+						</UL>
+
+				</div>
+  				</li>
+				
+				
+					
+			
+								
+								
+				<li>
+				<div id="Our Offices/Centers">
+				<a href="#"><strong>Our Offices/Centers</strong></a>
+				<UL>
+
+						<li><a href="/ak/st/en.html">Alaska</a></li>
+						
+						<li><a href="/az/st/en.html">Arizona</a></li>
+						
+						<li><a href="/ca/st/en.html">California</a></li>
+						
+						<li><a href="/co/st/en.html">Colorado</a></li>
+						
+						<li><a href="/es/st/en.html">Eastern States</a></li>
+						
+						<li><a href="/id/st/en.html">Idaho</a></li>
+						
+						<li><a href="/mt/st/en.html">Montana</a></li>
+						
+						<li><a href="/nv/st/en.html">Nevada</a></li>
+						
+						<li><a href="/nm/st/en.html">New Mexico</a></li>
+						
+						<li><a href="/or/st/en.html">Oregon</a></li>
+						
+						<li><a href="/ut/st/en.html">Utah</a></li>
+						
+						<li><a href="/wy/st/en.html">Wyoming</a></li>
+						
+						<li><a href="/wo/st/en/prog/fire.html">Fire and Aviation</a></li>
+						
+						<li>Operations Center</li>
+						
+						<li><a href="/ntc/st/en.html">Nat'l Training Center</a></li>
+						</UL>
+
+				</div>
+  				</li>
+				
+				
+					
+			
+								
+								
+				<li>
+				<div id="Contact Us">
+				<a href="#"><strong>Contact Us</strong></a>
+				<UL>
+
+						<li><a href="/wo/st/en/info/directory.html">Directory</a></li>
+						
+						<li><a href="/wo/st/en/national_page/Contact_Us.html">Email Us</a></li>
+						</UL>
+
+				</div>
+  				</li>
+				
+				
+		
+		
+		
+		
+	
+			
+		
+	</UL>
+	
+	
+
+
+
+</DIV>
+</TD>
+
+<script> 
+<!--
+var plusImgSrc = "/pgdata/images/plus.gif";
+var minusImgSrc = "/pgdata/images/minus-white.gif";
+var navDiv =document.getElementById("PageNav");
+var navNodes = navDiv.getElementsByTagName("UL");
+initMenuList(navNodes.item(0));
+
+function initMenuList(menuList) {
+  var navNodes = menuList.childNodes;
+  for(var i=0; i<navNodes.length; i++) {
+    var nextElement = navNodes.item(i);
+  	if(nextElement.tagName == "LI")
+  		initMenuItem(nextElement);
+  }
+}
+
+function initMenuItem(menuItem) {
+   var imgTag = createMenuImageTag();
+   var divTag = menuItem.getElementsByTagName("DIV")[0];    
+   //alert (divTag.getElementsByTagName("A")[0].href);
+   divTag.insertBefore(imgTag,divTag.childNodes.item(0));
+   divTag.getElementsByTagName("A")[0].href="#";
+   divTag.getElementsByTagName("A")[0].onclick= function() { processMenuEvent(imgTag, divTag); }
+   menuItem.className = "collapsed"; 
+   if(menuItem.getElementsByTagName("UL")[0]) {
+      menuItem.getElementsByTagName("UL")[0].style.display = "none";
+   }
+}
+
+function createMenuImageTag() {
+   var imgTag = document.createElement("img");
+   var nameattr=document.createAttribute("name");
+   var srcattr=document.createAttribute("src");
+   nameattr.nodeValue="plus";
+   srcattr.nodeValue="/pgdata/images/plus.gif";
+   imgTag.setAttributeNode(nameattr);
+   imgTag.setAttributeNode(srcattr);
+   imgTag.onclick = function() { processMenuEvent(this, this.parentNode); }
+   return imgTag;
+}
+
+function processMenuEvent(navImgTag, menuItem) {
+	if(navImgTag.name == "plus") {
+	  expandMenu(navImgTag, menuItem)
+	}
+	else {
+	  collapsMenu(navImgTag, menuItem)
+	}
+}
+
+function expandMenu(navImgTag, menuItem) {
+	navImgTag.src = minusImgSrc;
+	navImgTag.name = "minus";
+	menuItem.className = "expanded"; 
+	if(menuItem.getElementsByTagName("UL")[0]) {
+		menuItem.getElementsByTagName("UL")[0].style.display = "";
+	}
+}
+
+function collapsMenu(navImgTag, menuItem) {
+	navImgTag.src = plusImgSrc;
+	navImgTag.name = "plus";
+	menuItem.className = "collapsed"; 
+	if(menuItem.getElementsByTagName("UL")[0]) {
+		menuItem.getElementsByTagName("UL")[0].style.display = "none";
+	}
+}
+-->
+</script>
+          <!-- End Navigation Here -->
+		<TD ID="content" VALIGN="top" WIDTH="750">
+			<TABLE BORDER=0 WIDTH="100%">
+			<TR>
+                           <!-- Begin Breadcrumbs Here -->
+                           <TD>
+			       
+
+<table width="100%" style="">
+   <tr>
+	   <td colspan="4">
+	      
+	   </td>
+   </tr>
+   <tr>
+	   <td colspan="4">
+               
+	   </td>
+   </tr>
+   <tr>
+      <td>
+         
+      </td>
+   </tr>
+</table>
+
+	
+
+			   </TD>
+			   <TD id="alternate_view_text" align="right">
+			      <a href="/wo/st/en.print.html">Print Page</a>
+			   </TD>
+                           <!-- End Breadcrumbs Here -->
+			<TR>
+			<TR>
+                           <!-- Begin SubHeading Here -->
+			   
+
+<TD ID="field_office_text" colspan="2">
+      
+</TD>
+
+                           <!-- End SubHeading Here -->
+			</TR>
+			<TR>
+				<TD colspan="2" ID="whitespace">
+                                   <!-- Begin Paragraph System Here -->
+				   <table cellspacing="0" border="0" cellpadding="0" width="100%">
+		
+			<tr><td width="75%"><img width="1" height="1" src="/pgdata/libs/CFC/content/statics.0.gif" /></td><td width="20"><img width="20" height="1" src="/pgdata/libs/CFC/content/statics.0.gif" /></td><td width="25%"><img width="1" height="1" src="/pgdata/libs/CFC/content/statics.0.gif" /></td></tr><tr><td valign="top" align="left">
+	<style type="text/css">
+	 .blm1144463308484 {  font-family:Verdana; font-size:12px; font-style:normal; font-weight:normal; }     .blm1145906881515 {  font-family:Verdana; font-size:12px; font-style:normal; font-weight:normal; }     .blm1145906920171 {  font-family:Verdana; font-size:10px; font-style:normal; font-weight:normal; }     .blm1162486787864 {  font-family:Verdana; font-size:10px; font-style:normal; font-weight:normal; }     .blm1162486751224 {  font-family:Verdana; font-size:9px; font-style:normal; font-weight:normal; }     .blm1162486812399 {  font-family:Verdana; font-size:8px; font-style:normal; font-weight:normal; }    
+	</style>
+	
+
+	
+	<script type="text/javascript">
+		function CFC_popup(/*String*/ url, /*String*/ name, /*String*/ features)
+			{
+			var defaultWidth = 500;
+			var defaultHeight = 400;
+			
+			if (url.indexOf("/") == 0) url = "/publish" + url;
+			if (features.indexOf("width") == -1) features += ",width=" + defaultWidth;
+			if (features.indexOf("height") == -1) features += ",height=" + defaultHeight;
+			var w = window.open(url, name, features);
+			w.focus();
+			}
+	</script>
+	
+
+<span class="WideParrichtexteditorText"><h3 dir="ltr" style="margin-right: 0px">&nbsp;&nbsp;&nbsp; In the Spotlight&nbsp;</h3><ul><li><a class="WideParrichtexteditorText" href="http://www.doi.gov/news/09_News_Releases/020409b.html">Secretary&nbsp;Salazar Restores Balance in Controversial Last-Minute Oil&nbsp;and Gas Lease Sale near Utah National Parks</a> <ul type="square"><li><a href="/wo/st/en/info/newsroom/2009/february/canceled_utah_lessees.html" class="WideParrichtexteditorText" id="/content/wo/en/info/newsroom/2009/february/canceled_utah_lessees"><em>77 Utah Oil and Gas Parcels Withdrawn on February 4, 2009</em></a><br />&nbsp;</li></ul></li><li><a class="WideParrichtexteditorText" href="http://www.doi.gov/news/09_News_Releases/020309.html">Secretary&nbsp;Salazar Announces Modified Oil &amp; Gas Lease Sale in Wyoming</a><br />&nbsp;</li><li><a href="/wo/st/en/info/newsroom/2009/january/NR_01_30_2009.html" class="WideParrichtexteditorText" id="/content/wo/en/info/newsroom/2009/january/NR_01_30_2009">BLM and Forest Service Announce 2009 Grazing Fee</a><br />&nbsp;</li><li><a href="/wo/st/en/info/newsroom/2009/january/nr_01_29_2009.html" class="WideParrichtexteditorText" id="/content/wo/en/info/newsroom/2009/january/nr_01_29_2009">Secretary Salazar Outlines High Ethical Standards for Interior Department</a><br />&nbsp;&nbsp;</li><li><a class="WideParrichtexteditorText" href="http://www.doi.gov/news/audio/podcasts/00001c56.mp3">Listen to Secretary Salazar's Thoughts on his New Position and Plans for Future Initiatives</a>&nbsp;<a class="WideParrichtexteditorText" href="http://www.doi.gov/news/audio/podcasts/00001c56.mp3"><img height="13" alt="Podcasts" width="65" border="0" src="http://www.doi.gov/images/podcast_icon_home.gif" /></a></li></ul><ul><li><a href="/wo/st/en/info/newsroom/2009/january/NR_01_16_2009.html" class="WideParrichtexteditorText" id="/content/wo/en/info/newsroom/2009/january/NR_01_16_2009">Public Lands Foundation Honors BLM Employees</a><br />&nbsp;&nbsp;&nbsp;</li><li><a href="/wo/st/en/info/newsroom/2008/december/NR_12_12_2008.html" class="WideParrichtexteditorText" id="/content/wo/en/info/newsroom/2008/december/NR_12_10_2008">BLM Opens Nominations for 2009 Reclamation and Sustainable Mineral Development Awards Program</a>&nbsp;(<a href="/pgdata/etc/medialib/blm/wo/Communications_Directorate/public_affairs/news_release_attachments.Par.85357.File.dat/MineAwardBro09Revu1.pdf" class="WideParrichtexteditorText" id="/etc/medialib/blm/wo/Communications_Directorate/public_affairs/news_release_attachments#Par.85357.File.dat/MineAwardBro09Revu1.pdf">Nomination form</a> - 1.5MB PDF)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="/wo/st/en/prog/wild_horse_and_burro.html" class="WideParrichtexteditorText" id="/content/wo/en/prog/wild_horse_and_burro">Sale and Adoption of Wild Horses and Burros</a>&nbsp; <ul><li><font color="#0000ff"><a href="/wo/st/en/info/newsroom/2009/february/NR_02_05_2009.html" class="WideParrichtexteditorText" id="/content/wo/en/info/newsroom/2009/february/NR_02_05_2009">Wild Horse and Burro Advisory Board&nbsp;Meets March 2 in Reno</a></font></li><li><font color="#0000ff"><a href="/wo/st/en/info/newsroom/2008/november/NR_10_11_2008.html" class="WideParrichtexteditorText" id="/content/wo/en/info/newsroom/2008/november/NR_08_11_2008">Statement on GAO Wild Horse Management Report</a></font></li><li><font color="#0000ff"><a href="/wo/st/en/info/newsroom/2008/november/NR_11_19_2008.html" class="WideParrichtexteditorText" id="/content/wo/en/info/newsroom/2008/november/NR_11_19_2008">Recommendations of&nbsp;Wild Horse and Burro Advisory Board</a></font></li><li><font color="#0000ff"><a href="/wo/st/en/prog/wild_horse_and_burro/new_factsheet.html" class="WideParrichtexteditorText" id="/content/wo/en/prog/wild_horse_and_burro/new_factsheet">Fact Sheet&nbsp;on Wild Horse and Burro Management Challenges</a></font></li><li><a href="/wo/st/en/prog/wild_horse_and_burro/Fact_Sheet.html" class="WideParrichtexteditorText" id="/content/wo/en/prog/wild_horse_and_burro/Fact_Sheet">Wild Horse and Burro Quick Facts</a></li><li><a href="/wo/st/en/prog/wild_horse_and_burro/Fact_Sheet/fertility_control.html" class="WideParrichtexteditorText" id="/content/wo/en/prog/wild_horse_and_burro/Fact_Sheet/fertility_control">BLM's Fertility Control Program</a><br />&nbsp;&nbsp;&nbsp;&nbsp;</li></ul></li><li><a href="/wo/st/en/res/blm_jobs.html" class="WideParrichtexteditorText" id="/content/wo/en/res/blm_jobs">Careers with BLM: <strong>Explore the Land...Discover Your Career</strong></a></li></ul></span>
+<div style="clear:both;height:1px;font-size:1px;line-height:1px;"><br></div>
+		<table cellpadding="0" cellspacing="0" border="0"><tr><td><img width="1" height="15" src="/pgdata/libs/CFC/content/statics.0.gif" /></td></tr></table>
+		
+		</td><td></td><td valign="top" align="left">
+			
+
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr><td><font >To be taken to a State's Website, click on the State.</font></td></tr><tr valign="top"><td><map name ="WidePar.000100_ImageMap"><area href='/wy/st/en.html' showtext='no' shape='poly' target='' alt='Wyoming/Nebraska BLM' coords='93,62,88,92,129,97,144,100,143,106,187,107,181,93,177,82,133,81,133,65,94,63'>
+<area href='/mt/st/en.html' showtext='no' shape='poly' target='' alt='Montana/Dakotas BLM' coords='71,25,171,31,176,79,133,78,131,64,93,63,83,63,78,55,76,47,71,38,70,25'>
+<area href='/es/st/en.html' showtext='no' shape='poly' target='' alt='Eastern States BLM' coords='173,32,178,84,189,109,194,131,195,158,200,173,203,190,215,189,228,190,241,180,260,177,270,177,283,182,287,193,297,203,303,210,306,205,304,193,294,174,291,164,301,147,310,133,315,115,315,97,319,74,331,61,335,61,330,49,335,33,344,27,335,17,331,9,326,10,324,24,316,35,306,40,285,58,278,72,264,78,261,70,261,57,252,49,236,40,217,35,196,35,173,30'>
+<area href='/nm/st/en.html' showtext='no' shape='poly' target='' alt='New Mexico/Texas/Kansas/Oklahoma BLM' coords='97,129,91,172,95,173,101,170,120,180,130,194,144,193,155,197,163,215,177,221,180,205,190,194,205,186,196,157,193,132,187,107,143,107,143,131,96,130'>
+<area href='/co/st/en.html' showtext='no' shape='poly' target='' alt='Colorado BLM' coords='102,97,141,101,140,130,97,129,101,97'>
+<area href='/id/st/en.html' showtext='no' shape='poly' target='' alt='Idaho BLM' coords='64,23,59,44,61,49,54,58,53,75,70,83,88,84,91,65,84,62,76,51,76,43,69,26,64,24'>
+<area href='/or/st/en.html' showtext='no' shape='poly' target='' alt='Oregon/Washington BLM' coords='36,13,25,17,9,66,51,78,56,55,63,24,37,12,33,13'>
+<area href='/ut/st/en.html' showtext='no' shape='poly' target='' alt='Utah BLM' coords='69,84,65,123,96,127,99,95,86,94,87,84,71,84'>
+<area href='/az/st/en.html' showtext='no' shape='poly' target='' alt='Arizona BLM' coords='65,123,58,131,58,143,54,157,79,173,91,173,96,128,65,122'>
+<area href='/nv/st/en.html' showtext='no' shape='poly' target='' alt='Nevada BLM' coords='35,76,68,82,65,122,59,134,59,143,30,99,34,79'>
+<area href='/ca/st/en.html' showtext='no' shape='poly' target='' alt='California BLM' coords='9,68,4,80,6,101,14,116,22,134,34,145,41,155,52,156,57,140,29,99,33,73,9,67'>
+<area href='/ak/st/en.html' showtext='no' shape='poly' target='' alt='Alaska BLM' coords='6,180,82,179,82,236,5,238,5,181'>
+</map><img src="/wo/st/en.-WidePar-000100-Image.WideParimage.2.2.gif" alt="USA map for BLM" border="0" usemap="#WidePar.000100_ImageMap"></td></tr>
+	</table>
+
+		<table cellpadding="0" cellspacing="0" border="0"><tr><td><img width="1" height="15" src="/pgdata/libs/CFC/content/statics.0.gif" /></td></tr></table>
+		
+
+<span class="WideParrichtexteditorText"></span>
+<div style="clear:both;height:1px;font-size:1px;line-height:1px;"><br></div>
+		<table cellpadding="0" cellspacing="0" border="0"><tr><td><img width="1" height="15" src="/pgdata/libs/CFC/content/statics.0.gif" /></td></tr></table>
+		
+		</td></tr></table>
+                                   <!-- End Paragraph System Here -->
+				</TD>
+			</TR>
+			</TABLE>
+		</TD>
+     	<TD ID="gradient" ROWSPAN="4">&nbsp;</TD>
+    	<TD ID="right_bar" ROWSPAN="4">&nbsp;</TD>
+	</TR>
+	
+	<tr>
+		<td class="menu" valign="top"><span class="lastupdated">Last updated: 02-05-2009</span></td>
+		<td valign="top" width="750"></td>
+	</tr>
+        <!-- Begin Footer Here -->
+	
+
+<tr><td colspan=3>      
+
+</td>
+</tr>
+<tr>
+   <td id="footer_top" colspan="3">
+
+	   <a href="http://www.usa.gov">USA.GOV</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="http://www.doi.gov/diversity/no_fear_act.html">No Fear Act</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="http://www.doi.gov/">DOI</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="http://www.doi.gov/disclaimer.html">Disclaimer</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="/wo/st/en/info/About_BLM.html">About BLM</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="/wo/st/en/national_page/Notices_used_in_Footer.html">Notices</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="http://www.adobe.com/products/acrobat/readstep2.html">Get Adobe Reader&reg;</a>
+
+   </td>
+</tr>
+<tr>
+   <td colspan=4 id="footer_bottom">
+
+	   <a href="/wo/st/en/national_page/Privacy_Statement_for_Footer.html">Privacy Policy</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="/wo/st/en/res/FOIA.html">FOIA</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="http://www.doi.gov/chprivacy.html">Kids Policy</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="/wo/st/en/national_page/Contact_Us.html">Contact Us</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="/wo/st/en/national_page/Notices_used_in_Footer/accessibility.html">Accessibility</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="/wo/st/en/national_page/site_maps/site_map_index.html">Site Map</a>
+
+               &nbsp;|&nbsp;
+
+	   <a href="/wo/st/en.html">Home</a>
+
+   </td>
+</tr>
+
+        <!-- End Footer Here -->
+
+</TABLE>
+
+
+</body>
+</html>
+ 

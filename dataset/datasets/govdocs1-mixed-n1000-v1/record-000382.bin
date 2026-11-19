@@ -1,0 +1,4234 @@
+<html><!-- InstanceBegin template="/Templates/table.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>TM 171 Table 3</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><style type="text/css">
+<!--
+body {
+	background-color: #C2E7ED;
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+}
+a:link {
+	color: #003366;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	font-weight: bold;
+	text-decoration: none;
+	color: #003366;
+}
+a:hover {
+	font-weight: bold;
+	text-decoration: underline;
+	color: #003366;
+}
+a:active {
+	font-weight: bold;
+	text-decoration: none;
+	color: #003366;
+}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head><body>
+<table width=750px border=0 align="center" cellpadding=5 cellspacing=0 style="border: 3px solid #3399cc;">
+<tr>
+  <td bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="Table" -->
+<table width="100%" align="center" cellpadding="3" cellspacing="2" bgcolor="#0099CC">
+  <tr valign="bottom">
+    <td colspan="6" bgcolor="#FFFFFF"><p><a href="index.htm">Home</a></p>
+      <p><b></b><b>Table 3</b>. Minimum and maximum lengths (cm) observed
+        for species collected during 1963-99 NEFSC bottom trawl surveys, by gender
+        ("Unsexed" = gender not specified; "Combined" = unsexed, males, and females).
+        (Species are ordered by NODC taxonomic code; "uncl" = not classified
+        to species level.) </p>
+      </td>
+  </tr>
+  <tr valign="bottom"> 
+    <td colspan="2" bgcolor="#FFFFFF"> 
+      <p align="CENTER"><b>Species</b>    </td>
+    <td rowspan="2" align="RIGHT" bgcolor="#FFFFFF"><b> </b> 
+      <p align="CENTER"><b>Gender</b>    </td>
+    <td rowspan="2" align="CENTER" bgcolor="#FFFFFF"><b> </b> 
+      <p align="CENTER"><b>N</b>    </td>
+    <td colspan="2" align="CENTER" bgcolor="#FFFFFF"><b>Length Range <b>(cm)</b>
+      </b></td>
+  </tr>
+  <tr valign="bottom"> 
+    <td align="CENTER" bgcolor="#FFFFFF"><b>Common Name 
+      </b></td>
+    <td align="CENTER" bgcolor="#FFFFFF"><b>Scientific Name 
+      </b></td>
+    <td align="RIGHT" bgcolor="#FFFFFF"><b>Min. 
+      </b></td>
+    <td align="RIGHT" bgcolor="#FFFFFF"><b>Max. 
+      </b></td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Iceland scallop </td>
+    <td bgcolor="#FFFFFF"><i> Chlamys islandica </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6 </td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sea scallop </td>
+    <td bgcolor="#FFFFFF"><i> Placopecten magellanicus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12158</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic calico scallop </td>
+    <td bgcolor="#FFFFFF"><i> Argopecten gibbus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic surfclam </td>
+    <td bgcolor="#FFFFFF"><i> Spisula solidissima </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Ocean quahog </td>
+    <td bgcolor="#FFFFFF"><i> Arctica islandica </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6.9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bobtail squid uncl </td>
+    <td bgcolor="#FFFFFF"> Sepiolidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">306</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Lesser bobtail squid </td>
+    <td bgcolor="#FFFFFF"><i> Semirossia tenera </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Warty bobtail squid </td>
+    <td bgcolor="#FFFFFF"><i> Rossia palpebrosa </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Butterfly bobtail squid </td>
+    <td bgcolor="#FFFFFF"><i> Stoloteuthis leucoptera </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longfin inshore squid </td>
+    <td bgcolor="#FFFFFF"><i> Loligo pealeii </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">79723</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Slender inshore squid </td>
+    <td bgcolor="#FFFFFF"><i> Loligo pleii </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">54</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic brief squid </td>
+    <td bgcolor="#FFFFFF"><i> Lolliguncula brevis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">990</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Eye-flash squid </td>
+    <td bgcolor="#FFFFFF"><i> Abralia veranyi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Northern shortfin squid </td>
+    <td bgcolor="#FFFFFF"><i> Illex illecebrosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">54033</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Octopus uncl </td>
+    <td bgcolor="#FFFFFF"> Octopoda </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">840</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Common octopus </td>
+    <td bgcolor="#FFFFFF"><i> Octopus vulgaris </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spoonarm octopus </td>
+    <td bgcolor="#FFFFFF"><i> Bathypolypus arcticus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">160</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Horseshoe crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Limulus polyphemus</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5109</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">36</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1029</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">38</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1764</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">39</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Northern shrimp </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Pandalus borealis</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">61576</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">0.7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3.2</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">34832</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">0.6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2.85</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11304</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1.75</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2.9</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> American lobster </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Homarus americanus</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1392</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">71070</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20.6</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">72222</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24.3</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Caribbean spiny lobster </td>
+    <td bgcolor="#FFFFFF"><i> Panulirus argus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Ridged slipper lobster </td>
+    <td bgcolor="#FFFFFF"><i> Scyllarides nodifer </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">44</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Northern stone crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Lithodes maja</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">304</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">38</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">155</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Galatheid uncl </td>
+    <td rowspan="3" bgcolor="#FFFFFF"> Galatheidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">33</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Calico box crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Hepatus epheliticus</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Gladiator box crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Acanthocarpus alexandri</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Spider crab uncl </td>
+    <td rowspan="3" bgcolor="#FFFFFF"> Majidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">164</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">146</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">101</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Snow crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Chionoecetes opilio</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Jonah crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Cancer borealis</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">585</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7374</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5319</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Atlantic rock crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Cancer irroratus</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">930</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14157</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10923</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Speckled swimming crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Arenaeus cribrarius</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Blotched swimming crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Portunus spinimanus</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">35</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Bathyal swimming crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Bathynectes longispina</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">35</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Blue crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Callinectes sapidus</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1728</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">246</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">537</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Lady crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Ovalipes ocellatus</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5586</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">744</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">639</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Coarsehand lady crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Ovalipes stephensoni</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">421</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">110</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">51</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Red deepsea crab </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Chaceon quinquedens</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">537</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">204</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">318</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Golden deepsea crab </td>
+    <td bgcolor="#FFFFFF"><i> Geryon fenneri </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sea lamprey </td>
+    <td bgcolor="#FFFFFF"><i> Petromyzon marinus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">131</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">80</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic hagfish </td>
+    <td bgcolor="#FFFFFF"><i> Myxine glutinosa </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">649</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">66</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sand tiger </td>
+    <td bgcolor="#FFFFFF"><i> Carcharias taurus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">48</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">98</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">261</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Basking shark </td>
+    <td bgcolor="#FFFFFF"><i> Cetorhinus maximus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">432</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">440</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Thresher shark </td>
+    <td bgcolor="#FFFFFF"><i> Alopias vulpinus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">137</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">176</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Chain dogfish </td>
+    <td bgcolor="#FFFFFF"><i> Scyliorhinus retifer </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1845</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">50</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic sharpnose shark </td>
+    <td bgcolor="#FFFFFF"><i> Rhizoprionodon terraenovae </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">591</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">41</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">175</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Smooth dogfish </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Mustelus canis</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12213</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">130</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10014</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">115</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8616</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">150</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Dusky shark </td>
+    <td bgcolor="#FFFFFF"><i> Carcharhinus obscurus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">96</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">211</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sandbar shark </td>
+    <td bgcolor="#FFFFFF"><i> Carcharhinus plumbeus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">184</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">61</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">186</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blacknose shark </td>
+    <td bgcolor="#FFFFFF"><i> Carcharhinus acronotus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">98</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">102</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blacktip shark </td>
+    <td bgcolor="#FFFFFF"><i> Carcharhinus limbatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">138</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">138</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Night shark </td>
+    <td bgcolor="#FFFFFF"><i> Carcharhinus signatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">65</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">67</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Scalloped hammerhead shark </td>
+    <td bgcolor="#FFFFFF"><i> Sphyrna lewini </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">59</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">186</td>
+  </tr>
+  <tr valign="top"> 
+    <td rowspan="3" bgcolor="#FFFFFF"> Spiny dogfish </td>
+    <td rowspan="3" bgcolor="#FFFFFF"><i> Squalus acanthias</i> </td>
+    <td align="RIGHT" bgcolor="#FFFFFF"> Unsexed</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6096</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">112</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Male</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">181881</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">104</td>
+  </tr>
+  <tr valign="BOTTOM"> 
+    <td align="RIGHT" bgcolor="#FFFFFF"> Female</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">219579</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">117</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Rough sagre </td>
+    <td bgcolor="#FFFFFF"><i> Etmopterus princeps </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Broadband dogfish </td>
+    <td bgcolor="#FFFFFF"><i> Etmopterus gracilispinis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Black dogfish </td>
+    <td bgcolor="#FFFFFF"><i> Centroscyllium fabricii </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">46</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic angel shark </td>
+    <td bgcolor="#FFFFFF"><i> Squatina dumeril </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1524</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">123</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic torpedo </td>
+    <td bgcolor="#FFFFFF"><i> Torpedo nobiliana </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">53</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">35</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">140</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Lesser electric ray </td>
+    <td bgcolor="#FFFFFF"><i> Narcine brasiliensis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Clearnose skate </td>
+    <td bgcolor="#FFFFFF"><i> Raja eglanteria </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6017</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">93</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Little skate </td>
+    <td bgcolor="#FFFFFF"><i> Leucoraja erinacea </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">73656</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">66</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Barndoor skate </td>
+    <td bgcolor="#FFFFFF"><i> Dipturus laevis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1056</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">132</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Winter skate </td>
+    <td bgcolor="#FFFFFF"><i> Leucoraja ocellata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">43855</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">135</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Rosette skate </td>
+    <td bgcolor="#FFFFFF"><i> Leucoraja garmani </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4833</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">47</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Smooth skate </td>
+    <td bgcolor="#FFFFFF"><i> Malacoraja senta </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6099</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">73</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Thorny skate </td>
+    <td bgcolor="#FFFFFF"><i> Amblyraja radiata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20610</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">109</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Southern stingray <sup>a</sup></td>
+    <td bgcolor="#FFFFFF"><i> Dasyatis americana </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">180</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">108</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Roughtail stingray <sup>a</sup></td>
+    <td bgcolor="#FFFFFF"><i> Dasyatis centroura </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">385</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">190</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic stingray <sup>a</sup></td>
+    <td bgcolor="#FFFFFF"><i> Dasyatis sabina </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">27</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">90</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bluntnose stingray<sup>a</sup> </td>
+    <td bgcolor="#FFFFFF"><i> Dasyatis say </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2955</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">135</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spiny butterfly ray <sup>a</sup></td>
+    <td bgcolor="#FFFFFF"><i> Gymnura altavela </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1138</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">217</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Smooth butterfly ray<sup>a</sup> </td>
+    <td bgcolor="#FFFFFF"><i> Gymnura micrura </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">104</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">176</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bullnose ray <sup>a</sup></td>
+    <td bgcolor="#FFFFFF"><i> Myliobatis freminvillei </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1488</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">143</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Cownose ray <sup>a</sup></td>
+    <td bgcolor="#FFFFFF"><i> Rhinoptera bonasus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">774</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">34</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">103</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Manta <sup>a</sup></td>
+    <td bgcolor="#FFFFFF"><i> Manta birostris </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">120</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">150</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic sturgeon </td>
+    <td bgcolor="#FFFFFF"><i> Acipenser oxyrhynchus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">60</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">56</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">226</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Ladyfish </td>
+    <td bgcolor="#FFFFFF"><i> Elops saurus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> American eel </td>
+    <td bgcolor="#FFFFFF"><i> Anguilla rostrata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">78</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted moray </td>
+    <td bgcolor="#FFFFFF"><i> Gymnothorax moringa </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">36</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">78</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blackedge moray </td>
+    <td bgcolor="#FFFFFF"><i> Gymnothorax nigromarginatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Honeycomb moray </td>
+    <td bgcolor="#FFFFFF"><i> Gymnothorax saxicola </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">36</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">51</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Conger eel </td>
+    <td bgcolor="#FFFFFF"><i> Conger oceanicus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">608</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">135</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bandtooth conger </td>
+    <td bgcolor="#FFFFFF"><i> Ariosoma balearicum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">69</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Snake eel uncl </td>
+    <td bgcolor="#FFFFFF"> Ophichthidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">112</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">84</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Shrimp eel </td>
+    <td bgcolor="#FFFFFF"><i> Ophichthus gomesi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">39</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">39</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Margined snake eel </td>
+    <td bgcolor="#FFFFFF"><i> Ophichthus cruentifer </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">124</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">74</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Palespotted eel </td>
+    <td bgcolor="#FFFFFF"><i> Ophichthus puncticeps </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">98</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">70</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted spoon-nose eel </td>
+    <td bgcolor="#FFFFFF"><i> Echiophis intertinctus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">48</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">86</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Snubnose eel </td>
+    <td bgcolor="#FFFFFF"><i> Simenchelys parasiticus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Slender snipe eel </td>
+    <td bgcolor="#FFFFFF"><i> Nemichthys scolopaceus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">231</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">99</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> American shad </td>
+    <td bgcolor="#FFFFFF"><i> Alosa sapidissima </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3145</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">62</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blueback herring </td>
+    <td bgcolor="#FFFFFF"><i> Alosa aestivalis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6006</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">42</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Hickory shad </td>
+    <td bgcolor="#FFFFFF"><i> Alosa mediocris </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">36</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Alewife </td>
+    <td bgcolor="#FFFFFF"><i> Alosa pseudoharengus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16688</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">46</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic herring </td>
+    <td bgcolor="#FFFFFF"><i> Clupea harengus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">86946</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">46</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic menhaden </td>
+    <td bgcolor="#FFFFFF"><i> Brevoortia tyrannus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">951</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">42</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Gizzard shad </td>
+    <td bgcolor="#FFFFFF"><i> Dorosoma cepedianum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Round herring </td>
+    <td bgcolor="#FFFFFF"><i> Etrumeus teres </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2268</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic thread herring </td>
+    <td bgcolor="#FFFFFF"><i> Opisthonema oglinum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1247</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spanish sardine </td>
+    <td bgcolor="#FFFFFF"><i> Sardinella aurita </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1295</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">27</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Anchovy uncl </td>
+    <td bgcolor="#FFFFFF"> Engraulidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Silver anchovy </td>
+    <td bgcolor="#FFFFFF"><i> Engraulis eurystole </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">161</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Striped anchovy </td>
+    <td bgcolor="#FFFFFF"><i> Anchoa hepsetus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4300</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bay anchovy </td>
+    <td bgcolor="#FFFFFF"><i> Anchoa mitchilli </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4751</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Dusky anchovy </td>
+    <td bgcolor="#FFFFFF"><i> Anchoa lyolepis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">47</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longnose anchovy </td>
+    <td bgcolor="#FFFFFF"><i> Anchoa nasuta </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Flat anchovy </td>
+    <td bgcolor="#FFFFFF"><i> Anchoviella perfasciata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Capelin </td>
+    <td bgcolor="#FFFFFF"><i> Mallotus villosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">90</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Rainbow smelt </td>
+    <td bgcolor="#FFFFFF"><i> Osmerus mordax </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">333</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic argentine </td>
+    <td bgcolor="#FFFFFF"><i> Argentina silus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">932</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Striated argentine </td>
+    <td bgcolor="#FFFFFF"><i> Argentina striata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">123</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Lightfish uncl </td>
+    <td bgcolor="#FFFFFF"> Gonostomatidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF">&nbsp; </td>
+    <td bgcolor="#FFFFFF"><i> Gonostoma atlanticum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longtooth anglemouth </td>
+    <td bgcolor="#FFFFFF"><i> Gonostoma elongatum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Weitzmans pearlsides </td>
+    <td bgcolor="#FFFFFF"><i> Maurolicus weitzmani </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">650</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF">&nbsp; </td>
+    <td bgcolor="#FFFFFF"><i> Polymetme thaeocoryla </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Hatchetfish uncl </td>
+    <td bgcolor="#FFFFFF"> Sternoptychidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">82</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Silver hatchetfish </td>
+    <td bgcolor="#FFFFFF"><i> Argyropelecus aculeatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF">&nbsp; </td>
+    <td bgcolor="#FFFFFF"><i> Polyipnus clarus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">124</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Viperfish </td>
+    <td bgcolor="#FFFFFF"><i> Chauliodus sloani </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">85</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">35</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Boa dragonfish </td>
+    <td bgcolor="#FFFFFF"><i> Stomias boa </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">93</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Slickhead uncl </td>
+    <td bgcolor="#FFFFFF"> Alepocephaliidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bluntnose smoothhead </td>
+    <td bgcolor="#FFFFFF"><i> Xenodermichthys copei </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Inshore lizardfish </td>
+    <td bgcolor="#FFFFFF"><i> Synodus foetens </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2848</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">43</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sand diver </td>
+    <td bgcolor="#FFFFFF"><i> Synodus intermedius </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">44</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">34</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Offshore lizardfish </td>
+    <td bgcolor="#FFFFFF"><i> Synodus poeyi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">530</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red lizardfish </td>
+    <td bgcolor="#FFFFFF"><i> Synodus synodus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Largescale lizardfish </td>
+    <td bgcolor="#FFFFFF"><i> Saurida brasiliensis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Shortjaw lizardfish </td>
+    <td bgcolor="#FFFFFF"><i> Saurida normani </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">36</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Snakefish </td>
+    <td bgcolor="#FFFFFF"><i> Trachinocephalus myops </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">991</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">33</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Shortnose greeneye </td>
+    <td bgcolor="#FFFFFF"><i> Chlorophthalmus agassizi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">799</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longnose greeneye </td>
+    <td bgcolor="#FFFFFF"><i> Parasudis truculenta </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">116</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> White barracudina </td>
+    <td bgcolor="#FFFFFF"><i> Arctozenus rissoi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">53</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">27</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF">&nbsp; </td>
+    <td bgcolor="#FFFFFF"><i> Paralepis coregonoides </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longnose lancetfish </td>
+    <td bgcolor="#FFFFFF"><i> Alepisaurus ferox </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Horned lanternfish </td>
+    <td bgcolor="#FFFFFF"><i> Ceratoscopelus maderensis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Lanternfish uncl </td>
+    <td bgcolor="#FFFFFF"> Myctophidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1765</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Headlightfish </td>
+    <td bgcolor="#FFFFFF"><i> Diaphus dumerili </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Hardhead catfish </td>
+    <td bgcolor="#FFFFFF"><i> Arius felis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic midshipman </td>
+    <td bgcolor="#FFFFFF"><i> Porichthys plectrodon </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">594</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Oyster toadfish </td>
+    <td bgcolor="#FFFFFF"><i> Opsanus tau </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Leopard toadfish </td>
+    <td bgcolor="#FFFFFF"><i> Opsanus pardus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Goosefish </td>
+    <td bgcolor="#FFFFFF"><i> Lophius americanus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28458</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">121</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blackfin goosefish </td>
+    <td bgcolor="#FFFFFF"><i> Lophius gastrophysus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Singlespot frogfish </td>
+    <td bgcolor="#FFFFFF"><i> Antennarius radiosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Redeye gaper </td>
+    <td bgcolor="#FFFFFF"><i> Chaunax stigmaeus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Shortnose batfish </td>
+    <td bgcolor="#FFFFFF"><i> Ogcocephalus nasutus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Roughback batfish </td>
+    <td bgcolor="#FFFFFF"><i> Ogcocephalus parvus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">35</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longnose batfish </td>
+    <td bgcolor="#FFFFFF"><i> Ogcocephalus corniger </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic batfish </td>
+    <td bgcolor="#FFFFFF"><i> Dibranchus atlanticus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Pancake batfish </td>
+    <td bgcolor="#FFFFFF"><i> Halieutichthys aculeatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">61</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blue hake </td>
+    <td bgcolor="#FFFFFF"><i> Antimora rostrata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF">&nbsp; </td>
+    <td bgcolor="#FFFFFF"><i> Laemonema barbatulum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Metallic codling </td>
+    <td bgcolor="#FFFFFF"><i> Physiculus fulvus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic cod </td>
+    <td bgcolor="#FFFFFF"><i> Gadus morhua </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">72801</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">141</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic tomcod </td>
+    <td bgcolor="#FFFFFF"><i> Microgadus tomcod </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Pollock </td>
+    <td bgcolor="#FFFFFF"><i> Pollachius virens </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18780</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">160</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red hake </td>
+    <td bgcolor="#FFFFFF"><i> Urophycis chuss </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">135909</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">70</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted hake </td>
+    <td bgcolor="#FFFFFF"><i> Urophycis regia </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">64311</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">46</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> White hake </td>
+    <td bgcolor="#FFFFFF"><i> Urophycis tenuis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">69627</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">136</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longfin hake </td>
+    <td bgcolor="#FFFFFF"><i> Urophycis chesteri </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">661</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">42</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Carolina hake </td>
+    <td bgcolor="#FFFFFF"><i> Urophycis earlli </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">52</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Southern hake </td>
+    <td bgcolor="#FFFFFF"><i> Urophycis floridana </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Cusk </td>
+    <td bgcolor="#FFFFFF"><i> Brosme brosme </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2985</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">105</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Beardless codling </td>
+    <td bgcolor="#FFFFFF"><i> Gadella imberbis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Haddock </td>
+    <td bgcolor="#FFFFFF"><i> Melanogrammus aeglefinus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">64173</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">93</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Fourbeard rockling </td>
+    <td bgcolor="#FFFFFF"><i> Enchelyopus cimbrius </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2347</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Silver hake </td>
+    <td bgcolor="#FFFFFF"><i> Merluccius bilinearis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">251613</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">78</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Offshore hake </td>
+    <td bgcolor="#FFFFFF"><i> Merluccius albidus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2686</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">60</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Cusk-eel uncl </td>
+    <td bgcolor="#FFFFFF"> Ophidiidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">83</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">39</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Mottled cusk-eel </td>
+    <td bgcolor="#FFFFFF"><i> Lepophidium jeannae </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Fawn cusk-eel </td>
+    <td bgcolor="#FFFFFF"><i> Lepophidium profundorum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14427</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">44</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blotched cusk-eel </td>
+    <td bgcolor="#FFFFFF"><i> Ophidion grayi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bank cusk-eel </td>
+    <td bgcolor="#FFFFFF"><i> Ophidion holbrooki </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">382</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Mooneye cusk-eel </td>
+    <td bgcolor="#FFFFFF"><i> Ophidion selenops </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Crested cusk-eel </td>
+    <td bgcolor="#FFFFFF"><i> Ophidion welshi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Striped cusk-eel </td>
+    <td bgcolor="#FFFFFF"><i> Ophidion marginatum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">784</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Polka-dot cusk-eel </td>
+    <td bgcolor="#FFFFFF"><i> Otophidium omostigmum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">70</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Pearlfish </td>
+    <td bgcolor="#FFFFFF"><i> Carapus bermudensis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Eelpout uncl </td>
+    <td bgcolor="#FFFFFF"> Zoarcidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">62</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Wolf eelpout </td>
+    <td bgcolor="#FFFFFF"><i> Lycenchelys verrilli </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">55</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic soft pout </td>
+    <td bgcolor="#FFFFFF"><i> Melanostigma atlanticum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">565</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Ocean pout </td>
+    <td bgcolor="#FFFFFF"><i> Macrozoarces americanus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23532</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">103</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Grenadier uncl </td>
+    <td bgcolor="#FFFFFF"> Macrouridae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">350</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longnose grenadier </td>
+    <td bgcolor="#FFFFFF"><i> Coelorhynchus carminatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Marlin-spike </td>
+    <td bgcolor="#FFFFFF"><i> Nezumia bairdi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">162</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Western softhead grenadier </td>
+    <td bgcolor="#FFFFFF"><i> Malacocephalus occidentalis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">27</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Roughhead grenadier </td>
+    <td bgcolor="#FFFFFF"><i> Macrourus berglax </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Margined flyingfish </td>
+    <td bgcolor="#FFFFFF"><i> Cypselurus cyanopterus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Silverstripe halfbeak </td>
+    <td bgcolor="#FFFFFF"><i> Hyporhamphus unifasciatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Flying halfbeak </td>
+    <td bgcolor="#FFFFFF"><i> Euleptorhamphus velox </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Flat needlefish </td>
+    <td bgcolor="#FFFFFF"><i> Ablennes hians </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">53</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Houndfish </td>
+    <td bgcolor="#FFFFFF"><i> Tylosurus crocodilus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic saury </td>
+    <td bgcolor="#FFFFFF"><i> Scomberesox saurus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">138</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Silverside uncl </td>
+    <td bgcolor="#FFFFFF"> Atherinidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">42</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Rough silverside </td>
+    <td bgcolor="#FFFFFF"><i> Membras martinica </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic silverside </td>
+    <td bgcolor="#FFFFFF"><i> Menidia menidia </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2006</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Beardfish </td>
+    <td bgcolor="#FFFFFF"><i> Polymixia lowei </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">290</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Big roughy </td>
+    <td bgcolor="#FFFFFF"><i> Gephyroberyx darwini </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">48</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blackmouthed alfonsin </td>
+    <td bgcolor="#FFFFFF"><i> Hoplostethus mediterraneus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">66</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Squirrelfish </td>
+    <td bgcolor="#FFFFFF"><i> Holocentrus adscensionis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">60</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longspine squirrelfish </td>
+    <td bgcolor="#FFFFFF"><i> Holocentrus rufus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">27</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blackbar soldierfish </td>
+    <td bgcolor="#FFFFFF"><i> Myripristis jacobus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bigeye soldierfish </td>
+    <td bgcolor="#FFFFFF"><i> Ostichthys trachypoma </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spinycheek soldierfish </td>
+    <td bgcolor="#FFFFFF"><i> Corniger spinosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red dory </td>
+    <td bgcolor="#FFFFFF"><i> Cyttopsis rosea </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Buckler dory </td>
+    <td bgcolor="#FFFFFF"><i> Zenopsis conchifera </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">751</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">55</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted tinselfish </td>
+    <td bgcolor="#FFFFFF"><i> Xenolepidichthys dalgleishi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Deepbody boarfish </td>
+    <td bgcolor="#FFFFFF"><i> Antigonia capros </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">306</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Shortspine boarfish </td>
+    <td bgcolor="#FFFFFF"><i> Antigonia combatia </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Unicornfish </td>
+    <td bgcolor="#FFFFFF"><i> Eumecichthys fiski </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">43</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">43</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Threespine stickleback </td>
+    <td bgcolor="#FFFFFF"><i> Gasterosteus aculeatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">145</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Fourspine stickleback </td>
+    <td bgcolor="#FFFFFF"><i> Apeltes quadracus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Trumpetfish </td>
+    <td bgcolor="#FFFFFF"><i> Aulostomus maculatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bluespotted cornetfish </td>
+    <td bgcolor="#FFFFFF"><i> Fistularia tabacaria </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">62</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red cornetfish </td>
+    <td bgcolor="#FFFFFF"><i> Fistularia petimba </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">94</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">143</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longspine snipefish </td>
+    <td bgcolor="#FFFFFF"><i> Macrorhamphosus scolopax </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">208</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Pipefish seahorse uncl </td>
+    <td bgcolor="#FFFFFF"> Syngnathidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">118</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Northern pipefish </td>
+    <td bgcolor="#FFFFFF"><i> Syngnathus fuscus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">775</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Chain pipefish </td>
+    <td bgcolor="#FFFFFF"><i> Syngnathus louisianae </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bull pipefish </td>
+    <td bgcolor="#FFFFFF"><i> Syngnathus springeri </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Lined seahorse </td>
+    <td bgcolor="#FFFFFF"><i> Hippocampus erectus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">63</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longsnout seahorse </td>
+    <td bgcolor="#FFFFFF"><i> Hippocampus reidi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Acadian redfish </td>
+    <td bgcolor="#FFFFFF"><i> Sebastes fasciatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49983</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">52</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blackbelly rosefish </td>
+    <td bgcolor="#FFFFFF"><i> Helicolenus dactylopterus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3270</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">47</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spinycheek scorpionfish </td>
+    <td bgcolor="#FFFFFF"><i> Neomerinthe hemingwayi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">45</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longspine scorpionfish </td>
+    <td bgcolor="#FFFFFF"><i> Pontinus longispinis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">75</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longfin scorpionfish </td>
+    <td bgcolor="#FFFFFF"><i> Scorpaena agassizi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Barbfish </td>
+    <td bgcolor="#FFFFFF"><i> Scorpaena brasiliensis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">119</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Smoothhead scorpionfish </td>
+    <td bgcolor="#FFFFFF"><i> Scorpaena calcarata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">48</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Hunchback scorpionfish </td>
+    <td bgcolor="#FFFFFF"><i> Scorpaena dispar </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted scorpionfish </td>
+    <td bgcolor="#FFFFFF"><i> Scorpaena plumieri </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Northern searobin </td>
+    <td bgcolor="#FFFFFF"><i> Prionotus carolinus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12665</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">45</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Striped searobin </td>
+    <td bgcolor="#FFFFFF"><i> Prionotus evolans </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4582</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">48</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Leopard searobin </td>
+    <td bgcolor="#FFFFFF"><i> Prionotus scitulus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">169</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bighead searobin </td>
+    <td bgcolor="#FFFFFF"><i> Prionotus tribulus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">92</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spiny searobin </td>
+    <td bgcolor="#FFFFFF"><i> Prionotus alatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">111</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bandtail searobin </td>
+    <td bgcolor="#FFFFFF"><i> Prionotus ophryas </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bluespotted searobin </td>
+    <td bgcolor="#FFFFFF"><i> Prionotus roseus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blackwing searobin </td>
+    <td bgcolor="#FFFFFF"><i> Prionotus rubio </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">134</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Shortwing searobin </td>
+    <td bgcolor="#FFFFFF"><i> Prionotus stearnsi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Shortfin searobin </td>
+    <td bgcolor="#FFFFFF"><i> Bellator brachychir </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Streamer searobin </td>
+    <td bgcolor="#FFFFFF"><i> Bellator egretta </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Horned searobin </td>
+    <td bgcolor="#FFFFFF"><i> Bellator militaris </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">74</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Slender searobin </td>
+    <td bgcolor="#FFFFFF"><i> Peristedion gracile </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Armored searobin </td>
+    <td bgcolor="#FFFFFF"><i> Peristedion miniatum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">498</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">38</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Hookear sculpin uncl </td>
+    <td bgcolor="#FFFFFF"> <i>Artediellus</i> sp. </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">468</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sea raven </td>
+    <td bgcolor="#FFFFFF"><i> Hemitripterus americanus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12384</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">69</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Shorthorn sculpin </td>
+    <td bgcolor="#FFFFFF"><i> Myoxocephalus scorpius </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">27</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">44</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Longhorn sculpin </td>
+    <td bgcolor="#FFFFFF"><i> Myoxocephalus octodecemspinosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29842</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">60</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Grubby </td>
+    <td bgcolor="#FFFFFF"><i> Myoxocephalus aenaeus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">202</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Moustache sculpin </td>
+    <td bgcolor="#FFFFFF"><i> Triglops murrayi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1176</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Alligatorfish </td>
+    <td bgcolor="#FFFFFF"><i> Aspidophoroides monopterygius </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">778</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic spiny lumpsucker </td>
+    <td bgcolor="#FFFFFF"><i> Eumicrotremus spinosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic seasnail </td>
+    <td bgcolor="#FFFFFF"><i> Liparis atlanticus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">140</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Inquiline snailfish </td>
+    <td bgcolor="#FFFFFF"><i> Liparis inquilinus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Lumpfish </td>
+    <td bgcolor="#FFFFFF"><i> Cyclopterus lumpus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">624</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">57</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Flying gurnard </td>
+    <td bgcolor="#FFFFFF"><i> Dactylopterus volitans </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">44</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> White perch </td>
+    <td bgcolor="#FFFFFF"><i> Morone americana </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Striped bass </td>
+    <td bgcolor="#FFFFFF"><i> Morone saxatilis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3300</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">121</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Black sea bass </td>
+    <td bgcolor="#FFFFFF"><i> Centropristis striata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22146</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">58</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bank sea bass </td>
+    <td bgcolor="#FFFFFF"><i> Centropristis ocyurus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">278</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Rock sea bass </td>
+    <td bgcolor="#FFFFFF"><i> Centropristis philadelphica </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">130</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Rock hind </td>
+    <td bgcolor="#FFFFFF"><i> Epinephelus adscensionis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">43</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">43</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Yellowedge grouper </td>
+    <td bgcolor="#FFFFFF"><i> Epinephelus flavolimbatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red hind </td>
+    <td bgcolor="#FFFFFF"><i> Epinephelus guttatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">43</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">51</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red grouper </td>
+    <td bgcolor="#FFFFFF"><i> Epinephelus morio </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">64</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">85</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Warsaw grouper </td>
+    <td bgcolor="#FFFFFF"><i> Epinephelus nigritus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">84</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">123</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Snowy grouper </td>
+    <td bgcolor="#FFFFFF"><i> Epinephelus niveatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">108</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Gag </td>
+    <td bgcolor="#FFFFFF"><i> Mycteroperca microlepis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">45</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">90</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Black grouper </td>
+    <td bgcolor="#FFFFFF"><i> Mycteroperca bonaci </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Yellowmouth grouper </td>
+    <td bgcolor="#FFFFFF"><i> Mycteroperca interstitialis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">76</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Scamp </td>
+    <td bgcolor="#FFFFFF"><i> Mycteroperca phenax </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">92</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Yellowfin bass </td>
+    <td bgcolor="#FFFFFF"><i> Anthias nicholsi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">84</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sand perch </td>
+    <td bgcolor="#FFFFFF"><i> Diplectrum formosum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">217</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Dwarf sand perch </td>
+    <td bgcolor="#FFFFFF"><i> Diplectrum bivittatum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red barbier </td>
+    <td bgcolor="#FFFFFF"><i> Hemanthias vivanus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">33</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Streamer bass </td>
+    <td bgcolor="#FFFFFF"><i> Hemanthias aureorubens </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Creole-fish </td>
+    <td bgcolor="#FFFFFF"><i> Paranthias furcifer </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> School bass </td>
+    <td bgcolor="#FFFFFF"><i> Schultzea beta </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blackear bass </td>
+    <td bgcolor="#FFFFFF"><i> Serranus atrobranchus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Tattler </td>
+    <td bgcolor="#FFFFFF"><i> Serranus phoebe </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">312</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">27</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Roughtongue bass </td>
+    <td bgcolor="#FFFFFF"><i> Holanthias martinicensis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted soapfish </td>
+    <td bgcolor="#FFFFFF"><i> Rypticus subbifrenatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bigeye </td>
+    <td bgcolor="#FFFFFF"><i> Priacanthus arenatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">299</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Glasseye snapper </td>
+    <td bgcolor="#FFFFFF"><i> Priacanthus cruentatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">50</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Short bigeye </td>
+    <td bgcolor="#FFFFFF"><i> Pristigenys alta </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">116</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bulleye </td>
+    <td bgcolor="#FFFFFF"><i> Cookeolus japonicus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Cardinalfish uncl </td>
+    <td bgcolor="#FFFFFF"> Apogonidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">139</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Flamefish </td>
+    <td bgcolor="#FFFFFF"><i> Apogon maculatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Twospot cardinalfish </td>
+    <td bgcolor="#FFFFFF"><i> Apogon pseudomaculatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">53</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF">&nbsp; </td>
+    <td bgcolor="#FFFFFF"><i> Epigonus pandionis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sherborn's cardinalfish </td>
+    <td bgcolor="#FFFFFF"><i> Howella sherborni </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blackmouth bass </td>
+    <td bgcolor="#FFFFFF"><i> Synagrops bellus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">200</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Keelcheek bass </td>
+    <td bgcolor="#FFFFFF"><i> Synagrops spinosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blueline tilefish </td>
+    <td bgcolor="#FFFFFF"><i> Caulolatilus microps </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">42</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">76</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Goldface tilefish </td>
+    <td bgcolor="#FFFFFF"><i> Caulolatilus chrysops </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Tilefish </td>
+    <td bgcolor="#FFFFFF"><i> Lopholatilus chamaeleonticeps </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">63</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">68</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bluefish </td>
+    <td bgcolor="#FFFFFF"><i> Pomatomus saltatrix </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26715</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">88</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Cobia </td>
+    <td bgcolor="#FFFFFF"><i> Rachycentron canadum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">504</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">145</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Remora </td>
+    <td bgcolor="#FFFFFF"><i> Remora remora </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">54</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sharksucker </td>
+    <td bgcolor="#FFFFFF"><i> Echeneis naucrates </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">68</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Rough scad </td>
+    <td bgcolor="#FFFFFF"><i> Trachurus lathami </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1071</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> African pompano </td>
+    <td bgcolor="#FFFFFF"><i> Alectis ciliaris </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">51</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">33</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Yellow jack </td>
+    <td bgcolor="#FFFFFF"><i> Caranx bartholomaei </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">77</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Crevalle jack </td>
+    <td bgcolor="#FFFFFF"><i> Caranx hippos </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">300</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Horse-eye jack </td>
+    <td bgcolor="#FFFFFF"><i> Caranx latus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blue runner </td>
+    <td bgcolor="#FFFFFF"><i> Caranx crysos </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1117</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">34</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bar jack </td>
+    <td bgcolor="#FFFFFF"><i> Caranx ruber </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic bumper </td>
+    <td bgcolor="#FFFFFF"><i> Chloroscombrus chrysurus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">201</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Leatherjack </td>
+    <td bgcolor="#FFFFFF"><i> Oligoplites saurus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bigeye scad </td>
+    <td bgcolor="#FFFFFF"><i> Selar crumenophthalmus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">286</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Lookdown </td>
+    <td bgcolor="#FFFFFF"><i> Selene vomer </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">239</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic moonfish </td>
+    <td bgcolor="#FFFFFF"><i> Selene setapinnis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">613</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Greater amberjack </td>
+    <td bgcolor="#FFFFFF"><i> Seriola dumerili </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">384</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">114</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Lesser amberjack </td>
+    <td bgcolor="#FFFFFF"><i> Seriola fasciata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Almaco jack </td>
+    <td bgcolor="#FFFFFF"><i> Seriola rivoliana </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">125</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Banded rudderfish </td>
+    <td bgcolor="#FFFFFF"><i> Seriola zonata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">235</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Florida pompano </td>
+    <td bgcolor="#FFFFFF"><i> Trachinotus carolinus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">45</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">34</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Permit </td>
+    <td bgcolor="#FFFFFF"><i> Trachinotus falcatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Mackerel scad </td>
+    <td bgcolor="#FFFFFF"><i> Decapterus macarellus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">724</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Round scad </td>
+    <td bgcolor="#FFFFFF"><i> Decapterus punctatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2843</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Pilotfish </td>
+    <td bgcolor="#FFFFFF"><i> Naucrates ductor </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Cottonmouth jack </td>
+    <td bgcolor="#FFFFFF"><i> Uraspis secunda </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">33</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Dolphin </td>
+    <td bgcolor="#FFFFFF"><i> Coryphaena hippurus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">42</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Snapper uncl </td>
+    <td bgcolor="#FFFFFF"> Lutjanidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">133</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Mutton snapper </td>
+    <td bgcolor="#FFFFFF"><i> Lutjanus analis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red snapper </td>
+    <td bgcolor="#FFFFFF"><i> Lutjanus campechanus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">54</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">76</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Lane snapper </td>
+    <td bgcolor="#FFFFFF"><i> Lutjanus synagris </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Silk snapper </td>
+    <td bgcolor="#FFFFFF"><i> Lutjanus vivanus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">56</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Vermilion snapper </td>
+    <td bgcolor="#FFFFFF"><i> Rhomboplites aurorubens </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">424</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">52</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Wenchman </td>
+    <td bgcolor="#FFFFFF"><i> Pristipomoides aquilonaris </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotfin mojarra </td>
+    <td bgcolor="#FFFFFF"><i> Eucinostomus argenteus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">121</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Silver jenny </td>
+    <td bgcolor="#FFFFFF"><i> Eucinostomus gula </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">62</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Tomtate </td>
+    <td bgcolor="#FFFFFF"><i> Haemulon aurolineatum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">849</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> White grunt </td>
+    <td bgcolor="#FFFFFF"><i> Haemulon plumieri </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">150</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">53</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Striped grunt </td>
+    <td bgcolor="#FFFFFF"><i> Haemulon striatum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">76</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Pigfish </td>
+    <td bgcolor="#FFFFFF"><i> Orthopristis chrysoptera </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1046</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Scup </td>
+    <td bgcolor="#FFFFFF"><i> Stenotomus chrysops </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14564</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">44</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Pinfish </td>
+    <td bgcolor="#FFFFFF"><i> Lagodon rhomboides </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">603</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sheepshead </td>
+    <td bgcolor="#FFFFFF"><i> Archosargus probatocephalus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">58</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">60</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spottail pinfish </td>
+    <td bgcolor="#FFFFFF"><i> Diplodus holbrooki </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">488</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">27</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Saucereye porgy </td>
+    <td bgcolor="#FFFFFF"><i> Calamus calamus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Whitebone porgy </td>
+    <td bgcolor="#FFFFFF"><i> Calamus leucosteus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">669</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">42</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Knobbed porgy </td>
+    <td bgcolor="#FFFFFF"><i> Calamus nodosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">129</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">47</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Littlehead porgy </td>
+    <td bgcolor="#FFFFFF"><i> Calamus proridens </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sheepshead porgy </td>
+    <td bgcolor="#FFFFFF"><i> Calamus penna </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">35</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red porgy </td>
+    <td bgcolor="#FFFFFF"><i> Pagrus sedecim </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">232</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">47</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted seatrout </td>
+    <td bgcolor="#FFFFFF"><i> Cynoscion nebulosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">56</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Silver seatrout </td>
+    <td bgcolor="#FFFFFF"><i> Cynoscion nothus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Weakfish </td>
+    <td bgcolor="#FFFFFF"><i> Cynoscion regalis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32736</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">84</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Silver perch </td>
+    <td bgcolor="#FFFFFF"><i> Bairdiella chrysoura </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">627</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spot </td>
+    <td bgcolor="#FFFFFF"><i> Leiostomus xanthurus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6431</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Banded drum </td>
+    <td bgcolor="#FFFFFF"><i> Larimus fasciatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">645</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Southern kingfish </td>
+    <td bgcolor="#FFFFFF"><i> Menticirrhus americanus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4050</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Gulf kingfish </td>
+    <td bgcolor="#FFFFFF"><i> Menticirrhus littoralis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Northern kingfish </td>
+    <td bgcolor="#FFFFFF"><i> Menticirrhus saxatilis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1196</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">38</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic croaker </td>
+    <td bgcolor="#FFFFFF"><i> Micropogonias undulatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6220</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Black drum </td>
+    <td bgcolor="#FFFFFF"><i> Pogonias cromis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">56</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">105</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red drum </td>
+    <td bgcolor="#FFFFFF"><i> Sciaenops ocellatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">34</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">114</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Star drum </td>
+    <td bgcolor="#FFFFFF"><i> Stellifer lanceolatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Jackknife-fish </td>
+    <td bgcolor="#FFFFFF"><i> Equetus lanceolatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Cubbyu </td>
+    <td bgcolor="#FFFFFF"><i> Equetus umbrosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">244</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">36</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red goatfish </td>
+    <td bgcolor="#FFFFFF"><i> Mullus auratus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">99</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted goatfish </td>
+    <td bgcolor="#FFFFFF"><i> Pseudupeneus maculatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">22</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Dwarf goatfish </td>
+    <td bgcolor="#FFFFFF"><i> Upeneus parvus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">59</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic spadefish </td>
+    <td bgcolor="#FFFFFF"><i> Chaetodipterus faber </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">454</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">51</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotfin butterflyfish </td>
+    <td bgcolor="#FFFFFF"><i> Chaetodon ocellatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">81</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bank butterflyfish </td>
+    <td bgcolor="#FFFFFF"><i> Chaetodon aya </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Reef butterflyfish </td>
+    <td bgcolor="#FFFFFF"><i> Chaetodon sedentarius </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">69</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Queen angelfish </td>
+    <td bgcolor="#FFFFFF"><i> Holacanthus ciliaris </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blue angelfish </td>
+    <td bgcolor="#FFFFFF"><i> Holacanthus bermudensis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">52</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">45</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Damselfish uncl </td>
+    <td bgcolor="#FFFFFF"> Pomacentridae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Yellowtail reeffish </td>
+    <td bgcolor="#FFFFFF"><i> Chromis enchrysurus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">46</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Striped mullet </td>
+    <td bgcolor="#FFFFFF"><i> Mugil cephalus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">33</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> White mullet </td>
+    <td bgcolor="#FFFFFF"><i> Mugil curema </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Northern sennet </td>
+    <td bgcolor="#FFFFFF"><i> Sphyraena borealis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">307</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Guaguanche </td>
+    <td bgcolor="#FFFFFF"><i> Sphyraena guachancho </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">55</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Tautog </td>
+    <td bgcolor="#FFFFFF"><i> Tautoga onitis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">177</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">69</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Cunner </td>
+    <td bgcolor="#FFFFFF"><i> Tautogolabrus adspersus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5325</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Creole wrasse </td>
+    <td bgcolor="#FFFFFF"><i> Clepticus parrae </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Red hogfish </td>
+    <td bgcolor="#FFFFFF"><i> Decodon puellaris </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Pearly razorfish </td>
+    <td bgcolor="#FFFFFF"><i> Hemipteronotus novacula </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Hogfish </td>
+    <td bgcolor="#FFFFFF"><i> Lachnolaimus maximus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">50</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">75</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Parrotfish uncl </td>
+    <td bgcolor="#FFFFFF"> Scaridae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Stargazer uncl </td>
+    <td bgcolor="#FFFFFF"> Uranoscopidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Northern stargazer </td>
+    <td bgcolor="#FFFFFF"><i> Astroscopus guttatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">96</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">52</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Southern stargazer </td>
+    <td bgcolor="#FFFFFF"><i> Astroscopus y-graecum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">46</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Lancer stargazer </td>
+    <td bgcolor="#FFFFFF"><i> Kathetostoma albigutta </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">102</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">35</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Crested blenny </td>
+    <td bgcolor="#FFFFFF"><i> Hypleurochilus geminatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Seaweed blenny </td>
+    <td bgcolor="#FFFFFF"><i> Parablennius marmoreus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic wolffish </td>
+    <td bgcolor="#FFFFFF"><i> Anarhichas lupus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3126</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">122</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Clinid uncl </td>
+    <td bgcolor="#FFFFFF"> Clinidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Daubed shanny </td>
+    <td bgcolor="#FFFFFF"><i> Lumpenus maculatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">503</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Snakeblenny </td>
+    <td bgcolor="#FFFFFF"><i> Lumpenus lumpretaeformis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">273</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">54</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Wrymouth </td>
+    <td bgcolor="#FFFFFF"><i> Cryptacanthodes maculatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">377</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">97</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Radiated shanny </td>
+    <td bgcolor="#FFFFFF"><i> Ulvaria subbifurcata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">212</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Rock gunnel </td>
+    <td bgcolor="#FFFFFF"><i> Pholis gunnellus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">165</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Northern sand lance </td>
+    <td bgcolor="#FFFFFF"><i> Ammodytes dubius </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6437</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotfin dragonet </td>
+    <td bgcolor="#FFFFFF"><i> Foetorepus agassizi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">52</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Goby uncl </td>
+    <td bgcolor="#FFFFFF"> Gobiidae </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">47</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Naked goby </td>
+    <td bgcolor="#FFFFFF"><i> Gobiosoma bosc </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Ocean surgeon </td>
+    <td bgcolor="#FFFFFF"><i> Acanthurus bahianus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Black gemfish </td>
+    <td bgcolor="#FFFFFF"><i> Nesiarchus nasutus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Conejo </td>
+    <td bgcolor="#FFFFFF"><i> Promethichthys prometheus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">63</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">41</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Simonys frostfish </td>
+    <td bgcolor="#FFFFFF"><i> Benthodesmus simonyi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">58</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">61</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic cutlassfish </td>
+    <td bgcolor="#FFFFFF"><i> Trichiurus lepturus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">741</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">92</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic bonito </td>
+    <td bgcolor="#FFFFFF"><i> Sarda sarda </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">52</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">58</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Striped bonito </td>
+    <td bgcolor="#FFFFFF"><i> Sarda orientalis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">55</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">57</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Chub mackerel </td>
+    <td bgcolor="#FFFFFF"><i> Scomber japonicus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">317</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic mackerel </td>
+    <td bgcolor="#FFFFFF"><i> Scomber scombrus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29799</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">51</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> King mackerel </td>
+    <td bgcolor="#FFFFFF"><i> Scomberomorus cavalla </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">114</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">117</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spanish mackerel </td>
+    <td bgcolor="#FFFFFF"><i>Scomberomorus maculatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">966</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">89</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Swordfish </td>
+    <td bgcolor="#FFFFFF"><i> Xiphias gladius </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">85</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">131</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> White marlin </td>
+    <td bgcolor="#FFFFFF"><i> Tetrapturus albidus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Barrelfish </td>
+    <td bgcolor="#FFFFFF"><i> Hyperoglyphe perciformis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">35</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Silver rag </td>
+    <td bgcolor="#FFFFFF"><i> Ariomma bondi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">116</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">50</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Brown driftfish </td>
+    <td bgcolor="#FFFFFF"><i> Ariomma melanum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted driftfish </td>
+    <td bgcolor="#FFFFFF"><i> Ariomma regulus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bigeye cigarfish </td>
+    <td bgcolor="#FFFFFF"><i> Cubiceps pauciradiatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Butterfish </td>
+    <td bgcolor="#FFFFFF"><i> Peprilus triacanthus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32991</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Harvestfish </td>
+    <td bgcolor="#FFFFFF"><i> Peprilus alepidotus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">553</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Gulf stream flounder </td>
+    <td bgcolor="#FFFFFF"><i> Citharichthys arctifrons </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9502</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Horned whiff </td>
+    <td bgcolor="#FFFFFF"><i> Citharichthys cornutus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Anglefin whiff </td>
+    <td bgcolor="#FFFFFF"><i> Citharichthys gymnorhinus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted whiff </td>
+    <td bgcolor="#FFFFFF"><i> Citharichthys macrops </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">57</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bay whiff </td>
+    <td bgcolor="#FFFFFF"><i> Citharichthys spilopterus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Fringed flounder </td>
+    <td bgcolor="#FFFFFF"><i> Etropus crossotus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">35</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Smallmouth flounder </td>
+    <td bgcolor="#FFFFFF"><i> Etropus microstomus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2307</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">43</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Gray flounder </td>
+    <td bgcolor="#FFFFFF"><i> Etropus rimosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Summer flounder </td>
+    <td bgcolor="#FFFFFF"><i> Paralichthys dentatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">54540</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">78</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Gulf flounder </td>
+    <td bgcolor="#FFFFFF"><i> Paralichthys albigutta </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">46</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Southern flounder </td>
+    <td bgcolor="#FFFFFF"><i> Paralichthys lethostigma </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">78</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">54</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Fourspot flounder </td>
+    <td bgcolor="#FFFFFF"><i> Paralichthys oblongus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">87984</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Broad flounder </td>
+    <td bgcolor="#FFFFFF"><i> Paralichthys squamilentus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">35</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Windowpane </td>
+    <td bgcolor="#FFFFFF"><i> Scophthalmus aquosus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">85545</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">48</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Three-eye flounder </td>
+    <td bgcolor="#FFFFFF"><i> Ancylopsetta dilecta </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Ocellated flounder </td>
+    <td bgcolor="#FFFFFF"><i> Ancylopsetta quadrocellata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">37</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Peacock flounder </td>
+    <td bgcolor="#FFFFFF"><i> Bothus lunatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Eyed flounder </td>
+    <td bgcolor="#FFFFFF"><i> Bothus ocellatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">47</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">25</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Twospot flounder </td>
+    <td bgcolor="#FFFFFF"><i> Bothus robinsi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotfin flounder </td>
+    <td bgcolor="#FFFFFF"><i> Cyclopsetta fimbriata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">32</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Shrimp flounder </td>
+    <td bgcolor="#FFFFFF"><i> Gastropsetta frontalis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Deepwater flounder </td>
+    <td bgcolor="#FFFFFF"><i> Monolene sessilicauda </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">34</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Channel flounder </td>
+    <td bgcolor="#FFFFFF"><i> Syacium micrurum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">11</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">23</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Dusky flounder </td>
+    <td bgcolor="#FFFFFF"><i> Syacium papillosum </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1176</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">30</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Witch flounder </td>
+    <td bgcolor="#FFFFFF"><i> Glyptocephalus cynoglossus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">29829</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">69</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> American plaice </td>
+    <td bgcolor="#FFFFFF"><i> Hippoglossoides platessoides </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">90000</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">66</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Winter flounder </td>
+    <td bgcolor="#FFFFFF"><i> Pseudopleuronectes americanus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">89991</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">3</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">69</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Yellowtail flounder </td>
+    <td bgcolor="#FFFFFF"><i> Limanda ferruginea </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">65187</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">58</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Greenland halibut </td>
+    <td bgcolor="#FFFFFF"><i> Reinhardtius hippoglossoides </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">42</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">15</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">52</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Atlantic halibut </td>
+    <td bgcolor="#FFFFFF"><i> Hippoglossus hippoglossus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">912</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">154</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Hogchoker </td>
+    <td bgcolor="#FFFFFF"><i> Trinectes maculatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">442</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Naked sole </td>
+    <td bgcolor="#FFFFFF"><i> Gymnachirus melas </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Tonguefish uncl </td>
+    <td bgcolor="#FFFFFF"> <i>Symphurus</i> sp. </td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">153</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blackcheek tonguefish </td>
+    <td bgcolor="#FFFFFF"><i> Symphurus plagiusa </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1740</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spottedfin tonguefish </td>
+    <td bgcolor="#FFFFFF"><i> Symphurus diomedianus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">18</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Northern tonguefish </td>
+    <td bgcolor="#FFFFFF"><i> Symphurus pusillus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">14</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spottail tonguefish </td>
+    <td bgcolor="#FFFFFF"><i> Symphurus urospilus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Jambeau </td>
+    <td bgcolor="#FFFFFF"><i> Parahollardia lineata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Orange filefish </td>
+    <td bgcolor="#FFFFFF"><i> Aluterus schoepfi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">89</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">58</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Dotterel filefish </td>
+    <td bgcolor="#FFFFFF"><i> Aluterus heudeloti </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">49</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">50</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Unicorn filefish </td>
+    <td bgcolor="#FFFFFF"><i> Aluterus monoceros </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">53</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Scrawled filefish </td>
+    <td bgcolor="#FFFFFF"><i> Aluterus scriptus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">13</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">27</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Gray triggerfish </td>
+    <td bgcolor="#FFFFFF"><i> Balistes capriscus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">436</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">52</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Queen triggerfish </td>
+    <td bgcolor="#FFFFFF"><i> Balistes vetula </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">46</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Ocean triggerfish </td>
+    <td bgcolor="#FFFFFF"><i> Canthidermis sufflamen </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Fringed filefish </td>
+    <td bgcolor="#FFFFFF"><i> Monacanthus ciliatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Planehead filefish </td>
+    <td bgcolor="#FFFFFF"><i> Monacanthus hispidus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2240</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">31</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Scrawled cowfish </td>
+    <td bgcolor="#FFFFFF"><i> Lactophrys quadricornis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">27</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">41</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Honeycomb cowfish </td>
+    <td bgcolor="#FFFFFF"><i> Lactophrys polygonia </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">12</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">43</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Smooth puffer </td>
+    <td bgcolor="#FFFFFF"><i> Lagocephalus laevigatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">68</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">34</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Northern puffer </td>
+    <td bgcolor="#FFFFFF"><i> Sphoeroides maculatus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1494</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Marbled puffer </td>
+    <td bgcolor="#FFFFFF"><i> Sphoeroides dorsalis </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">74</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">2</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">16</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Southern puffer </td>
+    <td bgcolor="#FFFFFF"><i> Sphoeroides nephelus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">10</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Blunthead puffer </td>
+    <td bgcolor="#FFFFFF"><i> Sphoeroides pachygaster </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">9</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">20</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Bandtail puffer </td>
+    <td bgcolor="#FFFFFF"><i> Sphoeroides spengleri </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">19</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">17</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Sharpnose puffer </td>
+    <td bgcolor="#FFFFFF"><i> Canthigaster rostrata </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">5</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">7</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Striped burrfish </td>
+    <td bgcolor="#FFFFFF"><i> Chilomycterus schoepfi </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">68</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">4</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">28</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Spotted burrfish </td>
+    <td bgcolor="#FFFFFF"><i> Chilomycterus atinga </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">1</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">21</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Balloonfish </td>
+    <td bgcolor="#FFFFFF"><i> Diodon holocanthus </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">24</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">8</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">26</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Ocean sunfish </td>
+    <td bgcolor="#FFFFFF"><i> Mola mola </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">6</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">107</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">155</td>
+  </tr>
+  <tr valign="top"> 
+    <td bgcolor="#FFFFFF"> Loggerhead seaturtle </td>
+    <td bgcolor="#FFFFFF"><i> Caretta caretta </i></td>
+    <td align="RIGHT" bgcolor="#FFFFFF">Combined</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">90</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">40</td>
+    <td align="RIGHT" bgcolor="#FFFFFF">107</td>
+  </tr>
+  <tr valign="top">
+    <td colspan="6" bgcolor="#FFFFFF"><p align="left"><sup>a</sup>Disk width measurement.</p></td>
+  </tr>
+</table>
+<!-- InstanceEndEditable --></td>
+  </tr>
+</table align="center">
+  <p align=center>
+    <input name="button" type="button"
+onClick="window.print();return false;" value=" Print this window " />
+    <input name="button2" type="button" class="nmbutton" onClick="self.close()" value="Close this window">
+    
+    <style type="text/css"> 
+BODY {margin:10px 0; padding:0;} 
+.privacyfont2{ font-size:11px; color:#3399cc; font-family:arial,Helvetica; font-weight:normal; font-style:normal; } 
+.privacyfont A:link{text-decoration:none; font-size:11px; color:#3399cc; font-family:arial,Helvetica; font-weight:normal; font-style:normal; } 
+.privacyfont A:Visited{text-decoration:none; font-size:11px; color:#3399cc; font-family:arial,Helvetica; font-weight:normal; font-style:normal; } 
+.privacyfont A:hover{text-decoration:none; font-size:11px; color:red; font-family:arial,Helvetica; font-weight:normal; font-style:normal; } 
+</style>
+
+<div align=center>
+
+<nobr>
+<table style=" max-width:800; min-width=500;" summary="this table is for layout purposes only" cellpadding=2 cellspacing=0 border=0>
+<tr><td align=center width=19% valign=top>
+<span class="privacyfont"><a href="http://www.nefsc.noaa.gov/" target=_top> www.nefsc.noaa.gov </a></span><br>
+
+</td><td align=center width=15% valign=top>
+<span class="privacyfont"><a href="http://www.nefsc.noaa.gov/search/" target=_top> Search </a></span><br>
+
+</td><td align=center width=15% valign=top>
+<span class="privacyfont"><a href="http://www.nefsc.noaa.gov/endorse.html" target=_top> Link Disclaimer </a></span><br>
+
+</td><td align=center width=15% valign=top>
+<span class="privacyfont"><a href=mailto:NEFSC.webmaster@noaa.gov?subject=http://www.nefsc.noaa.gov/nefsc/publications/tm/tm171/t3.htm> webMASTER </a></span><br>
+
+</td><td align=center width=16% valign=top >
+	<span class="privacyfont"><a href="http://www.noaa.gov/privacy.html" target=_new><span class="privacyfont"> Privacy Policy</span></a></span><br>
+
+</td><td align=right  valign=top>
+<span class="privacyfont2">
+	 (Modified Jun. 13 2008) &nbsp; &nbsp; &nbsp; &nbsp; </span><br>
+</td></tr></table>
+</nobr>
+</div>
+
+
+<!-- One NOAA header -->
+<!--
+<div style="position: absolute; top:0px; left:0px; width:100%; background-color: #ffffff; padding: 5px; border-style: solid; border-bottom-width: 0px; border-top-width: 0px; border-left-width: 0px; border-right-width: 0px;  border-color: darkblue;  "> 
+
+<span class= privacyfont><img src=/pixel.gif height=1 width=1000><br>One <b>NOAA</b> </span>
+</div>
+-->
+
+
+  </p>
+  </body>
+<!-- InstanceEnd --></html>

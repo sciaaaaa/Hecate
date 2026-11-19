@@ -1,0 +1,174 @@
+                         +++++++++++++++++++++++++++
+
+         Agenda for Computing and Software Workshop (January 19-23, 1998)
+         ----------------------------------------------------------------
+
+
+Monday  January 19, 1998
+===============================================================================
+Afternoon:  Plenary Session
+
+ 1:00 --  5:00                                                          1 WEST
+
+ Schedule and Goals of the Workshop                                    10 min
+ Summary of Milestone Status---------------------Womersley             30 min
+ Status of Run II Joint Computing Projects-------Diesburg              40 min
+    -break-
+ Online Computing Status-------------------------Fuess                 40 min
+ Run II Development Environment------------------Greenlee              40 min            
+
+
+
+===============================================================================
+
+
+Tuesday January 20, 1998
+===============================================================================
+Morning:   Plenary Session
+
+ 9:00 -- 12:00                                                           1 WEST
+
+ Run II Computing Part I: Streaming Strategies--- Schellman             30 min
+ Run II Computing Part II: Thumbnail Data Formats-- Lueking             30 min
+    -break-
+ Run II Tracking Status --------------------------- Adams               45 min
+    -break-
+ Run II Vertexing Status -------------------------- Narain              45 min
+
+
+===============================================================================
+Afternoon:  Working Groups
+
+ 1:30 --  2:30    Monte Carlo                       (Klima)        NINTH CIRCLE
+ 1:30 --  2:30    Online Software                   (Fuess)            FAR SIDE
+ 1:30 --  2:30                                                         DOGHOUSE
+ 1:30 --  2:30                                                 SALLE DES HEROES
+
+ 2:30 --  3:30    Global Tracking                   (Adams)        NINTH CIRCLE
+ 2:30 --  3:30                                                         FAR SIDE
+ 2:30 --  3:30    Cal/C++                      (Womersley,May)         DOGHOUSE
+ 2:30 --  3:30                                                 SALLE DES HEROES
+
+ 3:30 --  5:00    Frameworks                        (Q. Li)        NINTH CIRCLE
+ 3:30 --  5:00    SAM group                 (Lueking,White)            FAR SIDE
+ 3:30 --  4:30    Level 3                   (Boehnlein,Claes)          DOGHOUSE
+ 3:30 --  4:30    EM ID                             (Raja)     SALLE DES HEROES
+
+===============================================================================
+
+
+Wednesday January 21, 1998
+===============================================================================
+Morning:  Tutorials
+
+ 8:30 -- 11:30                                                           1 WEST
+
+ 8:30 --  9:30   Configuration Management        Jonckheere
+ 9:30 -- 10:00   ORACLE 8                        V. White   
+ 
+10:15 -- 10:45   Open Inventor                   Graf
+10:45 -- 11:00   MC++/ISAJET                     Protopopescu
+11:00 -- 11:30   D0GSTAR                         Fisyak
+
+
+11:45 -- 12:30   edm for Chunk designers         May/Paterno       NINTH CIRCLE
+
+
+===============================================================================
+Afternoon:  Working groups
+
+ 1:30 --  2:00    Monte Carlo                       (Klima)        NINTH CIRCLE
+ 1:30 --  2:30    Online Software                   (Fuess)            FAR SIDE
+ 1:30 --  2:00                                                         DOGHOUSE
+ 1:30 --  2:00                                                 SALLE DES HEROES
+
+ 2:00 --  2:30    Monte Carlo/Geometry    (Klima,Hobbs,Melanson)   NINTH CIRCLE
+
+ 2:30 --  3:30    Calibration/Alignment        (Hobbs,Melanson)    NINTH CIRCLE
+ 2:30 --  3:30    DSPACK/D0OM                  (Greenlee)              FAR SIDE 
+ 2:30 --  3:30                                                         DOGHOUSE
+ 2:30 --  3:30                                                 SALLE DES HEROES
+
+ 3:30 --  5:00    Release Users Group           (Jonckheere)       NINTH CIRCLE
+ 3:30 --  4:00                                                         FAR SIDE
+ 3:30 --  4:00                                                         DOGHOUSE
+ 3:30 --  4:00                                                 SALLE DES HEROES
+
+===============================================================================
+
+
+
+Thursday January 22, 1998
+===============================================================================
+Morning:  working groups
+
+ 8:30 -- 10:00   Data Access         (Lueking,Schellman)           NINTH CIRCLE
+
+10:00 -- 12:30   Silicon Software (Alg + MC) (Heinson,Narain,Roco) NINTH CIRCLE
+10:00 -- 12:00   SciFi Software (Alg + MC)    (Adams,Graf)             FAR SIDE
+10:00 -- 11:00   Muon Sftware(Alg + MC)(Bhat,Yasuda,Eroshin,Sirotenko) DOGHOUSE
+10:00 -- 11:00   Cal/ICD/PS(Alg + MC)(Womersley,May,Zielinski) SALLE DES HEROES
+
+===============================================================================
+Afternoon:  Working groups
+
+ 1:30 --  3:00   Milestone planning         (Hadley,Merritt)       NINTH CIRCLE
+ 1:30 --  3:00                                                         FAR SIDE
+ 2:30 --  3:30   Online Databases           (Lueking,White)            DOGHOUSE
+ 1:30 --  5:30                                                 SALLE DES HEROES
+
+ 3:00 --  4:00   Level 3                    (Boehnlein,Claes)          FAR SIDE
+ 3:00 --  5:00   Silicon Software (Alg + MC) (Heinson,Narain,Roco) NINTH CIRCLE
+===============================================================================
+
+
+Workshop Dinner:   Emilio's Please sign up in Wyatt/Nick's office or by email
+                   to wyatt@fnal.gov
+
+
+===============================================================================
+
+
+
+
+Friday January 23, 1998
+===============================================================================
+Morning:    Plenary Session
+
+ 9:00 -- 12:30                                                           1 WEST
+
+ Milestone elements                               60 min       
+                                               
+    Monte Carlo                   Kunori
+    SciFi/Tracking                Graf
+
+
+ Data Access summary              Lueking         40 min
+
+    -break-
+
+ Silicon summary                  Roco            20 min
+ Calorimeter summary              Womersley       20 min
+ Muon summary                     Yasuda          20 min
+ Level 3 summary                  Boehnlein       20 min
+ Calib/Align summary              Hobbs           20 min            
+
+
+
+===============================================================================
+Afternoon:  Plenary Session
+
+ 1:30  --  3:00                                                          1 WEST
+
+ Framework beyond the milestone     Watts         20 min
+ Monte Carlo beyond the milestone   Sirotenko     20 min
+ Online summary                     Fuess         20 min
+ Future plans                       Hadley        20 min
+
+
+
+
+
+
+
+===============================================================================

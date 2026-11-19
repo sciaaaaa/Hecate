@@ -1,0 +1,48 @@
+Major milestones for RT03 "who spoke when" diarization (SPKR-WHEN)
+evaluation preparation:
+
+Milestone #1: Due before 04-March-2003 from NIST to PIs
+  New version of SpkrSegEval.pl and suitable documentation explaining
+  the output.  The new version will do the following:
+    * allows scoring of a single MDTM file for the purposes
+      of speaker and gender detection, including options to score
+      any one of the following
+        * overlap regions only
+        * non-overlap regions only
+        * both
+    * in addition to producing an error measure according to the
+      equation in the eval spec, also uses the MTDM file and the
+      corresponding reference transcript to produce versions of
+      all metrics in terms of number of words incorrectly labeled.
+    * UEM files to control skipping of commercials
+
+  Redistribution of reference files for dry run data
+    * CTM, MDTM and UEM reference files required
+    * Will have been produced using the same AIF-&gt;columnar conversion
+      procedure at NIST as will be used for the evaluation
+    * Careful transcripts produced by George, but automatic time alignment
+    * MDTM file to include speaker and gender information
+    * UEM required for commercial-skipping within BN dryrun data
+
+  Rescored dry-run results using new software and new reference data
+   * Purpose of this distribution is to support Milestone #2 below
+
+Milestone #2: Comment Period for "who spoke when" evaluation package.
+   * Sites participating in the "who spoke when" task (CU, SRI+, IBM,
+     LIMSI and MITLL) have a chance to validate the scoring software
+     and ref data and to provide feedback to NIST before finalizing
+     the evaluation scripts and procedures.
+   * Sites are encouraged to confirm that they can run the scoring
+     software and get identical results as obtained at NIST and 
+     to spot check to confirm correct operation
+   * Each site with feedback should send a consolidated response
+     directly to Gregory.Sanders@NIST.gov with cc: to
+     John.Garofolo@NIST.gov and MAZ@LL.MIT.EDU by 18-March-2003; Greg
+     will post a summary of the comments to MACEARS@LL.MIT.EDU
+
+Milestone #3: NIST releases to sites waveform files, CTM files
+ and MDTM files for six BN shows to be used for training data -
+ Due before 08-March-2003 from NIST to PIs
+   * LDC need not annotate these show for disfluency or SU... spkr and
+     gender are enough
+   * CTM files will be created with forced alignment    

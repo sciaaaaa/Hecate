@@ -1,0 +1,2142 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+
+<meta name="description" content="Puma2: a system for high-throughput analysis of genomes and metabolic reconstruction with a grid computational backend">
+<title>
+puma2: search page
+</title>
+
+<link rel="stylesheet" type="text/css" href="http://compbio.mcs.anl.gov/puma2/CSS/default.css">
+<link rel="stylesheet" type="text/css" href="http://compbio.mcs.anl.gov/puma2/CSS/myfreetemplates.css">
+
+<script type="text/javascript" language="JavaScript" src="http://compbio.mcs.anl.gov/puma2/javascript/scripts.js"></script>
+
+<script type="text/javascript" language="JavaScript" src="http://compbio.mcs.anl.gov/puma2/javascript/overlib_mini.js"><!-- overLIB (c) Erik Bosrup --></script> 
+
+<script type="text/javascript" language="JavaScript">
+<!-- Hide script from incompatible browsers! -->
+function openPhyloWindow() {
+    child = window.open("http://compbio.mcs.anl.gov/ulrich/phyloblock/indexEKB.html",
+                        "PhyloWindow", "width=550,height=580" + ",statusbar=yes" +
+                        ",toolbar=yes,resizable=yes,scrollbars=yes,menubar=yes")
+}
+
+function updatePhyloWindow( nref ) {
+    if (self.child.document.Form1.data.value.match(nref))
+        self.child.document.Form1.data.value = 
+            self.child.document.Form1.data.value.replace(nref+' ', '')
+    else
+        self.child.document.Form1.data.value += nref + ' ';
+}
+
+function clearPhyloWindow() {
+    self.child.document.Form1.data.value = '';
+}
+//   Hide script from incompatible browsers! -->
+</script>
+
+<script type="text/javascript" language="JavaScript" src="http://compbio.mcs.anl.gov/puma2/javascript/myfreetemplates.js"></script>
+
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages()">
+<script type="text/javascript" language="JavaScript">
+
+	vqm__notice='Visual QuickMenu Pro, (c) 2004 OpenCube Inc., All Rights Reserved, Visit - www.opencube.com';
+
+	vqm__codebase='http://compbio.mcs.anl.gov/puma2/navbar/code/';
+	vqm__database='http://compbio.mcs.anl.gov/puma2/navbar/images/';
+
+</script>
+<script type="text/javascript" language="JavaScript1.2" src="http://compbio.mcs.anl.gov/puma2/navbar/code/puma2-hnavbar.js"></script>
+<script type="text/javascript" language="JavaScript1.2" src="http://compbio.mcs.anl.gov/puma2/navbar/code/tdqm_loader.js"></script>
+
+<html>
+    <head>
+        <title>CGI=HASH(0x814ccd4)</title>
+
+        <script language="javascript">
+            <!-- begin
+            var selected = "";
+	
+	// iga
+	    
+            iga_not_selected = new Image();
+            iga_not_selected.src = "http://compbio.mcs.anl.gov/pathos/images/isa.jpg";
+
+            iga_rollover = new Image();
+            iga_rollover.src = "http://compbio.mcs.anl.gov/pathos/images/isa.jpg";
+
+            iga_selected = new Image();
+            iga_selected.src = "http://compbio.mcs.anl.gov/pathos/images/isa.jpg";
+	
+	// mrs
+	    
+            mrs_not_selected = new Image();
+            mrs_not_selected.src = "http://compbio.mcs.anl.gov/pathos/images/mrs.jpg";
+
+            mrs_rollover = new Image();
+            mrs_rollover.src = "http://compbio.mcs.anl.gov/pathos/images/mrs.jpg";
+
+            mrs_selected = new Image();
+            mrs_selected.src = "http://compbio.mcs.anl.gov/pathos/images/mrs.jpg";
+	
+	// osp
+	    
+            osp_not_selected = new Image();
+            osp_not_selected.src = "http://compbio.mcs.anl.gov/pathos/images/osp.jpg";
+
+            osp_rollover = new Image();
+            osp_rollover.src = "http://compbio.mcs.anl.gov/pathos/images/osp.jpg";
+
+            osp_selected = new Image();
+            osp_selected.src = "http://compbio.mcs.anl.gov/pathos/images/osp.jpg";
+	
+	// pwy
+	    
+            pwy_not_selected = new Image();
+            pwy_not_selected.src = "http://compbio.mcs.anl.gov/pathos/images/pwy.jpg";
+
+            pwy_rollover = new Image();
+            pwy_rollover.src = "http://compbio.mcs.anl.gov/pathos/images/pwy.jpg";
+
+            pwy_selected = new Image();
+            pwy_selected.src = "http://compbio.mcs.anl.gov/pathos/images/pwy.jpg";
+	
+	// ed
+	    
+            ed_not_selected = new Image();
+            ed_not_selected.src = "http://compbio.mcs.anl.gov/pathos/images/edu.jpg";
+
+            ed_rollover = new Image();
+            ed_rollover.src = "http://compbio.mcs.anl.gov/pathos/images/edu.jpg";
+
+            ed_selected = new Image();
+            ed_selected.src = "http://compbio.mcs.anl.gov/pathos/images/edu.jpg";
+	
+	// tut
+	    
+            tut_not_selected = new Image();
+            tut_not_selected.src = "http://compbio.mcs.anl.gov/pathos/images/tut.jpg";
+
+            tut_rollover = new Image();
+            tut_rollover.src = "http://compbio.mcs.anl.gov/pathos/images/tut.jpg";
+
+            tut_selected = new Image();
+            tut_selected.src = "http://compbio.mcs.anl.gov/pathos/images/tut.jpg";
+	
+	// tut
+	    
+            tut_not_selected = new Image();
+            tut_not_selected.src = "http://compbio.mcs.anl.gov/pathos/images/about.jpg";
+
+            tut_rollover = new Image();
+            tut_rollover.src = "http://compbio.mcs.anl.gov/pathos/images/about.jpp";
+
+            tut_selected = new Image();
+            tut_selected.src = "http://compbio.mcs.anl.gov/pathos/images/about.jpg";
+    
+    // # Selected tab shouldn't respond to anything
+	
+	    function mouseOver( name ) {
+                if( name != selected )
+                    eval( "document." + name + ".src = " + name +
+			  "_rollover.src" );
+            }
+
+            function mouseOut( name ) {
+                if( name != selected )
+                    eval( "document." + name + ".src = " + name +
+			  "_not_selected.src" );
+            }
+
+            function clicked( name ) {
+                if( name != selected ) {
+                    // Switch selected to not selected and name to selected
+                    if( selected != '' )
+                        eval( "document." + selected + ".src = " + selected +
+			      "_not_selected.src" );
+                    eval( "document." + name + ".src = " + name +
+			  "_selected.src" );
+                    selected = name;
+                }
+            }
+            // end -->
+        </script>
+    </head>
+    <body bgcolor="white">
+        <table width="800" border="0" cellspacing="0" cellpadding="0">
+            <tr valign="bottom"><td>
+                <a href="http://compbio.mcs.anl.gov/pathos/"><img src="http://compbio.mcs.anl.gov/pathos/images/logo3.jpg" alt="Microbial Informatics Core" border="0"></a><br>
+                <table cellpadding="0" cellspacing="0">
+                    <tr>
+	            <td bgcolor="white">
+                    <a href="http://compbio.mcs.anl.gov/puma2/cgi-bin/search.cgi?header=pathos"
+                       onMouseOver="mouseOver( 'iga' );"
+                       onMouseOut="mouseOut( 'iga' );"
+                       onClick="clicked( 'iga' );"
+                       target="contents"
+                    >
+                        <img name="iga" src="http://compbio.mcs.anl.gov/pathos/images/isa.jpg" alt="Interactive Sequence Analysis"
+			 border="0">
+                    </a>
+                </td>
+	            <td bgcolor="white">
+                    <a href="http://compbio.mcs.anl.gov/puma2/cgi-bin/met_recon.cgi"
+                       onMouseOver="mouseOver( 'mrs' );"
+                       onMouseOut="mouseOut( 'mrs' );"
+                       onClick="clicked( 'mrs' );"
+                       target="contents"
+                    >
+                        <img name="mrs" src="http://compbio.mcs.anl.gov/pathos/images/mrs.jpg" alt="Metabolic Reconstructions"
+			 border="0">
+                    </a>
+                </td>
+	            <td bgcolor="white">
+                    <a href="http://compbio.mcs.anl.gov/pathos/html/osp.html"
+                       onMouseOver="mouseOver( 'osp' );"
+                       onMouseOut="mouseOut( 'osp' );"
+                       onClick="clicked( 'osp' );"
+                       target="contents"
+                    >
+                        <img name="osp" src="http://compbio.mcs.anl.gov/pathos/images/osp.jpg" alt="Organism Specific Models"
+			 border="0">
+                    </a>
+                </td>
+	            <td bgcolor="white">
+                    <a href="http://compbio.mcs.anl.gov/pathogene/"
+                       onMouseOver="mouseOver( 'pwy' );"
+                       onMouseOut="mouseOut( 'pwy' );"
+                       onClick="clicked( 'pwy' );"
+                       target="contents"
+                    >
+                        <img name="pwy" src="http://compbio.mcs.anl.gov/pathos/images/pwy.jpg" alt="Pathos DB Pathways"
+			 border="0">
+                    </a>
+                </td>
+	            <td bgcolor="white">
+                    <a href="http://compbio.mcs.anl.gov/pathos/cgi-bin/index.cgi?page=education"
+                       onMouseOver="mouseOver( 'ed' );"
+                       onMouseOut="mouseOut( 'ed' );"
+                       onClick="clicked( 'ed' );"
+                       target="contents"
+                    >
+                        <img name="ed" src="http://compbio.mcs.anl.gov/pathos/images/edu.jpg" alt="Education"
+			 border="0">
+                    </a>
+                </td>
+	            <td bgcolor="white">
+                    <a href="http://compbio.mcs.anl.gov/pathos/cgi-bin/index.cgi?page=aboutmic"
+                       onMouseOver="mouseOver( 'tut' );"
+                       onMouseOut="mouseOut( 'tut' );"
+                       onClick="clicked( 'tut' );"
+                       target="contents"
+                    >
+                        <img name="tut" src="http://compbio.mcs.anl.gov/pathos/images/tut.jpg" alt="Tutorial"
+			 border="0">
+                    </a>
+                </td>
+	            <td bgcolor="white">
+                    <a href="http://compbio.mcs.anl.gov/pathos/cgi-bin/index.cgi?page=aboutmic"
+                       onMouseOver="mouseOver( 'tut' );"
+                       onMouseOut="mouseOut( 'tut' );"
+                       onClick="clicked( 'tut' );"
+                       target="contents"
+                    >
+                        <img name="tut" src="http://compbio.mcs.anl.gov/pathos/images/about.jpg" alt="About the MIC"
+			 border="0">
+                    </a>
+                </td>
+            </tr>
+        </table>
+        </td></tr></table>
+    </body>
+</html>
+<p>
+
+<center>
+
+<table border="0">
+<tr>
+<td>
+
+<form method="POST" action="http://compbio.mcs.anl.gov/puma2/cgi-bin/search.cgi">
+
+<input type="hidden" name="header" value="pathos">
+
+<input type="hidden" name="search" value="Submit">
+
+<table bgcolor="#FFFFFF" cellpadding="5" cellspacing="2" border="0">
+
+<tr>
+<td bgcolor="#DBE9F4" align="right">
+&nbsp;<br>
+<font face="Verdana, Arial, Helvetica"><b>Search type:</b></font>&nbsp;&nbsp;<br>
+&nbsp;
+</td>
+
+<td bgcolor="#DBE9F4" valign="top" align="left">
+<input type="radio" name="search_type" value="protein_id" checked>
+<font face="Verdana, Arial, Helvetica">Protein ID</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+&nbsp;&nbsp;
+<select name="protein_id_type">
+<option value="NCBI_GI">NCBI gi
+<option value="PIR_ID">PIR NREF id
+</select>
+</td>
+
+<td bgcolor="#DBE9F4" valign="top" align="left">
+<input type="radio" name="search_type" value="ec">
+<font face="Verdana, Arial, Helvetica">EC number</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;<a href="http://compbio.mcs.anl.gov/puma2/cgi-bin/ec.cgi?&header=pathos">(browse enzymes)</a>
+</td>
+
+<td bgcolor="#DBE9F4" valign="top" align="left">
+<input type="radio" name="search_type" value="function">
+<font face="Verdana, Arial, Helvetica">Function keyword(s)</font>
+&nbsp;&nbsp;<br>
+</td>
+
+<td bgcolor="#DBE9F4" valign="top" align="left">
+<input type="radio" name="search_type" value="gene">
+<font face="Verdana, Arial, Helvetica">Gene name</font>
+&nbsp;&nbsp;<br>
+</td>
+
+<td bgcolor="#DBE9F4" valign="top" align="left">
+<input type="radio" name="search_type" value="locus">
+<font face="Verdana, Arial, Helvetica">Locus tag</font>
+&nbsp;&nbsp;<br>
+</td>
+
+</tr>
+
+<tr>
+<td bgcolor="#DBE9F4" align="right">
+&nbsp;<br>
+<font face="Verdana, Arial, Helvetica">
+<b>Search text:</b></font>&nbsp;&nbsp;<br>
+&nbsp;
+</td>
+
+<td colspan="5">
+<input name="search_text" size="50">
+<input type="submit" name="search" value="Submit">
+<input type="reset">
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#DBE9F4" valign="top" align="right">
+&nbsp;<br>
+<font face="Verdana, Arial, Helvetica"><b>Select organism(s):</b></font>&nbsp;&nbsp;<br>
+&nbsp;
+</td>
+
+<td colspan="5" valign="top">
+<select name="org_taxid" multiple size="10">
+<option value="0" selected>all organisms
+<option value="2283">Archaea:&nbsp&nbsp;Acidianus ambivalens
+<option value="272557">Archaea:&nbsp&nbsp;Aeropyrum pernix K1
+<option value="224325">Archaea:&nbsp&nbsp;Archaeoglobus fulgidus DSM 4304
+<option value="272569">Archaea:&nbsp&nbsp;Haloarcula marismortui ATCC 43049
+<option value="262078">Archaea:&nbsp&nbsp;Haloarcula sp. AS7094
+<option value="2242">Archaea:&nbsp&nbsp;Halobacterium salinarum
+<option value="64091">Archaea:&nbsp&nbsp;Halobacterium sp. NRC-1
+<option value="362976">Archaea:&nbsp&nbsp;Haloquadratum walsbyi DSM 16790
+<option value="2248">Archaea:&nbsp&nbsp;Halorubrum saccharovorum
+<option value="243232">Archaea:&nbsp&nbsp;Methanocaldococcus jannaschii DSM 2661
+<option value="259564">Archaea:&nbsp&nbsp;Methanococcoides burtonii DSM 6242
+<option value="39152">Archaea:&nbsp&nbsp;Methanococcus maripaludis
+<option value="267377">Archaea:&nbsp&nbsp;Methanococcus maripaludis S2
+<option value="2176">Archaea:&nbsp&nbsp;Methanohalophilus mahii
+<option value="190192">Archaea:&nbsp&nbsp;Methanopyrus kandleri AV19
+<option value="2214">Archaea:&nbsp&nbsp;Methanosarcina acetivorans
+<option value="188937">Archaea:&nbsp&nbsp;Methanosarcina acetivorans C2A
+<option value="269797">Archaea:&nbsp&nbsp;Methanosarcina barkeri str. Fusaro
+<option value="192952">Archaea:&nbsp&nbsp;Methanosarcina mazei Go1
+<option value="339860">Archaea:&nbsp&nbsp;Methanosphaera stadtmanae DSM 3091
+<option value="323259">Archaea:&nbsp&nbsp;Methanospirillum hungatei JF-1
+<option value="145262">Archaea:&nbsp&nbsp;Methanothermobacter thermautotrophicus
+<option value="187420">Archaea:&nbsp&nbsp;Methanothermobacter thermautotrophicus str. Delta H
+<option value="228908">Archaea:&nbsp&nbsp;Nanoarchaeum equitans Kin4-M
+<option value="290611">Archaea:&nbsp&nbsp;Natrinema sp. CX2021
+<option value="198929">Archaea:&nbsp&nbsp;Natronobacterium sp. AS-7091
+<option value="348780">Archaea:&nbsp&nbsp;Natronomonas pharaonis DSM 2160
+<option value="263820">Archaea:&nbsp&nbsp;Picrophilus torridus DSM 9790
+<option value="178306">Archaea:&nbsp&nbsp;Pyrobaculum aerophilum str. IM2
+<option value="272844">Archaea:&nbsp&nbsp;Pyrococcus abyssi GE5
+<option value="186497">Archaea:&nbsp&nbsp;Pyrococcus furiosus DSM 3638
+<option value="70601">Archaea:&nbsp&nbsp;Pyrococcus horikoshii OT3
+<option value="165215">Archaea:&nbsp&nbsp;Pyrococcus sp. JT1
+<option value="330779">Archaea:&nbsp&nbsp;Sulfolobus acidocaldarius DSM 639
+<option value="43080">Archaea:&nbsp&nbsp;Sulfolobus islandicus
+<option value="299422">Archaea:&nbsp&nbsp;Sulfolobus neozealandicus
+<option value="2287">Archaea:&nbsp&nbsp;Sulfolobus solfataricus
+<option value="273057">Archaea:&nbsp&nbsp;Sulfolobus solfataricus P2
+<option value="84600">Archaea:&nbsp&nbsp;Sulfolobus sp. NOB8H2
+<option value="207809">Archaea:&nbsp&nbsp;Sulfolobus tengchongensis
+<option value="273063">Archaea:&nbsp&nbsp;Sulfolobus tokodaii str. 7
+<option value="69014">Archaea:&nbsp&nbsp;Thermococcus kodakarensis KOD1
+<option value="2303">Archaea:&nbsp&nbsp;Thermoplasma acidophilum
+<option value="273075">Archaea:&nbsp&nbsp;Thermoplasma acidophilum DSM 1728
+<option value="273116">Archaea:&nbsp&nbsp;Thermoplasma volcanium GSS1
+<option value="88773">Archaea:&nbsp&nbsp;haloarchaeal coccus LOC-1
+<option value="435">Bacteria:&nbsp&nbsp;Acetobacter aceti
+<option value="438">Bacteria:&nbsp&nbsp;Acetobacter pasteurianus
+<option value="32002">Bacteria:&nbsp&nbsp;Achromobacter denitrificans
+<option value="85698">Bacteria:&nbsp&nbsp;Achromobacter xylosoxidans
+<option value="33059">Bacteria:&nbsp&nbsp;Acidithiobacillus caldus
+<option value="920">Bacteria:&nbsp&nbsp;Acidithiobacillus ferrooxidans
+<option value="204669">Bacteria:&nbsp&nbsp;Acidobacteria bacterium Ellin345
+<option value="470">Bacteria:&nbsp&nbsp;Acinetobacter baumannii
+<option value="62977">Bacteria:&nbsp&nbsp;Acinetobacter sp. ADP1
+<option value="156739">Bacteria:&nbsp&nbsp;Acinetobacter sp. EB104
+<option value="61312">Bacteria:&nbsp&nbsp;Acinetobacter sp. SUN
+<option value="714">Bacteria:&nbsp&nbsp;Actinobacillus actinomycetemcomitans
+<option value="715">Bacteria:&nbsp&nbsp;Actinobacillus pleuropneumoniae
+<option value="189834">Bacteria:&nbsp&nbsp;Actinobacillus porcitonsillarum
+<option value="648">Bacteria:&nbsp&nbsp;Aeromonas punctata
+<option value="645">Bacteria:&nbsp&nbsp;Aeromonas salmonicida
+<option value="29491">Bacteria:&nbsp&nbsp;Aeromonas salmonicida subsp. salmonicida
+<option value="382245">Bacteria:&nbsp&nbsp;Aeromonas salmonicida subsp. salmonicida A449
+<option value="359">Bacteria:&nbsp&nbsp;Agrobacterium rhizogenes
+<option value="358">Bacteria:&nbsp&nbsp;Agrobacterium tumefaciens
+<option value="176299">Bacteria:&nbsp&nbsp;Agrobacterium tumefaciens str. C58
+<option value="393595">Bacteria:&nbsp&nbsp;Alcanivorax borkumensis SK2
+<option value="240292">Bacteria:&nbsp&nbsp;Anabaena variabilis ATCC 29413
+<option value="290397">Bacteria:&nbsp&nbsp;Anaeromyxobacter dehalogenans 2CP-C
+<option value="234826">Bacteria:&nbsp&nbsp;Anaplasma marginale str. St. Maries
+<option value="212042">Bacteria:&nbsp&nbsp;Anaplasma phagocytophilum HZ
+<option value="224324">Bacteria:&nbsp&nbsp;Aquifex aeolicus VF5
+<option value="1661">Bacteria:&nbsp&nbsp;Arcanobacterium pyogenes
+<option value="35779">Bacteria:&nbsp&nbsp;Aster yellows phytoplasma
+<option value="322098">Bacteria:&nbsp&nbsp;Aster yellows witches'-broom phytoplasma AYWB
+<option value="728">Bacteria:&nbsp&nbsp;Avibacterium paragallinarum
+<option value="76114">Bacteria:&nbsp&nbsp;Azoarcus sp. EbN1
+<option value="1392">Bacteria:&nbsp&nbsp;Bacillus anthracis
+<option value="261594">Bacteria:&nbsp&nbsp;Bacillus anthracis str. 'Ames Ancestor'
+<option value="191218">Bacteria:&nbsp&nbsp;Bacillus anthracis str. A2012
+<option value="198094">Bacteria:&nbsp&nbsp;Bacillus anthracis str. Ames
+<option value="260799">Bacteria:&nbsp&nbsp;Bacillus anthracis str. Sterne
+<option value="222523">Bacteria:&nbsp&nbsp;Bacillus cereus ATCC 10987
+<option value="226900">Bacteria:&nbsp&nbsp;Bacillus cereus ATCC 14579
+<option value="288681">Bacteria:&nbsp&nbsp;Bacillus cereus E33L
+<option value="66692">Bacteria:&nbsp&nbsp;Bacillus clausii KSM-K16
+<option value="272558">Bacteria:&nbsp&nbsp;Bacillus halodurans C-125
+<option value="1402">Bacteria:&nbsp&nbsp;Bacillus licheniformis
+<option value="279010">Bacteria:&nbsp&nbsp;Bacillus licheniformis ATCC 14580
+<option value="1404">Bacteria:&nbsp&nbsp;Bacillus megaterium
+<option value="1471">Bacteria:&nbsp&nbsp;Bacillus methanolicus
+<option value="1405">Bacteria:&nbsp&nbsp;Bacillus mycoides
+<option value="1408">Bacteria:&nbsp&nbsp;Bacillus pumilus
+<option value="119423">Bacteria:&nbsp&nbsp;Bacillus sp. B-3
+<option value="1421">Bacteria:&nbsp&nbsp;Bacillus sphaericus
+<option value="1423">Bacteria:&nbsp&nbsp;Bacillus subtilis
+<option value="224308">Bacteria:&nbsp&nbsp;Bacillus subtilis subsp. subtilis str. 168
+<option value="1428">Bacteria:&nbsp&nbsp;Bacillus thuringiensis
+<option value="132264">Bacteria:&nbsp&nbsp;Bacillus thuringiensis serovar darmstadiensis
+<option value="1436">Bacteria:&nbsp&nbsp;Bacillus thuringiensis serovar entomocidus
+<option value="1430">Bacteria:&nbsp&nbsp;Bacillus thuringiensis serovar israelensis
+<option value="281309">Bacteria:&nbsp&nbsp;Bacillus thuringiensis serovar konkukian str. 97-27
+<option value="29339">Bacteria:&nbsp&nbsp;Bacillus thuringiensis serovar kurstaki
+<option value="1432">Bacteria:&nbsp&nbsp;Bacillus thuringiensis serovar thuringiensis
+<option value="817">Bacteria:&nbsp&nbsp;Bacteroides fragilis
+<option value="272559">Bacteria:&nbsp&nbsp;Bacteroides fragilis NCTC 9343
+<option value="295405">Bacteria:&nbsp&nbsp;Bacteroides fragilis YCH46
+<option value="226186">Bacteria:&nbsp&nbsp;Bacteroides thetaiotaomicron VPI-5482
+<option value="820">Bacteria:&nbsp&nbsp;Bacteroides uniformis
+<option value="33045">Bacteria:&nbsp&nbsp;Bartonella grahamii
+<option value="283166">Bacteria:&nbsp&nbsp;Bartonella henselae str. Houston-1
+<option value="283165">Bacteria:&nbsp&nbsp;Bartonella quintana str. Toulouse
+<option value="374463">Bacteria:&nbsp&nbsp;Baumannia cicadellinicola str. Hc (Homalodisca coagulata)
+<option value="264462">Bacteria:&nbsp&nbsp;Bdellovibrio bacteriovorus HD100
+<option value="37694">Bacteria:&nbsp&nbsp;Beet leafhopper transmitted virescence phytoplasma
+<option value="1685">Bacteria:&nbsp&nbsp;Bifidobacterium breve
+<option value="1686">Bacteria:&nbsp&nbsp;Bifidobacterium catenulatum
+<option value="216816">Bacteria:&nbsp&nbsp;Bifidobacterium longum
+<option value="206672">Bacteria:&nbsp&nbsp;Bifidobacterium longum NCC2705
+<option value="28026">Bacteria:&nbsp&nbsp;Bifidobacterium pseudocatenulatum
+<option value="257310">Bacteria:&nbsp&nbsp;Bordetella bronchiseptica RB50
+<option value="257311">Bacteria:&nbsp&nbsp;Bordetella parapertussis 12822
+<option value="257313">Bacteria:&nbsp&nbsp;Bordetella pertussis Tohama I
+<option value="390236">Bacteria:&nbsp&nbsp;Borrelia afzelii PKo
+<option value="139">Bacteria:&nbsp&nbsp;Borrelia burgdorferi
+<option value="224326">Bacteria:&nbsp&nbsp;Borrelia burgdorferi B31
+<option value="290434">Bacteria:&nbsp&nbsp;Borrelia garinii PBi
+<option value="224911">Bacteria:&nbsp&nbsp;Bradyrhizobium japonicum USDA 110
+<option value="45462">Bacteria:&nbsp&nbsp;Brevibacillus borstelensis
+<option value="1703">Bacteria:&nbsp&nbsp;Brevibacterium linens
+<option value="262698">Bacteria:&nbsp&nbsp;Brucella abortus biovar 1 str. 9-941
+<option value="224914">Bacteria:&nbsp&nbsp;Brucella melitensis 16M
+<option value="359391">Bacteria:&nbsp&nbsp;Brucella melitensis biovar Abortus 2308
+<option value="204722">Bacteria:&nbsp&nbsp;Brucella suis 1330
+<option value="9">Bacteria:&nbsp&nbsp;Buchnera aphidicola
+<option value="135842">Bacteria:&nbsp&nbsp;Buchnera aphidicola (Baizongia pistaciae)
+<option value="98794">Bacteria:&nbsp&nbsp;Buchnera aphidicola (Schizaphis graminum)
+<option value="107806">Bacteria:&nbsp&nbsp;Buchnera aphidicola str. APS (Acyrthosiphon pisum)
+<option value="224915">Bacteria:&nbsp&nbsp;Buchnera aphidicola str. Bp (Baizongia pistaciae)
+<option value="198804">Bacteria:&nbsp&nbsp;Buchnera aphidicola str. Sg (Schizaphis graminum)
+<option value="331271">Bacteria:&nbsp&nbsp;Burkholderia cenocepacia AU 1054
+<option value="243160">Bacteria:&nbsp&nbsp;Burkholderia mallei ATCC 23344
+<option value="320372">Bacteria:&nbsp&nbsp;Burkholderia pseudomallei 1710b
+<option value="272560">Bacteria:&nbsp&nbsp;Burkholderia pseudomallei K96243
+<option value="269483">Bacteria:&nbsp&nbsp;Burkholderia sp. 383
+<option value="271848">Bacteria:&nbsp&nbsp;Burkholderia thailandensis E264
+<option value="266265">Bacteria:&nbsp&nbsp;Burkholderia xenovorans LB400
+<option value="831">Bacteria:&nbsp&nbsp;Butyrivibrio fibrisolvens
+<option value="28907">Bacteria:&nbsp&nbsp;Caedibacter taeniospiralis
+<option value="195">Bacteria:&nbsp&nbsp;Campylobacter coli
+<option value="197">Bacteria:&nbsp&nbsp;Campylobacter jejuni
+<option value="195099">Bacteria:&nbsp&nbsp;Campylobacter jejuni RM1221
+<option value="354242">Bacteria:&nbsp&nbsp;Campylobacter jejuni subsp. jejuni 81-176
+<option value="192222">Bacteria:&nbsp&nbsp;Campylobacter jejuni subsp. jejuni NCTC 11168
+<option value="201">Bacteria:&nbsp&nbsp;Campylobacter lari
+<option value="203907">Bacteria:&nbsp&nbsp;Candidatus Blochmannia floridanus
+<option value="291272">Bacteria:&nbsp&nbsp;Candidatus Blochmannia pennsylvanicus str. BPEN
+<option value="335992">Bacteria:&nbsp&nbsp;Candidatus Pelagibacter ubique HTCC1062
+<option value="264201">Bacteria:&nbsp&nbsp;Candidatus Protochlamydia amoebophila UWE25
+<option value="246194">Bacteria:&nbsp&nbsp;Carboxydothermus hydrogenoformans Z-2901
+<option value="190650">Bacteria:&nbsp&nbsp;Caulobacter crescentus CB15
+<option value="243161">Bacteria:&nbsp&nbsp;Chlamydia muridarum Nigg
+<option value="315277">Bacteria:&nbsp&nbsp;Chlamydia trachomatis A/HAR-13
+<option value="272561">Bacteria:&nbsp&nbsp;Chlamydia trachomatis D/UW-3/CX
+<option value="218497">Bacteria:&nbsp&nbsp;Chlamydophila abortus S26/3
+<option value="227941">Bacteria:&nbsp&nbsp;Chlamydophila caviae GPIC
+<option value="264202">Bacteria:&nbsp&nbsp;Chlamydophila felis Fe/C-56
+<option value="115711">Bacteria:&nbsp&nbsp;Chlamydophila pneumoniae AR39
+<option value="115713">Bacteria:&nbsp&nbsp;Chlamydophila pneumoniae CWL029
+<option value="138677">Bacteria:&nbsp&nbsp;Chlamydophila pneumoniae J138
+<option value="182082">Bacteria:&nbsp&nbsp;Chlamydophila pneumoniae TW-183
+<option value="83554">Bacteria:&nbsp&nbsp;Chlamydophila psittaci
+<option value="340177">Bacteria:&nbsp&nbsp;Chlorobium chlorochromatii CaD3
+<option value="1092">Bacteria:&nbsp&nbsp;Chlorobium limicola
+<option value="194439">Bacteria:&nbsp&nbsp;Chlorobium tepidum TLS
+<option value="243365">Bacteria:&nbsp&nbsp;Chromobacterium violaceum ATCC 12472
+<option value="290398">Bacteria:&nbsp&nbsp;Chromohalobacter salexigens DSM 3043
+<option value="546">Bacteria:&nbsp&nbsp;Citrobacter freundii
+<option value="67825">Bacteria:&nbsp&nbsp;Citrobacter rodentium
+<option value="272562">Bacteria:&nbsp&nbsp;Clostridium acetobutylicum ATCC 824
+<option value="1496">Bacteria:&nbsp&nbsp;Clostridium difficile
+<option value="272563">Bacteria:&nbsp&nbsp;Clostridium difficile 630
+<option value="1502">Bacteria:&nbsp&nbsp;Clostridium perfringens
+<option value="195103">Bacteria:&nbsp&nbsp;Clostridium perfringens ATCC 13124
+<option value="289380">Bacteria:&nbsp&nbsp;Clostridium perfringens SM101
+<option value="195102">Bacteria:&nbsp&nbsp;Clostridium perfringens str. 13
+<option value="48257">Bacteria:&nbsp&nbsp;Clostridium sp. MCF-1
+<option value="212717">Bacteria:&nbsp&nbsp;Clostridium tetani E88
+<option value="167879">Bacteria:&nbsp&nbsp;Colwellia psychrerythraea 34H
+<option value="285">Bacteria:&nbsp&nbsp;Comamonas testosteroni
+<option value="1721">Bacteria:&nbsp&nbsp;Corynebacterium callunae
+<option value="1717">Bacteria:&nbsp&nbsp;Corynebacterium diphtheriae
+<option value="257309">Bacteria:&nbsp&nbsp;Corynebacterium diphtheriae NCTC 13129
+<option value="152794">Bacteria:&nbsp&nbsp;Corynebacterium efficiens
+<option value="196164">Bacteria:&nbsp&nbsp;Corynebacterium efficiens YS-314
+<option value="1718">Bacteria:&nbsp&nbsp;Corynebacterium glutamicum
+<option value="196627">Bacteria:&nbsp&nbsp;Corynebacterium glutamicum ATCC 13032
+<option value="38289">Bacteria:&nbsp&nbsp;Corynebacterium jeikeium
+<option value="306537">Bacteria:&nbsp&nbsp;Corynebacterium jeikeium K411
+<option value="1724">Bacteria:&nbsp&nbsp;Corynebacterium renale
+<option value="43770">Bacteria:&nbsp&nbsp;Corynebacterium striatum
+<option value="777">Bacteria:&nbsp&nbsp;Coxiella burnetii
+<option value="227377">Bacteria:&nbsp&nbsp;Coxiella burnetii RSA 493
+<option value="269798">Bacteria:&nbsp&nbsp;Cytophaga hutchinsonii ATCC 33406
+<option value="159087">Bacteria:&nbsp&nbsp;Dechloromonas aromatica RCB
+<option value="243164">Bacteria:&nbsp&nbsp;Dehalococcoides ethenogenes 195
+<option value="255470">Bacteria:&nbsp&nbsp;Dehalococcoides sp. CBDB1
+<option value="319795">Bacteria:&nbsp&nbsp;Deinococcus geothermalis DSM 11300
+<option value="243230">Bacteria:&nbsp&nbsp;Deinococcus radiodurans R1
+<option value="80866">Bacteria:&nbsp&nbsp;Delftia acidovorans
+<option value="138119">Bacteria:&nbsp&nbsp;Desulfitobacterium hafniense Y51
+<option value="177439">Bacteria:&nbsp&nbsp;Desulfotalea psychrophila LSv54
+<option value="207559">Bacteria:&nbsp&nbsp;Desulfovibrio desulfuricans G20
+<option value="882">Bacteria:&nbsp&nbsp;Desulfovibrio vulgaris subsp. vulgaris str. Hildenborough
+<option value="870">Bacteria:&nbsp&nbsp;Dichelobacter nodosus
+<option value="67780">Bacteria:&nbsp&nbsp;Edwardsiella ictaluri
+<option value="269484">Bacteria:&nbsp&nbsp;Ehrlichia canis str. Jake
+<option value="205920">Bacteria:&nbsp&nbsp;Ehrlichia chaffeensis str. Arkansas
+<option value="302409">Bacteria:&nbsp&nbsp;Ehrlichia ruminantium str. Gardel
+<option value="254945">Bacteria:&nbsp&nbsp;Ehrlichia ruminantium str. Welgevonden
+<option value="539">Bacteria:&nbsp&nbsp;Eikenella corrodens
+<option value="548">Bacteria:&nbsp&nbsp;Enterobacter aerogenes
+<option value="211595">Bacteria:&nbsp&nbsp;Enterobacter sp. RFL1396
+<option value="1351">Bacteria:&nbsp&nbsp;Enterococcus faecalis
+<option value="226185">Bacteria:&nbsp&nbsp;Enterococcus faecalis V583
+<option value="1352">Bacteria:&nbsp&nbsp;Enterococcus faecium
+<option value="552">Bacteria:&nbsp&nbsp;Erwinia amylovora
+<option value="218491">Bacteria:&nbsp&nbsp;Erwinia carotovora subsp. atroseptica SCRI1043
+<option value="79967">Bacteria:&nbsp&nbsp;Erwinia pyrifoliae
+<option value="231374">Bacteria:&nbsp&nbsp;Erwinia sp. Ejp 556
+<option value="1648">Bacteria:&nbsp&nbsp;Erysipelothrix rhusiopathiae
+<option value="314225">Bacteria:&nbsp&nbsp;Erythrobacter litoralis HTCC2594
+<option value="562">Bacteria:&nbsp&nbsp;Escherichia coli
+<option value="362663">Bacteria:&nbsp&nbsp;Escherichia coli 536
+<option value="199310">Bacteria:&nbsp&nbsp;Escherichia coli CFT073
+<option value="83333">Bacteria:&nbsp&nbsp;Escherichia coli K12
+<option value="155864">Bacteria:&nbsp&nbsp;Escherichia coli O157:H7 EDL933
+<option value="386585">Bacteria:&nbsp&nbsp;Escherichia coli O157:H7 str. Sakai
+<option value="364106">Bacteria:&nbsp&nbsp;Escherichia coli UTI89
+<option value="96345">Bacteria:&nbsp&nbsp;Flavobacterium psychrophilum
+<option value="239">Bacteria:&nbsp&nbsp;Flavobacterium sp.
+<option value="263">Bacteria:&nbsp&nbsp;Francisella tularensis
+<option value="119857">Bacteria:&nbsp&nbsp;Francisella tularensis subsp. holarctica
+<option value="264">Bacteria:&nbsp&nbsp;Francisella tularensis subsp. novicida
+<option value="393115">Bacteria:&nbsp&nbsp;Francisella tularensis subsp. tularensis FSC 198
+<option value="177416">Bacteria:&nbsp&nbsp;Francisella tularensis subsp. tularensis SCHU S4
+<option value="326424">Bacteria:&nbsp&nbsp;Frankia alni ACN14a
+<option value="106370">Bacteria:&nbsp&nbsp;Frankia sp. CcI3
+<option value="1856">Bacteria:&nbsp&nbsp;Frankia sp. CpI1
+<option value="851">Bacteria:&nbsp&nbsp;Fusobacterium nucleatum
+<option value="190304">Bacteria:&nbsp&nbsp;Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+<option value="235909">Bacteria:&nbsp&nbsp;Geobacillus kaustophilus HTA426
+<option value="1422">Bacteria:&nbsp&nbsp;Geobacillus stearothermophilus
+<option value="269799">Bacteria:&nbsp&nbsp;Geobacter metallireducens GS-15
+<option value="243231">Bacteria:&nbsp&nbsp;Geobacter sulfurreducens PCA
+<option value="251221">Bacteria:&nbsp&nbsp;Gloeobacter violaceus PCC 7421
+<option value="442">Bacteria:&nbsp&nbsp;Gluconobacter oxydans
+<option value="290633">Bacteria:&nbsp&nbsp;Gluconobacter oxydans 621H
+<option value="158898">Bacteria:&nbsp&nbsp;Gordonia westfalica
+<option value="730">Bacteria:&nbsp&nbsp;Haemophilus ducreyi
+<option value="233412">Bacteria:&nbsp&nbsp;Haemophilus ducreyi 35000HP
+<option value="281310">Bacteria:&nbsp&nbsp;Haemophilus influenzae 86-028NP
+<option value="71421">Bacteria:&nbsp&nbsp;Haemophilus influenzae Rd KW20
+<option value="725">Bacteria:&nbsp&nbsp;Haemophilus influenzae biotype aegyptius
+<option value="738">Bacteria:&nbsp&nbsp;Haemophilus parasuis
+<option value="205914">Bacteria:&nbsp&nbsp;Haemophilus somnus 129PT
+<option value="569">Bacteria:&nbsp&nbsp;Hafnia alvei
+<option value="349521">Bacteria:&nbsp&nbsp;Hahella chejuensis KCTC 2396
+<option value="382638">Bacteria:&nbsp&nbsp;Helicobacter acinonychis str. Sheeba
+<option value="235279">Bacteria:&nbsp&nbsp;Helicobacter hepaticus ATCC 51449
+<option value="210">Bacteria:&nbsp&nbsp;Helicobacter pylori
+<option value="85962">Bacteria:&nbsp&nbsp;Helicobacter pylori 26695
+<option value="357544">Bacteria:&nbsp&nbsp;Helicobacter pylori HPAG1
+<option value="85963">Bacteria:&nbsp&nbsp;Helicobacter pylori J99
+<option value="731">Bacteria:&nbsp&nbsp;Histophilus somni
+<option value="283942">Bacteria:&nbsp&nbsp;Idiomarina loihiensis L2TR
+<option value="290400">Bacteria:&nbsp&nbsp;Jannaschia sp. CCS1
+<option value="573">Bacteria:&nbsp&nbsp;Klebsiella pneumoniae
+<option value="160057">Bacteria:&nbsp&nbsp;Klebsiella sp. KCL-2
+<option value="1579">Bacteria:&nbsp&nbsp;Lactobacillus acidophilus
+<option value="272621">Bacteria:&nbsp&nbsp;Lactobacillus acidophilus NCFM
+<option value="1580">Bacteria:&nbsp&nbsp;Lactobacillus brevis
+<option value="1582">Bacteria:&nbsp&nbsp;Lactobacillus casei
+<option value="1584">Bacteria:&nbsp&nbsp;Lactobacillus delbrueckii
+<option value="1585">Bacteria:&nbsp&nbsp;Lactobacillus delbrueckii subsp. bulgaricus
+<option value="390333">Bacteria:&nbsp&nbsp;Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842
+<option value="29397">Bacteria:&nbsp&nbsp;Lactobacillus delbrueckii subsp. lactis
+<option value="1613">Bacteria:&nbsp&nbsp;Lactobacillus fermentum
+<option value="1587">Bacteria:&nbsp&nbsp;Lactobacillus helveticus
+<option value="44272">Bacteria:&nbsp&nbsp;Lactobacillus helveticus subsp. jugurti
+<option value="257314">Bacteria:&nbsp&nbsp;Lactobacillus johnsonii NCC 533
+<option value="1590">Bacteria:&nbsp&nbsp;Lactobacillus plantarum
+<option value="220668">Bacteria:&nbsp&nbsp;Lactobacillus plantarum WCFS1
+<option value="1598">Bacteria:&nbsp&nbsp;Lactobacillus reuteri
+<option value="349123">Bacteria:&nbsp&nbsp;Lactobacillus reuteri 100-23
+<option value="1599">Bacteria:&nbsp&nbsp;Lactobacillus sakei
+<option value="314315">Bacteria:&nbsp&nbsp;Lactobacillus sakei subsp. sakei 23K
+<option value="362948">Bacteria:&nbsp&nbsp;Lactobacillus salivarius subsp. salivarius UCC118
+<option value="1358">Bacteria:&nbsp&nbsp;Lactococcus lactis
+<option value="1359">Bacteria:&nbsp&nbsp;Lactococcus lactis subsp. cremoris
+<option value="1360">Bacteria:&nbsp&nbsp;Lactococcus lactis subsp. lactis
+<option value="272623">Bacteria:&nbsp&nbsp;Lactococcus lactis subsp. lactis Il1403
+<option value="44688">Bacteria:&nbsp&nbsp;Lactococcus lactis subsp. lactis bv. diacetylactis
+<option value="168471">Bacteria:&nbsp&nbsp;Laribacter hongkongensis
+<option value="363253">Bacteria:&nbsp&nbsp;Lawsonia intracellularis PHE/MN1-00
+<option value="297245">Bacteria:&nbsp&nbsp;Legionella pneumophila str. Lens
+<option value="297246">Bacteria:&nbsp&nbsp;Legionella pneumophila str. Paris
+<option value="272624">Bacteria:&nbsp&nbsp;Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+<option value="281090">Bacteria:&nbsp&nbsp;Leifsonia xyli subsp. xyli str. CTCB07
+<option value="1184">Bacteria:&nbsp&nbsp;Leptolyngbya boryana
+<option value="47253">Bacteria:&nbsp&nbsp;Leptolyngbya foveolarum
+<option value="272136">Bacteria:&nbsp&nbsp;Leptolyngbya sp. PCC 6402
+<option value="267671">Bacteria:&nbsp&nbsp;Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130
+<option value="189518">Bacteria:&nbsp&nbsp;Leptospira interrogans serovar Lai str. 56601
+<option value="180">Bacteria:&nbsp&nbsp;Leptospirillum ferrooxidans
+<option value="33964">Bacteria:&nbsp&nbsp;Leuconostoc citreum
+<option value="1245">Bacteria:&nbsp&nbsp;Leuconostoc mesenteroides
+<option value="33967">Bacteria:&nbsp&nbsp;Leuconostoc mesenteroides subsp. mesenteroides
+<option value="272626">Bacteria:&nbsp&nbsp;Listeria innocua Clip11262
+<option value="169963">Bacteria:&nbsp&nbsp;Listeria monocytogenes EGD-e
+<option value="265669">Bacteria:&nbsp&nbsp;Listeria monocytogenes str. 4b F2365
+<option value="55601">Bacteria:&nbsp&nbsp;Listonella anguillarum
+<option value="84159">Bacteria:&nbsp&nbsp;Magnetospirillum magneticum
+<option value="342108">Bacteria:&nbsp&nbsp;Magnetospirillum magneticum AMB-1
+<option value="75985">Bacteria:&nbsp&nbsp;Mannheimia haemolytica
+<option value="221988">Bacteria:&nbsp&nbsp;Mannheimia succiniciproducens MBEL55E
+<option value="85404">Bacteria:&nbsp&nbsp;Mannheimia varigena
+<option value="1371">Bacteria:&nbsp&nbsp;Marinococcus halophilus
+<option value="265311">Bacteria:&nbsp&nbsp;Mesoplasma florum L1
+<option value="266835">Bacteria:&nbsp&nbsp;Mesorhizobium loti MAFF303099
+<option value="266779">Bacteria:&nbsp&nbsp;Mesorhizobium sp. BNC1
+<option value="265072">Bacteria:&nbsp&nbsp;Methylobacillus flagellatus KT
+<option value="243233">Bacteria:&nbsp&nbsp;Methylococcus capsulatus str. Bath
+<option value="40223">Bacteria:&nbsp&nbsp;Methylophaga thalassica
+<option value="1270">Bacteria:&nbsp&nbsp;Micrococcus luteus
+<option value="161213">Bacteria:&nbsp&nbsp;Micrococcus sp. 28
+<option value="1126">Bacteria:&nbsp&nbsp;Microcystis aeruginosa
+<option value="47874">Bacteria:&nbsp&nbsp;Micromonospora rosaria
+<option value="155537">Bacteria:&nbsp&nbsp;Microscilla sp. PRE1
+<option value="264732">Bacteria:&nbsp&nbsp;Moorella thermoacetica ATCC 39073
+<option value="480">Bacteria:&nbsp&nbsp;Moraxella catarrhalis
+<option value="77152">Bacteria:&nbsp&nbsp;Moraxella sp. TA144
+<option value="1764">Bacteria:&nbsp&nbsp;Mycobacterium avium
+<option value="262316">Bacteria:&nbsp&nbsp;Mycobacterium avium subsp. paratuberculosis K-10
+<option value="233413">Bacteria:&nbsp&nbsp;Mycobacterium bovis AF2122/97
+<option value="28045">Bacteria:&nbsp&nbsp;Mycobacterium celatum
+<option value="272631">Bacteria:&nbsp&nbsp;Mycobacterium leprae TN
+<option value="164756">Bacteria:&nbsp&nbsp;Mycobacterium sp. MCS
+<option value="83331">Bacteria:&nbsp&nbsp;Mycobacterium tuberculosis CDC1551
+<option value="83332">Bacteria:&nbsp&nbsp;Mycobacterium tuberculosis H37Rv
+<option value="362242">Bacteria:&nbsp&nbsp;Mycobacterium ulcerans Agy99
+<option value="340047">Bacteria:&nbsp&nbsp;Mycoplasma capricolum subsp. capricolum ATCC 27343
+<option value="233150">Bacteria:&nbsp&nbsp;Mycoplasma gallisepticum R
+<option value="243273">Bacteria:&nbsp&nbsp;Mycoplasma genitalium G37
+<option value="295358">Bacteria:&nbsp&nbsp;Mycoplasma hyopneumoniae 232
+<option value="262722">Bacteria:&nbsp&nbsp;Mycoplasma hyopneumoniae 7448
+<option value="262719">Bacteria:&nbsp&nbsp;Mycoplasma hyopneumoniae J
+<option value="267748">Bacteria:&nbsp&nbsp;Mycoplasma mobile 163K
+<option value="2102">Bacteria:&nbsp&nbsp;Mycoplasma mycoides
+<option value="272632">Bacteria:&nbsp&nbsp;Mycoplasma mycoides subsp. mycoides SC str. PG1
+<option value="272633">Bacteria:&nbsp&nbsp;Mycoplasma penetrans HF-2
+<option value="272634">Bacteria:&nbsp&nbsp;Mycoplasma pneumoniae M129
+<option value="272635">Bacteria:&nbsp&nbsp;Mycoplasma pulmonis UAB CTIP
+<option value="2105">Bacteria:&nbsp&nbsp;Mycoplasma sp. 'bovine group 7'
+<option value="262723">Bacteria:&nbsp&nbsp;Mycoplasma synoviae 53
+<option value="246197">Bacteria:&nbsp&nbsp;Myxococcus xanthus DK 1622
+<option value="485">Bacteria:&nbsp&nbsp;Neisseria gonorrhoeae
+<option value="242231">Bacteria:&nbsp&nbsp;Neisseria gonorrhoeae FA 1090
+<option value="486">Bacteria:&nbsp&nbsp;Neisseria lactamica
+<option value="487">Bacteria:&nbsp&nbsp;Neisseria meningitidis
+<option value="122586">Bacteria:&nbsp&nbsp;Neisseria meningitidis MC58
+<option value="122587">Bacteria:&nbsp&nbsp;Neisseria meningitidis Z2491
+<option value="222891">Bacteria:&nbsp&nbsp;Neorickettsia sennetsu str. Miyayama
+<option value="323097">Bacteria:&nbsp&nbsp;Nitrobacter hamburgensis X14
+<option value="323098">Bacteria:&nbsp&nbsp;Nitrobacter winogradskyi Nb-255
+<option value="323261">Bacteria:&nbsp&nbsp;Nitrosococcus oceani ATCC 19707
+<option value="228410">Bacteria:&nbsp&nbsp;Nitrosomonas europaea ATCC 19718
+<option value="42353">Bacteria:&nbsp&nbsp;Nitrosomonas sp.
+<option value="323848">Bacteria:&nbsp&nbsp;Nitrosospira multiformis ATCC 25196
+<option value="247156">Bacteria:&nbsp&nbsp;Nocardia farcinica IFM 10152
+<option value="103690">Bacteria:&nbsp&nbsp;Nostoc sp. PCC 7120
+<option value="48935">Bacteria:&nbsp&nbsp;Novosphingobium aromaticivorans
+<option value="279238">Bacteria:&nbsp&nbsp;Novosphingobium aromaticivorans DSM 12444
+<option value="221109">Bacteria:&nbsp&nbsp;Oceanobacillus iheyensis HTE831
+<option value="1247">Bacteria:&nbsp&nbsp;Oenococcus oeni
+<option value="40137">Bacteria:&nbsp&nbsp;Oligotropha carboxidovorans
+<option value="100379">Bacteria:&nbsp&nbsp;Onion yellows phytoplasma
+<option value="262768">Bacteria:&nbsp&nbsp;Onion yellows phytoplasma OY-M
+<option value="53336">Bacteria:&nbsp&nbsp;Pantoea citrea
+<option value="82367">Bacteria:&nbsp&nbsp;Paracoccus pantotrophus
+<option value="747">Bacteria:&nbsp&nbsp;Pasteurella multocida
+<option value="272843">Bacteria:&nbsp&nbsp;Pasteurella multocida subsp. multocida str. Pm70
+<option value="47735">Bacteria:&nbsp&nbsp;Pasteurella trehalosi
+<option value="35772">Bacteria:&nbsp&nbsp;Peanut witches'-broom phytoplasma
+<option value="1254">Bacteria:&nbsp&nbsp;Pediococcus acidilactici
+<option value="51663">Bacteria:&nbsp&nbsp;Pediococcus damnosus
+<option value="1255">Bacteria:&nbsp&nbsp;Pediococcus pentosaceus
+<option value="338963">Bacteria:&nbsp&nbsp;Pelobacter carbinolicus DSM 2380
+<option value="319225">Bacteria:&nbsp&nbsp;Pelodictyon luteolum DSM 273
+<option value="298386">Bacteria:&nbsp&nbsp;Photobacterium profundum SS9
+<option value="243265">Bacteria:&nbsp&nbsp;Photorhabdus luminescens subsp. laumondii TTO1
+<option value="2155">Bacteria:&nbsp&nbsp;Phytoplasma sp.
+<option value="296591">Bacteria:&nbsp&nbsp;Polaromonas sp. JS666
+<option value="242619">Bacteria:&nbsp&nbsp;Porphyromonas gingivalis W83
+<option value="839">Bacteria:&nbsp&nbsp;Prevotella ruminicola
+<option value="74546">Bacteria:&nbsp&nbsp;Prochlorococcus marinus str. MIT 9312
+<option value="74547">Bacteria:&nbsp&nbsp;Prochlorococcus marinus str. MIT 9313
+<option value="59920">Bacteria:&nbsp&nbsp;Prochlorococcus marinus str. NATL2A
+<option value="167539">Bacteria:&nbsp&nbsp;Prochlorococcus marinus subsp. marinus str. CCMP1375
+<option value="59919">Bacteria:&nbsp&nbsp;Prochlorococcus marinus subsp. pastoris str. CCMP1986
+<option value="1748">Bacteria:&nbsp&nbsp;Propionibacterium acidipropionici
+<option value="267747">Bacteria:&nbsp&nbsp;Propionibacterium acnes KPA171202
+<option value="1744">Bacteria:&nbsp&nbsp;Propionibacterium freudenreichii
+<option value="33011">Bacteria:&nbsp&nbsp;Propionibacterium granulosum
+<option value="1749">Bacteria:&nbsp&nbsp;Propionibacterium jensenii
+<option value="585">Bacteria:&nbsp&nbsp;Proteus vulgaris
+<option value="342610">Bacteria:&nbsp&nbsp;Pseudoalteromonas atlantica T6c
+<option value="326442">Bacteria:&nbsp&nbsp;Pseudoalteromonas haloplanktis TAC125
+<option value="87791">Bacteria:&nbsp&nbsp;Pseudoalteromonas sp. PS1M3
+<option value="287">Bacteria:&nbsp&nbsp;Pseudomonas aeruginosa
+<option value="208964">Bacteria:&nbsp&nbsp;Pseudomonas aeruginosa PAO1
+<option value="43263">Bacteria:&nbsp&nbsp;Pseudomonas alcaligenes
+<option value="384676">Bacteria:&nbsp&nbsp;Pseudomonas entomophila L48
+<option value="220664">Bacteria:&nbsp&nbsp;Pseudomonas fluorescens Pf-5
+<option value="205922">Bacteria:&nbsp&nbsp;Pseudomonas fluorescens PfO-1
+<option value="47880">Bacteria:&nbsp&nbsp;Pseudomonas fulva
+<option value="303">Bacteria:&nbsp&nbsp;Pseudomonas putida
+<option value="160488">Bacteria:&nbsp&nbsp;Pseudomonas putida KT2440
+<option value="53412">Bacteria:&nbsp&nbsp;Pseudomonas resinovorans
+<option value="47660">Bacteria:&nbsp&nbsp;Pseudomonas sp. ADP
+<option value="231023">Bacteria:&nbsp&nbsp;Pseudomonas sp. ND6
+<option value="115714">Bacteria:&nbsp&nbsp;Pseudomonas sp. S-47
+<option value="180590">Bacteria:&nbsp&nbsp;Pseudomonas sp. SLT2001
+<option value="59511">Bacteria:&nbsp&nbsp;Pseudomonas syringae pv. maculicola
+<option value="264730">Bacteria:&nbsp&nbsp;Pseudomonas syringae pv. phaseolicola 1448A
+<option value="321">Bacteria:&nbsp&nbsp;Pseudomonas syringae pv. syringae
+<option value="205918">Bacteria:&nbsp&nbsp;Pseudomonas syringae pv. syringae B728a
+<option value="223283">Bacteria:&nbsp&nbsp;Pseudomonas syringae pv. tomato str. DC3000
+<option value="259536">Bacteria:&nbsp&nbsp;Psychrobacter arcticus 273-4
+<option value="335284">Bacteria:&nbsp&nbsp;Psychrobacter cryohalolentis K5
+<option value="360016">Bacteria:&nbsp&nbsp;Rahnella sp. 'WMR15'
+<option value="381666">Bacteria:&nbsp&nbsp;Ralstonia eutropha H16
+<option value="264198">Bacteria:&nbsp&nbsp;Ralstonia eutropha JMP134
+<option value="266264">Bacteria:&nbsp&nbsp;Ralstonia metallidurans CH34
+<option value="329">Bacteria:&nbsp&nbsp;Ralstonia pickettii
+<option value="305">Bacteria:&nbsp&nbsp;Ralstonia solanacearum
+<option value="267608">Bacteria:&nbsp&nbsp;Ralstonia solanacearum GMI1000
+<option value="29449">Bacteria:&nbsp&nbsp;Rhizobium etli
+<option value="347834">Bacteria:&nbsp&nbsp;Rhizobium etli CFN 42
+<option value="394">Bacteria:&nbsp&nbsp;Rhizobium sp. NGR234
+<option value="1075">Bacteria:&nbsp&nbsp;Rhodobacter blasticus
+<option value="272943">Bacteria:&nbsp&nbsp;Rhodobacter sphaeroides 2.4.1
+<option value="43767">Bacteria:&nbsp&nbsp;Rhodococcus equi
+<option value="1833">Bacteria:&nbsp&nbsp;Rhodococcus erythropolis
+<option value="234621">Bacteria:&nbsp&nbsp;Rhodococcus erythropolis PR4
+<option value="37919">Bacteria:&nbsp&nbsp;Rhodococcus opacus
+<option value="233067">Bacteria:&nbsp&nbsp;Rhodococcus sp. B264-1
+<option value="101510">Bacteria:&nbsp&nbsp;Rhodococcus sp. RHA1
+<option value="338969">Bacteria:&nbsp&nbsp;Rhodoferax ferrireducens T118
+<option value="243090">Bacteria:&nbsp&nbsp;Rhodopirellula baltica SH 1
+<option value="316056">Bacteria:&nbsp&nbsp;Rhodopseudomonas palustris BisB18
+<option value="316057">Bacteria:&nbsp&nbsp;Rhodopseudomonas palustris BisB5
+<option value="258594">Bacteria:&nbsp&nbsp;Rhodopseudomonas palustris CGA009
+<option value="316058">Bacteria:&nbsp&nbsp;Rhodopseudomonas palustris HaA2
+<option value="269796">Bacteria:&nbsp&nbsp;Rhodospirillum rubrum ATCC 11170
+<option value="29549">Bacteria:&nbsp&nbsp;Rhodothermus marinus
+<option value="336407">Bacteria:&nbsp&nbsp;Rickettsia bellii RML369-C
+<option value="272944">Bacteria:&nbsp&nbsp;Rickettsia conorii str. Malish 7
+<option value="315456">Bacteria:&nbsp&nbsp;Rickettsia felis URRWXCal2
+<option value="272947">Bacteria:&nbsp&nbsp;Rickettsia prowazekii str. Madrid E
+<option value="257363">Bacteria:&nbsp&nbsp;Rickettsia typhi str. Wilmington
+<option value="34085">Bacteria:&nbsp&nbsp;Riemerella anatipestifer
+<option value="375451">Bacteria:&nbsp&nbsp;Roseobacter denitrificans OCh 114
+<option value="266117">Bacteria:&nbsp&nbsp;Rubrobacter xylanophilus DSM 9941
+<option value="185588">Bacteria:&nbsp&nbsp;Ruegeria sp. PR1b
+<option value="1265">Bacteria:&nbsp&nbsp;Ruminococcus flavefaciens
+<option value="203122">Bacteria:&nbsp&nbsp;Saccharophagus degradans 2-40
+<option value="309807">Bacteria:&nbsp&nbsp;Salinibacter ruber DSM 13855
+<option value="591">Bacteria:&nbsp&nbsp;Salmonella choleraesuis
+<option value="28901">Bacteria:&nbsp&nbsp;Salmonella enterica
+<option value="28142">Bacteria:&nbsp&nbsp;Salmonella enterica subsp. enterica serovar Berta
+<option value="119912">Bacteria:&nbsp&nbsp;Salmonella enterica subsp. enterica serovar Choleraesuis
+<option value="321314">Bacteria:&nbsp&nbsp;Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67
+<option value="295319">Bacteria:&nbsp&nbsp;Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150
+<option value="209261">Bacteria:&nbsp&nbsp;Salmonella enterica subsp. enterica serovar Typhi Ty2
+<option value="220341">Bacteria:&nbsp&nbsp;Salmonella enterica subsp. enterica serovar Typhi str. CT18
+<option value="592">Bacteria:&nbsp&nbsp;Salmonella enteritidis
+<option value="601">Bacteria:&nbsp&nbsp;Salmonella typhi
+<option value="602">Bacteria:&nbsp&nbsp;Salmonella typhimurium
+<option value="99287">Bacteria:&nbsp&nbsp;Salmonella typhimurium LT2
+<option value="971">Bacteria:&nbsp&nbsp;Selenomonas ruminantium
+<option value="42906">Bacteria:&nbsp&nbsp;Serratia entomophila
+<option value="615">Bacteria:&nbsp&nbsp;Serratia marcescens
+<option value="318161">Bacteria:&nbsp&nbsp;Shewanella denitrificans OS217
+<option value="211586">Bacteria:&nbsp&nbsp;Shewanella oneidensis MR-1
+<option value="60480">Bacteria:&nbsp&nbsp;Shewanella sp. MR-4
+<option value="60481">Bacteria:&nbsp&nbsp;Shewanella sp. MR-7
+<option value="300268">Bacteria:&nbsp&nbsp;Shigella boydii Sb227
+<option value="300267">Bacteria:&nbsp&nbsp;Shigella dysenteriae Sd197
+<option value="623">Bacteria:&nbsp&nbsp;Shigella flexneri
+<option value="42897">Bacteria:&nbsp&nbsp;Shigella flexneri 2a
+<option value="198215">Bacteria:&nbsp&nbsp;Shigella flexneri 2a str. 2457T
+<option value="198214">Bacteria:&nbsp&nbsp;Shigella flexneri 2a str. 301
+<option value="373384">Bacteria:&nbsp&nbsp;Shigella flexneri 5 str. 8401
+<option value="624">Bacteria:&nbsp&nbsp;Shigella sonnei
+<option value="300269">Bacteria:&nbsp&nbsp;Shigella sonnei Ss046
+<option value="246200">Bacteria:&nbsp&nbsp;Silicibacter pomeroyi DSS-3
+<option value="292414">Bacteria:&nbsp&nbsp;Silicibacter sp. TM1040
+<option value="382">Bacteria:&nbsp&nbsp;Sinorhizobium meliloti
+<option value="266834">Bacteria:&nbsp&nbsp;Sinorhizobium meliloti 1021
+<option value="63612">Bacteria:&nbsp&nbsp;Sodalis glossinidius
+<option value="343509">Bacteria:&nbsp&nbsp;Sodalis glossinidius str. 'morsitans'
+<option value="13690">Bacteria:&nbsp&nbsp;Sphingobium yanoikuyae
+<option value="90322">Bacteria:&nbsp&nbsp;Sphingomonas sp. A1
+<option value="164608">Bacteria:&nbsp&nbsp;Sphingomonas sp. KA1
+<option value="121428">Bacteria:&nbsp&nbsp;Sphingomonas xenophaga
+<option value="317655">Bacteria:&nbsp&nbsp;Sphingopyxis alaskensis RB2256
+<option value="2133">Bacteria:&nbsp&nbsp;Spiroplasma citri
+<option value="273035">Bacteria:&nbsp&nbsp;Spiroplasma kunkelii CR2-3x
+<option value="1280">Bacteria:&nbsp&nbsp;Staphylococcus aureus
+<option value="273036">Bacteria:&nbsp&nbsp;Staphylococcus aureus RF122
+<option value="93062">Bacteria:&nbsp&nbsp;Staphylococcus aureus subsp. aureus COL
+<option value="282458">Bacteria:&nbsp&nbsp;Staphylococcus aureus subsp. aureus MRSA252
+<option value="282459">Bacteria:&nbsp&nbsp;Staphylococcus aureus subsp. aureus MSSA476
+<option value="196620">Bacteria:&nbsp&nbsp;Staphylococcus aureus subsp. aureus MW2
+<option value="158878">Bacteria:&nbsp&nbsp;Staphylococcus aureus subsp. aureus Mu50
+<option value="158879">Bacteria:&nbsp&nbsp;Staphylococcus aureus subsp. aureus N315
+<option value="93061">Bacteria:&nbsp&nbsp;Staphylococcus aureus subsp. aureus NCTC 8325
+<option value="367830">Bacteria:&nbsp&nbsp;Staphylococcus aureus subsp. aureus USA300
+<option value="46126">Bacteria:&nbsp&nbsp;Staphylococcus chromogenes
+<option value="1282">Bacteria:&nbsp&nbsp;Staphylococcus epidermidis
+<option value="176280">Bacteria:&nbsp&nbsp;Staphylococcus epidermidis ATCC 12228
+<option value="176279">Bacteria:&nbsp&nbsp;Staphylococcus epidermidis RP62A
+<option value="1283">Bacteria:&nbsp&nbsp;Staphylococcus haemolyticus
+<option value="279808">Bacteria:&nbsp&nbsp;Staphylococcus haemolyticus JCSC1435
+<option value="42858">Bacteria:&nbsp&nbsp;Staphylococcus lentus
+<option value="28035">Bacteria:&nbsp&nbsp;Staphylococcus lugdunensis
+<option value="45972">Bacteria:&nbsp&nbsp;Staphylococcus pasteuri
+<option value="29385">Bacteria:&nbsp&nbsp;Staphylococcus saprophyticus
+<option value="342451">Bacteria:&nbsp&nbsp;Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+<option value="1296">Bacteria:&nbsp&nbsp;Staphylococcus sciuri
+<option value="147467">Bacteria:&nbsp&nbsp;Staphylococcus sciuri subsp. sciuri
+<option value="1286">Bacteria:&nbsp&nbsp;Staphylococcus simulans
+<option value="1292">Bacteria:&nbsp&nbsp;Staphylococcus warneri
+<option value="1311">Bacteria:&nbsp&nbsp;Streptococcus agalactiae
+<option value="208435">Bacteria:&nbsp&nbsp;Streptococcus agalactiae 2603V/R
+<option value="205921">Bacteria:&nbsp&nbsp;Streptococcus agalactiae A909
+<option value="211110">Bacteria:&nbsp&nbsp;Streptococcus agalactiae NEM316
+<option value="1309">Bacteria:&nbsp&nbsp;Streptococcus mutans
+<option value="210007">Bacteria:&nbsp&nbsp;Streptococcus mutans UA159
+<option value="1313">Bacteria:&nbsp&nbsp;Streptococcus pneumoniae
+<option value="373153">Bacteria:&nbsp&nbsp;Streptococcus pneumoniae D39
+<option value="171101">Bacteria:&nbsp&nbsp;Streptococcus pneumoniae R6
+<option value="170187">Bacteria:&nbsp&nbsp;Streptococcus pneumoniae TIGR4
+<option value="1314">Bacteria:&nbsp&nbsp;Streptococcus pyogenes
+<option value="160490">Bacteria:&nbsp&nbsp;Streptococcus pyogenes M1 GAS
+<option value="370552">Bacteria:&nbsp&nbsp;Streptococcus pyogenes MGAS10270
+<option value="286636">Bacteria:&nbsp&nbsp;Streptococcus pyogenes MGAS10394
+<option value="370554">Bacteria:&nbsp&nbsp;Streptococcus pyogenes MGAS10750
+<option value="370553">Bacteria:&nbsp&nbsp;Streptococcus pyogenes MGAS2096
+<option value="198466">Bacteria:&nbsp&nbsp;Streptococcus pyogenes MGAS315
+<option value="293653">Bacteria:&nbsp&nbsp;Streptococcus pyogenes MGAS5005
+<option value="319701">Bacteria:&nbsp&nbsp;Streptococcus pyogenes MGAS6180
+<option value="186103">Bacteria:&nbsp&nbsp;Streptococcus pyogenes MGAS8232
+<option value="370551">Bacteria:&nbsp&nbsp;Streptococcus pyogenes MGAS9429
+<option value="193567">Bacteria:&nbsp&nbsp;Streptococcus pyogenes SSI-1
+<option value="1307">Bacteria:&nbsp&nbsp;Streptococcus suis
+<option value="1308">Bacteria:&nbsp&nbsp;Streptococcus thermophilus
+<option value="299768">Bacteria:&nbsp&nbsp;Streptococcus thermophilus CNRZ1066
+<option value="264199">Bacteria:&nbsp&nbsp;Streptococcus thermophilus LMG 18311
+<option value="68570">Bacteria:&nbsp&nbsp;Streptomyces albulus
+<option value="227882">Bacteria:&nbsp&nbsp;Streptomyces avermitilis MA-4680
+<option value="1901">Bacteria:&nbsp&nbsp;Streptomyces clavuligerus
+<option value="1902">Bacteria:&nbsp&nbsp;Streptomyces coelicolor
+<option value="100226">Bacteria:&nbsp&nbsp;Streptomyces coelicolor A3(2)
+<option value="1904">Bacteria:&nbsp&nbsp;Streptomyces cyaneus
+<option value="52258">Bacteria:&nbsp&nbsp;Streptomyces flavovirens
+<option value="1916">Bacteria:&nbsp&nbsp;Streptomyces lividans
+<option value="68242">Bacteria:&nbsp&nbsp;Streptomyces natalensis
+<option value="1923">Bacteria:&nbsp&nbsp;Streptomyces phaeochromogenes
+<option value="1928">Bacteria:&nbsp&nbsp;Streptomyces rochei
+<option value="364103">Bacteria:&nbsp&nbsp;Streptomyces sp. 44414
+<option value="211464">Bacteria:&nbsp&nbsp;Streptomyces sp. EN27
+<option value="319318">Bacteria:&nbsp&nbsp;Streptomyces sp. F11
+<option value="319426">Bacteria:&nbsp&nbsp;Streptomyces sp. FQ1
+<option value="54571">Bacteria:&nbsp&nbsp;Streptomyces venezuelae
+<option value="1935">Bacteria:&nbsp&nbsp;Streptomyces violaceoruber
+<option value="292459">Bacteria:&nbsp&nbsp;Symbiobacterium thermophilum IAM 14863
+<option value="269084">Bacteria:&nbsp&nbsp;Synechococcus elongatus PCC 6301
+<option value="1140">Bacteria:&nbsp&nbsp;Synechococcus elongatus PCC 7942
+<option value="1131">Bacteria:&nbsp&nbsp;Synechococcus sp.
+<option value="64471">Bacteria:&nbsp&nbsp;Synechococcus sp. CC9311
+<option value="110662">Bacteria:&nbsp&nbsp;Synechococcus sp. CC9605
+<option value="316279">Bacteria:&nbsp&nbsp;Synechococcus sp. CC9902
+<option value="321332">Bacteria:&nbsp&nbsp;Synechococcus sp. JA-2-3B'a(2-13)
+<option value="321327">Bacteria:&nbsp&nbsp;Synechococcus sp. JA-3-3Ab
+<option value="32049">Bacteria:&nbsp&nbsp;Synechococcus sp. PCC 7002
+<option value="84588">Bacteria:&nbsp&nbsp;Synechococcus sp. WH 8102
+<option value="1148">Bacteria:&nbsp&nbsp;Synechocystis sp. PCC 6803
+<option value="56780">Bacteria:&nbsp&nbsp;Syntrophus aciditrophicus SB
+<option value="273068">Bacteria:&nbsp&nbsp;Thermoanaerobacter tengcongensis MB4
+<option value="1517">Bacteria:&nbsp&nbsp;Thermoanaerobacterium thermosaccharolyticum
+<option value="269800">Bacteria:&nbsp&nbsp;Thermobifida fusca YX
+<option value="197221">Bacteria:&nbsp&nbsp;Thermosynechococcus elongatus BP-1
+<option value="243274">Bacteria:&nbsp&nbsp;Thermotoga maritima MSB8
+<option value="390874">Bacteria:&nbsp&nbsp;Thermotoga petrophila RKU-1
+<option value="274">Bacteria:&nbsp&nbsp;Thermus thermophilus
+<option value="262724">Bacteria:&nbsp&nbsp;Thermus thermophilus HB27
+<option value="300852">Bacteria:&nbsp&nbsp;Thermus thermophilus HB8
+<option value="292415">Bacteria:&nbsp&nbsp;Thiobacillus denitrificans ATCC 25259
+<option value="317025">Bacteria:&nbsp&nbsp;Thiomicrospira crunogena XCL-2
+<option value="326298">Bacteria:&nbsp&nbsp;Thiomicrospira denitrificans ATCC 33889
+<option value="158">Bacteria:&nbsp&nbsp;Treponema denticola
+<option value="243275">Bacteria:&nbsp&nbsp;Treponema denticola ATCC 35405
+<option value="243276">Bacteria:&nbsp&nbsp;Treponema pallidum subsp. pallidum str. Nichols
+<option value="203124">Bacteria:&nbsp&nbsp;Trichodesmium erythraeum IMS101
+<option value="218496">Bacteria:&nbsp&nbsp;Tropheryma whipplei TW08/27
+<option value="203267">Bacteria:&nbsp&nbsp;Tropheryma whipplei str. Twist
+<option value="273119">Bacteria:&nbsp&nbsp;Ureaplasma parvum serovar 3 str. ATCC 700970
+<option value="666">Bacteria:&nbsp&nbsp;Vibrio cholerae
+<option value="243277">Bacteria:&nbsp&nbsp;Vibrio cholerae O1 biovar eltor str. N16961
+<option value="312309">Bacteria:&nbsp&nbsp;Vibrio fischeri ES114
+<option value="670">Bacteria:&nbsp&nbsp;Vibrio parahaemolyticus
+<option value="223926">Bacteria:&nbsp&nbsp;Vibrio parahaemolyticus RIMD 2210633
+<option value="316275">Bacteria:&nbsp&nbsp;Vibrio salmonicida LFI1238
+<option value="65384">Bacteria:&nbsp&nbsp;Vibrio sp. 41
+<option value="216895">Bacteria:&nbsp&nbsp;Vibrio vulnificus CMCP6
+<option value="196600">Bacteria:&nbsp&nbsp;Vibrio vulnificus YJ016
+<option value="137591">Bacteria:&nbsp&nbsp;Weissella cibaria
+<option value="36870">Bacteria:&nbsp&nbsp;Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis
+<option value="163164">Bacteria:&nbsp&nbsp;Wolbachia endosymbiont of Drosophila melanogaster
+<option value="292805">Bacteria:&nbsp&nbsp;Wolbachia endosymbiont strain TRS of Brugia malayi
+<option value="273121">Bacteria:&nbsp&nbsp;Wolinella succinogenes DSM 1740
+<option value="190486">Bacteria:&nbsp&nbsp;Xanthomonas axonopodis pv. citri str. 306
+<option value="314565">Bacteria:&nbsp&nbsp;Xanthomonas campestris pv. campestris str. 8004
+<option value="190485">Bacteria:&nbsp&nbsp;Xanthomonas campestris pv. campestris str. ATCC 33913
+<option value="341">Bacteria:&nbsp&nbsp;Xanthomonas campestris pv. vesicatoria
+<option value="316273">Bacteria:&nbsp&nbsp;Xanthomonas campestris pv. vesicatoria str. 85-10
+<option value="291331">Bacteria:&nbsp&nbsp;Xanthomonas oryzae pv. oryzae KACC10331
+<option value="342109">Bacteria:&nbsp&nbsp;Xanthomonas oryzae pv. oryzae MAFF 311018
+<option value="346">Bacteria:&nbsp&nbsp;Xanthomonas smithii subsp. citri
+<option value="2371">Bacteria:&nbsp&nbsp;Xylella fastidiosa
+<option value="160492">Bacteria:&nbsp&nbsp;Xylella fastidiosa 9a5c
+<option value="183190">Bacteria:&nbsp&nbsp;Xylella fastidiosa Temecula1
+<option value="630">Bacteria:&nbsp&nbsp;Yersinia enterocolitica
+<option value="632">Bacteria:&nbsp&nbsp;Yersinia pestis
+<option value="360102">Bacteria:&nbsp&nbsp;Yersinia pestis Antiqua
+<option value="214092">Bacteria:&nbsp&nbsp;Yersinia pestis CO92
+<option value="187410">Bacteria:&nbsp&nbsp;Yersinia pestis KIM
+<option value="377628">Bacteria:&nbsp&nbsp;Yersinia pestis Nepal516
+<option value="229193">Bacteria:&nbsp&nbsp;Yersinia pestis biovar Microtus str. 91001
+<option value="273123">Bacteria:&nbsp&nbsp;Yersinia pseudotuberculosis IP 32953
+<option value="542">Bacteria:&nbsp&nbsp;Zymomonas mobilis
+<option value="264203">Bacteria:&nbsp&nbsp;Zymomonas mobilis subsp. mobilis ZM4
+<option value="77133">Bacteria:&nbsp&nbsp;uncultured bacterium
+<option value="136143">Bacteria:&nbsp&nbsp;uncultured eubacterium pIE1115
+<option value="278977">Eukaryota:&nbsp&nbsp;Abronia graminea
+<option value="5755">Eukaryota:&nbsp&nbsp;Acanthamoeba castellanii
+<option value="339859">Eukaryota:&nbsp&nbsp;Acanthaster brevispinus
+<option value="133434">Eukaryota:&nbsp&nbsp;Acanthaster planci
+<option value="267130">Eukaryota:&nbsp&nbsp;Acanthogobius hasta
+<option value="32536">Eukaryota:&nbsp&nbsp;Acinonyx jubatus
+<option value="62061">Eukaryota:&nbsp&nbsp;Acipenser dabryanus
+<option value="7903">Eukaryota:&nbsp&nbsp;Acipenser stellatus
+<option value="7904">Eukaryota:&nbsp&nbsp;Acipenser transmontanus
+<option value="4465">Eukaryota:&nbsp&nbsp;Acorus calamus
+<option value="46287">Eukaryota:&nbsp&nbsp;Acrochordus granulatus
+<option value="70783">Eukaryota:&nbsp&nbsp;Acropora tenuis
+<option value="13818">Eukaryota:&nbsp&nbsp;Adiantum capillus-veneris
+<option value="85585">Eukaryota:&nbsp&nbsp;Adoxophyes honmai
+<option value="7160">Eukaryota:&nbsp&nbsp;Aedes albopictus
+<option value="390897">Eukaryota:&nbsp&nbsp;Agamermis sp. BH-2006
+<option value="367765">Eukaryota:&nbsp&nbsp;Agaricia humilis
+<option value="42349">Eukaryota:&nbsp&nbsp;Albinaria caerulea
+<option value="121402">Eukaryota:&nbsp&nbsp;Albula glossodonta
+<option value="143900">Eukaryota:&nbsp&nbsp;Aldrovandia affinis
+<option value="81907">Eukaryota:&nbsp&nbsp;Alectura lathami
+<option value="170189">Eukaryota:&nbsp&nbsp;Alepocephalus tenebrosus
+<option value="266942">Eukaryota:&nbsp&nbsp;Aleurochiton aceris
+<option value="30099">Eukaryota:&nbsp&nbsp;Aleurodicus dugesii
+<option value="8496">Eukaryota:&nbsp&nbsp;Alligator mississippiensis
+<option value="38654">Eukaryota:&nbsp&nbsp;Alligator sinensis
+<option value="181445">Eukaryota:&nbsp&nbsp;Allocyttus niger
+<option value="28583">Eukaryota:&nbsp&nbsp;Allomyces macrogynus
+<option value="171366">Eukaryota:&nbsp&nbsp;Alytes obstetricans pertinax
+<option value="65637">Eukaryota:&nbsp&nbsp;Amblyomma triguttatum
+<option value="13333">Eukaryota:&nbsp&nbsp;Amborella trichopoda
+<option value="282260">Eukaryota:&nbsp&nbsp;Ambystoma andersoni
+<option value="43107">Eukaryota:&nbsp&nbsp;Ambystoma californiense
+<option value="282261">Eukaryota:&nbsp&nbsp;Ambystoma dumerilii
+<option value="8298">Eukaryota:&nbsp&nbsp;Ambystoma laterale
+<option value="8296">Eukaryota:&nbsp&nbsp;Ambystoma mexicanum
+<option value="43116">Eukaryota:&nbsp&nbsp;Ambystoma tigrinum tigrinum
+<option value="7924">Eukaryota:&nbsp&nbsp;Amia calva
+<option value="273519">Eukaryota:&nbsp&nbsp;Amphisbaena schmidti
+<option value="310697">Eukaryota:&nbsp&nbsp;Anacropora matthai
+<option value="51022">Eukaryota:&nbsp&nbsp;Ancylostoma duodenale
+<option value="141262">Eukaryota:&nbsp&nbsp;Andrias davidianus
+<option value="166789">Eukaryota:&nbsp&nbsp;Andrias japonicus
+<option value="154579">Eukaryota:&nbsp&nbsp;Aneides flavipunctatus
+<option value="154580">Eukaryota:&nbsp&nbsp;Aneides hardii
+<option value="7936">Eukaryota:&nbsp&nbsp;Anguilla anguilla
+<option value="86961">Eukaryota:&nbsp&nbsp;Anguilla australis australis
+<option value="86962">Eukaryota:&nbsp&nbsp;Anguilla australis schmidtii
+<option value="103832">Eukaryota:&nbsp&nbsp;Anguilla bengalensis labiata
+<option value="61125">Eukaryota:&nbsp&nbsp;Anguilla bicolor bicolor
+<option value="61126">Eukaryota:&nbsp&nbsp;Anguilla bicolor pacifica
+<option value="48163">Eukaryota:&nbsp&nbsp;Anguilla celebesensis
+<option value="61127">Eukaryota:&nbsp&nbsp;Anguilla dieffenbachii
+<option value="86967">Eukaryota:&nbsp&nbsp;Anguilla interioris
+<option value="7937">Eukaryota:&nbsp&nbsp;Anguilla japonica
+<option value="103812">Eukaryota:&nbsp&nbsp;Anguilla malgumora
+<option value="7939">Eukaryota:&nbsp&nbsp;Anguilla marmorata
+<option value="86963">Eukaryota:&nbsp&nbsp;Anguilla megastoma
+<option value="48164">Eukaryota:&nbsp&nbsp;Anguilla mossambica
+<option value="86966">Eukaryota:&nbsp&nbsp;Anguilla nebulosa nebulosa
+<option value="86964">Eukaryota:&nbsp&nbsp;Anguilla obscura
+<option value="48165">Eukaryota:&nbsp&nbsp;Anguilla reinhardtii
+<option value="7938">Eukaryota:&nbsp&nbsp;Anguilla rostrata
+<option value="6269">Eukaryota:&nbsp&nbsp;Anisakis simplex
+<option value="181433">Eukaryota:&nbsp&nbsp;Anomalops katoptron
+<option value="8811">Eukaryota:&nbsp&nbsp;Anomalopteryx didiformis
+<option value="62324">Eukaryota:&nbsp&nbsp;Anopheles funestus
+<option value="7165">Eukaryota:&nbsp&nbsp;Anopheles gambiae
+<option value="180454">Eukaryota:&nbsp&nbsp;Anopheles gambiae str. PEST
+<option value="42377">Eukaryota:&nbsp&nbsp;Anopheles quadrimaculatus A
+<option value="88656">Eukaryota:&nbsp&nbsp;Anoplogaster cornuta
+<option value="217634">Eukaryota:&nbsp&nbsp;Anoplophora glabripennis
+<option value="50365">Eukaryota:&nbsp&nbsp;Anser albifrons
+<option value="8851">Eukaryota:&nbsp&nbsp;Anseranas semipalmata
+<option value="7119">Eukaryota:&nbsp&nbsp;Antheraea pernyi
+<option value="48387">Eukaryota:&nbsp&nbsp;Anthoceros formosae
+<option value="143339">Eukaryota:&nbsp&nbsp;Antigonia capros
+<option value="94919">Eukaryota:&nbsp&nbsp;Aphredoderus sayanus
+<option value="7460">Eukaryota:&nbsp&nbsp;Apis mellifera
+<option value="7469">Eukaryota:&nbsp&nbsp;Apis mellifera ligustica
+<option value="6500">Eukaryota:&nbsp&nbsp;Aplysia californica
+<option value="36673">Eukaryota:&nbsp&nbsp;Apteronotus albifrons
+<option value="8823">Eukaryota:&nbsp&nbsp;Apteryx haastii
+<option value="181459">Eukaryota:&nbsp&nbsp;Aptocyclus ventricosus
+<option value="3702">Eukaryota:&nbsp&nbsp;Arabidopsis thaliana
+<option value="7640">Eukaryota:&nbsp&nbsp;Arbacia lixula
+<option value="181474">Eukaryota:&nbsp&nbsp;Arcos sp. KU-149
+<option value="29084">Eukaryota:&nbsp&nbsp;Arctocephalus forsteri
+<option value="148607">Eukaryota:&nbsp&nbsp;Arctoscopus japonicus
+<option value="54971">Eukaryota:&nbsp&nbsp;Arenaria interpres
+<option value="260819">Eukaryota:&nbsp&nbsp;Argulus americanus
+<option value="260804">Eukaryota:&nbsp&nbsp;Armillifer armillatus
+<option value="6661">Eukaryota:&nbsp&nbsp;Artemia franciscana
+<option value="9417">Eukaryota:&nbsp&nbsp;Artibeus jamaicensis
+<option value="6253">Eukaryota:&nbsp&nbsp;Ascaris suum
+<option value="284811">Eukaryota:&nbsp&nbsp;Ashbya gossypii ATCC 10895
+<option value="181476">Eukaryota:&nbsp&nbsp;Aspasma minima
+<option value="330879">Eukaryota:&nbsp&nbsp;Aspergillus fumigatus Af293
+<option value="5061">Eukaryota:&nbsp&nbsp;Aspergillus niger
+<option value="5062">Eukaryota:&nbsp&nbsp;Aspergillus oryzae
+<option value="5068">Eukaryota:&nbsp&nbsp;Aspergillus tubingensis
+<option value="7602">Eukaryota:&nbsp&nbsp;Asterias amurensis
+<option value="7594">Eukaryota:&nbsp&nbsp;Asterina pectinifera
+<option value="388629">Eukaryota:&nbsp&nbsp;Astrangia sp. JVK-2006
+<option value="60560">Eukaryota:&nbsp&nbsp;Astropecten polyacanthus
+<option value="223987">Eukaryota:&nbsp&nbsp;Asymmetron lucayanum
+<option value="143306">Eukaryota:&nbsp&nbsp;Ateleopus japonicus
+<option value="33113">Eukaryota:&nbsp&nbsp;Atropa belladonna
+<option value="136300">Eukaryota:&nbsp&nbsp;Aulopus japonicus
+<option value="217026">Eukaryota:&nbsp&nbsp;Auxis rochei
+<option value="13353">Eukaryota:&nbsp&nbsp;Auxis thazard
+<option value="153946">Eukaryota:&nbsp&nbsp;Axinella corrugata
+<option value="30385">Eukaryota:&nbsp&nbsp;Aythya americana
+<option value="104688">Eukaryota:&nbsp&nbsp;Bactrocera oleae
+<option value="27602">Eukaryota:&nbsp&nbsp;Balaena mysticetus
+<option value="9767">Eukaryota:&nbsp&nbsp;Balaenoptera acutorostrata
+<option value="33556">Eukaryota:&nbsp&nbsp;Balaenoptera bonaerensis
+<option value="9768">Eukaryota:&nbsp&nbsp;Balaenoptera borealis
+<option value="255365">Eukaryota:&nbsp&nbsp;Balaenoptera brydei
+<option value="9769">Eukaryota:&nbsp&nbsp;Balaenoptera edeni
+<option value="9771">Eukaryota:&nbsp&nbsp;Balaenoptera musculus
+<option value="255217">Eukaryota:&nbsp&nbsp;Balaenoptera omurai
+<option value="9770">Eukaryota:&nbsp&nbsp;Balaenoptera physalus
+<option value="35080">Eukaryota:&nbsp&nbsp;Balanoglossus carnosus
+<option value="181397">Eukaryota:&nbsp&nbsp;Bassozetus zenkevitchi
+<option value="332421">Eukaryota:&nbsp&nbsp;Bathygadus antrodes
+<option value="170193">Eukaryota:&nbsp&nbsp;Bathylagus ochotensis
+<option value="159185">Eukaryota:&nbsp&nbsp;Batrachoseps attenuatus
+<option value="57547">Eukaryota:&nbsp&nbsp;Batrachoseps wrightorum
+<option value="363225">Eukaryota:&nbsp&nbsp;Batrachuperus gorganensis
+<option value="156987">Eukaryota:&nbsp&nbsp;Batrachuperus londongensis
+<option value="324332">Eukaryota:&nbsp&nbsp;Batrachuperus mustersi
+<option value="156988">Eukaryota:&nbsp&nbsp;Batrachuperus pinchonii
+<option value="156989">Eukaryota:&nbsp&nbsp;Batrachuperus tibetanus
+<option value="7038">Eukaryota:&nbsp&nbsp;Bemisia tabaci
+<option value="48742">Eukaryota:&nbsp&nbsp;Berardius bairdii
+<option value="107241">Eukaryota:&nbsp&nbsp;Beryx decadactylus
+<option value="88663">Eukaryota:&nbsp&nbsp;Beryx splendens
+<option value="3555">Eukaryota:&nbsp&nbsp;Beta vulgaris subsp. vulgaris
+<option value="6526">Eukaryota:&nbsp&nbsp;Biomphalaria glabrata
+<option value="52188">Eukaryota:&nbsp&nbsp;Bipes biporus
+<option value="273521">Eukaryota:&nbsp&nbsp;Bipes canaliculatus
+<option value="273520">Eukaryota:&nbsp&nbsp;Bipes tridactylus
+<option value="143612">Eukaryota:&nbsp&nbsp;Biwia zezera
+<option value="62688">Eukaryota:&nbsp&nbsp;Blumeria graminis f. sp. hordei
+<option value="8574">Eukaryota:&nbsp&nbsp;Boa constrictor
+<option value="291262">Eukaryota:&nbsp&nbsp;Bolitoglossa n. sp. RLM-2004
+<option value="8345">Eukaryota:&nbsp&nbsp;Bombina bombina
+<option value="8346">Eukaryota:&nbsp&nbsp;Bombina orientalis
+<option value="7092">Eukaryota:&nbsp&nbsp;Bombyx mandarina
+<option value="7091">Eukaryota:&nbsp&nbsp;Bombyx mori
+<option value="30521">Eukaryota:&nbsp&nbsp;Bos grunniens
+<option value="9915">Eukaryota:&nbsp&nbsp;Bos indicus
+<option value="9913">Eukaryota:&nbsp&nbsp;Bos taurus
+<option value="9354">Eukaryota:&nbsp&nbsp;Bradypus tridactylus
+<option value="7741">Eukaryota:&nbsp&nbsp;Branchiostoma belcheri
+<option value="7739">Eukaryota:&nbsp&nbsp;Branchiostoma floridae
+<option value="373177">Eukaryota:&nbsp&nbsp;Branchiostoma japonicum
+<option value="7740">Eukaryota:&nbsp&nbsp;Branchiostoma lanceolatum
+<option value="8853">Eukaryota:&nbsp&nbsp;Branta canadensis
+<option value="3708">Eukaryota:&nbsp&nbsp;Brassica napus
+<option value="181412">Eukaryota:&nbsp&nbsp;Bregmaceros nectabanus
+<option value="86543">Eukaryota:&nbsp&nbsp;Briareum asbestinum
+<option value="6279">Eukaryota:&nbsp&nbsp;Brugia malayi
+<option value="89462">Eukaryota:&nbsp&nbsp;Bubalus bubalis
+<option value="191197">Eukaryota:&nbsp&nbsp;Buergeria buergeri
+<option value="30335">Eukaryota:&nbsp&nbsp;Bufo melanostictus
+<option value="30397">Eukaryota:&nbsp&nbsp;Buteo buteo
+<option value="143328">Eukaryota:&nbsp&nbsp;Caelorinchus kishinouyei
+<option value="37696">Eukaryota:&nbsp&nbsp;Caenolestes fuliginosus
+<option value="6239">Eukaryota:&nbsp&nbsp;Caenorhabditis elegans
+<option value="33653">Eukaryota:&nbsp&nbsp;Cafeteria roenbergensis
+<option value="8499">Eukaryota:&nbsp&nbsp;Caiman crocodilus
+<option value="6763">Eukaryota:&nbsp&nbsp;Callinectes sapidus
+<option value="212734">Eukaryota:&nbsp&nbsp;Calycanthus floridus var. glaucus
+<option value="135595">Eukaryota:&nbsp&nbsp;Campanulotes bidentatus compar
+<option value="383857">Eukaryota:&nbsp&nbsp;Campodea fragilis
+<option value="383858">Eukaryota:&nbsp&nbsp;Campodea lubbocki
+<option value="61318">Eukaryota:&nbsp&nbsp;Campostoma anomalum
+<option value="237561">Eukaryota:&nbsp&nbsp;Candida albicans SC5314
+<option value="284593">Eukaryota:&nbsp&nbsp;Candida glabrata CBS 138
+<option value="273372">Eukaryota:&nbsp&nbsp;Candida metapsilosis
+<option value="273371">Eukaryota:&nbsp&nbsp;Candida orthopsilosis
+<option value="5480">Eukaryota:&nbsp&nbsp;Candida parapsilosis
+<option value="45594">Eukaryota:&nbsp&nbsp;Candida stellata
+<option value="9615">Eukaryota:&nbsp&nbsp;Canis familiaris
+<option value="9614">Eukaryota:&nbsp&nbsp;Canis latrans
+<option value="9612">Eukaryota:&nbsp&nbsp;Canis lupus
+<option value="27604">Eukaryota:&nbsp&nbsp;Caperea marginata
+<option value="9925">Eukaryota:&nbsp&nbsp;Capra hircus
+<option value="181460">Eukaryota:&nbsp&nbsp;Carangoides armatus
+<option value="181461">Eukaryota:&nbsp&nbsp;Caranx melampygus
+<option value="181393">Eukaryota:&nbsp&nbsp;Carapus bermudensis
+<option value="7957">Eukaryota:&nbsp&nbsp;Carassius auratus
+<option value="145527">Eukaryota:&nbsp&nbsp;Carassius auratus auratus
+<option value="211488">Eukaryota:&nbsp&nbsp;Carassius auratus x Cyprinus carpio
+<option value="211491">Eukaryota:&nbsp&nbsp;Carassius auratus x Cyprinus carpio x Carassius cuvieri
+<option value="217509">Eukaryota:&nbsp&nbsp;Carassius carassius
+<option value="176285">Eukaryota:&nbsp&nbsp;Carios capensis
+<option value="154811">Eukaryota:&nbsp&nbsp;Carpiodes carpio
+<option value="8787">Eukaryota:&nbsp&nbsp;Casuarius casuarius
+<option value="181404">Eukaryota:&nbsp&nbsp;Cataetyx rubrirostris
+<option value="43455">Eukaryota:&nbsp&nbsp;Cathartes aura
+<option value="181422">Eukaryota:&nbsp&nbsp;Caulophryne pelagica
+<option value="10141">Eukaryota:&nbsp&nbsp;Cavia porcellus
+<option value="9514">Eukaryota:&nbsp&nbsp;Cebus albifrons
+<option value="6876">Eukaryota:&nbsp&nbsp;Centruroides limpidus
+<option value="28835">Eukaryota:&nbsp&nbsp;Cepaea nemoralis
+<option value="7213">Eukaryota:&nbsp&nbsp;Ceratitis capitata
+<option value="9807">Eukaryota:&nbsp&nbsp;Ceratotherium simum
+<option value="9860">Eukaryota:&nbsp&nbsp;Cervus elaphus
+<option value="151525">Eukaryota:&nbsp&nbsp;Cervus nippon centralis
+<option value="332176">Eukaryota:&nbsp&nbsp;Cervus nippon yakushimae
+<option value="223998">Eukaryota:&nbsp&nbsp;Cervus nippon yesoensis
+<option value="88671">Eukaryota:&nbsp&nbsp;Cetostoma regani
+<option value="96477">Eukaryota:&nbsp&nbsp;Chaetosphaeridium globosum
+<option value="42552">Eukaryota:&nbsp&nbsp;Chalceus macrolepidotus
+<option value="143942">Eukaryota:&nbsp&nbsp;Chalinolobus tuberculatus
+<option value="29144">Eukaryota:&nbsp&nbsp;Chanos chanos
+<option value="55564">Eukaryota:&nbsp&nbsp;Chara vulgaris
+<option value="68509">Eukaryota:&nbsp&nbsp;Chauliodus sloani
+<option value="181417">Eukaryota:&nbsp&nbsp;Chaunax abei
+<option value="181418">Eukaryota:&nbsp&nbsp;Chaunax tosaensis
+<option value="8469">Eukaryota:&nbsp&nbsp;Chelonia mydas
+<option value="6723">Eukaryota:&nbsp&nbsp;Cherax destructor
+<option value="7871">Eukaryota:&nbsp&nbsp;Chimaera monstrosa
+<option value="284239">Eukaryota:&nbsp&nbsp;Chinemys reevesi
+<option value="221863">Eukaryota:&nbsp&nbsp;Chirocentrus dorab
+<option value="3053">Eukaryota:&nbsp&nbsp;Chlamydomonas eugametos
+<option value="3055">Eukaryota:&nbsp&nbsp;Chlamydomonas reinhardtii
+<option value="3077">Eukaryota:&nbsp&nbsp;Chlorella vulgaris
+<option value="9534">Eukaryota:&nbsp&nbsp;Chlorocebus aethiops
+<option value="60711">Eukaryota:&nbsp&nbsp;Chlorocebus sabaeus
+<option value="143313">Eukaryota:&nbsp&nbsp;Chlorophthalmus agassizi
+<option value="126671">Eukaryota:&nbsp&nbsp;Chlorurus sordidus
+<option value="27675">Eukaryota:&nbsp&nbsp;Choloepus didactylus
+<option value="77803">Eukaryota:&nbsp&nbsp;Chondrostoma lemmingii
+<option value="2769">Eukaryota:&nbsp&nbsp;Chondrus crispus
+<option value="8479">Eukaryota:&nbsp&nbsp;Chrysemys picta
+<option value="185453">Eukaryota:&nbsp&nbsp;Chrysochloris asiatica
+<option value="47573">Eukaryota:&nbsp&nbsp;Chrysodidymus synuroideus
+<option value="235600">Eukaryota:&nbsp&nbsp;Chrysomya putoria
+<option value="52775">Eukaryota:&nbsp&nbsp;Ciconia boyciana
+<option value="8928">Eukaryota:&nbsp&nbsp;Ciconia ciconia
+<option value="7719">Eukaryota:&nbsp&nbsp;Ciona intestinalis
+<option value="51511">Eukaryota:&nbsp&nbsp;Ciona savignyi
+<option value="292503">Eukaryota:&nbsp&nbsp;Clymenella torquata
+<option value="183540">Eukaryota:&nbsp&nbsp;Cnemotriccus fuscatus
+<option value="143401">Eukaryota:&nbsp&nbsp;Cobitis sinensis
+<option value="149980">Eukaryota:&nbsp&nbsp;Cobitis striata
+<option value="115425">Eukaryota:&nbsp&nbsp;Cochliomyia hominivorax
+<option value="33548">Eukaryota:&nbsp&nbsp;Colobus guereza
+<option value="129043">Eukaryota:&nbsp&nbsp;Cololabis saira
+<option value="242718">Eukaryota:&nbsp&nbsp;Colpophyllia natans
+<option value="7943">Eukaryota:&nbsp&nbsp;Conger myriaster
+<option value="27828">Eukaryota:&nbsp&nbsp;Cooperia oncophora
+<option value="126614">Eukaryota:&nbsp&nbsp;Cordylus warreni
+<option value="334015">Eukaryota:&nbsp&nbsp;Coreana raphaelis
+<option value="59291">Eukaryota:&nbsp&nbsp;Coregonus lavaretus
+<option value="354116">Eukaryota:&nbsp&nbsp;Coreoleuciscus splendidus
+<option value="75140">Eukaryota:&nbsp&nbsp;Corvus frugilegus
+<option value="149983">Eukaryota:&nbsp&nbsp;Corydoras rabauti
+<option value="137881">Eukaryota:&nbsp&nbsp;Cottus reinii
+<option value="46218">Eukaryota:&nbsp&nbsp;Coturnix chinensis
+<option value="93934">Eukaryota:&nbsp&nbsp;Coturnix japonica
+<option value="175798">Eukaryota:&nbsp&nbsp;Cranoglanis bouderius
+<option value="29159">Eukaryota:&nbsp&nbsp;Crassostrea gigas
+<option value="6565">Eukaryota:&nbsp&nbsp;Crassostrea virginica
+<option value="143330">Eukaryota:&nbsp&nbsp;Crenimugil crenilabis
+<option value="10029">Eukaryota:&nbsp&nbsp;Cricetulus griseus
+<option value="184539">Eukaryota:&nbsp&nbsp;Crioceris duodecimpunctata
+<option value="36802">Eukaryota:&nbsp&nbsp;Crocidura russula
+<option value="8501">Eukaryota:&nbsp&nbsp;Crocodylus niloticus
+<option value="8502">Eukaryota:&nbsp&nbsp;Crocodylus porosus
+<option value="299317">Eukaryota:&nbsp&nbsp;Cromeria nilotica
+<option value="7980">Eukaryota:&nbsp&nbsp;Crossostoma lacustre
+<option value="5116">Eukaryota:&nbsp&nbsp;Cryphonectria parasitica
+<option value="178876">Eukaryota:&nbsp&nbsp;Cryptococcus neoformans var. grubii
+<option value="214684">Eukaryota:&nbsp&nbsp;Cryptococcus neoformans var. neoformans JEC21
+<option value="353152">Eukaryota:&nbsp&nbsp;Cryptosporidium parvum Iowa II
+<option value="28833">Eukaryota:&nbsp&nbsp;Cucumaria miniata
+<option value="3659">Eukaryota:&nbsp&nbsp;Cucumis sativus
+<option value="45157">Eukaryota:&nbsp&nbsp;Cyanidioschyzon merolae
+<option value="280699">Eukaryota:&nbsp&nbsp;Cyanidioschyzon merolae strain 10D
+<option value="2771">Eukaryota:&nbsp&nbsp;Cyanidium caldarium
+<option value="2762">Eukaryota:&nbsp&nbsp;Cyanophora paradoxa
+<option value="110926">Eukaryota:&nbsp&nbsp;Cygnus columbianus
+<option value="186578">Eukaryota:&nbsp&nbsp;Cylindrophis ruffus
+<option value="9457">Eukaryota:&nbsp&nbsp;Cynocephalus variegatus
+<option value="13477">Eukaryota:&nbsp&nbsp;Cyprinella spiloptera
+<option value="7962">Eukaryota:&nbsp&nbsp;Cyprinus carpio
+<option value="283373">Eukaryota:&nbsp&nbsp;Cypselurus hiraii
+<option value="38616">Eukaryota:&nbsp&nbsp;Dactylopsila trivirgata
+<option value="143342">Eukaryota:&nbsp&nbsp;Dactyloptena peterseni
+<option value="181453">Eukaryota:&nbsp&nbsp;Dactyloptena tiltoni
+<option value="75939">Eukaryota:&nbsp&nbsp;Dallia pectoralis
+<option value="143336">Eukaryota:&nbsp&nbsp;Danacetichthys galathenus
+<option value="7955">Eukaryota:&nbsp&nbsp;Danio rerio
+<option value="6669">Eukaryota:&nbsp&nbsp;Daphnia pulex
+<option value="9361">Eukaryota:&nbsp&nbsp;Dasypus novemcinctus
+<option value="9280">Eukaryota:&nbsp&nbsp;Dasyurus hallucatus
+<option value="4039">Eukaryota:&nbsp&nbsp;Daucus carota
+<option value="284592">Eukaryota:&nbsp&nbsp;Debaryomyces hansenii CBS767
+<option value="299321">Eukaryota:&nbsp&nbsp;Denticeps clupeoides
+<option value="115427">Eukaryota:&nbsp&nbsp;Dermatobia hominis
+<option value="62313">Eukaryota:&nbsp&nbsp;Desmarestia viridis
+<option value="52100">Eukaryota:&nbsp&nbsp;Desmognathus fuscus
+<option value="52108">Eukaryota:&nbsp&nbsp;Desmognathus wrighti
+<option value="143323">Eukaryota:&nbsp&nbsp;Diaphus splendidus
+<option value="361072">Eukaryota:&nbsp&nbsp;Dictyostelium citrinum
+<option value="44689">Eukaryota:&nbsp&nbsp;Dictyostelium discoideum
+<option value="352472">Eukaryota:&nbsp&nbsp;Dictyostelium discoideum AX4
+<option value="79012">Eukaryota:&nbsp&nbsp;Dictyostelium firmibasis
+<option value="5787">Eukaryota:&nbsp&nbsp;Dictyostelium giganteum
+<option value="2876">Eukaryota:&nbsp&nbsp;Dictyota dichotoma
+<option value="9267">Eukaryota:&nbsp&nbsp;Didelphis virginiana
+<option value="56549">Eukaryota:&nbsp&nbsp;Dinodon semicarinatus
+<option value="147464">Eukaryota:&nbsp&nbsp;Dinornis giganteus
+<option value="54026">Eukaryota:&nbsp&nbsp;Diomedea melanophris
+<option value="181406">Eukaryota:&nbsp&nbsp;Diplacanthopoma brachysoma
+<option value="94420">Eukaryota:&nbsp&nbsp;Diplometopon zarudnyi
+<option value="91975">Eukaryota:&nbsp&nbsp;Diplophos taenia
+<option value="181431">Eukaryota:&nbsp&nbsp;Diretmoides veriginae
+<option value="88682">Eukaryota:&nbsp&nbsp;Diretmus argenteus
+<option value="6287">Eukaryota:&nbsp&nbsp;Dirofilaria immitis
+<option value="97956">Eukaryota:&nbsp&nbsp;Discoglossus galganoi
+<option value="386609">Eukaryota:&nbsp&nbsp;Discosoma sp. CASIZ 168915
+<option value="386610">Eukaryota:&nbsp&nbsp;Discosoma sp. CASIZ 168916
+<option value="38614">Eukaryota:&nbsp&nbsp;Distoechurus pennatus
+<option value="159310">Eukaryota:&nbsp&nbsp;Dogania subplana
+<option value="76841">Eukaryota:&nbsp&nbsp;Doliolum nationalis
+<option value="336262">Eukaryota:&nbsp&nbsp;Dorosoma cepedianum
+<option value="8790">Eukaryota:&nbsp&nbsp;Dromaius novaehollandiae
+<option value="33562">Eukaryota:&nbsp&nbsp;Dromiciops gliroides
+<option value="7226">Eukaryota:&nbsp&nbsp;Drosophila mauritiana
+<option value="7227">Eukaryota:&nbsp&nbsp;Drosophila melanogaster
+<option value="7238">Eukaryota:&nbsp&nbsp;Drosophila sechellia
+<option value="7240">Eukaryota:&nbsp&nbsp;Drosophila simulans
+<option value="7245">Eukaryota:&nbsp&nbsp;Drosophila yakuba
+<option value="29137">Eukaryota:&nbsp&nbsp;Dugong dugon
+<option value="6210">Eukaryota:&nbsp&nbsp;Echinococcus granulosus
+<option value="6211">Eukaryota:&nbsp&nbsp;Echinococcus multilocularis
+<option value="9371">Eukaryota:&nbsp&nbsp;Echinops telfairi
+<option value="162630">Eukaryota:&nbsp&nbsp;Echinosorex gymnura
+<option value="164528">Eukaryota:&nbsp&nbsp;Echymipera rufescens australis
+<option value="36704">Eukaryota:&nbsp&nbsp;Eigenmannia sp.
+<option value="5802">Eukaryota:&nbsp&nbsp;Eimeria tenella
+<option value="71674">Eukaryota:&nbsp&nbsp;Elassoma evergladei
+<option value="86232">Eukaryota:&nbsp&nbsp;Eleotris acanthopoma
+<option value="213657">Eukaryota:&nbsp&nbsp;Elephantulus sp. VB001
+<option value="9783">Eukaryota:&nbsp&nbsp;Elephas maximus
+<option value="54905">Eukaryota:&nbsp&nbsp;Elops hawaiensis
+<option value="7928">Eukaryota:&nbsp&nbsp;Elops saurus
+<option value="147466">Eukaryota:&nbsp&nbsp;Emeus crassus
+<option value="2903">Eukaryota:&nbsp&nbsp;Emiliania huxleyi
+<option value="181464">Eukaryota:&nbsp&nbsp;Emmelichthys struhsakeri
+<option value="284813">Eukaryota:&nbsp&nbsp;Encephalitozoon cuniculi GB-M1
+<option value="42892">Eukaryota:&nbsp&nbsp;Engraulis japonicus
+<option value="57550">Eukaryota:&nbsp&nbsp;Ensatina eschscholtzii
+<option value="34391">Eukaryota:&nbsp&nbsp;Epidermophyton floccosum
+<option value="4177">Eukaryota:&nbsp&nbsp;Epifagus virginiana
+<option value="231028">Eukaryota:&nbsp&nbsp;Epigonichthys maldivensis
+<option value="150090">Eukaryota:&nbsp&nbsp;Episoriculus fumidus
+<option value="7764">Eukaryota:&nbsp&nbsp;Eptatretus burgeri
+<option value="9793">Eukaryota:&nbsp&nbsp;Equus asinus
+<option value="9796">Eukaryota:&nbsp&nbsp;Equus caballus
+<option value="33169">Eukaryota:&nbsp&nbsp;Eremothecium gossypii
+<option value="9365">Eukaryota:&nbsp&nbsp;Erinaceus europaeus
+<option value="95602">Eukaryota:&nbsp&nbsp;Eriocheir sinensis
+<option value="27687">Eukaryota:&nbsp&nbsp;Erpetoichthys calabaricus
+<option value="9764">Eukaryota:&nbsp&nbsp;Eschrichtius robustus
+<option value="8010">Eukaryota:&nbsp&nbsp;Esox lucius
+<option value="54341">Eukaryota:&nbsp&nbsp;Etheostoma radiosum
+<option value="160595">Eukaryota:&nbsp&nbsp;Eubalaena australis
+<option value="302098">Eukaryota:&nbsp&nbsp;Eubalaena japonica
+<option value="71271">Eukaryota:&nbsp&nbsp;Eucalyptus globulus subsp. globulus
+<option value="8805">Eukaryota:&nbsp&nbsp;Eudromia elegans
+<option value="79626">Eukaryota:&nbsp&nbsp;Eudyptes chrysocome
+<option value="37083">Eukaryota:&nbsp&nbsp;Eudyptula minor
+<option value="3039">Eukaryota:&nbsp&nbsp;Euglena gracilis
+<option value="3037">Eukaryota:&nbsp&nbsp;Euglena longa
+<option value="52436">Eukaryota:&nbsp&nbsp;Eumeces egregius
+<option value="34886">Eukaryota:&nbsp&nbsp;Eumetopias jubatus
+<option value="134758">Eukaryota:&nbsp&nbsp;Eurycea bislineata
+<option value="55117">Eukaryota:&nbsp&nbsp;Eurypharynx pelecanoides
+<option value="181429">Eukaryota:&nbsp&nbsp;Eutaeniophorus sp. 033-Miya
+<option value="8228">Eukaryota:&nbsp&nbsp;Euthynnus alletteratus
+<option value="143332">Eukaryota:&nbsp&nbsp;Exocoetus volitans
+<option value="8954">Eukaryota:&nbsp&nbsp;Falco peregrinus
+<option value="6192">Eukaryota:&nbsp&nbsp;Fasciola hepatica
+<option value="110108">Eukaryota:&nbsp&nbsp;Fejervarya limnocharis
+<option value="9685">Eukaryota:&nbsp&nbsp;Felis catus
+<option value="73431">Eukaryota:&nbsp&nbsp;Florometra serratissima
+<option value="97271">Eukaryota:&nbsp&nbsp;Flustrellidra hispida
+<option value="49266">Eukaryota:&nbsp&nbsp;Fucus vesiculosus
+<option value="96317">Eukaryota:&nbsp&nbsp;Fusarium oxysporum f. sp. matthiolae
+<option value="96318">Eukaryota:&nbsp&nbsp;Fusarium oxysporum f. sp. raphani
+<option value="8049">Eukaryota:&nbsp&nbsp;Gadus morhua
+<option value="61620">Eukaryota:&nbsp&nbsp;Galaxias maculatus
+<option value="202257">Eukaryota:&nbsp&nbsp;Galemys pyrenaicus
+<option value="9031">Eukaryota:&nbsp&nbsp;Gallus gallus
+<option value="208525">Eukaryota:&nbsp&nbsp;Gallus gallus bankiva
+<option value="208526">Eukaryota:&nbsp&nbsp;Gallus gallus gallus
+<option value="208524">Eukaryota:&nbsp&nbsp;Gallus gallus spadiceus
+<option value="9032">Eukaryota:&nbsp&nbsp;Gallus lafayettei
+<option value="9033">Eukaryota:&nbsp&nbsp;Gallus sonneratii
+<option value="9034">Eukaryota:&nbsp&nbsp;Gallus varius
+<option value="33528">Eukaryota:&nbsp&nbsp;Gambusia affinis
+<option value="69293">Eukaryota:&nbsp&nbsp;Gasterosteus aculeatus
+<option value="85097">Eukaryota:&nbsp&nbsp;Gavia pacifica
+<option value="37040">Eukaryota:&nbsp&nbsp;Gavia stellata
+<option value="94835">Eukaryota:&nbsp&nbsp;Gavialis gangeticus
+<option value="194526">Eukaryota:&nbsp&nbsp;Gegeneophis ramaswamii
+<option value="36310">Eukaryota:&nbsp&nbsp;Gekko gecko
+<option value="261498">Eukaryota:&nbsp&nbsp;Geocalamus acutus
+<option value="55540">Eukaryota:&nbsp&nbsp;Geochelone pardalis
+<option value="36754">Eukaryota:&nbsp&nbsp;Geodia neptuni
+<option value="290333">Eukaryota:&nbsp&nbsp;Geothelphusa dehaani
+<option value="71757">Eukaryota:&nbsp&nbsp;Gila robusta
+<option value="170196">Eukaryota:&nbsp&nbsp;Glossanodon semifasciatus
+<option value="3847">Eukaryota:&nbsp&nbsp;Glycine max
+<option value="221270">Eukaryota:&nbsp&nbsp;Gomphiocephalus hodgsoni
+<option value="85123">Eukaryota:&nbsp&nbsp;Gonodactylus chiragra
+<option value="149986">Eukaryota:&nbsp&nbsp;Gonorynchus greyi
+<option value="48457">Eukaryota:&nbsp&nbsp;Gonostoma gracile
+<option value="9593">Eukaryota:&nbsp&nbsp;Gorilla gorilla
+<option value="3635">Eukaryota:&nbsp&nbsp;Gossypium hirsutum
+<option value="2775">Eukaryota:&nbsp&nbsp;Gracilaria chilensis
+<option value="38400">Eukaryota:&nbsp&nbsp;Gracilaria robusta
+<option value="285951">Eukaryota:&nbsp&nbsp;Gracilaria tenuistipitata var. liui
+<option value="2782">Eukaryota:&nbsp&nbsp;Gracilariopsis lemaneiformis
+<option value="55752">Eukaryota:&nbsp&nbsp;Graptacme eborea
+<option value="299323">Eukaryota:&nbsp&nbsp;Grasseichthys gabonensis
+<option value="213494">Eukaryota:&nbsp&nbsp;Gryllotalpa orientalis
+<option value="55529">Eukaryota:&nbsp&nbsp;Guillardia theta
+<option value="228695">Eukaryota:&nbsp&nbsp;Gymnocrinus richeri
+<option value="139722">Eukaryota:&nbsp&nbsp;Gymnothorax kidako
+<option value="134760">Eukaryota:&nbsp&nbsp;Gyrinophilus porphyriticus
+<option value="130930">Eukaryota:&nbsp&nbsp;Habronattus oregonensis
+<option value="181088">Eukaryota:&nbsp&nbsp;Haemaphysalis flava
+<option value="75445">Eukaryota:&nbsp&nbsp;Haematobia irritans irritans
+<option value="185689">Eukaryota:&nbsp&nbsp;Haematopus ater
+<option value="9711">Eukaryota:&nbsp&nbsp;Halichoerus grypus
+<option value="36100">Eukaryota:&nbsp&nbsp;Haliotis rubra
+<option value="7729">Eukaryota:&nbsp&nbsp;Halocynthia roretzi
+<option value="29833">Eukaryota:&nbsp&nbsp;Hanseniaspora uvarum
+<option value="143314">Eukaryota:&nbsp&nbsp;Harpadon microchir
+<option value="287944">Eukaryota:&nbsp&nbsp;Harpiosquilla harpax
+<option value="224131">Eukaryota:&nbsp&nbsp;Harpochytrium sp. JEL105
+<option value="109764">Eukaryota:&nbsp&nbsp;Harpochytrium sp. JEL94
+<option value="4232">Eukaryota:&nbsp&nbsp;Helianthus annuus
+<option value="143344">Eukaryota:&nbsp&nbsp;Helicolenus hilgendorfi
+<option value="145475">Eukaryota:&nbsp&nbsp;Helicosporidium sp. ex Simulium jonesii
+<option value="328524">Eukaryota:&nbsp&nbsp;Hemibarbus labeo
+<option value="354114">Eukaryota:&nbsp&nbsp;Hemibarbus longirostris
+<option value="351240">Eukaryota:&nbsp&nbsp;Hemibarbus mylodon
+<option value="291265">Eukaryota:&nbsp&nbsp;Hemidactylium scutatum
+<option value="217708">Eukaryota:&nbsp&nbsp;Hemiechinus auritus
+<option value="216259">Eukaryota:&nbsp&nbsp;Heptathela hangzhouensis
+<option value="140016">Eukaryota:&nbsp&nbsp;Herpestes javanicus
+<option value="7792">Eukaryota:&nbsp&nbsp;Heterodontus francisci
+<option value="145266">Eukaryota:&nbsp&nbsp;Heterodoxus macropus
+<option value="282282">Eukaryota:&nbsp&nbsp;Hexatrygon bickelli
+<option value="54904">Eukaryota:&nbsp&nbsp;Hiodon alosoides
+<option value="9833">Eukaryota:&nbsp&nbsp;Hippopotamus amphibius
+<option value="197043">Eukaryota:&nbsp&nbsp;Homalodisca coagulata
+<option value="9606">Eukaryota:&nbsp&nbsp;Homo sapiens
+<option value="143337">Eukaryota:&nbsp&nbsp;Hoplostethus japonicus
+<option value="37429">Eukaryota:&nbsp&nbsp;Huperzia lucidula
+<option value="61971">Eukaryota:&nbsp&nbsp;Huso huso
+<option value="84335">Eukaryota:&nbsp&nbsp;Hutchinsoniella macracantha
+<option value="82268">Eukaryota:&nbsp&nbsp;Hyaloraphidium curvatum
+<option value="57553">Eukaryota:&nbsp&nbsp;Hydromantes brunus
+<option value="167933">Eukaryota:&nbsp&nbsp;Hyla chinensis
+<option value="9580">Eukaryota:&nbsp&nbsp;Hylobates lar
+<option value="6216">Eukaryota:&nbsp&nbsp;Hymenolepis diminuta
+<option value="244216">Eukaryota:&nbsp&nbsp;Hynobius amjiensis
+<option value="288313">Eukaryota:&nbsp&nbsp;Hynobius chinensis
+<option value="284022">Eukaryota:&nbsp&nbsp;Hynobius formosanus
+<option value="113391">Eukaryota:&nbsp&nbsp;Hynobius leechii
+<option value="48744">Eukaryota:&nbsp&nbsp;Hyperoodon ampullatus
+<option value="126353">Eukaryota:&nbsp&nbsp;Hypoatherina tsurugae
+<option value="51453">Eukaryota:&nbsp&nbsp;Hypocrea jecorina
+<option value="5544">Eukaryota:&nbsp&nbsp;Hypocrea lixii
+<option value="166256">Eukaryota:&nbsp&nbsp;Hypoptychus dybowskii
+<option value="8453">Eukaryota:&nbsp&nbsp;Ichthyophis bannanicus
+<option value="194415">Eukaryota:&nbsp&nbsp;Ichthyophis glutinosus
+<option value="7998">Eukaryota:&nbsp&nbsp;Ictalurus punctatus
+<option value="8517">Eukaryota:&nbsp&nbsp;Iguana iguana
+<option value="143307">Eukaryota:&nbsp&nbsp;Ijimaia dofleini
+<option value="34582">Eukaryota:&nbsp&nbsp;Ilyanassa obsoleta
+<option value="181450">Eukaryota:&nbsp&nbsp;Indostomus paradoxus
+<option value="74920">Eukaryota:&nbsp&nbsp;Indotestudo elongata
+<option value="260613">Eukaryota:&nbsp&nbsp;Indotestudo forstenii
+<option value="9725">Eukaryota:&nbsp&nbsp;Inia geoffrensis
+<option value="37698">Eukaryota:&nbsp&nbsp;Isoodon macrourus
+<option value="34612">Eukaryota:&nbsp&nbsp;Ixodes hexagonus
+<option value="65647">Eukaryota:&nbsp&nbsp;Ixodes holocyclus
+<option value="34615">Eukaryota:&nbsp&nbsp;Ixodes persulcatus
+<option value="59655">Eukaryota:&nbsp&nbsp;Ixodes uriae
+<option value="51337">Eukaryota:&nbsp&nbsp;Jaculus jaculus
+<option value="296598">Eukaryota:&nbsp&nbsp;Japyx solifugus
+<option value="221866">Eukaryota:&nbsp&nbsp;Jenkinsia lamprotaenia
+<option value="167934">Eukaryota:&nbsp&nbsp;Kaloula pulchra
+<option value="34587">Eukaryota:&nbsp&nbsp;Katharina tunicata
+<option value="8226">Eukaryota:&nbsp&nbsp;Katsuwonus pelamis
+<option value="28985">Eukaryota:&nbsp&nbsp;Kluyveromyces lactis
+<option value="284590">Eukaryota:&nbsp&nbsp;Kluyveromyces lactis NRRL Y-1140
+<option value="4916">Eukaryota:&nbsp&nbsp;Kluyveromyces thermotolerans
+<option value="299324">Eukaryota:&nbsp&nbsp;Kneria sp. SL-2004
+<option value="27615">Eukaryota:&nbsp&nbsp;Kogia breviceps
+<option value="37003">Eukaryota:&nbsp&nbsp;Kryptolebias marmoratus
+<option value="340657">Eukaryota:&nbsp&nbsp;Lacerta viridis viridis
+<option value="4236">Eukaryota:&nbsp&nbsp;Lactuca sativa
+<option value="27610">Eukaryota:&nbsp&nbsp;Lagenorhynchus albirostris
+<option value="65632">Eukaryota:&nbsp&nbsp;Lagorchestes hirsutus
+<option value="30538">Eukaryota:&nbsp&nbsp;Lama pacos
+<option value="80365">Eukaryota:&nbsp&nbsp;Laminaria digitata
+<option value="7748">Eukaryota:&nbsp&nbsp;Lampetra fluviatilis
+<option value="81370">Eukaryota:&nbsp&nbsp;Lampris guttatus
+<option value="81578">Eukaryota:&nbsp&nbsp;Lampsilis ornata
+<option value="93892">Eukaryota:&nbsp&nbsp;Laqueus rubellus
+<option value="37036">Eukaryota:&nbsp&nbsp;Larus dominicanus
+<option value="8187">Eukaryota:&nbsp&nbsp;Lates calcarifer
+<option value="7897">Eukaryota:&nbsp&nbsp;Latimeria chalumnae
+<option value="106881">Eukaryota:&nbsp&nbsp;Latimeria menadoensis
+<option value="291364">Eukaryota:&nbsp&nbsp;Lecanicillium muscarium
+<option value="149982">Eukaryota:&nbsp&nbsp;Lefua echigonia
+<option value="347515">Eukaryota:&nbsp&nbsp;Leishmania major strain Friedlin
+<option value="5689">Eukaryota:&nbsp&nbsp;Leishmania tarentolae
+<option value="9447">Eukaryota:&nbsp&nbsp;Lemur catta
+<option value="72036">Eukaryota:&nbsp&nbsp;Lepeophtheirus salmonis
+<option value="7883">Eukaryota:&nbsp&nbsp;Lepidosiren paradoxa
+<option value="7918">Eukaryota:&nbsp&nbsp;Lepisosteus oculatus
+<option value="34771">Eukaryota:&nbsp&nbsp;Lepisosteus osseus
+<option value="7917">Eukaryota:&nbsp&nbsp;Lepisosteus spatula
+<option value="60532">Eukaryota:&nbsp&nbsp;Leptorhynchoides thecatus
+<option value="299468">Eukaryota:&nbsp&nbsp;Leptotrombidium akamushi
+<option value="299467">Eukaryota:&nbsp&nbsp;Leptotrombidium deliense
+<option value="279272">Eukaryota:&nbsp&nbsp;Leptotrombidium pallidum
+<option value="52437">Eukaryota:&nbsp&nbsp;Leptotyphlops dulcis
+<option value="9983">Eukaryota:&nbsp&nbsp;Lepus europaeus
+<option value="120496">Eukaryota:&nbsp&nbsp;Limnonectes fujianensis
+<option value="6850">Eukaryota:&nbsp&nbsp;Limulus polyphemus
+<option value="329969">Eukaryota:&nbsp&nbsp;Liobagrus obesus
+<option value="118797">Eukaryota:&nbsp&nbsp;Lipotes vexillifer
+<option value="3415">Eukaryota:&nbsp&nbsp;Liriodendron tulipifera
+<option value="7552">Eukaryota:&nbsp&nbsp;Lithobius forficatus
+<option value="156992">Eukaryota:&nbsp&nbsp;Liua shihi
+<option value="7004">Eukaryota:&nbsp&nbsp;Locusta migratoria
+<option value="6617">Eukaryota:&nbsp&nbsp;Loligo bleekeri
+<option value="356379">Eukaryota:&nbsp&nbsp;Lophiotoma cerithiformis
+<option value="8073">Eukaryota:&nbsp&nbsp;Lophius americanus
+<option value="30790">Eukaryota:&nbsp&nbsp;Lophius litulon
+<option value="69944">Eukaryota:&nbsp&nbsp;Lota lota
+<option value="225159">Eukaryota:&nbsp&nbsp;Lottia digitalis
+<option value="34305">Eukaryota:&nbsp&nbsp;Lotus japonicus
+<option value="9785">Eukaryota:&nbsp&nbsp;Loxodonta africana
+<option value="60585">Eukaryota:&nbsp&nbsp;Luidia quinalia
+<option value="6398">Eukaryota:&nbsp&nbsp;Lumbricus terrestris
+<option value="297010">Eukaryota:&nbsp&nbsp;Lyciasalamandra atifi
+<option value="181467">Eukaryota:&nbsp&nbsp;Lycodes toyamensis
+<option value="344752">Eukaryota:&nbsp&nbsp;Lysiosquillina maculata
+<option value="9544">Eukaryota:&nbsp&nbsp;Macaca mulatta
+<option value="9546">Eukaryota:&nbsp&nbsp;Macaca sylvanus
+<option value="79674">Eukaryota:&nbsp&nbsp;Macrobrachium rosenbergii
+<option value="9319">Eukaryota:&nbsp&nbsp;Macropus robustus
+<option value="29082">Eukaryota:&nbsp&nbsp;Macroscelides proboscideus
+<option value="92651">Eukaryota:&nbsp&nbsp;Macrotis lagotis
+<option value="286009">Eukaryota:&nbsp&nbsp;Malacochersus tornieri
+<option value="136089">Eukaryota:&nbsp&nbsp;Malawimonas jakobiformis
+<option value="37349">Eukaryota:&nbsp&nbsp;Mammuthus primigenius
+<option value="73815">Eukaryota:&nbsp&nbsp;Manis tetradactyla
+<option value="260614">Eukaryota:&nbsp&nbsp;Manouria emys
+<option value="111290">Eukaryota:&nbsp&nbsp;Mantella madagascariensis
+<option value="3197">Eukaryota:&nbsp&nbsp;Marchantia polymorpha
+<option value="27405">Eukaryota:&nbsp&nbsp;Marsupenaeus japonicus
+<option value="143340">Eukaryota:&nbsp&nbsp;Mastacembelus favus
+<option value="223211">Eukaryota:&nbsp&nbsp;Masturus lanceolatus
+<option value="3880">Eukaryota:&nbsp&nbsp;Medicago truncatula
+<option value="266495">Eukaryota:&nbsp&nbsp;Megabalanus volcano
+<option value="7932">Eukaryota:&nbsp&nbsp;Megalops atlanticus
+<option value="118141">Eukaryota:&nbsp&nbsp;Megalops cyprinoides
+<option value="9773">Eukaryota:&nbsp&nbsp;Megaptera novaeangliae
+<option value="181425">Eukaryota:&nbsp&nbsp;Melanocetus murrayi
+<option value="8056">Eukaryota:&nbsp&nbsp;Melanogrammus aeglefinus
+<option value="120839">Eukaryota:&nbsp&nbsp;Melanotaenia lacustris
+<option value="60889">Eukaryota:&nbsp&nbsp;Melipona bicolor
+<option value="47692">Eukaryota:&nbsp&nbsp;Menura novaehollandiae
+<option value="8058">Eukaryota:&nbsp&nbsp;Merlangius merlangus
+<option value="123226">Eukaryota:&nbsp&nbsp;Mesobuthus gibbosus
+<option value="41882">Eukaryota:&nbsp&nbsp;Mesostigma viride
+<option value="42725">Eukaryota:&nbsp&nbsp;Metachirus nudicaudatus
+<option value="5530">Eukaryota:&nbsp&nbsp;Metarhizium anisopliae
+<option value="6116">Eukaryota:&nbsp&nbsp;Metridium senile
+<option value="143525">Eukaryota:&nbsp&nbsp;Microhyla heymonsi
+<option value="27706">Eukaryota:&nbsp&nbsp;Micropterus salmoides
+<option value="100899">Eukaryota:&nbsp&nbsp;Microtus kikuchii
+<option value="30630">Eukaryota:&nbsp&nbsp;Microtus rossiaemeridionalis
+<option value="154819">Eukaryota:&nbsp&nbsp;Minytrema melanops
+<option value="62295">Eukaryota:&nbsp&nbsp;Mogera wogura
+<option value="94237">Eukaryota:&nbsp&nbsp;Mola mola
+<option value="153609">Eukaryota:&nbsp&nbsp;Moniliophthora perniciosa
+<option value="224130">Eukaryota:&nbsp&nbsp;Monoblepharella sp. JEL15
+<option value="181435">Eukaryota:&nbsp&nbsp;Monocentris japonicus
+<option value="13616">Eukaryota:&nbsp&nbsp;Monodelphis domestica
+<option value="40151">Eukaryota:&nbsp&nbsp;Monodon monoceros
+<option value="43700">Eukaryota:&nbsp&nbsp;Monopterus albus
+<option value="81824">Eukaryota:&nbsp&nbsp;Monosiga brevicollis
+<option value="48500">Eukaryota:&nbsp&nbsp;Montastraea annularis
+<option value="48498">Eukaryota:&nbsp&nbsp;Montastraea faveolata
+<option value="48499">Eukaryota:&nbsp&nbsp;Montastraea franksi
+<option value="246299">Eukaryota:&nbsp&nbsp;Montipora cactus
+<option value="78898">Eukaryota:&nbsp&nbsp;Mortierella verticillata
+<option value="48193">Eukaryota:&nbsp&nbsp;Mugil cephalus
+<option value="71854">Eukaryota:&nbsp&nbsp;Muntiacus crinifrons
+<option value="9888">Eukaryota:&nbsp&nbsp;Muntiacus muntjak
+<option value="9886">Eukaryota:&nbsp&nbsp;Muntiacus reevesi
+<option value="10090">Eukaryota:&nbsp&nbsp;Mus musculus
+<option value="10092">Eukaryota:&nbsp&nbsp;Mus musculus domesticus
+<option value="57486">Eukaryota:&nbsp&nbsp;Mus musculus molossinus
+<option value="214982">Eukaryota:&nbsp&nbsp;Mussa angulosa
+<option value="79736">Eukaryota:&nbsp&nbsp;Mustelus manazo
+<option value="143322">Eukaryota:&nbsp&nbsp;Myctophum affine
+<option value="41261">Eukaryota:&nbsp&nbsp;Myoxus glis
+<option value="47700">Eukaryota:&nbsp&nbsp;Myripristis berndti
+<option value="94961">Eukaryota:&nbsp&nbsp;Mystacina tuberculata
+<option value="6550">Eukaryota:&nbsp&nbsp;Mytilus edulis
+<option value="29158">Eukaryota:&nbsp&nbsp;Mytilus galloprovincialis
+<option value="6551">Eukaryota:&nbsp&nbsp;Mytilus trossulus
+<option value="7769">Eukaryota:&nbsp&nbsp;Myxine glutinosa
+<option value="70543">Eukaryota:&nbsp&nbsp;Myxocyprinus asiaticus
+<option value="5762">Eukaryota:&nbsp&nbsp;Naegleria gruberi
+<option value="30637">Eukaryota:&nbsp&nbsp;Nannospalax ehrenbergi
+<option value="170199">Eukaryota:&nbsp&nbsp;Nansenia ardesiaca
+<option value="174156">Eukaryota:&nbsp&nbsp;Narceus annularus
+<option value="43780">Eukaryota:&nbsp&nbsp;Nasalis larvatus
+<option value="34576">Eukaryota:&nbsp&nbsp;Nautilus macromphalus
+<option value="51031">Eukaryota:&nbsp&nbsp;Necator americanus
+<option value="388630">Eukaryota:&nbsp&nbsp;Nematostella sp. JVK-2006
+<option value="7892">Eukaryota:&nbsp&nbsp;Neoceratodus forsteri
+<option value="181447">Eukaryota:&nbsp&nbsp;Neocyttus rhomboidalis
+<option value="266944">Eukaryota:&nbsp&nbsp;Neomaskellia andropogonis
+<option value="143321">Eukaryota:&nbsp&nbsp;Neoscopelus microchir
+<option value="70342">Eukaryota:&nbsp&nbsp;Nephila clavata
+<option value="31312">Eukaryota:&nbsp&nbsp;Nephroselmis olivacea
+<option value="299218">Eukaryota:&nbsp&nbsp;Nesomachilis australica
+<option value="5141">Eukaryota:&nbsp&nbsp;Neurospora crassa
+<option value="5142">Eukaryota:&nbsp&nbsp;Neurospora intermedia
+<option value="4096">Eukaryota:&nbsp&nbsp;Nicotiana sylvestris
+<option value="4097">Eukaryota:&nbsp&nbsp;Nicotiana tabacum
+<option value="4098">Eukaryota:&nbsp&nbsp;Nicotiana tomentosiformis
+<option value="57242">Eukaryota:&nbsp&nbsp;Ninox novaeseelandiae
+<option value="128390">Eukaryota:&nbsp&nbsp;Nipponia nippon
+<option value="143895">Eukaryota:&nbsp&nbsp;Notacanthus chemnitzi
+<option value="37699">Eukaryota:&nbsp&nbsp;Notoryctes typhlops
+<option value="28795">Eukaryota:&nbsp&nbsp;Notropis stramineus
+<option value="8996">Eukaryota:&nbsp&nbsp;Numida meleagris
+<option value="9470">Eukaryota:&nbsp&nbsp;Nycticebus coucang
+<option value="34301">Eukaryota:&nbsp&nbsp;Nymphaea alba
+<option value="134600">Eukaryota:&nbsp&nbsp;Ochotona collaris
+<option value="9978">Eukaryota:&nbsp&nbsp;Ochotona princeps
+<option value="2986">Eukaryota:&nbsp&nbsp;Ochromonas danica
+<option value="154808">Eukaryota:&nbsp&nbsp;Octopus ocellatus
+<option value="6645">Eukaryota:&nbsp&nbsp;Octopus vulgaris
+<option value="62698">Eukaryota:&nbsp&nbsp;Odobenus rosmarus rosmarus
+<option value="2839">Eukaryota:&nbsp&nbsp;Odontella sinensis
+<option value="107992">Eukaryota:&nbsp&nbsp;Oedipina poelzi
+<option value="85636">Eukaryota:&nbsp&nbsp;Oenothera elata subsp. hookeri
+<option value="51324">Eukaryota:&nbsp&nbsp;Oltmannsiellopsis viridis
+<option value="6282">Eukaryota:&nbsp&nbsp;Onchocerca volvulus
+<option value="72053">Eukaryota:&nbsp&nbsp;Oncorhynchus clarkii henshawi
+<option value="8022">Eukaryota:&nbsp&nbsp;Oncorhynchus mykiss
+<option value="74940">Eukaryota:&nbsp&nbsp;Oncorhynchus tshawytscha
+<option value="280588">Eukaryota:&nbsp&nbsp;Onychiurus orientalis
+<option value="113382">Eukaryota:&nbsp&nbsp;Onychodactylus fischeri
+<option value="35052">Eukaryota:&nbsp&nbsp;Ophiopholis aculeata
+<option value="118157">Eukaryota:&nbsp&nbsp;Ophisurus macrorhynchos
+<option value="224378">Eukaryota:&nbsp&nbsp;Ophiura lutkeni
+<option value="170206">Eukaryota:&nbsp&nbsp;Opisthoproctus soleatus
+<option value="195264">Eukaryota:&nbsp&nbsp;Orbinia latreillii
+<option value="8127">Eukaryota:&nbsp&nbsp;Oreochromis mossambicus
+<option value="29017">Eukaryota:&nbsp&nbsp;Ornithoctonus huwena
+<option value="6938">Eukaryota:&nbsp&nbsp;Ornithodoros moubata
+<option value="34594">Eukaryota:&nbsp&nbsp;Ornithodoros porcinus
+<option value="9258">Eukaryota:&nbsp&nbsp;Ornithorhynchus anatinus
+<option value="9818">Eukaryota:&nbsp&nbsp;Orycteropus afer
+<option value="9986">Eukaryota:&nbsp&nbsp;Oryctolagus cuniculus
+<option value="4536">Eukaryota:&nbsp&nbsp;Oryza nivara
+<option value="39946">Eukaryota:&nbsp&nbsp;Oryza sativa (indica cultivar-group)
+<option value="39947">Eukaryota:&nbsp&nbsp;Oryza sativa (japonica cultivar-group)
+<option value="8090">Eukaryota:&nbsp&nbsp;Oryzias latipes
+<option value="109271">Eukaryota:&nbsp&nbsp;Osteoglossum bicirrhosum
+<option value="181437">Eukaryota:&nbsp&nbsp;Ostichthys japonicus
+<option value="70448">Eukaryota:&nbsp&nbsp;Ostreococcus tauri
+<option value="93504">Eukaryota:&nbsp&nbsp;Ostrinia furnacalis
+<option value="29057">Eukaryota:&nbsp&nbsp;Ostrinia nubilalis
+<option value="9940">Eukaryota:&nbsp&nbsp;Ovis aries
+<option value="8769">Eukaryota:&nbsp&nbsp;Ovophis okinavensis
+<option value="288317">Eukaryota:&nbsp&nbsp;Pachyhynobius shangchengensis
+<option value="38123">Eukaryota:&nbsp&nbsp;Pachypsylla venusta
+<option value="63415">Eukaryota:&nbsp&nbsp;Pagrus auriga
+<option value="143350">Eukaryota:&nbsp&nbsp;Pagrus major
+<option value="111067">Eukaryota:&nbsp&nbsp;Pagurus longicarpus
+<option value="9597">Eukaryota:&nbsp&nbsp;Pan paniscus
+<option value="9598">Eukaryota:&nbsp&nbsp;Pan troglodytes
+<option value="4054">Eukaryota:&nbsp&nbsp;Panax ginseng
+<option value="30993">Eukaryota:&nbsp&nbsp;Pangasianodon gigas
+<option value="59538">Eukaryota:&nbsp&nbsp;Pantholops hodgsonii
+<option value="8276">Eukaryota:&nbsp&nbsp;Pantodon buchholzi
+<option value="6736">Eukaryota:&nbsp&nbsp;Panulirus japonicus
+<option value="9557">Eukaryota:&nbsp&nbsp;Papio hamadryas
+<option value="7656">Eukaryota:&nbsp&nbsp;Paracentrotus lividus
+<option value="121759">Eukaryota:&nbsp&nbsp;Paracoccidioides brasiliensis
+<option value="34504">Eukaryota:&nbsp&nbsp;Paragonimus westermani
+<option value="299325">Eukaryota:&nbsp&nbsp;Parakneria cameronensis
+<option value="8255">Eukaryota:&nbsp&nbsp;Paralichthys olivaceus
+<option value="5889">Eukaryota:&nbsp&nbsp;Paramecium aurelia
+<option value="5888">Eukaryota:&nbsp&nbsp;Paramecium tetraurelia
+<option value="164972">Eukaryota:&nbsp&nbsp;Paramesotriton hongkongensis
+<option value="34758">Eukaryota:&nbsp&nbsp;Paraspadella gotoi
+<option value="181440">Eukaryota:&nbsp&nbsp;Parazen pacificus
+<option value="367766">Eukaryota:&nbsp&nbsp;Pavona clavus
+<option value="3159">Eukaryota:&nbsp&nbsp;Pedinomonas minor
+<option value="61616">Eukaryota:&nbsp&nbsp;Pelobates cultripes
+<option value="13735">Eukaryota:&nbsp&nbsp;Pelodiscus sinensis
+<option value="44522">Eukaryota:&nbsp&nbsp;Pelomedusa subrufa
+<option value="6687">Eukaryota:&nbsp&nbsp;Penaeus monodon
+<option value="37727">Eukaryota:&nbsp&nbsp;Penicillium marneffei
+<option value="37737">Eukaryota:&nbsp&nbsp;Perameles gunnii
+<option value="163822">Eukaryota:&nbsp&nbsp;Percina macrolepida
+<option value="143327">Eukaryota:&nbsp&nbsp;Percopsis transmontana
+<option value="36977">Eukaryota:&nbsp&nbsp;Periplaneta fuliginosa
+<option value="34899">Eukaryota:&nbsp&nbsp;Petaurus breviceps
+<option value="50562">Eukaryota:&nbsp&nbsp;Petrobius brevistylis
+<option value="7757">Eukaryota:&nbsp&nbsp;Petromyzon marinus
+<option value="57847">Eukaryota:&nbsp&nbsp;Petroscirtes breviceps
+<option value="52110">Eukaryota:&nbsp&nbsp;Phaeognathus hubrichti
+<option value="57073">Eukaryota:&nbsp&nbsp;Phaethon rubricauda
+<option value="308872">Eukaryota:&nbsp&nbsp;Phalaenopsis aphrodite subsp. formosana
+<option value="356347">Eukaryota:&nbsp&nbsp;Phalanger interpositus
+<option value="329963">Eukaryota:&nbsp&nbsp;Phanogenia gracilis
+<option value="9293">Eukaryota:&nbsp&nbsp;Phascogale tapoatafa
+<option value="38626">Eukaryota:&nbsp&nbsp;Phascolarctos cinereus
+<option value="71759">Eukaryota:&nbsp&nbsp;Phenacobius mirabilis
+<option value="42486">Eukaryota:&nbsp&nbsp;Phenacogrammus interruptus
+<option value="36667">Eukaryota:&nbsp&nbsp;Philaenus spumarius
+<option value="9720">Eukaryota:&nbsp&nbsp;Phoca vitulina
+<option value="9742">Eukaryota:&nbsp&nbsp;Phocoena phocoena
+<option value="283025">Eukaryota:&nbsp&nbsp;Pholis crassispina
+<option value="169291">Eukaryota:&nbsp&nbsp;Phractolaemus ansorgii
+<option value="5791">Eukaryota:&nbsp&nbsp;Physarum polycephalum
+<option value="3218">Eukaryota:&nbsp&nbsp;Physcomitrella patens
+<option value="145481">Eukaryota:&nbsp&nbsp;Physcomitrella patens subsp. patens
+<option value="9755">Eukaryota:&nbsp&nbsp;Physeter catodon
+<option value="181408">Eukaryota:&nbsp&nbsp;Physiculus japonicus
+<option value="4787">Eukaryota:&nbsp&nbsp;Phytophthora infestans
+<option value="4907">Eukaryota:&nbsp&nbsp;Pichia canadensis
+<option value="88728">Eukaryota:&nbsp&nbsp;Pinus koraiensis
+<option value="3350">Eukaryota:&nbsp&nbsp;Pinus thunbergii
+<option value="105295">Eukaryota:&nbsp&nbsp;Pipistrellus abramus
+<option value="7612">Eukaryota:&nbsp&nbsp;Pisaster ochraceus
+<option value="6577">Eukaryota:&nbsp&nbsp;Placopecten magellanicus
+<option value="5833">Eukaryota:&nbsp&nbsp;Plasmodium falciparum
+<option value="36329">Eukaryota:&nbsp&nbsp;Plasmodium falciparum 3D7
+<option value="5849">Eukaryota:&nbsp&nbsp;Plasmodium gallinaceum
+<option value="111598">Eukaryota:&nbsp&nbsp;Plasmodium juxtanucleare
+<option value="5850">Eukaryota:&nbsp&nbsp;Plasmodium knowlesi
+<option value="5854">Eukaryota:&nbsp&nbsp;Plasmodium reichenowi
+<option value="5859">Eukaryota:&nbsp&nbsp;Plasmodium simium
+<option value="5855">Eukaryota:&nbsp&nbsp;Plasmodium vivax
+<option value="48752">Eukaryota:&nbsp&nbsp;Platanista minor
+<option value="143345">Eukaryota:&nbsp&nbsp;Platichthys bicoloratus
+<option value="6359">Eukaryota:&nbsp&nbsp;Platynereis dumerilii
+<option value="55544">Eukaryota:&nbsp&nbsp;Platysternon megacephalum
+<option value="170202">Eukaryota:&nbsp&nbsp;Platytroctes apus
+<option value="61084">Eukaryota:&nbsp&nbsp;Plecoglossus altivelis
+<option value="141976">Eukaryota:&nbsp&nbsp;Plethodon cinereus
+<option value="46761">Eukaryota:&nbsp&nbsp;Plethodon elongatus
+<option value="154587">Eukaryota:&nbsp&nbsp;Plethodon petraeus
+<option value="5322">Eukaryota:&nbsp&nbsp;Pleurotus ostreatus
+<option value="345573">Eukaryota:&nbsp&nbsp;Podiceps cristatus
+<option value="5145">Eukaryota:&nbsp&nbsp;Podospora anserina
+<option value="50589">Eukaryota:&nbsp&nbsp;Podura aquatica
+<option value="103695">Eukaryota:&nbsp&nbsp;Pogona vitticeps
+<option value="36137">Eukaryota:&nbsp&nbsp;Pollicipes polymerus
+<option value="81385">Eukaryota:&nbsp&nbsp;Polymixia japonica
+<option value="143326">Eukaryota:&nbsp&nbsp;Polymixia lowei
+<option value="7913">Eukaryota:&nbsp&nbsp;Polyodon spathula
+<option value="68449">Eukaryota:&nbsp&nbsp;Polypedates megacephalus
+<option value="49895">Eukaryota:&nbsp&nbsp;Polypterus ornatipinnis
+<option value="178879">Eukaryota:&nbsp&nbsp;Polypterus senegalus senegalus
+<option value="13642">Eukaryota:&nbsp&nbsp;Polysphondylium pallidum
+<option value="9600">Eukaryota:&nbsp&nbsp;Pongo pygmaeus
+<option value="9601">Eukaryota:&nbsp&nbsp;Pongo pygmaeus abelii
+<option value="48723">Eukaryota:&nbsp&nbsp;Pontoporia blainvillei
+<option value="43335">Eukaryota:&nbsp&nbsp;Populus alba
+<option value="262771">Eukaryota:&nbsp&nbsp;Porichthys myriaster
+<option value="104760">Eukaryota:&nbsp&nbsp;Porites porites
+<option value="143334">Eukaryota:&nbsp&nbsp;Poromitra oscitans
+<option value="60925">Eukaryota:&nbsp&nbsp;Porphyra pulchra
+<option value="2787">Eukaryota:&nbsp&nbsp;Porphyra purpurea
+<option value="2788">Eukaryota:&nbsp&nbsp;Porphyra yezoensis
+<option value="210409">Eukaryota:&nbsp&nbsp;Portunus trituberculatus
+<option value="9310">Eukaryota:&nbsp&nbsp;Potorous tridactylus
+<option value="78451">Eukaryota:&nbsp&nbsp;Presbytis melalophos
+<option value="9813">Eukaryota:&nbsp&nbsp;Procavia capensis
+<option value="164648">Eukaryota:&nbsp&nbsp;Procolobus badius
+<option value="27779">Eukaryota:&nbsp&nbsp;Protopterus dolloi
+<option value="3111">Eukaryota:&nbsp&nbsp;Prototheca wickerhamii
+<option value="61976">Eukaryota:&nbsp&nbsp;Psephurus gladius
+<option value="160070">Eukaryota:&nbsp&nbsp;Pseudendoclonium akinetum
+<option value="78873">Eukaryota:&nbsp&nbsp;Pseudobagrus tokiensis
+<option value="205354">Eukaryota:&nbsp&nbsp;Pseudocarcinus gigas
+<option value="9333">Eukaryota:&nbsp&nbsp;Pseudocheirus peregrinus
+<option value="245147">Eukaryota:&nbsp&nbsp;Pseudohynobius tsinpaensis
+<option value="204379">Eukaryota:&nbsp&nbsp;Pseudopterogorgia bipinnata
+<option value="134762">Eukaryota:&nbsp&nbsp;Pseudotriton ruber
+<option value="3240">Eukaryota:&nbsp&nbsp;Psilotum nudum
+<option value="181466">Eukaryota:&nbsp&nbsp;Pterocaesio tile
+<option value="8795">Eukaryota:&nbsp&nbsp;Pterocnemia pennata
+<option value="37064">Eukaryota:&nbsp&nbsp;Pterodroma brevirostris
+<option value="285953">Eukaryota:&nbsp&nbsp;Pteronarcys princeps
+<option value="126282">Eukaryota:&nbsp&nbsp;Pteropus dasymallus
+<option value="94117">Eukaryota:&nbsp&nbsp;Pteropus scapulatus
+<option value="121285">Eukaryota:&nbsp&nbsp;Pterothrissus gissu
+<option value="96460">Eukaryota:&nbsp&nbsp;Pupa strigosa
+<option value="54133">Eukaryota:&nbsp&nbsp;Pygathrix nemaeus
+<option value="61622">Eukaryota:&nbsp&nbsp;Pygathrix roxellana
+<option value="2885">Eukaryota:&nbsp&nbsp;Pylaiella littoralis
+<option value="71223">Eukaryota:&nbsp&nbsp;Pyrocoelia rufa
+<option value="51751">Eukaryota:&nbsp&nbsp;Python regius
+<option value="261078">Eukaryota:&nbsp&nbsp;Raja porosa
+<option value="27589">Eukaryota:&nbsp&nbsp;Raja radiata
+<option value="8409">Eukaryota:&nbsp&nbsp;Rana nigromaculata
+<option value="9870">Eukaryota:&nbsp&nbsp;Rangifer tarandus
+<option value="113097">Eukaryota:&nbsp&nbsp;Ranodon sibiricus
+<option value="215407">Eukaryota:&nbsp&nbsp;Ranzania laevis
+<option value="10116">Eukaryota:&nbsp&nbsp;Rattus norvegicus
+<option value="48483">Eukaryota:&nbsp&nbsp;Reclinomonas americana
+<option value="170203">Eukaryota:&nbsp&nbsp;Retropinna retropinna
+<option value="210202">Eukaryota:&nbsp&nbsp;Rhacophorus schlegelii
+<option value="8797">Eukaryota:&nbsp&nbsp;Rhea americana
+<option value="194408">Eukaryota:&nbsp&nbsp;Rhinatrema bivittatum
+<option value="261503">Eukaryota:&nbsp&nbsp;Rhineura floridana
+<option value="9809">Eukaryota:&nbsp&nbsp;Rhinoceros unicornis
+<option value="169756">Eukaryota:&nbsp&nbsp;Rhinolophus monoceros
+<option value="159859">Eukaryota:&nbsp&nbsp;Rhinolophus pumilus
+<option value="34632">Eukaryota:&nbsp&nbsp;Rhipicephalus sanguineus
+<option value="60187">Eukaryota:&nbsp&nbsp;Rhizophydium sp. 136
+<option value="64495">Eukaryota:&nbsp&nbsp;Rhizopus oryzae
+<option value="386104">Eukaryota:&nbsp&nbsp;Rhodactis sp. CASIZ 171755
+<option value="339858">Eukaryota:&nbsp&nbsp;Rhodeus uyekii
+<option value="52970">Eukaryota:&nbsp&nbsp;Rhodomonas salina
+<option value="86220">Eukaryota:&nbsp&nbsp;Rhyacichthys aspro
+<option value="291264">Eukaryota:&nbsp&nbsp;Rhyacotriton variegatus
+<option value="33559">Eukaryota:&nbsp&nbsp;Rhyncholestes raphanurus
+<option value="165100">Eukaryota:&nbsp&nbsp;Ricordea florida
+<option value="189538">Eukaryota:&nbsp&nbsp;Roboastra europaea
+<option value="88713">Eukaryota:&nbsp&nbsp;Rondeletia loricata
+<option value="9407">Eukaryota:&nbsp&nbsp;Rousettus aegyptiacus
+<option value="27288">Eukaryota:&nbsp&nbsp;Saccharomyces castellii
+<option value="4932">Eukaryota:&nbsp&nbsp;Saccharomyces cerevisiae
+<option value="27293">Eukaryota:&nbsp&nbsp;Saccharomyces servazzii
+<option value="193079">Eukaryota:&nbsp&nbsp;Saccharum hybrid cultivar SP-80-3280
+<option value="4547">Eukaryota:&nbsp&nbsp;Saccharum officinarum
+<option value="10224">Eukaryota:&nbsp&nbsp;Saccoglossus kowalevskii
+<option value="136490">Eukaryota:&nbsp&nbsp;Saccopharynx lavenbergi
+<option value="288315">Eukaryota:&nbsp&nbsp;Salamandrella keyserlingii
+<option value="137522">Eukaryota:&nbsp&nbsp;Salangichthys microdon
+<option value="221867">Eukaryota:&nbsp&nbsp;Salanx ariakensis
+<option value="181472">Eukaryota:&nbsp&nbsp;Salarias fasciatus
+<option value="8030">Eukaryota:&nbsp&nbsp;Salmo salar
+<option value="8036">Eukaryota:&nbsp&nbsp;Salvelinus alpinus
+<option value="8038">Eukaryota:&nbsp&nbsp;Salvelinus fontinalis
+<option value="4770">Eukaryota:&nbsp&nbsp;Saprolegnia ferax
+<option value="149978">Eukaryota:&nbsp&nbsp;Sarcocheilichthys variegatus microoculus
+<option value="41697">Eukaryota:&nbsp&nbsp;Sardinops melanostictus
+<option value="181438">Eukaryota:&nbsp&nbsp;Sargocentron rubrum
+<option value="181455">Eukaryota:&nbsp&nbsp;Satyrichthys amiscus
+<option value="143315">Eukaryota:&nbsp&nbsp;Saurida undosquamis
+<option value="178880">Eukaryota:&nbsp&nbsp;Scaphirhynchus cf. albus
+<option value="8519">Eukaryota:&nbsp&nbsp;Sceloporus occidentalis
+<option value="3088">Eukaryota:&nbsp&nbsp;Scenedesmus obliquus
+<option value="6185">Eukaryota:&nbsp&nbsp;Schistosoma haematobium
+<option value="6182">Eukaryota:&nbsp&nbsp;Schistosoma japonicum
+<option value="6183">Eukaryota:&nbsp&nbsp;Schistosoma mansoni
+<option value="38744">Eukaryota:&nbsp&nbsp;Schistosoma mekongi
+<option value="6189">Eukaryota:&nbsp&nbsp;Schistosoma spindale
+<option value="13262">Eukaryota:&nbsp&nbsp;Schizaphis graminum
+<option value="5334">Eukaryota:&nbsp&nbsp;Schizophyllum commune
+<option value="4897">Eukaryota:&nbsp&nbsp;Schizosaccharomyces japonicus
+<option value="4899">Eukaryota:&nbsp&nbsp;Schizosaccharomyces octosporus
+<option value="4896">Eukaryota:&nbsp&nbsp;Schizosaccharomyces pombe
+<option value="284812">Eukaryota:&nbsp&nbsp;Schizosaccharomyces pombe 972h-
+<option value="55149">Eukaryota:&nbsp&nbsp;Sciurus vulgaris
+<option value="113540">Eukaryota:&nbsp&nbsp;Scleropages formosus
+<option value="253126">Eukaryota:&nbsp&nbsp;Sclerophasma paresisense
+<option value="261001">Eukaryota:&nbsp&nbsp;Scolecomorphus vittatus
+<option value="13677">Eukaryota:&nbsp&nbsp;Scomber scombrus
+<option value="13679">Eukaryota:&nbsp&nbsp;Scomberomorus cavalla
+<option value="143333">Eukaryota:&nbsp&nbsp;Scopelogadus mizolepis
+<option value="29022">Eukaryota:&nbsp&nbsp;Scutigera coleoptrata
+<option value="7830">Eukaryota:&nbsp&nbsp;Scyliorhinus canicula
+<option value="57578">Eukaryota:&nbsp&nbsp;Sebastes schlegeli
+<option value="88029">Eukaryota:&nbsp&nbsp;Semnopithecus entellus
+<option value="6610">Eukaryota:&nbsp&nbsp;Sepia officinalis
+<option value="34570">Eukaryota:&nbsp&nbsp;Sepioteuthis lessoniana
+<option value="52224">Eukaryota:&nbsp&nbsp;Shinisaurus crocodilurus
+<option value="214988">Eukaryota:&nbsp&nbsp;Siderastrea radians
+<option value="203167">Eukaryota:&nbsp&nbsp;Siphonodentalium lobatum
+<option value="320579">Eukaryota:&nbsp&nbsp;Siphonops annulatus
+<option value="181399">Eukaryota:&nbsp&nbsp;Sirembo imberbis
+<option value="9301">Eukaryota:&nbsp&nbsp;Sminthopsis crassicaudata
+<option value="90758">Eukaryota:&nbsp&nbsp;Sminthopsis douglasi
+<option value="81930">Eukaryota:&nbsp&nbsp;Smithornis sharpei
+<option value="4889">Eukaryota:&nbsp&nbsp;Smittium culisetae
+<option value="147425">Eukaryota:&nbsp&nbsp;Solanum bulbocastanum
+<option value="4081">Eukaryota:&nbsp&nbsp;Solanum lycopersicum
+<option value="4113">Eukaryota:&nbsp&nbsp;Solanum tuberosum
+<option value="28829">Eukaryota:&nbsp&nbsp;Solea senegalensis
+<option value="62275">Eukaryota:&nbsp&nbsp;Sorex unguiculatus
+<option value="52888">Eukaryota:&nbsp&nbsp;Spadella cephaloptera
+<option value="84346">Eukaryota:&nbsp&nbsp;Speleonectes tulumensis
+<option value="8508">Eukaryota:&nbsp&nbsp;Sphenodon punctatus
+<option value="3562">Eukaryota:&nbsp&nbsp;Spinacia oleracea
+<option value="307441">Eukaryota:&nbsp&nbsp;Spizaetus alboniger
+<option value="214438">Eukaryota:&nbsp&nbsp;Spizaetus nipalensis
+<option value="109760">Eukaryota:&nbsp&nbsp;Spizellomyces punctatus
+<option value="332423">Eukaryota:&nbsp&nbsp;Squalogadus modificatus
+<option value="7797">Eukaryota:&nbsp&nbsp;Squalus acanthias
+<option value="84350">Eukaryota:&nbsp&nbsp;Squilla empusa
+<option value="280675">Eukaryota:&nbsp&nbsp;Squilla mantis
+<option value="102822">Eukaryota:&nbsp&nbsp;Staurastrum punctulatum
+<option value="34508">Eukaryota:&nbsp&nbsp;Steinernema carpocapsae
+<option value="143348">Eukaryota:&nbsp&nbsp;Stephanolepis cirrhifer
+<option value="291263">Eukaryota:&nbsp&nbsp;Stereochilus marginatus
+<option value="382540">Eukaryota:&nbsp&nbsp;Strelkovimermis spiculatus
+<option value="57251">Eukaryota:&nbsp&nbsp;Strigops habroptilus
+<option value="7668">Eukaryota:&nbsp&nbsp;Strongylocentrotus purpuratus
+<option value="6248">Eukaryota:&nbsp&nbsp;Strongyloides stercoralis
+<option value="8801">Eukaryota:&nbsp&nbsp;Struthio camelus
+<option value="181478">Eukaryota:&nbsp&nbsp;Sufflamen fraenatus
+<option value="221869">Eukaryota:&nbsp&nbsp;Sundasalanx mekongensis
+<option value="9823">Eukaryota:&nbsp&nbsp;Sus scrofa
+<option value="118154">Eukaryota:&nbsp&nbsp;Synaphobranchus kaupii
+<option value="261076">Eukaryota:&nbsp&nbsp;Synodus variegatus
+<option value="28708">Eukaryota:&nbsp&nbsp;Synthliboramphus antiquus
+<option value="9261">Eukaryota:&nbsp&nbsp;Tachyglossus aculeatus
+<option value="60517">Eukaryota:&nbsp&nbsp;Taenia asiatica
+<option value="6207">Eukaryota:&nbsp&nbsp;Taenia crassiceps
+<option value="6204">Eukaryota:&nbsp&nbsp;Taenia solium
+<option value="59729">Eukaryota:&nbsp&nbsp;Taeniopygia guttata
+<option value="31033">Eukaryota:&nbsp&nbsp;Takifugu rubripes
+<option value="9375">Eukaryota:&nbsp&nbsp;Talpa europaea
+<option value="48850">Eukaryota:&nbsp&nbsp;Tamandua tetradactyla
+<option value="267124">Eukaryota:&nbsp&nbsp;Tamolanica tamolana
+<option value="38632">Eukaryota:&nbsp&nbsp;Tarsipes rostratus
+<option value="9477">Eukaryota:&nbsp&nbsp;Tarsius bancanus
+<option value="293957">Eukaryota:&nbsp&nbsp;Teratoscincus keyserlingii
+<option value="34513">Eukaryota:&nbsp&nbsp;Terebratalia transversa
+<option value="7580">Eukaryota:&nbsp&nbsp;Terebratulina retusa
+<option value="86975">Eukaryota:&nbsp&nbsp;Testudo graeca
+<option value="101699">Eukaryota:&nbsp&nbsp;Testudo horsfieldii
+<option value="101700">Eukaryota:&nbsp&nbsp;Testudo kleinmanni
+<option value="101701">Eukaryota:&nbsp&nbsp;Testudo marginata
+<option value="233783">Eukaryota:&nbsp&nbsp;Tethya actinia
+<option value="240496">Eukaryota:&nbsp&nbsp;Tetraclita japonica
+<option value="5908">Eukaryota:&nbsp&nbsp;Tetrahymena pyriformis
+<option value="5911">Eukaryota:&nbsp&nbsp;Tetrahymena thermophila
+<option value="267835">Eukaryota:&nbsp&nbsp;Tetraleurodes acaciae
+<option value="99883">Eukaryota:&nbsp&nbsp;Tetraodon nigroviridis
+<option value="48717">Eukaryota:&nbsp&nbsp;Tetrodontophora bielanensis
+<option value="35128">Eukaryota:&nbsp&nbsp;Thalassiosira pseudonana
+<option value="107832">Eukaryota:&nbsp&nbsp;Thanatephorus cucumeris
+<option value="382538">Eukaryota:&nbsp&nbsp;Thaumamermis cosgrovei
+<option value="333668">Eukaryota:&nbsp&nbsp;Theileria parva strain Muguga
+<option value="48550">Eukaryota:&nbsp&nbsp;Theragra chalcogramma
+<option value="89055">Eukaryota:&nbsp&nbsp;Thermobia domestica
+<option value="291261">Eukaryota:&nbsp&nbsp;Thorius n. sp. RLM-2004
+<option value="159957">Eukaryota:&nbsp&nbsp;Thrips imaginis
+<option value="10169">Eukaryota:&nbsp&nbsp;Thryonomys swinderianus
+<option value="8235">Eukaryota:&nbsp&nbsp;Thunnus alalunga
+<option value="8242">Eukaryota:&nbsp&nbsp;Thunnus thynnus thynnus
+<option value="191871">Eukaryota:&nbsp&nbsp;Thylamys elegans
+<option value="174155">Eukaryota:&nbsp&nbsp;Thyropygus sp. DVL-2001
+<option value="158387">Eukaryota:&nbsp&nbsp;Tigriopus japonicus
+<option value="30468">Eukaryota:&nbsp&nbsp;Tinamus major
+<option value="6637">Eukaryota:&nbsp&nbsp;Todarodes pacificus
+<option value="5811">Eukaryota:&nbsp&nbsp;Toxoplasma gondii
+<option value="143894">Eukaryota:&nbsp&nbsp;Trachipterus trachypterus
+<option value="83875">Eukaryota:&nbsp&nbsp;Trachurus japonicus
+<option value="36212">Eukaryota:&nbsp&nbsp;Trachurus trachurus
+<option value="54181">Eukaryota:&nbsp&nbsp;Trachypithecus obscurus
+<option value="241836">Eukaryota:&nbsp&nbsp;Trachyrincus murrayi
+<option value="88556">Eukaryota:&nbsp&nbsp;Trialeurodes vaporariorum
+<option value="72491">Eukaryota:&nbsp&nbsp;Triatoma dimidiata
+<option value="7070">Eukaryota:&nbsp&nbsp;Tribolium castaneum
+<option value="6334">Eukaryota:&nbsp&nbsp;Trichinella spiralis
+<option value="89825">Eukaryota:&nbsp&nbsp;Tricholepidion gertschi
+<option value="10228">Eukaryota:&nbsp&nbsp;Trichoplax adhaerens
+<option value="9337">Eukaryota:&nbsp&nbsp;Trichosurus vulpecula
+<option value="194544">Eukaryota:&nbsp&nbsp;Triops cancriformis
+<option value="58777">Eukaryota:&nbsp&nbsp;Triops longicaudatus
+<option value="4565">Eukaryota:&nbsp&nbsp;Triticum aestivum
+<option value="185431">Eukaryota:&nbsp&nbsp;Trypanosoma brucei TREU927
+<option value="37347">Eukaryota:&nbsp&nbsp;Tupaia belangeri
+<option value="8456">Eukaryota:&nbsp&nbsp;Typhlonectes natans
+<option value="262585">Eukaryota:&nbsp&nbsp;Uraeotyphlus cf. oxyurus MW-212
+<option value="6431">Eukaryota:&nbsp&nbsp;Urechis caupo
+<option value="106106">Eukaryota:&nbsp&nbsp;Urotrichus talpoides
+<option value="9643">Eukaryota:&nbsp&nbsp;Ursus americanus
+<option value="9644">Eukaryota:&nbsp&nbsp;Ursus arctos
+<option value="29073">Eukaryota:&nbsp&nbsp;Ursus maritimus
+<option value="32432">Eukaryota:&nbsp&nbsp;Vanhornia eucnemidarum
+<option value="6674">Eukaryota:&nbsp&nbsp;Vargula hilgendorfii
+<option value="109461">Eukaryota:&nbsp&nbsp;Varroa destructor
+<option value="129788">Eukaryota:&nbsp&nbsp;Venerupis (Ruditapes) philippinarum
+<option value="332670">Eukaryota:&nbsp&nbsp;Ventrifossa garmani
+<option value="82366">Eukaryota:&nbsp&nbsp;Verasper variegatus
+<option value="27337">Eukaryota:&nbsp&nbsp;Verticillium dahliae
+<option value="81927">Eukaryota:&nbsp&nbsp;Vidua chalybeata
+<option value="29760">Eukaryota:&nbsp&nbsp;Vitis vinifera
+<option value="29139">Eukaryota:&nbsp&nbsp;Vombatus ursinus
+<option value="6625">Eukaryota:&nbsp&nbsp;Watasenia scintillans
+<option value="330728">Eukaryota:&nbsp&nbsp;Xenagama taylori
+<option value="196253">Eukaryota:&nbsp&nbsp;Xenopeltis unicolor
+<option value="8355">Eukaryota:&nbsp&nbsp;Xenopus laevis
+<option value="8364">Eukaryota:&nbsp&nbsp;Xenopus tropicalis
+<option value="208518">Eukaryota:&nbsp&nbsp;Xiphinema americanum
+<option value="4952">Eukaryota:&nbsp&nbsp;Yarrowia lipolytica
+<option value="284591">Eukaryota:&nbsp&nbsp;Yarrowia lipolytica CLIB122
+<option value="33543">Eukaryota:&nbsp&nbsp;Zaglossus bruijni
+<option value="15945">Eukaryota:&nbsp&nbsp;Zea luxurians
+<option value="4577">Eukaryota:&nbsp&nbsp;Zea mays
+<option value="381124">Eukaryota:&nbsp&nbsp;Zea mays subsp. mays
+<option value="76912">Eukaryota:&nbsp&nbsp;Zea mays subsp. parviglumis
+<option value="4580">Eukaryota:&nbsp&nbsp;Zea perennis
+<option value="181443">Eukaryota:&nbsp&nbsp;Zenion japonicum
+<option value="94939">Eukaryota:&nbsp&nbsp;Zenopsis nebulosus
+<option value="64108">Eukaryota:&nbsp&nbsp;Zeus faber
+<option value="143325">Eukaryota:&nbsp&nbsp;Zu cristatus
+<option value="35869">Eukaryota:&nbsp&nbsp;Zygnema circumcarinatum
+<option value="4954">Eukaryota:&nbsp&nbsp;Zygosaccharomyces bailii
+<option value="4955">Eukaryota:&nbsp&nbsp;Zygosaccharomyces fermentati
+<option value="4956">Eukaryota:&nbsp&nbsp;Zygosaccharomyces rouxii
+<option value="159971">Eukaryota:&nbsp&nbsp;lepidopsocid RS-2001
+</select>
+</td>
+</tr>
+</table>
+</form>
+
+</td>
+</tr>
+<tr>
+<td>
+&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+
+<form method="POST" enctype="multipart/form-data" action="http://compbio.mcs.anl.gov/puma2/cgi-bin/search_seq.cgi">
+<input type="hidden" name="user" value="">
+<input type="hidden" name="key" value="">
+<input type="hidden" name="cgi_script" value="search_seq.cgi">
+<input type="hidden" name="header" value="pathos">
+<table bgcolor="#FFFFCC" width="100%" border="0">
+<tr>
+<td colspan=2>
+</td>
+</tr>
+<tr>
+<td>
+&nbsp;&nbsp;
+<b>Sequence search:</b>
+</td>
+<td align="left">
+Enter a single protein sequence below in fasta format.
+</td>
+</tr>
+<tr>
+<td colspan=2>
+</td>
+</tr>
+<tr>
+<td>
+&nbsp;
+</td>
+<td align="left">
+<font color="#FF0000">
+Please restrict your use of this BLAST service, and avoid multiple/repeated searches, thanks.
+</font>
+</td>
+</tr>
+<tr>
+<td align="center" colspan=2>
+<textarea name="fasta" rows="10" cols="80"></textarea></td>
+</tr>
+<tr>
+<td colspan=2>
+</td>
+</tr>
+<tr>
+<td align="center" colspan=2>
+&nbsp;&nbsp;
+<input type="submit" value="BLAST sequence">
+</td>
+</tr>
+<tr>
+<td colspan=2>
+</td>
+</tr>
+</table>
+</form>
+
+</td>
+</tr>
+</table>
+
+</center>
+<p>
+<table border="0" cellspacing="0" width="100%">
+<tr>
+<td class="footer" align="center">
+<a href="http://compbio.mcs.anl.gov/puma2/cgi-bin/index.cgi">Front page</a>
+ | <a href="http://compbio.mcs.anl.gov/puma2/cgi-bin/search.cgi">Protein Query</a>
+ | <a href="http://compbio.mcs.anl.gov/puma2/cgi-bin/index.cgi?info=contact">Acknowledgements</a>
+ | <a href="http://compbio.mcs.anl.gov/puma2/cgi-bin/site_map.cgi">Site Map</a>
+<br>
+<a href="http://www.anl.gov/disclaimer.html">Disclaimer</a>
+ | <a href="http://www.anl.gov/notice.html">Security Notice</a>
+<p>
+Questions & Concerns: <a href="mailto:puma2@mcs.anl.gov">puma2@mcs.anl.gov</a>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+

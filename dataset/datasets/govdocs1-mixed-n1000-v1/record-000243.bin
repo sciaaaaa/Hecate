@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!--<?xml version="1.0"?>-->
+<!--<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "C:\Program Files\Corel\rules\bill.dtd" []>-->
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill v2.8 20020720//EN" "http://thomas.loc.gov/dtd/bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H927090B1A7444BB98E84D1ACF3650206" public-private="public">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>110 HR 2122 IH: Safe Nursing and Patient Care Act of
+</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2007-05-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+	<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>110th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2122</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20070503">May 3, 2007</action-date>
+			<action-desc><sponsor name-id="S000810">Mr. Stark</sponsor> (for
+			 himself, <cosponsor name-id="L000553">Mr. LaTourette</cosponsor>, and
+			 <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>) introduced the
+			 following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in
+			 addition to the Committee on <committee-name committee-id="HWM00">Ways and
+			 Means</committee-name>, for a period to be subsequently determined by the
+			 Speaker, in each case for consideration of such provisions as fall within the
+			 jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title XVIII of the Social Security Act to
+		  provide for patient protection by limiting the number of mandatory overtime
+		  hours a nurse may be required to work in certain providers of services to which
+		  payments are made under the Medicare Program.</official-title>
+	</form>
+	<legis-body id="H1F662E6E27B34FC5BADF28EC95A8A256" style="OLC">
+		<section display-inline="no-display-inline" id="HB4204149CC7D453C903846E142806059" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+			 <quote><short-title>Safe Nursing and Patient Care Act of
+			 2007</short-title></quote>.</text>
+		</section><section id="H8E938BBECE3340FBACB0CFFC7E25F0A8"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">The Congress finds as follows:</text>
+			<paragraph id="H5CDC589FAC7241A29F34A6E78836C091"><enum>(1)</enum><text>The Federal
+			 Government has a substantial interest in assuring that the delivery of health
+			 care services to patients in health care facilities is adequate and
+			 safe.</text>
+			</paragraph><paragraph id="H0F35FD9476E84C1A87306880B6C417BF"><enum>(2)</enum><text display-inline="yes-display-inline">Research, including a study published in
+			 the Journal of the American Medical Association (in the October 23–30, 2002
+			 issue), documents that higher nurse staffing levels result in better patient
+			 outcomes. However, health care facilities report substantial difficulties in
+			 recruiting and retaining sufficient nursing staff, as evidenced by the fact
+			 that approximately 500,000 licensed nurses are not practicing nursing.</text>
+			</paragraph><paragraph id="H929430CE0B7440D7BE75C1D147201F"><enum>(3)</enum><text display-inline="yes-display-inline">Job dissatisfaction and overtime work are
+			 contributing to the departure of nurses from their profession, as documented by
+			 the Government Accountability Office in a July 2001 report. Yet, health care
+			 providers continue to make use of mandatory overtime as a staffing
+			 model.</text>
+			</paragraph><paragraph id="HC98D077806234FBAAD7C99347CAD7EB0"><enum>(4)</enum><text display-inline="yes-display-inline">The widespread practice of requiring nurses
+			 to work extended shifts and forgo days off frequently causes nurses to provide
+			 care in a state of fatigue which contributes to medical errors and results in
+			 other consequences that compromise patient safety.</text>
+			</paragraph><paragraph id="HDFA2F4700C40435B910185CFBB9127A7"><enum>(5)</enum><text>The dangers with
+			 mandatory overtime are made clear by numerous studies. A November 2003
+			 Institute of Medicine report, Keeping Patients Safe: Transforming the Work
+			 Environment of Nurses, concluded that limiting the number of hours worked per
+			 day and consecutive days of work by nursing staff, as is done in other
+			 safety-sensitive industries, is a fundamental safety precaution. The report
+			 went on to specifically recommend that working more than 12 hours in any
+			 24-hour period and more than 60 hours in any 7-day period be prevented except
+			 in case of an emergency, such as a natural disaster.</text>
+			</paragraph><paragraph id="HA99335F6DAE547D9A4BA8714900076B"><enum>(6)</enum><text display-inline="yes-display-inline">Another study published in the July/August
+			 2004 Health Affairs Journal, The Working Hours of Hospital Staff Nurses and
+			 Patient Safety, found that nurses who worked shifts of twelve and a half hours
+			 or more were three times more likely to commit an error than nurses who worked
+			 standard shifts of eight and a half hours or less. The study also found that
+			 working overtime increased the odds of making at least one error, regardless of
+			 how long the shift was originally scheduled.</text>
+			</paragraph><paragraph id="H213C89DB4F0140ECA39016A6287130A5"><enum>(7)</enum><text>That same study
+			 also illustrates how nurses are being forced to work more and more overtime.
+			 The majority of nurses surveyed reported working overtime ten or more times in
+			 a twenty-eight day period and one-sixth reported working sixteen or more
+			 consecutive hours at least once during the period. Nurses reported being
+			 mandated to work overtime on 360 shifts and on another 143 shifts they
+			 described being <quote>coerced</quote> into working voluntary overtime.</text>
+			</paragraph><paragraph id="H758646B5506441C0B95B57A602DC172D"><enum>(8)</enum><text>While no Federal
+			 standards currently restrict mandatory nurse overtime, many States are
+			 considering such laws and several States, including California, Connecticut,
+			 Maine, Maryland, Minnesota, New Jersey, Oregon, Washington, and West Virginia,
+			 have enacted laws or prescribed regulations.</text>
+			</paragraph><paragraph id="H202172B9DCF947D0889897E0F63F8E52"><enum>(9)</enum><text>Federal
+			 limitations on mandatory nurse overtime will ensure that health care facilities
+			 throughout the country operate in a manner that safeguards public safety by
+			 helping assure the delivery of quality nursing care and facilitating the
+			 retention and recruitment of nurses.</text>
+			</paragraph></section><section id="HEFE1573B44A842BF9F9F4162BCEF1EB8"><enum>3.</enum><header>Limitations on
+			 mandatory overtime for nurses</header>
+			<subsection id="H42A1F004B6EF4C89820057D45E67CC9F"><enum>(a)</enum><header>Provider
+			 agreements</header><text>Section 1866 of the <act-name parsable-cite="SSA">Social Security Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395cc">42 U.S.C. 1395cc</external-xref>) is
+			 amended—</text>
+				<paragraph id="H3902BEE962C443CA85EDC1F1C5A85915"><enum>(1)</enum><text>in subsection
+			 (a)(1)—</text>
+					<subparagraph id="H9FDF27D5F4274A92A95CAB35E87C7363"><enum>(A)</enum><text>in subparagraph
+			 (U), by striking <quote>and</quote> at the end;</text>
+					</subparagraph><subparagraph id="H6ABE87521A1F4078B7C42D054FC6D17C"><enum>(B)</enum><text>in subparagraph
+			 (V), by striking the period and inserting <quote>, and</quote>; and</text>
+					</subparagraph><subparagraph id="H47E77B6376A84E0A8E7404D72049B900"><enum>(C)</enum><text>by inserting after
+			 subparagraph (V), the following:</text>
+						<quoted-block id="H2CD76539342C4E0E89F701A8951D54C0">
+							<subparagraph id="H316C69BE831A4123B2117BF9A9E82D8"><enum>(W)</enum><text>to comply with the
+				requirements of subsection (k) (relating to limitations on mandatory overtime
+				for nurses).</text>
+							</subparagraph><after-quoted-block>;
+				and</after-quoted-block></quoted-block>
+					</subparagraph></paragraph><paragraph id="H71293531E17149AFB56D8FA2DE006D00"><enum>(2)</enum><text>by adding at the
+			 end the following new subsection:</text>
+					<quoted-block id="H4025EEA58A454969A9A86C9E6BA74F24">
+						<subsection id="HE0FA588A3CE242CD8CD314687D9B24C"><enum>(k)</enum><header>Limitations on
+				mandatory overtime for nurses</header><text>For purposes of subsection
+				(a)(1)(W), the requirements of this subsection are the following:</text>
+							<paragraph id="H08722D46C4BE4566B9907C2567DFE495"><enum>(1)</enum><header>Prohibition on
+				mandatory overtime</header><text>Except as provided in this subsection, a
+				provider of services shall not, directly or indirectly, require a nurse to work
+				in excess of any of the following:</text>
+								<subparagraph id="HBCA0DF00455D4058A0DBDF0203F88694"><enum>(A)</enum><text>The scheduled work
+				shift or duty period of the nurse.</text>
+								</subparagraph><subparagraph id="H93D21FDC0F91450BB65DFF77EFA2A476"><enum>(B)</enum><text>12 hours in a
+				24-hour period.</text>
+								</subparagraph><subparagraph id="H035EADD1D4A34C4DB523AB26857F4BD8"><enum>(C)</enum><text>80 hours in a
+				consecutive 14-day period.</text>
+								</subparagraph></paragraph><paragraph id="H1F030622FF12439B84115E33C2B800BF"><enum>(2)</enum><header>Exceptions</header>
+								<subparagraph id="H4DF3D73F1D59414B9E34B49F5C3EF7BB"><enum>(A)</enum><header>In
+				general</header><text>Subject to subparagraph (B), the requirements of
+				paragraph (1) shall not apply to a provider of services during a declared state
+				of emergency if the provider is requested, or otherwise is expected, to provide
+				an exceptional level of emergency or other medical services to the
+				community.</text>
+								</subparagraph><subparagraph id="H3A20B2FE610045F3A9F87933DDDC86AF"><enum>(B)</enum><header>Limitations</header><text>With
+				respect to a provider of services to which subparagraph (A) applies, a nurse
+				may only be required to work for periods in excess of the periods described in
+				paragraph (1) if—</text>
+									<clause id="H353C429D31484EC498EA3990C7F38EE6"><enum>(i)</enum><text>the provider has
+				made reasonable efforts to fill the immediate staffing needs of the provider
+				through alternative means; and</text>
+									</clause><clause id="H1F74357D99D74CEABBE8EC8910D47C6E"><enum>(ii)</enum><text>the duration of
+				the work requirement does not extend past the earlier of—</text>
+										<subclause id="H81F6E2AADD0F4C4DA3FC262100C99F7F"><enum>(I)</enum><text>the date on which
+				the declared state of emergency ends; or</text>
+										</subclause><subclause id="H8427BC40D0934CA6AF46BE534056EC4"><enum>(II)</enum><text>the date on which
+				the provider’s direct role in responding to the medical needs resulting from
+				the declared state of emergency ends.</text>
+										</subclause></clause></subparagraph></paragraph><paragraph id="HBC10F2F7601645F5A41462F7A7267DC"><enum>(3)</enum><header>Report of
+				violations</header>
+								<subparagraph id="H9C554D3592E6497689F71C55EF42A400"><enum>(A)</enum><header>Right to
+				report</header>
+									<clause id="H044B476C8CBE4B6D8EFB20BEE2DAFD2"><enum>(i)</enum><header>In
+				general</header><text>A nurse may file a complaint with the Secretary against a
+				provider of services who violates the provisions of this subsection.</text>
+									</clause><clause id="HE77B8E97AD60479A9829AEE3C186415D"><enum>(ii)</enum><header>Procedure</header><text>The
+				Secretary shall establish a procedure under which a nurse may file a complaint
+				under clause (i).</text>
+									</clause></subparagraph><subparagraph id="HE00B7AD31AA940F8AB5C003366E7041F"><enum>(B)</enum><header>Investigation of
+				complaint</header><text>The Secretary shall investigate complaints of
+				violations filed by a nurse under subparagraph (A).</text>
+								</subparagraph><subparagraph id="HAA9500C2ACE5406EB3827F798E4F603D"><enum>(C)</enum><header>Actions</header><text>If
+				the Secretary determines that a provider of services has violated the
+				provisions of this subsection, the Secretary shall require the provider to
+				establish a plan of action to eliminate the occurrence of such violation, and
+				may seek civil money penalties under paragraph (7).</text>
+								</subparagraph></paragraph><paragraph id="H58EED6E83FF444C3AC0081A7C7BB02CF"><enum>(4)</enum><header>Nurse
+				nondiscrimination protections</header>
+								<subparagraph id="HF239BE175AC54E7287C11E4B441DC0F8"><enum>(A)</enum><header>In
+				general</header><text>A provider of services shall not penalize, discriminate,
+				or retaliate in any manner with respect to any aspect of employment, including
+				discharge, promotion, compensation, or terms, conditions, or privileges of
+				employment, against a nurse who refuses to work mandatory overtime or who in
+				good faith, individually or in conjunction with another person or
+				persons—</text>
+									<clause id="H51CC99DE30E94BE1BDDAB05BAA395061"><enum>(i)</enum><text>reports a
+				violation or suspected violation of this subsection to a public regulatory
+				agency, a private accreditation body, or the management personnel of the
+				provider of services;</text>
+									</clause><clause id="HD66CFA080EC34D86A54CF31BE6453260"><enum>(ii)</enum><text>initiates,
+				cooperates, or otherwise participates in an investigation or proceeding brought
+				by a regulatory agency or private accreditation body concerning matters covered
+				by this subsection; or</text>
+									</clause><clause id="H78944A6E047944E796163EAFCAADB202"><enum>(iii)</enum><text>informs or
+				discusses with other employees, with representatives of those employees, or
+				with representatives of associations of health care professionals, violations
+				or suspected violations of this subsection.</text>
+									</clause></subparagraph><subparagraph id="H1F78E5ED7EBD4BD3AC001D13D8A09B9C"><enum>(B)</enum><header>Retaliatory
+				reporting</header><text>A provider of services may not file a complaint or a
+				report against a nurse with the appropriate State professional disciplinary
+				agency because the nurse refused to comply with a request to work mandatory
+				overtime.</text>
+								</subparagraph><subparagraph id="HC39E04A69EDA426DA4C8FDF5C3441C55"><enum>(C)</enum><header>Good
+				faith</header><text>For purposes of this paragraph, a nurse is deemed to be
+				acting in good faith if the nurse reasonably believes—</text>
+									<clause id="H00F7D83F2E514DA98001BA49AE8DCB84"><enum>(i)</enum><text>that the
+				information reported or disclosed is true; and</text>
+									</clause><clause id="HF35C630086CF4E68B7D52E84DB4138F5"><enum>(ii)</enum><text>that a violation
+				has occurred or may occur.</text>
+									</clause></subparagraph></paragraph><paragraph id="H9DF1E8CD23BE4B179630CC2372CB4ED6"><enum>(5)</enum><header>Notice</header>
+								<subparagraph id="HAB18BAAC0EF64FD3AAF2E153F004F03"><enum>(A)</enum><header>Requirement to
+				post notice</header><text>Each provider of services shall post conspicuously in
+				an appropriate location a sign (in a form specified by the Secretary)
+				specifying rights of nurses under this section.</text>
+								</subparagraph><subparagraph id="H5A9D6D2BE1A44E4580A43601F59F2FD9"><enum>(B)</enum><header>Right to file
+				complaint</header><text>Such sign shall include a statement that a nurse may
+				file a complaint with the Secretary against a provider of services who violates
+				the provisions of this subsection and information with respect to the manner of
+				filing such a complaint.</text>
+								</subparagraph></paragraph><paragraph id="H7FD8E1651E244D038DF75EAAB46989BE"><enum>(6)</enum><header>Posting of nurse
+				schedules</header><text>A provider of services shall regularly post in a
+				conspicuous manner the nurse schedules (for such periods of time that the
+				Secretary determines appropriate by type or class of provider of services) for
+				the department or unit involved, and shall make available upon request to
+				nurses assigned to the department or unit the daily nurse schedule for such
+				department or unit.</text>
+							</paragraph><paragraph id="H6872813297C742BD8C8F864EEBC56265"><enum>(7)</enum><header>Civil money
+				penalty</header>
+								<subparagraph id="HB4563D7176AA4E69AD32BEAB6ED0AF1"><enum>(A)</enum><header>In
+				general</header><text>The Secretary may impose a civil money penalty of not
+				more than $10,000 for each knowing violation of the provisions of this
+				subsection committed by a provider of services.</text>
+								</subparagraph><subparagraph id="H62ABCD03E30F4F708EDD7254102C7461"><enum>(B)</enum><header>Patterns of
+				violations</header><text>Notwithstanding subparagraph (A), the Secretary shall
+				provide for the imposition of more severe civil money penalties under this
+				paragraph for providers of services that establish patterns of repeated
+				violations of such provisions.</text>
+								</subparagraph><subparagraph id="H86D68710FD0B41BCA58815E13BE8CE41"><enum>(C)</enum><header>Administration
+				of penalties</header><text>The provisions of section 1128A (other than
+				subsections (a) and (b)) shall apply to a civil money penalty under this
+				paragraph in the same manner as such provisions apply to a penalty or
+				proceeding under section 1128A(a).</text>
+								</subparagraph><continuation-text continuation-text-level="paragraph">The
+				Secretary shall publish on the Internet site of the Department of Health and
+				Human Services the names of providers of services against which civil money
+				penalties have been imposed under this paragraph, the violation for which the
+				penalty was imposed, and such additional information as the Secretary
+				determines appropriate. With respect to a provider of services that has had a
+				change in ownership, as determined by the Secretary, penalties imposed on the
+				provider of services while under previous ownership shall no longer be
+				published by the Secretary on such Internet site after the 1-year period
+				beginning on the date of change in ownership.</continuation-text></paragraph><paragraph id="HD8B0D148980A4F308022FF0492AE5C50"><enum>(8)</enum><header>Rule of
+				construction</header><text>Nothing in this subsection shall be construed as
+				precluding a nurse from voluntarily working more than any of the periods of
+				time described in paragraph (1), so long as such work is done consistent with
+				professional standards of safe patient care.</text>
+							</paragraph><paragraph id="H11B424AFE24A4FA1A2AA16B017BCCCAE"><enum>(9)</enum><header>Definitions</header><text>In
+				this subsection:</text>
+								<subparagraph id="H8C144409AC084FA58E9D99E023582C46"><enum>(A)</enum><header>Mandatory
+				overtime</header><text>The term <term>mandatory overtime</term> means hours
+				worked in excess of the periods of time described in paragraph (1), except as
+				provided in paragraph (2), pursuant to any request made by a provider of
+				services to a nurse which, if refused or declined by the nurse involved, may
+				result in an adverse employment consequence to the nurse, including discharge,
+				discipline, loss of promotion, or retaliatory reporting of the nurse to the
+				State professional disciplinary agency involved.</text>
+								</subparagraph><subparagraph id="HAE1822E4D56344168CFFE9007D346DC0"><enum>(B)</enum><header>Overtime</header><text>The
+				term <term>overtime</term> means time worked in excess of the periods of time
+				described in paragraph (1).</text>
+								</subparagraph><subparagraph id="HF9CA9F4783404FCC996D7E85FE2305DF"><enum>(C)</enum><header>Nurse</header><text>The
+				term <term>nurse</term> means a registered nurse or a licensed practical
+				nurse.</text>
+								</subparagraph><subparagraph id="H3B47D0E1DBE54126B07EEBF6B7C6BEC"><enum>(D)</enum><header>Provider of
+				services</header><text>The term <term>provider of services</term> means—</text>
+									<clause id="H4896AAA9988F41BAA4DF3898133967C2"><enum>(i)</enum><text>a
+				hospital (as defined in section 1861(e));</text>
+									</clause><clause id="H2E5150D967F24E4F95AAE8F2322EB255"><enum>(ii)</enum><text>a
+				psychiatric hospital (as defined in section 1861(f));</text>
+									</clause><clause id="H1B6158A2A35946F3BE8F47DDCBCDDDC0"><enum>(iii)</enum><text>a hospital
+				outpatient department;</text>
+									</clause><clause id="H797F44B57E764955004F37F5BB195470"><enum>(iv)</enum><text>a
+				critical access hospital;</text>
+									</clause><clause id="H903106B338994C07838659DA4F9F6B1D"><enum>(v)</enum><text>an
+				ambulatory surgical center;</text>
+									</clause><clause id="H17136F71AB2644C69955938D79397923"><enum>(vi)</enum><text>a
+				home health agency;</text>
+									</clause><clause id="HC08D5BEA08204260A80044F41FAD4BF9"><enum>(vii)</enum><text>a rehabilitation
+				agency;</text>
+									</clause><clause id="HCE63E727AA414C2394E6CFC5B77B618B"><enum>(viii)</enum><text>a clinic,
+				including a rural health clinic; or</text>
+									</clause><clause id="H3D61B21F84DC463CA83F4D68EACE8E01"><enum>(ix)</enum><text>a
+				federally qualified health center.</text>
+									</clause></subparagraph><subparagraph id="H8F1CA478BD9644B28F00A675DD8D35A3"><enum>(E)</enum><header>Declared State
+				of emergency</header><text>The term <term>declared state of emergency</term>
+				means an officially designated state of emergency that has been declared by the
+				Federal Government or the head of the appropriate State or local governmental
+				agency having authority to declare that the State, county, municipality, or
+				locality is in a state of emergency, but does not include a state of emergency
+				that results from a labor dispute in the health care industry or consistent
+				understaffing.</text>
+								</subparagraph><subparagraph id="H52FCBBAB39774991BACCED184FD3EFF"><enum>(F)</enum><header>Standards of safe
+				patient care</header><text>The term <term>standards of safe patient care</term>
+				means the recognized professional standards governing the profession of the
+				nurse
+				involved.</text>
+								</subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block>
+				</paragraph></subsection><subsection id="H455C393BBEE146D4BCD3711F307C679"><enum>(b)</enum><header>Effective
+			 date</header><text>The amendments made by this section shall take effect 1 year
+			 after the date of enactment of this Act.</text>
+			</subsection></section><section id="H7421EEF428424018AA9B97D00B4E00"><enum>4.</enum><header>Reports</header>
+			<subsection id="HAEBC54770273472DB74E2208A1206D90"><enum>(a)</enum><header>Standards on
+			 safe working hours for nurses</header>
+				<paragraph id="HB1839EC40089461B93D74D95896666EE"><enum>(1)</enum><header>Study</header><text>The
+			 Secretary of Health and Human Services, acting through the Director of the
+			 Agency for Healthcare Research and Quality, shall conduct a study to establish
+			 appropriate standards for the maximum number of hours that a nurse, who
+			 furnishes health care to patients, may work without compromising the safety of
+			 such patients. Such standards may vary by provider of service and by department
+			 within a provider of services, by duties or functions carried out by nurses, by
+			 shift, and by other factors that the Director determines appropriate. The
+			 Director may contract with an eligible entity or organization to carry out the
+			 study under this paragraph.</text>
+				</paragraph><paragraph id="HF65330CF7D1E405AA7A2A5535978D0A7"><enum>(2)</enum><header>Report</header><text>Not
+			 later than 2 years after the date of the enactment of this Act, the Secretary
+			 shall submit to Congress a report on the study conducted under paragraph (1)
+			 and shall include recommendations for such appropriate standards of maximum
+			 work hours.</text>
+				</paragraph></subsection><subsection id="H2B85BBCA83D943AEADE4A6A1E9C8C031"><enum>(b)</enum><header>Report on
+			 mandatory overtime in Federally operated medical facilities</header>
+				<paragraph id="HEB0934CE8A3D475EA50023B9C75D284"><enum>(1)</enum><header>Study</header>
+					<subparagraph id="H7F3884184F9A47309E00CC0913E985F"><enum>(A)</enum><header>In
+			 general</header><text>The Director of the Office of Management and Budget shall
+			 conduct a study to determine the extent to which federally operated medical
+			 facilities have in effect practices and policies with respect to overtime
+			 requirements for nurses that are inconsistent with the provisions of section
+			 1866(k) of the <act-name parsable-cite="SSA">Social Security Act</act-name>, as
+			 added by section 3.</text>
+					</subparagraph><subparagraph id="HBF13A260AAD0404F9EF268D05B0DED1"><enum>(B)</enum><header>Federally
+			 operated medical facilities defined</header><text>In this subsection, the term
+			 <term>federally operated medical facilities</term> means acute care hospitals,
+			 freestanding clinics, and home health care clinics that are operated by the
+			 Department of Veterans Affairs, the Department of Defense, or any other
+			 department or agency of the United States.</text>
+					</subparagraph></paragraph><paragraph id="H42C84A9D85C2475C8F74F76800215BF"><enum>(2)</enum><header>Report</header><text>Not
+			 later than 6 months after the date of the enactment of this Act, the Director
+			 of the Office of Management and Budget shall submit to Congress a report on the
+			 study conducted under paragraph (1) and shall include recommendations for the
+			 implementation of policies within federally operated medical facilities with
+			 respect to overtime requirements for nurses that are consistent with such
+			 section 1866(k), as so added.</text>
+				</paragraph></subsection></section></legis-body>
+</bill>
+
+

@@ -1,0 +1,381 @@
+<html>
+<head>
+<!-- This document was created from RTF source by rtftohtml version
+2.7.3 -->
+<title>Solimini.Edited.html</title>
+</head>
+<body bgcolor="#ffffff" text="#000000"
+ link="#ff0000" vlink="#888800" alink="#00ff00">
+<table border=0 width=100%>
+   <tr>
+   <td align=left valign=top>
+<table border=0>
+   <tr>
+   <td align=left valign=top>
+<strong>
+Domenico Solimini<br>
+Paolo Ferrazzoli<br>
+Giovanni Schiavon<br>
+Paolo de Matthaei<br>
+Marco Cappelli<br>
+</strong>
+Dipartimento di Informatica,<br>
+Sistemi e Produzione Universita`<br>
+Tor Vergata,  Roma, Italy<br>
+<br>
+   </td>
+   </tr>
+</table>
+   </td>
+   <td align=right valign=top>
+<table border=0>
+   <tr>
+   <td align=left valign=top>
+<strong></strong><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+   </td>
+   </tr>
+</table>
+   </td>
+   </tr>
+</table>
+<a name="RTFToC1">Analysis
+of
+   <a href="Acronyms.html#SIR-C/X-SAR">SIR-C/X-SAR</a> 
+Data on Montespertoli Test Site
+</a></h1>
+<p>
+
+<h2>
+<a name="RTFToC2">Introduction</a></h2>
+<p>
+Our analysis refers to Multi Look Complex (MLC) data, which have been
+multilooked and usually resampled to a ground range projection. Two different
+data products, depending on the polarization mode, have been provided by
+NASA/JPL: quad-pol data, with 10 bytes per pixel, containing the information on
+all polarization combinations and phase differences between polarizations;
+dual-pol data, with 5 bytes per pixel, containing information only on two
+polarization combinations and phase differences between them.  From the
+software development point of view, it is important to point out that there are
+many differences between
+   <a href="Acronyms.html#AIRSAR">AIRSAR</a> 
+format data and
+   <a href="Acronyms.html#SIR-C">SIR-C</a> 
+format data, even if the
+set of data by itself is very similar.  For X-SAR, the standard Multilook
+Ground-range Detected (MGD) data products have been selected and were provided
+by I-PAF.<p>
+
+<h2>
+<a name="RTFToC3">Status
+of data analysis
+</a></h2>
+<h3>
+<a name="RTFToC4">The
+Montespertoli test site
+</a></h3>
+<p>
+The Montespertoli test site is located in Tuscany (Italy), a few kilometers
+South East of Florence and has been selected as a
+   <a href="Acronyms.html#SIR-C/X-SAR">SIR-C/X-SAR</a> 
+super-site. It is
+a representative example of those Thyrrenian-Appennine slopes where bedrock is
+made up of Plio-Pleistocene marine deposits and fluvial/lacustrine soft
+sediments, which were intensively affected by geomorphological processes of
+erosion and mass movements.  More than half of the site is hilly (the average
+height is 250 m above the sea level), with some small forest areas, vineyards,
+olive groves, agricultural fields, pastures, and small urban areas. The
+remaining part is flat with alluvial wetlands of Pesa river, agricultural
+fields and urbanization.  Two areas have been selected for ground truth
+measurements:  a relatively flat area along the Pesa river, including
+agricultural fields, which, depending on the season, may grow different crops
+(mainly wheat, barley, alfalfa, colza, sorghum, sunflower and corn), bare
+soils, and a small sub-basin of Virginio river.  The average field size is
+about 4-5 ha.  The Montespertoli super-site was imaged on seven different days
+with different incidence angles during both the April and October 1994
+missions. Due to system limitations and compatibility with data takes over
+other sites, fully polarimetric
+   <a href="Acronyms.html#SIR-C">SIR-C</a> 
+data were available only for four data
+takes, i.e., 12, 13, 14, and 15 April, whereas dual-polarization data have been
+provided for the remaining three.  A list of these data take segments is given
+in Table 1.<p>
+<p>
+
+<center>
+<table border=1 width=80%>
+<tr align=center>
+<th>
+   Data<br> Take</th><th>    Scene Center Time<br> (GMT)</th><th>
+   Incidence Angle<br> (deg)</th>
+</tr>
+
+<tr align=center>
+<td>
+   50.30</td><td> 12 April 1994, 12:06</td><td> 26.7</td>
+</tr>
+
+<tr align=center>
+   <td>66.41</td><td> 13 April 1994, 11:46</td><td> 35.2</td>
+</tr>
+
+<tr align=center>
+   <td>82.30</td><td> 14 April 1994, 11:27</td><td> 44.2</td>
+</tr>
+
+<tr align=center>
+   <td>98.20</td><td> 15 April 1994, 11:07</td><td> 48.5</td>
+</tr>
+
+<tr align=center>
+   <td>114.31</td><td> 16 April 1994, 10:46</td><td> 52.6</td>
+</tr>
+
+<tr align=center>
+   <td>130.30</td><td> 17 April 1994, 10:25</td><td> 55.6</td>
+</tr>
+
+<tr align=center>
+   <td>146.30</td><td> 18 April 1994, 10:03</td><td> 57.5</td>
+</tr>
+
+</table>
+
+<br>Table 1
+</center>
+
+<p>
+The X-SAR data corresponding to the same data take segments are also
+available.<p>
+
+<h2>
+<a name="RTFToC5">Software
+development
+</a></h2>
+<p>
+The software developed and used for analyzing the
+   <a href="Acronyms.html#AIRSAR">AIRSAR</a> 
+data taken in the
+course of the MAESTRO-1 and MAC-EUROPE '91 campaigns has formed the basis for
+the
+   <a href="Acronyms.html#SIR-C/X-SAR">SIR-C/X-SAR</a> 
+data analysis.  However, the mentioned differences between the
+
+   <a href="Acronyms.html#AIRSAR">AIRSAR</a> 
+and the
+   <a href="Acronyms.html#SIR-C/X-SAR">SIR-C/X-SAR</a> 
+data formats and the fact that the previous software
+had been developed under VMS and basic in a VAX environment, resulted in a
+major effort to implement the adjourned algorithms in the recently available
+UNIX/X-window Hp environment.  The main features of the developed software
+include:<p>
+
+<ol type=I>
+<li>SAR data reading and image visualization;
+<li>polygonal area selection with shifting capabilities;
+<li>computation of average values of
+   <ol type=A>
+   <li>backscattering coefficients at each needed polarization state,
+   <li>phase differences between polarizations,
+   <li>correlation coefficients at relevant polarization states 
+       within a chosen polygonal area;
+   </ol>
+<li>visualization of single or combined average values;
+<li>creation of auxiliary input files.
+</ol>
+
+<p>
+A total of 98 polygonal areas (77 in the Pesa river sub-site and 21 in the
+Virginio sub-site) have been constructed within the Montespertoli site.  Both
+extensive and intensive ground truth data have been collected in correspondence
+of the April and October periods of the Shuttle mission.  Data collections have
+taken place on 7, 11, 13, 14 and 19 April and on 5 October, 1994.  Ground data
+regard the soil and vegetation parameters which have a major effect on the
+radar response of the surface, i.e.:<p>
+<p>
+
+<ol type=I>
+<li>vegetation parameters:
+   <ol type=A>
+   <li>type of crop or grass
+   <li>phenological state
+   <li>fresh and dry weights
+   <li>water content of leaves
+   <li>water content of stalks and stems
+   <li>leaf area index
+   <li>cultivation geometry
+   <li>dimensions of leaves
+   <li>dimensions of stalks and stems;
+   </ol>
+<li>soil parameters:
+   <ol type=A>
+   <li>soil moisture profile (between 0 and 2.5 cm, 0 and 5 cm,
+       and 5 and 15 cm)
+   <li>soil density
+   <li>soil surface rms roughness
+   <li>soil roughness correlation length.
+   </ol>
+</ol>
+
+<h2>
+<a name="RTFToC6">Data
+calibration and validation
+</a></h2>
+<p>
+A first step consisted in the comparison of
+   <a href="Acronyms.html#SIR-C">SIR-C</a> 
+data with those taken by the
+
+   <a href="Acronyms.html#AIRSAR">AIRSAR</a> 
+on the same Montespertoli area in 1991 (MAC-Europe campaign), which
+underwent calibration by means of corner reflectors and extensive validation.
+At this stage of data analysis, backscattering values measured by
+   <a href="Acronyms.html#SIR-C">SIR-C</a> 
+L- and
+C-band radar appear to be consistent with those of the MAC-Europe campaign.<p>
+
+<h2>
+<a name="RTFToC7">Data
+analysis
+</a></h2>
+<p>
+At present, the following quantities have been computed from the April
+   <a href="Acronyms.html#SIR-C">SIR-C</a> 
+
+data for each of the 98 polygonal areas selected within the Montespertoli
+site:<p>
+
+<ol type=I>
+<li>backscattering coefficients at hh, hv, vv, rr, rl, 
+    45 degree co-pol, 45 deg cross-pol;
+<li>phase differences between hh and vv and hh and hv returns;
+<li>conventional and new (circular polarizations and "scalar") correlation
+coefficients 	for the fully polarimetric L- and C-band data.
+</ol>
+
+<p>
+In the case of dual-polarized data, the computed quantities are consequently
+and substantially reduced.  As far as SAR-X data are concerned, only a single
+quantity can be computed from the radar data, i.e., the mean vv backscattering
+coefficient. The computation of the X-band average values for the same surface
+parcels for which the above L- and C-band quantities were obtained has been
+carried out.  The request for the October mission data has been forwarded. <p>
+
+<h2>
+<a name="RTFToC8">Obtained
+results
+</a></h2>
+<p>
+The aforementioned large preparatory activity needed for the extensive and
+systematic analysis of the
+   <a href="Acronyms.html#SIR-C/X-SAR">SIR-C/X-SAR</a> 
+data has absorbed a substantial fraction
+of the manpower available for the
+   <a href="Acronyms.html#SIR-C/X-SAR">SIR-C/X-SAR</a> 
+project. At this stage, only
+preliminary scientifically significant results have been obtained.  The L- and
+C-band backscattering coefficients have been employed in a vegetation
+discrimination scheme, and their link with arboreous and crop biomass has been
+determined, thus establishing a further step towards the monitoring of
+vegetation by
+   <a href="Acronyms.html#SAR">SAR</a> 
+sensors [1], [2]. It should be noted, however, that the
+season of the flights was not favorable from this point of view, since only few
+types of crops in spring and almost only bare soil in autumn were present.  A
+study on the correlation with soil moisture content has also been undertaken
+and results are now being obtained [5]. Inclusion of the April
+   <a href="Acronyms.html#SIR-C/X-SAR">SIR-C/X-SAR</a> 
+and
+October measurements into our backscattering database is planned to obtain
+additional important multi-temporal information on the radar response to
+vegetation and soil moisture [3], [4].<p>
+
+<h2>
+<a name="RTFToC9">Future
+activities and data requests
+</a></h2>
+As said, the October data have been requested and their analysis is planned to
+follow the present April data study, adding relevant pieces of multi-temporal
+information.  However, a real breakthrough in this field would be produced by
+the availability of
+   <a href="Acronyms.html#SIR-C/X-SAR">SIR-C/X-SAR</a> 
+data covering an extended period of time,
+ideally one year, which would provide coverage of the whole cycle of growth of
+vegetation and would span the entire hydrological cycle.  The possible launch
+of a free-flier multifrequency radar, as already discussed by
+   <a href="Acronyms.html#NASA">NASA</a>, 
+ could
+provide such a useful wealth of data of high interest for practical
+applications of remote sensing technology.  Year-round systematic overflies of
+the
+   <a href="Acronyms.html#AIRSAR">AIRSAR</a> 
+could partially replace the free-flier.<p>
+
+<h2>
+<a name="RTFToC10">BIBLIOGRAPHY</a></h2>
+<p>
+[1] 	Amodeo, G., P. de Matthaeis, P. Ferrazzoli, S. Paloscia, P. Pampaloni, G.
+Schiavon, S. Sigismondi, and D. Solimini, "The potential of multifrequency
+polarimetric
+   <a href="Acronyms.html#SAR">SAR</a> 
+in assessing agricultural and arboreous biomass," <i>Proc.
+International Symposium on Retrieval of Bio- and Geophysical Parameters from
+
+   <a href="Acronyms.html#SAR">SAR</a> 
+Data for Land Applications</i>, Toulouse (France), Oct. 1995, in press.<p>
+<p>
+[2] 	Ferrazzoli, P., S. Paloscia, P. Pampaloni, S. Sigismondi, G. Schiavon, and
+D. Solimini, "The potential of multifrequency polarimetric
+   <a href="Acronyms.html#SAR">SAR</a> 
+in assessing
+agricultural and arboreous biomass," submitted to the <i>IEEE Trans. Geosci.
+Remote Sensing</i>, Special Issue on the above Toulouse symposium.<p>
+<p>
+[3] 	Amodeo, G., P. de Matthaeis, P. Ferrazzoli, S. Paloscia, P. Pampaloni, G.
+Schiavon, S. Sigismondi, and D. Solimini, "Monitoring vegetation features with
+multitemporal
+   <a href="Acronyms.html#SAR">SAR</a> 
+data," submitted to 1996 <i>International Geoscience and
+Remote Sensing Symposium</i>, Lincoln, Nebraska (USA), May 1996.<p>
+<p>
+[4] 	Amodeo, G., M. Cappelli, P. Ferrazzoli, S. Paloscia, P. Pampaloni, G.
+Schiavon, S. Sigismondi, and D. Solimini, "Monitoring seasonal land changes
+with polarimetric
+   <a href="Acronyms.html#SAR">SAR</a>, 
+" submitted to<i> Progress in Electromagnetics Research
+Symposium</i>, Innsbruck (Austria), Jul. 1996.<p>
+<p>
+[5] 	A paper is being planned for submission to Remote Sensing of the
+Environment (due	February 1996).<p>
+<p>
+<table border=7>
+<tr>
+<td>
+<a href="TableofContents.html">Table of Contents</a>
+</td>
+</tr>
+</table>
+<p><hr><p>
+<font size=-1>
+<b><i>
+Converted to HTML by Alvin Wong, 
+<a href="mailto:al.wong@jpl.nasa.gov">
+al.wong@jpl.nasa.gov</a>
+<br><br>
+The Jet Propulsion Laboratory
+<br>
+4800 Oak Grove Drive
+<br>
+Pasadena, Cailfornia 91109
+<br><br>
+</i></b>
+</font>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "action": "finalize",
+  "block_hash": "0xa9ba1a9a728e89ef1b365cca75ff61c1253440c14393d5763fb17e9507bbd22d",
+  "block_number": 394,
+  "first_attempt_to_confirmations_s": 16.100914478302002,
+  "gas_used": 15109636,
+  "input_bytes": 4,
+  "signed_transaction_bytes": 111,
+  "transaction_fee_wei": 15109636000000000,
+  "tx_hash": "0xe5807cfbe27f4e85d7af12e616849ca1606a5a44bd0ec7937a3480c7c49dab9f"
+}

@@ -1,0 +1,3012 @@
+<PRE>
+<b>BLASTP 2.2.17 [Aug-26-2007]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=11452024&dopt=Citation">Reference for composition-based statistics</a>:</b>
+Sch&auml;ffer, Alejandro A., L. Aravind, Thomas L. Madden, 
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+<b>Query=</b> SMT2011 
+         (198 letters)
+
+<b>Database:</b> nr 
+           5,470,121 sequences; 1,894,087,724 total letters
+
+Searching..................................................done
+
+<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146317976&dopt=GenPept" >gi|146317976|ref|YP_001197688.1|</a>  Predicted hydrolase or acy...   <a href = #146317976>318</a>   2e-85
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=81096996&dopt=GenPept" >gi|81096996|ref|ZP_00875314.1|</a>  Alpha/beta hydrolase fold [S...   <a href = #81096996>317</a>   3e-85
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84498559&dopt=GenPept" >gi|84498559|ref|ZP_00997322.1|</a>  possible peroxidase (Non-Hem...   <a href = #84498559>189</a>   1e-46
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89899122&dopt=GenPept" >gi|89899122|ref|YP_521593.1|</a>  alpha/beta hydrolase [Rhodofer...   <a href = #89899122>181</a>   3e-44
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119961857&dopt=GenPept" >gi|119961857|ref|YP_946937.1|</a>  hydrolase, alpha/beta fold fa...   <a href = #119961857>180</a>   4e-44
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=70730171&dopt=GenPept" >gi|70730171|ref|YP_259910.1|</a>  hydrolase, alpha/beta fold fam...   <a href = #70730171>170</a>   4e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148652807&dopt=GenPept" >gi|148652807|ref|YP_001279900.1|</a>  alpha/beta hydrolase fold ...   <a href = #148652807>170</a>   4e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15842754&dopt=GenPept" >gi|15842754|ref|NP_337791.1|</a>  hydrolase, alpha/beta hydrolas...   <a href = #15842754>165</a>   1e-39
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15610313&dopt=GenPept" >gi|15610313|ref|NP_217693.1|</a>  POSSIBLE PEROXIDASE (NON-HAEM ...   <a href = #15610313>165</a>   1e-39
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=09622372&dopt=GenPept" >gi|9622372|gb|AAF89759.1|AF172928_1</a>  cultivar specificity pr...   <a href = #9622372>164</a>   2e-39
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118698604&dopt=GenPept" >gi|118698604|ref|ZP_01556680.1|</a>  alpha/beta hydrolase fold [...   <a href = #118698604>160</a>   4e-38
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28869068&dopt=GenPept" >gi|28869068|ref|NP_791687.1|</a>  hydrolase, alpha/beta fold fam...   <a href = #28869068>155</a>   1e-36
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=85704641&dopt=GenPept" >gi|85704641|ref|ZP_01035743.1|</a>  hypothetical protein ROS217_...   <a href = #85704641>155</a>   1e-36
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118053226&dopt=GenPept" >gi|118053226|ref|ZP_01521771.1|</a>  alpha/beta hydrolase fold [...   <a href = #118053226>155</a>   1e-36
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115359477&dopt=GenPept" >gi|115359477|ref|YP_776615.1|</a>  alpha/beta hydrolase fold [Bu...   <a href = #115359477>155</a>   2e-36
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=21231475&dopt=GenPept" >gi|21231475|ref|NP_637392.1|</a>  nodulation related protein [Xa...   <a href = #21231475>149</a>   7e-35
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71734774&dopt=GenPept" >gi|71734774|ref|YP_275636.1|</a>  hydrolase, alpha/beta fold fam...   <a href = #71734774>148</a>   2e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71849598&dopt=GenPept" >gi|71849598|gb|AAZ50546.1|</a>  orf_Bo162 [Agrobacterium tumefac...   <a href = #71849598>147</a>   3e-34
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16119674&dopt=GenPept" >gi|16119674|ref|NP_396380.1|</a>  hypothetical protein AGR_pAT_6...   <a href = #16119674>139</a>   8e-32
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=77458702&dopt=GenPept" >gi|77458702|ref|YP_348208.1|</a>  Alpha/beta hydrolase fold [Pse...   <a href = #77458702>139</a>   1e-31
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=77972048&dopt=GenPept" >gi|77972048|ref|ZP_00827631.1|</a>  COG0596: Predicted hydrolase...   <a href = #77972048>130</a>   3e-29
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91779540&dopt=GenPept" >gi|91779540|ref|YP_554748.1|</a>  putative hydrolase, alpha/beta...   <a href = #91779540>122</a>   1e-26
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118715874&dopt=GenPept" >gi|118715874|ref|ZP_01568412.1|</a>  alpha/beta hydrolase fold [...   <a href = #118715874>122</a>   1e-26
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118037016&dopt=GenPept" >gi|118037016|ref|ZP_01508423.1|</a>  alpha/beta hydrolase fold [...   <a href = #118037016>119</a>   8e-26
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84361376&dopt=GenPept" >gi|84361376|ref|ZP_00986046.1|</a>  COG0596: Predicted hydrolase...   <a href = #84361376>115</a>   2e-24
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13471376&dopt=GenPept" >gi|13471376|ref|NP_102942.1|</a>  hypothetical protein mll1328 [...   <a href = #13471376>114</a>   3e-24
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115371957&dopt=GenPept" >gi|115371957|ref|ZP_01459269.1|</a>  hydrolase, alpha/beta hydro...   <a href = #115371957>109</a>   8e-23
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148652974&dopt=GenPept" >gi|148652974|ref|YP_001280067.1|</a>  alpha/beta hydrolase fold ...   <a href = #148652974>106</a>   8e-22
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118469535&dopt=GenPept" >gi|118469535|ref|YP_891035.1|</a>  hydrolase, alpha/beta hydrola...   <a href = #118469535>100</a>   7e-20
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115359480&dopt=GenPept" >gi|115359480|ref|YP_776618.1|</a>  alpha/beta hydrolase fold [Bu...   <a href = #115359480>100</a>   8e-20
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118036360&dopt=GenPept" >gi|118036360|ref|ZP_01507767.1|</a>  alpha/beta hydrolase fold [...   <a href = #118036360> 99</a>   1e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89899126&dopt=GenPept" >gi|89899126|ref|YP_521597.1|</a>  alpha/beta hydrolase [Rhodofer...   <a href = #89899126> 98</a>   2e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91779821&dopt=GenPept" >gi|91779821|ref|YP_555029.1|</a>  putative hydrolase, alpha/beta...   <a href = #91779821> 98</a>   3e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=46109554&dopt=GenPept" >gi|46109554|ref|XP_381835.1|</a>  hypothetical protein FG01659.1...   <a href = #46109554> 97</a>   4e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=46114394&dopt=GenPept" >gi|46114394|ref|XP_383215.1|</a>  hypothetical protein FG03039.1...   <a href = #46114394> 95</a>   3e-18
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119857512&dopt=GenPept" >gi|119857512|ref|ZP_01638940.1|</a>  alpha/beta hydrolase fold [...   <a href = #119857512> 91</a>   6e-17
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=107025519&dopt=GenPept" >gi|107025519|ref|YP_623030.1|</a>  alpha/beta hydrolase fold [Bu...   <a href = #107025519> 89</a>   1e-16
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=70607922&dopt=GenPept" >gi|70607922|ref|YP_256792.1|</a>  alpha/beta hydrolase fold prot...   <a href = #70607922> 85</a>   2e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146337595&dopt=GenPept" >gi|146337595|ref|YP_001202643.1|</a>  conserved hypothetical pro...   <a href = #146337595> 84</a>   5e-15
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=85098614&dopt=GenPept" >gi|85098614|ref|XP_960637.1|</a>  hypothetical protein [Neurospo...   <a href = #85098614> 80</a>   6e-14
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=32562911&dopt=GenPept" >gi|32562911|dbj|BAC79225.1|</a>  HOPDA hydrolase [Bacillus sp. JF8]   <a href = #32562911> 77</a>   7e-13
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116178814&dopt=GenPept" >gi|116178814|ref|XP_001219256.1|</a>  hypothetical protein CHGG_...   <a href = #116178814> 74</a>   6e-12
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=62425558&dopt=GenPept" >gi|62425558|ref|ZP_00380691.1|</a>  COG0596: Predicted hydrolase...   <a href = #62425558> 71</a>   3e-11
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=154149697&dopt=GenPept" >gi|154149697|ref|YP_001403315.1|</a>  alpha/beta hydrolase fold ...   <a href = #154149697> 71</a>   4e-11
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=37525480&dopt=GenPept" >gi|37525480|ref|NP_928824.1|</a>  hypothetical protein plu1532 [...   <a href = #37525480> 68</a>   3e-10
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=108805245&dopt=GenPept" >gi|108805245|ref|YP_645182.1|</a>  alpha/beta hydrolase fold [Ru...   <a href = #108805245> 67</a>   4e-10
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119357396&dopt=GenPept" >gi|119357396|ref|YP_912040.1|</a>  alpha/beta hydrolase fold [Ch...   <a href = #119357396> 67</a>   5e-10
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=94971872&dopt=GenPept" >gi|94971872|ref|YP_593912.1|</a>  alpha/beta hydrolase fold [Dei...   <a href = #94971872> 65</a>   2e-09
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126699629&dopt=GenPept" >gi|126699629|ref|YP_001088526.1|</a>  putative hydrolase [Clostr...   <a href = #126699629> 65</a>   2e-09
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=111020339&dopt=GenPept" >gi|111020339|ref|YP_703311.1|</a>  probable hydrolase [Rhodococc...   <a href = #111020339> 65</a>   3e-09
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=27228520&dopt=GenPept" >gi|27228520|ref|NP_758570.1|</a>  meta cleavage compound hydrola...   <a href = #27228520> 64</a>   7e-09
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=03293062&dopt=GenPept" >gi|3293062|dbj|BAA31270.1|</a>  2-hydroxy-6-oxo-6-(2'-aminopheny...   <a href = #3293062> 63</a>   9e-09
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28201210&dopt=GenPept" >gi|28201210|dbj|BAC56745.1|</a>  meta cleavage compound hydrolas...   <a href = #28201210> 63</a>   9e-09
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=33357095&dopt=GenPept" >gi|33357095|pdb|1J1I|A</a>  Chain A, Crystal Structure Of A His-...   <a href = #33357095> 63</a>   9e-09
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=150388160&dopt=GenPept" >gi|150388160|ref|YP_001318209.1|</a>  alpha/beta hydrolase fold ...   <a href = #150388160> 62</a>   1e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119714475&dopt=GenPept" >gi|119714475|ref|YP_921440.1|</a>  alpha/beta hydrolase fold [No...   <a href = #119714475> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115279619&dopt=GenPept" >gi|115279619|gb|ABI85303.1|</a>  meta-cleavage pathway hydrolase...   <a href = #115279619> 62</a>   2e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=149184741&dopt=GenPept" >gi|149184741|ref|ZP_01863059.1|</a>  Poly(3-hydroxyalkanoate) de...   <a href = #149184741> 61</a>   3e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148555961&dopt=GenPept" >gi|148555961|ref|YP_001263543.1|</a>  alpha/beta hydrolase fold ...   <a href = #148555961> 61</a>   3e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119504439&dopt=GenPept" >gi|119504439|ref|ZP_01626519.1|</a>  probable hydrolase [marine ...   <a href = #119504439> 61</a>   4e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156744003&dopt=GenPept" >gi|156744003|ref|YP_001434132.1|</a>  alpha/beta hydrolase fold ...   <a href = #156744003> 61</a>   4e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156408708&dopt=GenPept" >gi|156408708|ref|XP_001641998.1|</a>  predicted protein [Nematos...   <a href = #156408708> 60</a>   7e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116750396&dopt=GenPept" >gi|116750396|ref|YP_847083.1|</a>  3-oxoadipate enol-lactonase [...   <a href = #116750396> 60</a>   8e-08
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=72389234&dopt=GenPept" >gi|72389234|ref|XP_844912.1|</a>  hydrolase, alpha/beta fold fam...   <a href = #72389234> 60</a>   1e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=68053895&dopt=GenPept" >gi|68053895|ref|ZP_00538060.1|</a>  Alpha/beta hydrolase fold [E...   <a href = #68053895> 59</a>   1e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71083963&dopt=GenPept" >gi|71083963|ref|YP_266683.1|</a>  alpha/beta hydrolase fold [Can...   <a href = #71083963> 59</a>   1e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114769483&dopt=GenPept" >gi|114769483|ref|ZP_01447109.1|</a>  hydrolase, alpha/beta fold ...   <a href = #114769483> 59</a>   1e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=39934352&dopt=GenPept" >gi|39934352|ref|NP_946628.1|</a>  possible beta-ketoadipate enol...   <a href = #39934352> 59</a>   2e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=73539032&dopt=GenPept" >gi|73539032|ref|YP_299399.1|</a>  Alpha/beta hydrolase fold [Ral...   <a href = #73539032> 59</a>   2e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148927865&dopt=GenPept" >gi|148927865|ref|ZP_01811282.1|</a>  alpha/beta hydrolase fold [...   <a href = #148927865> 59</a>   2e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=125901810&dopt=GenPept" >gi|125901810|gb|ABN58716.1|</a>  esterase [uncultured organism]       <a href = #125901810> 59</a>   2e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118050518&dopt=GenPept" >gi|118050518|ref|ZP_01519068.1|</a>  alpha/beta hydrolase fold [...   <a href = #118050518> 58</a>   3e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145622517&dopt=GenPept" >gi|145622517|ref|ZP_01778475.1|</a>  alpha/beta hydrolase fold [...   <a href = #145622517> 58</a>   3e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91762968&dopt=GenPept" >gi|91762968|ref|ZP_01264933.1|</a>  alpha/beta hydrolase fold pr...   <a href = #91762968> 58</a>   4e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148655036&dopt=GenPept" >gi|148655036|ref|YP_001275241.1|</a>  alpha/beta hydrolase fold ...   <a href = #148655036> 58</a>   4e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=154335278&dopt=GenPept" >gi|154335278|ref|XP_001563879.1|</a>  hydrolase, alpha/beta fold...   <a href = #154335278> 57</a>   4e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118588518&dopt=GenPept" >gi|118588518|ref|ZP_01545927.1|</a>  alpha/beta hydrolase fold p...   <a href = #118588518> 57</a>   4e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16126995&dopt=GenPept" >gi|16126995|ref|NP_421559.1|</a>  hydrolase, alpha/beta hydrolas...   <a href = #16126995> 57</a>   5e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110638701&dopt=GenPept" >gi|110638701|ref|YP_678910.1|</a>  hydrolase, alpha/beta fold fa...   <a href = #110638701> 57</a>   5e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=152970669&dopt=GenPept" >gi|152970669|ref|YP_001335778.1|</a>  2-hydroxy-6-ketonona-2,4-d...   <a href = #152970669> 57</a>   5e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=03059193&dopt=GenPept" >gi|3059193|dbj|BAA25612.1|</a>  2-hydroxy-6-oxo-6-phenylhexa-2,4...   <a href = #3059193> 57</a>   5e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=86751248&dopt=GenPept" >gi|86751248|ref|YP_487744.1|</a>  Alpha/beta hydrolase protein [...   <a href = #86751248> 57</a>   6e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118743534&dopt=GenPept" >gi|118743534|ref|ZP_01591537.1|</a>  alpha/beta hydrolase fold [...   <a href = #118743534> 57</a>   6e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=124898405&dopt=GenPept" >gi|124898405|gb|EAY70248.1|</a>  hypothetical protein BDAG_03038...   <a href = #124898405> 57</a>   6e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26989523&dopt=GenPept" >gi|26989523|ref|NP_744948.1|</a>  hydrolase, alpha/beta fold fam...   <a href = #26989523> 57</a>   6e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84360178&dopt=GenPept" >gi|84360178|ref|ZP_00984890.1|</a>  COG0596: Predicted hydrolase...   <a href = #84360178> 57</a>   6e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148652589&dopt=GenPept" >gi|148652589|ref|YP_001279682.1|</a>  alpha/beta hydrolase fold ...   <a href = #148652589> 57</a>   6e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146306327&dopt=GenPept" >gi|146306327|ref|YP_001186792.1|</a>  alpha/beta hydrolase fold ...   <a href = #146306327> 57</a>   7e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126726790&dopt=GenPept" >gi|126726790|ref|ZP_01742630.1|</a>  hydrolase, alpha/beta fold ...   <a href = #126726790> 56</a>   1e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=20808897&dopt=GenPept" >gi|20808897|ref|NP_624068.1|</a>  predicted hydrolase or acyltra...   <a href = #20808897> 56</a>   1e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=78066438&dopt=GenPept" >gi|78066438|ref|YP_369207.1|</a>  Alpha/beta hydrolase [Burkhold...   <a href = #78066438> 56</a>   1e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126727060&dopt=GenPept" >gi|126727060|ref|ZP_01742898.1|</a>  alpha/beta hydrolase [Rhodo...   <a href = #126727060> 56</a>   1e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=125717773&dopt=GenPept" >gi|125717773|ref|YP_001034906.1|</a>  HydD, putative [Streptococ...   <a href = #125717773> 55</a>   2e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115421687&dopt=GenPept" >gi|115421687|emb|CAJ48198.1|</a>  2-hydroxy-6-oxo-6-phenylhexa-2...   <a href = #115421687> 55</a>   3e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=124901055&dopt=GenPept" >gi|124901055|gb|EAY71805.1|</a>  hypothetical protein BDAG_04653...   <a href = #124901055> 55</a>   3e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=90422480&dopt=GenPept" >gi|90422480|ref|YP_530850.1|</a>  alpha/beta hydrolase fold [Rho...   <a href = #90422480> 55</a>   3e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119860327&dopt=GenPept" >gi|119860327|ref|ZP_01641727.1|</a>  alpha/beta hydrolase fold [...   <a href = #119860327> 55</a>   3e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=87199455&dopt=GenPept" >gi|87199455|ref|YP_496712.1|</a>  alpha/beta hydrolase [Novosphi...   <a href = #87199455> 55</a>   3e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=100233291&dopt=GenPept" >gi|100233291|ref|ZP_01334368.1|</a>  hypothetical protein Bpse4_...   <a href = #100233291> 55</a>   3e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=82537741&dopt=GenPept" >gi|82537741|ref|ZP_00896737.1|</a>  hypothetical protein Bpse110...   <a href = #82537741> 55</a>   3e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126443657&dopt=GenPept" >gi|126443657|ref|YP_001061693.1|</a>  Non-heme chloroperoxidase ...   <a href = #126443657> 55</a>   3e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=39935174&dopt=GenPept" >gi|39935174|ref|NP_947450.1|</a>  non-heme chloroperoxidase [Rho...   <a href = #39935174> 54</a>   5e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84358355&dopt=GenPept" >gi|84358355|ref|ZP_00983138.1|</a>  COG0596: Predicted hydrolase...   <a href = #84358355> 54</a>   5e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118037688&dopt=GenPept" >gi|118037688|ref|ZP_01509094.1|</a>  alpha/beta hydrolase fold [...   <a href = #118037688> 54</a>   6e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=106894259&dopt=GenPept" >gi|106894259|ref|ZP_01361380.1|</a>  Alpha/beta hydrolase fold [...   <a href = #106894259> 53</a>   8e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=103487703&dopt=GenPept" >gi|103487703|ref|YP_617264.1|</a>  alpha/beta hydrolase fold [Sp...   <a href = #103487703> 53</a>   9e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=33330436&dopt=GenPept" >gi|33330436|gb|AAQ10535.1|</a>  OrcC [Pseudomonas putida]             <a href = #33330436> 53</a>   9e-06
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=108802989&dopt=GenPept" >gi|108802989|ref|YP_642926.1|</a>  alpha/beta hydrolase fold [Ru...   <a href = #108802989> 53</a>   1e-05
+</PRE>
+<PRE>
+><a name = 146317976></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146317976&dopt=GenPept" >gi|146317976|ref|YP_001197688.1|</a> Predicted hydrolase or acyltransferases (alpha/beta hydrolase
+           superfamily) [Streptococcus suis 05ZYH33]
+ <a name = 146320163></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146320163&dopt=GenPept" >gi|146320163|ref|YP_001199874.1|</a> Predicted hydrolase or acyltransferases (alpha/beta hydrolase
+           superfamily) [Streptococcus suis 98HAH33]
+ <a name = 145688782></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145688782&dopt=GenPept" >gi|145688782|gb|ABP89288.1|</a> Predicted hydrolase or acyltransferases (alpha/beta hydrolase
+           superfamily) [Streptococcus suis 05ZYH33]
+ <a name = 145690969></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145690969&dopt=GenPept" >gi|145690969|gb|ABP91474.1|</a> Predicted hydrolase or acyltransferases (alpha/beta hydrolase
+           superfamily) [Streptococcus suis 98HAH33]
+          Length = 281
+
+ Score =  318 bits (814), Expect = 2e-85,   Method: Composition-based stats.
+ Identities = 153/198 (77%), Positives = 173/198 (87%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+Q +  +KALG++KINLLGLSMGG IAQEI+R+   LVNRLILAGTGPRGG EVDKVT
+Sbjct: 81  MAEQAVAIIKALGHEKINLLGLSMGGFIAQEIVRLDSQLVNRLILAGTGPRGGFEVDKVT 140
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+           GKTF YM KAGLER DPKRYIFYNHD+ G++EA KVLGRMG R+   ADKDMN+ GFLTQ
+Sbjct: 141 GKTFRYMLKAGLERVDPKRYIFYNHDEAGRLEAEKVLGRMGQRSAAHADKDMNVPGFLTQ 200
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAIKRWG++ QDD+ FITQ TLIVNGDKDMQVPTENSY MHEKIK+S+LIIYPNAGHGS
+Sbjct: 201 LKAIKRWGREPQDDMTFITQPTLIVNGDKDMQVPTENSYTMHEKIKNSQLIIYPNAGHGS 260
+
+Query: 181 IFQYADEFSTELIAFLED 198
+           IFQ A+EFS  L+AFLE+
+Sbjct: 261 IFQNAEEFSKALLAFLEE 278
+</PRE>
+
+
+<PRE>
+><a name = 81096996></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=81096996&dopt=GenPept" >gi|81096996|ref|ZP_00875314.1|</a> Alpha/beta hydrolase fold [Streptococcus suis 89/1591]
+ <a name = 80976956></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=80976956&dopt=GenPept" >gi|80976956|gb|EAP40521.1|</a> Alpha/beta hydrolase fold [Streptococcus suis 89/1591]
+          Length = 281
+
+ Score =  317 bits (812), Expect = 3e-85,   Method: Composition-based stats.
+ Identities = 152/198 (76%), Positives = 172/198 (86%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+Q +  +KALGY+KINLLGLSMGG IAQEI+R+   LVNRLILAGTGPRGG EVDKVT
+Sbjct: 81  MAEQAVSIIKALGYEKINLLGLSMGGFIAQEIVRLDSQLVNRLILAGTGPRGGFEVDKVT 140
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+           GKTF YM KAGLER DPKRYIFYNHD+ G++EA KVLGRMG R+   ADKDMN+ GFLTQ
+Sbjct: 141 GKTFRYMLKAGLERVDPKRYIFYNHDEAGRLEAEKVLGRMGQRSAAHADKDMNVPGFLTQ 200
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAIKRWG++ QDD+ FITQ TLIVNGDKDMQVPTENSY MHEKIK+S+LIIYPNAGHGS
+Sbjct: 201 LKAIKRWGREPQDDMTFITQPTLIVNGDKDMQVPTENSYTMHEKIKNSQLIIYPNAGHGS 260
+
+Query: 181 IFQYADEFSTELIAFLED 198
+           IFQ  ++FS  L+AFLE+
+Sbjct: 261 IFQNVEDFSKALLAFLEE 278
+</PRE>
+
+
+<PRE>
+><a name = 84498559></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84498559&dopt=GenPept" >gi|84498559|ref|ZP_00997322.1|</a> possible peroxidase (Non-Heme peroxidase) [Janibacter sp. HTCC2649]
+ <a name = 84381092></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84381092&dopt=GenPept" >gi|84381092|gb|EAP96977.1|</a> possible peroxidase (Non-Heme peroxidase) [Janibacter sp. HTCC2649]
+          Length = 286
+
+ Score =  189 bits (479), Expect = 1e-46,   Method: Composition-based stats.
+ Identities = 91/197 (46%), Positives = 130/197 (65%), Gaps = 1/197 (0%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG 61
+           A    +F++ALG++KI++   SMGGMIAQ++I   P LV +L+L GTGPRGGK++DKV G
+Sbjct: 91  ADHAYEFIRALGFEKIDIFSFSMGGMIAQDLIVKHPDLVRKLVLTGTGPRGGKDLDKVVG 150
+
+Query: 62  KTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQL 121
+            T+  + +A L R+DPK ++F+N D  GK      + R+G RT +  D+ + L    TQL
+Sbjct: 151 TTYWDILRATLTRSDPKEFLFFNRDATGKSAGKAFIKRLGERTVD-RDRQIGLKALRTQL 209
+
+Query: 122 KAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSI 181
+           KAI+R+G+ +  DL   TQ TLI NGD D  VP+  S D+H +I  S+L+IYP++GHG+I
+Sbjct: 210 KAIQRFGRSAPSDLSTFTQPTLIANGDNDRMVPSVLSEDLHRRITGSELVIYPDSGHGAI 269
+
+Query: 182 FQYADEFSTELIAFLED 198
+           FQ+   F+     FL D
+Sbjct: 270 FQFHHTFAPVAAEFLAD 286
+</PRE>
+
+
+<PRE>
+><a name = 89899122></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89899122&dopt=GenPept" >gi|89899122|ref|YP_521593.1|</a> alpha/beta hydrolase [Rhodoferax ferrireducens T118]
+ <a name = 89343859></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89343859&dopt=GenPept" >gi|89343859|gb|ABD68062.1|</a> alpha/beta hydrolase [Rhodoferax ferrireducens DSM 15236]
+          Length = 322
+
+ Score =  181 bits (458), Expect = 3e-44,   Method: Composition-based stats.
+ Identities = 90/197 (45%), Positives = 129/197 (65%), Gaps = 3/197 (1%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA   + F+KA+G+ +++LLG SMGGM+AQEI+  +P LV ++ILAGTGP GG+ +  V+
+Sbjct: 126 MADDAVTFIKAMGFQQVDLLGFSMGGMVAQEIVLKEPQLVRKMILAGTGPAGGEGISSVS 185
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKV-LGRMGMRTKEFADKDMNLSGFLT 119
+           G TF  M +      D K+Y+F+     G IEA K  L R+  R+ E  DKD+++S FL 
+Sbjct: 186 GVTFYDMLRGFFTGQDAKQYLFFTRTPNG-IEAGKAFLERLKERS-ENRDKDISVSAFLA 243
+
+Query: 120 QLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHG 179
+           QL+A++ WG+    DL  + Q  L+VNGD D  VPT N++D+  ++ +S LIIYP+AGHG
+Sbjct: 244 QLQALRAWGQKEPADLSVVKQPVLVVNGDADRMVPTPNTHDLARRLPNSTLIIYPDAGHG 303
+
+Query: 180 SIFQYADEFSTELIAFL 196
+            IFQ+  EF    + FL
+Sbjct: 304 GIFQFHAEFVPSALEFL 320
+</PRE>
+
+
+<PRE>
+><a name = 119961857></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119961857&dopt=GenPept" >gi|119961857|ref|YP_946937.1|</a> hydrolase, alpha/beta fold family domain protein [Arthrobacter
+           aurescens TC1]
+ <a name = 119948716></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119948716&dopt=GenPept" >gi|119948716|gb|ABM07627.1|</a> hydrolase, alpha/beta fold family domain protein [Arthrobacter
+           aurescens TC1]
+          Length = 284
+
+ Score =  180 bits (457), Expect = 4e-44,   Method: Composition-based stats.
+ Identities = 90/196 (45%), Positives = 121/196 (61%), Gaps = 1/196 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA     F+ ALGY K++L G S+GGMIAQ ++   P LV +L+LAGTGP GG+ + K+ 
+Sbjct: 88  MADDAASFINALGYQKVDLFGFSLGGMIAQSLVVKHPGLVRKLVLAGTGPAGGEGIQKII 147
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             T+  M +A L R DPK ++F+N +  GK  A   + R+  RT    +  + L  F TQ
+Sbjct: 148 AITYYDMLRATLIRQDPKEFLFFNRNTAGKPAARAFINRLKERTTN-REAPIKLQAFQTQ 206
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAI+RWG     DL  ITQ TLI NGD D  VP++ S DMH +I  S+L+IY ++GHG 
+Sbjct: 207 LKAIRRWGLSPSADLGVITQPTLIANGDNDRMVPSKLSGDMHRRIPGSELVIYADSGHGG 266
+
+Query: 181 IFQYADEFSTELIAFL 196
+           IFQ+ D F    + FL
+Sbjct: 267 IFQFHDRFVPVALEFL 282
+</PRE>
+
+
+<PRE>
+><a name = 70730171></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=70730171&dopt=GenPept" >gi|70730171|ref|YP_259910.1|</a> hydrolase, alpha/beta fold family [Pseudomonas fluorescens Pf-5]
+ <a name = 68344470></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=68344470&dopt=GenPept" >gi|68344470|gb|AAY92076.1|</a> hydrolase, alpha/beta fold family [Pseudomonas fluorescens Pf-5]
+          Length = 292
+
+ Score =  170 bits (431), Expect = 4e-41,   Method: Composition-based stats.
+ Identities = 85/198 (42%), Positives = 125/198 (63%), Gaps = 1/198 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+  I+ ++ALG+  +++LG S+GG +AQ+I    P LV+RLIL GTGP GG  +DKV 
+Sbjct: 93  MAQDAIELIQALGFKSVDILGFSLGGFVAQDIALQAPQLVHRLILTGTGPAGGIGIDKVG 152
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             T+  M K  L   DPK Y+F+     G+  A + L R+  R+K   DK      FL Q
+Sbjct: 153 SVTWPLMLKGLLTLRDPKYYLFFTSTPHGRRAASEYLQRLKARSKH-RDKGPTPGAFLRQ 211
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           L+AI  WGK +  DL  +   TLIVNGD D+ VP+ NS+ + +++ +++L++Y +AGHG 
+Sbjct: 212 LQAITAWGKQAPQDLGRLRAPTLIVNGDNDIMVPSANSHALAKRVPNAQLVMYEDAGHGG 271
+
+Query: 181 IFQYADEFSTELIAFLED 198
+           IFQY  +F  ++ AFL+D
+Sbjct: 272 IFQYHADFVAKVRAFLDD 289
+</PRE>
+
+
+<PRE>
+><a name = 148652807></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148652807&dopt=GenPept" >gi|148652807|ref|YP_001279900.1|</a> alpha/beta hydrolase fold [Psychrobacter sp. PRwf-1]
+ <a name = 148571891></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148571891&dopt=GenPept" >gi|148571891|gb|ABQ93950.1|</a> alpha/beta hydrolase fold [Psychrobacter sp. PRwf-1]
+          Length = 285
+
+ Score =  170 bits (431), Expect = 4e-41,   Method: Composition-based stats.
+ Identities = 83/198 (41%), Positives = 126/198 (63%), Gaps = 1/198 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA   I F+KA G+DK++L G SMGGMI+QEI   KP+LV +++++GTGP GG+ + KV 
+Sbjct: 88  MADDAITFIKAKGFDKVDLFGFSMGGMISQEIALKKPSLVRKMVISGTGPAGGRGISKVN 147
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+                 + +  L R DPK ++F+     GK  A   +  +  RT++  DK + ++ +  Q
+Sbjct: 148 RVANFELLRGLLTRQDPKVFLFFTRTDNGKRAAKAFIQHINERTQDL-DKKITIAAYRAQ 206
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKA+K+WG  +  DL  I Q TL+ NG+ D  VPT N+YD+ +++ +S+LIIYP+AGHG 
+Sbjct: 207 LKALKKWGNKNPVDLSVIKQPTLVANGEHDRMVPTLNTYDLAKRLPNSQLIIYPDAGHGG 266
+
+Query: 181 IFQYADEFSTELIAFLED 198
+           IFQ   +F  + + FL +
+Sbjct: 267 IFQNHKDFIKQTLNFLAN 284
+</PRE>
+
+
+<PRE>
+><a name = 15842754></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15842754&dopt=GenPept" >gi|15842754|ref|NP_337791.1|</a> hydrolase, alpha/beta hydrolase fold family [Mycobacterium
+           tuberculosis CDC1551]
+ <a name = 13883078></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13883078&dopt=GenPept" >gi|13883078|gb|AAK47605.1|</a> hydrolase, alpha/beta hydrolase fold family [Mycobacterium
+           tuberculosis CDC1551]
+          Length = 300
+
+ Score =  165 bits (418), Expect = 1e-39,   Method: Composition-based stats.
+ Identities = 88/197 (44%), Positives = 118/197 (59%), Gaps = 1/197 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA   I FV+ALG+D+++LLG S+GG +AQ I + +P LV ++ILAGTGP GG  + KVT
+Sbjct: 104 MADDAIAFVRALGFDQVDLLGFSLGGFVAQVIAQQEPQLVRKIILAGTGPAGGVGIGKVT 163
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             T     KA L   DPK   F+     GK  A + + R+  R K+  DK + +  F +Q
+Sbjct: 164 FGTIRESIKATLTFRDPKELRFFTRTDSGKSAARQFVKRLKER-KDNRDKSITVRAFRSQ 222
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAI  WG     DL  I    LI NGD D  VPT NS D+ +++ D+ L IYP+AGHG 
+Sbjct: 223 LKAIHAWGTQKPSDLTSIGHPVLIANGDDDTMVPTSNSLDLADRLPDATLRIYPDAGHGG 282
+
+Query: 181 IFQYADEFSTELIAFLE 197
+           IFQ+  +F  + + FLE
+Sbjct: 283 IFQHHAQFVDDALQFLE 299
+</PRE>
+
+
+<PRE>
+><a name = 15610313></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15610313&dopt=GenPept" >gi|15610313|ref|NP_217693.1|</a> POSSIBLE PEROXIDASE (NON-HAEM PEROXIDASE) [Mycobacterium
+           tuberculosis H37Rv]
+ <a name = 31794355></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=31794355&dopt=GenPept" >gi|31794355|ref|NP_856848.1|</a> POSSIBLE PEROXIDASE (NON-HAEM PEROXIDASE) [Mycobacterium bovis
+           AF2122/97]
+ <a name = 81252120></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=81252120&dopt=GenPept" >gi|81252120|ref|ZP_00876724.1|</a> COG0596: Predicted hydrolases or acyltransferases (alpha/beta
+           hydrolase superfamily) [Mycobacterium tuberculosis C]
+ <a name = 121639062></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=121639062&dopt=GenPept" >gi|121639062|ref|YP_979286.1|</a> putative peroxidase (non-haem peroxidase) [Mycobacterium bovis BCG
+           str. Pasteur 1173P2]
+ <a name = 148663032></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148663032&dopt=GenPept" >gi|148663032|ref|YP_001284555.1|</a> putative peroxidase [Mycobacterium tuberculosis H37Ra]
+ <a name = 148824371></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148824371&dopt=GenPept" >gi|148824371|ref|YP_001289125.1|</a> hypothetical peroxidase (non-haem peroxidase) [Mycobacterium
+           tuberculosis F11]
+ <a name = 2827587></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=02827587&dopt=GenPept" >gi|2827587|emb|CAA16642.1|</a> POSSIBLE PEROXIDASE (NON-HAEM PEROXIDASE) [Mycobacterium
+           tuberculosis H37Rv]
+ <a name = 31619951></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=31619951&dopt=GenPept" >gi|31619951|emb|CAD95295.1|</a> POSSIBLE PEROXIDASE (NON-HAEM PEROXIDASE) [Mycobacterium bovis
+           AF2122/97]
+ <a name = 121494710></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=121494710&dopt=GenPept" >gi|121494710|emb|CAL73191.1|</a> Possible peroxidase (non-haem peroxidase) [Mycobacterium bovis BCG
+           str. Pasteur 1173P2]
+ <a name = 124599319></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=124599319&dopt=GenPept" >gi|124599319|gb|EAY58423.1|</a> hypothetical protein TBCG_03113 [Mycobacterium tuberculosis C]
+ <a name = 134151315></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=134151315&dopt=GenPept" >gi|134151315|gb|EBA43360.1|</a> hypothetical peroxidase (non-haem peroxidase) [Mycobacterium
+           tuberculosis str. Haarlem]
+ <a name = 148507184></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148507184&dopt=GenPept" >gi|148507184|gb|ABQ74993.1|</a> putative peroxidase [Mycobacterium tuberculosis H37Ra]
+ <a name = 148722898></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148722898&dopt=GenPept" >gi|148722898|gb|ABR07523.1|</a> hypothetical peroxidase (non-haem peroxidase) [Mycobacterium
+           tuberculosis F11]
+          Length = 286
+
+ Score =  165 bits (417), Expect = 1e-39,   Method: Composition-based stats.
+ Identities = 88/197 (44%), Positives = 118/197 (59%), Gaps = 1/197 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA   I FV+ALG+D+++LLG S+GG +AQ I + +P LV ++ILAGTGP GG  + KVT
+Sbjct: 90  MADDAIAFVRALGFDQVDLLGFSLGGFVAQVIAQQEPQLVRKIILAGTGPAGGVGIGKVT 149
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             T     KA L   DPK   F+     GK  A + + R+  R K+  DK + +  F +Q
+Sbjct: 150 FGTIRESIKATLTFRDPKELRFFTRTDSGKSAARQFVKRLKER-KDNRDKSITVRAFRSQ 208
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAI  WG     DL  I    LI NGD D  VPT NS D+ +++ D+ L IYP+AGHG 
+Sbjct: 209 LKAIHAWGTQKPSDLTSIGHPVLIANGDDDTMVPTSNSLDLADRLPDATLRIYPDAGHGG 268
+
+Query: 181 IFQYADEFSTELIAFLE 197
+           IFQ+  +F  + + FLE
+Sbjct: 269 IFQHHAQFVDDALQFLE 285
+</PRE>
+
+
+<PRE>
+><a name = 9622372></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=09622372&dopt=GenPept" >gi|9622372|gb|AAF89759.1|AF172928_1</a> cultivar specificity protein W78 [Rhizobium leguminosarum]
+          Length = 287
+
+ Score =  164 bits (415), Expect = 2e-39,   Method: Composition-based stats.
+ Identities = 88/196 (44%), Positives = 119/196 (60%), Gaps = 1/196 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+ TI  ++ALG+ K++LLG S+GG +AQ+I    P LV +LILAGTGP GGK +DKV 
+Sbjct: 91  MARDTIALIRALGFKKVDLLGFSLGGFVAQDITLKAPDLVRKLILAGTGPAGGKGIDKVG 150
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             ++  + K  L   DPK Y+F+     G+  A   L R+  R K   DK      FL Q
+Sbjct: 151 AVSWPLIIKGLLTLRDPKTYLFFTSTANGRQAAKAFLDRLKER-KAGRDKGPAPRAFLRQ 209
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAIK WG+ +  DL  I    LI NGD D+ VPT NS DM  +I  ++++IY +AGHG 
+Sbjct: 210 LKAIKAWGRQAPQDLGRIDVPVLIANGDDDIMVPTVNSADMARRIPGAEVVIYQDAGHGG 269
+
+Query: 181 IFQYADEFSTELIAFL 196
+           IFQ   +F  + ++FL
+Sbjct: 270 IFQNYADFVPKALSFL 285
+</PRE>
+
+
+<PRE>
+><a name = 118698604></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118698604&dopt=GenPept" >gi|118698604|ref|ZP_01556680.1|</a> alpha/beta hydrolase fold [Burkholderia ambifaria MC40-6]
+ <a name = 118644022></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118644022&dopt=GenPept" >gi|118644022|gb|EAV50858.1|</a> alpha/beta hydrolase fold [Burkholderia ambifaria MC40-6]
+          Length = 287
+
+ Score =  160 bits (405), Expect = 4e-38,   Method: Composition-based stats.
+ Identities = 83/196 (42%), Positives = 116/196 (59%), Gaps = 1/196 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+ TI+ ++A+G D+++LLG S+GG +AQ++    P LV++LIL GTGP GG  +D+V 
+Sbjct: 91  MARDTIELIRAMGIDQVDLLGFSLGGFVAQDVALKAPGLVHKLILTGTGPAGGHGIDRVG 150
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             ++  M K  L   DPK Y+F+     G+  A   L R+  R K   DK      FL Q
+Sbjct: 151 AVSWPLMLKGLLTLRDPKAYLFFTSTTNGQRAASAFLKRLKER-KAGRDKGPTPRAFLRQ 209
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAIK WG+ +  DL  +    LI NGD D+ VPT  S DM  +I  ++L+IY +AGHG 
+Sbjct: 210 LKAIKAWGQQAPQDLASLPMPVLIANGDNDIMVPTALSRDMARRIPQAQLVIYQDAGHGG 269
+
+Query: 181 IFQYADEFSTELIAFL 196
+           IFQ+   F    + FL
+Sbjct: 270 IFQHHTNFVPTALEFL 285
+</PRE>
+
+
+<PRE>
+><a name = 28869068></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28869068&dopt=GenPept" >gi|28869068|ref|NP_791687.1|</a> hydrolase, alpha/beta fold family [Pseudomonas syringae pv. tomato
+           str. DC3000]
+ <a name = 28852308></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28852308&dopt=GenPept" >gi|28852308|gb|AAO55382.1|</a> hydrolase, alpha/beta fold family [Pseudomonas syringae pv. tomato
+           str. DC3000]
+          Length = 286
+
+ Score =  155 bits (392), Expect = 1e-36,   Method: Composition-based stats.
+ Identities = 81/197 (41%), Positives = 118/197 (59%), Gaps = 1/197 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+ T++ ++ALGY +++L+G SMGG +AQE+    P LV RLILAGTGP GGK +D++ 
+Sbjct: 91  MARDTVELIRALGYKQVDLVGFSMGGFVAQEVASKVPGLVRRLILAGTGPAGGKGIDRIG 150
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             ++  + K+ L   DPK  +F+     G+  A   L R+  RT    DK         Q
+Sbjct: 151 ALSWPLILKSLLTLRDPKVTMFFTPTLNGRHAARDYLSRVKERTVA-RDKGPTPRLLFRQ 209
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAIK WGK    DL  +    LI  GD D+ V +E S DM  +I  ++L++YP+AGHG 
+Sbjct: 210 LKAIKAWGKQPPQDLARLRIPVLIATGDSDIMVASELSRDMARRIPLAQLVVYPDAGHGV 269
+
+Query: 181 IFQYADEFSTELIAFLE 197
+           +FQY  +F ++ + FL+
+Sbjct: 270 VFQYHADFVSKALEFLK 286
+</PRE>
+
+
+<PRE>
+><a name = 85704641></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=85704641&dopt=GenPept" >gi|85704641|ref|ZP_01035743.1|</a> hypothetical protein ROS217_06164 [Roseovarius sp. 217]
+ <a name = 85671049></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=85671049&dopt=GenPept" >gi|85671049|gb|EAQ25908.1|</a> hypothetical protein ROS217_06164 [Roseovarius sp. 217]
+          Length = 280
+
+ Score =  155 bits (392), Expect = 1e-36,   Method: Composition-based stats.
+ Identities = 79/196 (40%), Positives = 112/196 (57%), Gaps = 1/196 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+  I  ++ALG   + L+G S+GGM+AQ+++   P LV +LIL GTGP GG+ + KV 
+Sbjct: 84  MARDAIALIRALGQSSVYLMGFSLGGMVAQDVVLKAPDLVRKLILTGTGPAGGEGISKVG 143
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             +   + K      +P+ Y+F+     G+  A   + R   R K   DK      FL Q
+Sbjct: 144 AVSLPLILKGIFTFRNPRTYLFFTSTANGRNAAKAFIARTKER-KTGRDKGPTPRAFLRQ 202
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAI  WG+    DL  I    L+ NG+ D+ VPT NS+DM  +I  ++L+IYP+AGHG 
+Sbjct: 203 LKAIHAWGRQLPQDLTRIRIPVLVANGENDIMVPTLNSHDMARRIPGAELVIYPDAGHGG 262
+
+Query: 181 IFQYADEFSTELIAFL 196
+           IFQY  +F    +AFL
+Sbjct: 263 IFQYHAQFVPTALAFL 278
+</PRE>
+
+
+<PRE>
+><a name = 118053226></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118053226&dopt=GenPept" >gi|118053226|ref|ZP_01521771.1|</a> alpha/beta hydrolase fold [Comamonas testosteroni KF-1]
+ <a name = 117999532></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=117999532&dopt=GenPept" >gi|117999532|gb|EAV13691.1|</a> alpha/beta hydrolase fold [Comamonas testosteroni KF-1]
+          Length = 320
+
+ Score =  155 bits (391), Expect = 1e-36,   Method: Composition-based stats.
+ Identities = 82/196 (41%), Positives = 123/196 (62%), Gaps = 1/196 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA     F+KA G+ +++LLG SMGGMIAQEI+  +P LV +LILAGTGP GG  +  V 
+Sbjct: 124 MADDATTFIKAKGFQQVDLLGFSMGGMIAQEIVLKQPQLVRKLILAGTGPAGGPGISSVA 183
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+           G     + +A     DPK+++F+     G       L R+  R+ E  D+ ++   ++ Q
+Sbjct: 184 GVANYDLLRAIFSGQDPKQFLFFTRTPNGIAAGKAFLQRLQERS-ENRDRAISFGAYMAQ 242
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           L+A+K WG+    DL  I Q  L+ NGD D  VPT N+YD+ +++++S+L+IYP+AGHG 
+Sbjct: 243 LQALKAWGEKPAVDLSVIKQPVLVANGDHDRMVPTSNTYDLAKRLRNSELVIYPDAGHGG 302
+
+Query: 181 IFQYADEFSTELIAFL 196
+           +FQY ++F  + +AFL
+Sbjct: 303 VFQYHEDFVPKALAFL 318
+</PRE>
+
+
+<PRE>
+><a name = 115359477></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115359477&dopt=GenPept" >gi|115359477|ref|YP_776615.1|</a> alpha/beta hydrolase fold [Burkholderia cepacia AMMD]
+ <a name = 115284765></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115284765&dopt=GenPept" >gi|115284765|gb|ABI90281.1|</a> alpha/beta hydrolase fold [Burkholderia cepacia AMMD]
+          Length = 287
+
+ Score =  155 bits (391), Expect = 2e-36,   Method: Composition-based stats.
+ Identities = 81/196 (41%), Positives = 114/196 (58%), Gaps = 1/196 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+ TI  ++A+G+D+++LLG S+GG +AQ++    P LV +LIL GTGP GG  +D+V 
+Sbjct: 91  MARDTIALIRAMGFDQVDLLGFSLGGFVAQDVALKAPGLVRKLILTGTGPAGGHGIDRVG 150
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             +   M K  L   D K Y+F+     G+  A   L R+  R K   DK      FL Q
+Sbjct: 151 AVSTPLMLKGLLTLRDSKAYLFFTSTTNGQQAASAFLKRLKER-KAGRDKGPTPRAFLRQ 209
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAIK WG+ +  D+  +    LI NGD D+ VPT  S+DM  +I  ++L+IY +AGHG 
+Sbjct: 210 LKAIKAWGQQAPQDIASLPMPVLIANGDNDIMVPTALSHDMARRIPQAQLVIYQDAGHGG 269
+
+Query: 181 IFQYADEFSTELIAFL 196
+           IFQ+   F    + FL
+Sbjct: 270 IFQHYANFVPTALEFL 285
+</PRE>
+
+
+<PRE>
+><a name = 21231475></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=21231475&dopt=GenPept" >gi|21231475|ref|NP_637392.1|</a> nodulation related protein [Xanthomonas campestris pv. campestris
+           str. ATCC 33913]
+ <a name = 66768470></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=66768470&dopt=GenPept" >gi|66768470|ref|YP_243232.1|</a> nodulation related protein [Xanthomonas campestris pv. campestris
+           str. 8004]
+ <a name = 21113150></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=21113150&dopt=GenPept" >gi|21113150|gb|AAM41316.1|</a> nodulation related protein [Xanthomonas campestris pv. campestris
+           str. ATCC 33913]
+ <a name = 66573802></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=66573802&dopt=GenPept" >gi|66573802|gb|AAY49212.1|</a> nodulation related protein [Xanthomonas campestris pv. campestris
+           str. 8004]
+          Length = 197
+
+ Score =  149 bits (377), Expect = 7e-35,   Method: Composition-based stats.
+ Identities = 76/197 (38%), Positives = 112/197 (56%), Gaps = 1/197 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA   I  + +LG  +++LLG S GG +AQ+I+R  P  V +LILA +GP GG  +DKV 
+Sbjct: 1   MAHDMIALIGSLGIAQVDLLGTSFGGFVAQDIVRQAPQCVRKLILASSGPAGGAGIDKVG 60
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             +   + K  L R DPK ++F    ++G+  A   L R+  RT+   DK ++   F  Q
+Sbjct: 61  AISLPQILKGALTRRDPKYFLFSTASQRGRHAATAFLDRLAERTQH-RDKPLSPRAFWRQ 119
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           L+AIK W +    DL   T   LI  GD D  VP  +S  +  +I+ ++LI+Y +AGHG+
+Sbjct: 120 LQAIKAWARQPAQDLTNFTMPVLITAGDHDRLVPPVHSEALARRIRHAQLIVYQDAGHGA 179
+
+Query: 181 IFQYADEFSTELIAFLE 197
+            FQY   F   ++AFL+
+Sbjct: 180 AFQYHAAFVASVLAFLD 196
+</PRE>
+
+
+<PRE>
+><a name = 71734774></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71734774&dopt=GenPept" >gi|71734774|ref|YP_275636.1|</a> hydrolase, alpha/beta fold family [Pseudomonas syringae pv.
+           phaseolicola 1448A]
+ <a name = 71555327></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71555327&dopt=GenPept" >gi|71555327|gb|AAZ34538.1|</a> hydrolase, alpha/beta fold family [Pseudomonas syringae pv.
+           phaseolicola 1448A]
+          Length = 286
+
+ Score =  148 bits (373), Expect = 2e-34,   Method: Composition-based stats.
+ Identities = 76/196 (38%), Positives = 117/196 (59%), Gaps = 1/196 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+ T++ V+A+GY +++L+G SMGG +AQ++    P LV ++ILAGTGP GG  ++++ 
+Sbjct: 91  MARDTLELVRAMGYRQVDLIGFSMGGFVAQDLALKAPDLVRKVILAGTGPAGGHGIERIG 150
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             ++  + K  L   DPK  +F+     G+  A   L R+  RT +  DK       L Q
+Sbjct: 151 ALSWPLILKGLLRLRDPKVDMFFTSTLNGRRAARNYLSRVKERTVD-RDKPPTPRLLLRQ 209
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAIK WGK    DL  +    LIV GD D+ V +E S DM +++  ++L++Y +AGHG 
+Sbjct: 210 LKAIKAWGKQPAQDLARLRVPVLIVVGDSDVMVASELSRDMSQRLPQAQLVVYQDAGHGC 269
+
+Query: 181 IFQYADEFSTELIAFL 196
+           +FQY  +F +  + FL
+Sbjct: 270 VFQYHADFVSTALEFL 285
+</PRE>
+
+
+<PRE>
+><a name = 71849598></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71849598&dopt=GenPept" >gi|71849598|gb|AAZ50546.1|</a> orf_Bo162 [Agrobacterium tumefaciens]
+          Length = 283
+
+ Score =  147 bits (372), Expect = 3e-34,   Method: Composition-based stats.
+ Identities = 84/196 (42%), Positives = 121/196 (61%), Gaps = 1/196 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA  TI  ++ALG    +L+G S+GG +AQ+I+  +P LV R ILAGTGP GG  +++V 
+Sbjct: 87  MAADTIATIQALGLTSADLIGFSLGGFVAQQILFDEPNLVRRAILAGTGPAGGTGIERVG 146
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             ++  + K  L  +DPK Y+F+    + +  A   L R+  RT++  DK ++L  FL Q
+Sbjct: 147 RVSWPLIVKGLLTFSDPKFYLFFTSSSKSRQAAKAFLARLKERTRD-RDKAVSLKAFLRQ 205
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAIK WG  +   L  I    L+ NGD D+ VP+ENS D+  +I  ++L++YP+AGHG 
+Sbjct: 206 LKAIKAWGLQAPHSLDTIRTPVLVANGDHDIMVPSENSSDLARRIPGAELVLYPDAGHGG 265
+
+Query: 181 IFQYADEFSTELIAFL 196
+           IFQY D F  +  AFL
+Sbjct: 266 IFQYHDAFLAKAKAFL 281
+</PRE>
+
+
+<PRE>
+><a name = 16119674></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16119674&dopt=GenPept" >gi|16119674|ref|NP_396380.1|</a> hypothetical protein AGR_pAT_654 [Agrobacterium tumefaciens str.
+           C58]
+ <a name = 17939029></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=17939029&dopt=GenPept" >gi|17939029|ref|NP_535817.1|</a> cultivar specificity protein W78 [Agrobacterium tumefaciens str.
+           C58]
+ <a name = 15162252></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15162252&dopt=GenPept" >gi|15162252|gb|AAK90821.1|</a> AGR_pAT_654p [Agrobacterium tumefaciens str. C58]
+ <a name = 17743900></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=17743900&dopt=GenPept" >gi|17743900|gb|AAL46133.1|</a> cultivar specificity protein W78 [Agrobacterium tumefaciens str.
+           C58]
+          Length = 300
+
+ Score =  139 bits (351), Expect = 8e-32,   Method: Composition-based stats.
+ Identities = 81/196 (41%), Positives = 114/196 (58%), Gaps = 1/196 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+  I  +  LG+  ++L+G S+GG +AQ+I    P LV +LIL GTGP GG  +++V 
+Sbjct: 104 MARDVIAVIGKLGFSTVDLMGFSLGGFVAQDIALKTPDLVRKLILTGTGPAGGAGIERVG 163
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             ++  + K  L   DPK Y+F+     G+  A   L R+  R K   DK      FL Q
+Sbjct: 164 AVSWPLILKGILTLRDPKTYLFFTSTTNGRRAAKDFLARLKER-KMGRDKGATPYAFLRQ 222
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           L AIK WG+ +  DL  I    L+ NGD D+ VPT NS D+  +I +++L+IY +AGHG 
+Sbjct: 223 LAAIKAWGRQAPQDLGRIHIPVLVANGDNDIMVPTSNSRDIARRIPNAELVIYEDAGHGG 282
+
+Query: 181 IFQYADEFSTELIAFL 196
+           IFQY  EF  + +AFL
+Sbjct: 283 IFQYHAEFVPKALAFL 298
+</PRE>
+
+
+<PRE>
+><a name = 77458702></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=77458702&dopt=GenPept" >gi|77458702|ref|YP_348208.1|</a> Alpha/beta hydrolase fold [Pseudomonas fluorescens PfO-1]
+ <a name = 77382705></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=77382705&dopt=GenPept" >gi|77382705|gb|ABA74218.1|</a> Alpha/beta hydrolase fold [Pseudomonas fluorescens PfO-1]
+          Length = 289
+
+ Score =  139 bits (349), Expect = 1e-31,   Method: Composition-based stats.
+ Identities = 82/197 (41%), Positives = 116/197 (58%), Gaps = 1/197 (0%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA   I  ++ALG   +++LG S+GG +AQ+I    P LV RLIL GTGP GG  +DKV 
+Sbjct: 93  MADDAIQLIRALGLKTVDVLGFSLGGFVAQDIALKAPDLVRRLILTGTGPAGGTGIDKVG 152
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+             ++  + K  L   DPK Y+F+     G+  A + L R+  R K   DK      FL Q
+Sbjct: 153 RVSWPLILKGLLTLRDPKFYLFFTSSANGRRSASQYLRRLKAR-KNNRDKGPTPRAFLRQ 211
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           LKAI  WG+  +  L  +   TL+VNGD D+ VP+ NS+++   I D++L+IY +AGHG 
+Sbjct: 212 LKAITAWGRQPRQALGRLRTPTLVVNGDNDIMVPSVNSFELARLIPDAQLVIYEDAGHGG 271
+
+Query: 181 IFQYADEFSTELIAFLE 197
+           IFQ+  +F  +  AFL+
+Sbjct: 272 IFQHHADFVAKAQAFLD 288
+</PRE>
+
+
+<PRE>
+><a name = 77972048></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=77972048&dopt=GenPept" >gi|77972048|ref|ZP_00827631.1|</a> COG0596: Predicted hydrolases or acyltransferases (alpha/beta
+           hydrolase superfamily) [Yersinia frederiksenii ATCC
+           33641]
+          Length = 284
+
+ Score =  130 bits (328), Expect = 3e-29,   Method: Composition-based stats.
+ Identities = 77/206 (37%), Positives = 114/206 (55%), Gaps = 19/206 (9%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGG-------K 54
+           A   I F+KALG  +++L G S+GGM+AQ++    P LV R++LAGTGP  G       +
+Sbjct: 84  AADMIAFIKALGLKQVDLFGFSLGGMVAQQVAVDAPELVRRILLAGTGPAAGEGMQVFSQ 143
+
+Query: 55  EVDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNL 114
+           EV  + G   +   +  LE       +F+    +        L R+G R  +   +    
+Sbjct: 144 EVQDIVGWPNSTAEERMLE-------LFFAKSAKSVAAGKAWLERIGERKTDREPECKPQ 196
+
+Query: 115 SGFLTQLKAIKRWG----KDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKL 170
+            G + QL+A+ +WG     D  D LK ITQ TL+VNG  D+ VPT NSY + + + D++L
+Sbjct: 197 VG-VAQLEALAKWGAIPATDRYDSLKKITQRTLVVNGKNDIMVPTINSYILQQHLADAQL 255
+
+Query: 171 IIYPNAGHGSIFQYADEFSTELIAFL 196
+           IIYP++GHG+ FQ+A EF+ E + F 
+Sbjct: 256 IIYPDSGHGAHFQFAAEFAEEAVRFF 281
+</PRE>
+
+
+<PRE>
+><a name = 91779540></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91779540&dopt=GenPept" >gi|91779540|ref|YP_554748.1|</a> putative hydrolase, alpha/beta fold family [Burkholderia xenovorans
+           LB400]
+ <a name = 91692200></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91692200&dopt=GenPept" >gi|91692200|gb|ABE35398.1|</a> putative hydrolase, alpha/beta fold family [Burkholderia xenovorans
+           LB400]
+          Length = 298
+
+ Score =  122 bits (306), Expect = 1e-26,   Method: Composition-based stats.
+ Identities = 71/201 (35%), Positives = 110/201 (54%), Gaps = 4/201 (1%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA     F+KALG  ++++LG SMGG++AQ +   +P LV RLIL GTGPRGG+ +  +T
+Sbjct: 94  MAANAAAFIKALGLPQVDVLGFSMGGLVAQTLALAEPVLVRRLILVGTGPRGGEAMASLT 153
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+            +  + +F A   + D      +         A +   +      E  D + N      Q
+Sbjct: 154 PEAQD-IFSATYAQPDHLWLRVHFSPSDASQAAGRRFLQRFRLRSEGRDPEANEKVAPAQ 212
+
+Query: 121 LKAIKRWGKDSQ---DDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAG 177
+           L A+ RWG   +   D LK + Q TL+VNGD D+ + + NS+ + + + +++LIIYP+A 
+Sbjct: 213 LAALARWGAARENPFDYLKDLRQPTLVVNGDNDVIIYSINSWILQQNLPNAQLIIYPDAN 272
+
+Query: 178 HGSIFQYADEFSTELIAFLED 198
+           HGS++QY + F   +  FL D
+Sbjct: 273 HGSLYQYPERFVAHVAQFLSD 293
+</PRE>
+
+
+<PRE>
+><a name = 118715874></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118715874&dopt=GenPept" >gi|118715874|ref|ZP_01568412.1|</a> alpha/beta hydrolase fold [Burkholderia multivorans ATCC 17616]
+ <a name = 118660715></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118660715&dopt=GenPept" >gi|118660715|gb|EAV67457.1|</a> alpha/beta hydrolase fold [Burkholderia multivorans ATCC 17616]
+          Length = 284
+
+ Score =  122 bits (305), Expect = 1e-26,   Method: Composition-based stats.
+ Identities = 64/201 (31%), Positives = 107/201 (53%), Gaps = 8/201 (3%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+  + FV AL  D +++LG S+GG +AQEI   +P LV R+I++G+ P GG+      
+Sbjct: 84  MAEHVLRFVDALSLDTLHILGFSLGGFLAQEIAIARPALVERMIVSGSAPEGGEGAGMDR 143
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNL-----S 115
+            +       A +  ++  + +F+   ++G+  A   + R+  R+   A+ D+       S
+Sbjct: 144 PELLAIYTDAEMPMSEKLKRLFFPATQEGQAAAAAFVVRLAARS---AEPDLPAGPEVAS 200
+
+Query: 116 GFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPN 175
+             L  + A   W  D    L  I Q  L+ NGD D  +PT NS+ + + + ++ LI+YPN
+Sbjct: 201 AQLQAMIAWANWSGDVAQKLSRIRQPVLVTNGDDDRMIPTANSFVLAQGLPNATLIVYPN 260
+
+Query: 176 AGHGSIFQYADEFSTELIAFL 196
+           +GHG++FQYA  +   +  FL
+Sbjct: 261 SGHGALFQYAQTYVAHVTEFL 281
+</PRE>
+
+
+<PRE>
+><a name = 118037016></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118037016&dopt=GenPept" >gi|118037016|ref|ZP_01508423.1|</a> alpha/beta hydrolase fold [Burkholderia phytofirmans PsJN]
+ <a name = 117993247></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=117993247&dopt=GenPept" >gi|117993247|gb|EAV07538.1|</a> alpha/beta hydrolase fold [Burkholderia phytofirmans PsJN]
+          Length = 309
+
+ Score =  119 bits (299), Expect = 8e-26,   Method: Composition-based stats.
+ Identities = 69/201 (34%), Positives = 109/201 (54%), Gaps = 4/201 (1%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA     F+KALG  ++++LG SMGG+IAQ +   +P LV R+IL GTGPR G+ +  +T
+Sbjct: 105 MAANAAAFIKALGLQQVDVLGFSMGGLIAQTLAIAEPALVRRVILVGTGPRSGEAMQSLT 164
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+            +    +F A   R D      +         A +   +   +  E  D + N      Q
+Sbjct: 165 PEA-QEIFSAAYARPDHLWLRVHFSPSDASQTAGRRFLQRFRQRSEGRDPEANEKVAPAQ 223
+
+Query: 121 LKAIKRWGKDSQDD---LKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAG 177
+           L A+ +WG   ++    LK + Q TL+VNGD D+ + + NS+ + + + +++LIIYP+A 
+Sbjct: 224 LAALAKWGAPRENPFEYLKALRQPTLVVNGDHDVIIYSINSWILQQNLPNAQLIIYPDAN 283
+
+Query: 178 HGSIFQYADEFSTELIAFLED 198
+           HGS++QY + F   +  FL D
+Sbjct: 284 HGSLYQYPERFVAHVSQFLAD 304
+</PRE>
+
+
+<PRE>
+><a name = 84361376></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84361376&dopt=GenPept" >gi|84361376|ref|ZP_00986046.1|</a> COG0596: Predicted hydrolases or acyltransferases (alpha/beta
+           hydrolase superfamily) [Burkholderia dolosa AUO158]
+          Length = 284
+
+ Score =  115 bits (288), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 63/201 (31%), Positives = 105/201 (52%), Gaps = 8/201 (3%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA+  + FV AL   ++++LG S+GG +AQ+I   +P LV R+I++G+ P GG+      
+Sbjct: 84  MAEHVLRFVDALTLARLHVLGFSLGGFLAQDIAIARPALVERMIVSGSAPEGGEGAGMDR 143
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNL-----S 115
+            +         +  ++  + +F+     G+  A   + R+  R+   A++D+       S
+Sbjct: 144 PELLAIYTDGEMPMSEKLKRLFFPATPAGQGAAAAFVARLDARS---AERDLPAGPEVAS 200
+
+Query: 116 GFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPN 175
+             L  + A   W  D    L  I Q  L+ NGD D  +PT NS+ + E + ++ LI+YPN
+Sbjct: 201 AQLQAMIAWANWSGDVAGKLGRIRQPVLVTNGDDDRMIPTANSFVLAEGLPNATLIVYPN 260
+
+Query: 176 AGHGSIFQYADEFSTELIAFL 196
+           AGHG++FQYA  +   +  FL
+Sbjct: 261 AGHGALFQYAPTYVAHVREFL 281
+</PRE>
+
+
+<PRE>
+><a name = 13471376></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13471376&dopt=GenPept" >gi|13471376|ref|NP_102942.1|</a> hypothetical protein mll1328 [Mesorhizobium loti MAFF303099]
+ <a name = 14022118></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=14022118&dopt=GenPept" >gi|14022118|dbj|BAB48728.1|</a> mll1328 [Mesorhizobium loti MAFF303099]
+          Length = 286
+
+ Score =  114 bits (285), Expect = 3e-24,   Method: Composition-based stats.
+ Identities = 67/201 (33%), Positives = 109/201 (54%), Gaps = 10/201 (4%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKE-VDKV 59
+           MA+  + F+K LG  +++LLG S+GG +AQ+I      LV +LIL GT PRGG+E +  V
+Sbjct: 91  MARDAVAFIKLLGLSEVDLLGFSLGGCVAQQIAAEHGRLVRKLILVGTAPRGGEEHLLTV 150
+
+Query: 60  TGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLT 119
+               F+       +  D +  +F+      +   L  L R  +R KE  D D   +    
+Sbjct: 151 LQDAFSQT-----DAPDVRLPLFFTKSSASQSAGLAFLKRAKVR-KEDRDTDNGSAVTDP 204
+
+Query: 120 QLKAIKRWGKDSQDD---LKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNA 176
+           Q KA+  W      +   L+ I Q  L+V+G  D  +P +N+Y M + + +++L++YP++
+Sbjct: 205 QAKALITWCATPDPEHAILRAIRQPALVVSGSHDTMLPADNAYAMFKALSNAQLVLYPDS 264
+
+Query: 177 GHGSIFQYADEFSTELIAFLE 197
+           GHG++FQY + F + +  FLE
+Sbjct: 265 GHGALFQYHELFVSHVRTFLE 285
+</PRE>
+
+
+<PRE>
+><a name = 115371957></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115371957&dopt=GenPept" >gi|115371957|ref|ZP_01459269.1|</a> hydrolase, alpha/beta hydrolase fold family [Stigmatella aurantiaca
+           DW4/3-1]
+ <a name = 115370922></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115370922&dopt=GenPept" >gi|115370922|gb|EAU69845.1|</a> hydrolase, alpha/beta hydrolase fold family [Stigmatella aurantiaca
+           DW4/3-1]
+          Length = 281
+
+ Score =  109 bits (273), Expect = 8e-23,   Method: Composition-based stats.
+ Identities = 63/199 (31%), Positives = 101/199 (50%), Gaps = 5/199 (2%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           M      FV+ALG   +++LG S+GGM+AQE   ++P  V RLIL GT PRGG+ + +++
+Sbjct: 83  MGAHVATFVEALGLTHLDVLGFSLGGMVAQEFALLRPQWVRRLILVGTAPRGGESLGQLS 142
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+            +       + +   +    +F+   +  +        R   RT    +   ++     Q
+Sbjct: 143 PEAVRAA-TSPVSTLEHFLTLFFEQSETSQAAGKAFWKRRHERTAGL-EPATSVQTMNAQ 200
+
+Query: 121 LKAIKRWGK---DSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAG 177
+           L A   W +       DL  I Q  L+VNG  D+ VPT NSY + + + +++LI+YP++G
+Sbjct: 201 LAATSEWAEVKGSRYADLARIEQPVLVVNGRNDVMVPTVNSYLLQQHLPNAQLILYPDSG 260
+
+Query: 178 HGSIFQYADEFSTELIAFL 196
+           H + FQY + F T    FL
+Sbjct: 261 HAAHFQYPELFVTHASRFL 279
+</PRE>
+
+
+<PRE>
+><a name = 148652974></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148652974&dopt=GenPept" >gi|148652974|ref|YP_001280067.1|</a> alpha/beta hydrolase fold [Psychrobacter sp. PRwf-1]
+ <a name = 148572058></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148572058&dopt=GenPept" >gi|148572058|gb|ABQ94117.1|</a> alpha/beta hydrolase fold [Psychrobacter sp. PRwf-1]
+          Length = 286
+
+ Score =  106 bits (264), Expect = 8e-22,   Method: Composition-based stats.
+ Identities = 70/207 (33%), Positives = 108/207 (52%), Gaps = 13/207 (6%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGK---EVD 57
+           MA     F++AL  DK+++LG S+GG  AQ++    P +V +L+L GTGPRGGK   E  
+Sbjct: 84  MADDAAAFIRALSLDKVDVLGFSLGGFQAQDLTLRHPDIVRKLMLLGTGPRGGKPDHENK 143
+
+Query: 58  KVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALK-VLGRMGMRTKEFADKDMNLSG 116
+            +    + +  +A +   D   ++F+    Q  IEA      R   R ++  D   + + 
+Sbjct: 144 DIPALVYKHATQA-IPAKDDYLFLFFGR-SQSAIEAGNDFWERRHQRVEQ--DTPSSPAV 199
+
+Query: 117 FLTQLKAIKRWGKDSQDDLKF-----ITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLI 171
+              Q++A   +     D   F     I Q T I+NG  D+ +PT NSY M + I +++L 
+Sbjct: 200 MQAQIEANLHFLPKLDDTHPFAHLEKIKQPTFILNGQDDVMIPTINSYHMAQHIPNAQLF 259
+
+Query: 172 IYPNAGHGSIFQYADEFSTELIAFLED 198
+           IYP+AGHG+ FQY   F +  +AFL +
+Sbjct: 260 IYPDAGHGAHFQYPKRFLSHALAFLNE 286
+</PRE>
+
+
+<PRE>
+><a name = 118469535></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118469535&dopt=GenPept" >gi|118469535|ref|YP_891035.1|</a> hydrolase, alpha/beta hydrolase fold family protein [Mycobacterium
+           smegmatis str. MC2 155]
+ <a name = 118170822></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118170822&dopt=GenPept" >gi|118170822|gb|ABK71718.1|</a> hydrolase, alpha/beta hydrolase fold family protein [Mycobacterium
+           smegmatis str. MC2 155]
+          Length = 283
+
+ Score =  100 bits (248), Expect = 7e-20,   Method: Composition-based stats.
+ Identities = 65/204 (31%), Positives = 102/204 (50%), Gaps = 16/204 (7%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTG--------PRG 52
+           +A   IDFV ALG D+I+LLG S+GG++ QE+   +P LV RL++AG+         P  
+Sbjct: 83  LAGGLIDFVGALGLDEIDLLGWSLGGIVVQEVALQRPELVRRLVVAGSSPGGGVPGMPEP 142
+
+Query: 53  GKEVDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDM 112
+              + +V  K  N          +   Y+F+   + G+   ++ L R+  RT       +
+Sbjct: 143 DPRIWQVATKPVN--------DDEDFLYLFFPETEPGRKLGVESLRRLDRRTTAPDHVPV 194
+
+Query: 113 NLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLII 172
+           +      QLK I   G    D L  IT   L+ NG  D  +    SY M  ++ D+K+++
+Sbjct: 195 SAETMTAQLKVIASTGSRIWDRLNDITVPVLVANGAHDRMIDAYASYAMAGRLPDAKIVL 254
+
+Query: 173 YPNAGHGSIFQYADEFSTELIAFL 196
+           Y +AGHG +FQ+  +F+ E+  FL
+Sbjct: 255 YSDAGHGFLFQHLPDFAREVTEFL 278
+</PRE>
+
+
+<PRE>
+><a name = 115359480></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115359480&dopt=GenPept" >gi|115359480|ref|YP_776618.1|</a> alpha/beta hydrolase fold [Burkholderia cepacia AMMD]
+ <a name = 115284768></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115284768&dopt=GenPept" >gi|115284768|gb|ABI90284.1|</a> alpha/beta hydrolase fold [Burkholderia cepacia AMMD]
+          Length = 285
+
+ Score = 99.8 bits (247), Expect = 8e-20,   Method: Composition-based stats.
+ Identities = 69/207 (33%), Positives = 107/207 (51%), Gaps = 18/207 (8%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGK-EVDK- 58
+           MA     FV+ALG  +I++LG S+GG  A ++    P LV +L+L GTGPRGG  E+++ 
+Sbjct: 88  MADDAAAFVRALGLQQIDVLGFSLGGFQALDLTWRHPELVRKLMLLGTGPRGGNPEMEQR 147
+
+Query: 59  --VTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSG 116
+              T      +F+  L       Y+F+    + +  A     R  MR  +       +S 
+Sbjct: 148 VLTTAVNPVPVFEDFL-------YLFFGRSAEAEQAARAFWERRHMRADQDPPSSPEVS- 199
+
+Query: 117 FLTQLKA-IKRWGKDSQDD----LKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLI 171
+            + Q++A +    + S+DD    L+ I Q T I+NG  D+ VPT NS+ M   + +++L 
+Sbjct: 200 -IAQIEANVLYMPRLSEDDPFAYLRGIRQPTFILNGVNDVMVPTINSFYMARNLPNAQLF 258
+
+Query: 172 IYPNAGHGSIFQYADEFSTELIAFLED 198
+           IYP+AGH + FQY   F    + FL +
+Sbjct: 259 IYPDAGHAAQFQYPQRFLGHAVQFLSE 285
+</PRE>
+
+
+<PRE>
+><a name = 118036360></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118036360&dopt=GenPept" >gi|118036360|ref|ZP_01507767.1|</a> alpha/beta hydrolase fold [Burkholderia phytofirmans PsJN]
+ <a name = 117992591></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=117992591&dopt=GenPept" >gi|117992591|gb|EAV06882.1|</a> alpha/beta hydrolase fold [Burkholderia phytofirmans PsJN]
+          Length = 278
+
+ Score = 99.0 bits (245), Expect = 1e-19,   Method: Composition-based stats.
+ Identities = 64/206 (31%), Positives = 106/206 (51%), Gaps = 20/206 (9%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           M    I F++ALG  ++++LG+S+GG +AQEI      LV ++IL GTG R     +  +
+Sbjct: 83  MGANAIAFIRALGLTQVDVLGISIGGFVAQEIALQGGNLVRKVILVGTGHRSQDMSESRS 142
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIF----YNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSG 116
+            + F     AG    DP  +++    +   +  +   L  L R   R     D+D  +S 
+Sbjct: 143 AEIF-----AG--SYDPPEHLWLSVHFGPSEASQKAGLAFLERKLRRQ----DRDPQVSA 191
+
+Query: 117 --FLTQLKAIKRW---GKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLI 171
+                Q +AI +W      + + LK I Q  LIV G  D+ +PT +S+ + + + +++LI
+Sbjct: 192 QTLAAQGEAIGKWHVPNDSALEYLKGIRQPVLIVQGSNDVIIPTRHSFTLQQHLPNAQLI 251
+
+Query: 172 IYPNAGHGSIFQYADEFSTELIAFLE 197
+           +YP++ HGSI+QY + F      FL+
+Sbjct: 252 VYPDSNHGSIYQYPELFVANATTFLD 277
+</PRE>
+
+
+<PRE>
+><a name = 89899126></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89899126&dopt=GenPept" >gi|89899126|ref|YP_521597.1|</a> alpha/beta hydrolase [Rhodoferax ferrireducens T118]
+ <a name = 89343863></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89343863&dopt=GenPept" >gi|89343863|gb|ABD68066.1|</a> alpha/beta hydrolase [Rhodoferax ferrireducens DSM 15236]
+          Length = 281
+
+ Score = 98.2 bits (243), Expect = 2e-19,   Method: Composition-based stats.
+ Identities = 70/207 (33%), Positives = 104/207 (50%), Gaps = 18/207 (8%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKE--VDK 58
+           MA     FV+ALG  +I+LLG S+GG  A ++    PTLV +L+L GTGPRGG      +
+Sbjct: 84  MADDAAAFVRALGLQQIDLLGFSLGGFQALDLTWRHPTLVRKLMLLGTGPRGGNPDMEQR 143
+
+Query: 59  VTGKTFNYM--FKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSG 116
+           V     N +  F+  L       Y+F+    Q +  A     R   R  +  D   +   
+Sbjct: 144 VLTTAVNPVPDFEDFL-------YLFFGRSAQAEQAAKAFWERRHQRKDQ--DPPSSQEA 194
+
+Query: 117 FLTQLKA-IKRWGKDSQDD----LKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLI 171
+            + Q++A I    + S+DD    L+ +   T I+NG  D+ VPT NS+ M   + +++L 
+Sbjct: 195 GIAQIEANILYLPRLSEDDPFAYLRGVHHPTFILNGVNDVMVPTINSFYMARNMPNAQLF 254
+
+Query: 172 IYPNAGHGSIFQYADEFSTELIAFLED 198
+           IYP+AGH + FQY   F    + FL +
+Sbjct: 255 IYPDAGHAAQFQYPQRFLRHAVQFLSE 281
+</PRE>
+
+
+<PRE>
+><a name = 91779821></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91779821&dopt=GenPept" >gi|91779821|ref|YP_555029.1|</a> putative hydrolase, alpha/beta hydrolase family [Burkholderia
+           xenovorans LB400]
+ <a name = 91692481></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91692481&dopt=GenPept" >gi|91692481|gb|ABE35679.1|</a> putative hydrolase, alpha/beta hydrolase family [Burkholderia
+           xenovorans LB400]
+          Length = 277
+
+ Score = 97.8 bits (242), Expect = 3e-19,   Method: Composition-based stats.
+ Identities = 62/205 (30%), Positives = 103/205 (50%), Gaps = 18/205 (8%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           M    + F++ALG  ++++LG+S+GG IAQEI      LV ++IL GTG R        +
+Sbjct: 82  MGANAVAFIRALGLAQVDVLGISIGGFIAQEIALQGGNLVRKVILVGTGHRSQDMSQSRS 141
+
+Query: 61  GKTFNYMFKAGLERTDPKRYI-----FYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLS 115
+            + F+  +       DP  ++     F   D   K   L  L R   R     D +++  
+Sbjct: 142 AEIFSGSY-------DPPEHLWLSVHFAPSDASQK-AGLAFLERKLRRQDR--DPEVSEQ 191
+
+Query: 116 GFLTQLKAIKRW---GKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLII 172
+               Q +AI +W     ++ + LK I Q  L+V G  D+ +PT +S+ + + + +++LI+
+Sbjct: 192 TIAAQGEAIGKWHVPDDNALEYLKSIGQPVLVVQGSNDVIIPTRHSFTLQQNLPNAQLIV 251
+
+Query: 173 YPNAGHGSIFQYADEFSTELIAFLE 197
+           YP++ HGSI+QY   F      FL+
+Sbjct: 252 YPDSNHGSIYQYPQTFVANATTFLD 276
+</PRE>
+
+
+<PRE>
+><a name = 46109554></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=46109554&dopt=GenPept" >gi|46109554|ref|XP_381835.1|</a> hypothetical protein FG01659.1 [Gibberella zeae PH-1]
+          Length = 296
+
+ Score = 97.4 bits (241), Expect = 4e-19,   Method: Composition-based stats.
+ Identities = 70/207 (33%), Positives = 106/207 (51%), Gaps = 10/207 (4%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG 61
+           A+  I+ ++ALG DK +++G SMGG +AQ +      LV RLIL GT P  G+       
+Sbjct: 82  AQYYINVLRALGVDKTDVMGFSMGGCVAQLVALNGQGLVRRLILCGTMPSSGEGTVSAPD 141
+
+Query: 62  KT-FNYMFKAGLERTDPKRYIFYNHDKQGKIEAL------KVLGRMGMRTKEFADKDMNL 114
+            T FN + KA  E    K ++        K +A       ++ G    RT      +  L
+Sbjct: 142 LTPFNLLAKAQTEEEHKKAFMVSMFGTSAKSKAAGEAAWKRITGARKDRTGHVDPDNARL 201
+
+Query: 115 SGFLTQLKAIKRWGKD-SQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKD--SKLI 171
+            G         +  KD S + L+ ++   LI NG  D+ +PTENS  + +K+K+  ++L 
+Sbjct: 202 QGIAFAKFMDPKQAKDASYNRLEELSIPVLIANGSDDLLLPTENSIVIWKKLKNAQAQLH 261
+
+Query: 172 IYPNAGHGSIFQYADEFSTELIAFLED 198
+           +YP++GHG ++QYADEFS  +  FL D
+Sbjct: 262 LYPDSGHGFLYQYADEFSKLINVFLGD 288
+</PRE>
+
+
+<PRE>
+><a name = 46114394></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=46114394&dopt=GenPept" >gi|46114394|ref|XP_383215.1|</a> hypothetical protein FG03039.1 [Gibberella zeae PH-1]
+          Length = 301
+
+ Score = 94.7 bits (234), Expect = 3e-18,   Method: Composition-based stats.
+ Identities = 67/212 (31%), Positives = 109/212 (51%), Gaps = 22/212 (10%)
+
+Query: 8   FVKALGYDKINLLGLSMGGMIAQEI-IRIKPTLVN--RLILAGTGPRGGKEVDKVTGKTF 64
+           F++ +   +++LLG S+GG +AQ + +   PT V   +LILAGTG   GK++ + T    
+Sbjct: 89  FIELIKEPEVDLLGFSIGGYVAQMVALNSDPTKVKIRKLILAGTGTSYGKDLAQSTNDDV 148
+
+Query: 65  NYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNL---SGFLTQL 121
+             +        D  + +F++ ++QG   A    GR+  R +    ++++    SG+  Q 
+Sbjct: 149 GAVAGVKDVNIDVFKTLFFHKNEQGDAAAEAWWGRIHERKESSCGEEVSQWLSSGYKDQG 208
+
+Query: 122 KAIK---------------RWGKD-SQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKI 165
+           K IK                 G+D + D L  I    L+ NG+ D  +PT NSY +++K+
+Sbjct: 209 KGIKGQATQGHDFTMTAETSGGEDGAYDRLSEIKIPVLVANGNNDYMIPTSNSYLVYQKV 268
+
+Query: 166 KDSKLIIYPNAGHGSIFQYADEFSTELIAFLE 197
+              +LI+YPN+GHG +FQYA  F   +  FLE
+Sbjct: 269 PKGQLILYPNSGHGFLFQYATTFVKHVELFLE 300
+</PRE>
+
+
+<PRE>
+><a name = 119857512></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119857512&dopt=GenPept" >gi|119857512|ref|ZP_01638940.1|</a> alpha/beta hydrolase fold [Pseudomonas putida W619]
+ <a name = 119816049></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119816049&dopt=GenPept" >gi|119816049|gb|EAX18797.1|</a> alpha/beta hydrolase fold [Pseudomonas putida W619]
+          Length = 279
+
+ Score = 90.5 bits (223), Expect = 6e-17,   Method: Composition-based stats.
+ Identities = 56/192 (29%), Positives = 98/192 (51%), Gaps = 10/192 (5%)
+
+Query: 12  LGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFNYMFKAG 71
+           LG  +++LLG S+GG+  QE+    P LV +L+L GTG RGG   D    +         
+Sbjct: 93  LGLTQVDLLGFSIGGLQVQEVALRHPALVRKLVLLGTGLRGG---DPSMAEGVREAASNP 149
+
+Query: 72  LERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIKRWGKDS 131
+           +   +   ++F+   +  +   L    R   R  +  D   ++   + Q  A   + + +
+Sbjct: 150 VPTIENFLFLFFGRSEAARKAGLAFWERRNQRVDQ--DTPSSVEVAMAQGAAFAAYVQSA 207
+
+Query: 132 QDDLKF-----ITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQYAD 186
+           Q + +F     I Q TL+VNG  D+ +P+ NS+ + + I D++L+IYP++GH + FQ+ +
+Sbjct: 208 QGENRFAYLNEIKQPTLVVNGVDDVMIPSINSWHLVQNIPDAQLLIYPDSGHAAHFQFPE 267
+
+Query: 187 EFSTELIAFLED 198
+            F    + FLE+
+Sbjct: 268 RFLKHALQFLEE 279
+</PRE>
+
+
+<PRE>
+><a name = 107025519></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=107025519&dopt=GenPept" >gi|107025519|ref|YP_623030.1|</a> alpha/beta hydrolase fold [Burkholderia cenocepacia AU 1054]
+ <a name = 116693300></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116693300&dopt=GenPept" >gi|116693300|ref|YP_838833.1|</a> alpha/beta hydrolase fold [Burkholderia cenocepacia HI2424]
+ <a name = 118710460></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118710460&dopt=GenPept" >gi|118710460|ref|ZP_01563038.1|</a> alpha/beta hydrolase fold [Burkholderia cenocepacia MC0-3]
+ <a name = 105894893></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=105894893&dopt=GenPept" >gi|105894893|gb|ABF78057.1|</a> alpha/beta hydrolase fold [Burkholderia cenocepacia AU 1054]
+ <a name = 116651300></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116651300&dopt=GenPept" >gi|116651300|gb|ABK11940.1|</a> alpha/beta hydrolase fold [Burkholderia cenocepacia HI2424]
+ <a name = 118651826></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118651826&dopt=GenPept" >gi|118651826|gb|EAV58613.1|</a> alpha/beta hydrolase fold [Burkholderia cenocepacia MC0-3]
+          Length = 271
+
+ Score = 89.4 bits (220), Expect = 1e-16,   Method: Composition-based stats.
+ Identities = 54/186 (29%), Positives = 95/186 (51%), Gaps = 4/186 (2%)
+
+Query: 12  LGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFNYMFKAG 71
+           LG  ++++LG S+GG++AQ++    P L+ RLI+AG+ P G  +  +   +    M  + 
+Sbjct: 90  LGLGQVDVLGWSLGGVVAQQLALDAPHLIRRLIVAGSSPGGITDGPQPHPRVPQVMSHSV 149
+
+Query: 72  LERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIKRWGKDS 131
+            +  D   ++FY   +         L R+  ++       +    F+ Q+KAI  W    
+Sbjct: 150 NDAAD-FLFLFYPESETSVAAGKASLNRIAEQSH--VGPAVTAEAFMAQIKAISTW-PGV 205
+
+Query: 132 QDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQYADEFSTE 191
+               K +    L+ NG  D+ +P   SY + ++  D+KLI+YP+AGH  +FQ  D+F+ +
+Sbjct: 206 LHRAKELRMPVLVANGAHDVMLPAYRSYVLSQQAPDAKLILYPDAGHAFLFQEIDDFAAQ 265
+
+Query: 192 LIAFLE 197
+           +  FLE
+Sbjct: 266 IDLFLE 271
+</PRE>
+
+
+<PRE>
+><a name = 70607922></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=70607922&dopt=GenPept" >gi|70607922|ref|YP_256792.1|</a> alpha/beta hydrolase fold protein [Sulfolobus acidocaldarius DSM
+           639]
+ <a name = 3342450></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=03342450&dopt=GenPept" >gi|3342450|gb|AAC67392.1|</a> lipolytic enzyme [Sulfolobus acidocaldarius]
+ <a name = 68568570></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=68568570&dopt=GenPept" >gi|68568570|gb|AAY81499.1|</a> alpha/beta hydrolase fold protein [Sulfolobus acidocaldarius DSM
+           639]
+          Length = 314
+
+ Score = 85.1 bits (209), Expect = 2e-15,   Method: Composition-based stats.
+ Identities = 62/196 (31%), Positives = 101/196 (51%), Gaps = 6/196 (3%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG 61
+           A  TI  +  LGY  +N+LG SMGG +AQ+I    P+ VN+L+L  T P       KV+ 
+Sbjct: 123 ASDTIGLLNYLGYSNLNVLGWSMGGFVAQQIAIDYPSYVNKLVLLCTAPNIYLYPPKVSP 182
+
+Query: 62  KTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQL 121
+           ++    F A       +  I Y       ++A   + +  + T E     ++ +  L Q 
+Sbjct: 183 QSIITGFTASDPTVTVETIIPYLVPSDW-LQAHPDVAKYVLFTLE--KYPISYTSVLKQT 239
+
+Query: 122 KAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIY-PNAGHGS 180
+            A+  +  +S   L+ IT  TL++ GD D+ +P +NS  + E I +++L I+ P+AGHG 
+Sbjct: 240 NALATF--NSVGQLQNITAPTLVIGGDSDLLLPPQNSQYLAENIPNAQLYIFSPDAGHGL 297
+
+Query: 181 IFQYADEFSTELIAFL 196
+           I+QY  +F   + +FL
+Sbjct: 298 IYQYPTQFINLVTSFL 313
+</PRE>
+
+
+<PRE>
+><a name = 146337595></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146337595&dopt=GenPept" >gi|146337595|ref|YP_001202643.1|</a> conserved hypothetical protein; putative alpha/beta hydrolase
+           [Bradyrhizobium sp. ORS278]
+ <a name = 146190401></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146190401&dopt=GenPept" >gi|146190401|emb|CAL74397.1|</a> conserved hypothetical protein; putative alpha/beta hydrolase
+           [Bradyrhizobium sp. ORS278]
+          Length = 272
+
+ Score = 83.6 bits (205), Expect = 5e-15,   Method: Composition-based stats.
+ Identities = 57/205 (27%), Positives = 101/205 (49%), Gaps = 22/205 (10%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGT-------GPRGG 53
+           +A    + + +LG  + ++LG S+GG++ Q++    P LV RLI+AG+       GP+  
+Sbjct: 79  IAAVAAEVISSLGLGQADVLGWSLGGVVGQQLALDAPHLVRRLIVAGSSPGPVADGPQAH 138
+
+Query: 54  KEVDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMN 113
+             V +V  K  N     G E      ++FY   +         L R+  + +      + 
+Sbjct: 139 PRVAQVMTKPDN-----GAEDF---LFLFYPETETAVAAGRASLARIAAQPQ--LGPKVT 188
+
+Query: 114 LSGFLTQLKAIKRWGK--DSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLI 171
+            + F+ Q+KAI  W       ++L+      L+ NG  D+ +P   SY + ++  ++KL+
+Sbjct: 189 AASFMGQVKAISSWPGVLHRANELRL---PMLVANGAHDVMLPAYRSYVLSQQAPNAKLV 245
+
+Query: 172 IYPNAGHGSIFQYADEFSTELIAFL 196
+           +YP+AGH  +FQ  D+F+ E+  FL
+Sbjct: 246 LYPDAGHAFLFQEIDDFAAEVDRFL 270
+</PRE>
+
+
+<PRE>
+><a name = 85098614></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=85098614&dopt=GenPept" >gi|85098614|ref|XP_960637.1|</a> hypothetical protein [Neurospora crassa OR74A]
+ <a name = 28922148></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28922148&dopt=GenPept" >gi|28922148|gb|EAA31401.1|</a> conserved hypothetical protein [Neurospora crassa OR74A]
+ <a name = 28949962></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28949962&dopt=GenPept" >gi|28949962|emb|CAD70723.1|</a> conserved hypothetical protein [Neurospora crassa]
+          Length = 308
+
+ Score = 80.1 bits (196), Expect = 6e-14,   Method: Composition-based stats.
+ Identities = 61/210 (29%), Positives = 103/210 (49%), Gaps = 16/210 (7%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTL------VNRLILAGTGPRGGKE 55
+           A+  +D +  +   ++++ G SMGG  AQ +  I          V RL+LAGT P  G+ 
+Sbjct: 88  AQSVVDLLIVMRIPQVDVFGYSMGGCNAQMVALIAEEYSGGKVKVRRLVLAGTTPSDGQG 147
+
+Query: 56  VDKVTGKTFNYMFKAGLERTDPKRY------IFYNHDKQGKIEALKVLGRM-GMRTKEFA 108
+           V +   +      +    +T  ++        F    ++   E  K   R+ G R K   
+Sbjct: 148 VKRFKREELEAFQRLAAAQTVEQQKEAFMKGFFGRCSEKSWAEGKKSWKRIAGARKKTMG 207
+
+Query: 109 DKDMNLSGFLTQLKAIKRW-GKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKD 167
+              +   G   Q  A  ++ G+ S + LK +    LI NG +D+ +PTENSY M++ + +
+Sbjct: 208 Q--LGKEGSRRQGIAFAKFMGEGSLEKLKGLKMPVLIANGCQDLLLPTENSYLMYKTLPN 265
+
+Query: 168 SKLIIYPNAGHGSIFQYADEFSTELIAFLE 197
+           + L +YP++GHG ++QYAD FS+ +  FL+
+Sbjct: 266 AYLHLYPDSGHGFLYQYADHFSSLVNLFLD 295
+</PRE>
+
+
+<PRE>
+><a name = 32562911></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=32562911&dopt=GenPept" >gi|32562911|dbj|BAC79225.1|</a> HOPDA hydrolase [Bacillus sp. JF8]
+          Length = 277
+
+ Score = 76.6 bits (187), Expect = 7e-13,   Method: Composition-based stats.
+ Identities = 55/200 (27%), Positives = 99/200 (49%), Gaps = 29/200 (14%)
+
+Query: 3   KQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTG----PRGGKEVDK 58
+           +  I F++AL   ++NL+G SMGG     +   +P LV +++L G      P+ GKE D 
+Sbjct: 86  QHVIGFIQALNLRQVNLVGNSMGGAATLGVAMKRPELVKKMVLLGAAGRLKPQNGKESDA 145
+
+Query: 59  VTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNL---S 115
+           +     NY                Y+ ++  +I A  +     + ++E  +  + L   S
+Sbjct: 146 LQA-ILNYE---------------YSKEQMYQI-ARSLTNESYVVSEELVNYRLKLTERS 188
+
+Query: 116 GFLTQLKAIKRWGKDS----QDDL-KFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKL 170
+           G +   +AI +W K++    +D+L + I   TLI++G  D  VP  +S++M   ++++ L
+Sbjct: 189 GVMRAYQAIMKWVKENGMYYEDELFRRIKHQTLIIHGKNDKVVPVADSWEMLNLLENASL 248
+
+Query: 171 IIYPNAGHGSIFQYADEFST 190
+            + PN GH  + +Y +EF T
+Sbjct: 249 YVVPNCGHWVMLEYPEEFVT 268
+</PRE>
+
+
+<PRE>
+><a name = 116178814></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116178814&dopt=GenPept" >gi|116178814|ref|XP_001219256.1|</a> hypothetical protein CHGG_00035 [Chaetomium globosum CBS 148.51]
+ <a name = 88184332></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=88184332&dopt=GenPept" >gi|88184332|gb|EAQ91800.1|</a> hypothetical protein CHGG_00035 [Chaetomium globosum CBS 148.51]
+          Length = 246
+
+ Score = 73.6 bits (179), Expect = 6e-12,   Method: Composition-based stats.
+ Identities = 63/222 (28%), Positives = 100/222 (45%), Gaps = 45/222 (20%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQ------EIIRIKPTLVNRLILAGTGPRGGKE 55
+           A   + F+  LG  ++++LG S+GGM+AQ      E +      V RL+LAGT P  G+ 
+Sbjct: 41  AGDVLAFLAGLGEREMDVLGFSLGGMVAQLVALNAEGVTGGRVRVRRLVLAGTTPSAGEG 100
+
+Query: 56  VDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRT----------- 104
+           V +   +    +  A +   D  + +F+  D  G + A     R+  R+           
+Sbjct: 101 VRRSGNEDVLEVAGAQVVGVDTFKKLFFVDDAAGVVAAEDWWARVHERSAATCGEEPATW 160
+
+Query: 105 --KEFADKDMNLSGFLTQLKAIKRW-------GKD-SQDDLKFITQATLIVNGDKDMQVP 154
+             + +AD  + L     QL     W       G++ S D L  +    L+VNG       
+Sbjct: 161 LSQGYADGAVGLKAQAQQLAG---WMTVEGTPGEEGSFDRLGGLDIPVLVVNG------- 210
+
+Query: 155 TENSYDMHEKIKDSKLIIYPNAGHGSIFQYADEFSTELIAFL 196
+                    K+ +++LIIYPN+ HG IFQYA  F+ +++AFL
+Sbjct: 211 --------HKLPNAQLIIYPNSSHGGIFQYASYFAQQVLAFL 244
+</PRE>
+
+
+<PRE>
+><a name = 62425558></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=62425558&dopt=GenPept" >gi|62425558|ref|ZP_00380691.1|</a> COG0596: Predicted hydrolases or acyltransferases (alpha/beta
+           hydrolase superfamily) [Brevibacterium linens BL2]
+          Length = 266
+
+ Score = 71.2 bits (173), Expect = 3e-11,   Method: Composition-based stats.
+ Identities = 60/197 (30%), Positives = 92/197 (46%), Gaps = 16/197 (8%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKV-- 59
+           A    + +  LG  +  + G SMGG IAQ +    P  V  L+L  T P G   V +   
+Sbjct: 80  AADAAEVLDHLGIARAAVYGTSMGGRIAQMLALDFPEHVGALVLGCTTPGGPNSVKRPRE 139
+
+Query: 60  TGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLT 119
+            G++   +   G E T     +FY  +        K+LG   M   E A   + +S    
+Sbjct: 140 VGQSLARL--RGREHTQYLFSLFYTPNWTVAPRYSKLLGDDTMTAHESA-AHLRISA--- 193
+
+Query: 120 QLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHG 179
+           Q  A +R        L  IT  TLIV+GD D+  P +N++ +HE+I +S+++I P   HG
+Sbjct: 194 QHNAWER--------LPEITAPTLIVHGDDDLMNPVDNAHLLHERIANSRILICPGGRHG 245
+
+Query: 180 SIFQYADEFSTELIAFL 196
+              ++A+  S E++ FL
+Sbjct: 246 FFEEFAEVVSPEVLGFL 262
+</PRE>
+
+
+<PRE>
+><a name = 154149697></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=154149697&dopt=GenPept" >gi|154149697|ref|YP_001403315.1|</a> alpha/beta hydrolase fold [Candidatus Methanoregula boonei 6A8]
+ <a name = 153998249></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153998249&dopt=GenPept" >gi|153998249|gb|ABS54672.1|</a> alpha/beta hydrolase fold [Candidatus Methanoregula boonei 6A8]
+          Length = 266
+
+ Score = 71.2 bits (173), Expect = 4e-11,   Method: Composition-based stats.
+ Identities = 66/213 (30%), Positives = 95/213 (44%), Gaps = 43/213 (20%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG 61
+           ++ T   ++ LG  + ++LG SMG  IAQE+    P  V+RL+L  +G  GG E      
+Sbjct: 78  SRDTAGLMEHLGITRAHVLGFSMGTCIAQELELAFPEKVDRLVLV-SGDCGGTEA----- 131
+
+Query: 62  KTFNYMFKAGLERTDPK---RYIFYNHDKQGKIEALKVLGRM--------------GMRT 104
+                       RTDP    R I    D+ G I+   V+ RM                R 
+Sbjct: 132 -----------VRTDPDVFARLI----DRSGTID--DVVNRMLPLLFPSFWLATHDPFRY 174
+
+Query: 105 KEFADKDMNLSGFLTQLKAIKRW-GKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHE 163
+               ++  +      QL A   W G  S+  L+ I   TL++ GD D  VP ENS  +  
+Sbjct: 175 CPAVEEITSDENAARQLAAFLSWPGTFSR--LENIRSRTLVITGDADAVVPCENSRLLAG 232
+
+Query: 164 KIKDSKLIIYPNAGHGSIFQYADEFSTELIAFL 196
+           KI  +KL+ +P AGHG ++Q  D F   ++ FL
+Sbjct: 233 KIPGAKLVEFPGAGHGLMYQCPDRFGETVLDFL 265
+</PRE>
+
+
+<PRE>
+><a name = 37525480></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=37525480&dopt=GenPept" >gi|37525480|ref|NP_928824.1|</a> hypothetical protein plu1532 [Photorhabdus luminescens subsp.
+           laumondii TTO1]
+ <a name = 36784908></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=36784908&dopt=GenPept" >gi|36784908|emb|CAE13825.1|</a> unnamed protein product [Photorhabdus luminescens subsp. laumondii
+           TTO1]
+          Length = 231
+
+ Score = 67.8 bits (164), Expect = 3e-10,   Method: Composition-based stats.
+ Identities = 62/209 (29%), Positives = 96/209 (45%), Gaps = 37/209 (17%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKE----- 55
+           MAK  I   KA  Y   +L G+SMGG I  EI+++ P  V+RL L  +  R   E     
+Sbjct: 44  MAKDIIQ--KAPSY--FSLAGMSMGGFICLEIMKLAPERVSRLALLNSSARPETEEQKKM 99
+
+Query: 56  ----VDKVTGKTFNYMFK----AGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEF 107
+               ++K T + F  + K     G+ ++         HDK      +  + RMG      
+Sbjct: 100 RENLLNKTTLENFEEILKNMATTGVHKSR-------QHDKN----LINTIIRMG------ 142
+
+Query: 108 ADKDMNLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKD 167
+             K+     ++ Q KA+     D+++ L  I+  TL++ GD D   P E S +M EKI +
+Sbjct: 143 --KETGFDAYVRQSKALGD-RTDNRNILTHISVPTLVLVGDSDTITPPEYSEEMAEKIPN 199
+
+Query: 168 SKLIIYPNAGHGSIFQYADEFSTELIAFL 196
+           +KLI     GH +  +  +E +  LI +L
+Sbjct: 200 AKLIKLYRCGHATTLEQPEEVNKALIEWL 228
+</PRE>
+
+
+<PRE>
+><a name = 108805245></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=108805245&dopt=GenPept" >gi|108805245|ref|YP_645182.1|</a> alpha/beta hydrolase fold [Rubrobacter xylanophilus DSM 9941]
+ <a name = 108766488></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=108766488&dopt=GenPept" >gi|108766488|gb|ABG05370.1|</a> alpha/beta hydrolase fold [Rubrobacter xylanophilus DSM 9941]
+          Length = 275
+
+ Score = 67.4 bits (163), Expect = 4e-10,   Method: Composition-based stats.
+ Identities = 54/207 (26%), Positives = 93/207 (44%), Gaps = 24/207 (11%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGK------ 54
+           +A + +  +  LG  + +L+G S+GG +AQ++   +P  VNRL+L GT P  G       
+Sbjct: 66  LAAEVLALMDHLGLPRAHLMGSSLGGFVAQQLALERPERVNRLVLVGTSPGRGSPKTMSP 125
+
+Query: 55  ----EVDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADK 110
+               ++    G +     + GLE    + Y      +  + +  + L R  M     A  
+Sbjct: 126 QALLDMAGWPGLSAERAVRRGLETATSQDY------RNRRPQEFEHLVRWRMADSPSA-- 177
+
+Query: 111 DMNLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKL 170
+               + +  QL+A  R+  DS  DL  IT   L+++G +D  VP  N   +   I +S+L
+Sbjct: 178 ----ATYYEQLRAGARF--DSSRDLGRITAPALVIHGTEDRYVPPANGAALAAGIPNSRL 231
+
+Query: 171 IIYPNAGHGSIFQYADEFSTELIAFLE 197
+            +   AGH    +   + + E + FL+
+Sbjct: 232 RLLDRAGHLVFIERFADVNRETVTFLK 258
+</PRE>
+
+
+<PRE>
+><a name = 119357396></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119357396&dopt=GenPept" >gi|119357396|ref|YP_912040.1|</a> alpha/beta hydrolase fold [Chlorobium phaeobacteroides DSM 266]
+ <a name = 119354745></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119354745&dopt=GenPept" >gi|119354745|gb|ABL65616.1|</a> alpha/beta hydrolase fold [Chlorobium phaeobacteroides DSM 266]
+          Length = 275
+
+ Score = 67.0 bits (162), Expect = 5e-10,   Method: Composition-based stats.
+ Identities = 59/204 (28%), Positives = 91/204 (44%), Gaps = 24/204 (11%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLIL------AGTGPRGGKE 55
+           A+ +   +++L  +  ++LG SMG +IAQE+    P+L+++LIL      A   P   + 
+Sbjct: 86  AEDSAALLQSLDVEHAHVLGWSMGSLIAQELALRHPSLISKLILYAAHCDAKMFPPSPEV 145
+
+Query: 56  VDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNL- 114
+           +  +T  +       G       RYI         +     L   G R KE   + M   
+Sbjct: 146 LTMLTDTS-------GTPEERGMRYI-------STLFPENWLHGNGQRMKEIFFRPMGTI 191
+
+Query: 115 --SGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLII 172
+                  Q  AI  W   +   L  IT  TL++ G +D     +N+  M E+I D++LII
+Sbjct: 192 PEESVGRQAAAIDEW-NGTTGKLGEITCPTLLITGSEDKLTVPDNARYMSERIPDAELII 250
+
+Query: 173 YPNAGHGSIFQYADEFSTELIAFL 196
+             N GHG +FQY + F   +I FL
+Sbjct: 251 IENGGHGLMFQYPEIFRDSVIGFL 274
+</PRE>
+
+
+<PRE>
+><a name = 94971872></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=94971872&dopt=GenPept" >gi|94971872|ref|YP_593912.1|</a> alpha/beta hydrolase fold [Deinococcus geothermalis DSM 11300]
+ <a name = 94553923></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=94553923&dopt=GenPept" >gi|94553923|gb|ABF43838.1|</a> alpha/beta hydrolase fold [Deinococcus geothermalis DSM 11300]
+          Length = 277
+
+ Score = 65.1 bits (157), Expect = 2e-09,   Method: Composition-based stats.
+ Identities = 50/183 (27%), Positives = 78/183 (42%), Gaps = 12/183 (6%)
+
+Query: 19  LLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFNYMFKAGLERTDPK 78
+           ++GLSMGGM+AQ +    P LV  L+L  T P G                 A +E  +  
+Sbjct: 99  VVGLSMGGMVAQHLALRHPDLVRGLVLVSTTPGGAASTPATERGRAALFLPADMEPQERA 158
+
+Query: 79  R----YIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIKRWGKDSQDD 134
+           R     + Y        EAL V      R        M+   F  Q +AI+    D+  D
+Sbjct: 159 RQALTLMTYEGFAAAHPEALDVAAANAAR------HPMSAESFKRQFRAIR--AHDTTAD 210
+
+Query: 135 LKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQYADEFSTELIA 194
+           L  +   +L+++G++D  +P  N+  +   I  ++L +YP  GH    +   +F  +L  
+Sbjct: 211 LARLAVPSLVLHGERDDLIPLPNAERLAAGIPGAELRVYPATGHMPHLERPVQFLRDLRG 270
+
+Query: 195 FLE 197
+           FLE
+Sbjct: 271 FLE 273
+</PRE>
+
+
+<PRE>
+><a name = 126699629></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126699629&dopt=GenPept" >gi|126699629|ref|YP_001088526.1|</a> putative hydrolase [Clostridium difficile 630]
+ <a name = 15011956></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15011956&dopt=GenPept" >gi|15011956|gb|AAK77646.1|</a> HydD [Clostridium difficile]
+ <a name = 115251066></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115251066&dopt=GenPept" >gi|115251066|emb|CAJ68897.1|</a> putative hydrolase [Clostridium difficile 630]
+          Length = 270
+
+ Score = 65.1 bits (157), Expect = 2e-09,   Method: Composition-based stats.
+ Identities = 57/204 (27%), Positives = 98/204 (48%), Gaps = 25/204 (12%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKE----- 55
+           MAK   D +K LG  K  ++G+S GGMIAQ +    P LV +L+LA T  +         
+Sbjct: 82  MAKDQADIMKKLGIMKAEVMGVSQGGMIAQYLAIDYPELVEKLVLAVTSSKQNDTIQNVI 141
+
+Query: 56  ---VDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDM 112
+              +D    + +N +     +++  +RY+     K+ ++  +  LG++G        K  
+Sbjct: 142 CSWIDMAKKQNYNDLMIDTAKKSYSERYL-----KKYQL-FIPFLGKVG--------KPK 187
+
+Query: 113 NLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLII 172
+           +   F+ Q  +      ++  +L  IT  TLI+ G  D  V    S+ + EKIK S++ I
+Sbjct: 188 DFKRFIIQATSCIE--HNAFSELNKITCPTLIIGGANDKIVGNNASFHLAEKIKKSEIFI 245
+
+Query: 173 YPNAGHGSIFQYADEFSTELIAFL 196
+           Y   GH + ++ A +F+  ++ FL
+Sbjct: 246 YEGLGHAT-YEEAQDFNERVLEFL 268
+</PRE>
+
+
+<PRE>
+><a name = 111020339></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=111020339&dopt=GenPept" >gi|111020339|ref|YP_703311.1|</a> probable hydrolase [Rhodococcus sp. RHA1]
+ <a name = 110819869></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110819869&dopt=GenPept" >gi|110819869|gb|ABG95153.1|</a> probable hydrolase [Rhodococcus sp. RHA1]
+          Length = 259
+
+ Score = 64.7 bits (156), Expect = 3e-09,   Method: Composition-based stats.
+ Identities = 53/200 (26%), Positives = 87/200 (43%), Gaps = 17/200 (8%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG 61
+           A   I  + +LG  + ++ G SMGG +AQ +    P  V  LIL  T P G   V++   
+Sbjct: 73  ADDVISVLDSLGVGRAHVYGTSMGGRVAQWVAVRHPERVRALILGCTSPGGTHAVER--- 129
+
+Query: 62  KTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKV---LGRMGMRTKEFADKDMNLSGFL 118
+              +   +A L ++DP R       ++  +E +     L R         D  M     L
+Sbjct: 130 ---SREVRASLAQSDPDR------SRRALLELMYTPEWLSRNPGPYNTLGDPGMPAHAKL 180
+
+Query: 119 TQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGH 178
+             L+A    G D+ D L  I+  TL+++G  D+  P +N+  + E+I +S++ + P A H
+Sbjct: 181 AHLRASN--GHDAWDALPSISAPTLVLHGTDDLLSPADNAPLLAERIPNSRVHLLPGARH 238
+
+Query: 179 GSIFQYADEFSTELIAFLED 198
+               +         I FL +
+Sbjct: 239 AYFEEERTAAGAAAIGFLAE 258
+</PRE>
+
+
+<PRE>
+><a name = 27228520></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=27228520&dopt=GenPept" >gi|27228520|ref|NP_758570.1|</a> meta cleavage compound hydrolase [Pseudomonas resinovorans]
+ <a name = 13094180></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13094180&dopt=GenPept" >gi|13094180|dbj|BAB32769.1|</a> meta-cleavage compound hydrolase [Pseudomonas resinovorans]
+ <a name = 26106108></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26106108&dopt=GenPept" >gi|26106108|dbj|BAC41548.1|</a> meta cleavage compound hydrolase [Pseudomonas resinovorans]
+ <a name = 66775536></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=66775536&dopt=GenPept" >gi|66775536|gb|AAY56342.1|</a> CarC [Pseudomonas sp. XLDN4-9]
+          Length = 290
+
+ Score = 63.5 bits (153), Expect = 7e-09,   Method: Composition-based stats.
+ Identities = 50/204 (24%), Positives = 93/204 (45%), Gaps = 35/204 (17%)
+
+Query: 7   DFVKALGYD-KINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFN 65
+           DF+KA+ +D K++++G SMGG     +  +   LVN L+L G+                 
+Sbjct: 97  DFIKAMNFDGKVSIVGNSMGGATGLGVSVLHSELVNALVLMGS----------------- 139
+
+Query: 66  YMFKAGLE---RTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKE--------FADKDMNL 114
+               AGL      D +  I Y+  ++G +  +K L   G +  +        +A  +   
+Sbjct: 140 ----AGLVVEIHEDLRPIINYDFTREGMVHLVKALTNDGFKIDDAMINSRYTYATDEATR 195
+
+Query: 115 SGFLTQLKAIKRWGKDSQDD--LKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLII 172
+             ++  ++ I+  G    D   ++ +   TL+V+G  D  VP E +Y   + I DS   I
+Sbjct: 196 KAYVATMQWIREQGGLFYDPEFIRKVPVPTLVVHGKDDKVVPVETAYKFLDLIDDSWGYI 255
+
+Query: 173 YPNAGHGSIFQYADEFSTELIAFL 196
+            P+ GH ++ ++ ++F+   ++FL
+Sbjct: 256 IPHCGHWAMIEHPEDFANATLSFL 279
+</PRE>
+
+
+<PRE>
+><a name = 3293062></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=03293062&dopt=GenPept" >gi|3293062|dbj|BAA31270.1|</a> 2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2, 4-dienoate hydrolase
+           [Pseudomonas stutzeri]
+          Length = 290
+
+ Score = 63.2 bits (152), Expect = 9e-09,   Method: Composition-based stats.
+ Identities = 50/204 (24%), Positives = 93/204 (45%), Gaps = 35/204 (17%)
+
+Query: 7   DFVKALGYD-KINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFN 65
+           DF+KA+ +D K++++G SMGG     +  +   LVN L+L G+                 
+Sbjct: 97  DFIKAMNFDGKVSIVGNSMGGATGLGVSVLHSELVNALVLMGS----------------- 139
+
+Query: 66  YMFKAGLE---RTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKE--------FADKDMNL 114
+               AGL      D +  I Y+  ++G +  +K L   G +  +        +A  +   
+Sbjct: 140 ----AGLVVEIHEDLRPIINYDFTREGMVHLVKALTNDGYKIDDAMINSRYTYATDEATR 195
+
+Query: 115 SGFLTQLKAIKRWGKDSQDD--LKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLII 172
+             ++  ++ I+  G    D   ++ +   TL+V+G  D  VP E +Y   + I DS   I
+Sbjct: 196 KAYVATMQWIREQGGLFYDPEFIRKVPVPTLVVHGKDDKVVPVETAYKFLDLIDDSWGYI 255
+
+Query: 173 YPNAGHGSIFQYADEFSTELIAFL 196
+            P+ GH ++ ++ ++F+   ++FL
+Sbjct: 256 IPHCGHWAMIEHPEDFANATLSFL 279
+</PRE>
+
+
+<PRE>
+><a name = 28201210></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28201210&dopt=GenPept" >gi|28201210|dbj|BAC56745.1|</a> meta cleavage compound hydrolase [Janthinobacterium sp. J3]
+          Length = 290
+
+ Score = 63.2 bits (152), Expect = 9e-09,   Method: Composition-based stats.
+ Identities = 50/204 (24%), Positives = 92/204 (45%), Gaps = 35/204 (17%)
+
+Query: 7   DFVKALGYD-KINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFN 65
+           DF+KA+ +D K++++G SMGG     +  +   LVN L+L G+                 
+Sbjct: 97  DFIKAMNFDGKVSIVGNSMGGATGLGVSVLHSELVNALVLMGS----------------- 139
+
+Query: 66  YMFKAGLE---RTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKE--------FADKDMNL 114
+               AGL      D +  I Y+  ++G +  +K L   G +  +        +A  +   
+Sbjct: 140 ----AGLVVEIHEDLRPIINYDFTREGMVHLVKALTNDGFKIDDAMINSRYTYATDEATR 195
+
+Query: 115 SGFLTQLKAIKRWGKDSQDD--LKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLII 172
+             ++  ++ I+  G    D   ++ +   TL+V G  D  VP E +Y   + I DS   I
+Sbjct: 196 KAYVATMQWIREQGGLFYDPEFIRKVQVPTLVVQGKDDKVVPVETAYKFLDLIDDSWGYI 255
+
+Query: 173 YPNAGHGSIFQYADEFSTELIAFL 196
+            P+ GH ++ ++ ++F+   ++FL
+Sbjct: 256 IPHCGHWAMIEHPEDFANATLSFL 279
+</PRE>
+
+
+<PRE>
+><a name = 33357095></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=33357095&dopt=GenPept" >gi|33357095|pdb|1J1I|A</a> Chain A, Crystal Structure Of A His-Tagged Serine Hydrolase
+           Involved In The Carbazole Degradation (Carc Enzyme)
+          Length = 296
+
+ Score = 63.2 bits (152), Expect = 9e-09,   Method: Composition-based stats.
+ Identities = 50/204 (24%), Positives = 92/204 (45%), Gaps = 35/204 (17%)
+
+Query: 7   DFVKALGYD-KINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFN 65
+           DF+KA+ +D K++++G SMGG     +  +   LVN L+L G+                 
+Sbjct: 97  DFIKAMNFDGKVSIVGNSMGGATGLGVSVLHSELVNALVLMGS----------------- 139
+
+Query: 66  YMFKAGLE---RTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKE--------FADKDMNL 114
+               AGL      D +  I Y+  ++G +  +K L   G +  +        +A  +   
+Sbjct: 140 ----AGLVVEIHEDLRPIINYDFTREGMVHLVKALTNDGFKIDDAMINSRYTYATDEATR 195
+
+Query: 115 SGFLTQLKAIKRWGKDSQDD--LKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLII 172
+             ++  ++ I+  G    D   ++ +   TL+V G  D  VP E +Y   + I DS   I
+Sbjct: 196 KAYVATMQWIREQGGLFYDPEFIRKVQVPTLVVQGKDDKVVPVETAYKFLDLIDDSWGYI 255
+
+Query: 173 YPNAGHGSIFQYADEFSTELIAFL 196
+            P+ GH ++ ++ ++F+   ++FL
+Sbjct: 256 IPHCGHWAMIEHPEDFANATLSFL 279
+</PRE>
+
+
+<PRE>
+><a name = 150388160></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=150388160&dopt=GenPept" >gi|150388160|ref|YP_001318209.1|</a> alpha/beta hydrolase fold [Alkaliphilus metalliredigens QYMF]
+ <a name = 149948022></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=149948022&dopt=GenPept" >gi|149948022|gb|ABR46550.1|</a> alpha/beta hydrolase fold [Alkaliphilus metalliredigens QYMF]
+          Length = 272
+
+ Score = 62.4 bits (150), Expect = 1e-08,   Method: Composition-based stats.
+ Identities = 56/194 (28%), Positives = 86/194 (44%), Gaps = 36/194 (18%)
+
+Query: 19  LLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPR--------------GGKEVDKVTGKTF 64
+           +LG+S GG +A  +    P +V  LILA T  R              G K  D   G+TF
+Sbjct: 91  VLGISYGGQVAMMLALAYPEMVRGLILANTMSRFTPYLRAIGAAWDEGAKLQD---GETF 147
+
+Query: 65  NYMFKAGLERTDPKRY--IFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLK 122
+              FK  +    P  Y  +FY   +Q   +  +  G+    T ++  + + LS  L    
+Sbjct: 148 ---FKLAM----PLIYSDVFYERKEQWLQDRAREFGKAA--TAQWFQRYLRLSSSLE--- 195
+
+Query: 123 AIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIF 182
+                G D    +  I   TL++  DKD+  P E    +H KIK+S  ++ P AGH S +
+Sbjct: 196 -----GYDISGKIHSIEVPTLVIASDKDVVTPYEELLMIHRKIKNSLFVMLPEAGHASCY 250
+
+Query: 183 QYADEFSTELIAFL 196
+           +   EF+ +++ FL
+Sbjct: 251 EKMREFNVQVLGFL 264
+</PRE>
+
+
+<PRE>
+><a name = 119714475></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119714475&dopt=GenPept" >gi|119714475|ref|YP_921440.1|</a> alpha/beta hydrolase fold [Nocardioides sp. JS614]
+ <a name = 119535136></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119535136&dopt=GenPept" >gi|119535136|gb|ABL79753.1|</a> alpha/beta hydrolase fold [Nocardioides sp. JS614]
+          Length = 291
+
+ Score = 62.0 bits (149), Expect = 2e-08,   Method: Composition-based stats.
+ Identities = 54/198 (27%), Positives = 88/198 (44%), Gaps = 17/198 (8%)
+
+Query: 6   IDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFN 65
+           +  + ALG  ++ ++G SMGGM +  + +++P LV +++L G+G   G        K   
+Sbjct: 102 LQMLDALGVSRVTVVGNSMGGMYSLRLCQLRPDLVEKMVLMGSGGMPGLAPTPQLIKLVT 161
+
+Query: 66  YMFKAGLERTDPKRYIFYNHDKQG---KIEALKVLGRMGMRTK---EFADKDMNLSGFLT 119
+           +     LE        F  HDK     +IE     GRM + T+   E A + M   G + 
+Sbjct: 162 FFDDPSLEAMTALLTEFV-HDKTAFGDRIEDFAA-GRMALVTRPEIETAHRAMFGEGEML 219
+
+Query: 120 QLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHG 179
+                      S  +L  +   TL+V+G +D+ VP E S  + E +  + L +  N GH 
+Sbjct: 220 SF---------SPAELARLDVPTLVVHGRQDVIVPIECSLYLAEHLPQADLYVMNNCGHW 270
+
+Query: 180 SIFQYADEFSTELIAFLE 197
+           +  +  D F T L  F +
+Sbjct: 271 TQVEQPDRFRTILRDFAD 288
+</PRE>
+
+
+<PRE>
+><a name = 115279619></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115279619&dopt=GenPept" >gi|115279619|gb|ABI85303.1|</a> meta-cleavage pathway hydrolase protein [Sphingomonas wittichii
+           RW1]
+          Length = 279
+
+ Score = 61.6 bits (148), Expect = 2e-08,   Method: Composition-based stats.
+ Identities = 55/201 (27%), Positives = 82/201 (40%), Gaps = 23/201 (11%)
+
+Query: 6   IDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFN 65
+           I F+KALG  KI L+G SMGG  A       P L++RL+L G       + D V      
+Sbjct: 88  ISFIKALGLSKICLIGNSMGGTTACGAALKAPELIDRLVLMGAAVNISPD-DMVA----- 141
+
+Query: 66  YMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIK 125
+                   R D    + Y+  ++G  + +  L      T +        S   T   A K
+Sbjct: 142 -------NRDDLAAVMSYDGSEEGMRKIIAALTHSYQPTDDIVHYRHEASLRPTTTAAYK 194
+
+Query: 126 R---WGKD-----SQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLI--IYPN 175
+               W K      S + L  +T   L++ G  D+ VP     D    I  ++ I  ++PN
+Sbjct: 195 ATMGWAKQNGLYYSPEQLASLTMPVLVLGGKNDVMVPVRKVIDQILAIPQAQAIGHVFPN 254
+
+Query: 176 AGHGSIFQYADEFSTELIAFL 196
+            GH  + +Y +EF T+ + F 
+Sbjct: 255 CGHWVMIEYPEEFCTQTLHFF 275
+</PRE>
+
+
+<PRE>
+><a name = 149184741></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=149184741&dopt=GenPept" >gi|149184741|ref|ZP_01863059.1|</a> Poly(3-hydroxyalkanoate) depolymerase [Erythrobacter sp. SD-21]
+ <a name = 148832061></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148832061&dopt=GenPept" >gi|148832061|gb|EDL50494.1|</a> Poly(3-hydroxyalkanoate) depolymerase [Erythrobacter sp. SD-21]
+          Length = 290
+
+ Score = 61.2 bits (147), Expect = 3e-08,   Method: Composition-based stats.
+ Identities = 58/203 (28%), Positives = 91/203 (44%), Gaps = 26/203 (12%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG 61
+           A Q +D    LG D+++++G+S GG +AQ      P    RL+L  T            G
+Sbjct: 95  ATQILD---QLGVDEVDVMGVSWGGAMAQHFALQHPGRTRRLVLVAT----------TAG 141
+
+Query: 62  KTFNYMFKAGLER-TDPKRYIFYNHDKQGKIEALKVL-GRMGMRTKEFAD-----KDMNL 114
+                   A L +  +P+RY+    D +   E   +L G M  R     D     K  + 
+Sbjct: 142 MLMVPGNPAALSKMANPRRYV----DSKFMNEHFMMLYGGMTKRPGSKEDHIGRLKPPSP 197
+
+Query: 115 SGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYP 174
+            G+L QL A+  W   S   L F+ +  LI+ GD+D  VP  N   ++  I++S+L ++ 
+Sbjct: 198 RGYLYQLVAMLGW--TSLPGLPFMNKEVLIMMGDEDQIVPLVNGKILNTMIRNSRLEVFK 255
+
+Query: 175 NAGHGSIFQYADEFSTELIAFLE 197
+             GH  +  +ADE    +  FL+
+Sbjct: 256 GGGHLFLLTHADESVASIRFFLD 278
+</PRE>
+
+
+<PRE>
+><a name = 148555961></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148555961&dopt=GenPept" >gi|148555961|ref|YP_001263543.1|</a> alpha/beta hydrolase fold [Sphingomonas wittichii RW1]
+ <a name = 148501151></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148501151&dopt=GenPept" >gi|148501151|gb|ABQ69405.1|</a> alpha/beta hydrolase fold [Sphingomonas wittichii RW1]
+          Length = 277
+
+ Score = 61.2 bits (147), Expect = 3e-08,   Method: Composition-based stats.
+ Identities = 54/199 (27%), Positives = 80/199 (40%), Gaps = 21/199 (10%)
+
+Query: 6   IDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFN 65
+           I F+KALG  KI L+G SMGG  A       P L++RL+L G       + D V      
+Sbjct: 88  ISFIKALGLSKICLIGNSMGGTTACGAALKAPELIDRLVLMGAAVNISPD-DMVA----- 141
+
+Query: 66  YMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIK 125
+                   R D    + Y+  ++G  + +  L      T +        S   T   A K
+Sbjct: 142 -------NRDDLAAVMSYDGSEEGMRKIIAALTHSYQPTDDIVHYRHEASLRPTTTAAYK 194
+
+Query: 126 R---WGKD-----SQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAG 177
+               W K      S + L  +T   L++ G  D+ VP     D    I  +   ++PN G
+Sbjct: 195 ATMGWAKQNGLYYSPEQLASLTMPVLVLGGKNDVMVPVRKVIDQILAIPQAIGHVFPNCG 254
+
+Query: 178 HGSIFQYADEFSTELIAFL 196
+           H  + +Y +EF T+ + F 
+Sbjct: 255 HWVMIEYPEEFCTQTLHFF 273
+</PRE>
+
+
+<PRE>
+><a name = 119504439></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119504439&dopt=GenPept" >gi|119504439|ref|ZP_01626519.1|</a> probable hydrolase [marine gamma proteobacterium HTCC2080]
+ <a name = 119459947></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119459947&dopt=GenPept" >gi|119459947|gb|EAW41042.1|</a> probable hydrolase [marine gamma proteobacterium HTCC2080]
+          Length = 308
+
+ Score = 60.8 bits (146), Expect = 4e-08,   Method: Composition-based stats.
+ Identities = 55/189 (29%), Positives = 85/189 (44%), Gaps = 23/189 (12%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRL--ILAGTG----PRGGK 54
+           MA   I  + AL  D+ +++G+SMGGMI+Q +    P  V  L  I++ +G    PR  K
+Sbjct: 98  MANDAIGLMDALNLDQAHVVGVSMGGMISQILAAKHPARVLSLTSIMSSSGDPNLPRARK 157
+
+Query: 55  EVDKVTGKTFNYMFKAGLERT-DPKRYI----FYNHDKQGKIEALKVLGRMGMRTKEFAD 109
+           +V +   K +    K  LE T D +R I    F   D           G +  +      
+Sbjct: 158 QVTRALLKRYLGFVKPSLESTMDFQRLIGSPGFPQDD-----------GELEEKVTAAFQ 206
+
+Query: 110 KDMNLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSK 169
+           +    +GF   + AI   G    D LK IT  +L+++G  D+ VP     D  ++I +++
+Sbjct: 207 RSFYPAGFARHMAAIMASGS-RVDLLKTITAPSLVIHGSDDVLVPVACGIDTAKQISNAR 265
+
+Query: 170 LIIYPNAGH 178
+           L I    GH
+Sbjct: 266 LEIIEGMGH 274
+</PRE>
+
+
+<PRE>
+><a name = 156744003></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156744003&dopt=GenPept" >gi|156744003|ref|YP_001434132.1|</a> alpha/beta hydrolase fold [Roseiflexus castenholzii DSM 13941]
+ <a name = 156235331></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156235331&dopt=GenPept" >gi|156235331|gb|ABU60114.1|</a> alpha/beta hydrolase fold [Roseiflexus castenholzii DSM 13941]
+          Length = 284
+
+ Score = 60.8 bits (146), Expect = 4e-08,   Method: Composition-based stats.
+ Identities = 47/196 (23%), Positives = 84/196 (42%), Gaps = 13/196 (6%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG 61
+           ++Q I F+ ALG DK+ L+G SMGGM+A +     PT + +++  G           + G
+Sbjct: 72  SRQVIRFLDALGIDKVMLVGHSMGGMVALKTALDAPTRIAKVVTVGA---------PIVG 122
+
+Query: 62  KTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMG-MRTKEFADKDMNLSGFLTQ 120
+            + ++  K    R  P    F N     +      LG       +E  D  +  S    Q
+Sbjct: 123 DSLSWFLKLMYYR--PIANTFANAPWLRRFLFRHFLGETSDPAVQEILDDSLKSSAVTLQ 180
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+                    D + ++  +    LIV+G +D ++   N  D+   +  +++++ P + H  
+Sbjct: 181 RSIASMLHTDLRPEIGRLAVPALIVHGGRD-EIVNPNQADLFHHVPPAQVVVMPKSRHFP 239
+
+Query: 181 IFQYADEFSTELIAFL 196
+                D+F+T L+ FL
+Sbjct: 240 FLDEPDQFNTLLLGFL 255
+</PRE>
+
+
+<PRE>
+><a name = 156408708></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156408708&dopt=GenPept" >gi|156408708|ref|XP_001641998.1|</a> predicted protein [Nematostella vectensis]
+ <a name = 156229139></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156229139&dopt=GenPept" >gi|156229139|gb|EDO49935.1|</a> predicted protein [Nematostella vectensis]
+          Length = 250
+
+ Score = 60.1 bits (144), Expect = 7e-08,   Method: Composition-based stats.
+ Identities = 61/193 (31%), Positives = 90/193 (46%), Gaps = 28/193 (14%)
+
+Query: 8   FVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFNYM 67
+            +K LGY K +LLG S GG+ A             +ILA T P+  + +  V   + +Y+
+Sbjct: 78  LMKVLGYSKYSLLGWSDGGIAA-------------MILAYTNPKNVQSM--VVWGSNSYI 122
+
+Query: 68  FKAGLERTDPKRYI-FYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAI-- 124
+            K  LE  +P R    +N   +  +EA  V G  G+       K+M  SG+L     I  
+Sbjct: 123 TKEDLEMLEPTRDTSAWNPKMRDPLEA--VYGAEGL-------KNM-WSGWLDAFTRIYN 172
+
+Query: 125 KRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQY 184
+           K+ G   +D L  I   TLIV+G KD  VP  +   +H+ I  S L + P+  H    +Y
+Sbjct: 173 KKGGNLCKDYLPMIWCPTLIVHGVKDPLVPMFHPEYLHKHIPGSTLHLMPDGRHNLHLRY 232
+
+Query: 185 ADEFSTELIAFLE 197
+             EF+  +  FL+
+Sbjct: 233 EHEFNNLVTDFLK 245
+</PRE>
+
+
+<PRE>
+><a name = 116750396></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116750396&dopt=GenPept" >gi|116750396|ref|YP_847083.1|</a> 3-oxoadipate enol-lactonase [Syntrophobacter fumaroxidans MPOB]
+ <a name = 116750438></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116750438&dopt=GenPept" >gi|116750438|ref|YP_847125.1|</a> 3-oxoadipate enol-lactonase [Syntrophobacter fumaroxidans MPOB]
+ <a name = 116699460></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116699460&dopt=GenPept" >gi|116699460|gb|ABK18648.1|</a> 3-oxoadipate enol-lactonase [Syntrophobacter fumaroxidans MPOB]
+ <a name = 116699502></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=116699502&dopt=GenPept" >gi|116699502|gb|ABK18690.1|</a> 3-oxoadipate enol-lactonase [Syntrophobacter fumaroxidans MPOB]
+          Length = 260
+
+ Score = 59.7 bits (143), Expect = 8e-08,   Method: Composition-based stats.
+ Identities = 52/199 (26%), Positives = 92/199 (46%), Gaps = 14/199 (7%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           ++   I  +  L   + + +GLS+GGMI Q +    P  ++RL+L  T  R   E   V 
+Sbjct: 72  LSSDVIGLLDHLDIARTHFVGLSLGGMIGQVLAVGYPERLDRLVLCDTSNRMPSETAPVW 131
+
+Query: 61  G---KTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGF 117
+               +T        L R   +R+ F    ++ + +A + +  M +RT         ++G+
+Sbjct: 132 EERIRTAETQGMTALARETLERW-FSEAFRRDQPQATERIRNMIVRTP--------VAGY 182
+
+Query: 118 LTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAG 177
+               +AI R+  D   +L  +   TLI+ G+KD   P   +  +  +I+ S+L + P A 
+Sbjct: 183 TGCCRAISRF--DLSGELSRVKVPTLIMVGEKDEGTPVSAAETIQRQIEGSELFVIPGAL 240
+
+Query: 178 HGSIFQYADEFSTELIAFL 196
+           H S  + A  F+  L++FL
+Sbjct: 241 HLSNIEGAAHFNRRLLSFL 259
+</PRE>
+
+
+<PRE>
+><a name = 72389234></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=72389234&dopt=GenPept" >gi|72389234|ref|XP_844912.1|</a> hydrolase, alpha/beta fold family, putative [Trypanosoma brucei
+           TREU927]
+ <a name = 62360019></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=62360019&dopt=GenPept" >gi|62360019|gb|AAX80442.1|</a> hydrolase, alpha/beta fold family, putative [Trypanosoma brucei]
+ <a name = 70801446></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=70801446&dopt=GenPept" >gi|70801446|gb|AAZ11353.1|</a> hydrolase, alpha/beta fold family, putative [Trypanosoma brucei]
+          Length = 312
+
+ Score = 59.7 bits (143), Expect = 1e-07,   Method: Composition-based stats.
+ Identities = 61/193 (31%), Positives = 89/193 (46%), Gaps = 28/193 (14%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIK-PTLVNRLILAGTGPRGGKEVDKV 59
+           MA   ++ + ALG ++ +++G SMGGMIAQ I+ IK P+ V  L +  +     K V + 
+Sbjct: 108 MAADGMNLLTALGIERAHVVGSSMGGMIAQ-IMAIKYPSRVRSLGIIYSHTGSSKRVPET 166
+
+Query: 60  TGKTFNYM-------------FKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKE 106
+                 +M             FK  L R    R   YN D++   E  K+      R  +
+Sbjct: 167 FSTKLLFMKKPKSSALEDVVDFKCALARH--FRGPGYNVDEE---EFRKLAKEQLERAND 221
+
+Query: 107 FADKDMNLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKI- 165
+           +        G L QL AI    K  ++ LK IT  TLI++G  D  VP +N   + E + 
+Sbjct: 222 YP------QGMLRQLAAILS-AKSREECLKTITIPTLIIHGMLDEVVPYQNGLQIAEAVG 274
+
+Query: 166 KDSKLIIYPNAGH 178
+             +KL+IYP  GH
+Sbjct: 275 PAAKLVIYPRMGH 287
+</PRE>
+
+
+<PRE>
+><a name = 68053895></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=68053895&dopt=GenPept" >gi|68053895|ref|ZP_00538060.1|</a> Alpha/beta hydrolase fold [Exiguobacterium sibiricum 255-15]
+ <a name = 68009673></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=68009673&dopt=GenPept" >gi|68009673|gb|EAM88883.1|</a> Alpha/beta hydrolase fold [Exiguobacterium sibiricum 255-15]
+          Length = 272
+
+ Score = 59.3 bits (142), Expect = 1e-07,   Method: Composition-based stats.
+ Identities = 56/205 (27%), Positives = 91/205 (44%), Gaps = 19/205 (9%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIA-QEIIRIKPTLVNRLILAGTGPRGGKEVDKV 59
+           MA    + ++ L    + LLG SMGG IA + ++    + V++LILAG       + D  
+Sbjct: 74  MASDINEVIQQLKLTNVTLLGFSMGGGIALKYLLNHGESNVSKLILAGAAAPIFTQRD-- 131
+
+Query: 60  TGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKE-------FADKDM 112
+                 Y +    E  D          KQ +   LK  G +    +        F +  +
+Sbjct: 132 -----GYPYGMKKEEVDA----LIEDTKQDRPSMLKGFGEIFFAKEHPEPLLQWFHNLSV 182
+
+Query: 113 NLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLII 172
+           + S   T   AI    +D +D L  I+  TLI++G KD   P E +  MH+ I  S+L +
+Sbjct: 183 DASSHGTIQSAIALRDEDLRDGLPKISVDTLIMHGKKDQVCPFEFAEVMHKNINGSRLEV 242
+
+Query: 173 YPNAGHGSIFQYADEFSTELIAFLE 197
+           +  +GHG      ++F+  L+A+L+
+Sbjct: 243 FEESGHGMFLDEREKFTETLVAYLK 267
+</PRE>
+
+
+<PRE>
+><a name = 71083963></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71083963&dopt=GenPept" >gi|71083963|ref|YP_266683.1|</a> alpha/beta hydrolase fold [Candidatus Pelagibacter ubique HTCC1062]
+ <a name = 71063076></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71063076&dopt=GenPept" >gi|71063076|gb|AAZ22079.1|</a> alpha/beta hydrolase fold [Candidatus Pelagibacter ubique HTCC1062]
+          Length = 244
+
+ Score = 59.3 bits (142), Expect = 1e-07,   Method: Composition-based stats.
+ Identities = 61/210 (29%), Positives = 91/210 (43%), Gaps = 36/210 (17%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRG-------- 52
+           MAK  +  ++    ++  LLG SMGGMI QE+ ++    + +LI  GTGPRG        
+Sbjct: 56  MAKSILTSLEKKKIERFYLLGHSMGGMIVQEMAKLAGEKILKLICYGTGPRGNIPGRFET 115
+
+Query: 53  ---GKEVDKVTG--KTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEF 107
+               ++  K+ G   T   + K      D  +Y FY  ++ GK  +L           E 
+Sbjct: 116 IDVSRDKLKINGLDNTAYRIAKTWFIEEDKSKY-FYLCEEAGKQTSL-----------EA 163
+
+Query: 108 ADKDMNLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKD 167
+           AD           L A+K W     ++LK I   TLI+ GD+D          + E I +
+Sbjct: 164 AD---------NALVAMKNW--SGIENLKNIKNETLIIWGDQDKAYNFNQVETLKENIIN 212
+
+Query: 168 SKLIIYPNAGHGSIFQYADEFSTELIAFLE 197
+           S+L I     H    +  DEF+T +  FL+
+Sbjct: 213 SELRIVNGCSHNVHLEKPDEFNTIVSEFLK 242
+</PRE>
+
+
+<PRE>
+><a name = 114769483></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114769483&dopt=GenPept" >gi|114769483|ref|ZP_01447109.1|</a> hydrolase, alpha/beta fold family protein [alpha proteobacterium
+           HTCC2255]
+ <a name = 114550400></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=114550400&dopt=GenPept" >gi|114550400|gb|EAU53281.1|</a> hydrolase, alpha/beta fold family protein [alpha proteobacterium
+           HTCC2255]
+          Length = 231
+
+ Score = 58.9 bits (141), Expect = 1e-07,   Method: Composition-based stats.
+ Identities = 53/189 (28%), Positives = 83/189 (43%), Gaps = 25/189 (13%)
+
+Query: 19  LLGLSMGGMIAQEIIRIKPTLVNRLILAGTGP---------RGGKEVDKVTGKTFNYMFK 69
+           L GLSMGG++A EI+   P  V RL L  T P         R G ++D +       + +
+Sbjct: 58  LAGLSMGGIVAMEIVSQAPERVERLALLDTNPLAELPDVLKRRGPQIDAIKNGQLKEIIR 117
+
+Query: 70  AGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIKRWGK 129
+             ++      Y+F   D   K E LK+   M +        D+    F+ Q  A+ R   
+Sbjct: 118 DEMK----PNYLF---DGVRKTEILKLCMDMAL--------DIGPDAFIRQSIAL-RDRV 161
+
+Query: 130 DSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQYADEFS 189
+           D ++ L    +  L++ G  D+  P E    MH  +++SKL I  +AGH    +     +
+Sbjct: 162 DQKNTLGSYKRPALVLCGRHDVLCPLERHELMHTLLENSKLEIIEDAGHLPTLEQPKITT 221
+
+Query: 190 TELIAFLED 198
+             L ++LED
+Sbjct: 222 MALASWLED 230
+</PRE>
+
+
+<PRE>
+><a name = 39934352></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=39934352&dopt=GenPept" >gi|39934352|ref|NP_946628.1|</a> possible beta-ketoadipate enol-lactone hydrolase [Rhodopseudomonas
+           palustris CGA009]
+ <a name = 39648201></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=39648201&dopt=GenPept" >gi|39648201|emb|CAE26720.1|</a> possible beta-ketoadipate enol-lactone hydrolase [Rhodopseudomonas
+           palustris CGA009]
+          Length = 234
+
+ Score = 58.9 bits (141), Expect = 2e-07,   Method: Composition-based stats.
+ Identities = 50/168 (29%), Positives = 75/168 (44%), Gaps = 17/168 (10%)
+
+Query: 16  KINLLGLSMGGMIAQEIIRIKPTLVNRLILAGT-----GPRGGKEVDKVTGKTFNYMFKA 70
+           +  L G SMGG IA EI+R  P  V +L L  T      P   +   +  G+       A
+Sbjct: 59  RFALAGHSMGGYIAFEIMRQAPDRVAKLALINTQALPDSPEATERRTRQIGEAEAGRLHA 118
+
+Query: 71  GLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIKRWGKD 130
+            L+   P    F +  ++       V+  MG         D+  +GF+ Q +AI     D
+Sbjct: 119 VLDELYPG---FVHPSRRDDAVLRTVVHEMG--------DDVGAAGFVRQQRAIIA-RTD 166
+
+Query: 131 SQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGH 178
+           S+  L  I   TL+++GD D  +P   S +M + I  +KL+I P+ GH
+Sbjct: 167 SRHTLGTIGCPTLVISGDTDTTIPNSLSQEMADGITGAKLLIIPDCGH 214
+</PRE>
+
+
+<PRE>
+><a name = 73539032></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=73539032&dopt=GenPept" >gi|73539032|ref|YP_299399.1|</a> Alpha/beta hydrolase fold [Ralstonia eutropha JMP134]
+ <a name = 72122369></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=72122369&dopt=GenPept" >gi|72122369|gb|AAZ64555.1|</a> Alpha/beta hydrolase fold [Ralstonia eutropha JMP134]
+          Length = 273
+
+ Score = 58.9 bits (141), Expect = 2e-07,   Method: Composition-based stats.
+ Identities = 42/117 (35%), Positives = 64/117 (54%), Gaps = 10/117 (8%)
+
+Query: 82  FYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIKRWGK-DSQDDLKFITQ 140
+           FY +++ G   +  V+       +EF  + M   G L Q + I+++ + D  +DLK I  
+Sbjct: 163 FYGYNRSGAKPSQGVI-------QEFWRQGM-AGGVLGQYECIRQFSEVDYTEDLKKIDV 214
+
+Query: 141 ATLIVNGDKDMQVPTENSYDMHEKI-KDSKLIIYPNAGHGSIFQYADEFSTELIAFL 196
+            TL+++GD D  VP + S  M  KI K++ L IYP A HG     ADE + +L+AFL
+Sbjct: 215 PTLVLHGDDDQIVPIDASAKMTAKIVKNATLKIYPGASHGLCTVNADEVNADLLAFL 271
+</PRE>
+
+
+<PRE>
+><a name = 148927865></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148927865&dopt=GenPept" >gi|148927865|ref|ZP_01811282.1|</a> alpha/beta hydrolase fold [candidate division TM7 genomosp. GTL1]
+ <a name = 147886787></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=147886787&dopt=GenPept" >gi|147886787|gb|EDK72340.1|</a> alpha/beta hydrolase fold [candidate division TM7 genomosp. GTL1]
+          Length = 261
+
+ Score = 58.5 bits (140), Expect = 2e-07,   Method: Composition-based stats.
+ Identities = 49/184 (26%), Positives = 84/184 (45%), Gaps = 17/184 (9%)
+
+Query: 7   DFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAG-------TGPRGGKEVDKV 59
+           +F+K LG +   +LG S G +IA       P+L ++LIL          GPRG      +
+Sbjct: 63  NFIKGLGIESAIVLGHSFGSIIAAHFAAKYPSLASKLILVNPIASPPLKGPRG-----IM 117
+
+Query: 60  TGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGR-MGMRTKEFADKDMNLSGFL 118
+           +G T  Y +  G       R    +      + AL    R   +R K  ++   + S F 
+Sbjct: 118 SGLTLAYYWVGGKLPPRVSRKWLSHPMIVLTMSALLTKTRDNSLRQKIHSEHLTHFSSFQ 177
+
+Query: 119 TQLKAIKRW----GKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYP 174
+           T+   ++ +      ++ +  + I+  TL++ GD+D   P ++ Y++   IKDS+L+I P
+Sbjct: 178 TRAVVLESFYASIHHNALEKAEKISVPTLLIAGDQDEIAPLKDQYELKHAIKDSQLVIVP 237
+
+Query: 175 NAGH 178
+             GH
+Sbjct: 238 GVGH 241
+</PRE>
+
+
+<PRE>
+><a name = 125901810></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=125901810&dopt=GenPept" >gi|125901810|gb|ABN58716.1|</a> esterase [uncultured organism]
+          Length = 270
+
+ Score = 58.5 bits (140), Expect = 2e-07,   Method: Composition-based stats.
+ Identities = 50/210 (23%), Positives = 91/210 (43%), Gaps = 36/210 (17%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA  T  F+K L     +++G+SMGG +A ++    P LV++L+L  T  R         
+Sbjct: 80  MADDTAIFLKKLNAHPAHVVGISMGGTVALQLALDHPELVSKLVLVNTFAR--------- 130
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIF----------YNHDKQGKIEALKVLGRMGMRTKEFADK 110
+                      L+ T PK  ++             +KQ ++ A +V    G  T     +
+Sbjct: 131 -----------LKFTSPKEVLYLLTRLLVASLMGPEKQAEMVARRVFPHPGQETLRNNLR 179
+
+Query: 111 D----MNLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIK 166
+                 N   + + L++++++  D    LK +    L++ G +D  VP +   +M + I 
+Sbjct: 180 QRILHTNPYSYRSALQSLQKF--DVSHRLKELKMPVLVITGAEDTTVPPKVQEEMAKAIP 237
+
+Query: 167 DSKLIIYPNAGHGSIFQYADEFSTELIAFL 196
+           +++ ++   +GHG I      F+  LI FL
+Sbjct: 238 NARHVVVEGSGHGIIADNPQTFNRILIEFL 267
+</PRE>
+
+
+<PRE>
+><a name = 118050518></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118050518&dopt=GenPept" >gi|118050518|ref|ZP_01519068.1|</a> alpha/beta hydrolase fold [Comamonas testosteroni KF-1]
+ <a name = 118002604></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118002604&dopt=GenPept" >gi|118002604|gb|EAV16758.1|</a> alpha/beta hydrolase fold [Comamonas testosteroni KF-1]
+          Length = 220
+
+ Score = 58.2 bits (139), Expect = 3e-07,   Method: Composition-based stats.
+ Identities = 62/208 (29%), Positives = 96/208 (46%), Gaps = 36/208 (17%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKE----- 55
+           MA+ TI  + A  +D   ++G SMGG +A+EI R+ P  V +L+L  T  RG  E     
+Sbjct: 34  MAQHTIGMIPAGPFD---VVGFSMGGYVAREIARLAPDRVRQLVLIATSSRGDTELQARR 90
+
+Query: 56  -VDKVTG--KTFNYMFKAGLERT-DPKRYIFYNHDKQ--GKIEALKVLGRMGMRTKEFAD 109
+            VD      KTF  + +  + ++  P+R      D+Q   +I A+ V             
+Sbjct: 91  KVDAAMAAPKTFAGVNRRAIRQSLAPQR----EQDEQLVDRIHAMSV------------- 133
+
+Query: 110 KDMNLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSK 169
+               L G   + +A+ R   D+ D L  I   TLI+ G++D     + S ++H+ I+ S+
+Sbjct: 134 ---RLGGDTFRRQALLRREGDT-DRLSEIRCPTLILAGEQDRLRGLDESMELHQGIRGSE 189
+
+Query: 170 LIIYPNAGHGSIFQYADEFSTELIAFLE 197
+           L I  NAGH    +   E    L  FL+
+Sbjct: 190 LKII-NAGHMLPMEAPTETQAMLAKFLQ 216
+</PRE>
+
+
+<PRE>
+><a name = 145622517></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145622517&dopt=GenPept" >gi|145622517|ref|ZP_01778475.1|</a> alpha/beta hydrolase fold [Petrotoga mobilis SJ95]
+ <a name = 144947042></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=144947042&dopt=GenPept" >gi|144947042|gb|EDJ82076.1|</a> alpha/beta hydrolase fold [Petrotoga mobilis SJ95]
+          Length = 263
+
+ Score = 58.2 bits (139), Expect = 3e-07,   Method: Composition-based stats.
+ Identities = 50/202 (24%), Positives = 93/202 (46%), Gaps = 26/202 (12%)
+
+Query: 8   FVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFNYM 67
+            +  LG  K+NL+G+S G  IA+      P ++++L+L+         +D    K+    
+Sbjct: 76  LIDHLGLKKVNLMGVSYGAQIAELFALKYPEMIDKLVLSN----ATDHIDNYL-KSIGQA 130
+
+Query: 68  FKAGLERTDPKRYI-----------FYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSG 116
+           +K   E  D +++            FYN++ +  +   KV        KE   KD    G
+Sbjct: 131 WKVAAELYDGEKFFDISLPYIYSRPFYNNNYEWLMNRRKVF-------KETLTKDW-FDG 182
+
+Query: 117 FLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNA 176
+           F+    + + +  D ++++  IT  TL ++G++D+  P  +  +M +K+K+S L    N 
+Sbjct: 183 FVRLASSNETF--DIRNEISNITAKTLFISGEEDIITPKSHIIEMSKKVKNSLLANLENT 240
+
+Query: 177 GHGSIFQYADEFSTELIAFLED 198
+           GH   F+  +EF   + AF  +
+Sbjct: 241 GHALFFEKFEEFCLLVEAFFNN 262
+</PRE>
+
+
+<PRE>
+><a name = 91762968></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91762968&dopt=GenPept" >gi|91762968|ref|ZP_01264933.1|</a> alpha/beta hydrolase fold protein [Candidatus Pelagibacter ubique
+           HTCC1002]
+ <a name = 91718770></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=91718770&dopt=GenPept" >gi|91718770|gb|EAS85420.1|</a> alpha/beta hydrolase fold protein [Candidatus Pelagibacter ubique
+           HTCC1002]
+          Length = 252
+
+ Score = 57.8 bits (138), Expect = 4e-07,   Method: Composition-based stats.
+ Identities = 59/204 (28%), Positives = 87/204 (42%), Gaps = 24/204 (11%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGG-----KE 55
+           MAK  +  ++    ++  LLG SMGGMI QE+ ++    + +LI  GTGPRG      + 
+Sbjct: 64  MAKSILTSLEKKKIERFYLLGHSMGGMIVQEMAKLAGEKILKLICYGTGPRGNIPGRFET 123
+
+Query: 56  VDKVTGKTFNYMFKAGLERTDPK--RYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMN 113
+           +D    K    +   GL+ T  +  +  F   DK                  E A K  +
+Sbjct: 124 IDASRDK----LKTNGLDNTAYRIAKTWFIEEDKSKYFYLC-----------EEAGKQTS 168
+
+Query: 114 LSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIY 173
+           L      L A+K W     ++LK I   TLI+ GD+D          + E I +S L I 
+Sbjct: 169 LEAADNALVAMKNW--SGIENLKNIKNETLIIWGDQDKAYNFNQVETLKENIINSDLRIV 226
+
+Query: 174 PNAGHGSIFQYADEFSTELIAFLE 197
+               H    +  DEF+T +  FL+
+Sbjct: 227 NGCSHNVHLEKPDEFNTIVSEFLK 250
+</PRE>
+
+
+<PRE>
+><a name = 148655036></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148655036&dopt=GenPept" >gi|148655036|ref|YP_001275241.1|</a> alpha/beta hydrolase fold [Roseiflexus sp. RS-1]
+ <a name = 148567146></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148567146&dopt=GenPept" >gi|148567146|gb|ABQ89291.1|</a> alpha/beta hydrolase fold [Roseiflexus sp. RS-1]
+          Length = 278
+
+ Score = 57.8 bits (138), Expect = 4e-07,   Method: Composition-based stats.
+ Identities = 48/198 (24%), Positives = 84/198 (42%), Gaps = 13/198 (6%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG 61
+           + Q I F+ ALG D++ L+G SMGGM+A +     PT + R++  G  P  G  +  +  
+Sbjct: 72  SNQVIRFLDALGIDRVLLVGHSMGGMVALKTAIDHPTRIARVVTVG-APIVGSSLSWLLK 130
+
+Query: 62  KTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMG-MRTKEFADKDMNLSGFLTQ 120
+            T++      L      R   + H           LG        E  D  +  S    Q
+Sbjct: 131 LTYHRPLADTLAGAPWLRRFLFRH----------FLGETNDPAVHEILDDSLKSSASTLQ 180
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+                    D + +L  +    LIV+G +D ++   N  D+   +  +++++ P + H  
+Sbjct: 181 RSIASMLYTDLRPELPKLAVPALIVHGGRD-EIVNPNQADLFHHVPLAQVVVMPKSRHFP 239
+
+Query: 181 IFQYADEFSTELIAFLED 198
+               A++F+T L+ FL +
+Sbjct: 240 FLDEAEQFNTLLLGFLAN 257
+</PRE>
+
+
+<PRE>
+><a name = 154335278></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=154335278&dopt=GenPept" >gi|154335278|ref|XP_001563879.1|</a> hydrolase, alpha/beta fold family-like protein [Leishmania
+           braziliensis]
+ <a name = 134060908></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=134060908&dopt=GenPept" >gi|134060908|emb|CAM37925.1|</a> hydrolase, alpha/beta fold family-like protein [Leishmania
+           braziliensis]
+          Length = 360
+
+ Score = 57.4 bits (137), Expect = 4e-07,   Method: Composition-based stats.
+ Identities = 55/195 (28%), Positives = 93/195 (47%), Gaps = 33/195 (16%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLIL---AGTGPRGGKE-- 55
+           M +     + ALG   +++LG SMGGMIAQ +    P  V  L +     +GP    +  
+Sbjct: 132 MGRDAWGLLTALGIQSVHVLGTSMGGMIAQCMALQHPERVKSLTIFYTHSSGPHVKPQTW 191
+
+Query: 56  ------VDKVTGKTF----NYMFKA-GLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRT 104
+                 ++K +G +F    N+M     L R D      Y  D+Q     ++ +    + T
+Sbjct: 192 KMSFAMMEKPSGPSFEEQVNFMVHMNSLFRGD------YPQDEQ----EVRSIAAANL-T 240
+
+Query: 105 KEFADKDMNLSGFLTQLKAIKRWGKDSQDDLKFITQ-ATLIVNGDKDMQVPTENSYDMHE 163
+           +  AD D    G + Q+ A++R  +  ++DL+ +    TLIV+G KD  +P EN   +  
+Sbjct: 241 RCPADND----GVMRQIWAVRR-AESRENDLRRLKGIPTLIVHGMKDTMIPFENGVHLAH 295
+
+Query: 164 KIKDSKLIIYPNAGH 178
+            I++S+L+ + + GH
+Sbjct: 296 LIQESRLVAFAHMGH 310
+</PRE>
+
+
+<PRE>
+><a name = 118588518></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118588518&dopt=GenPept" >gi|118588518|ref|ZP_01545927.1|</a> alpha/beta hydrolase fold protein [Stappia aggregata IAM 12614]
+ <a name = 118439224></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118439224&dopt=GenPept" >gi|118439224|gb|EAV45856.1|</a> alpha/beta hydrolase fold protein [Stappia aggregata IAM 12614]
+          Length = 231
+
+ Score = 57.4 bits (137), Expect = 4e-07,   Method: Composition-based stats.
+ Identities = 54/184 (29%), Positives = 82/184 (44%), Gaps = 11/184 (5%)
+
+Query: 15  DKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGK-EVDKVTGKTFNYMFKAGLE 73
+           ++ +L+ LSMGG IA EI+R  P  V RL L  T  R    E  +      +   K G  
+Sbjct: 54  ERFSLITLSMGGYIAMEIMREAPERVARLALLDTNARADTPEQSERRQFLIDLTRKKGFS 113
+
+Query: 74  RTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKA-IKRWGKDSQ 132
+           +     Y  + H+ +   E LK +        E A +D     F+ Q  A I+R   D++
+Sbjct: 114 KVPHLLYPGFVHENREDDEELKAI------VVEMA-QDTGPEAFIRQQTALIQRI--DAR 164
+
+Query: 133 DDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQYADEFSTEL 192
+             L  I   TL++ G+ D   P E S ++H  I  S+L +    GH S  +  ++ +  L
+Sbjct: 165 PRLGEIACPTLVLVGEGDRLTPVEISQEIHSHIPRSELAVIEGCGHLSTLEAPEKVTAVL 224
+
+Query: 193 IAFL 196
+             FL
+Sbjct: 225 RDFL 228
+</PRE>
+
+
+<PRE>
+><a name = 16126995></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16126995&dopt=GenPept" >gi|16126995|ref|NP_421559.1|</a> hydrolase, alpha/beta hydrolase fold family [Caulobacter crescentus
+           CB15]
+ <a name = 13424359></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13424359&dopt=GenPept" >gi|13424359|gb|AAK24727.1|</a> hydrolase, alpha/beta hydrolase fold family [Caulobacter crescentus
+           CB15]
+          Length = 261
+
+ Score = 57.4 bits (137), Expect = 5e-07,   Method: Composition-based stats.
+ Identities = 58/182 (31%), Positives = 80/182 (43%), Gaps = 15/182 (8%)
+
+Query: 19  LLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG--KTFNYMFKAGLERTD 76
+           L GLSMGG +A EI+R  P  V+RL L  T  R     ++  G  K      K G ER  
+Sbjct: 89  LAGLSMGGYLAFEILRQAPERVSRLALICTSARPDTP-EQAAGRRKMVAQAHKVGFERFC 147
+
+Query: 77  PKRYIFYNHDKQGKIEALKVL-GRMGMRTKEFADKDMNLSGFLTQLKAIKRWGK-DSQDD 134
+                   H  +    AL  L  RMG+         + L GF  Q +A+   G+ DS+  
+Sbjct: 148 ALGADALTHPSRKGDPALNALSARMGLA--------VGLEGFARQTEAV--IGRPDSRPL 197
+
+Query: 135 LKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQYADEFSTELIA 194
+           L  I   T I+ GD D   P   S +M   I D++L+I  + GH    +  D  +  + A
+Sbjct: 198 LASIAVPTAIIVGDADPLTPKALSEEMAAMIPDARLVIAEDCGHVITHERPDVVNPAMAA 257
+
+Query: 195 FL 196
+           +L
+Sbjct: 258 WL 259
+</PRE>
+
+
+<PRE>
+><a name = 110638701></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110638701&dopt=GenPept" >gi|110638701|ref|YP_678910.1|</a> hydrolase, alpha/beta fold family [Cytophaga hutchinsonii ATCC
+           33406]
+ <a name = 110281382></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=110281382&dopt=GenPept" >gi|110281382|gb|ABG59568.1|</a> hydrolase, alpha/beta fold family [Cytophaga hutchinsonii ATCC
+           33406]
+          Length = 277
+
+ Score = 57.4 bits (137), Expect = 5e-07,   Method: Composition-based stats.
+ Identities = 57/194 (29%), Positives = 86/194 (44%), Gaps = 12/194 (6%)
+
+Query: 6   IDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGK-EVDKVTGKTF 64
+           I F+ AL  DK  L GLSMGG I    ++  P     LIL+ T       E  +   K  
+Sbjct: 84  IAFMNALHIDKAILCGLSMGGYIVLNAVKKYPERFEALILSDTQCIADTAEAKEKRYKAI 143
+
+Query: 65  NYMFKAGLERTDPK--RYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLK 122
+           + + + G+   + K  + IF+      K E ++ L R+ M++        N    +T++ 
+Sbjct: 144 DEINENGVHAFNEKFIKSIFHTDSLIKKKEVIETL-RINMQS--------NTRRSMTRVL 194
+
+Query: 123 AIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIF 182
+           A      ++  ++  I   TLI+ G +D   P   S  MHE IK S L +  NAGH S  
+Sbjct: 195 AALAERTETCSEIHNIQIPTLIICGREDAVTPLSQSESMHEAIKGSMLRVIDNAGHVSNL 254
+
+Query: 183 QYADEFSTELIAFL 196
+           +    F+  L  FL
+Sbjct: 255 EQPHTFNKHLQEFL 268
+</PRE>
+
+
+<PRE>
+><a name = 152970669></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=152970669&dopt=GenPept" >gi|152970669|ref|YP_001335778.1|</a> 2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase [Klebsiella
+           pneumoniae subsp. pneumoniae MGH 78578]
+ <a name = 150955518></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=150955518&dopt=GenPept" >gi|150955518|gb|ABR77548.1|</a> 2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase [Klebsiella
+           pneumoniae subsp. pneumoniae MGH 78578]
+          Length = 288
+
+ Score = 57.4 bits (137), Expect = 5e-07,   Method: Composition-based stats.
+ Identities = 54/191 (28%), Positives = 81/191 (42%), Gaps = 8/191 (4%)
+
+Query: 9   VKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG---KTFN 65
+           V  LG DK++LLG  MGG  A       P  V +L+L G G  G      +     K  N
+Sbjct: 100 VDQLGIDKVHLLGNLMGGHSAVAFTLSWPERVAKLVLMGGGTGGMSLFTPMPTEGIKLLN 159
+
+Query: 66  YMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIK 125
+            +++        K    +  D +   EAL        R      +  +L  F+  L+A  
+Sbjct: 160 ALYREPTIENLKKMMSIFVFDTRDLTEAL-----FEARLNNMLSRRDHLDNFVKSLEANP 214
+
+Query: 126 RWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQYA 185
+           +   D    L  I+  TLIV G  D  VP +    +   I  S+L IY + GH + +++A
+Sbjct: 215 KQFPDFGPRLGEISAPTLIVWGRNDRFVPMDAGLRLLAGIAGSELHIYRDCGHWAQWEHA 274
+
+Query: 186 DEFSTELIAFL 196
+           D F+  ++ FL
+Sbjct: 275 DSFNQLVLNFL 285
+</PRE>
+
+
+<PRE>
+><a name = 3059193></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=03059193&dopt=GenPept" >gi|3059193|dbj|BAA25612.1|</a> 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase [Rhodococcus
+           erythropolis]
+          Length = 281
+
+ Score = 57.0 bits (136), Expect = 5e-07,   Method: Composition-based stats.
+ Identities = 53/206 (25%), Positives = 89/206 (43%), Gaps = 23/206 (11%)
+
+Query: 6   IDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGT---------GPRGG-KE 55
+           I F+ A+G D+   +G SMGG  A  +    P  ++ L+  G           P  G  E
+Sbjct: 85  IQFLDAVGIDQAAFVGNSMGGQTAIRLATTHPDRISHLVTMGAPMSRGQSMFAPNDGPSE 144
+
+Query: 56  VDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLS 115
+             K+  +T+     A + R      + Y+  +    E  +       R+     +  +L+
+Sbjct: 145 GIKILVQTYRDASAANMRRL--VEIMVYDKGRFATDELCQA------RSDAANTRPDHLT 196
+
+Query: 116 GFLTQL---KAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLII 172
+            F+T L     I  W K   D L  I   TLI++G  D  VP ENS  +   + DS++++
+Sbjct: 197 NFVTGLPDGAPIPIWTK--LDSLAKIAVPTLIIHGRDDRVVPFENSLRLLTSVPDSRMVL 254
+
+Query: 173 YPNAGHGSIFQYADEFSTELIAFLED 198
+               GH +  ++A EF+  +  FL++
+Sbjct: 255 MNRCGHWAQIEHAPEFNRLVTDFLKN 280
+</PRE>
+
+
+<PRE>
+><a name = 86751248></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=86751248&dopt=GenPept" >gi|86751248|ref|YP_487744.1|</a> Alpha/beta hydrolase protein [Rhodopseudomonas palustris HaA2]
+ <a name = 86574276></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=86574276&dopt=GenPept" >gi|86574276|gb|ABD08833.1|</a> Alpha/beta hydrolase protein [Rhodopseudomonas palustris HaA2]
+          Length = 233
+
+ Score = 57.0 bits (136), Expect = 6e-07,   Method: Composition-based stats.
+ Identities = 54/165 (32%), Positives = 74/165 (44%), Gaps = 11/165 (6%)
+
+Query: 16  KINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFNYMFKAG-LER 74
+           +  L G SMGG IA EI+R  P  V RL L  T  R   +  K          +AG L  
+Sbjct: 58  RFALAGHSMGGYIAFEILRQAPERVARLALINTQARPDSDEAKERRTRQIAQAEAGQLHA 117
+
+Query: 75  TDPKRYIFYNHDKQGKIEAL-KVLGRMGMRTKEFADKDMNLSGFLTQLKAIKRWGKDSQD 133
+                Y  + H  + +   L +V+  MG         D+   GF+ Q +AI     DS+ 
+Sbjct: 118 VLDVLYPGFVHPSRCEDARLQRVIHDMG--------DDVGADGFVRQQRAIIARA-DSRP 168
+
+Query: 134 DLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGH 178
+            L  I   TL+++GD D  +P   S +M E I  +KL I P+ GH
+Sbjct: 169 TLATIRCPTLVISGDTDNTIPNSLSQEMAEGIAGAKLEIIPDCGH 213
+</PRE>
+
+
+<PRE>
+><a name = 118743534></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118743534&dopt=GenPept" >gi|118743534|ref|ZP_01591537.1|</a> alpha/beta hydrolase fold [Geobacter lovleyi SZ]
+ <a name = 118683542></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118683542&dopt=GenPept" >gi|118683542|gb|EAV89938.1|</a> alpha/beta hydrolase fold [Geobacter lovleyi SZ]
+          Length = 264
+
+ Score = 57.0 bits (136), Expect = 6e-07,   Method: Composition-based stats.
+ Identities = 50/197 (25%), Positives = 91/197 (46%), Gaps = 4/197 (2%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA      ++ L   +++LLG SMGGM+A E  R  P LV RL+LA T  R     + + 
+Sbjct: 70  MADDCAALIRYLRLTRVSLLGHSMGGMVALECARRHPELVERLLLAATAARNPVR-NNLL 128
+
+Query: 61  GKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQ 120
+            + +  ++ AG +R    R + Y    +   E  ++L         +     + + F  Q
+Sbjct: 129 FQDWADLYDAGCDRAVWFRSLLYWIFTERFFEDQRLLQLTLEYLLNYP-WPQSAAAFRQQ 187
+
+Query: 121 LKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGS 180
+           ++AI  +  D++  L  +   T ++ G+ D  +P E S D+  ++ D+ L +   A H  
+Sbjct: 188 IRAIAAF--DARGWLGQLNVPTCVLAGELDRLMPLEQSNDLVRQLPDAVLTVLQGAPHSL 245
+
+Query: 181 IFQYADEFSTELIAFLE 197
+             +  + F   ++ FL+
+Sbjct: 246 QTEQPELFVRAVVDFLK 262
+</PRE>
+
+
+<PRE>
+><a name = 124898405></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=124898405&dopt=GenPept" >gi|124898405|gb|EAY70248.1|</a> hypothetical protein BDAG_03038 [Burkholderia dolosa AUO158]
+          Length = 343
+
+ Score = 57.0 bits (136), Expect = 6e-07,   Method: Composition-based stats.
+ Identities = 50/209 (23%), Positives = 82/209 (39%), Gaps = 27/209 (12%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLIL------AGTGPRGGK 54
+           MA      +  LG   + ++G SMGG +A +     P    R++L        +  R   
+Sbjct: 139 MASDLNALIDTLGLKDVTVVGWSMGGAVAAQFAVEHPRAAQRIVLMAAPAPGSSAARIAP 198
+
+Query: 55  EVDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNL 114
+           +VD     T    F   +    PK              AL V  R   R   F   D  L
+Sbjct: 199 DVDATLSGTPGTTFDDVMAVLFPK-------------SALPVAERC-FRDAMFVPPDYTL 244
+
+Query: 115 SGFLTQLKA-----IKRWGKDSQ--DDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKD 167
+                 + A     ++ W  D+     L+ ++  TL++ GD D  +P  N+  + + I  
+Sbjct: 245 PDISAPVTAGQSALLRDWANDADAAQSLRRLSLPTLVLAGDDDQVLPRRNAETLADTIAG 304
+
+Query: 168 SKLIIYPNAGHGSIFQYADEFSTELIAFL 196
+           S+L++   AGH  ++QY  E +  + AF+
+Sbjct: 305 SQLLVVRAAGHAMMYQYPRELAAAIDAFI 333
+</PRE>
+
+
+<PRE>
+><a name = 26989523></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=26989523&dopt=GenPept" >gi|26989523|ref|NP_744948.1|</a> hydrolase, alpha/beta fold family [Pseudomonas putida KT2440]
+ <a name = 24984397></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=24984397&dopt=GenPept" >gi|24984397|gb|AAN68412.1|AE016474_1</a> hydrolase, alpha/beta fold family [Pseudomonas putida KT2440]
+          Length = 291
+
+ Score = 57.0 bits (136), Expect = 6e-07,   Method: Composition-based stats.
+ Identities = 53/194 (27%), Positives = 88/194 (45%), Gaps = 31/194 (15%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRL--ILAGTGPRGGKEVDK 58
+           MA   I  + AL  +  +++G+SMGGMIAQ +    P  V+ L  I + TG        +
+Sbjct: 94  MASDVIGLMDALHLEAAHVVGMSMGGMIAQTLAARYPERVSTLTSIFSTTGSL------R 147
+
+Query: 59  VTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTK--EFADKDMNLS- 115
+           V       +FK  L R  P+      +  +   + + ++G +G R +  E A +D  +  
+Sbjct: 148 VGQPALKALFK--LLRRPPR------NQHESVRDYVDIMGLIGSRLEWNEPALRDYAMQA 199
+
+Query: 116 -----------GFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEK 164
+                      G   Q+ AI   G  +Q+ L+ I   TL+++GDKD+ V T   +     
+Sbjct: 200 WPRGGGEASNLGTARQIGAIINSGDRTQE-LQRIRCPTLVIHGDKDLMVATNGGFATASA 258
+
+Query: 165 IKDSKLIIYPNAGH 178
+           I+ + L++ P  GH
+Sbjct: 259 IRGANLVLLPGMGH 272
+</PRE>
+
+
+<PRE>
+><a name = 84360178></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84360178&dopt=GenPept" >gi|84360178|ref|ZP_00984890.1|</a> COG0596: Predicted hydrolases or acyltransferases (alpha/beta
+           hydrolase superfamily) [Burkholderia dolosa AUO158]
+          Length = 312
+
+ Score = 57.0 bits (136), Expect = 6e-07,   Method: Composition-based stats.
+ Identities = 50/209 (23%), Positives = 82/209 (39%), Gaps = 27/209 (12%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLIL------AGTGPRGGK 54
+           MA      +  LG   + ++G SMGG +A +     P    R++L        +  R   
+Sbjct: 108 MASDLNALIDTLGLKDVTVVGWSMGGAVAAQFAVEHPRAAQRIVLMAAPAPGSSAARIAP 167
+
+Query: 55  EVDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNL 114
+           +VD     T    F   +    PK              AL V  R   R   F   D  L
+Sbjct: 168 DVDATLSGTPGTTFDDVMAVLFPK-------------SALPVAERC-FRDAMFVPPDYTL 213
+
+Query: 115 SGFLTQLKA-----IKRWGKDSQ--DDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKD 167
+                 + A     ++ W  D+     L+ ++  TL++ GD D  +P  N+  + + I  
+Sbjct: 214 PDISAPVTAGQSALLRDWANDADAAQSLRRLSLPTLVLAGDDDQVLPRRNAETLADTIAG 273
+
+Query: 168 SKLIIYPNAGHGSIFQYADEFSTELIAFL 196
+           S+L++   AGH  ++QY  E +  + AF+
+Sbjct: 274 SQLLVVRAAGHAMMYQYPRELAAAIDAFI 302
+</PRE>
+
+
+<PRE>
+><a name = 148652589></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148652589&dopt=GenPept" >gi|148652589|ref|YP_001279682.1|</a> alpha/beta hydrolase fold [Psychrobacter sp. PRwf-1]
+ <a name = 148571673></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148571673&dopt=GenPept" >gi|148571673|gb|ABQ93732.1|</a> alpha/beta hydrolase fold [Psychrobacter sp. PRwf-1]
+          Length = 276
+
+ Score = 57.0 bits (136), Expect = 6e-07,   Method: Composition-based stats.
+ Identities = 52/205 (25%), Positives = 90/205 (43%), Gaps = 22/205 (10%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           +A   I  ++AL  DK + +GLSMGG + Q +   +P L+  LIL  T        D   
+Sbjct: 81  LADDAIALLEALDIDKCHFIGLSMGGFVGQRVAIRRPDLLKSLILLET---SADAEDPKK 137
+
+Query: 61  GKTFNYMFKA----GLERTDPKRYIF-----YNHDKQGKIEALKVLGRMGMRTKEFADKD 111
+             ++N + +A    G+ R   K         +  D+  + E    L  +   +K+ A   
+Sbjct: 138 AVSYNKLMRAISWLGIRRVSKKVMPIMFGKTFLSDRTRREEYQLWLSHLNSNSKKGAIHA 197
+
+Query: 112 MNLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLI 171
+               G + + + + + G         IT  TLI+ GD+D+  P + +  +H  I+ SKL 
+Sbjct: 198 TR--GVIQREEVLSKLGD--------ITTPTLILVGDEDVATPYDKAQRIHFAIQGSKLA 247
+
+Query: 172 IYPNAGHGSIFQYADEFSTELIAFL 196
+           +   AGH S  +  ++ +  +  FL
+Sbjct: 248 VIQRAGHTSTVEEPEQVNHNIEWFL 272
+</PRE>
+
+
+<PRE>
+><a name = 146306327></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=146306327&dopt=GenPept" >gi|146306327|ref|YP_001186792.1|</a> alpha/beta hydrolase fold [Pseudomonas mendocina ymp]
+ <a name = 145574528></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145574528&dopt=GenPept" >gi|145574528|gb|ABP84060.1|</a> alpha/beta hydrolase fold [Pseudomonas mendocina ymp]
+          Length = 265
+
+ Score = 56.6 bits (135), Expect = 7e-07,   Method: Composition-based stats.
+ Identities = 49/193 (25%), Positives = 86/193 (44%), Gaps = 17/193 (8%)
+
+Query: 8   FVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDK---VTGKTF 64
+            ++ L    ++L+G+SMGGMI  ++    P L+  L +  +GP    +  +     GK +
+Sbjct: 78  LIEHLQLSPVHLVGISMGGMIGFQLAVDHPELLRTLTIVNSGPEVKAKSPRDWLEIGKRW 137
+
+Query: 65  NYMFKAGLER-TDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKA 123
+                  LE        + +   +Q ++   KV  R     K           +L  L A
+Sbjct: 138 TLARLLSLETIAKALAKLLFPRPEQAELRR-KVEERWPQNDKR---------AYLASLDA 187
+
+Query: 124 IKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQ 183
+           I  WG   ++ LK IT  TL++  D+D   P E   +   ++ D++L++  N+ H +   
+Sbjct: 188 IIGWG--VRERLKRITCPTLVITADQDY-TPVERKREYVAEMPDARLVVIENSRHATPLD 244
+
+Query: 184 YADEFSTELIAFL 196
+             + F+T L+AFL
+Sbjct: 245 QPERFNTVLLAFL 257
+</PRE>
+
+
+<PRE>
+><a name = 126726790></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126726790&dopt=GenPept" >gi|126726790|ref|ZP_01742630.1|</a> hydrolase, alpha/beta fold family protein [Rhodobacterales
+           bacterium HTCC2150]
+ <a name = 126704119></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126704119&dopt=GenPept" >gi|126704119|gb|EBA03212.1|</a> hydrolase, alpha/beta fold family protein [Rhodobacterales
+           bacterium HTCC2150]
+          Length = 243
+
+ Score = 56.2 bits (134), Expect = 1e-06,   Method: Composition-based stats.
+ Identities = 50/199 (25%), Positives = 81/199 (40%), Gaps = 16/199 (8%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG 61
+           A   I  ++ +G D+ NLLG SMGGMI QE+ R     +  L+L GTG  G       T 
+Sbjct: 54  ADWVISELRKMGVDRYNLLGHSMGGMIVQEMARRDQNRIKHLLLYGTGAIGVLPGRFETI 113
+
+Query: 62  KTFNYMFKAGLERTDPKRYI---FYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFL 118
+            T    FK    +   +R     F + +     EA   + ++            N     
+Sbjct: 114 ATSKARFKQDGAKKTARRIAATWFLDKETAKGFEACATIAKLA-----------NPQAIE 162
+
+Query: 119 TQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGH 178
+             L A++ W    +D L+ I   T+++ GD+D     +    +   I ++ L + P   H
+Sbjct: 163 AGLDAMEAW--SGKDFLRLIAPKTIVIWGDQDRTYAWDQINLLWTSIPNAALAVVPGCAH 220
+
+Query: 179 GSIFQYADEFSTELIAFLE 197
+               +  D F+  +  FL+
+Sbjct: 221 AVHAEKPDFFNLLISDFLD 239
+</PRE>
+
+
+<PRE>
+><a name = 20808897></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=20808897&dopt=GenPept" >gi|20808897|ref|NP_624068.1|</a> predicted hydrolase or acyltransferase (alpha/beta hydrolase
+           superfamily) [Thermoanaerobacter tengcongensis MB4]
+ <a name = 20517556></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=20517556&dopt=GenPept" >gi|20517556|gb|AAM25672.1|</a> predicted hydrolases or acyltransferases (alpha/beta hydrolase
+           superfamily) [Thermoanaerobacter tengcongensis MB4]
+          Length = 285
+
+ Score = 56.2 bits (134), Expect = 1e-06,   Method: Composition-based stats.
+ Identities = 53/197 (26%), Positives = 96/197 (48%), Gaps = 29/197 (14%)
+
+Query: 5   TIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLIL---AGTGPRGGKEVDKVTG 61
+           T  F++ LG +K++++  S GG +A  +  + P +V++L+L   AG  P+ G        
+Sbjct: 112 TYKFLERLGLEKVSIIAHSFGGRVAIMLAALHPEVVDKLVLVNSAGLIPKRG-------- 163
+
+Query: 62  KTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFL--T 119
+             + Y ++  + R    + +     K+  +E L          + +  KD   +G L  T
+Sbjct: 164 --WKYYYR--VYRFKLIKSLLLLLGKKDAVEKL---------YERYGSKDYKEAGRLRGT 210
+
+Query: 120 QLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHG 179
+            +K I    +D +  LK I   TL++ GDKD + P E +  M ++I D+ L+++ NAGH 
+Sbjct: 211 FVKVIN---QDLRGYLKKIKAPTLLIWGDKDRETPIEFAKIMEKEIPDAGLVVFENAGHF 267
+
+Query: 180 SIFQYADEFSTELIAFL 196
+           S  +  ++F   +  FL
+Sbjct: 268 SYLERLNDFIIIVSYFL 284
+</PRE>
+
+
+<PRE>
+><a name = 78066438></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=78066438&dopt=GenPept" >gi|78066438|ref|YP_369207.1|</a> Alpha/beta hydrolase [Burkholderia sp. 383]
+ <a name = 77967183></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=77967183&dopt=GenPept" >gi|77967183|gb|ABB08563.1|</a> Alpha/beta hydrolase [Burkholderia sp. 383]
+          Length = 273
+
+ Score = 56.2 bits (134), Expect = 1e-06,   Method: Composition-based stats.
+ Identities = 58/206 (28%), Positives = 87/206 (42%), Gaps = 31/206 (15%)
+
+Query: 9   VKALGYDKINLLGLSMGG-MIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFNYM 67
+           + AL   +I L+G S GG  +A  I R     V + +L G  P    +     G     +
+Sbjct: 81  IDALDLREITLVGHSTGGGEVAHYIGRHGTKRVAKAVLIGAVPPVMVKSASNPGGLPMEI 140
+
+Query: 68  FKAGLERTDPKRYIFY--------------NHDKQGKIEALKVLGRMGMRTKEFADKDMN 113
+           F    +     R  FY              +   QG I+A  + G MG            
+Sbjct: 141 FDGIRKNVAENRSQFYKDLAMPFFGFNRPNSKPSQGTIDAFWLQGMMG------------ 188
+
+Query: 114 LSGFLTQLKAIKRWGK-DSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKI-KDSKLI 171
+             G   Q   +K + + D  DDLK I   TL+++GD D  VP +++  M  KI K+++L 
+Sbjct: 189 --GVYGQYLCVKEFSEVDFTDDLKKIDVPTLVLHGDDDQIVPIDDAGRMSAKIVKNAQLK 246
+
+Query: 172 IYPNAGHGSIFQYADEFSTELIAFLE 197
+           + P   HG     AD+ + EL+AFL+
+Sbjct: 247 VIPGGSHGMCVVNADQINAELLAFLK 272
+</PRE>
+
+
+<PRE>
+><a name = 126727060></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126727060&dopt=GenPept" >gi|126727060|ref|ZP_01742898.1|</a> alpha/beta hydrolase [Rhodobacterales bacterium HTCC2150]
+ <a name = 126703732></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126703732&dopt=GenPept" >gi|126703732|gb|EBA02827.1|</a> alpha/beta hydrolase [Rhodobacterales bacterium HTCC2150]
+          Length = 236
+
+ Score = 55.8 bits (133), Expect = 1e-06,   Method: Composition-based stats.
+ Identities = 52/184 (28%), Positives = 78/184 (42%), Gaps = 23/184 (12%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGP------RGGK 54
+           +AK  +D   +    +  L GLSMGG++A EI+R+ P  V RL L  T P      +   
+Sbjct: 45  LAKMVLDVAPS----QFALAGLSMGGIVAMEIMRLAPERVTRLALLDTNPLADPADKAEM 100
+
+Query: 55  EVDKVTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNL 114
+              +V+      M     +   P     Y  D  GK++ L++   M          D+  
+Sbjct: 101 REAQVSQVRNGQMAAVMRDEMKPN----YLADGPGKLQLLELCMEMA--------NDLGP 148
+
+Query: 115 SGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYP 174
+           + F  Q  AI+    D  + L+ +   TLI+ G +D   P E    MH+ I  S L +  
+Sbjct: 149 TVFEDQSNAIQN-RPDQTETLRGVKIPTLILCGREDSLCPIERHELMHDLIDGSVLKVIA 207
+
+Query: 175 NAGH 178
+            AGH
+Sbjct: 208 GAGH 211
+</PRE>
+
+
+<PRE>
+><a name = 125717773></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=125717773&dopt=GenPept" >gi|125717773|ref|YP_001034906.1|</a> HydD, putative [Streptococcus sanguinis SK36]
+ <a name = 125497690></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=125497690&dopt=GenPept" >gi|125497690|gb|ABN44356.1|</a> HydD, putative [Streptococcus sanguinis SK36]
+          Length = 267
+
+ Score = 55.1 bits (131), Expect = 2e-06,   Method: Composition-based stats.
+ Identities = 55/207 (26%), Positives = 88/207 (42%), Gaps = 29/207 (14%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPR----GGKEV 56
+           MA    + +  LG   + ++G+S GGM+AQ +    P  V +LIL  T  +    G + +
+Sbjct: 79  MATDIAEAMDVLGLKTVAVIGISQGGMVAQWLAVDFPEKVEKLILTVTTAKLNNLGRERI 138
+
+Query: 57  DK-----VTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEAL-KVLGRMGMRTKEFADK 110
+            +      TG     M         PK +        GK + L +++G  G       DK
+Sbjct: 139 TRWLELSQTGAYKELMLDIASHSYTPKSF--------GKFKYLYRIMGNFG----RIKDK 186
+
+Query: 111 DMNLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKL 170
+                     ++ I     DS   L+ I   TL++  ++D  +  E S ++H  IKDS+ 
+Sbjct: 187 QR------IAIQTISCLRHDSLAVLEKINCPTLVIGAEEDDVLGVEASLELHHHIKDSQF 240
+
+Query: 171 IIYPNAGHGSIFQYADEFSTELIAFLE 197
+            I P+ GH    Q+ D F   ++ FLE
+Sbjct: 241 TILPDCGHALYEQHKD-FQKRVLLFLE 266
+</PRE>
+
+
+<PRE>
+><a name = 115421687></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=115421687&dopt=GenPept" >gi|115421687|emb|CAJ48198.1|</a> 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase [Bordetella
+           avium 197N]
+          Length = 276
+
+ Score = 55.1 bits (131), Expect = 3e-06,   Method: Composition-based stats.
+ Identities = 50/200 (25%), Positives = 85/200 (42%), Gaps = 23/200 (11%)
+
+Query: 7   DFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFNY 66
+           +F++ALG  K+ L+G SMGG     +   +P L++ L+  G+        D         
+Sbjct: 87  EFIEALGLGKVALVGNSMGGSSCIRLAYERPELISHLVTLGSSAGVPSIFD--------- 137
+
+Query: 67  MFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADK--DMNLSGFLTQLKAI 124
+              AGL          Y H   G     K +  M   T+   D+     +S   ++   I
+Sbjct: 138 --PAGLSEGVKALEAAYFH--PGPESMRKFIATMAFDTRHVTDEFVQERVSILNSRPDHI 193
+
+Query: 125 KRW----GKD----SQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNA 176
+           + W    GK      Q  L  I   TL+++G  D  VP   +  +  +I D+++++ P  
+Sbjct: 194 EGWISGHGKPMVKIDQARLADIKAPTLLIHGRDDRTVPYTAALHLIRQIPDARMLLIPRC 253
+
+Query: 177 GHGSIFQYADEFSTELIAFL 196
+           GH    ++ADEF+  + +F+
+Sbjct: 254 GHWVQLEHADEFNRNVASFI 273
+</PRE>
+
+
+<PRE>
+><a name = 124901055></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=124901055&dopt=GenPept" >gi|124901055|gb|EAY71805.1|</a> hypothetical protein BDAG_04653 [Burkholderia dolosa AUO158]
+          Length = 472
+
+ Score = 55.1 bits (131), Expect = 3e-06,   Method: Composition-based stats.
+ Identities = 27/68 (39%), Positives = 42/68 (61%), Gaps = 1/68 (1%)
+
+Query: 130 DSQDDLKFITQATLIVNGDKDMQVPTENSYDMH-EKIKDSKLIIYPNAGHGSIFQYADEF 188
+           D  DDL+ I   TL++ GD D  VP ++S  +  E ++D++L IYP A HG    +AD  
+Sbjct: 403 DFTDDLRRIDVPTLVLQGDDDQIVPLDDSGKLSAEIVRDARLTIYPGAPHGLCTTHADRV 462
+
+Query: 189 STELIAFL 196
+           + +L+AF+
+Sbjct: 463 NADLLAFI 470
+</PRE>
+
+
+<PRE>
+><a name = 90422480></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=90422480&dopt=GenPept" >gi|90422480|ref|YP_530850.1|</a> alpha/beta hydrolase fold [Rhodopseudomonas palustris BisB18]
+ <a name = 90104494></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=90104494&dopt=GenPept" >gi|90104494|gb|ABD86531.1|</a> alpha/beta hydrolase fold [Rhodopseudomonas palustris BisB18]
+          Length = 233
+
+ Score = 54.7 bits (130), Expect = 3e-06,   Method: Composition-based stats.
+ Identities = 55/184 (29%), Positives = 80/184 (43%), Gaps = 13/184 (7%)
+
+Query: 16  KINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFNYMFKAG-LER 74
+           +  L G SMGG IA EI+R  P  V +L L  T  R   +  K   +      KAG    
+Sbjct: 58  RFALAGHSMGGYIALEIMRQAPERVAKLALLNTQARPDSDEAKERRRRQIEAIKAGSYSE 117
+
+Query: 75  TDPKRYIFYNH-DKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIKRWGK-DSQ 132
+                Y    H  + G  E L V+        E   +D+    F  QL AI   G+ DS+
+Sbjct: 118 AAAALYPGLVHPSRHGDAELLAVV--------ETTAEDVGPEAFTRQLVAIM--GRSDSR 167
+
+Query: 133 DDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQYADEFSTEL 192
+             L  IT  TL++ GD+D  +P   S ++ + I  +KL+   + GH    +   E +  L
+Sbjct: 168 ATLAKITCPTLVLTGDQDNTIPNVLSVELADGIAGAKLVTLADCGHLPQLERPRETTAAL 227
+
+Query: 193 IAFL 196
+           + +L
+Sbjct: 228 LDWL 231
+</PRE>
+
+
+<PRE>
+><a name = 119860327></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119860327&dopt=GenPept" >gi|119860327|ref|ZP_01641727.1|</a> alpha/beta hydrolase fold [Pseudomonas putida W619]
+ <a name = 119813371></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=119813371&dopt=GenPept" >gi|119813371|gb|EAX16147.1|</a> alpha/beta hydrolase fold [Pseudomonas putida W619]
+          Length = 355
+
+ Score = 54.7 bits (130), Expect = 3e-06,   Method: Composition-based stats.
+ Identities = 48/193 (24%), Positives = 82/193 (42%), Gaps = 8/193 (4%)
+
+Query: 8   FVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG---KTF 64
+            +  LG +++++LG SMGG  A       P  V +L+L G G  G      +     K  
+Sbjct: 167 LLDVLGLERVHILGNSMGGHSAVAFTLGYPERVGKLVLMGGGTGGASPFVPMPTEGIKLI 226
+
+Query: 65  NYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAI 124
+           N +++        K    + +D     EAL        R      +  +L  F+  L A 
+Sbjct: 227 NGLYREPTIDNLKKMMNVFVYDPSDLTEAL-----FQTRLDNMLSRRDHLENFVASLAAN 281
+
+Query: 125 KRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQY 184
+            +   D    L  I   TL++ G  D  VP +    +   I +S+L ++ N GH + +++
+Sbjct: 282 PKQFPDFSARLAEIKAKTLVIWGRNDRFVPMDVGLRLIAGIANSELHVFNNCGHWAQWEH 341
+
+Query: 185 ADEFSTELIAFLE 197
+           AD F+  ++ FL+
+Sbjct: 342 ADTFNRLVLDFLQ 354
+</PRE>
+
+
+<PRE>
+><a name = 87199455></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=87199455&dopt=GenPept" >gi|87199455|ref|YP_496712.1|</a> alpha/beta hydrolase [Novosphingobium aromaticivorans DSM 12444]
+ <a name = 87135136></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=87135136&dopt=GenPept" >gi|87135136|gb|ABD25878.1|</a> alpha/beta hydrolase [Novosphingobium aromaticivorans DSM 12444]
+          Length = 261
+
+ Score = 54.7 bits (130), Expect = 3e-06,   Method: Composition-based stats.
+ Identities = 51/201 (25%), Positives = 82/201 (40%), Gaps = 19/201 (9%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVT 60
+           MA  T   +  L  D+ ++LG+S GG +AQ+        + +L+LA T            
+Sbjct: 72  MALTTASLLDRLEIDRADVLGISWGGAVAQQFAFQHRARIGKLVLAATA----------A 121
+
+Query: 61  GKTF---NYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGF 117
+           G T    N    A L  +DP+ Y      K+         G    R    A K  +  GF
+Sbjct: 122 GATMIPGNAALLAHL--SDPREYSVERTLKRNLASIYN--GGGSARVSLNAAKAPSPLGF 177
+
+Query: 118 LTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAG 177
+             Q+ A   W   S   L  ++   +++  ++D  VP  N++ +H  I  S+L ++   G
+Sbjct: 178 SYQMAAFASW--SSLPILPMLSMPVMVMADEEDQLVPPSNAHFLHHAIAHSELEMFRGGG 235
+
+Query: 178 HGSIFQYADEFSTELIAFLED 198
+           H  +    + F   L  FL+D
+Sbjct: 236 HLFMLSQRERFVARLRTFLDD 256
+</PRE>
+
+
+<PRE>
+><a name = 100233291></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=100233291&dopt=GenPept" >gi|100233291|ref|ZP_01334368.1|</a> hypothetical protein Bpse4_03003171 [Burkholderia pseudomallei
+           406e]
+          Length = 273
+
+ Score = 54.7 bits (130), Expect = 3e-06,   Method: Composition-based stats.
+ Identities = 32/84 (38%), Positives = 46/84 (54%), Gaps = 2/84 (2%)
+
+Query: 116 GFLTQLKAIKRWGK-DSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEK-IKDSKLIIY 173
+           G L Q   I+ + + D   DLK I   TLI++GD D  VP + S  +  K +  + L +Y
+Sbjct: 189 GILGQYACIREFSEVDYTADLKKIDVPTLILHGDDDQMVPIDASARLSAKLVAGATLKVY 248
+
+Query: 174 PNAGHGSIFQYADEFSTELIAFLE 197
+           P   HG    +ADE + +L+AFLE
+Sbjct: 249 PGGSHGICVTHADEVNADLLAFLE 272
+</PRE>
+
+
+<PRE>
+><a name = 82537741></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=82537741&dopt=GenPept" >gi|82537741|ref|ZP_00896737.1|</a> hypothetical protein Bpse110_02001001 [Burkholderia pseudomallei
+           1106b]
+ <a name = 99912974></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=99912974&dopt=GenPept" >gi|99912974|ref|ZP_01319655.1|</a> hypothetical protein Bpse1_03000894 [Burkholderia pseudomallei
+           1655]
+ <a name = 100125675></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=100125675&dopt=GenPept" >gi|100125675|ref|ZP_01331000.1|</a> hypothetical protein BpseS_03000844 [Burkholderia pseudomallei S13]
+ <a name = 126455749></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126455749&dopt=GenPept" >gi|126455749|ref|YP_001074639.1|</a> non-heme chloroperoxidase [Burkholderia pseudomallei 1106a]
+ <a name = 134282982></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=134282982&dopt=GenPept" >gi|134282982|ref|ZP_01769684.1|</a> non-heme chloroperoxidase [Burkholderia pseudomallei 305]
+ <a name = 126229517></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126229517&dopt=GenPept" >gi|126229517|gb|ABN92930.1|</a> non-heme chloroperoxidase [Burkholderia pseudomallei 1106a]
+ <a name = 134245630></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=134245630&dopt=GenPept" >gi|134245630|gb|EBA45722.1|</a> non-heme chloroperoxidase [Burkholderia pseudomallei 305]
+          Length = 273
+
+ Score = 54.7 bits (130), Expect = 3e-06,   Method: Composition-based stats.
+ Identities = 32/84 (38%), Positives = 46/84 (54%), Gaps = 2/84 (2%)
+
+Query: 116 GFLTQLKAIKRWGK-DSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEK-IKDSKLIIY 173
+           G L Q   I+ + + D   DLK I   TLI++GD D  VP + S  +  K +  + L +Y
+Sbjct: 189 GILGQYACIREFSEVDYTADLKKIDVPTLILHGDDDQMVPIDASARLSAKLVAGATLKVY 248
+
+Query: 174 PNAGHGSIFQYADEFSTELIAFLE 197
+           P   HG    +ADE + +L+AFLE
+Sbjct: 249 PGGSHGICVTHADEVNADLLAFLE 272
+</PRE>
+
+
+<PRE>
+><a name = 126443657></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126443657&dopt=GenPept" >gi|126443657|ref|YP_001061693.1|</a> Non-heme chloroperoxidase [Burkholderia pseudomallei 668]
+ <a name = 126223148></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126223148&dopt=GenPept" >gi|126223148|gb|ABN86653.1|</a> Non-heme chloroperoxidase [Burkholderia pseudomallei 668]
+          Length = 273
+
+ Score = 54.7 bits (130), Expect = 3e-06,   Method: Composition-based stats.
+ Identities = 32/84 (38%), Positives = 46/84 (54%), Gaps = 2/84 (2%)
+
+Query: 116 GFLTQLKAIKRWGK-DSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEK-IKDSKLIIY 173
+           G L Q   I+ + + D   DLK I   TLI++GD D  VP + S  +  K +  + L +Y
+Sbjct: 189 GILGQYACIREFSEVDYTADLKKIDVPTLILHGDDDQMVPIDASARLSAKLVAGATLKVY 248
+
+Query: 174 PNAGHGSIFQYADEFSTELIAFLE 197
+           P   HG    +ADE + +L+AFLE
+Sbjct: 249 PGGSHGICVTHADEVNADLLAFLE 272
+</PRE>
+
+
+<PRE>
+><a name = 39935174></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=39935174&dopt=GenPept" >gi|39935174|ref|NP_947450.1|</a> non-heme chloroperoxidase [Rhodopseudomonas palustris CGA009]
+ <a name = 39649025></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=39649025&dopt=GenPept" >gi|39649025|emb|CAE27546.1|</a> non-heme chloroperoxidase [Rhodopseudomonas palustris CGA009]
+          Length = 280
+
+ Score = 53.9 bits (128), Expect = 5e-06,   Method: Composition-based stats.
+ Identities = 28/70 (40%), Positives = 44/70 (62%), Gaps = 1/70 (1%)
+
+Query: 130 DSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEK-IKDSKLIIYPNAGHGSIFQYADEF 188
+           D  DDLK IT  TL+++G+ D  VP E+S  +  K +K+ KL  YP   HG +  +AD  
+Sbjct: 211 DQTDDLKAITVPTLVLHGEDDQIVPIEDSAKLSVKLLKNGKLKTYPGYPHGMLTTHADVL 270
+
+Query: 189 STELIAFLED 198
+           + +L+AF+++
+Sbjct: 271 NADLLAFVKE 280
+</PRE>
+
+
+<PRE>
+><a name = 84358355></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=84358355&dopt=GenPept" >gi|84358355|ref|ZP_00983138.1|</a> COG0596: Predicted hydrolases or acyltransferases (alpha/beta
+           hydrolase superfamily) [Burkholderia dolosa AUO158]
+          Length = 273
+
+ Score = 53.9 bits (128), Expect = 5e-06,   Method: Composition-based stats.
+ Identities = 27/68 (39%), Positives = 42/68 (61%), Gaps = 1/68 (1%)
+
+Query: 130 DSQDDLKFITQATLIVNGDKDMQVPTENSYDMH-EKIKDSKLIIYPNAGHGSIFQYADEF 188
+           D  DDL+ I   TL++ GD D  VP ++S  +  E ++D++L IYP A HG    +AD  
+Sbjct: 204 DFTDDLRRIDVPTLVLQGDDDQIVPLDDSGKLSAEIVRDARLTIYPGAPHGLCTTHADRV 263
+
+Query: 189 STELIAFL 196
+           + +L+AF+
+Sbjct: 264 NADLLAFI 271
+</PRE>
+
+
+<PRE>
+><a name = 118037688></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=118037688&dopt=GenPept" >gi|118037688|ref|ZP_01509094.1|</a> alpha/beta hydrolase fold [Burkholderia phytofirmans PsJN]
+ <a name = 117992497></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=117992497&dopt=GenPept" >gi|117992497|gb|EAV06789.1|</a> alpha/beta hydrolase fold [Burkholderia phytofirmans PsJN]
+          Length = 331
+
+ Score = 53.9 bits (128), Expect = 6e-06,   Method: Composition-based stats.
+ Identities = 46/193 (23%), Positives = 83/193 (43%), Gaps = 9/193 (4%)
+
+Query: 8   FVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTGKTFNYM 67
+            +  L    +  +G SMGG IAQ++    P  V R++L      G   V           
+Sbjct: 134 LIDTLRLSDVTFVGWSMGGAIAQQLALDAPLAVRRIVLMSAPAPGSLGVPVTPDVEATLS 193
+
+Query: 68  FKAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAI--K 125
+             AG    D  R +F        ++A +   R  M  +  + +   +S  +T+ +++   
+Sbjct: 194 GNAGTTFMDVMRVLF----PPNAVDAAQRCFRQNM-FQPASYRPPAISATVTEGQSVLLH 248
+
+Query: 126 RWGKD--SQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQ 183
+            W  D  +   LK +  ATLI+ G  D  +P +NS  +  +I  ++L++  +AGH  ++Q
+Sbjct: 249 DWSSDEAAAAALKNVRLATLILTGADDQVLPKQNSEALAGQIPHAQLLVVRSAGHAMMYQ 308
+
+Query: 184 YADEFSTELIAFL 196
+           Y    +  +  F+
+Sbjct: 309 YPHALAAAINTFI 321
+</PRE>
+
+
+<PRE>
+><a name = 106894259></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=106894259&dopt=GenPept" >gi|106894259|ref|ZP_01361380.1|</a> Alpha/beta hydrolase fold [Clostridium sp. OhILAs]
+ <a name = 106774480></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=106774480&dopt=GenPept" >gi|106774480|gb|EAT31043.1|</a> Alpha/beta hydrolase fold [Clostridium sp. OhILAs]
+          Length = 281
+
+ Score = 53.1 bits (126), Expect = 8e-06,   Method: Composition-based stats.
+ Identities = 28/64 (43%), Positives = 39/64 (60%)
+
+Query: 134 DLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQYADEFSTELI 193
+           DL  I   TLI++G  D  VP E      E IK+SKLI +  +GHG+ +   ++F+ ELI
+Sbjct: 206 DLNMIHVPTLIIHGIHDQVVPFELGEIQREYIKNSKLIPFKYSGHGAFYDQKEKFNEELI 265
+
+Query: 194 AFLE 197
+           AF+E
+Sbjct: 266 AFIE 269
+</PRE>
+
+
+<PRE>
+><a name = 103487703></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=103487703&dopt=GenPept" >gi|103487703|ref|YP_617264.1|</a> alpha/beta hydrolase fold [Sphingopyxis alaskensis RB2256]
+ <a name = 98977780></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=98977780&dopt=GenPept" >gi|98977780|gb|ABF53931.1|</a> alpha/beta hydrolase fold [Sphingopyxis alaskensis RB2256]
+          Length = 301
+
+ Score = 53.1 bits (126), Expect = 9e-06,   Method: Composition-based stats.
+ Identities = 52/189 (27%), Positives = 83/189 (43%), Gaps = 22/189 (11%)
+
+Query: 1   MAKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRL--ILAGTGPRGGKEVDK 58
+           MA   +  +  LG  + +++G+SMGGMI+Q I    P  V  L  I++ TG R   +  K
+Sbjct: 98  MAADGLGLLDHLGIGRAHIVGVSMGGMISQHIAARYPDRVLSLTSIMSTTGNRRLPKARK 157
+
+Query: 59  VTGKTFNYMFKAGLERTDPKRYIFYNHDKQGKIEALKVLG---------RMGMRTKEFAD 109
+              +       +G    D +  I Y       ++A +V+G         R+  R +   +
+Sbjct: 158 EAMQALANRPMSG----DKEALIAYG------VKAARVIGSPGYPSDEERLQRRVRADFE 207
+
+Query: 110 KDMNLSGFLTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSK 169
+           +     GF  Q+ AI   G D +  LK I   TL+++G+ D  VP     D    I  ++
+Sbjct: 208 RGWYPPGFARQMAAIIADG-DRRPMLKSIKAPTLVIHGEDDPLVPLAGGRDTAAHIAGAR 266
+
+Query: 170 LIIYPNAGH 178
+           L+  P  GH
+Sbjct: 267 LLTIPGMGH 275
+</PRE>
+
+
+<PRE>
+><a name = 33330436></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=33330436&dopt=GenPept" >gi|33330436|gb|AAQ10535.1|</a> OrcC [Pseudomonas putida]
+          Length = 286
+
+ Score = 53.1 bits (126), Expect = 9e-06,   Method: Composition-based stats.
+ Identities = 48/189 (25%), Positives = 78/189 (41%), Gaps = 8/189 (4%)
+
+Query: 12  LGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG---KTFNYMF 68
+           LG +++++LG SMG   A       P  V +L+L G G  G      +     K  N ++
+Sbjct: 102 LGLERVHILGNSMGAHSAVAFALANPRRVGKLVLMGGGTGGASPFVPMPTEGIKLLNGLY 161
+
+Query: 69  KAGLERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGFLTQLKAIKRWG 128
+           +        K    + +D     E L        R      +  +L  F+  L A  R  
+Sbjct: 162 REPTIDNLKKMMNVFVYDASDLTEEL-----FQTRLDNMLSRHEHLDNFVESLAANPRQF 216
+
+Query: 129 KDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAGHGSIFQYADEF 188
+            D    L  I   TLIV G  D  VP +    +   I +S L ++ N GH + +++A+ F
+Sbjct: 217 PDFGSRLAEIQAPTLIVWGRNDRFVPMDAGLRLLAGIPNSSLHVFNNCGHWAQWEHAEPF 276
+
+Query: 189 STELIAFLE 197
+           +  ++ FL+
+Sbjct: 277 NRLVLDFLQ 285
+</PRE>
+
+
+<PRE>
+><a name = 108802989></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=108802989&dopt=GenPept" >gi|108802989|ref|YP_642926.1|</a> alpha/beta hydrolase fold [Rubrobacter xylanophilus DSM 9941]
+ <a name = 108764232></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=108764232&dopt=GenPept" >gi|108764232|gb|ABG03114.1|</a> alpha/beta hydrolase fold [Rubrobacter xylanophilus DSM 9941]
+          Length = 265
+
+ Score = 53.1 bits (126), Expect = 1e-05,   Method: Composition-based stats.
+ Identities = 51/195 (26%), Positives = 91/195 (46%), Gaps = 14/195 (7%)
+
+Query: 2   AKQTIDFVKALGYDKINLLGLSMGGMIAQEIIRIKPTLVNRLILAGTGPRGGKEVDKVTG 61
+           A++    +  L  +++ L GLSMGG +A E +R+ P  +  L+LA T P    E  K + 
+Sbjct: 74  AEEVRSLLDRLELERVVLGGLSMGGYVAFECLRLFPERIAALVLADTRPDPDTEEMKESR 133
+
+Query: 62  KTF-NYMFKAG---LERTDPKRYIFYNHDKQGKIEALKVLGRMGMRTKEFADKDMNLSGF 117
+           +     + + G   L +T P+R +      + + E ++ +  M + +           G 
+Sbjct: 134 RELARRVAEEGVGVLAQTQPRR-LLCERTLEERPEVVERVKGMILESTP--------GGV 184
+
+Query: 118 LTQLKAIKRWGKDSQDDLKFITQATLIVNGDKDMQVPTENSYDMHEKIKDSKLIIYPNAG 177
+           +  L A+ R   DS   L+ I   TL++ G++D     E   +M +KI  S+ ++ P AG
+Sbjct: 185 VAALGAM-RDRPDSTPLLESIRVPTLVIGGEEDAISTPETMGEMAKKIPHSRHVVLPRAG 243
+
+Query: 178 HGSIFQYADEFSTEL 192
+           H S  +  + F+  L
+Sbjct: 244 HLSNLENPEGFNAAL 258
+</PRE>
+
+
+<PRE>
+  Database: nr
+    Posted date:  Sep 17, 2007 11:41 AM
+  Number of letters in database: 999,999,834
+  Number of sequences in database:  2,976,859
+  
+  Database: /nucleus1/users/jsaw/ncbi/db/nr.01
+    Posted date:  Sep 17, 2007 11:48 AM
+  Number of letters in database: 894,087,890
+  Number of sequences in database:  2,493,262
+  
+Lambda     K      H
+   0.319    0.138    0.394 
+
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 714,400,888
+Number of Sequences: 5470121
+Number of extensions: 29166073
+Number of successful extensions: 72252
+Number of sequences better than 1.0e-05: 130
+Number of HSP's better than  0.0 without gapping: 41
+Number of HSP's successfully gapped in prelim test: 89
+Number of HSP's that attempted gapping in prelim test: 72095
+Number of HSP's gapped (non-prelim): 134
+length of query: 198
+length of database: 1,894,087,724
+effective HSP length: 126
+effective length of query: 72
+effective length of database: 1,204,852,478
+effective search space: 86749378416
+effective search space used: 86749378416
+T: 11
+A: 40
+X1: 16 ( 7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.7 bits)
+S2: 126 (53.1 bits)

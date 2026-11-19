@@ -1,0 +1,12 @@
+{
+  "root": "/home/Hecate_2/hecate-app",
+  "python": "/home/Hecate_2/.venv-chain/bin/python",
+  "rpc_host": "REPLACE_WITH_CHAIN_PRIVATE_HOST",
+  "hosts": {
+    "node4": "REPLACE_WITH_DS_PRIVATE_HOST",
+    "node5": "REPLACE_WITH_DR_PRIVATE_HOST",
+    "node6": "REPLACE_WITH_ALLIANCE_PRIVATE_HOST"
+  },
+  "ssh_user": "ubuntu",
+  "ssh_key": "/home/ubuntu/.ssh/REPLACE_WITH_PRIVATE_KEY_FILENAME"
+}

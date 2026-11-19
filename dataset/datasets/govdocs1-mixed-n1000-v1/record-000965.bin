@@ -1,0 +1,430 @@
+ README
+
+ 
+ NCBI Prokaryotic Genomes Automatic Annotation Pipeline 
+ 
+ This readme describes the directory and file structure for the automatic
+ annotation pipeline. For more information on the pipeline visit:
+ 
+ http://www.ncbi.nlm.nih.gov/genomes/static/Pipeline.html
+ 
+ The annotation procedures are on this page:
+
+ http://www.ncbi.nlm.nih.gov/genomes/static/Pipeline.html
+
+ Information on submission to GenBank can be found on this page:
+
+ http://www.ncbi.nlm.nih.gov/Genbank/genomesubmit.html
+
+ Information on submitting Genome Project information can be found here:
+
+ http://www.ncbi.nlm.nih.gov/genomes/mpfsubmission.cgi
+
+ SUBMISSIONS.
+
+ BEFORE YOU START:
+
+ Make sure that you have contacted us at:
+
+ genomes@ncbi.nlm.nih.gov
+
+ In order to run the automatic annotation pipeline we will need to ask
+ you a few questions by email first in order to assess the amount of
+ resources required.
+
+ The PGAAP is intended for the annotation of genomes in preparation for submission
+ to GenBank. Genomes can either be complete or in WGS format (multiple contigs -
+ at least 200 bases per contig) in
+ any state of assembly.
+
+ If you are intending to submit a complete genome, then please submit the project
+ and register a locus_tag first at this page:
+
+ http://www.ncbi.nlm.nih.gov/genomes/mpfsubmission.cgi
+
+ IMPORTANT!	
+ 
+ Make sure that the locus_tag that you submit matches the locus_tag you use
+ in the files below.
+
+ Submission format.
+
+ Our annotation pipeline requires at least 3 files for either complete or WGS
+ genomes. A fourth file containing assembly information can be added for WGS
+ genomes if the assembly information is known.
+
+ IMPORTANT!
+
+ All files should have the same prefix (locus_tag). This prefix will reflect the unique identifier
+ used in the subsequent files and should contain an underscore. Additional information 
+ can be added to the file prefix after an underscore (such as date of submission). This
+ prefix should match the locus_tag prefix you submitted in the project submission
+ form above if you are submitting a complete genome.
+ 
+ NOTE: Everything before the underscore will be used as an identifier.
+
+ The file suffix reflect the file contents.
+
+ Therefore, each file will be named:
+ 
+ <PREFIX>_.<SUFFIX>
+
+ The prefix is used to add unique identifiers to every gene in the output, and therefore
+ should follow the locus_tag format guidelines found here:
+
+ http://www.ncbi.nlm.nih.gov/genomes/locustag/Proposal.pdf
+ 
+ The prefix will also be used to produce directory structures for the output files (see below).
+ In description below, the prefix is referred to as "<LOCUS_TAG_NAME>_".
+
+ IMPORTANT!
+
+ Do not use zeros at the start of any identifiers.
+
+ The four files are:
+
+ *.email (required)
+ *.fasta (required)
+ *.template (required)
+ *.agp (optional for WGS submissions, and only if assembly information is known)
+
+ IMPORTANT!
+
+ Use the complete organism name for your submissions. This should match the genus species strain name
+ and should be the same in your project submission, and all the files you submit to us.
+
+ If your organism does not have a taxid then NCBI will assign one.
+
+ Ex: "Escherichia coli K-12"
+
+ The full name in quotes should be used, NOT "Escherichia coli", NOT "E. coli" but 
+ "Escherichia coli K-12".
+
+
+ 1. *.email
+ This file consists of the email address(es) to be used for communication between
+ NCBI and the submitter.
+
+ 2. *.fasta
+ This file consists of the FASTA sequence(s) for each contig to be annotated. All contigs
+ from a single genome should be in the same file including all chromosomes and plasmids.
+ Fasta headers are essential and should contain the following minimal
+ amount of information:
+
+ A. A unique identifier
+ B. The organism
+ C. The strain for that particular organism
+ D. The genetic code
+
+ NOTE: There is no longer any requirement for the length of the contig in the FASTA header
+ as it is now calculated from the submitted sequence.
+
+ Information on FASTA headers can be found on this page:
+
+ http://www.ncbi.nlm.nih.gov/Sequin/modifiers.html
+
+ It should look like this:
+
+ >gnl|center|<ID1> [organism=<ORGANISM NAME>] [strain=<STRAIN NAME>] [gcode=11]
+ <NUCLEOTIDE SEQUENCE>
+
+ Note that there is a limit on the total length of the string in this part of the header:
+
+ gnl|center|<ID1>
+
+ Which should not contain more than 41 characters.
+
+ (see below) 
+
+ FASTA sequences should not contain unnecessary line breaks or non-IUPAC bases.
+
+ 3. Template file.
+
+ The template file contains information on the submitters and the
+ submitting organization in ASN.1 format.
+
+ The template file can be created using Sequin, which can be downloaded
+ from here:
+
+ http://www.ncbi.nlm.nih.gov/Sequin/
+
+ For Genome Submissions, the template editor needs to be set. This requires
+ an additional flag in the initialization file for Sequin which will
+ either be .sequinrc for the Unix version, Sequin.ini for the PC version, or Sequin.cnf
+ for OSX.
+
+ Under the settings field add GENOMECENTER=<CENTERNAME>
+
+ EX:
+
+ [SETTINGS]
+ GENOMECENTER=NCBI
+
+ This will enable the template editor when Sequin is started.
+ Start the template editor and enter the required information, including
+ submitters (author names), submitting organization, and organism name, etc.
+ Save the template file and send it along with the submission.
+
+ The essential elements of the template file are the authors, the submitting
+ organization (affiliation), the organism, and manuscript title (optional).
+
+ 4. AGP file.
+
+ The AGP file is used for the submission of WGS genomes if the assembly information
+ is known.
+
+ Information on the AGP file format can be found here:
+
+ http://www.ncbi.nlm.nih.gov/genome/guide/Assembly/AGP_Specification.html
+
+ There is now an AGP validator available from this FTP archive for anonymous download:
+
+ ftp://ftp.ncbi.nlm.nih.gov/toolbox/ncbi_tools/cmdline/
+
+ For our genome annotation pipeline, it is preferable to have the ability to
+ streamline submission to GenBank. Therefore, the file format is more strict and requires
+ the following:
+
+ A. the identifiers should be of type "general" and contain the center information.
+ B. the identifiers for contigs need to match the identifiers in the FASTA headers exactly.
+
+
+ OUTPUT:
+
+ Note that the output formats are intended for manual curation.	They can be used to submit
+ to GenBank. However, GenBank will require some time to analyze the submission for potential
+ problems. If you wish to submit to GenBank then you will need to inform us.
+
+ IMPORTANT! 
+
+ Do not edit the flatfiles if you intend to resubmit these files in the future after manual
+ curation. These are merely produced for information purposes. If you wish to edit the files 
+ manually, you should edit the *.tbl files produced for every contig.
+
+ Output directory structure (will differ depending on WGS or complete genomes)
+ 
+ <CENTERNAME> -> primary submit directory for submission
+  |
+   --><LOCUS_TAG_NAME>_ -> directory derived from each submission
+       |
+        ->Contigs 	->	directory containg list of directories for each contig
+        	  |
+        	   -> XXXX01	->	contig directory - ex. first contig
+ 
+        	   ....
+        	   
+        	   -> XXXX99	->	contig directory - ex. last contig
+        	   
+ File structure
+ 
+ <CENTERNAME> directory
+ 
+      <LOCUS_TAG_NAME>_.email 	-> 	email file for notification
+      <LOCUS_TAG_NAME>_.fasta 	-> 	multi-fasta file for annotation
+      <LOCUS_TAG_NAME>_.sequin 	-> 	template file including author names
+      <LOCUS_TAG_NAME>_.agp	->	agp file for submission
+      
+ <LOCUS_TAG_NAME>_.email 	-> 	single email address for notification
+ ex: rsmith@generic.com
+ 	
+ <LOCUS_TAG_NAME>_.fasta	->	multi-fasta file
+ 
+ requires the following:
+ 
+ fasta header
+ >gnl|center|<ID1> [organism=<ORGANISM NAME>] [strain=<STRAIN NAME>] [gcode=11]
+ <NUCLEOTIDE SEQUENCE>
+ >gnl|center|<ID2> [organism=<ORGANISM NAME>] [strain=<STRAIN NAME>] [gcode=11]
+ <NUCLEOTIDE SEQUENCE>
+ 
+Note the length limitation on this part of the header:
+
+gnl|center|<ID1>
+
+It should only consist of 41 characters, maximum.
+
+ etc.
+ 
+ <LOCUS_TAG_NAME>_.agp
+
+ <ID999>   1       2694    1       W	gnl|center|<ID1>	1       2694    +
+
+ etc.
+
+ <LOCUS_TAG_NAME>.template 	-> 	asn format for submit block (authors, affiliation, affiliation)
+
+ <LOCUS_TAG_NAME>_
+
+This directory will contain the same files as the above in directory if there are multiple submissions
+
+In addition, for WGS genomes, there will be reconstructed *.gbf, *.gbf_g4, and *.sqn files
+dependent on the AGP assembly file. These are provided solely for visualization and are not
+intended to be manually curated.
+
+Supplementary file:
+
+Frameshifts_intercontigs.list	->	contains information on potential overlapping coding regions in adjacent contigs (see below)
+ 
+ Contig directories
+ 
+        	      	Contig.fsa		->	single fasta for contig
+        	      	Contig.gbf		->	single GenBank flatfile view of annotation for contig
+        	      	Contig.sqn		->	single asn file of above
+        	      	Contig.tbl		->	single feature table view of above (this should be used for annotation changes)
+        	      	supplementary.3 	-> 	supplementary file for the above contig
+        	   	supplementary.rRNA	->	supplementary file containing information on rRNAs that failed length validation
+        	   	frameshifts		->	information on frameshifts found by GeneMark
+ 			supplementary.fs	->	information on frameshift found by analyzing adjacent genes for hits to the same protein
+
+ FORMAT OF SUPPLEMENTARY FILES:
+
+ NOTE: THE SUPPLEMENTARY FILES ARE PROVIDED AS IS AND ARE SUBJECT TO CHANGE WITHOUT NOTICE.
+ PLEASE USE AT YOUR OWN RISK
+
+
+ supplementary.3	-> 	supplementary file
+ 
+ This supplementary file is provided for submitters who wish to examine the evidence used for annotation
+ and for additional information that might be of interest during manual curation.
+
+ contains:
+ 
+ locus_tag 	-> 	for correlation between *.tbl, *.gbf, *.sqn files
+ Orig pos: 	->	+/- strand, position on the contig, partialness of the prediction (especially at the 
+ 			end of contigs) and position to the upstream/downstream CDSs (in codons) which shows
+ 			overlap (if negative) with upstream/downstream CDSs
+ 			NB: overlap may be negative even though upstream/downstream CDS does not have negative
+ 			overlap - this would mean the upstream/downstream prediction was removed from
+ 			the final file - ex: prediction with BLAST hits significantly overlaps upstream
+ 			prediction with no BLAST hits - the upstream prediction will be removed in the
+ 			final file
+ COG name	->	COG number and name for this CDS
+ CDD name	->	CDD numbers and domains for this CDS
+ BLAST names	->	top 5 BLAST hits for this CDS
+ 	line1	->	name and organism from the hit
+ 	line2	->	gi number, EC# (if present) and locus (gene name - if present) for the hit
+ 	line3	->	evalue and position and length of the hit (coordinates)
+ 	
+ 	Re: coordinate system
+ 	
+ 	this is a complex system that reflects the length of the hit and the relative start
+ 	and stop positions of the subject
+ 	
+ 
+ 	the middle number is the length of the hit between the query and subject
+ 	
+ 	the first number represents the distance from the start site of the query in relation
+ 	to the start site of the subject
+ 	
+ 	the last number represents the distance from the stop site of the query in relation
+ 	to the stop site of the subject
+ 	
+ 	a set of numbers like 0 <-- XXX --> 0 means that the start and stop match perfectly
+ 	in both subject and query IRRESPECTIVE of the hit length
+ 	
+ 	this means that the hit length might be very short, but if the query and subject are 
+ 	mapped in relation to each other, then the start and stops correlate
+
+supplementary.fs	->	supplementary file
+
+This file contains information on potential frameshifts by looking for adjacent genes that are
+hitting the same subject in a BLAST search.
+
+It contains information on the two query sequences (in the genome being annotated), the single
+subject that is being detected in a BLAST search by each query, and information  on the
+genomic location and the overlap with the subject as well as information on the potential
+type of frameshift or internal stop codon that is occurring.
+
+
+Frameshifts_intercontigs.list
+
+This file is intended to help assembly of WGS genomes by detecting the same product on adjacent
+contigs that have similar BLAST hits.
+
+Each entry lists products from 2 contigs that 
+
+(a) are neighbors in the scaffold, 
+(b) have fuzzy ends matching the ends of their contigs
+
+First two lines list 2 products, the first number is the computed distance (in nucleotides) between
+the two products, followed by the contig_id, and the direction of the product relative to the scaffold.
+Third line lists the genomic location of two products. The first number is the distance as noted above,
+the 2nd number is the start of the left product relative to the scaffold, the number in parentheses is
+the start of the left product relative to the contig, the fouth is th end of the left product relative to
+the contig and the fifth is the end of the left product relative to the scaffold (
+
+(ie. distance, scaffold start, contig start, contig end, scaffold end for the left product)
+
+Fuzziness is denoted by '>'.
+
+Then the distance is repeated and the same order is repeated for the right product (on the next
+contig in the scaffold).
+
+Fourth line lists the structure of the frameshift candidate. Distance, total minimal length of product =
+length of left product plus distance between plus length of right product.
+
+
+Additional files:
+
+
+Disrepancy report is detailed here:
+
+http://www.ncbi.nlm.nih.gov/Genbank/asndisc.html
+
+Unicog and conserved prk report.
+
+Unicog shows conserved COG function, name, contig, and then nucleotide location.
+
+Conseved PRK report shows taxonomically conserved function, PRK ID, conservation in which
+taxonomic branch (input sequence), and whether the function is completely missing from
+all protein and nucleotide sequences, or whether a potential hit was found in
+one of the nucleotide sequences with the location as in the above report.
+  
+notAGCT report.
+
+This file lists nucleotdes which do not correspond to AGCT and their position 
+(does include IUPAC ambiguity symbols).
+
+
+MANUAL CURATION.
+
+NCBI recommends that submitters examine the output files prior to submission to GenBank. If
+any manual curation takes place, the *.tbl files should be modified as these are used to
+produced the submission to GenBank. 
+
+IMPORTANT! 
+
+Do not modifify the flatfiles or sequin files,  (*.gbf or *.sqn files) if you plan
+to modify prior to submission to GenBank. Modify only the *.tbl files.
+
+SUMMARY
+
+1. Contact NCBI regarding your submission.
+2. If it is a complete genome intended to be submitted to GenBank, register your project.
+3. Taxids will be assigned if necessary.
+4. Obtain an FTP account.
+5. Submit the files for automatic annotation.
+
+CONTACT:
+
+If you have any questions, then please send an email to:
+
+genomes@ncbi.nlm.nih.gov
+
+LINKS:
+
+All links are available in this section:
+
+http://www.ncbi.nlm.nih.gov/genomes/static/Pipeline.html
+http://www.ncbi.nlm.nih.gov/Genbank/genomesubmit.html
+http://www.ncbi.nlm.nih.gov/genomes/mpfsubmission.cgi
+http://www.ncbi.nlm.nih.gov/genomes/locustag/Proposal.pdf
+http://www.ncbi.nlm.nih.gov/Sequin/modifiers.html
+http://www.ncbi.nlm.nih.gov/Sequin/
+http://www.ncbi.nlm.nih.gov/genome/guide/Assembly/AGP_Specification.html
+ftp://ftp.ncbi.nlm.nih.gov/toolbox/ncbi_tools/cmdline/
+
+
+Original: April 28/2005 
+Updated: Nov 26/2007
+Updated: Oct 6/2008

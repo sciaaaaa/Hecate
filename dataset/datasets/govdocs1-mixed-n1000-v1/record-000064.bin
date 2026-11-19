@@ -1,0 +1,2127 @@
+<!doctype tei2 public "-//Library of Congress - Historical Collections (American Memory)//DTD ammem.dtd//EN" [<!entity % images system "n3839.ent"> %images;]>
+<tei2>
+<teiheader type="text" creator="American Memory, Library of Congress" status="new" date.created="2/22/96">
+<filedesc>
+<titlestmt>
+<title>
+N3839
+</title>
+<title>
+In memoriam; Grace Raymond Hebard, 1861-1936
+</title>
+<title>
+Winning the Vote for Women:  The National American Woman Suffrage Association Collection; American Memory, Library of Congress.
+</title>
+<resp>
+<role>
+Selected and converted.
+</role>
+<name>
+American Memory, Library of Congress.
+</name>
+</resp>
+</titlestmt>
+<publicationstmt>
+<p>
+Washington, 1993.
+</p>
+<p>
+Preceding element provides place and date of transcription only.
+</p>
+<p>
+This transcription intended to be 99.95% accurate.
+</p>
+<p>
+For more information about this text and this American Memory collection, refer to accompanying matter.
+</p>
+</publicationstmt>
+<sourcedesc>
+<lccn>
+e38-39
+</lccn>
+<coll>
+Selected from the National American Woman Suffrage Association Collection, Rare Book Special Collections Division, Library of Congress.
+</coll>
+<copyright>
+Copyright status not determined.
+</copyright>
+</sourcedesc>
+</filedesc>
+</teiheader>
+<text type="publication">
+<front>
+<pageinfo><controlpgno entity="n3839001">001</controlpgno><printpgno></printpgno></pageinfo>
+<div>
+<p>
+<hi rend="other">
+Grace Raymond Hebard
+</hi>
+</p>
+<pageinfo><controlpgno entity="n3839002">002</controlpgno><printpgno></printpgno></pageinfo>
+<illus entity="n3839-01.i01">
+</illus>
+</div>
+<pageinfo><controlpgno entity="n3839003">003</controlpgno><printpgno></printpgno></pageinfo>
+<div type="idinfo">
+<p>
+<hi rend="other">
+In Memoriam
+<lb>
+Grace Raymond Hebard
+<lb>
+1861-1936
+</hi>
+</p>
+<p>
+<hi rend="other">
+Published by
+<lb>
+The Faculty of the University of Wyoming
+<lb>
+June, 1937
+</hi>
+</p>
+</div>
+<pageinfo><controlpgno entity="n3839004">004</controlpgno><printpgno></printpgno></pageinfo>
+<div>
+<p>
+<handwritten>
+JA93
+<lb>
+.H4I5
+</handwritten>
+</p>
+<p>
+<hi rend="other">
+Grace Raymond Hebard,
+</hi>
+<lb>
+engineer, administrator,librarian, historian, champion of womanhood, citizen, teacher, and friend of youth.  A library of her books preserve for us the heroic history of our pioneer; women enjoy more quality; a University lives more richly; a multitude of youth of yesterday and today honor the memory of her friendliness; future students will enjoy her benefactions; and all these because she lived and served.  We mourn her absence but we glory in her record of noble achievement.
+</p>
+<p>
+<hi rend="smallcaps">
+Arthur Griswold Crane.
+</hi>
+</p>
+<p>
+<stamped>
+LIBRARY OF CONGRESS
+<lb>
+OCT 5 1937
+<lb>
+DIVISION OF DOCUMENTS
+</stamped>
+</p>
+</div>
+<pageinfo><controlpgno entity="n3839005">005</controlpgno><printpgno>3</printpgno></pageinfo>
+<div>
+<head>
+Chronology
+</head>
+<list>
+<item>
+<p>
+1861
+<hsep>
+Grace Raymond Hebard born July 2, in Clinton, Iowa.
+</p>
+</item>
+<item>
+<p>
+1882
+<hsep>
+Bachelor of Science degree, University of Iowa.
+</p>
+</item>
+<item>
+<p>
+1882
+<hsep>
+Came to Wyoming as draftsman in Surveyor General&apos;s office Cheyenne.
+</p>
+</item>
+<item>
+<p>
+1885
+<hsep>
+Master of Arts, degree, University of Iowa.
+</p>
+</item>
+<item>
+<p>
+1889
+<hsep>
+Championed woman suffrage clause before Wyoming State Constitutional Convention.
+</p>
+</item>
+<item>
+<p>
+1891
+<hsep>
+Appointed Deputy State Engineer under Dr. Elwood Mead.
+</p>
+</item>
+<item>
+<p>
+1891
+<hsep>
+Appointed by Governor Amos Barber as member and secretary of University Board of Trustee.  Served as board member of the library committee.
+</p>
+</item>
+<item>
+<p>
+1993
+<hsep>
+Doctor of Philosophy degree from Illinois Wesleyan University
+</p>
+</item>
+<item>
+<p>
+1898
+<hsep>
+Admitted to the Wyoming bar.
+</p>
+</item>
+<item>
+<p>
+1904
+<hsep>
+Wrote The 
+<hi rend="italics">
+The History and Government of Wyoming.  Eleven Editions).
+</hi>
+</p>
+</item>
+<item>
+<p>
+1904
+<hsep>
+Continued as secretary of the Board of Trustees until 1908 when she was appointed university librarian which office she led until 1919.
+</p>
+</item>
+<item>
+<p>
+1905
+<hsep>
+Built &lsquo;The Doctors&apos; Inn&rdquo; with Dr. Agnes M. Wergeland.
+</p>
+</item>
+<item>
+<p>
+1906
+<hsep>
+Promoted to associate professorship.
+<hsep>
+</p>
+</item>
+<item>
+<p>
+1907
+<hsep>
+Wrote 
+<hi rend="italics">
+The Pilot of the First Men to Cross the American continent.
+</hi>
+</p>
+</item>
+<item>
+<p>
+1908
+<hsep>
+Promoted to full professorship and appointed head of department of political economy in which capacity she served until retirement in 1931.
+</p>
+</item>
+<item>
+<p>
+1911
+<hsep>
+Wrote 
+<hi rend="italics">
+The Pathbreakers from River to Ocean.
+</hi>
+  (Six Editions.)
+</p>
+</item>
+<item>
+<p>
+1913
+<hsep>
+Wrote 
+<hi rend="italics">
+The First Woman Jury.
+</hi>
+</p>
+</item>
+<item>
+<p>
+1914 Admitted to practice before the Wyoming Supreme Court.
+<hsep>
+</p>
+</item>
+<item>
+<p>
+1917
+<hsep>
+Gave untiring service to the American cause in the World War as leader in Wyoming food conservation and Liberty loan speaker.
+</p>
+</item>
+<item>
+<p>
+1918
+<hsep>
+Wrote War 
+<hi rend="italics">
+Service of the University of Wyoming.
+</hi>
+</p>
+</item>
+<item>
+<p>
+1919-20
+<hsep>
+Wrote 
+<hi rend="italics">
+How Woman Suffrage Came to Wyoming.
+</hi>
+</p>
+</item>
+<item>
+<p>
+1921 Awarded Casper Kiwanis Club medal for outstanding public service.
+<hsep>
+</p>
+</item>
+<item>
+<p>
+1921
+<hsep>
+Wrote ,
+<hi rend="italics">
+The first Honorary Degree from the University of Wyoming Conferred upon Mrs. Carrie Chapman Catt June 12th, 1921.
+</hi>
+</p>
+</item>
+<pageinfo><controlpgno entity="n3839006">006</controlpgno><printpgno>4</printpgno></pageinfo>
+<item>
+<p>
+1922
+<hsep>
+Wrote 
+<hi rend="italics">
+Teaching Wyoming History by Counties.
+</hi>
+</p>
+</item>
+<item>
+<p>
+1922
+<hsep>
+Wrote 
+<hi rend="italics">
+The Bozeman Trail
+</hi>
+ in collaboration with E. A. Brininstool.
+</p>
+</item>
+<item>
+<p>
+1926
+<hsep>
+Wrote 
+<hi rend="italics">
+Civics for Use in Wyoming Public Schools.
+</hi>
+</p>
+</item>
+<item>
+<p>
+1930
+<hsep>
+Wrote 
+<hi rend="italics">
+Washakie.
+</hi>
+</p>
+</item>
+<item>
+<p>
+1932
+<hsep>
+Wrote 
+<hi rend="italics">
+Sacajawea, Guide and Interpreter of the Lewis and Clark Expedition.
+</hi>
+</p>
+</item>
+<item>
+<p>
+1935
+<hsep>
+Wrote 
+<hi rend="italics">
+The Birth of Wyoming Day
+</hi>
+ with Marie Montab&eacute;.
+</p>
+</item>
+<item>
+<p>
+1935
+<hsep>
+Wrote 
+<hi rend="italics">
+The Pony Express.
+</hi>
+ (Unpublished).
+</p>
+</item>
+<item>
+<p>
+1936
+<hsep>
+(September 29) Board of Trustees, University of Wyoming, approved the granting of an honorary degree Doctor of Laws to be conferred commencement, 1937.
+</p>
+</item>
+<item>
+<p>
+1936
+<hsep>
+Died October 11, at Laramie, Wyoming.
+</p>
+</item>
+</list>
+<div>
+<head>
+PUBLIC COMMISSIONS AND MEMBERSHIPS IN PROFESSIONAL
+<lb>
+HONORARY, AND SOCIAL SOCIETIES
+</head>
+<list>
+<item>
+<p>
+State Regent, Daughters of the American Revolution.
+</p>
+</item>
+<item>
+<p>
+Vice President, National Society of Women Lawyers.
+</p>
+</item>
+<item>
+<p>
+Vice President, Writers of the Northwest.
+</p>
+</item>
+<item>
+<p>
+First President, Wyoming Library Association.
+</p>
+</item>
+<item>
+<p>
+Director, Wyoming Public Health Association Board.
+</p>
+</item>
+<item>
+<p>
+Secretary, Wyoming Oregon Trail Commission.
+</p>
+</item>
+<item>
+<p>
+Member, State Board of Teacher Examiners.
+</p>
+</item>
+<item>
+<p>
+Member, Wyoming Historical Association Advisory Board.
+</p>
+</item>
+<item>
+<p>
+Member, American College Quill.
+</p>
+</item>
+<item>
+<p>
+Member, Phi Kappa Phi.
+</p>
+</item>
+<item>
+<p>
+Member, Pi Gamma Mu.
+</p>
+</item>
+<item>
+<p>
+Member, Pi Beta Phi.
+</p>
+</item>
+<item>
+<p>
+Member, American Association for the Advancement of Science.
+</p>
+</item>
+<item>
+<p>
+Member, American Association of University Professors.
+</p>
+</item>
+<item>
+<p>
+Member, Business and Professional Women&apos;s Club.
+</p>
+</item>
+</list>
+<p>
+In addition to carrying heavy teaching and administrative duties Dr. Hebard was unusually active in civic and public affairs.  She assumed leadership in World War work, naturalization and woman&apos;s suffrage.  She was active in preserving the unity of the University when decentralization was threatened.  She took the initiative in marking points of interest and commemorating many events important in Wyoming history.
+</p>
+</div>
+</div>
+<pageinfo><controlpgno entity="n3839007">007</controlpgno><printpgno>5</printpgno></pageinfo>
+<div>
+<head>
+University of Wyoming
+<lb>
+Memorial Exercises
+<lb>
+IN HONOR OF
+<lb>
+Dr. Grace Raymond Hebard
+<lb>
+UNIVERSITY AUDITORIUM
+<lb>
+MONDAY, DECEMBER SEVENTH
+<lb>
+NINETEEN HUNDRED AND THIRTY-SIX
+<lb>
+TEN O&apos;CLOCK
+</head>
+<p>
+President A. G. Crane, 
+<hi rend="italics">
+Presiding
+</hi>
+</p>
+<list>
+<item>
+<p>
+Invocation
+<hsep>
+The Very Reverend Eric Montizambert
+</p>
+</item>
+<item>
+<p>
+Representing the Board of Trustees
+<hsep>
+Mr. Wallace C. Bond
+</p>
+</item>
+<item>
+<p>
+Representing the Alumni
+<hsep>
+Mrs. Agnes Wright Spring
+</p>
+</item>
+<item>
+<p>
+Representing the Students
+<hsep>
+Miss Eloise Christensen
+</p>
+</item>
+<item>
+<p>
+String Ensemble
+<hsep>
+&ldquo;Ave Varum Corpus,&rdquo;
+<hi rend="italics">
+Mozart
+</hi>
+</p>
+</item>
+<item>
+<p>
+Piano&mdash;Lola Yocum.
+</p>
+</item>
+<item>
+<p>
+Violin&mdash;Miriam Crowley, Donna Burtsfield, Janet Bare, Wilora Dolezal, Hortense Booth.
+</p>
+</item>
+<item>
+<p>
+Cello&mdash;Lois Shorey.
+</p>
+</item>
+<item>
+<p>
+Representing the People of Wyoming
+<hsep>
+Mrs. T. S. Taliaferro, Jr.
+</p>
+</item>
+<item>
+<p>
+Representing the Department
+<hsep>
+Mr. Ralph E. Conwell
+</p>
+</item>
+<item>
+<p>
+Representing the Faculty
+<hsep>
+Dr. Aven Nelson
+</p>
+</item>
+<item>
+<p>
+Response
+<hsep>
+Mr. Lockwood Hebard
+</p>
+</item>
+<item>
+<p>
+Vocal Solo
+<hsep>
+&ldquo;Goodbye Sweet Day,&rdquo; 
+<hi rend="italics">
+Vannah
+</hi>
+</p>
+</item>
+<item>
+<p>
+Beatrice Dana Marston.
+</p>
+</item>
+<item>
+<p>
+Accompanist&mdash;Mrs. Tony Fellhauer.
+</p>
+</item>
+<item>
+<p>
+Benediction
+<hsep>
+The Very Reverend Eric Montizambert
+</p>
+</item>
+</list>
+</div>
+<pageinfo><controlpgno entity="n3839008">008</controlpgno><printpgno>6</printpgno></pageinfo>
+<div>
+<head>
+THE INVOCATION
+<lb>
+By the Very Reverend Eric Montizambert
+</head>
+<p>
+<hi rend="smallcaps">
+Almighty God,
+</hi>
+ Father of Truth and Giver of Light, Who brought our fathers into this land, and set their feet in a large room:  Give thy grace, we beseech thee, to us their children, that we may prove ourselves a people mindful of thy favor, and glad to do thy will.  Bless our Nation with honorable industry, sound learning, and pure manners.  Save us from lawlessness and discord, pride, and arrogance, and fashion into one godly people the multitudes brought hither from the far places of the earth.  Give to all the spirit of service, love, and mutual forbearance.  Grant that, after the fashion of thy child departed, we may spend ourselves in the task of learning the truth that makes men free.  Endow us with courage to follow the right wheresoever it may lead, the strength to fight for liberty of mind, the will to persevere though principalities and powers be against us.
+</p>
+<p>
+We humbly thank thee for the example by thy servant set in the pursuit of knowledge, that we advancing in her footprints, may share with her the enlightenment of man through the revelation of discovery.  Grant to her that she may grow to the fullness of a perfect personality in the realm of light, and to us that knowledge of thee which is the secret of strength and the path to progress.  Forgive us for the cruelty of selfishness, the bitterness of hate, and the lust of gold.  Lead us to an understanding of thy wisdom.  Teach us to serve thee in serving men.  Guide us through the broad highways of peace and brotherhood that, when thy Kingdom comes, we may not be found wanting in thy sight.  In prosperity make us thankful, and in the day of trouble suffer not our trust in thee to fail.  To thy loving care we commend the soul of thy child departed.  &ldquo;May she rest in peace, and may light perpetual shine upon her.&rdquo;  Grant to her loved ones bereaved the consolations of thy Holy Spirit and, to us remaining in the heat of battle, the power to fulfill thy gracious purpose in this land.
+</p>
+<p>
+<hi rend="smallcaps">
+Amen.
+</hi>
+</p>
+</div>
+</front>
+<body>
+<pageinfo><controlpgno entity="n3839009">009</controlpgno><printpgno>7</printpgno></pageinfo>
+<div>
+<head>
+REPRESENTING THE BOARD OF TRUSTEES
+<lb>
+Wallace C. Bond
+<lb>
+President of the Board of Trustees
+</head>
+<p>
+The University of Wyoming will soon be a half a century old, and in the past fifty years it has developed from a struggling school in a newly created frontier state to an institution of higher learning, comparing most favorably with its neighbors.  It has acquired prestige and standing with the passing years and has begun to have a history replete with memories of those splendid men and women whose labors and unselfish devotion have become one of its proudest traditions.
+</p>
+<p>
+We meet here today to honor the memory and pay homage to the life and character of Dr. Grace Raymond Hebard.  This splendid assembly and the tributes of the faculty, the student body, the alumni, and the men and women of Wyoming testify most eloquently to her accomplishments, her generous kindliness, and her devotion to and interest in the youth of this state.  It is perhaps fitting that I, as representative of the Board of Trustees, should call attention to a certain phase of her career which, because of her prominence as a teacher and historian, has sometimes been overlooked.  I refer to her splendid services as a member of the Board of Trustees of the University of Wyoming and as secretary of the Board.  In 1891 she was appointed a trustee and serve as such until 1904, and during that period and for an additional four years, until 1908, she was the secretary of the Board.  In both capacities Dr. Hebard was of the greatest value to the University, Winning the highest esteem of her colleagues by her character and ability.  Of her services as librarian and as a member of the faculty others will speak.
+</p>
+<p>
+While the trustees of the University lament her demise and feel that the institution has suffered an irreparable loss, we are proud of her association with the University.  Her labors and loyalty are gratefully appreciated and her life and achievements will be inspiration to the women of Wyoming.  Long after most of us are forgotten her name will be cherished for what she was and for what she accomplished.
+</p>
+</div>
+<pageinfo><controlpgno entity="n3839010">010</controlpgno><printpgno>8</printpgno></pageinfo>
+<div>
+<head>
+REPRESENTING THE ALUMNI
+<lb>
+Mrs. Agnes Wright Spring
+<lb>
+Class of 1913
+</head>
+<p>
+Dr. Grace Raymond Hebard was born in the newly settled Middle West, where both the spirit and material demands of pioneer life fostered co-education.  In the liberal atmosphere of the University of Iowa, the second state university in the nation to adopt co-education, it was possible for Grace Raymond Hebard to enroll in the engineering college and to win the distinction of being the first woman to receive a science degree at the University of Iowa.
+</p>
+<p>
+Although she worked for a time as a draftsman in the United States Surveyor General&apos;s office in Cheyenne, later served as deputy state engineer under the late Dr. Elwood Mead, and was admitted to practice law at the bar in Wyoming, she was always a womanly woman.  Through the fact that she could work side by side with men, doing a man&apos;s work and asking no especial favors because she was a woman, she accomplished more for the cause of women than in any other way.
+</p>
+<p>
+The suffrage leaders who for years had their eyes on Wyoming (the first state to adopt equal suffrage), were always extremely proud to honor Dr. Hebard and to hold her up as an example of the finest type of American womanhood.  Among her many personal friends were internationally known suffragists including Mrs. Carrie Chapman Catt, Mary Garret Hay, Dr. Valeria Parker, and Mrs. Walter MacNabb Miller.
+</p>
+<p>
+The pursuit of a career was purely the result of choice as Dr. Hebard had many admirers and had various opportunities to choose between a home and a career.   As a young woman she shared the social and athletic activities of her many young friends in Cheyenne.  In the 1880&apos;s she wore her hair in a stylish bob and with her brothers, Fred and Lockwood, her sister, Alice, and her friend Mr. E. A. Logan, who is here with us today, she belonged to the set of young people which participated in many of the functions at the aristocratic old Cheyenne club.  Just a few short months ago, in reminiscing, Dr. Hebard told me in detail of the brilliant wedding of Louise Swan and R. S. Van Tassell, at which she was the maid of honor&mdash;one of the outstanding events of the day.
+</p>
+<pageinfo><controlpgno entity="n3839011">011</controlpgno><printpgno>9</printpgno></pageinfo>
+<p>
+Dr. Hebard excelled in tennis, in skating, and was a splendid equestrienne.  Too, she was for several years, the state golf champion of Wyoming.
+</p>
+<p>
+I lived for some time in the home of Alice Hebard in Cheyenne and there came to know many of the little family traditions and could appreciate the strict background of the earlier years which the Hebard family spent as the sons and daughters of a minister.  And I appreciated fully the little mother who courageously came with the two sons and two daughters to the pioneer prairies of Wyoming, where the family took its place among the leading families of the new Territory.
+</p>
+<p>
+Because of her unusual personality and her marked ability, Dr. Hebard was elected to the faculty of the new University of Wyoming in 1891, in the capacity of librarian and instructor in political economy and political science and brought to her work the broadminded views and splendid spirit of the University of Iowa.
+</p>
+<p>
+Every alumnus of the University of Wyoming has known Dr. Hebard.  Year after these alumni have returned to the campus and all invariably have paid visits to the office of Dr. Hebard, as well as to the offices of Dean Soule and Dr. Nelson, our faculty pioneers.
+</p>
+<p>
+It was as librarian that Dr. Hebard made the opportunity for close personal contact with the entire student body.  In those days the roll of the Preparatory School far outnumbered the University proper and hundreds of young students, away from home for the first time, turned to Dr. Hebard for advice and help.  There was no dean of women then&mdash;nor a dean of men&mdash;and she became chief counsellor to hundreds.  Innumerable constructive movements were started in her private office.  Organizations such as the Quill Club, the Women&apos;s League, and Wyoming Alpha of Pi Beta Phi had their beginning there.
+</p>
+<p>
+Although Dr. Hebard was always sympathetic with the students, she diplomatically directed their activities in order that they might be of the greatest benefit to the University in general.  For instance, I recall one occasion upon which a rule was passed that the women students should have uniform gymnasium suits (despite the fact that most of them already owned suits of varying types).  Many of the students felt that new suits would be impossible from a financial standpoint and rebelled against the rule.  Dr. Hebard <pageinfo><controlpgno entity="n3839012">012</controlpgno><printpgno>10</printpgno></pageinfo>quickly provided a means for the needy students to earn money by working in the library and thus kept harmony.
+</p>
+<p>
+Many alumni undoubtedly have looked back over the years and have realized that Dr. Hebard must have helped them with work for which she paid for her own pocket.  Never did she refuse anyone an opportunity for self help if the matter could possibly be worked out.
+</p>
+<p>
+It was my privilege when I was fifteen to become Dr. Hebard&apos;s only assistant in the University library, succeeding Deane Hunton who had just been graduated.  Through the next four years I had the opportunity to observe what an amazing capacity Dr. Hebard had for detail and for work.  She was tireless in her efforts to be of assistance to students and faculty alike in their research work.  She had a photographic type of mind which could remember numbers of pages, chapters in books, innumerable clues which proved of inestimable value in tracing facts or in collecting data.
+</p>
+<p>
+The splendid background which she acquired in the library was of remarkable aid in after years when Dr. Hebard devoted so much of her time to intensive research work.
+</p>
+<p>
+It is entirely consistent that Dr. Hebard&apos;s historical work should have come as the direct result of her interest in women.  It was in 1904 that she listened with interest to a lecture by Dr. Edwin E. Slosson of the University, who had just returned from a trip to the World&apos;s Fair in St. Louis.  With a pointer, Dr. Slosson traced the Lewis and Clark route and told of the statue which had been erected in St. Louis to the memory of Sacajawea, an Indian woman, who had assisted her husband, Charbonneau, in guiding the party to the Pacific Ocean.  Little, he said, was known of this Indian woman&apos;s life.  What had become of her after the trip?  Why had no one written the story of her life?  Dr. Hebard wanted to know.  And then she set to work on her first real piece of historical research, resulting first in an article for the Journal of American History, and culminating some 30 years later in the writing of a magnificent book of 300 pages.
+</p>
+<p>
+Later came the story of the first woman&apos;s jury in Laramie, a description of how women conducted themselves as jurors.  This work led to more extensive writings.
+</p>
+<p>
+As. Dr. Hebard&apos;s assistant and private secretary I had the privilege of typewriting the final manuscript of 
+<hi rend="italics">
+Pathbreakers from <pageinfo><controlpgno entity="n3839013">013</controlpgno><printpgno>11</printpgno></pageinfo>River to Ocean,
+</hi>
+ a work which soon was adopted as a supplementary reader.
+</p>
+<p>
+Dr. Hebard early recognized the worthiness of placing markers at the various historic points in the state.  Through her influence the Jacques LaRamie chapter of the D. A. R. offered a prize to the university students for the best essay on the subject, &ldquo;A Place in Wyoming Worthy of a Monument.&rdquo;  That was some twenty-five years ago.  When I asked what place she thought most worthy of a marker, Dr. Hebard did not hesitate to recommend that I write on &ldquo;South Pass, where the Fourth of July was celebrated in 1836 by Whitman and Spalding and their brides, the first women to cross Oregon Trail.&rdquo;  Within recent years a marker has been erected at the spot by the Wyoming Landmarks Commission.  With unerring judgment Dr. Hebard knew the historic value of the spot years and years before it was recognized officially.  The same held true of dozens of other sites in the state, which Dr. Hebard designated or marked herself with rude stones or improvised tablets, firm in the belief that some day they would be given proper recognition by the people of Wyoming.
+</p>
+<p>
+After years of service as librarian and an instructor of political economy, Dr. Hebard realized that she must choose between the library and the teaching field as the University had grown to such an extent that the work in the two fields could not be carried on by one person.  She choose to teach Wyoming history in addition to the political economy and supplement the teaching work with her writing.
+</p>
+<p>
+Some thirty-five or forty years ago she began to preserve all historical data pertaining to Wyoming and the Rocky Mountains.  She interviewed pioneers, clipped early newspapers, followed old trails, visited old forts and historic sites by auto, wagon, horseback and even by snowshoe and was ever alert for any clue that might lead to the collection of original historic material.  And thus, step by step she built up the finest collection of data of its kind now assembled which in the future will be available to research workers through the University of Wyoming.  From this wealth of material she wrote sixteen volumes of books and many, many articles.
+</p>
+<p>
+The hours and months and years of painstaking historical research and writing were performed for the most part in &ldquo;The Doctor&apos;s <pageinfo><controlpgno entity="n3839014">014</controlpgno><printpgno>12</printpgno></pageinfo>Inn,&rdquo; Dr. Hebard&apos;s home, which was her castle.  A poem, written by Dr. Agnes M. Wergeland, who built the homes with Dr. Hebard, gives an intimate view within the friendly walls and applies both to the creative work of Dr. Wergeland and Dr. Hebard.
+</p>
+<p>
+To quote a few lines of this poem:
+</p>
+<p>
+MY HOME
+</p>
+<p>
+<hi rend="blockindent">
+World farewell!
+<lb>
+I shut thee out when once I shut my doors;
+<lb>
+My key in its own home-nest locks thee out;
+<lb>
+The day&apos;s toil not is ended, I am home.
+<lb>
+Home, home! and free!  Now my own life beings&mdash;
+<lb>
+You know how Chopin, shutting Paris out,
+<lb>
+Closing his door on all the feverish world.
+<lb>
+Wrote that Mazurka, where in memory
+<lb>
+The dream of Poland took him in its arms
+<lb>
+And led him home to Warsaw...
+</hi>
+</p>
+<p>
+And thus within these friendly walls of her home, Dr. Hebard labored on her beloved manuscripts.
+</p>
+<p>
+There is not time here to tell of each of her works but I shall mention in passing the one which to me represents the most persistent, the most interesting, the most original and the most fruitful research of all&mdash;
+<hi rend="italics">
+Sacajawea.
+</hi>
+</p>
+<p>
+One day, about a year ago, Dr. Hebard talked with me long late into the dusk, telling step by step how she had traced this story of the Indian woman guide and she concluded by telling me the name which the Shoshone gave her when she was doing the research work up on the Wind River Reservation.  This name, Dr. Hebard requested, should not be made public until after her death:  Zont-Tumah-Two-Wiper-Hinze was the name, meaning, &ldquo;The good white woman.  The woman with one tongue.&rdquo;  They felt, she said, that she was telling the truth about their Indian ancestor.
+</p>
+<p>
+In hearing this story of her research I was fascinated with the lure of the trail that led her from North Dakota to Oklahoma and from the Pacific Coast to Germany, a trail that criss-crossed many times, but as she proudly stated, never ended in a blind alley&mdash;always coming out into the clear to join the main road that wound surely and convincingly to the grave of an old Shoshone <pageinfo><controlpgno entity="n3839015">015</controlpgno><printpgno>13</printpgno></pageinfo>woman in the burying ground of the Wind River Reservation&mdash;none other than Sacajawea.
+</p>
+<p>
+This road of research was anything but a smooth one.  In the face of disbelief, caustic criticism, ridicule, and open opposition, Dr. Hebard courageously continued to unearth facts to fit together bit by bit, until at last she built an impregnable fortress of truths which will, I feel sure, withstand attack.
+</p>
+<p>
+Her last days were spent in work pertaining to the unused appropriation made by Congress to provide for a monument to Sacajawea to be erected in Wyoming.  This appropriation is unused because Wyoming&apos;s neighbors have disputed our right to such a distinction, claiming Sacajawea as their own.  Several government investigation have been sent out from Washington to gather all possible data relative to Sacajawea&apos;s life and although no final decision has yet been made in Washington, all of the reports thus far made public have corroborated Dr. Hebard&apos;s findings.
+</p>
+<p>
+Two days before she was stricken by her last illness, Dr. Hebard wrote to me asking for some notes which I had made during a conversation with her.  In conclusion she said:  &ldquo;I think we are narrowing things down quite nicely and if I can live a bit longer we may be able to establish what I have been working on for half a century.&rdquo;
+</p>
+<p>
+The finest tribute, which the people of Wyoming could pay to the memory of Dr. Hebard as an historian, would be to carry on to completion her endeavor to obtain final, official, federal recognition of the fact that Sacajawea lived on the Shoshone Reservation and is buried there.
+</p>
+<p>
+As a representative of the alumni of the University of Wyoming, I wish to join in paying homage to one whose name has been indelibly written into the annals of the state as its most eminent historian&mdash;one whose influence has been felt in the thousands of lives of those who have assigned in the making of the history of Wyoming as well as those who are attempting to preserve its history.
+</p>
+<p>
+The art of history writing is a most exacting one.  The rewards are seldom commensurate with the time and effort involved.  Yet there are always the joy and the satisfaction of having done work well.  Dr. Hebard experienced the joy and satisfaction of doing many splendid pieces of work mangnificently.  She always <pageinfo><controlpgno entity="n3839016">016</controlpgno><printpgno>14</printpgno></pageinfo>endeavored to find the facts and to present them clearly and logically.  As an historian she was as the Shoshone so aptly expressed it:  
+<hi rend="smallcaps">
+Zont&mdash;Tumah&mdash;Two-Wiper&mdash;Hinze&mdash;the Good White Woman.  The Woman with One Tongue.
+</hi>
+</p>
+</div>
+<div>
+<head>
+DR. HEBARD AS HER STUDENTS KNEW HER
+<lb>
+Eloise Christensen
+<lb>
+A Member of Dr. Hebard&apos;s Last Class
+</head>
+<p>
+While others today portray the life of Dr. Grace Raymond Hebard it is the honor and privilege of us&mdash;her students&mdash;humbly to paint a word picture of our beloved teacher.
+</p>
+<p>
+Dr. Grace Raymond Hebard, as we find her in 
+<hi rend="italics">
+Who&apos;s Who in America
+</hi>
+ is an austere figure of outstanding accomplishments but on the campus we knew her behind the lines, not as a mounted general with gleaming shoulder straps and drawn saber; we saw rather the somewhat slight gentlewoman of high standards and earnest endeavor.  Her life exemplified the motto which she ever held before her students, &ldquo;Hard work and honest effort are the only means of gaining real success.&rdquo;
+</p>
+<p>
+Resolutely she urged her students to press forward with the command, &ldquo;On women!&rdquo; There are thinkers and there are doers, but few can fill both capacities successfully.  She did.  Always did she, unassumingly, push through the throng to give aid or offer monetary assistance to those who lagged or were swept backward by reverses.  Again we heard fine words of caution of unethical modes of university life whispered into the listeners&apos; ears.
+</p>
+<p>
+Not only was Dr. Hebard a persistent and prodigious worker but her enthusiasm and sparkling wit enlivened all her class work.  So vividly were historical incidents depicted that we left her classroom transplanted to the pioneer life which had been so discerningly and cleverly portrayed.  We saw her with a weather beaten piece of oak, which as she conversed with us, became the heavy yoke borne by the oxen as they trod along the Oregon Trail.  Then a crude, ugly stone became the implement by which corn was ground to feed the desperate men of the Lewis and Clark Expedition.  A bit of twisted leather thong once held the foot of old Chief Washakie as he rode forth, a 
+<hi rend="italics">
+friend
+</hi>
+to the white man or a deadly <pageinfo><controlpgno entity="n3839017">017</controlpgno><printpgno>15</printpgno></pageinfo>foe to the Crow.  From a bit of beaded buckskin, exhibited before our eyes, came forth Sacajawea, the Indian girl guide of the Lewis and Clark Expedition.
+</p>
+<p>
+Other homely objects which she so often displayed gave vivid and lasting memories of Ashley&apos;s fur men, old Fort Laramine, Fort Bridger, the Pony Express, and the ferocious Indian Wars of our own state.
+</p>
+<p>
+The paint brush oft became a deeper hue&mdash;crimsoned by the bleeding feet of the pioneer as they broke the trail to the great West.
+</p>
+<p>
+As one of her students aptly expressed it, &ldquo;I never knew what a glorious romantic state I was living in until I had been in Dr. Hebard&apos;s class.&rdquo;  Ever will the Oregon Trail, South Pass, or Devil&apos;s Gate, Independence Rock, old Fort Laramine, and the many markers throughout the state be to us, her students, memorials of Dr. Hebard.  Historically and romantically, &ldquo;Wyoming 
+<hi rend="italics">
+is
+</hi>
+worth knowing&rdquo; because Dr. Hebard taught us so.
+</p>
+</div>
+<div>
+<head>
+REPRESENTING THE PEOPLE OF WYOMING
+<lb>
+Mrs. T. S. Taliaferro, Jr.
+<lb>
+Leader in Civic Affairs
+</head>
+<p>
+In reviewing the life of Dr. Grace Raymond Hebard, we can only think of her as the person spoken of in the parable with the ten talents, for she was a bachelor of science, a doctor of philosophy, an engineer, a draftsman, a lawyer, a professor of political economy, and historian.
+</p>
+<p>
+She was a trustee of the University and served for many years as secretary of the University Board.  She was associated with the university from 1891 until the day of her death&mdash;in all 45 years.
+</p>
+<p>
+Dr. Hebard was also chairman of the Research Committee which had for its work the collection of material pertaining to all laws of the State concerning women and children.
+</p>
+<p>
+During the World War, Dr. Hebard threw herself into war work, serving with the Liberty Loan, Red Cross, etc., but especially with national defense.
+</p>
+<p>
+I quote you from the Laramine Republican of April 6, 1918:
+</p>
+<pageinfo><controlpgno entity="n3839018">018</controlpgno><printpgno>16</printpgno></pageinfo>
+<p>
+&ldquo;Dr. Grace Raymond Hebard of the University of Wyoming, one of the leading educators of the state, has been released from her duties at the University in order that she may tour the state to advance the Third Liberty Loan.
+</p>
+<p>
+&ldquo;She is the woman above all other whom the people of Wyoming will listen to and her influence will count for much in the campaign.&rdquo;
+</p>
+<p>
+And then also
+</p>
+<p>
+&ldquo;LARAMIE, WYOMING, MAY 10, 1918.  DR. HEBARD BACK AT UNIVERSITY POST&mdash;AFTER UNITED STATES SERVICE
+</p>
+<p>
+&ldquo;Dr. Grace Raymond Hebard at the University of Wyoming who has been devoting the last month to work in the state of wyoming in connection with the service now uppermost in the minds of the people of the united States, has returned, having visited every county in the state except one, while out, the trip beginning April 6.  Dr. Hebard delivered forty-five addresses to 9500 people, speaking as many as four times daily.  She spoke in motion picture theaters to large audiences, addressed audiences assembled for the purpose, visited high schools, spoke at Red Cross meetings, and is credited with great assistance in selling a vast number of Liberty Bonds.  Her subjects were &lsquo;Why I Buy Liberty Bonds,&rsquo; War Service,&rsquo; &lsquo;Conservation of Foods,&rsquo; and similar matters now being discussed all over the country.  She was very well received and the papers of the state have printed some very flattering mention of her coming and her addresses.&rdquo;
+</p>
+<p>
+What I wish to specialized on today is the important part Dr. Hebard took in having the State of Wyoming ratify the Nineteenth Amendment of the Federal Constitution, thereby helping Wyoming to be leader in giving the right of suffrage to the less fortunate women of other states.
+</p>
+<p>
+Dr. Carrie Chapman Catt, accompanied by Mrs. Costigan, Mrs. Penfield, Dr. Valeria Parker, and Miss Shuler, were visiting some of the western states, urging them ratify the amendment.  Dr. Hebard invited Dr. Catt and her party to come to Laramie to meet with women from all over Wyoming.  This meeting was called for the purpose for requesting Governor Robert D. Carey to call an extra session of the Wyoming Legislature in <pageinfo><controlpgno entity="n3839019">019</controlpgno><printpgno>17</printpgno></pageinfo>order to ratify the amendment, for while it had been passed by the Senate and House of Representative of the United States, it was required to be ratified by thirty-six of the states, and there was no time to loose if the women of the nation were to vote in next president election.
+</p>
+<p>
+Dr. Catt addressed the first session of the conference in a stirring speech, which was a sensation.  Dr Catt delivered an arraignment of Wyoming casting aside th topic which had been announced on the program, &ldquo;Wake Up America.&rdquo;  She adopted the battle-cry, &ldquo;Wake Up Wyoming,&rdquo; pleading with the women of this state, the first in the United to grant suffrage to its women, to help the women of the nation by calling a special session of the Legislature to ratify the amendment.
+</p>
+<p>
+The women of Wyoming indorsed Dr. Catt and Dr. Hebard in their efforts to ratify the amendment, and advised them to appear in person Governor Carey.  This they did.  The Governor was moved by their earnestness, and called ann extra session of the Wyoming Legislature, which ratified the amendment.
+</p>
+<p>
+At these conference Mrs. E. H. Knight and Mrs. M. C. Brown presided.  Address of Welcome was made by Mayor Ivinson.  Governor Carey was to have welcomed the visitors to the state, but owing to the fact that he was detained in Cheyenne, Dr. Hebard asked Mrs. T. S. Taliaferro, Jr., to substitute in his place.
+</p>
+<p>
+Judge M. C. Brown of Laramie, member of the Second Territorial Legislature, told of the fight in that session to repeal the Suffrage Act.
+</p>
+<p>
+&ldquo;Suffrage and the Home,&rdquo; was the topic which Mrs. Eva Downey cleverly handled.  She gave interesting incidents of protests which sprang from the men when the first jury of women was impaneled.  Later the visitors had their pictures taken in the place where the first jury with women members was held.  One of the bright features of the conference called by Dr. Hebard was an informal supper given by Dr. Hebard and her sister, Alice, at &ldquo;The Doctor&apos;s Inn,&rdquo; where many interesting tales were told.  Among them, Mrs. Theresa Jenkins of Cheyenne, who was the life-long friend of Dr. Catt, told of her excitement in casting he first vote in 1869.  When her husband voted, it had heretofore seemed to take him a full day to do it.  Mrs. Jenkins said she thought she would need at least that much time.  Arising early to get household <pageinfo><controlpgno entity="n3839020">020</controlpgno><printpgno>18</printpgno></pageinfo>affairs attended to, she started out in a carriage.  The whole process was completed in ten minutes, and Mrs. Jenkins returned to her home a much wiser woman.
+</p>
+<p>
+In 1921 Dr. Catt held a victory Banquet in Chicago, celebrating the passage of the Nineteenth Amendment.  At this banquet there were assembled twenty-five hundred people.  The scene was a brilliant one.  Dr. Carrie Chapman Catt, the leading woman of America, was at the zenith of her career.  She looked very handsome in a black dress with a blue vest, which was amazingly becoming, and she gave a magnificent address, which thrilled her audience.
+</p>
+<p>
+Our Dr. Hebard was the next to speak.  As far as I remember there were present only three other women from Wyoming.  They were Mrs. P. J. Quealy, Miss Eunice Anderson, and myself.  We three heard Dr. Hebard on the greatest occasion of her life, for there, in a most attractive manner, she gave the straight facts about the necessity for woman suffrage, and then, with her wit and humor, kept everybody in good spirits, and truly, she held that great audience in the hollow of her hand.  I am glad to think I was there upon that happy occasion.
+</p>
+<p>
+There is one little incident which I might mention here to show her appreciation of a joke.  We four were most anxious to send Dr. Catt a bouquet of flowers.  At that time American Beauty roses, at $24 a dozen, were the only flowers which were fashionable to send.  We thought that would be too much for us; unwittingly, I made the remark, because at that time there was a new flower on the market which was being used a great deal, &ldquo;Why not send Dr. Catt pussywillows?&rdquo;  Dr. Hebard threw up her hands and said, &ldquo;Pussywillows for Dr. Catt!&rdquo;  So we all had a good laugh, and I am sorry to say that Dr. Catt did not receive any flowers at all.
+</p>
+<p>
+In mentioning Dr. Hebard&apos;s attainments, one must pause a moment and think of her personality.  She was so filled with the joy of living, and of helping others to live, the spirit of youth pervaded her soul, so that one could hardly think of her as being past her prime.  Which one of us, but has on many occasions enjoyed the twinkle of her eye, and the spontaneous outbreaks of mirth, which seemed to cheer and make life worthwhile?
+</p>
+<p>
+So going through life, using her many talents, she helped others not only by her cheer, but by giving a real helping hand to many a lonely student.
+</p>
+</div>
+<pageinfo><controlpgno entity="n3839021">021</controlpgno><printpgno>19</printpgno></pageinfo>
+<div>
+<head>
+REPRESENTING THE DEPARTMENT
+<lb>
+Mr. Ralph E. Conwell
+<lb>
+Department of Political Economy
+</head>
+<p>
+Several years ago someone&mdash;I believe it was Sinclair Lewis or Upton Sinclair&mdash;classified college instructors and professors into four major divisions.
+</p>
+<p>
+In the first group, a relatively large one, he placed the incompetents, the mediocre, the average.  Here he put the hollow pedants, and the petty meddlers who unduly concern themselves with other people&apos;s affair.  Here also were those poor souls who, pitifully dull and colorless, are, in the words of Nietzsche, like meal sacks, &ldquo;you beat them and they give out dust.&rdquo;  There one finds the grinding plodders, who through sheer industry render valuable service.  Not all of this first group are failures, for some attain a degree of success as it is ordinarily measured, but they never lastingly impress and inspire their students nor make important discoveries or write noteworthy treaties.  The tragedy here is that many of them have a natural aptitude for some other line of endeavor but have been placed in a profession for which they have no gifts, and so as misfits they proceed unhappily through life.
+</p>
+<p>
+The second class is smaller than the first.  It embraces all who lack the endowments that are essential for exemplary teaching but who enrich civilization immensely through discoveries and monographs in their chosen fields of study.  Theirs are the scholarly minds, the intellectual honesty, the talents for finding, classifying and analysing facts with clarity.  Unattracted by the lure of riches they devote their very lives to the advancement of mankind, for it is upon the fruits of their toil, their findings, that civilization is table to advance technologically and culturally, weaving its slow, uneven and tortuous way upward.  All too often heavy administrative and schoolmaster assignments sap their energies.  This is a condition that might perhaps be corrected by cutting away the restraining fetters and thus freeing them to ferret out the answers to the elusive questions now challenging our destiny.
+</p>
+<p>
+The third class is also smaller than the first.  Here are the men and women who never make important additions to the facts of the universe.  But, in addition to a scholarly mastery of their chosen domains, they are individuals of dynamic personality, <pageinfo><controlpgno entity="n3839022">022</controlpgno><printpgno>20</printpgno></pageinfo>massive strength of character, and a sympathetic interest in the youth of our academic halls.  They represent the great and inspiring teachers.  Tragedy here?  Unfortunately yes, for in our stratified, custom-bound American system of higher education these few outstanding leaders of youth seldom win more that a pittance of recognition.  To secure the acclaim they so richly deserve some of them &ldquo;walk the plank&rdquo; by turning to writing or investigation for which they are by disposition, interest and temperament unfitted.  Should they not be honored and encouraged as instructors, for there is where 
+<hi rend="italics">
+their
+</hi>
+ greatest contribution to human welfare and progress lies.
+</p>
+<p>
+The fourth group is a very, very small one.  Some colleges and universities have none who can rank with this tiny band.  They are the favored few, those rare geniuses who combine the qualities necessary for truly great teaching with those that are essential for scientific work of major importance.  They are the oracles in the seats of wisdom.  They are the Socrates of the present age.
+</p>
+<p>
+Earlier in this program we listened to a glowing, moving tribute paid the memory of Dr. Grace Raymond Hebard on behalf of the members of her last class in Wyoming history&mdash;a group of some twenty-five who sat for the last time before their favorite teacher but a few days before her death.  Their tribute was to a woman who could rake from the ash heaps of history dead or dying embers, charred bits which in less skilled hands would seem trite and commonplace, but which under the spell of her fluent charm burst into the flame of pulsating, thrilling life&mdash;the life of the pioneer, or the explorer, or the red man, the sinews of the young and robust state she loved so dearly.  That tribute of this, her last class, but re-echoes the earlier eloquent acknowledgments paid her today by one of our esteemed graduates on behalf of the thousands who have left her class room to go forth into the world, better men and better women for having known her.  The proof of superior workmanship lies in the product.  The proof of superior teaching also lies in the product&mdash;the student.  Her students of today, of a few years ago, of many years ago have spoken!
+</p>
+<p>
+There repose in files today priceless historical materials gathered most painstakingly.  Hundreds of tracts and short articles did she write.  There are in homes, schools, and libraries of this state and other states thousands of copies of her books, some sixteen volumes, a library in themselves, the material for which she <pageinfo><controlpgno entity="n3839023">023</controlpgno><printpgno>21</printpgno></pageinfo>collected, compiled, organized and wrote.  Those sixteen volumes together with her other compositions and collections stand today and will continue to stand as living monuments, monuments more living and infinitely more important to western history and folk lore than words carved in the hardest of stone could ever be.  Has she excelled in the enviable field of research?  The printed page has spoken!
+</p>
+<p>
+We of her department are extremely proud that she has carved for herself this lasting niche among the very few who have scaled the pinnacle above the clouds in both teaching and research.  While we deeply regret her passing and shall always treasure her advice, able counsel, and stimulating encouragement, and while we keenly miss her crisp, cheery greeting and loyal support, we rejoice that her academic tenure has been free from tragedy.  We marvel that her life has been so rich, so full, and so complete in such a variety of attainments of distinction.  We acclaim her for having honored the State of Wyoming, our University, and the name of Hebard through these many attainments, and through her courageous independence and fearlessness in thought and deed.  To borrow again from pages of literature&mdash;this time from the poet, Ralph Chaplain&mdash;
+<lb>
+<hi rend="blockindent">
+Mourn not the dead that in the cold earth lie&mdash;
+<lb>
+Dust unto dust&mdash;
+<lb>
+The calm, sweet earth that mothers all who die
+<lb>
+As all men must.
+</hi>
+<hi rend="blockindent">
+But rather mourn the apathetic throng&mdash;
+<lb>
+The cowed and meek&mdash;
+<lb>
+Who see the world&apos;s great anguish and its wrong&mdash;
+<lb>
+And dare not speak!
+</hi>
+</p>
+</div>
+<pageinfo><controlpgno entity="n3839024">024</controlpgno><printpgno>22</printpgno></pageinfo>
+<div>
+<head>
+REPRESENTING THE FACULTY
+<lb>
+Dr. Aven Nelson
+<lb>
+President Emeritus
+</head>
+<p>
+We are here today to pay tribute to the memory of a worthy life; to one who walked in intimate relationship to every significant phase of the University&apos;s history for more than forty-five years.  It is not an easy matter to evaluate the life of Dr. Hebard or, for that matter, any human life.  There are so many factors involved in any personality which when played upon by an ever changing environment produces changes in the individual&mdash;changes that usually are only superficial but sometimes quite fundamental.  It is sometimes said of some people that their lives are an &ldquo;open book&rdquo; that even he who runs may read.  Most of us, however, even before our intimate friends, do not wear tags setting forth either our virtues or our vices.  Human emotions, and aspirations; loyalties and disloyalties; humility and arrogance, loves and hates and many other traits of character are in a deep well and may be drawn out for inspection only by the individual himself and may never come to the surface unless dragged out by great personal crises.  This may have called out the oft quoted phrase, &ldquo;Call no man great until he has passed the portals.&rdquo;  This idea in a somewhat different setting is found in the belief that current history and human tributes are unreliable because the full truth can be written only when the perspective of years has eliminated from the picture the loves and emotions of contemporaries.
+</p>
+<p>
+Be that as it may, I am sure that the great audience gathered here today will join with me in the feeling that no encomium paid to the memory of our friend and colleague is extravagant.  What we say today will stand for all times as our estimate of an unusual woman who left her impress for good and progress upon the first fifty years in the life of this institution.
+</p>
+<p>
+Time does not permit that I enumerate biographic data nor a listing of her scholastic accomplishments.  Since her passing, these have been frequently recalled and are on record in current press notices and in many permanent historical records.  Were it not enough her own books and other publications will speak throughout the years.
+</p>
+<p>
+During the few minutes at my command I would rather make a few observations upon matters less well known to the general <pageinfo><controlpgno entity="n3839025">025</controlpgno><printpgno>23</printpgno></pageinfo>public.  Her personal daily life she did not publicise, nor do I pretend to know all of those finer traits of character which we love to emphasize today.  As a co-worker and as a whilom administrator, I venture some words of appreciation though doubtless I shall fall far short of paying the perfect merited tribute.
+</p>
+<p>
+Of her religious life I knew little.  So far as I know, Dr. Hebard played no conspicuous part in the church activities of the city, but she was no irreligious.  Others who were active in their several church connections commanded her respect and she never threw &ldquo;cold water&rdquo; on any one&apos;s religious enthusiasm.  I suspect that the inner better life was more deeply entrenched than even her closest friends ever guessed.  She had come out of a Christian home.  Her father was a Congregational clergyman and no doubt the life and ideals of her parents remained imbedded in her inner consciousness as so many precious memories.  When life&apos;s burdens seemed too heavy to be borne alone she looked to the source of all strength.  Let me illustrate by calling your attention to two little poems that have come to light since her death.  To two or three of her closest friends she left some of her precious intimate personal belongings.  Among them a diary-notebook, the contents of which were for her eyes alone.  It was filled with observations of her own upon life&apos;s significance and with quotations of strength and beauty from others.  There were also personal memoranda of social and civic relationships that stood apart from the college work-a-day world in which we knew her best.  In one of the pockets of her hand-bag, which she always carried with her, this diary was the one fundamentally priceless thing.  She kept it where she could always lay her hand upon it.  In it were the two poems permanently entered and protected, yet they bore evidence of having been there for a long time and of having seen frequent use.  The present holders of these treasures have graciously given me permission to share them with you.  The one &ldquo;A Prayer for Strength&rdquo; will give you as it did me a glimpse of her inter life which my dull eyes had formerly failed to catch.  Emotion swept over me as again I realized that there may be depths in the hearts of our friends which our poor senses fail to plumb.
+</p>
+<pageinfo><controlpgno entity="n3839026">026</controlpgno><printpgno>24</printpgno></pageinfo>
+<p>
+A PRAYER FOR COURAGE
+</p>
+<p>
+<hi rend="blockindent">
+God make me brave for Life&mdash;
+<lb>
+Oh, braver than this!
+<lb>
+Let me straighten after pain
+<lb>
+As a tree straightens after rain,
+<lb>
+Shinning and lovely again.
+</hi>
+</p>
+<p>
+<hi rend="blockindent">
+God make me brave for Life&mdash;
+<lb>
+Much braver than this!
+<lb>
+As the blown grass lifts, let me rise
+<lb>
+From sorrow, with quiet eyes,
+<lb>
+Knowing Thy way is wise.
+</hi>
+</p>
+<p>
+<hi rend="blockindent">
+God make me brave&mdash;Life brings
+<lb>
+Such blinding things.
+<lb>
+Help me to keep my sight,
+<lb>
+Help me to see aright
+<lb>
+That out of the dark&mdash;comes Light.
+</hi>
+</p>
+<p>
+&mdash;
+<hi rend="italics">
+Grave Noll Crowell.
+</hi>
+</p>
+<p>
+Fidelity to the University was a trait no one could miss.  It was so evident, that until you knew her well, you might have been tempted to think it assumed for a purpose, but through all the years there was no vacillation.  For anyone to simulate such a virtue through more than forty years is not humanly possible.  One might differ from her as to methods and the results to be attained, or even to be desired, but all one could do in the end was to match sincerity against sincerity.  Her persistence in a given course was sometimes so unflagging that it seemed to border on persecution.  Since the good of the University, as she saw it, was the supreme end, there could be no permanent quarrel.  In cases where she was overruled by authority, which were rare, she was a good loser; other problems soon engaged her unflagging energy.  With the passing of the years, in her case, as with all of us, impulses are subdued, opinions are less imperious, judgments are mellowed and love for our fellowmen becomes the ruling passion.  No one need hesitate to place flowers upon her grave or to sing tributes of praise to her memory.
+</p>
+<p>
+I had intended to speak of her capacity for solving difficult business problems, of her tact in dealing with the general public, of her orthodox American patriotism, of her services in the war <pageinfo><controlpgno entity="n3839027">027</controlpgno><printpgno>25</printpgno></pageinfo>period, of her fine loyalty to close personal friends, of her kindly generosity to needy students, of her benefactions to the University.  These and many more topics speak of her many-sided life, of her laudable ambition to be known in fields of service, not only in her day, but in the years to come.  Others on this program have spoken of some or all of these things.  I had especially thought to speak of her love for the beautiful in nature and in art, but I may merely take time to recall how we would pause for a moment as we passed her home to enjoy the flowers, shrubs, and trees that bordered her beautiful lawn; and those who were admitted to the Doctor&apos;s Inn will not soon forget the art treasures that she loved so well.  The poem which I am about to give had been so modified with her own pen that to all intents and purposes it was her own.
+</p>
+<p>
+From what I have siad it must easily be clear that her multiplied contacts with the affairs of her day added to the ever expanding academic interest sof her department, and by her widening researches in pioneer history filled her days to overflowing and the time had come when she felt herself borne to earth by the &ldquo;clutter of things.&rdquo;
+</p>
+<p>
+Our hearts leap up in sympathy as in these lines we sense the longings of one who had played her part so well that her very success had made her long for sweet release.
+</p>
+<p>
+DEATH, THE WIND
+</p>
+<p>
+<hi rend="blockindent">
+Death, like a wind, shall come some day&mdash;
+<lb>
+Come to 
+<hi rend="italics">
+my
+</hi>
+ threshold, where I stay
+<lb>
+And work so hard at little things.
+<lb>
+Death, like a wind, shall come some day
+<lb>
+And blow the 
+<hi rend="italics">
+clutter of things
+</hi>
+ away.
+</hi>
+</p>
+<p>
+<hi rend="blockindent">
+Then across may threshold, clear,
+<lb>
+I shall walk straight out with a tear.
+<lb>
+Just one&mdash;or two&mdash;or, may three
+<lb>
+For the small red house that shelters me.
+<lb>
+A tear for the fire and hearth and all,
+<lb>
+and one for the flowers by the terrace wall.
+<lb>
+The rest of my loves I carry with me
+<lb>
+When Death, like a wind, sweeps the doorstone free.
+</hi>
+</p>
+<pageinfo><controlpgno entity="n3839028">028</controlpgno><printpgno>26</printpgno></pageinfo>
+<p>
+<hi rend="blockindent">
+Oh, Death, like a wind, shall come some day
+<lb>
+And blow the 
+<hi rend="italics">
+clutter
+</hi>
+ of things away.
+<lb>
+I shall walk straight out to the mountains high,
+<lb>
+To the tallest peak, where the big clouds lie.
+<lb>
+I shall lay my hands against the sky
+<lb>
+When Death, like a wind, has come that day
+<lb>
+And blown the 
+<hi rend="italics">
+clutter of things
+</hi>
+ away.
+</hi>
+</p>
+<p>
+&mdash;
+<hi rend="italics">
+Marion Bullard.
+</hi>
+</p>
+</div>
+<div>
+<head>
+RESPONSE
+<lb>
+Mr. Lockwood Hebard
+<lb>
+Brother of Dr. Hebard
+</head>
+<p>
+I am very grateful to be here today at the University my dear sister loved so well and to have the privilege of witnessing and hearing these inspiring memorial services.
+</p>
+<p>
+I am happy to be here and hear their sincere appreciation of her qualities and friendship so eloquently expressed by those friends whose friendship she held so dear.
+</p>
+<p>
+Teaching was her life work and she loved her work and the young men and women her work gave her the privilege of meeting.  I am sure the affection was mutual.
+</p>
+<p>
+For her and in her memory and for myself, may I express to you all my heartfelt gratitude.
+</p>
+</div>
+<div>
+<head>
+BENEDICTION
+<lb>
+By the Very Reverend Eric Montizambert
+</head>
+<p>
+The Peace of God which passeth all understanding, keep your hearts and minds in the knowledge and love of God, and his Son Jesus Christ our Lord:  And the Blessing of God Almighty, the Father, the Son, and the Holy Spirit, be amongst you and remain with you always.  
+<hi rend="smallcaps">
+Amen.
+</hi>
+</p>
+<pageinfo><controlpgno entity="n3839029">029</controlpgno><printpgno></printpgno></pageinfo>
+<illus entity="n3839-02.i01">
+<caption>
+<p>
+DR. HEBARD AT ONE OF THE SCORES OF MONUMENTS
+<lb>
+SHE HELPED TO ERECT AND DEDICATE
+</p>
+</caption>
+</illus>
+</div>
+<pageinfo><controlpgno entity="n3839030">030</controlpgno><printpgno>27</printpgno></pageinfo>
+<div>
+<head>
+Tributes
+<lb>
+The Following Represent Some of the Scores of Tributes
+<lb>
+Paid by Friends and Associates of
+<lb>
+Dr. Grace Raymond Hebard
+</head>
+<div>
+<head>
+THEY STAND OUT FROM THE CROWD
+</head>
+<p>
+&ldquo;Dr. Grace Raymond Hebard&apos;s chief interest has been to commit to paper authentic accounts of the history of the old West while there are still eye-witnesses to those stirring times from which accurate information may be obtained....
+</p>
+<p>
+&ldquo;To accomplish it she has traveled thousands of miles by auto, wagon, horseback, and even by snowshoe over the region traversed by the covered wagons, interviewing old-timers and checking up their stories.  Dr. Hebard is head of the department of economics at the University of Wyoming.&rdquo;
+</p>
+<p>
+<hi rend="italics">
+The Literary Digest.
+</hi>
+</p>
+<p>
+(By permission Funk and Wagnalls, New York City.)
+</p>
+</div>
+<div>
+<head>
+AN INSPIRING RECORD
+</head>
+<p>
+A record of Dr. Hebard&apos;s life is an inspiring one.  It is a record of persistent work.  She put her hand to many noteworthy and worthy enterprises.  She was a pioneer in a pioneer state.  She was an active and efficient worker in the cause of woman&apos;s suffrage.  She helped in the struggle to maintain the unity of the University when the separation of the A. and M. college from the University was threatened.  She was a pioneer in discovering and preserving the early history of this region.  Her writing was prolific and has preserved in permanent form the Wyoming history. She was an efficient officer of the institution.  Above all she was a friend to generations of students.  Her service to Wyoming has been great and will continue through the years.  Her industry and her accomplishments will stand as an inspiration to future students and colleagues.
+</p>
+<p>
+<hi rend="smallcaps">
+President A. G. Crane,
+</hi>
+ 
+<hi rend="italics">
+University of Wyoming.
+</hi>
+</p>
+<p>
+(From 
+<hi rend="italics">
+The Branding Iron,
+</hi>
+ October 15, 1936.)
+</p>
+</div>
+<pageinfo><controlpgno entity="n3839031">031</controlpgno><printpgno>28</printpgno></pageinfo>
+<div>
+<head>
+AMBITION, LOYALTY, PERSEVERANCE
+</head>
+<p>
+To me, Dr. Hebard&apos;s life is well expressed in three words, ambition, loyalty, perseverance.  Her ambition was for the greatest success for the State of Wyoming and its University, and she had the faith and the courage to devote her life to the promotion of these institution.  Her loyalty to the state, the University, her friends, her sex, her colleagues, was militant and unwavering.  Her perseverance in the pursuit of any goal undertaken was unfaltering.  No road was too long, and no search too tedious, if in the end some truth might be found.
+</p>
+<p>
+Personally, I shall miss her greatly, as will all her colleagues.  We cannot fill her place.  We shall not see her like again.
+</p>
+<p>
+<hi rend="smallcaps">
+Dean P. T. Miller,
+</hi>
+ 
+<hi rend="italics">
+College of Liberal Arts,
+<lb>
+University of Wyoming
+</hi>
+</p>
+<p>
+(From 
+<hi rend="italics">
+The Branding Iron,
+</hi>
+ October 15, 1936.)
+</p>
+</div>
+<div>
+<head>
+COLLEAGUE APPRECIATES HER DELIGHTFUL,
+<lb>
+COMBINATION OF WORTHY TRAITS
+<lb>
+OF CHARACTER
+</head>
+<p>
+Industry, perseverance, determination, and loyalty were the attributes which first I learned to appreciate in Dr. Hebard.  These I have encountered in others, but in Dr. Hebard I was to discover them in a delightful combination with a humor which enabled her to laugh at herself in the refreshing manner which exemplified her spirit of eternal youth.
+</p>
+<p>
+<hi rend="smallcaps">
+Cora K. Miller,
+</hi>
+ 
+<hi rend="italics">
+Department of Political Economy,
+<lb>
+University of Wyoming.
+</hi>
+</p>
+</div>
+<div>
+<head>
+A TRUE AND LOYAL FRIEND,
+<lb>
+AN OUTSTANDING PIONEER
+</head>
+<p>
+My acquaintance with Dr. Hebard extended from the time i was a small boy until her death. ...  She was a remarkable teacher and due to her high character and ability she exercised a great power for good not only over those who were her pupils but among all who were associated with her.  She was a true and loyal friend and retained the friendship and respect of all who knew her.
+</p>
+<pageinfo><controlpgno entity="n3839032">032</controlpgno><printpgno>29</printpgno></pageinfo>
+<p>
+No one took a greater interest in the history of Wyoming and the historical work she did was well done and will remain as a monument to her.  No woman is Wyoming was ever held in greater esteem.  Wyoming was fortunate in having among its pioneers many of high character and ability but none was more outstanding than Dr. Hebard.  No woman ever contributed so much to the state.  Not only the University but the State of Wyoming can pay tribute to her as an efficient teacher, a true friend, and a great citizen.
+</p>
+<p>
+<hi rend="smallcaps">
+Robert D. Carey,
+</hi>
+ 
+<hi rend="italics">
+United States Senator and
+<lb>
+Former Governor of Wyoming.
+</hi>
+</p>
+</div>
+<div>
+<head>
+SHE LIVED A GREAT LIFE
+</head>
+<p>
+I shall miss Dr. Hebard more than words can say.  My sympathy is extended to the University and all the Wyoming friends.  She lived a great life.
+</p>
+<p>
+<hi rend="smallcaps">
+Carrie Chapman Catt,
+</hi>
+ 
+<hi rend="italics">
+President of National American
+<lb>
+Woman Suffrage Association and former President
+<lb>
+International Woman Suffrage Alliance.
+</hi>
+</p>
+</div>
+<div>
+<head>
+A SERVICE SELDOM PARALLELED IN
+<lb>
+AMERICAN ACADEMIC HISTORY
+</head>
+<p>
+It was forty years ago last June that I first met Dr. Grace Raymond Hebard.  She had then been a trustee of the University of Wyoming for five years, and I has just been elected President of the institution by the Board of which she was a member.  From the beginning she became the staunchest friend and wisest counsellor to Mrs. Graves and myself.  She zealously guarded all knowledge of the weaknesses I had exhibited and credited me with many successful projects that she had herself originated.  Our official relations lasted little more than two years, but, while I afterward saw her upon only two brief occasions, my friendship for her and my gratitude to her endured for two score years.
+</p>
+<p>
+What Dr. Hebard did for me as an individual representing the institution, was typical of her whole devotion to the University of Wyoming.  As trustee, librarian, historian, and professor she rendered a service to the institution that has seldom been paralleled in America academic history.  Few people have remained with <pageinfo><controlpgno entity="n3839033">033</controlpgno><printpgno>30</printpgno></pageinfo>the same educational institution for forty-five years, and none have accomplished more during a like period.  Evidences of her work appear in every part of the University, her historical and other writings are embodied in the literature of a great state, and her memory is treasured in the hearts of her pupils, associates, and friends.  No one could more fully deserve the tribute of a memorial volume.
+</p>
+<p>
+<hi rend="smallcaps">
+Frank Pierrepont Graves,
+</hi>
+ 
+<hi rend="italics">
+Commissioner of Education
+<lb>
+and President of the University of the State of New York.
+<lb>
+Third President of the University of Wyoming.
+</hi>
+</p>
+</div>
+<div>
+<head>
+PIONEER PHOTOGRAPHER ADMIRES MOST
+<lb>
+HER CHEERFUL OPTIMISM
+</head>
+<p>
+In retrospect, over the few years of collaboration in carrying on the story of the pioneers, I like best to think of Dr. Hebard&apos;s cheerful optimism under all conditions of stress and of the generous and sincere appreciation accorded to one and all for any service rendered.
+</p>
+<p>
+It was not until 1920, some ten years ago, that our lines crossed and at a time when I was happy to be of some service to her.  I was then living in Washington, D. C., in retirement.  Because of my former connection with the Hayden Geological Survey for many years, I was a frequent visitor in the departments having anything to do with western surveys and explorations, among them to Bureau of Ethnalogy, a repository of the Government&apos;s collection of photographs of the American Indian.  Dr. Hebard, then engaged in research for her book on the life of Sacajawea, had written to the bureau for a certain portrait of the old Chief Washakie of the Shoshones.  Her letter was referred to me and from the correspondence that followed she was delighted to learn that I had not only made the portrait myself, nearly sixty years previously, but had also photographed over much of the territory of her own beloved Wyoming.  This was the beginning of a valued friendship and mutual interest in preserving and dedicating to posterity all that remains of the colorful days of the &ldquo;Path-breakers.&rdquo;  ...
+</p>
+<p>
+<hi rend="smallcaps">
+W. H. Jackson,
+</hi>
+ 
+<hi rend="italics">
+Pioneer Photographer and Former
+<lb>
+Member of Hayden Geological Survey.
+</hi>
+</p>
+</div>
+<pageinfo><controlpgno entity="n3839034">034</controlpgno><printpgno>31</printpgno></pageinfo>
+<div>
+<head>
+OUTSTANDING HISTORIAN OF WYOMING
+</head>
+<p>
+In the summer of 1931 there appeared a page article in a Sunday issue of the New York Herald-Tribune regarding an anniversary of dedication of a monument at old Fort Laramie, which Dr. Hebard had sponsored; there was a picture of Dr. Hebard and of the monument.  As the war services of my father Captain Henry C. Bretney, Company G, Eleventh Ohio Volunteer Cavalry in the years 1863, &lsquo;64, and &lsquo;65, had been devoted to guarding the old Oregon Trail and keeping open the Pacific Telegraph line between Fort Laramie and South Pass, three hundred miles apart, I was naturally quite interested in the proposed Fort Laramie celebration and wrote to Dr. Hebard.  Her response was both prompt and enthusiastic.  Our correspondence opened up a new avenue of historical research pertaining to the Oregon Trail and we exchanged data and information that was new and of value to both of us.  Her fund of information, gathered after years of painstaking careful work, was full and complete.  Her indefatigability was matched by her untiring energy; she loved her work and she possessed the spirit of determination to carry through whatever she undertook.
+</p>
+<p>
+It is not necessary and scarcely appropriate for me, as one who lived so far away from her scene of action, to try and recite or enumerate this great woman&apos;s unusual abilities and the superb work she has done; all this is a well known story to the people of Wyoming and to the legion of friends she had throughout this country.  I only saw Dr. Hebard in person three times and it was a rare privilege of which I was ever mindful.  Her letters were her own true self, clear, concise, informative, and accurate.  Probably no western writer of pioneer history ever gathered together such an abundance of first-hand information as did Dr. Hebard.  I came to learn that whoever met her and was taught by her, not only cherished her friendship but loved her; she was worthy of these attributes and they were given her.
+</p>
+<p>
+No one, I am confident, ever came to know this famed woman that he or she did not feel they had been privileged.  Once traveling across the continent, my wife and I met a young lady from Wyoming, who we found had attended some of Dr. Hebard&apos;s classes and she spoke of it with apparent pride.  The young lady made the statement that she had heard many young women of Wyoming say they made it a point to attend the University just to <pageinfo><controlpgno entity="n3839035">035</controlpgno><printpgno>32</printpgno></pageinfo>be able to say they had studied under Dr. Hebard.  This was, indeed, an unsought sincere compliment, and when we repeated it to Dr. Hebard on this last visit she took it with a smile.
+</p>
+<p>
+While the saying is that a prophet is not without honor save in his own country, I venture the assertion that Dr. Grace Raymond Hebard, who was a woman of the old school, was universally loved, honored, and respected among her own Wyoming people, and the memorial she left through her gifted historical works will live forever and ever as a monument to this fine character.  She will be greatly missed and long remembered.
+</p>
+<p>
+She was the outstanding historian of Wyoming.  She had a wonderful subject and she handled it superbly.  She stood out from the crowd in this country, and she would have been an outstanding person anywhere in the world.
+</p>
+<p>
+Her passing will remain a lasting regret to those who knew her.  As the years succeed themselves her influence through personal contact and through her achievements will live and grow and become a cherished memorial for all Wyoming.
+</p>
+<p>
+It was a genuine pleasure and a deep honor to have been permitted to move her circle of friends, and so long as we may live we shall, while regretting her passing, know full well the wonderful good she accomplished.  A great soul had gone into the Eternal Beyond.
+</p>
+<p>
+<hi rend="smallcaps">
+H. C. Bretney,
+</hi>
+ 
+<hi rend="italics">
+Jacksonville, Florida.
+</hi>
+</p>
+</div>
+<div>
+<head>
+ACCOMPLISHMENTS IMPRESSIVE
+</head>
+<p>
+On September 10th my wife and I drove to Laramie with Mr. and Mrs. Bretney of Jacksonville, Florida, to visit Dr. Grace Raymond Hebard.  We arrived in time for a fine luncheon with the Doctor as our guest and after lunch drove all around and through the University campus and then to Dr. Hebard&apos;s charming home where we spent a most enjoyable afternoon looking over her marvelous collection of pictures, paintings, manuscripts, and books, while all the time listening intently to her vivid descriptions of days long gone, with all their smiles and tears.  She had written eighteen books along historical and educational lines and was truly a most accomplished author and remarkable woman.  We felt deeply impressed with what she had accomplished for the youth of Wyoming and the upholding of our Western country.  Mr. Bretney was <pageinfo><controlpgno entity="n3839036">036</controlpgno><printpgno>33</printpgno></pageinfo>deeply interested in Dr. Hebard&apos;s unpublished history of the Pony Express and had made his western visit largely for the purpose of again talking with Dr. Hebard about his publication.  To me, our last visit will ever remain a sweet remembrance.  For well over thirty years we had intimately acquainted with Dr. Hebard and during our six years&apos; life in Cheyenne and later while Mrs. Brooks served for ten years as trustee of the University of Wyoming, we greatly enjoyed our friendly relation.
+</p>
+<p>
+As we travel the pathway of life, we occasionally meet a few fellow-travellers, who arrest our attention and interest by their splendid personalities.  Such a one was Dr. Grace Raymond Hebard.  Her fine mentality and straight thinking, her graciousness, her Christian spirit, all appealed to us.  Her great regard and sympathy for the young people under her supervision, made her an outstanding worker among them; and many students scattered throughout Wyoming and other states, are proud to say they knew and respected Dr. Hebard.  Her patriotism, known particularly through interest in the D. A. R. and AMericanization work, was outstanding; and we all enjoy and prize her literary work, which is Wyoming&apos;s best.
+</p>
+<p>
+Dr. Hebard&apos;s death was a great loss in Wyoming.
+</p>
+<p>
+<hi rend="smallcaps">
+Mr. and Mrs. B. B. Brooks,
+</hi>
+ 
+<hi rend="italics">
+Former Governor
+<lb>
+of Wyoming.
+</hi>
+</p>
+</div>
+<div>
+<head>
+UNDYING DEVOTION TO THE UNIVERSITY
+</head>
+<p>
+I first met Dr. Hebard in September, 1891, when my husband began his work in the department of chemistry at Wyoming University.  She was then a young, eager woman, full of joy in her chosen profession, and of a tireless energy pursuing it. ...
+</p>
+<p>
+Dr. Hebard impressed me then as she always has since, as a very great woman.  Great in her ambition, and in achievement, and in her deep love and loyalty to her friends.  Her devotion to the University was undying, and her sacrifices for its interests were often unknown.  She was a wonderful daughter, and often told me her aim in life was to make up, in some degree, for the hard work and privations that her mother had suffered, as the wife of a self-sacrificing Home Missionary in the early history of Iowa.
+</p>
+<p>
+Whatever she did was always well done, from framing a picture to writing a book.  During the twelve years we were associated <pageinfo><controlpgno entity="n3839037">037</controlpgno><printpgno>34</printpgno></pageinfo>intimately, I never knew her to do an ungenerous act, but her noble deeds were many, though unadvertised.
+</p>
+<p>
+Wyoming University has suffered an irreparable loss in her going from its halls, yet I have a feeling that her spirit still lingers in the institutiion she so deeply loved.  Her life is built into it, to an extraordinary degree.  In her case, the University of Wyoming is the &ldquo;lengthened shadow&rdquo; of those who made it a power in the West.  Of them all, there is no more honored name than that of Dr. Grace Raymond Hebard.
+</p>
+<p>
+<hi rend="smallcaps">
+May Preston Slosson,
+</hi>
+<lb>
+(Mrs. Edwin E. Slosson.)
+</p>
+</div>
+<div>
+<head>
+OUTSTANDING COURAGE IN FIGHTING
+<lb>
+FOR THE RIGHT
+</head>
+<p>
+The service that Grace Raymond Hebard rendered to the State and this entire country cannot be estimated in the terms in which a lesser personality can be measured.  She helped to mould the character and lives of so many of our younger citizens, to make them realize that true worth, honest thinking, and untiring effort would have its reward to the end, that not a community in the entire State but has felt her fine influence.  The activities in which I was associated with her I consider a rare privilege and the finest contact I have ever made.  Her friendship and loyalty to her friends is outstanding and her courage to lead for right and hold the banner high made her one of God&apos;s noble women.  Because, through her, the State has had so much, so also, through her passing, the State has sustained an irreparable loss.
+</p>
+<p>
+<hi rend="smallcaps">
+Mrs. P. J. Quealy,
+</hi>
+<hi rend="italics">
+Wyoming Civic Leader.
+</hi>
+</p>
+</div>
+<div>
+<head>
+MOST ARDUOUS WORKER IN
+<lb>
+WESTERN HISTORY
+</head>
+<p>
+It has been my particular pleasure to work for many years with Dr. Hebard on many phases of our Trans-Missouri History.  We have exchanged many notes on western history, photographs, and types of sources.  Dr. Hebard has made almost the supreme contribution to our history of the West.  Her many volumes and writings setting forth so much in such great detail have secured such a vast volume of this early history from sources which now are no longer available that all of us and posterity will always be <pageinfo><controlpgno entity="n3839038">038</controlpgno><printpgno>35</printpgno></pageinfo>indebted to her and her memory for this important contribution she has made in this most interesting field.
+</p>
+<p>
+Of all the arduous workers in the western field, I know of no one who began so early and who has worked so assiduously and who, altogether, has made such an outstanding contribution as Dr. Hebard.  She has added mightily to the world&apos;s store of historic materials.
+</p>
+<p>
+<hi rend="smallcaps">
+J. G. Masters,
+</hi>
+ 
+<hi rend="italics">
+Principal Central High School,
+<lb>
+Omaha, Nebraska.
+</hi>
+</p>
+</div>
+<div>
+<head>
+A MOST DELIGHTFUL CONVERSATIONALIST
+</head>
+<p>
+It is almost impossible to estimate the value of Dr. Hebard&apos;s services to her home state when it comes to the history of Wyoming.  She was a most painstaking historian, and was never satisfied with anything but the truth and actual facts of anything connected with the old days.  The work she has accomplished is beyond estimation, and the record she has left behind her is one of which Wyoming will always be proud.
+</p>
+<p>
+It was during the World War that we began a correspondence over matters connected with old Fort Phil Kearny and the Bozeman Trail.  I wrote her that I had accumulated quite a mass of interesting first-hand information from men who were stationed at Fort Phil Kearny and Forts Reno and C. F. Smith, and was thinking some of making it into a volume.  She replied that she also had a mass of material along the same line, and suggested that we collaborate on such a volume.  That was very agreeable to me, so we began what later became a two-volume history of the old Bozeman Trail.  It was all done entirely by correspondence, and we worked on the manuscript for upwards of a couple of years.  It was not a suitable time to publish our work during the war, and publication was delayed until 1922, at which time the Arthur H. Clark Company of Cleveland accepted our manuscript, and an edition of 1250 sets was issued.  These have been entirely exhausted.
+</p>
+<p>
+It was not until 1926 that I met the Doctor for a real &ldquo;Get together talk.&rdquo;  That occured at the semicentennial exercises of the Custer fight, at Crow Agency, Montana, at which we were both invited guests, and a most enjoyable week it was.  I found her <pageinfo><controlpgno entity="n3839039">039</controlpgno><printpgno>36</printpgno></pageinfo>a most delightful conversationalist&mdash;witty, keen, and a close student of human nature.  I do not believe there was a more interested person in the entire United States than Dr. Hebard in the history of her beloved West.  We shall miss her keenly.
+</p>
+<p>
+E.A. 
+<hi rend="smallcaps">
+Brinninstool,
+</hi>
+ 
+<hi rend="italics">
+Co-author of The Bozeman Trail.
+</hi>
+</p>
+</div>
+<div>
+<head>
+PUBLISHER DECLARES HER WORK
+<lb>
+MONUMENTAL
+</head>
+<p>
+In the passing of our friend, Dr. Grace Raymond Hebard, not only has the University of Wyoming and the State of Wyoming lost an outstanding historical student and faculty member, but in the much larger field have the students of western history lost a valuable and important reseach worker.  True, through her efforts and example some of her students have been inspired to delve into the unpublished sources and records of the history of Wyoming and adjacent regions.  A thorough and indefatigable searcher after the basic facts of history, Dr. Hebard has left behind her for future historians important contributions to the history of the West, among such the four works which we published for her.  Her 
+<hi rend="italics">
+Bozeman Trail
+</hi>
+ is without exception the most valuable source work on this important highway of westward expansion, which met the most bloody opposition of any of the westward routes and develops the economic and strategic reasons which led to its construction.  
+<hi rend="italics">
+The Pathbreakers from River to Ocean,
+</hi>
+ which has now gone through six editions, is the first book to give condensed attention to the history of the vast empire west of the Mississippi.  In her volume on 
+<hi rend="italics">
+Sacajawea, the Guide and Interpreter of the Lewis and Clark Expedition,
+</hi>
+ Dr. Hebard spent some thirty years in original research and has left to us a volume which is indispensable to future students of the Sacajawea problem.  In her 
+<hi rend="italics">
+Washakie
+</hi>
+ she dug with infinite pains into all available sources for original unpublished material hertofore neglected in historical writings.  It is so far the most authoritative source of information on this historical panorama enacted in the railroad building and settlement of the region.
+</p>
+<p>
+In the large amount or original material which Dr. Hebard gathered together from unpublished sources she has left to the University a mass of material of infinite value to future historical students.  At the time of her death she was engaged in the preparation <pageinfo><controlpgno entity="n3839040">040</controlpgno><printpgno>37</printpgno></pageinfo>of a manuscript on the pony express through Wyoming which would have formed an important contribution but unfortunately ill health during the last few years left this work unfinished.
+</p>
+<p>
+<hi rend="smallcaps">
+Arthur H. Clark,
+</hi>
+ 
+<hi rend="italics">
+President and Founder
+<lb>
+Arthur H. Clark Company (publishers).
+</hi>
+</p>
+</div>
+<div>
+<head>
+IMPOSSIBLE TO ADD GLORY TO HER NAME
+</head>
+<p>
+When Daniel Webster was called upon to give a tribute to George Washington, he said, &ldquo;To add brightness to the sun or glory to the name of Washington are alike impossible.&rdquo;  These words came to us as a fitting reply to the request for an expression of our appreciation of the noble traits of Dr. Hebard&apos;s character, her friendship, her work, and her patriotic spirit.
+</p>
+<p>
+During our three year&apos;s residence in Laramie, 1907 to 1910, we came to know and admire Dr. Hebard as a true friend, a great teacher, a trusted adviser, a genial companion, a patriotic citizen, and an untiring worker.  She was the first to call on us as strangers and welcome us into the circles of the University and city society.  It was the beginning of a friendship lasting through the years until her death, nurtured with regular correspondence and the sending of news items that kept us in touch with the University and Laramie friends.  Not a Christmas ever passed, except when she was physically unable, without her cheerful greeting.  Never did she dwell on her own suffering and illness.
+</p>
+<p>
+That she was a gifted teacher who loved her work, her pupils and her University, is almost axiomatic to all those privileged to attend her classes.  As a Daughter of the American Revolution, she instilled into the minds of her pupils that patriotism and good citizenship, handed down to her from her forebears who contributed with their lives and fortunes to the independence of the American colonies.  Her deep interest in things historical and sentimental was manifest in her efforts in the erection of permanent markers along the various pioneer western trails.  In her many fields of activity, public, political, and private, she ranked as one of Wyoming&apos;s first citizens.  To her mind, citizenship was the nation&apos;s greastest asset, and to that end she inaugurated the first class in <pageinfo><controlpgno entity="n3839041">041</controlpgno><printpgno>38</printpgno></pageinfo>citizenship ever taught in Wyoming, and was the first person to hold a class of this kind in university building.
+</p>
+<p>
+As an author, her book are a valuable contribution to western history. ...  They depict historical data that would undoubtedly never have been uncovered had it not been for her untiring efforts.
+</p>
+<p>
+The story of Sacajawea, the Indian woman who acted as guide and interpreter for the Lewis and Clark Exedition, stands out as the climax of the researches she so faithfully conducted through a period of over thirty years.  In the bibliography of that volume, over one hundred fifty references are cited, which added to and verified the facts she collaborated in attractive book from.  It is unquestionably true that the credit of placing the name of Sacajawea in the Hall of Fame in the New York University belongs to Dr. Hebard&apos;s book.  In due time it is not improbable that the name of Grace Raymond Hebard may be favorably considered for that illustrious role.
+</p>
+<p>
+The most prized volume in our library is a copy of Sacajawea autographed and inscribed &ldquo;To J. D. and Hannah Towar, special, faithful, and loving friends of the author.&rdquo;  We revered her for her talent and intellect, and we loved her for her kindness and true friendship.  Though never mentioned by herself, it is known that she gave financial aid to many struggling students of the University handicapped for want of funds.
+</p>
+<p>
+Marble, granite, or bronze may mark the last resting place of Grace Raymond Hebard, where her mortal remains lie beside her beloved sister Alice and her devoted friend Agnes Mathilde Wergeland; but the real monument to her memory will live in the hearts and minds of the hundreds of pupils throughout the nation who have enjoyed the wisdom of her teachings and the patriotic aim of her life, in the friendly intercourse of her associates, in the memorials and trust funds he has established, and in the literary products of her pen.
+</p>
+<p>
+She &ldquo;died in the harness,&rdquo; and that was her desire.
+</p>
+<p>
+<hi rend="smallcaps">
+Hannah P. Toward,
+<lb>
+James D. Toward,
+</hi>
+ 
+<hi rend="italics">
+Former Acting President
+<lb>
+University of Wyoming.
+</hi>
+</p>
+</div>
+<pageinfo><controlpgno entity="n3839042">042</controlpgno><printpgno>39</printpgno></pageinfo>
+<div>
+<head>
+DR. HEBARD&mdash;FRIEND OF STUDENTS
+</head>
+<p>
+In the death of Dr. Grace Raymond Hebard the students of the University have lost a friend.
+</p>
+<p>
+During her life her achievements commanded notice and respect and this she had received voluminously; in our society, however, only the obituary has prerogative to speak of the little qualities which bring endearment.  Of these we wish to speak.
+</p>
+<p>
+To the public she was Dr. Hebard, astute historian, political scientist and economist, feminist, one of many accomplishments.  To a small army of alumni, however, she was &ldquo;Doc&rdquo; Hebard, an arresting, vigorous, personality, a friend of the student.
+</p>
+<p>
+Since coming here in 1889, two years after the University was started, Dr. Hebard had been extremely sympathetic to student problems.  She had befriended student after student, giving him a boost along the way, sometimes in the form of money, sometimes advice, oftentimes just friendliness.  Her home, &ldquo;The Doctor&apos;s Inn,&rdquo; in former years, when the University was smaller, was the haven of students who lived too far from home to return during the Christmas holidays.
+</p>
+<p>
+Unfortunately, few students on the campus at present enjoyed intimate acquaintance with Dr. Hebard.  Failing health in recent years had kept her from the activity of earlier days.  In the memories of hundreds of alumni throughout the state, however, she will always remains a vivid personality.
+</p>
+<p>
+Her friendship to Wyoming University students will remain immortal through two scholarships she created.
+</p>
+<p>
+<hi rend="smallcaps">
+Editorial,
+</hi>
+ 
+<hi rend="italics">
+The Branding Iron
+</hi>
+ (Student Newspaper)
+<lb>
+(October 12, 1936).
+</p>
+</div>
+<div>
+<head>
+MOST ABLE AND EMINENT WYOMINGANA
+<lb>
+AUTHORITY
+</head>
+<p>
+Of the women of remarkable ability and achievements which Wyoming has produced none was more outstanding than Dr. Grace Raymond Hebard, news of whose death at Laramie Sunday will be regretted by friends and admirers throughout this state and by co-workers in history residing in other states.
+</p>
+<p>
+To Dr. Hebard more than to any other resident of the territory and state, save possibly the late C. G. Coutant, Wyomingites are indebted for ascertainment and recording of the history of the <pageinfo><controlpgno entity="n3839043">043</controlpgno><printpgno>40</printpgno></pageinfo>Wyoming country.  With indefatigable energy and indomitable resourcefulness Dr. Hebard labored for more than the period of a generation in compiling historical data of the region, in arranging it in narrative form, in procuring its publication and dissemmination.  She became the most eminent authority on Wyomingana.  Even after she knew she was suffering from a malignant malady that would end her life soon she continued the work, striving valiantly despite her illness to round out phases of her research and compilation.
+</p>
+<p>
+For more than forty years a member of the faculty of the University of Wyoming, Dr. Hebard was a kindly friend and counsellor of thousands of students who remember with gratitude her interest in them and encouragement of their pursuit of education.  Her place in the building up of the Wyoming school from a little skeleton organization in the &lsquo;90&apos;s to an institution of recognized standing throughout the nation was second to that of none. She loved and lived &ldquo;Wyoming,&rdquo; it was her pride and joy, surpassing in her devotion even the historical labors which will give her name outstanding rank in Wyoming history forever.
+</p>
+<p>
+It was typical of Dr. Hebard that, desiring to establish a memorial to her sister, Alice Marvin Hebard, she should make it an endowment of a University of Wyoming scholarship each year for a graduate of the Cheyenne High School who had been an outstanding pupil of the Johnson School in South Cheyenne of which Alice Hebard for long was the principal.  Only recently, when she realized that she would not much longer have need of her material resources, Dr. Hebard increased this endowment.  Worthy Cheyenne students in increasing numbers as the years pass will have substantial reason for gratitude to her unselfishnes and fine judgment concerning a befitting memorial for one she loved.
+</p>
+<p>
+It may be validly commented concerning Dr. Hebard that her passing leaves in Wyoming a vacancy which can not be filled.  May the folk of the future be as appreciative of her service to knowledge as are those whose privilege it has been to be her contemporaries.
+</p>
+<p>
+<hi rend="smallcaps">
+Editorial,
+</hi>
+ 
+<hi rend="italics">
+The Wyoming State Tribune
+</hi>
+<lb>
+(October 13, 1936).
+</p>
+</div>
+<pageinfo><controlpgno entity="n3839044">044</controlpgno><printpgno>41</printpgno></pageinfo>
+<div>
+<head>
+A BRILLIANT AND DEVOTED SCHOLAR
+</head>
+<p>
+Grace Raymond Hebard is dead.
+</p>
+<p>
+It was hard to believe, at first.  Generations of University graduates, generations of Laramie residents, had come to regard Dr. Hebard as almost as enduring and ageless as the University she loved, almost as much a part of the Wyoming heritage.
+</p>
+<p>
+Of the little group of brilliant and devoted scholars and teachers who joined the faculty of the infant University at its founding or soon after, none attained a wider renown.  Thousands of students learned the elements of economics and gained their first conception of the historic lore of their state in her classes, always popular and crowded.  Many thousands more who never came to the campus knew her work and her personality through her textbooks in Wyoming history and government.
+</p>
+<p>
+She loved teaching and, even after she passed the retirement age which would have permitted her to relax her labors or devote herself exclusively to her historical researches, she continued to meet one or more classes.  But perhaps her first allegiance was to the history of the west and particularly of her adopted state.  She was indefatigable in research and writing, tireless in tracing down clues that would illuminate some obscure passage in the chronicle of the pioneers.  She interviewed countless frontiersmen and preserved for posterity their first-person records.  Probably no one but herself knew the volume or wealth of the material she thus collected.  To the future historian it remains as a priceless compilation of sources which otherwise would have been irrevocably lost.  And her own volumes, of course, are permanent contributions to the record of America&apos;s past.
+</p>
+<p>
+Of her innumerable other activities it is impossible to speak in detail.  Like most busy persons she found time somehow to respond to additional demands which would have constituted a full-time schedule for anyone of less inexhaustible energy.  Her services to the cause of woman suffrage, the fight against child labor, World War work, naturalization, and many others are too well known to require summarizing.  She was always ready to find place in her crowded program for any enterprise which aroused her quick sympathies, her deep sense of public responsibility.
+</p>
+<p>
+Grace Raymond Hebard is dead.  But her memory endures in the lives of thousands of Wyoming citizens who learned from her the meaning of tireless, devoted service to a chosen task.
+</p>
+<p>
+<hi rend="smallcaps">
+Editorial,
+</hi>
+ 
+<hi rend="italics">
+The Laramie Republican-Boomerang
+</hi>
+<lb>
+(October 12, 1936).
+</p>
+</div>
+</div>
+<pageinfo><controlpgno entity="n3839045">045</controlpgno><printpgno>42</printpgno></pageinfo>
+<div>
+<p>
+LESLIE A. MILLER
+<lb>
+GOVERNOR
+</p>
+<p>
+MARSHALL R. SMITH
+<lb>
+SECRETARY TO GOVERNOR
+</p>
+<div>
+<head>
+THE STATE OF WYOMING
+<lb>
+EXECUTIVE DEPARTMENT
+<lb>
+CHEYENNE
+</head>
+<p>
+December 3, 1936.
+</p>
+<p>
+Miss Mary E. Marks, Secretary
+<lb>
+Hebard Memorial Committee
+<lb>
+University of Wyoming
+<lb>
+Laramie, Wyoming
+</p>
+<p>
+Dear Miss Marks:
+</p>
+<p>
+No more distinct contribution to the cultural benefit of a state can be than was made to Wyoming by Miss Grace Raymond Hebard whose work in recording the history of the state was more valuable than we have any means of knowing in this early day.
+</p>
+<p>
+Miss Hebard was an inspiration to all who knew her; her service to the University of Wyoming and her influence in its affairs will be missed very greatly indeed.
+</p>
+<p>
+I regret exceedingly my inability to participate in the memorial exercises to be held in her honor.
+</p>
+<p>
+With all good wishes, I am
+</p>
+<p>
+Sincerely,
+<lb>
+<hi rend="smallcaps">
+Leslie A. Miller,
+</hi>
+<lb>
+<hi rend="italics">
+Governor.
+</hi>
+</p>
+</div>
+</div>
+<pageinfo><controlpgno entity="n3839046">046</controlpgno><printpgno>43</printpgno></pageinfo>
+<div>
+<head>
+A Few of the Memorial Resolutions
+<lb>
+in honor of Dr. Hebard.
+</head>
+<p>
+In the death of Dr. Grace Raymond Hebard, life&apos;s pages have closed upon a career of unusual attainment and distinction.  Her major accomplishments can be said to have centered in teaching and research and rarely are the versatile qualities of a popular and inspiring teacher combined with those of the able, successful, and renowned scholar in quite the degree in which she possessed them.  Her classes were popular and ably conducted, and her research has preserved priceless historical material&mdash;a heritage for the generations to come.  While her attainments in these two fields were sufficient to give her a lasting place among our most distinguished members, there were other notable accomplishments which comprise an imposing list:  membership on the Board of Trustee:  membership in the legal profession of the state; librarianship; leadership in World War work, naturalization and woman&apos;s suffrage; activity in making points of historic interest and in preserving the unity of the University when decentralization was threatened.
+</p>
+<p>
+Dr. Hebard was a person of sterling character.  Her generous deeds were countless&mdash;gifts of money and counsel to scores of students, old pioneers, and others in need.  She possessed a high sense of loyalty&mdash;loyalty to her country, to her state, to her friends, to members of her family, to her sex, and to her code of honor.  Few there are whom have had greater determination and perseverance; a determination and perseverance which carried her, during the last two years of life, battling bravely on against an ailment which she knew ws relentlessly and inevitably taking her &ldquo;over the great divide.&rdquo;  She was courageous, unafraid to fight long and gallantly for what she thought was right whether it was for some civic or social movement, such as the abolition of child labor, or for some principle in which she believed.  She possessed a colorful personality, seldom did she meet anyone who ever forgot her. <pageinfo><controlpgno entity="n3839047">047</controlpgno><printpgno>44</printpgno></pageinfo>She had a high sense of social responsibility; she was sympathetic; she was simple in her mode of life; she was, in short, a fine type of American womanhood, a splendid example for the thousands of students who were fortunate enough to be associated with her.
+</p>
+<p>
+We, the faculty of the University of Wyoming, are proud of Dr. Hebard&apos;s priceless contributions to the building of our institution.  We are grateful for having had the opportunity to know and work with her.  We treasure her memory and we shall always remember her as a worthy colleague and an enduring friend.
+</p>
+<p>
+<hi rend="smallcaps">
+The Faculty of the University of Wyoming.
+</hi>
+<lb>
+October 20, 1936.
+</p>
+<p>
+Dr. Grace Raymond Hebard&apos;s death on October 11 left the University of Wyoming with a feeling of irreparable loss.
+</p>
+<p>
+Dr. Hebard was not only an eminent historian but she was a sympathetic friend and inspiring teacher of the Wyoming students.  She was admired by the student body for her energy and vitality that gave spirit and force to her teaching and leadership.  She expressed her true loyalty and love for the University of Wyoming through her service as Secretary of the Board of Trustees, as librarian, and later as head of the department of political economy.  Her vibrant personality expressed in these fields of service will ever be remembered by the Wyoming students.
+</p>
+<p>
+Dr. Hebard always appreciated and encouraged the efforts of women students in their founding of women&apos;s organizations.  She was particularly helpful to us in the establishment of our project of furnishing the Nellie Tayloe Ross Room, and was an even greater help in assisting us to secure our charter from National Mortar Board.
+</p>
+<p>
+We, the members of the Wyoming Chapter of Mortar Board, are grateful that we have been able to know such a true friend and distinguished leader.
+</p>
+<p>
+<hi rend="smallcaps">
+Wyoming Chapter of Mortar Board.
+</hi>
+</p>
+<p>
+Laramie, Wyoming, November 20, 1936.
+</p>
+<pageinfo><controlpgno entity="n3839048">048</controlpgno><printpgno>45</printpgno></pageinfo>
+<p>
+In tribute to Dr. Grace Raymond Hebard, be it resolved by the Business and Professional Women&apos;s Club of Laramie, that the following commendations be inscribed in the permanent records of this civic organization:
+</p>
+<p>
+First, that the women of the State of Wyoming deeply appreciate her untiring efforts in the behalf of all women and are justly proud of her achievements toward a national recognition of the business and professional woman.
+</p>
+<p>
+Second, that the Laramie Club deems it a great honor and privilege to have been associated with Dr. Hebard, who, by her courage, her indomitable will to carry on in the face of all opposition, established a high ethical standard for all those in the businesses and the professions.
+</p>
+<p>
+Third, that the Laramie Club does acknowledge the priceless gift which Dr. Hebard has left them&mdash;an interest in educational, social, and civic movements&mdash;and will have forever dear memories of her.
+</p>
+<p>
+<hi rend="smallcaps">
+Business and Professional Women&apos;s Club
+<lb>
+of Laramie.
+</hi>
+</p>
+<p>
+The Wyoming Education Association, believing that no formal resolutions of respect can adequately express for its members, their admiration for the Educator whose life and achievements are uppermost in their thoughts today, offer instead this brief tribute.
+</p>
+<p>
+Dr. Grace Raymond Hebard&apos;s years were many, as human life is reckoned.  We do not sorrow, therefore, as we do when a young life of great promise is suddenly and unexpectedly closed.  Rather we rejoice that it has been our privilege to know and to love one who lived to see the fruits of her labors.  Those fruits included many achievements in the educational world for which she will long be remembered and for which we express our profound gratitude.  But the fruit that brought the richest happiness into her life, especially during her later years, was the ever lengthening list of her friends.  To have won the confidence, the affection, the discipleship of so many in the educational, the social, and the civic world is an enviable record.
+</p>
+<pageinfo><controlpgno entity="n3839049">049</controlpgno><printpgno>46</printpgno></pageinfo>
+<p>
+We therefore direct that there be entered upon the permanent records of this association, not primarily our sense of loss, but rather our gratitute for the heritage which is ours.  Out of her life and its richness will come courage and hope to those whose lives are dedicated to the ideals she cherished.
+</p>
+<p>
+THE WYOMING EDUCATION ASSOCIATION.
+</p>
+<p>
+November, 1936.
+</p>
+</div>
+<div>
+<head>
+Memorial Plaque
+</head>
+<p>
+The Board of Trustees authorized the purchase of a memorial plaque, honoring Dr. Grace Raymond Hebard, to be placed in University Hall.  Dedication ceremonies of this plaque were held as a part of the semicentennial exercises, June 8, 1937.
+</p>
+<pageinfo><controlpgno entity="n3839050">050</controlpgno><printpgno></printpgno></pageinfo>
+<illus entity="n3839-03.i01">
+<caption>
+<p>
+A CORNER OF THE HEBARD ROOM IN THE UNIVERSITY LIBRARY
+</p>
+</caption>
+</illus>
+</div>
+<pageinfo><controlpgno entity="n3839051">051</controlpgno><printpgno>47</printpgno></pageinfo>
+<div>
+<head>
+The Hebard Room
+</head>
+<div>
+<head>
+In recognition of the work of Dr. Grace Raymond Hebard
+<lb>
+in compiling and preserving the annals of Wyoming
+</head>
+<p>
+A bronze plate bearing this inscription marks the door of room 307 in the Library Building.  This room is on the third floor in the southwest corner.  It is beautifully situated as it commands a view of the Snowy Range Mountains on the west, a glimpse of the Colorado Mountains on the south, and the lovely ever changing hills east of Laramie.  Sunlight fills the room from morning until nightfall.  The walls on the north and east are lined with very attractive book shelves and there is a large dark oak table with chairs for the center.  The shelves are well filled with a complete file of the University publications, as complete a file of State publications as can be had and the rare and valuable books&mdash;mostly Western American and Wyoming history&mdash;which Dr. Hebard had so carefully collected and preserved through her years of service as Secretary to the University Board, librarian, and teacher.
+</p>
+<p>
+When the plans for the Library Building were completed in 1921-22 this room was set aside for Dr. Hebard, librarian emeritus, and it was hoped that she would use it or an office study.  This hope never materialized as she had become so attached of her room on the second floor of Old Main that she never wished to leave it even for the research work which she carried on outside of office hours.  The room in Old Main and the study in her own home continued to be her favored haunts and her work shops.  But she did not forget the room in the Library and so when she was presented with the grand piano, a part of the library, and the old book cases of Judge William A. Carter of Fort Bridger, she put these in the Hebard Room and presented them to the University.  During the summer term D. Hebard would bring her Wyoming history class to the Hebard Room to see this beautiful old piano and the class would always sing a few of the familiar old songs.  The class was so large that it had to be divided into several sections <pageinfo><controlpgno entity="n3839052">052</controlpgno><printpgno>48</printpgno></pageinfo>and they came at 7:30 in the morning so as not to disturb the library readers.
+</p>
+<p>
+The next event of interest to happen in this room was a reception given for Dr. Hebard in 1933 on the publication of her book 
+<hi rend="italics">
+Sacajawea.
+</hi>
+It was a very happy and beautiful affair.  The room was most attractive and intensely interesting as Dr. Hebard very generously stripped her house and office of many of her pictures, historical maps and records, and fine Navajo rugs, all of which gave the room a warm homely atmosphere and provided the proper background for the gracious hostess.
+</p>
+<p>
+On October 11, 1936, Dr. Hebard died and when her will was read it was discovered that she had left to the University all of her historical material, her historical maps and pictures, and her files which contained information an clippings of great value.  With this additional material it was necessary to enlarge the space and so the room, next to room 307 was set aside by Dr. Crane for an addition to the Hebard Room.  It is planned to cut a door between the two rooms and to make them as attractive and homely as they were on that joyous occasion when the book 
+<hi rend="italics">
+Sacajawea
+</hi>
+was completed and Dr, Hebard received the homage of her friends and colleagues.
+</p>
+<pageinfo><controlpgno entity="n3839053">053</controlpgno><printpgno></printpgno></pageinfo>
+<illus entity="n3839-04.i01">
+<caption>
+<p>
+ANOTHER VIEW OF THE HEBARD ROOM
+</p>
+</caption>
+</illus>
+</div>
+<pageinfo><controlpgno entity="n3839054">054</controlpgno><printpgno>49</printpgno></pageinfo>
+<div>
+<head>
+DR. HEBARD&apos;S GIFTS TO THE UNIVERSITY
+<lb>
+OF WYOMING
+</head>
+<p>
+That Dr. Hebard was an outstanding public spirited citizen is evidenced by her many generous endowments and gifts.  Some of her philanthropic work has been publicly recorded but many of her gifts were known only to herself and the recipients.  She made scores of unrecorded donations to worthy students that they might reach their goals in higher education, and through her conscientious efforts and wise economy in personal affairs during her lifetime she was able to make ample financial bequests to further undergraduate as well as postgraduate education.
+</p>
+<p>
+Dr. Hebard&apos;s major bequests made directly in the interests of the University of Wyoming, its students and faculty are as follows:
+<lb>
+<list>
+<item>
+<p>
+The Agnes Mathilde Wergeland Memorial History Scholarship.&mdash;A trust fund, the interest from which is used for an annual scholarship in history
+<hsep>
+$5,000.00
+</p>
+</item>
+<item>
+<p>
+The Alice Marven Hebard Memorial Fund.&mdash;A scholarship trust fund in the Stock Growers National Bank at Cheyenne, the interest from which provides an annual scholarship for a student from Cheyenne
+<hsep>
+$11,000.00
+</p>
+</item>
+<item>
+<p>
+Wergeland-Downey Loan Fund.&mdash;A trust fund in the First National Bank at Laramie as a memorial to Agnes Mathilde Wergeland and June Etta Downey.  &ldquo;The purpose of the fund is to encourage women members of the University of Wyoming faculty to pursue graduate work for the Doctor&apos;s degree.&rdquo;
+<hsep>
+$2,000.00
+</p>
+</item>
+<item>
+<p>
+Dr. Hebard&apos;s Historical Collection, appraised at
+<hsep>
+$10,000.00
+<lb>
+Includes manuscripts, pictures, maps, books.
+</p>
+</item>
+<item>
+<p>
+Hebard Map Scholarship Fund.
+<lb>
+This fund represents the proceeds from the sale of &ldquo;The Romance and History of Wyoming maps.&rdquo;  Administered through the local chapter of A.A.U.W.  Purpose is to give financial aid to deserving senior women during the last year in college to make graduation possible.
+</p>
+</item>
+</list>
+</p>
+</div>
+</div>
+</body>
+<back>
+<pageinfo><controlpgno entity="n3839055">055</controlpgno><printpgno>50</printpgno></pageinfo>
+<div type="bib">
+<head>
+BIBLIOGRAPHY OF THE CHIEF WRITINGS
+<lb>
+OF GRACE RAYMOND HEBARD
+</head>
+<list type="ordered">
+<item>
+<p>
+1904
+<hsep>
+<hi rend="italics">
+The History and Government of Wyoming.
+</hi>
+  San Francisco, C. F. Weber &amp; Co.  301p. illus. (II editions).
+</p>
+</item>
+<item>
+<p>
+1907
+<hsep>
+&ldquo;Pilot of the First White Men to Cross the American Continent.&rdquo;  (From 
+<hi rend="italics">
+The Journal of American History,
+</hi>
+ V.I, no. 3, Third quarter, 1907.) 15p. illus.
+</p>
+</item>
+<item>
+<p>
+1911
+<hsep>
+<hi rend="italics">
+The Pathbreakers from River to Ocean.
+</hi>
+  Chicago, The Lakeside Press, 311p. illus (6 editions.)
+</p>
+</item>
+<item>
+<p>
+1913
+<hsep>
+&ldquo;The First Woman Jury.  (From 
+<hi rend="italics">
+The Journal of American History
+</hi>
+ V.7, no. 4, Fourth quarter, 1913.)  49p. illus.
+</p>
+</item>
+<item>
+<p>
+1918
+<hsep>
+<hi rend="italics">
+War Service of the University of Wyoming,
+</hi>
+ compiled by a committee, Grace Raymond Hebard, chairman.  Laramie, Wyoming, University of Wyoming.  56p. illus.  (University of Wyoming Bulletin v. 15, no. 7, Dec., 1918.)
+</p>
+</item>
+<item>
+<p>
+1919-20
+<hsep>
+<hi rend="italics">
+How Woman Suffrage Came to Wyoming.
+</hi>
+  (From Wyoming State Historical Department proceedings and collections, 1919-1920, p. 135-152.) 18p. illus
+</p>
+</item>
+<item>
+<p>
+1921
+<hsep>
+<hi rend="italics">
+Marking the Oregon Trail, the Bozeman Road, and Historic Places in Wyoming,
+</hi>
+ 1908-1920.  Presented by the Daughters of the American Revolution of Wyoming.  43p. illus.
+</p>
+</item>
+<item>
+<p>
+1921
+<hsep>
+<hi rend="italics">
+The First Honorary Degree from the University of Wyoming Conferred upon Mrs. Carrie Chapman Catt June 12, 1921.
+</hi>
+  University of Wyoming Bulletin, Dec. 1921, special number.)  Arranged, and autographs collected by Dr. Hebard.
+</p>
+</item>
+<item>
+<p>
+1922
+<hsep>
+<hi rend="italics">
+Teaching Wyoming History by Counties.
+</hi>
+  (State of Wyoming, Department of Education Bulletin, no. 9, series B.) (3 editions.)
+</p>
+</item>
+<item>
+<p>
+1922
+<hsep>
+<hi rend="italics">
+The Bozeman Trail
+</hi>
+ by Grace Raymond Hebard and E.A. Brinninstool.  Cleveland, Arthur H. Clark Company, 1922. 346p. illus.2v.
+</p>
+</item>
+<item>
+<p>
+1926
+<hsep>
+<hi rend="italics">
+Civics, for Use in Wyoming Public Schools.
+</hi>
+  San Francisco, C. F. Weber and Company 115p.  (2 editions.)
+</p>
+</item>
+<item>
+<p>
+1930
+<hsep>
+<hi rend="italics">
+Washakie.
+</hi>
+  Cleveland, Arthur H. Clark Company.  337p. illus.
+</p>
+</item>
+<item>
+<p>
+1932
+<hsep>
+<hi rend="italics">
+Sacajawea.
+</hi>
+ Cleveland, Arthur H. Clark Company.  340p. illus.
+</p>
+</item>
+<item>
+<p>
+1935
+<hsep>
+<hi rend="italics">
+The Birth of Wyoming Day,
+</hi>
+ by Grace Raymond Hebard and Marie Montab&eacute;.  12p.
+</p>
+</item>
+</list>
+</div>
+</back>
+</text></tei2>

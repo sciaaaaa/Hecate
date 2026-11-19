@@ -1,0 +1,17 @@
+{
+  "verdict": "REVIEW",
+  "errors": [],
+  "warnings": [
+    "Missing complete resource coverage: node4",
+    "Missing complete resource coverage: node5",
+    "Missing complete resource coverage: node6",
+    "Missing complete resource coverage: chain"
+  ],
+  "observations": [
+    {
+      "authorization_budget_fraction": 0.046420866666666664,
+      "actual_authorization_gas": 1191659
+    }
+  ],
+  "note": "Checks saved evidence only. READY permits planning a larger trial, not a guarantee of its success. Re-estimate gas at each new size. Resource thresholds are operational warning choices, not protocol limits; inspect raw samples for saturation."
+}

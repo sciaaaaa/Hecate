@@ -1,0 +1,110 @@
+"Lessons Learned" is a series of drop-in articles prepared by the NTSB for use in publications of other organizations.
+An index of articles is available at http://www.ntsb.gov/events/journalist/lessons/lessons.htm
+
+
+
+Lessons Learned from a Pipeline Rupture
+
+Controller's Failure to Accurately Evaluate Data and Initiate Timely Pipeline Shutdown 
+Contributed to Accident's Severity, NTSB Report Says 
+
+The failure of a pipeline controller to accurately evaluate data and promptly respond to a 
+pipeline emergency were major factors in a pipeline rupture that resulted in the release of 
+204,000 gallons of anhydrous ammonia in Kansas.
+
+The National Transportation Safety Board (NTSB), which investigated the accident and 
+issued its report in June, said the released material created a highly toxic vapor cloud. Although 
+there were no injuries associated with the accident, the NTSB said chemicals from the pipeline 
+entered a nearby stream in an environmentally sensitive area and killed more than 25,000 fish, 
+including some threatened species. An 8 5/8-inch diameter steel pipeline operated by Enterprise 
+Products Operating L.P. ruptured at about 11:15 a.m. on October 27, 2004, in an agricultural area 
+6 miles east of Kingman.
+
+        "We are very fortunate that such highly toxic chemicals of the amount and scope involved 
+in this accident were not released in a populated area," said NTSB Chairman Mark V. Rosenker.  
+"Had this same quantity of ammonia been released near a town or city, the results could have 
+been catastrophic."
+
+        The Safety Board found that the probable cause of the rupture was a pipe gouge created by 
+heavy equipment damage to the pipeline during construction in 1973 or subsequent excavation 
+activity at an unknown time that initiated metal fatigue cracking.
+
+Actions by the controller were a major focus of the investigation, prompting the NTSB to 
+issue three recommendations to the Pipeline and Hazardous Materials Safety Administration 
+(PHMSA).
+
+The NTSB is urging PHMSA to require operators to revise pipeline risk assessment plans 
+whenever they have failed to consider one or more risk factors that can affect pipeline integrity; 
+require pipeline operators to have a procedure to calculate and provide a reasonable initial 
+estimate of released product in the telephonic report to the National Response Center; and 
+contact the center again if significant new information becomes available during the emergency 
+response. 
+
+The NTSB also recommended that Enterprise Products provide initial and recurrent 
+training for all controllers that includes simulator or noncomputerized simulations of abnormal 
+operating conditions that indicate pipeline leaks.
+         
+The NTSB report said the controller told investigators after the rupture that he had been 
+viewing the tabular screen and knew the alarms indicated a potential problem with the pipeline. 
+To evaluate the alarms from the pipeline, he used the tabular data screen in the SCADA system. 
+This screen listed the pipeline facilities and displayed current data for the entire pipeline system, 
+including pump station suction and discharge pressures, pump status, tank levels, flow rates, 
+valve status, and set points. Alarm information that was displayed on the alarm screen also 
+flashed and changed color on the tabular screen.
+
+The report said the controller's assessment was that he was delivering more ammonia 
+from the pipeline than was being added to the pipeline and that this condition had decreased the 
+pressure. This assessment led him to increase the flow rate at about 11:27. He later said that he 
+thought that within 10 or 15 minutes, the pressure readings would increase. Therefore, he 
+planned to wait for a few minutes, and, if the pressure readings for the pipeline did not increase, 
+he would reevaluate and investigate the situation further. 
+
+The SCADA system can display a trend screen that shows pressure and flow trend data 
+graphically, and the controller told investigators that looking at a trend screen would have been 
+helpful in the analytical stage. However, the NTSB report said, he did not use trend screens in 
+evaluating the incoming data. He told investigators that his training did not specify which 
+screens to use to analyze and evaluate the SCADA data. He stated that from 11:15 a.m. to 11:48 
+a.m., an unusually high number of alarms and status events were displayed for the pipeline. 
+During this 33-minute period, the SCADA system displayed 119 alarms and status events. The 
+controller said that he felt that he had full authority to shut down the pipeline; he did not believe 
+there would be consequences from Enterprise if he shut down a pipeline and it were 
+subsequently determined that there was no leak. 
+
+The operations control supervisor stated in an NTSB interview that he expects pipeline 
+controllers to use the tabular screen as the main screen, or "front page." He said that controllers 
+are taught to access and display a trend screen, or "second page," to further investigate an alarm 
+and the condition that caused it. The supervisor said that pressure and flow changes are the 
+primary parameters used to detect leaks. He stated that at the time of the accident, rate-of-change 
+alarms were displayed in blue and immediate response alarms were displayed in red. He 
+indicated his belief that the controller had enough information between 11:20 a.m. and 
+11:25 a.m. to lead him to shut down the ammonia pipeline. 
+
+After the accident, the NTSB report said, Enterprise established a program to review the 
+rate-of-change alarms systemwide because the company believed that the alarms were not as 
+effective as they should be. The goal of the review was to make the alarms more meaningful by 
+significantly reducing the number of alarms that could distract controllers from more critical 
+alarms. 
+
+Enterprise supervisors reviewed the circumstances of the accident with the controller and 
+identified deficiencies in his response. No disciplinary actions were taken against the controller. 
+Enterprise conducted training sessions for its entire staff of anhydrous ammonia and natural gas 
+liquid pipeline controllers. In the training sessions, Enterprise used a noncomputerized 
+simulation to analyze the ammonia pipeline accident. 
+
+Enterprise developed a new telephonic reporting procedure for estimating the amount of 
+product released and related damages based on pipeline physical characteristics and available 
+operating data. The procedure also addresses a potential delay in telephonic reporting for releases 
+that exceed the EPA reportable quantity. Enterprise revised its risk assessment model to 
+incorporate a pipeline leak-history factor in its risk assessment calculation. It also revised its 
+baseline assessment of pipeline segments using all risk factors to schedule baseline assessments.
+
+	The report is available on NTSB's Web site, http://www.ntsb.gov/publictn/2007/ 
+PAB0702.htm.
+
+
+
+
+
+
+1
+08/2007

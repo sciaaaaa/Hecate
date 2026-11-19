@@ -1,0 +1,889 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head><!-- PageID 8580 - published by RedDot 6.5 - 6.5.4.20 - 13551 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<!-- Include head info -->
+<!-- head include  -->
+
+<style type="text/css">
+#siteheader {
+ background-image : url(/hydrogenandfuelcells/headersandbanners/h2_delivery_head.jpg);
+ background-repeat : no-repeat;
+ background-color:#FFF;
+ width:100%;
+}
+td.background {
+ background-image : url(/hydrogenandfuelcells/headersandbanners/hp_hydro_head_blueline.gif);
+ background-repeat : no-repeat;
+ background-color: #FFFFFF;
+}
+</style>
+
+ 
+<!-- rollovers -->
+<!--COMMENTOUT:RDExecute=asp-->
+
+<!--==This is an internal script that runs whenever a page is viewed as a preview or in SmartEdit==-->
+<!--==It is pre-executed so that it does not appear on the published page==-->
+<!--==This script uses RQL (The RedDot CMS API)==-->
+
+<!--==
+Specifications:
+Each content page contains a list of sub-pages.  When a new page is created, the list must be assigned a target container.
+To make this easier on the editors, this script automatically assigns the list of the new page to the target container of the page's
+main link.  If the main link IS a target container, it uses that instead.
+
+Once the target container has been set, the script sets a flag on the content page indicating that the script should no longer run on that page.
+==-->
+
+
+
+
+
+ 
+
+
+
+
+
+
+<title>HFCIT Hydrogen Delivery: Current Technology</title>
+
+
+
+
+<!-- Updated Search Header Code -->
+
+<meta name="WT.sp" content="/hydrogenandfuelcells/">
+
+<!-- End Updated Search Header Code -->
+
+
+
+
+<!-- javascripts for search - browser sniffer and box sizer -->
+<script language="JavaScript" type="text/javascript" src = "/hydrogenandfuelcells/includes/ua.js"></script>
+<script language="JavaScript" type="text/javascript" src = "/hydrogenandfuelcells/includes/search.js"></script>
+<style type="text/css">
+/* General Elements */
+BODY  {
+ background-color : #FFF;
+ font-size :100%;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ font-weight : normal;
+ color : #000;
+ margin:0;
+ padding:0;
+ border:0;
+ padding-bottom:25px;
+ }
+P  {
+ text-align: left;
+ margin-top:0;
+ font-size:80%;
+}
+B, strong  {
+ font-weight : bold;
+}
+I, em { font-style:italic; }
+SUB { 
+ font-size: smaller;
+ vertical-align: sub; 
+ line-height: 1px;
+}
+sup {
+  font-size: smaller; 
+  vertical-align:super;
+  line-height: 1px;}
+UL {
+ margin-top:0;
+}
+DD, LI  {
+ font-size :80%;
+ font-weight : normal;
+ margin-bottom:0;
+}
+UL LI UL LI {font-size:100%;}
+UL LI OL LI {font-size:100%;}
+OL LI UL LI {font-size:100%;}
+LI P, LI H3, LI H4 {font-size:100%;}
+hr { 
+ color: #CCC; 
+}
+/* Links */
+A:link {color:#006;}
+A:visited {color:#900;}
+/* Titles */
+H1 { 
+ font-size :110%;
+ font-weight : bold;
+ color : #900;
+ margin: 0;
+}
+ 
+H2  {
+ font-size :95%;
+ font-weight : bold;
+ color : #900 ;
+ margin: 0;
+}
+h2 a:link {text-decoration:none;color:#990000;}
+h2 a:visited {text-decoration:none;color:#990000;}
+h2 a:hover {text-decoration:underline;color:#006;}
+H3  {
+ font-size :80%;
+ font-weight : bold;
+ color : #000 ;
+ margin: 0;
+}
+H4  {
+ font-size: 80%;
+ color : #4E4E4E;
+ font-weight : bold;
+ margin: 0;
+}
+h4.printable {font-size: 90%; margin-bottom:18px;}
+
+/* Generic */
+.small
+{
+ font-size : 70%;
+}
+.med
+{
+ font-size : 75%;
+}
+.reg  {
+ font-size : 80%;
+ }
+ 
+.notop
+{
+ margin-top: 0;
+}
+.nobottom
+{
+ margin-bottom: 0;
+}
+.nomargin
+{
+ margin-top: 0;
+ margin-bottom: 0;
+}
+.hide {position:absolute;
+left:0;
+top:-500px;
+width:1px;
+height:1px;
+overflow:hidden;}
+
+p.date {
+ color: #666; 
+ font-size: 70%; 
+}
+
+/*Images */
+img { border:0;} 
+.floatright {float: right; position: relative; margin: 0.25em 0 0.66em 1.5em;}
+.floatleft {float: left; position: relative; margin: 0.25em 1.5em 0.66em 0;}
+.caption {
+ font-size : 70%;
+ margin-top: 0;
+}
+/* Page structure */
+#topnavborder {background-color: #FFF; width: 100%; height: 2px; font-size: 0%;}  
+#topnav {background-color:#000066; width:100%;border:0;padding:0;margin:0; font-size: 0%;}
+#programheader {width:100%;background-color:#61C000;}
+#content {
+  padding:12px 12px 0 12px;
+}
+#anchorlist li {
+margin-top:0;
+margin-bottom: 0;
+margin-left:-20px;
+}
+/* Printable versions */
+#printable {font-size:8pt;margin-top:12px;}
+#printable A:hover {font-size: 8pt;}
+#printable A:link, #printable A:visited { font-size:8pt;}
+#printabletop {font-size:8pt;margin:15px 300px 0 0; text-align:right;}
+#printabletop A:hover {font-size: 8pt;}
+#printabletop A:link, #printabletop A:visited {font-size: 8pt;}
+/* Left Navigation */
+#leftnav {border-right:1px solid #CCC; width:176px; padding:3px 0 0 0;}
+#leftnav img {display:block;margin:0;padding:0; }
+#leftnav span img {display:inline;}
+#leftnav .toplevelnav {border-bottom: 1px solid #CCC; padding-bottom:3px; margin-bottom:3px; }
+/* Quick Links */
+#quicklinks { width:128px;
+ position:relative;
+ color:#000;
+ background-color: #f1f1f1;
+ border:1px solid #ccc;
+ padding:8px;
+ margin:15px;
+}
+ 
+#quicklinks h3 {color:#006; margin:0; font-size: 75%;}
+#quicklinks ul {margin-left:18px;margin-top:6px;padding:0;}
+#quicklinks li {
+ list-style-type: disc;
+ color:#cccccc;  font-size: 70%}
+#quicklinks li A:hover { color: #900;
+text-decoration : none; } 
+#quicklinks li :link, #quicklinks li :visited {
+ color : #006;
+ text-decoration : none; 
+ }
+/* Right column */
+#rightcol {width:250px;border-left:1px solid #CCC; float:right;background-color:#FFF; margin-left:10px;}
+/* Search box */
+#searchbox {
+background-color:#006;
+padding:0 0 3px 10px;
+margin:0; 
+}
+#searchbox form, #searchbox img {margin:0;padding:0;border:0;}
+#searchbox input {background-color:#FFF;margin:0;padding:0;}
+#searchbox p {
+ color: yellow; 
+ text-decoration: none;
+ margin: 0;
+ font-size: 70%; }
+#searchbox p A:hover { color: yellow; } 
+#searchbox p :link, #searchbox p :visited {
+ color: white; 
+ text-decoration: none; }
+#searchbox label {position:absolute;
+left:0;
+top:-500px;
+width:1px;
+height:1px;
+overflow:hidden;}
+/* Site Utilities */
+#siteutils, .rightcolgroup {border-bottom:1px solid #CCC; padding:0;margin: 0;background-color:#FFF; width:249px;}
+#siteutils p
+{
+ font-size : 70%;
+ color : #900;
+ margin-top: 5px;
+ margin-bottom: 7px;
+ padding-left:10px; }
+#siteutils p A:hover { color: #900;
+text-decoration : none; } 
+#siteutils p :link, #siteutils p :visited {
+ text-decoration : none;
+ color : #006; }
+/* Right Column sections */ 
+.rightcolgroup p.headline
+{
+ color : #006;
+ margin: 5px 0 0 0;
+ padding-left:20px; 
+font-size: 75%}
+.rightcolgroup p.headline A:hover { color: #900;
+text-decoration : none; } 
+.rightcolgroup p.headline :link, p.headline :visited {
+ color : #006;
+ text-decoration : none; }
+ 
+.rightcolgroup img.floatleft
+{
+ padding: 3px 10px 5px 20px;
+ margin:0;
+}
+.rightcolgroup p.reader
+{
+ color : #006;
+ margin: 0 0 6px 20px;
+ font-size: 70%;
+ margin-top:0;
+ clear:both;
+ padding-top:6px;
+ }
+ 
+.rightcolgroup p.reader A:hover { color: #900;
+text-decoration : none; } 
+.rightcolgroup p.reader :link, p.reader :visited {
+ color : #006;
+ text-decoration : none; 
+ }
+.rightcolgroup p.date {
+ color: #666; 
+ margin: 0 0 7px 0;
+ padding-left:20px;
+ font-size: 70%; }
+.rightcolgroup p.more  {
+ color : #006;
+ margin: 5px 0 7px 0;
+ padding-right:10px;
+ text-align:right;  }
+.rightcolgroup p.more A:hover { color: #900;
+text-decoration : none; } 
+.rightcolgroup p.more :link, p.more :visited {
+ color : #006;
+ text-decoration : none;
+}
+.rightcolgroup h3 {
+font-size: 75%;
+font-weight:bold;
+ margin: 10px 0 0 0;
+ padding-left:20px; 
+ color:#666;
+}
+.rightcolgroup p.learnmorelink {
+font-size: 70%;
+ margin: 0 0 10px 0;
+ padding-left:20px; 
+}
+.rightcolgroup p.learnmorelink A:hover { color: #900;
+text-decoration : none; } 
+.rightcolgroup p.learnmorelink :link, p.learnmorelink :visited {
+ color:#006;
+ text-decoration : none; 
+ }
+/* Features */
+#features img {display:block; margin:0;padding:0; border:0;}
+ 
+/* Data Tables */
+table.data { border-top : 1px solid #CCC;
+   border-left : 1px solid #CCC; font-size:75%; margin-bottom:12px;}
+table.data td { border-right : 1px solid #CCC;
+   border-bottom : 1px solid #CCC; 
+   text-align:center;}
+table.data tr.grey { background-color:#EEE;}
+table.data th { 
+   border-right : 1px solid #CCC;
+   border-bottom : 1px solid #CCC; }
+ 
+table.data th.left, table.data td.left { 
+text-align:left;
+}
+/* Caption for data tables */
+caption {font-size: 110%; font-weight:bold;}
+ 
+DL {
+ font-size :80%;
+ font-weight : bold;
+ color : #000 ;
+ margin: 0;
+}
+DD {margin-bottom:12px; font-size: 100%;}
+DT {font-weight:bold;}
+ 
+ 
+.callout {  width:250px;
+ color:#000;
+ background-color: #f1f1f1;
+ border:1px solid #ccc;
+ padding:8px;
+ margin:15px;
+ float:right; 
+ position:relative;
+ }
+/*  Forms */
+form {margin:0;}
+.formarea {
+ padding: 25px;
+ margin: 0;
+ border: 0;
+ text-align: left;
+ width:600px;
+ border:1px solid #CCC;
+ }
+ 
+.formarea label {
+ font-size: 70%;
+ margin-bottom: 0;
+ padding-bottom: 0;
+ margin-top: 18px;
+ display: block;
+ font-weight:bold;
+ color:#666;
+ }
+ 
+.formarea div.radioheader {
+font-size: 75%;
+ color:#666;
+ margin-bottom:2px;
+ margin-top:18px;
+ font-weight:bold;
+}
+.formarea p.instruction {
+font-size: 70%;
+ color:#666;
+ margin-bottom:3px;
+}
+.formarea p.sample {
+font-size: 70%;
+ color:#666;
+ margin-bottom:3px;
+ font-style:italic;
+}
+.formarea textarea { font-family:Arial, Helvetica, sans-serif;}
+ fieldset {
+ padding:15px; 
+ margin-bottom:12px;
+ }
+ 
+ legend {font-size:80%; font-weight:bold; color:#900;}
+.form-button {
+ color: #000;
+ background-color: #fff;
+ border: 1px solid #666;
+ font-family: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif;
+ font-weight: bold;
+ padding-left: 1px;
+ padding-right: 1px;
+ margin: 0;
+ font-size: xx-small;
+ voice-family: "\"}\"";
+ voice-family: inherit;
+ font-size: x-small;
+ }
+/* Footer */
+#footer p {
+ font-size : 72%;
+ margin-top: 6px;
+ margin-bottom: 0;
+ text-align: center;
+}
+#doe
+{
+ color : Gray;
+}
+.reddot
+{
+ font-size : 8pt;
+ font-family : Verdana, Arial, Helvetica;
+ font-weight : normal;
+ color : red;
+ margin-top: 5px;
+ margin-bottom: 0;
+}
+/* For red headers that link, without the underline and with a blue rollover color */
+.lineless
+    { text-decoration:none;}
+.lineless A:hover { 
+ color: #000066;
+ text-decoration : none; 
+ background-color: transparent;
+} 
+.lineless :link, .lineless :visited {
+ color : #990000;
+ text-decoration : none;
+ background-color: transparent;
+}
+.lineless-blue A:hover { 
+ color: #FFFFFF;
+ text-decoration : none; 
+ background-color: #000066;
+} 
+.lineless-blue A:link, .lineless-blue A:visited {
+ color : #FFFFFF;
+ text-decoration : none;
+ background-color: #000066;
+}
+.navgreyline {border-bottom: 1px solid #CCC; margin-bottom:3px; margin-top:3px;}
+.MainBarFont
+{
+font-weight:700;
+color: white;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:16px
+}
+.MainBar
+{
+background-color:#000066;
+}
+.SecBarFont
+{
+font-weight:700;
+color: white;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px
+}
+.SecBar
+{
+background-color:#000066;
+}
+.companyname
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:700;
+}
+.tabletext  {
+ font-size :90%;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ font-weight : normal;
+ color : #000;
+ margin:0;
+ padding:0;
+ border:0;
+ }
+.resulttext {
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 70%;
+ color: #000000;
+}
+.thirdbar {
+ background-color: #CCCCCC;
+}
+.thirdbarfont {
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 80%;
+ font-weight: 700;
+ color: #000000;
+}
+
+/* Added for Events calendar */
+
+.events_sort_cell {
+  font-size: 83%;  
+  background-color: #eeeeee; 
+  border-color:#cccccc;
+  font-weight:bold;
+}
+.events_text_cell {
+  font-size: 83%;  
+}
+/* Back to Top Anchor Link */
+.backtotop {
+text-align: right;
+font-size :70%;
+}
+.backtotop A:hover { 
+color: #900;
+} 
+.backtotop :link, .backtotop :visited {
+color : #006;
+}
+
+</style>
+ 
+
+<!-- End head info -->
+</head>
+<body >
+<!-- Include EERE header -->
+<!--stopindex-->
+<!-- EERE Header Map-->
+<map name="head">
+<area alt="Skip Navigation to main content" coords="1,1,2,2" href="#content">
+<area alt="U.S. Department of Energy" coords="64,8,203,27" href="http://www.energy.gov/">
+<area alt="U.S. Department of Energy" shape="circle" coords="33,33,28" href="http://www.energy.gov/">
+<area alt="Energy Efficiency and Renewable Energy" coords="65,28,363,50" href="http://www.eere.energy.gov/">
+</map>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+ <tr>
+  <td valign="top" width="366"><img src = "/hydrogenandfuelcells/headersandbanners/eere_head.gif" alt="Bringing you a prosperous future where energy is clean, abundant, reliable, and affordable" width="366" height="67" border="0" usemap="#head"></td>
+  <td class="background" width="100%" align="right" valign="bottom"><a href="http://www.eere.energy.gov/"><img src = "/hydrogenandfuelcells/images/eere_home_liquid.gif" alt="EERE Home" width="62" height="11" border="0"></a>
+
+
+
+</td>
+ </tr>
+</table>
+<!-- EERE Header -->
+<!--startindex-->
+<script language="JavaScript" type="text/javascript" src="/includes/scripts/nrel_eere.js"></script>
+<!-- End EERE header -->
+
+<!-- Include program header -->
+<!-- Site header include -->
+<!--stopindex-->
+<div id="programheader">
+
+  <a href="http://www.eere.energy.gov/hydrogenandfuelcells/"><img src="/hydrogenandfuelcells/headersandbanners/ss_hydro_head.jpg" alt="Hydrogen, Fuel Cells and Infrastructure Technologies Program" border="0"></a>
+
+</div>
+<!--startindex-->
+<!-- End program header -->
+<!-- Include top navigation -->
+<!-- do not change code for readability. these links need to be run together to look right in the browser -->
+<!--stopindex-->
+<div id="topnavborder">&nbsp;</div>
+<div id="topnav"><!--Setup Top Nav rollovers-->
+<script language="Javascript" type="text/javascript">
+<!--
+topNavNormal = new Array();
+topNavOver = new Array();
+
+topNavNormal[0] = "/hydrogenandfuelcells/topnav/ss_tn_about_off.gif";
+topNavOver[0] = "/hydrogenandfuelcells/topnav/ss_tn_about_on.gif";
+
+topNavNormal[1] = "/hydrogenandfuelcells/topnav/ss_tn_prog_areas_off.gif";
+topNavOver[1] = "/hydrogenandfuelcells/topnav/ss_tn_prog_areas_on.gif";
+
+topNavNormal[2] = "/hydrogenandfuelcells/topnav/ss_tn_information_off.gif";
+topNavOver[2] = "/hydrogenandfuelcells/topnav/ss_tn_information_on.gif";
+
+topNavNormal[3] = "/hydrogenandfuelcells/topnav/ss_tn_financial_off.gif";
+topNavOver[3] = "/hydrogenandfuelcells/topnav/ss_tn_financial_on.gif";
+
+topNavNormal[4] = "/hydrogenandfuelcells/topnav/ss_tn_technologies_off.gif";
+topNavOver[4] = "/hydrogenandfuelcells/topnav/ss_tn_technologies_on.gif";
+
+topNavNormal[5] = "/hydrogenandfuelcells/topnav/ss_tn_deployment_off.gif";
+topNavOver[5] = "/hydrogenandfuelcells/topnav/ss_tn_deployment_on.gif";
+
+topNavNormal[6] = "/hydrogenandfuelcells/topnav/ss_tn_home_off.gif";
+topNavOver[6] = "/hydrogenandfuelcells/topnav/ss_tn_home_on.gif";
+
+function topNavMsOver(num) {
+ loadTopNavImage = "topNavImage" + num;
+ document.images[loadTopNavImage].src = topNavOver[num]
+}
+function topNavMsOut(num) {
+ loadTopNavImage = "topNavImage" + num;
+ document.images[loadTopNavImage].src = topNavNormal[num]
+}
+// -->
+</script>
+<a href='http://www.eere.energy.gov/hydrogenandfuelcells/about.html' onmouseover='topNavMsOver(0)' onmouseout='topNavMsOut(0)'><img src='/hydrogenandfuelcells/topnav/ss_tn_about_off.gif' alt='About the Program' name='topNavImage0' border='0'></a><a href='http://www.eere.energy.gov/hydrogenandfuelcells/program_areas.html' onmouseover='topNavMsOver(1)' onmouseout='topNavMsOut(1)'><img src='/hydrogenandfuelcells/topnav/ss_tn_prog_areas_off.gif' alt='Program Areas' name='topNavImage1' border='0'></a><a href='http://www.eere.energy.gov/hydrogenandfuelcells/resources.html' onmouseover='topNavMsOver(2)' onmouseout='topNavMsOut(2)'><img src='/hydrogenandfuelcells/topnav/ss_tn_information_off.gif' alt='Information Resources' name='topNavImage2' border='0'></a><a href='http://www.eere.energy.gov/hydrogenandfuelcells/financial.html' onmouseover='topNavMsOver(3)' onmouseout='topNavMsOut(3)'><img src='/hydrogenandfuelcells/topnav/ss_tn_financial_off.gif' alt='Financial Opportunities' name='topNavImage3' border='0'></a><a href="http://www.eere.energy.gov/hydrogenandfuelcells/technologies.html"><img src="/hydrogenandfuelcells/topnav/ss_tn_technologies_on.gif" alt="Technologies" border="0" name="topNavImage4"></a><a href='http://www.eere.energy.gov/hydrogenandfuelcells/deployment.html' onmouseover='topNavMsOver(5)' onmouseout='topNavMsOut(5)'><img src='/hydrogenandfuelcells/topnav/ss_tn_deployment_off.gif' alt='Deployment' name='topNavImage5' border='0'></a><a href='http://www.eere.energy.gov/hydrogenandfuelcells/index.html' onmouseover='topNavMsOver(6)' onmouseout='topNavMsOut(6)'><img src='/hydrogenandfuelcells/topnav/ss_tn_home_off.gif' alt='Home' name='topNavImage6' border='0'></a>
+</div>
+<!--startindex-->
+<!-- End top navigation -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" id="siteheader">
+ <tr>
+  <td width="176"><a href="/hydrogenandfuelcells/delivery/index.html"><img src="/hydrogenandfuelcells/images/spacer.gif" alt="Hydrogen Delivery" width="176" height="52" border="0"></a></td>
+  <td width="100%"><img src="/hydrogenandfuelcells/images/spacer.gif" alt="" width="1" height="52" border="0"></td>
+  <td valign="middle" style="width: 250px;" id="searchbox">
+<!--stopindex-->
+<form name=seek method=GET action="http://search.nrel.gov/query.html">
+   <input type=hidden name=qp value="url:www1.eere.energy.gov/hydrogenandfuelcells/ url:www.eere.energy.gov/hydrogenandfuelcells/">
+   <input type="hidden" name="style" value="eere">
+   <input type=hidden name=qs value="">
+   <input type=hidden name=qc value="eren">
+   <input type=hidden name=ws value="0">
+   <input type=hidden name=qm value="0">
+   <input type=hidden name=st value="1">
+   <input type=hidden name=nh value="10">
+   <input type=hidden name=lk value="1">
+   <input type=hidden name=rf value="0">
+   <input type=hidden name=oq value="">
+   <input type=hidden name=col value="eren">
+   
+   <script language="javascript" type="text/javascript">document.write(getSearch());</script>&nbsp;<input type="image" src="/hydrogenandfuelcells/images/search.gif" value="Search" alt="Search">
+   </form>
+
+  <p><a href="http://www.eere.energy.gov/site_administration/searchhelp.html" style="font-size: 8pt;">Search Help</a>&nbsp;<img src="/hydrogenandfuelcells/images/search_help_arrow.gif" alt="" width="4" height="7" border="0">&nbsp;&nbsp;&nbsp;
+    
+  <a href="../search_options.html" class="search">More Search Options</a>&nbsp;<img src="/hydrogenandfuelcells/images/search_help_arrow.gif" alt="" width="4" height="7" border="0"><label for="searchbtn" class="hide">Search</label><br>
+  <img src="/hydrogenandfuelcells/images/spacer.gif" alt="" width="241" height="1"></p>
+
+
+  </td>
+ </tr>
+</table>
+<!--startindex-->
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<!-- start of left navigation, first column -->
+ <tr>
+  <td valign="top" id="leftnav">
+ <!-- Include Left Navigation -->
+ <!--stopindex-->
+ <!--==This is used to make calls to the menu writing procedures==-->
+
+                <a onmouseover="document.image0.src='/hydrogenandfuelcells/delivery/images/leftnavimages/ln_home_on.gif'" onmouseout="document.image0.src='/hydrogenandfuelcells/delivery/images/leftnavimages/ln_home_off.gif'" href="/hydrogenandfuelcells/delivery/index.html"><img src="/hydrogenandfuelcells/delivery/images/leftnavimages/ln_home_off.gif" alt="Hydrogen Delivery Home Page" border="0" name="image0"></a>
+                <div class="navgreyline"><img src="/hydrogenandfuelcells/images/spacer.gif" height="1" width="1" alt=""></div>
+                
+                    <a onmouseover="document.image1.src='/hydrogenandfuelcells/delivery/images/leftnavimages/ln_basics_on.gif'" onmouseout="document.image1.src='/hydrogenandfuelcells/delivery/images/leftnavimages/ln_basics_off.gif'" href="/hydrogenandfuelcells/delivery/basics.html"><img src="/hydrogenandfuelcells/delivery/images/leftnavimages/ln_basics_off.gif" alt="Basics" border="0" name="image1"></a>
+                    <div class="navgreyline"><img src="/hydrogenandfuelcells/images/spacer.gif" height="1" width="1" alt=""></div>
+                    <img src="/hydrogenandfuelcells/delivery/images/leftnavimages/ln_current_technology_on.gif" alt="Current Technology" border="0" name="Image2">
+                    <div class="navgreyline"><img src="/hydrogenandfuelcells/images/spacer.gif" height="1" width="1" alt=""></div>
+                    <a onmouseover="document.image3.src='/hydrogenandfuelcells/delivery/images/leftnavimages/ln_rd_activities_on.gif'" onmouseout="document.image3.src='/hydrogenandfuelcells/delivery/images/leftnavimages/ln_rd_activities_off.gif'" href="/hydrogenandfuelcells/delivery/doe_activities.html"><img src="/hydrogenandfuelcells/delivery/images/leftnavimages/ln_rd_activities_off.gif" alt="R&D Activities" border="0" name="image3"></a>
+                    <div class="navgreyline"><img src="/hydrogenandfuelcells/images/spacer.gif" height="1" width="1" alt=""></div><!--stopindex-->
+<div id="quicklinks">
+<h3>Quick Links</h3>
+<span class="reddot"></span>
+
+    <ul>
+    
+    <!---->
+    <li><a href="/hydrogenandfuelcells/production/" style="text-decoration:none">Hydrogen Production</a></li>
+
+
+    <!---->
+    <li><a href="/hydrogenandfuelcells/storage/" style="text-decoration:none">Hydrogen Storage</a></li>
+
+
+    <!---->
+    <li><a href="/hydrogenandfuelcells/fuelcells/" style="text-decoration:none">Fuel Cells</a></li>
+
+
+    <!---->
+    <li><a href="/hydrogenandfuelcells/tech_validation/" style="text-decoration:none">Technology Validation</a></li>
+
+
+    <!---->
+    <li><a href="/hydrogenandfuelcells/codes/" style="text-decoration:none">Codes & Standards</a></li>
+
+
+    <!---->
+    <li><a href="/hydrogenandfuelcells/education/" style="text-decoration:none">Education</a></li>
+
+
+    <!---->
+    <li><a href="/hydrogenandfuelcells/analysis/" style="text-decoration:none">Systems Analysis</a></li>
+
+
+    </ul>
+</div>
+<!--startindex-->
+ <div id="leftNavDiv"></div>
+  <!--startindex-->
+ <!-- The following div is needed if there is no left nav, widths on td definition don't work if there is no content, the left nav id needs to be in the td to make the gray line go all the way down the column. -->
+ <div style="width:176px;"></div>
+ <!-- End Left Navigation -->
+  </td>
+  
+ <!-- start of center content -->
+ 
+  <td valign="top" width="100%"> 
+   
+
+
+
+
+
+<!---->
+
+
+<!--stopindex-->
+<div id="tempLHNav" style="display: none;">
+ <span class="reddot"></span>
+
+</div>
+
+
+<script type="text/javascript" language="javascript">
+function PopUp(tmpURL)
+    {
+    window.open(tmpURL,'PopUp','menubar=no,location=no,scrollbars=no,status=no,titlebar=no,toolbar=no,height=500,width=600')
+    
+    }
+</script>
+
+
+
+
+<div id="rightcol">
+  <div id="siteutils"><p>
+
+<a class="sitetool" href="http://www.eere.energy.gov/informationcenter/">EERE Information Center</a>
+
+</p>
+</div>
+  
+  
+
+  
+</div>
+   <!-- center content -->
+<!--stopindex-->
+<div id="printabletop" style="margin: 4px 5px 4px 0">
+   <img src="/hydrogenandfuelcells/images/print_icon_grey.gif" width="14" height="10" alt="" border="0"> <a href="/hydrogenandfuelcells/delivery/printable_versions/current_technology.html">Printable Version</a>
+</div>
+<!--startindex-->
+<!-- Change margin to be 100px to change to 2 col layout 270px for 3-->
+
+
+<div id="content" style="margin-right:260px; padding-top:1px;margin-top:1px;">
+
+
+           <!--accessible-->
+                
+                
+                
+                
+                
+                 <h1>Current Technology</h1>
+                
+                
+                
+
+
+<P>Today, hydrogen is transported from the point of production to the point of use via pipeline, over the road in cryogenic liquid trucks or gaseous tube trailers, or by rail or barge. Read on to learn more about current hydrogen delivery and storage technologies.</P>
+<UL id=anchorlist>
+<LI><A href="#pipes">Pipelines</A> </LI>
+<LI><A href="#trucks">Trucks, Railcars, Ships, and Barges</A> </LI>
+<LI><A href="#bulk">Bulk Storage</A> </LI>
+<LI><A href="#vehicles">Interface with Vehicles</A></LI></UL>
+<H2 id=pipes>Pipelines</H2><!-- photo table --><!--stopindex-->
+<DIV class=floatright style="WIDTH: 200px"><IMG height=204 alt="Photo of a pipeline for hydrogen distribution." src="/hydrogenandfuelcells/delivery/images/pipeline.jpg" width=200 align=right border=0> </DIV><!--startindex-->
+<P>Approximately 700 miles of hydrogen pipelines are currently operating in the United States (compared to more than one million miles of natural gas pipelines nationwide). Owned by merchant hydrogen producers, these pipelines are located where large hydrogen users, such as petroleum refineries and chemical plants, are concentrated (for example, in the Gulf Coast region).</P>
+<P>Transporting gaseous hydrogen via existing pipelines is currently the lowest-cost option for delivering large volumes of hydrogen. The high initial capital costs of new pipeline construction, however, constitute a major barrier to expanding hydrogen pipeline delivery infrastructure. Research is also focused on overcoming other technical concerns related to pipeline transmission, including the potential for hydrogen to embrittle the steel and welds used to fabricate the pipelines; the need to control hydrogen permeation and leaks; and the need for lower cost, more reliable, and more durable hydrogen compression technology.</P>
+<P>One possibility for rapidly expanding the hydrogen delivery infrastructure is to adapt part of the natural gas delivery infrastructure to accommodate hydrogen. Converting natural gas pipelines to carry a blend of natural gas and hydrogen (up to about 20% hydrogen) may require only modest modifications to the pipeline; converting existing natural gas pipelines to deliver pure hydrogen may require more substantial modifications. Current research and analyses are examining both approaches.</P>
+<P>Another possible delivery process involves producing a liquid hydrogen carrier at a central location, pumping it through pipelines to distributed refueling stations, and processing the carrier on-site to produce hydrogen for dispensing at the station. Ethanol, made from renewable resources with near-zero net greenhouse gas emissions, is among the hydrogen carriers under consideration. Liquid hydrogen carriers offer the potential of using existing pipeline and truck infrastructure technology for hydrogen transport.</P>
+<H2 id=trucks>Trucks, Railcars, Ships, and Barges</H2>
+<P>Trucks, railcars, ships, and barges can be used to deliver compressed hydrogen gas, cryogenic liquid hydrogen, or novel hydrogen liquid or solid carriers.</P>
+<H3>Compressed Hydrogen Gas</H3>
+<P>Today, compressed hydrogen can be shipped in tube trailers at pressures up to 3,000 psi (about 200 bar). This method is expensive, however, and it is cost-prohibitive for distances greater than about 200 miles. Researchers are investigating technology that might permit tube trailers to operate at higher pressures (up to 10,000 psi), which would reduce costs and extend the utility of this delivery option.</P>
+<H3>Liquefied Hydrogen</H3>
+<P>Currently, for longer distances, hydrogen is transported as a liquid in super-insulated, cryogenic tank trucks. Gaseous hydrogen is liquefied (cooled to below -253&deg;C/-423&deg;F) and stored at the liquefaction plant in large insulated tanks. The liquid hydrogen is then dispensed to delivery trucks and transported to distribution sites where it is compressed and vaporized to a high-pressure gaseous product for dispensing. Over long distances, trucking liquid hydrogen is more economical than trucking gaseous hydrogen because a liquid tanker truck can hold a much larger mass of hydrogen than a gaseous tube trailer. But it takes energy to liquefy hydrogen&mdash;using today's technology, liquefaction consumes more than 30% of the energy content of the hydrogen and is expensive. In addition, some amount of stored hydrogen will be lost through evaporation, or "boil off" of liquefied hydrogen, especially when using small tanks with large surface-to-volume ratios. Research to improve liquefaction technology, as well as improved economies of scale, could help lower costs (today's liquefaction units are small to meet minimal demand).</P>
+<H3>Other Carriers</H3>
+<P>Additional research and analyses are needed to investigate novel liquid or solid hydrogen carriers&mdash;which store hydrogen in some other chemical state, rather than as free molecules&mdash;for use in delivery. Potential carriers include metal hydrides, carbon or other nanostructures, and reversible hydrocarbons or other liquids, among others in the early stages of research. Using such novel carriers would constitute a significant departure from the way transportation fuels are delivered today.</P>
+<H2 id=bulk>Bulk Storage</H2><!-- photo table --><!--stopindex-->
+<DIV class=floatright style="WIDTH: 250px"><IMG height=154 alt="Hydrogen storage system at SunLine Transit Agency." src="/hydrogenandfuelcells/delivery/images/12733.jpg" width=250 border=0> </DIV><!--startindex-->
+<P>A national hydrogen infrastructure could require geologic (underground) bulk storage to handle variations in demand throughout the year. In some regions, naturally occurring geologic formations, such as salt caverns and aquifer structures, might be used, while in other regions, specially engineered rock caverns are a possibility. Geologic bulk storage is common practice in the natural gas industry. But the properties of hydrogen are different from natural gas&mdash;hydrogen molecules are much smaller than natural gas, for example&mdash;and further research is needed to evaluate the suitability of geologic storage for hydrogen and to ensure proper engineering of the storage site and hydrogen containment.</P>
+<H2 id=vehicles>Interface with Vehicles</H2>
+<P>The technologies used for storing hydrogen on-board vehicles will also affect the design and selection of a hydrogen delivery system and infrastructure. To maximize the overall energy efficiency, the system must avoid any unnecessary energy-intensive stages and match the delivery technology with the on-board vehicle storage technology.</P>
+<UL></UL>
+
+
+           
+           
+           
+<!--stopindex-->
+<!-- Printable Version -->
+              <!-- printable version link with printer icon -->
+               <div id="printable">
+                    <img src="/hydrogenandfuelcells/images/print_icon_grey.gif" width="14" height="10" alt="" border="0"> <a href="/hydrogenandfuelcells/delivery/printable_versions/current_technology.html">Printable Version</a>
+               </div><br><br>
+                
+
+
+
+         
+
+
+         
+
+
+        
+</div>
+
+
+<!--==This is an internally (script) set flag to determine whether the List has a set target container==-->
+<!---->
+  </td>
+ </tr>
+</table>
+<!-- end of overall holder table -->
+<!-- Start Footer -->
+<!--stopindex-->
+<div id="footer">
+<a href="#end" class="hide">Skip footer navigation to end of page.</a>
+<p>
+
+<a href="http://www.eere.energy.gov/hydrogenandfuelcells/">Hydrogen, Fuel Cells and Infrastructure Technologies Program Home</a> |
+
+<a href="http://www.eere.energy.gov/">EERE Home</a> | <a href="http://www.energy.gov/">U.S. Department of Energy</a><br>
+<a href="http://www.eere.energy.gov/hydrogenandfuelcells/webmaster.html">Webmaster</a> | <a href="http://www.eere.energy.gov/webpolicies/">Web Site Policies</a> | <a href="/site_administration/privacy.html">Security &amp; Privacy</a> | <a href="http://www.usa.gov/">USA.gov</a> 
+
+
+
+
+</p>
+<p id="end">Content Last Updated:  12/12/2008<br></p>
+</div>
+
+<script language="JavaScript" type="text/javascript" src = "/includes/scripts/countpdfs.js"></script>
+<!--startindex-->
+<!-- End Footer -->
+<!--[pageid=8580]-->
+</body>
+</html>

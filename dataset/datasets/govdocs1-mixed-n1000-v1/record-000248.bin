@@ -1,0 +1,2938 @@
+
+<HTML>
+<HEAD>
+<title>Guidelines for Isolation Precautions in Hospitals</title>
+<META NAME="description" CONTENT="Guidelines for Isolation Precautions in Hospitals Hospital Infection Control Advisory Committee">
+<META NAME="topic" CONTENT="00636 00439 00735 00648 01356 00026 ">
+<META NAME="pubdate" CONTENT="01-01-1996">
+<META NAME="source" CONTENT="Julia S. Garner, RN, MN; the Hospital Infection">
+<link rel="stylesheet" href="/wonder_general.css" type="text/css">
+</head>
+
+<body>
+
+	<!-- BEGIN HEADER -->
+	<!-- the three td with id=cdc-header-row# are for extending up into header area
+			right hand column from sections below the header. normally background color, gradient, etc. -->
+	<table class="noprint cdc-header" border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="140" height="78" valign="top"> 
+				<!-- first column is 140 wide -->
+				<table border="0" cellpadding="0" cellspacing="0" width="140">
+					<tr>
+						<td width="140"><a href="http://www.cdc.gov"><img src="/images/CDC/nav11.gif" border="0" alt="Centers for Disease Control and Prevention" width="140" height="60"></a></td>
+					</tr>
+					<tr>
+						<td width="140" valign="top" align="left"><img src="/images/CDC/nav21.gif" border="0" alt=" " width="140" height="9"></td>
+					</tr>
+					<tr>
+						<td id="top-rounded-bottom" width="140" valign="top" align="left"><img border="0" src="/images/CDC/spacer.gif" width="1" height="1"></td>
+					</tr>
+					<tr>
+						<td id="rounded-bottom" width="140" valign="top" align="left"><img border="0" src="/images/CDC/spacer.gif" width="1" height="8"></td>
+					</tr>
+				</table>
+			</td>
+			<td width="12" valign="top"> 
+				<!-- second column is 12 wide -->
+				<img border="0" src="/images/CDC/nav12.gif" alt=" " width="12" height="63">
+			</td>
+			
+				<!-- third column  -->
+			<td valign="top" ><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr height="19">
+						<td width="615" valign="top" height="19" bgcolor="#000099"><a href="http://www.cdc.gov"><img border="0" src="/images/CDC/nav13.gif" alt="CDC Home" width="267" height="19"></a><a href="http://www.cdc.gov/search.htm"><img border="0" src="/images/CDC/nav14.gif" alt="Search" width="58" height="19"></a><a href="http://www.cdc.gov/health/diseases.htm"><img border="0" src="/images/CDC/nav15.gif" alt="Health Topics A-Z" width="118" height="19"></a></td>
+						<td bgcolor="#000099"></td>
+					</tr>
+					<tr>
+						<td><img border="0" src="/images/CDC/spacer.gif" vspace="4" width="1" height="1"></td>
+						<td id="cdc-header-row2"><img border="0" src="/images/CDC/spacer.gif" vspace="4" width="1" height="1"></td>
+					</tr>
+					<tr>
+						<td id="logo-top" width="603" height="32">&nbsp;</td>
+						<td id="cdc-header-row3">&nbsp;</td>
+					</tr>
+					<tr>
+						<td id="logo-bottom">
+							<table border="0" cellpadding="0" cellspacing="0" width="615">
+								<tr>
+									<td width="14" height="18">&nbsp;</td>
+									<td width="115" align="center" height="18"><a id="logo-nav" href="/">WONDER Home</a></td>
+									<td width="115" align="center" height="18"><a id="logo-nav" title="Frequently Asked Questions" href="/wonder/help/faq.html">FAQ</a></td>
+									<td width="115" align="center" height="18"><a id="logo-nav" href="/wonder/help/main.html">Help</a></td>
+									<td width="115" align="center" height="18"><a id="logo-nav" title="Contact WONDER for help or to offer suggestions." href="/ContactUs.html">Contact Us</a></td>
+									<td width="115" align="center" height="18"><a id="logo-nav" title="Search WONDER" href="/controller/datarequest?stage=search&action=current">Search</a></td>
+									<td width="10" height="18">&nbsp;</td>
+								</tr>
+							</table>
+						</td>
+						<td id="cdc-header-row4">&nbsp;</td>
+					</tr>
+				</table></td>
+		</tr>
+	</table>
+	<!-- END HEADER -->
+
+<!-- Law requires we include this TR for handicap access, part 2 -->
+<a name='content_area'></a>
+
+
+<blockquote>
+
+<font color=cc0000>
+<h1 align=center>Warning:</h1>
+<h3>This site is being maintained for historical purposes, but has had no new entries 
+since October 1998. To find more recent articles, please visit the following:
+<ul><li>  
+	<a href='http://www.cdc.gov/mmwr/mmwrsrch.htm'>MMWR</a>
+	at http://www.cdc.gov/mmwr/mmwrsrch.htm 
+</li><li>	
+	<a href='http://www.cdc.gov/search.htm'>CDC Web Search</a>
+	at http://www.cdc.gov/search.htm 
+</li></ul>
+</h3></font>
+<HR>
+
+<A NAME="title_page"></A>
+
+<H1>Guidelines for Isolation Precautions in Hospitals
+Hospital Infection Control Advisory Committee
+</H1>
+
+<H3>Julia S. Garner, RN, MN; the Hospital Infection
+Control Practices Advisory Committee
+</H3>
+
+<H3>Publication date: 01/01/1996</H3>
+
+<P>
+<HR>
+
+<A NAME="toc"></A>
+<H1>Table of Contents</H1>
+
+<P>
+<A HREF="#head001000000000000">Membership List, November 1994</A><BR>
+<P>
+<A HREF="#head002000000000000">PART I: EVOLUTION OF ISOLATION PRACTICES</A><BR>
+<A HREF="#head002001000000000">Introduction</A><BR>
+<A HREF="#head002002000000000">Summary</A><BR>
+<A HREF="#head002003000000000">Early Isolation Practices</A><BR>
+<A HREF="#head002004000000000">CDC Isolation Systems</A><BR>
+<A HREF="#head002004001000000">CDC Isolation Manual</A><BR>
+<A HREF="#head002004002000000">CDC Isolation Guideline</A><BR>
+<A HREF="#head002005000000000">Universal Precautions</A><BR>
+<A HREF="#head002006000000000">Body Substance Isolation</A><BR>
+<A HREF="#head002007000000000">OSHA Bloodborne Pathogens Regulations</A><BR>
+<A HREF="#head002008000000000">The Need For a New Isolation Guideline</A><BR>
+<P>
+<A HREF="#head003000000000000">PART II: RECOMMENDATIONS FOR ISOLATION PRECAUTIONS IN HOSPITALS Hospital Infection Control Practices Advisory Committee</A><BR>
+<A HREF="#head003001000000000">Rationale For Isolation Precautions In Hospitals</A><BR>
+<A HREF="#head003001001000000">Source</A><BR>
+<A HREF="#head003001002000000">Host</A><BR>
+<A HREF="#head003001003000000">Transmission</A><BR>
+<A HREF="#head003002000000000">Fundamentals of Isolation Precautions</A><BR>
+<A HREF="#head003002001000000">Handwashing and Gloving</A><BR>
+<A HREF="#head003002002000000">Patient Placement</A><BR>
+<A HREF="#head003002003000000">Transport of Infected Patients</A><BR>
+<A HREF="#head003002004000000">Masks, Respiratory Protection, Eye Protection, Face Shields</A><BR>
+<A HREF="#head003002005000000">Gowns and Protective Apparel</A><BR>
+<A HREF="#head003002006000000">Patient-Care Equipment and Articles</A><BR>
+<A HREF="#head003002007000000">Linen and Laundry</A><BR>
+<A HREF="#head003002008000000">Dishes, Glasses, Cups, and Eating Utensils</A><BR>
+<A HREF="#head003002009000000">Routine and Terminal Cleaning</A><BR>
+<A HREF="#head003003000000000">HICPAC Isolation Precautions</A><BR>
+<A HREF="#head003003001000000">Standard Precautions</A><BR>
+<A HREF="#head003003002000000">Transmission-Based Precautions</A><BR>
+<A HREF="#head003004000000000">Empiric Use of Airborne, Droplet, or Contact Precautions</A><BR>
+<A HREF="#head003005000000000">IMMUNOCOMPROMISED PATIENTS</A><BR>
+<A HREF="#head003006000000000">Recommendations</A><BR>
+<P>
+<A HREF="#head004000000000000">REVIEWERS</A><BR>
+<P>
+<A HREF="#head005000000000000">REFERENCES</A><BR>
+<P>
+<A HREF="#head006000000000000">APPENDIX A</A><BR>
+<P>
+<A HREF="#head007000000000000">POINT OF CONTACT FOR THIS DOCUMENT:</A><BR>
+<P>
+Tables<BR>
+<A HREF="#Table_1">Synopsis of Types of Precautions&amp; Patients Requiring the Precautions</A><BR>
+<A HREF="#Table_2">Clinical Syndromes/Conds. Warranting Additional Empiric Precautions</A><BR>
+<A HREF="#Table_AA">Appendix A</A><BR>
+<P>
+<HR>
+
+<A NAME="head001000000000000"></A>
+<H2>Membership List, November 1994</H2>
+
+CHAIRMAN<BR>
+Walter J. Hierholzer, Jr, MD<BR>
+Yale-New Haven Hospital<BR>
+New Haven, Connecticut
+<P>
+
+EXECUTIVE SECRETARY<BR>
+Julia S. Garner, RN, MN<BR>
+Centers for Disease Control and Prevention<BR>
+Atlanta, Georgia
+<P>
+
+ISOLATION GUIDELINE SPONSOR<BR>
+Rita D. McCormick, RN<BR>
+University of Wisconsin Hospital and Clinics<BR>
+Madison, Wisconsin
+<P>
+
+
+MEMBERS
+<P>
+
+Audrey B. Adams, RN, MPH<BR>
+Montefiore Medical Center<BR>
+Bronx, New York
+<P>
+
+Donald E. Craven, MD<BR>
+Boston City Hospital<BR>
+Boston University School of Medicine and Public Health<BR>
+Boston, Massachusetts
+<P>
+
+David W. Fleming, MD<BR>
+Oregon Health Division<BR>
+Portland, Oregon
+<P>
+
+Susan W. Forlenza, MD<BR>
+New York City Department of Health<BR>
+New York, New York
+<P>
+
+Mary J. Gilchrist, PhD<BR>
+University of Iowa<BR>
+Iowa City, Iowa
+<P>
+
+Donald A. Goldmann, MD<BR>
+Children's Hospital<BR>
+Boston, Massachusetts
+<P>
+
+Elaine L. Larson, RN, PhD<BR>
+Georgetown University School of Nursing<BR>
+Washington, DC
+<P>
+
+C. Glen Mayhall, MD<BR>
+The University of Texas Medical Center<BR>
+Branch at Galveston<BR>
+Galveston, Texas
+<P>
+
+Ronald L. Nichols, MD<BR>
+Tulane University School of Medicine<BR>
+New Orleans, Louisiana
+<P>
+
+From the Public Health Service, US Department of Health and Human
+Services, Centers for Disease Control and Prevention, Atlanta, Georgia.
+<P>
+
+Address reprint requests to Mailstop E-69, Hospital Infections Program,
+National Center for Infectious Diseases, Centers for Disease Control and
+Prevention, Atlanta, GA 30333.
+<P>
+
+95-SR-200. Garner JS, Hospital Infection Control Practices Advisory
+Committee. Guideline for isolation precautions in hospitals. Infect Control
+Hospital Epidemiol 1996;17:53-80.
+<P>
+
+<HR>
+
+<A NAME="head002000000000000"></A>
+<H2>PART I: EVOLUTION OF ISOLATION PRACTICES</H2>
+
+<A NAME="head002001000000000"></A>
+<H3>Introduction</H3>
+
+To assist hospitals in maintaining up-to-date isolation practices, the
+Centers for Disease Control and Prevention (CDC) and the Hospital Infection
+Control Practices Advisory Committee (1) (HICPAC) have revised the &quot;CDC
+Guideline for Isolation Precautions in Hospitals.&quot; HICPAC was established
+in 1991 to provide advice and guidance to the Secretary, Department of
+Health and Human Services (DHHS); the Assistant Secretary for Health, DHHS;
+the Director, CDC; and the Director, National Center for Infectious
+Diseases, regarding the practice of hospital infection control and
+strategies for surveillance, prevention, and control of nosocomial
+infections in US hospitals. HICPAC also advises the CDC on periodic
+updating of guidelines and other policy statements regarding prevention of
+nosocomial infections.
+<P>
+The revised guideline contains two parts. Part I, &quot;Evolution of
+Isolation Practices,&quot; reviews the evolution of isolation practices in US
+hospitals, including their advantages, disadvantages, and controversial
+aspects, and provides the background for the HICPAC-consensus
+recommendations contained in Part II, &quot;Recommendations for Isolation
+Precautions in Hospitals.&quot; The guideline supersedes previous CDC
+recommendations for isolation precautions in hospitals. (2-4)
+<P>
+The guideline recommendations are based on the latest epidemiologic
+information on transmission of infection in hospitals. The recommendations
+are intended primarily for use in the care of patients in acute-care
+hospitals, although some of the recommendations may be applicable for some
+patients receiving care in subacute-care or extended-care facilities. The
+recommendations are not intended for use in day care, well care, or
+domiciliary care programs. Because there have been few studies to test the
+efficacy of isolation precautions and gaps still exist in the knowledge of
+the epidemiology and modes of transmission of some diseases, disagreement
+with some of the recommendations is expected. A working draft of the
+guideline was reviewed by experts in infection control and published in the
+Federal Register for public comment. However, all recommendations in the
+guideline may not reflect the opinions of all reviewers.
+<P>
+HICPAC recognizes that the goal of preventing transmission of
+infections in hospitals can be accomplished by multiple means and that
+hospitals will modify the recommendations according to their needs and
+circumstances and as directed by federal, state, or local regulations.
+Modification of the recommendations is encouraged if (1) the principles of
+epidemiology and disease transmission are maintained, and (2) precautions
+are included to interrupt spread of infection by all routes that are likely
+to be encountered in the hospital.
+<P>
+
+
+<A NAME="head002002000000000"></A>
+<H3>Summary</H3>
+The &quot;Guideline for Isolation Precautions in Hospitals&quot; was revised to
+meet the following objectives: (1) to be epidemiologically sound; (2) to
+recognize the importance of all body fluids, secretions, and excretions in
+the transmission of nosocomial pathogens; (3) to contain adequate
+precautions for infections transmitted by the airborne, droplet, and
+contact routes of transmission; (4) to be as simple and user friendly as
+possible; and, (5) to use new terms to avoid confusion with existing
+infection control and isolation systems.
+<P>
+The revised guideline contains two tiers of precautions. In the first,
+and most important, tier are those precautions designed for the care of all
+patients in hospitals regardless of their diagnosis or presumed infection
+status. Implementation of these &quot;Standard Precautions&quot; is the primary
+strategy for successful nosocomial infection control. In the second tier
+are precautions designed only for the care of specified patients. These
+additional &quot;Transmission Based Precautions&quot; are used for patients known or
+suspected to be infected or colonized with epidemiologically important
+pathogens that can be transmitted by airborne or droplet transmission or by
+contact with dry skin or contaminated surfaces.
+<P>
+Standard Precautions synthesize the major features of Universal (Blood
+and Body Fluid) Precautions (designed to reduce the risk of transmission
+of bloodborne pathogens) and Body Substance Isolation (designed to reduce
+the risk of transmission of pathogens from moist body substances). Standard
+Precautions apply to (1) blood; (2) all body fluids, secretions, and
+excretions except sweat, regardless of whether or not they contain visible
+blood; (3) nonintact skin; and, (4) mucous membranes. Standard Precautions
+are designed to reduce the risk of transmission of microorganisms from both
+recognized and unrecognized sources of infection in hospitals.
+<P>
+Transmission-Based Precautions are designed for patients documented or
+suspected to be infected or colonized with highly transmissible or
+epidemiologically important pathogens for which additional precautions
+beyond Standard Precautions are needed to interrupt transmission in
+hospitals. There are three types of Transmission-Based Precautions:
+Airborne Precautions, Droplet Precautions, and Contact Precautions. They
+may be combined for diseases that have multiple routes of transmission.
+When used either singularly or in combination, they are to be used in
+addition to Standard Precautions.
+<P>
+The revised guideline also lists specific clinical syndromes or
+conditions in both adult and pediatric patients that are highly suspicious
+for infection and identifies appropriate Transmission-Based Precautions to
+use on an empiric, temporary basis until a diagnosis can be made; these
+empiric, temporary precautions are also to be used in addition to Standard
+Precautions.
+<P>
+
+
+<A NAME="head002003000000000"></A>
+<H3>Early Isolation Practices</H3>
+The first published recommendations for isolation precautions in the
+United States appeared as early as 1877, when a hospital handbook
+recommended placing patients with infectious diseases in separate
+facilities (5), which ultimately became known as infectious disease
+hospitals. Although this practice segregated infected patients from
+noninfected patients, nosocomial transmission continued to occur because
+infected patients were not separated from each other according to their
+disease, and few, if any, aseptic procedures were practiced. Personnel in
+infectious disease hospitals began to combat problems of nosocomial
+transmission by setting aside a floor or ward for patients with similar
+diseases (6) and by practicing aseptic procedures recommended in nursing
+textbooks published from 1890 to 1900. (5)
+<P>
+In 1910, isolation practices in US hospitals were altered by the
+introduction of the cubicle system of isolation, which placed patients in
+multiple-bed wards. (6) With the cubicle system, hospital personnel used
+separate gowns, washed their hands with antiseptic solutions after patient
+contact, and disinfected objects contaminated by the patient. These nursing
+procedures, designed to prevent transmission of pathogenic organisms to
+other patients and personnel, became known as &quot;barrier nursing.&quot; Use of the
+cubicle system of isolation and barrier nursing procedures provided general
+hospitals with an alternative to placing some patients in infectious
+disease hospitals.
+<P>
+During the 1950's, US infectious disease hospitals, except those
+designated exclusively for tuberculosis, began to close. In the mid 1960's,
+tuberculosis hospitals also began to close, partly because general hospital
+or outpatient treatment became preferred for patients with tuberculosis.
+Thus, by the late 1960's, patients with infectious diseases were housed in
+wards in general hospitals, either in specially designed, single-patient
+isolation rooms or in regular single or multiple-patient rooms.
+<P>
+
+
+<A NAME="head002004000000000"></A>
+<H3>CDC Isolation Systems</H3>
+
+<A NAME="head002004001000000"></A>
+<H4>CDC Isolation Manual</H4>
+In 1970, CDC published a detailed manual entitled Isolation Techniques
+for Use in Hospitals to assist general hospitals with isolation
+precautions. (2) A revised edition appeared in 1975. (3) The manual could
+be applied in small community hospitals with limited resources, as well as
+in large, metropolitan, university associated medical centers.
+<P>
+The manual introduced the category system of isolation precautions. It
+recommended that hospitals use one of seven isolation categories (Strict
+Isolation, Respiratory Isolation, Protective Isolation, Enteric
+Precautions, Wound and Skin Precautions, Discharge Precautions, and Blood
+Precautions). The precautions recommended for each category were determined
+almost entirely by the epidemiologic features of the diseases grouped in
+the category, primarily their routes of transmission. Certain isolation
+techniques, believed to be the minimum necessary to prevent transmission of
+all diseases in the category, were indicated for each isolation category.
+Because all diseases in a category did not have the same epidemiology (ie,
+were not spread by exactly the same combination of modes of transmission),
+with some requiring fewer precautions than others, more precautions were
+suggested for some diseases than were necessary. This disadvantage of
+&quot;over-isolation&quot; for some diseases was offset by the convenience of having
+a small number of categories. More importantly, the simple system required
+personnel to learn only a few established routines for applying isolation
+precautions. To make the system even more user friendly, instructions for
+each category were printed on color-coded cards and placed on the door,
+beds, or charts of patients on isolation precautions.
+<P>
+By the mid 1970s, 93% of US hospitals had adopted the isolation system
+recommended in the manual. (7) However, neither the efficacy of the
+category approach in preventing spread of infections nor the costs of using
+the system were evaluated by empirical studies.
+<P>
+By 1980, hospitals were experiencing new endemic and epidemic
+nosocomial infection problems, some caused by multidrug-resistant
+microorganisms and others caused by newly recognized pathogens, which
+required different isolation precautions from those specified by any
+existing isolation category. There was increasing need for isolation
+precautions to be directed more specifically at nosocomial transmission in
+special-care units, rather than at the intrahospital spread of infectious
+diseases acquired in the community. (8) Infection control professionals and
+nursing directors in hospitals with particularly sophisticated nursing
+staffs increasingly were calling for new isolation systems that would
+tailor precautions to the modes of transmission for each infection and
+avoid the over-isolation inherent in the category-specific approach.
+Further, new facts about the epidemiology and modes of transmission of some
+diseases made it necessary for CDC to revise the isolation manual. Toward
+that end, during 1981 to 1983, CDC Hospital Infections Program personnel
+consulted with infectious disease specialists in medicine, pediatrics, and
+surgery; hospital epidemiologists; and infection control practitioners
+about revising the manual.
+<P>
+
+
+<A NAME="head002004002000000"></A>
+<H4>CDC Isolation Guideline</H4>
+In 1983, the CDC Guideline for Isolation Precautions in Hospitals (4)
+(hereafter referred to as the isolation guideline) was published to take
+the place of the 1975 isolation manual; it contained many important
+changes. One of the most important was the increased emphasis on decision
+making on the part of users. Unlike the 1975 manual, which encouraged few
+decisions on the part of users, the isolation guideline encouraged decision
+making at several levels. (9,10) First, hospital infection control
+committees were given a choice of selecting between category-specific or
+disease-specific isolation precautions or using the guideline to develop a
+unique isolation system appropriate to their hospitals' circumstances and
+environments. Second, personnel who placed a patient on isolation
+precautions were encouraged to make decisions about the individual
+precautions to be taken (eg, whether the patient's age, mental status, or
+condition indicated that a private room was needed to prevent sharing of
+contaminated articles). Third, personnel taking care of patients on
+isolation precautions were encouraged to decide whether they needed to wear
+a mask, gown, or gloves based on the likelihood of exposure to infective
+material. Such decisions were deemed necessary to isolate the infection,
+but not the patient, and to reduce the costs associated with unnecessary
+isolation precautions.
+<P>
+In the category-specific section of the guideline, existing categories
+were modified, new categories were added, and many infections were
+reassigned to different categories. The old category of Blood Precautions,
+primarily directed toward patients with chronic carriage of hepatitis B
+virus (HBV), was renamed Blood and Body Fluid Precautions and was expanded
+to include patients with AIDS and body fluids other than blood. The old
+category of Protective Isolation was deleted because of studies
+demonstrating its lack of efficacy in general clinical practice in
+preventing the acquisition of infection by the immunocompromised patient
+for whom it had been described originally (11,12). The 1983 guideline
+contained the following categories of isolation: Strict Isolation, Contact
+Isolation, Respiratory Isolation, Tuberculosis (acid-fast bacilli {AFB})
+Isolation, Enteric Precautions, Drainage/Secretion Precautions, and Blood
+and Body Fluid Precautions. As with the category approach in the former CDC
+isolation manuals, these categories tended to over-isolate some patients.
+<P>
+In the disease-specific section of the guideline, the epidemiology of
+each infectious disease was considered individually by advocating only
+those precautions (eg, private room, mask, gown, and gloves) needed to
+interrupt transmission of the infection. In place of the categories and
+signs of the category specific approach, a chart listed all diseases posing
+the threat of in-hospital transmission, with checks in columns indicating
+which precautions were required for each. Because precautions were
+individualized for each disease, hospitals using the system were encouraged
+to provide more initial training and inservice education and to encourage a
+much higher level of attention from patient-care personnel. Although
+disease-specific isolation precautions eliminated over-isolation, personnel
+might be prone to mistakes in applying the precautions, particularly if the
+disease was not seen regularly in the hospital, (9,10) if there was a delay
+in diagnosis, or if there was a misdiagnosis. Placing disease-specific
+isolation precautions in a hospital computerized information system
+resulted in more accurate use of the system. (13)
+<P>
+Because gaps existed in the knowledge of the epidemiology of some
+diseases, disagreement was expected, and occurred, regarding the placement
+of individual diseases within given categories, especially diseases with a
+respiratory component of transmission (14). Placing measles in Respiratory
+Isolation (designed to prevent transmission of large-particle droplets)
+rather than in a category that had provisions for preventing transmission
+by airborne droplet nuclei and placing rubella and respiratory syncytial
+virus (RSV) infection in Contact Isolation were controversial (15). There
+also was disagreement about the lack of a recommendation for adult patients
+with influenza, the need for private rooms for pediatric patients with RSV
+infections, and the length of time that precautions should be
+maintained (15). The lack of empiric studies on the efficacy and costs of
+implementing the recommendations contributed to the disagreements.
+<P>
+As new epidemiologic data became available, several subsequent CDC
+reports (16-18) updated portions of the isolation guideline. Updated
+recommendations for management of patients with suspected hemorrhagic fever
+were published in 1988 (16). The recommendation for Respiratory Isolation
+for acute erythema infectiosum was superseded by a 1989 report that
+recommended Respiratory Isolation for human parvovirus B19 (the causative
+agent for erythema infectiosum) only when infected patients were in
+transient aplastic crisis or had immunodeficiency and chronic human
+parvovirus B19 infection. (17)
+<P>
+Recommendations for Tuberculosis (AFB) Isolation were updated in
+1990 (18) because of heightened concern about nosocomial transmission of
+multidrug-resistant tuberculosis, (19-20) particularly in settings where
+persons with human immunodeficiency virus (HIV) infection were receiving
+care. The 1990 tuberculosis guidelines emphasized (1) placing a hospital
+patient with confirmed or suspected tuberculosis in a private room that has
+lower, or negative, air pressure compared with surrounding areas; (2)
+reducing mycobacterial contamination of air by dilution and removal of
+airborne contaminants; and, (3) wearing particulate respirators, rather
+than standard surgical masks, when hospital personnel shared air space with
+an infectious tuberculosis patient. Subsequent recommendations reemphasized
+the importance of early diagnosis and treatment of tuberculosis (21). In
+1993, a second edition of the guidelines for preventing the transmission of
+tuberculosis in healthcare facilities was published in draft for public
+comment (22). After review of written comments, the guidelines were
+modified and published. (23)
+<P>
+
+
+<A NAME="head002005000000000"></A>
+<H3>Universal Precautions</H3>
+In 1985, largely because of the HIV epidemic, isolation practices in
+the United States were altered dramatically by the introduction of a new
+strategy for isolation precautions, which became known as Universal
+Precautions (UP). Following the initial reports of hospital personnel
+becoming infected with HIV through needle sticks and skin contamination
+with patients' blood, a widespread outcry created the urgent need for new
+isolation strategies to protect hospital personnel from bloodborne
+infections. The subsequent modification of isolation precautions in some
+hospitals produced several major strategic changes and sacrificed some
+measures of protection against patient-to-patient transmission in the
+process of adding protection against patient-to-personnel transmission. In
+acknowledgment of the fact that many patients with bloodborne infections
+are not recognized, the new UP approach for the first time placed emphasis
+on applying Blood and Body Fluid Precautions universally to all persons
+regardless of their presumed infection status. (24) Until this time, most
+patients placed on isolation precautions were those for whom a diagnosis of
+an infectious disease had been made or was suspected. This provision led to
+the new name of Universal Precautions.
+<P>
+In addition to emphasizing prevention of needle stick injuries and the
+use of traditional barriers such as gloves and gowns, UP expanded Blood and
+Body Fluid Precautions to include use of masks and eye coverings to prevent
+mucous membrane exposures during certain procedures and the use of
+individual ventilation devices when the need for resuscitation was
+predictable. This approach, and particularly the techniques for preventing
+mucous membrane exposures, was reemphasized in subsequent CDC reports that
+contained recommendations for prevention of HIV transmission in healthcare
+settings. (25-28)
+<P>
+In 1987, one of these reports (27) stated that implementation of UP for
+all patients eliminated the need for the isolation category of Blood and
+Body Fluid Precautions for patients known or suspected to be infected with
+bloodborne pathogens; however, the report stated that other category- or
+disease-specific isolation precautions recommended in the CDC isolation
+guideline (4) should be used as necessary if infections other than
+bloodborne infections were diagnosed or suspected.
+<P>
+The 1987 report was updated by a 1988 report (28) that emphasized two
+important points: (1) blood was the single most important source of HIV,
+HBV, and other bloodborne pathogens in the occupational setting, and (2)
+infection control efforts for preventing transmission of bloodborne
+pathogens in healthcare settings must focus on preventing exposures to
+blood, as well as on delivery of HBV immunization. The report stated that
+UP applied to blood, to body fluids that had been implicated in the
+transmission of bloodborne infections (semen and vaginal secretions), to
+body fluids from which the risk of transmission was unknown (amniotic,
+cerebrospinal, pericardial, peritoneal, pleural, and synovial fluids), and
+to any other body fluid visibly contaminated with blood, but not to feces,
+nasal secretions, sputum, sweat, tears, urine, or vomitus unless they
+contained visible blood. Although HIV and HBV surface antigen (HbsAg) had
+been found in some of the fluids, secretions, or excretions to which UP did
+not apply, epidemiologic studies in the healthcare and community settings
+had not implicated these substances in the transmission of HIV and HBV
+infections. However, the report noted that some of the fluids, secretions,
+and excretions not covered under UP represented a potential source for
+nosocomial and community-acquired infections with other pathogens and
+referred readers to the CDC isolation guideline.
+<P>
+
+
+<A NAME="head002006000000000"></A>
+<H3>Body Substance Isolation</H3>
+In 1987, a new system of isolation, called Body Substance Isolation
+(BSI), was proposed after 3 years of study by infection control personnel
+at the Harborview Medical Center in Seattle, Washington, and the University
+of California at San Diego, California, as an alternative to
+diagnosis-driven isolation systems. (29) BSI focused on the isolation of
+all moist and potentially infectious body substances (blood, feces, urine,
+sputum, saliva, wound drainage, and other body fluids) from all patients,
+regardless of their presumed infection status, primarily through the use of
+gloves. Personnel were instructed to put on clean gloves just before
+contact with mucous membranes and nonintact skin, and to wear gloves for
+anticipated contact with moist body substances. In addition, a &quot;Stop Sign
+Alert&quot; was used to instruct persons wishing to enter the room of some
+patients with infections transmitted exclusively, or in part, by the
+airborne route to check with the floor nurse, who would determine whether a
+mask should be worn. Personnel were to be immune to or immunized against
+selected infectious diseases transmitted by airborne or droplet routes
+(measles, mumps, rubella, and varicella), or they were not to enter the
+rooms housing patients with these diseases. Other issues related to
+implementing BSI in a university teaching hospital were described. (30)
+<P>
+Among the advantages cited for BSI were that it was a simple, easy to
+learn and administer system, that it avoided the assumption that
+individuals without known or suspected diagnoses of transmissible
+infectious diseases were free of risk to patients and personnel, and that
+only certain body fluids were associated with transmission of infections.
+The disadvantages of BSI included the added cost of increased use of
+barrier equipment, particularly gloves (31); the difficulty in maintaining
+routine application of the protocol for all patients; the uncertainty about
+the precautions to be taken when entering a room with a &quot;Stop Sign Alert&quot;;
+and the potential for misapplication of the protocol to overprotect
+personnel at the expense of the patient. (32)
+<P>
+In a prospective study, (33) a combination use of gown and glove
+protocols similar to BSI led to lower infection rates in a pediatric
+intensive care unit (ICU), and, in other studies, similar combinations of
+barriers were associated with lower rates of nosocomial RSV infection in a
+pediatric ICU (34) and of resistant gram-negative organisms in an
+acute-care hospital. (35) However, in none of these studies, initiated
+before publication of BSI, were the authors attempting to evaluate BSI, nor
+were they able to separate the effect of gloves from that of gowns or from
+gloves and gowns used in combination.
+<P>
+Controversial aspects of BSI have been summarized. (35,36) BSI appeared
+to replace some, but not all, of the isolation precautions necessary to
+prevent transmission of infection. BSI did not contain adequate provisions
+to prevent (1) droplet transmission of serious infections in pediatric
+populations (eg, invasive Haemophilus influenza, Neisseria meningitides
+meningitis and pneumonia, and pertussis); (2) direct or indirect contact
+transmission of epidemiologically important microorganisms from dry skin or
+environmental sources (eg, Clostridium difficile and vancomycin-resistant
+enterococci); or, (3) true airborne transmission of infections transmitted
+over long distances by floating droplet nuclei. Although BSI emphasized
+that a private room was indicated for some patients with some diseases
+transmitted exclusively, or in part, by the true airborne route, it did not
+emphasize the need for special ventilation for patients known or suspected
+of having pulmonary tuberculosis or other diseases transmitted by airborne
+droplet nuclei. The lack of emphasis on special ventilation was of
+particular concern to CDC in the early 1990's because of multidrug-
+resistant tuberculosis. (18,19)
+<P>
+BSI and UP shared many similar features designed to prevent the
+transmission of bloodborne pathogens in hospitals. However, there was an
+important difference in the recommendation for glove use and handwashing.
+Under UP, gloves were recommended for anticipated contact with blood and
+specified body fluids, and hands were to be washed immediately after gloves
+were removed. (27,28) Under BSI, gloves were recommended for anticipated
+contact with any moist body substance, but handwashing after glove removal
+was not required unless the hands visibly were soiled. (29) The lack of
+emphasis on handwashing after glove removal was cited as one of the
+theoretical disadvantages of BSI. (15,37,38) Using gloves as a protective
+substitute for handwashing may have provided a false sense of security,
+resulted in less handwashing, increased the risk of nosocomial
+transmission of pathogens, because hands can become contaminated even when
+gloves are used (39) and are contaminated easily in the process of removing
+gloves, and contributed to skin problems and allergies associated with the
+use of gloves. (40,41) On the other hand, proponents of BSI have noted that
+studies of handwashing have indicated that there is relatively low
+compliance by hospital personnel, (42,43) that glove use may have been
+easier to manage than handwashing, and that frequent handwashing may have
+led to eczema, skin cracking, or, in some persons, clinical damage to the
+skin of the hands. (44) Although use of gloves may have been better than no
+handwashing, the efficacy of using gloves as a substitute for handwashing
+has not been demonstrated.
+<P>
+
+
+<A NAME="head002007000000000"></A>
+<H3>OSHA Bloodborne Pathogens Regulations</H3>
+In 1989, the Occupational Safety and Health Administration (OSHA)
+published a proposed rule regarding occupational exposure to bloodborne
+pathogens in hospitals and other healthcare settings. (45) The proposed
+rule, based on the concept of UP, raised concerns in the infection control
+community. Among them were concerns about the use of &quot;visibly bloody&quot; as a
+marker for the infectious risk of certain body fluids and substances, the
+imbalance toward precautions to protect personnel and away from protection
+for patients, the lack of proven efficacy of UP, and the costs for
+implementing the proposed regulations. (46-50) After a series of OSHA
+public hearings and the review of written comments, the proposed rule was
+modified, and the final rule on occupational exposure to bloodborne
+pathogens was published in 1991. (51) Although the final rule was expected
+to improve occupational safety in the care of patients infected with
+bloodborne pathogens, its impact on the cost of patient care and on
+nosocomial infection control has remained undefined. Information on
+complying with the OSHA final rule has been made available by the American
+Hospital Association (52) and others. (53)
+<P>
+
+
+<A NAME="head002008000000000"></A>
+<H3>The Need For a New Isolation Guideline</H3>
+By the early 1990s, isolation had become an infection control
+conundrum. (54) Although many hospitals had incorporated all or portions of
+UP into their category- or disease-specific isolation system and others had
+adopted all or portions of BSI, (55,56) there was much local variation in
+the interpretation and use of UP and BSI, and a variety of combinations was
+common. Further, there was considerable confusion about which body fluids
+or substances required precautions under UP and BSI. Many hospitals
+espousing UP really were using BSI and vice versa. Moreover, there was
+continued lack of agreement about the importance of handwashing when
+gloves were used (14,15,27-29,37,38,57,58) and the need for additional
+precautions beyond BSI to prevent airborne, droplet, and contact
+transmission. (14,15,27-29,31,36,59,60) Some hospitals had not implemented
+appropriate guidelines for preventing transmission of tuberculosis,
+including multidrug resistant tuberculosis. (61) As other multidrug-
+resistant microorganisms (62,63) were emerging, some hospitals failed to
+recognize them as new problems and to add appropriate precautions that
+would contain them.
+<P>
+In view of these problems and concerns, no simple adjustment to any of
+the existing approaches -- UP BSI, the CDC isolation guideline, or other
+isolation systems -- appeared likely to solve the conundrum. Clearly what
+was needed was a new synthesis of the various systems that would provide a
+guideline with logistically feasible recommendations for preventing the
+many infections that occur in hospitals through diverse modes of
+transmission. To achieve this, the new guideline would (1) have to be
+epidemiologically sound; (2) have to recognize the importance of all body
+fluids, secretions, and excretions in the transmission of nosocomial
+pathogens; (3) have to contain adequate precautions for infections
+transmitted by the airborne, droplet, and contact routes of transmission;
+(4) have to be as simple and user friendly as possible; and, (5) have to
+use new terms to avoid confusion with existing systems.
+<P>
+Based on these considerations, this guideline subsequently was
+developed. It contains three important changes from previous
+recommendations. First, it synthesizes the major features of UP (27,28) and
+BSI (29,30) into a single set of precautions to be used for the care of all
+patients in hospitals regardless of their presumed infection status. These
+precautions, called Standard Precautions, are designed to reduce the risk
+of transmission of bloodborne and other pathogens in hospitals. As a
+result of this synthesis, a large number of patients with diseases or
+conditions that previously required category- or disease-specific
+precautions in the 1983 CDC isolation guideline (4) now are covered under
+Standard Precautions and do not require additional precautions. Second, it
+collapses the old categories of isolation precautions (Strict Isolation,
+Contact Isolation, Respiratory Isolation, Tuberculosis Isolation, Enteric
+Precautions, and Drainage/Secretion Precautions) and the old disease-
+specific precautions into three sets of precautions based on routes of
+transmission for a smaller number of specified patients known or suspected
+to be infected or colonized with highly transmissible or epidemiologically
+important pathogens. These Transmission-Based Precautions, designed to
+reduce the risk of airborne, droplet, and contact transmission in
+hospitals, are to be used in addition to Standard Precautions. Third, it
+lists specific syndromes in both adult and pediatric patients that are
+highly suspicious for infection and identifies appropriate Transmission-
+Based Precautions to use on an empiric, temporary basis until a diagnosis
+can be made. These empiric, temporary precautions also are designed to be
+used in addition to Standard Precautions. The details of the guideline
+recommendations are presented in Part II, &quot;Recommendations for Isolation
+Precautions in Hospitals.&quot;
+<P>
+In summary, this new guideline is another step in the evolution of
+isolation practices in US hospitals. It now is recommended for review and
+use by hospitals with the following provision. No guideline can address all
+of the needs of the more than 6,000 US hospitals, which range in size from
+five beds to more than 1,500 beds and serve very different patient
+populations. Hospitals are encouraged to review the recommendations and to
+modify them according to what is possible, practical, and prudent.
+<P>
+
+<HR>
+
+<A NAME="head003000000000000"></A>
+<H2>PART II: RECOMMENDATIONS FOR ISOLATION PRECAUTIONS IN HOSPITALS Hospital Infection Control Practices Advisory Committee</H2>
+
+<A NAME="head003001000000000"></A>
+<H3>Rationale For Isolation Precautions In Hospitals</H3>
+
+Transmission of infection within a hospital requires three elements: a
+source of infecting microorganisms, a susceptible host, and a means of
+transmission for the microorganism.
+<P>
+
+
+<A NAME="head003001001000000"></A>
+<H4>Source</H4>
+
+Human sources of the infecting microorganisms in hospitals may be
+patients, personnel, or, on occasion, visitors, and may include persons
+with acute disease, persons in the incubation period of a disease, persons
+who are colonized by an infectious agent but have no apparent disease, or
+persons who are chronic carriers of an infectious agent. Other sources of
+infecting microorganisms can be the patients own endogenous flora, which
+may be difficult to control, and inanimate environmental objects that have
+become contaminated, including equipment and medications.
+<P>
+
+
+<A NAME="head003001002000000"></A>
+<H4>Host</H4>
+
+Resistance among persons to pathogenic microorganisms varies greatly.
+Some persons may be immune to infection or may be able to resist
+colonization by an infectious agent; others exposed to the same agent may
+establish a commensal relationship with the infecting microorganism and
+become asymptomatic carriers; still others may develop clinical disease.
+Host factors such as age; underlying diseases; certain treatments with
+antimicrobials, corticosteroids, or other immunosuppressive agents;
+irradiation; and breaks in the first line of defense mechanisms caused by
+such factors as surgical operations, anesthesia, and indwelling catheters
+may render patients more susceptible to infection.
+<P>
+
+
+<A NAME="head003001003000000"></A>
+<H4>Transmission</H4>
+
+Microorganisms are transmitted in hospitals by several routes, and the
+same microorganism may be transmitted by more than one route. There are
+five main routes of transmission -- contact, droplet, airborne, common
+vehicle, and vectorborne. For the purpose of this guideline, common
+vehicle and vectorborne transmission will be discussed only briefly,
+because neither play a significant role in typical nosocomial infections.
+<P>
+
+(1) Contact transmission, the most important and frequent mode of
+transmission of nosocomial infections, is divided into two
+subgroups: direct-contact transmission and indirect-contact
+transmission.<BR>
+(a) Direct-contact transmission involves a direct body
+surface-to-body surface contact and physical transfer of
+microorganisms between a susceptible host and an infected or
+colonized person, such as occurs when a person turns a patient,
+gives a patient a bath, or performs other patient-care
+activities that require direct personal contact. Direct-contact
+transmission also can occur between two patients, with one
+serving as the source of the infectious microorganisms and the
+other as a susceptible host.<BR>
+(b) Indirect-contact transmission involves contact of a susceptible
+host with a contaminated intermediate object, usually
+inanimate, such as contaminated instruments, needles, or
+dressings, or contaminated hands that are not washed and gloves
+that are not changed between patients.<BR>
+
+<P>
+(2) Droplet transmission, theoretically, is a form of contact
+transmission. However, the mechanism of transfer of the pathogen to
+the host is quite distinct from either direct- or indirect-contact
+transmission. Therefore, droplet transmission will be considered a
+separate route of transmission in this guideline. Droplets are
+generated from the source person primarily during coughing,
+sneezing, and talking, and during the performance of certain
+procedures such as suctioning and bronchoscopy. Transmission occurs
+when droplets containing microorganisms generated from the infected
+person are propelled a short distance through the air and deposited
+on the host's conjunctivae, nasal mucosa, or mouth. Because
+droplets do not remain suspended in the air, special air handling
+and ventilation are not required to prevent droplet transmission;
+that is, droplet transmission must not be confused with airborne
+transmission.<BR>
+
+<P>
+(3) Airborne Transmission occurs by dissemination of either airborne
+droplet nuclei (small-particle residue {5 um or smaller in size} of
+evaporated droplets containing microorganisms that remain suspended
+in the air for long periods of time) or dust particles containing
+the infectious agent. Microorganisms carried in this manner can be
+dispersed widely by air currents and may become inhaled by a
+susceptible host within the same room or over a longer distance
+from the source patient, depending on environmental factors;
+therefore, special air handling and ventilation are required to
+prevent airborne transmission. Microorganisms transmitted by
+airborne transmission include Mycobacterium tuberculosis and the
+rubeola and varicella viruses.<BR>
+
+<P>
+(4) Common Vehicle Transmission applies to microorganisms transmitted
+by contaminated items such as food, water, medications, devices,
+and equipment.<BR>
+
+<P>
+(5) Vectorborne Transmission occurs when vectors such as mosquitoes,
+flies, rats, and other vermin transmit microorganisms; this route
+of transmission is of less significance in hospitals in the United
+States than in other regions of the world.<BR>
+
+<P>
+Isolation precautions are designed to prevent transmission of
+microorganisms by these routes in hospitals. Because agent and host factors
+are more difficult to control, interruption of transfer of microorganisms
+is directed primarily at transmission. The recommendations presented in
+this guideline are based on this concept.
+<P>
+Placing a patient on isolation precautions, however, often presents
+certain disadvantages to the hospital, patients, personnel, and visitors.
+Isolation precautions may require specialized equipment and environmental
+modifications that add to the cost of hospitalization. Isolation
+precautions may make frequent visits by nurses, physicians, and other
+personnel inconvenient, and they may make it more difficult for personnel
+to give the prompt and frequent care that sometimes is required. The use
+of a multi-patient room for one patient uses valuable space that otherwise
+might accommodate several patients. Moreover, forced solitude deprives the
+patient of normal social relationships and may be psychologically harmful,
+especially to children. These disadvantages, however, must be weighed
+against the hospital's mission to prevent the spread of serious and
+epidemiologically important microorganisms in the hospital.
+<P>
+
+
+<A NAME="head003002000000000"></A>
+<H3>Fundamentals of Isolation Precautions</H3>
+
+A variety of infection control measures are used for decreasing the
+risk of transmission of microorganisms in hospitals. These measures make up
+the fundamentals of isolation precautions.
+<P>
+
+
+<A NAME="head003002001000000"></A>
+<H4>Handwashing and Gloving</H4>
+
+Handwashing frequently is called the single most important measure to
+reduce the risks of transmitting microorganisms from one person to another
+or from one site to another on the same patient. The scientific rationale,
+indications, methods, and products for handwashing have been delineated in
+other publications. (64-72)
+<P>
+Washing hands as promptly and thoroughly as possible between patient
+contacts and after contact with blood, body fluids, secretions, excretions,
+and equipment or articles contaminated by them is an important component of
+infection control and isolation precautions. In addition to handwashing,
+gloves play an important role in reducing the risks of transmission of
+microorganisms.
+<P>
+Gloves are worn for three important reasons in hospitals. First, gloves
+are worn to provide a protective barrier and to prevent gross contamination
+of the hands when touching blood, body fluids, secretions, excretions,
+mucous membranes, and nonintact skin; (27-29) the wearing of gloves in
+specified circumstances to reduce the risk of exposures to bloodborne
+pathogens is mandated by the OSHA Bloodborne Pathogens final rule. (51)
+Second, gloves are worn to reduce the likelihood that microorganisms
+present on the hands of personnel will be transmitted to patients during
+invasive or other patient-care procedures that involve touching a patient's
+mucous membranes and nonintact skin. Third, gloves are worn to reduce the
+likelihood that hands of personnel contaminated with microorganisms from a
+patient or a fomite can transmit these microorganisms to another patient.
+In this situation, gloves must be changed between patient contacts and
+hands should be washed after gloves are removed.
+<P>
+Wearing gloves does not replace the need for handwashing, because
+gloves may have small, apparent defects or may be torn during use, and
+hands can become contaminated during removal of gloves. (14,15,39,72-76)
+Failure to change gloves between patient contacts is an infection control
+hazard. (32)
+<P>
+
+
+<A NAME="head003002002000000"></A>
+<H4>Patient Placement</H4>
+
+Appropriate patient placement is a significant component of isolation
+precautions. A private room is important to prevent direct- or
+indirect-contact transmission when the source patient has poor hygienic
+habits, contaminates the environment, or cannot be expected to assist in
+maintaining infection control precautions to limit transmission of
+microorganisms (ie, infants, children, and patients with altered mental
+status). When possible, a patient with highly transmissible or
+epidemiologically important microorganisms is placed in a private room with
+handwashing and toilet facilities, to reduce opportunities for
+transmission of microorganisms.
+<P>
+When a private room is not available, an infected patient is placed
+with an appropriate roommate. Patients infected by the same microorganism
+usually can share a room, provided they are not infected with other
+potentially transmissible microorganisms and the likelihood of reinfection
+with the same organism is minimal. Such sharing of rooms, also referred to
+as cohorting patients, is useful especially during outbreaks or when there
+is a shortage of private rooms. When a private room is not available and
+cohorting is not achievable or recommended, (23) it is very important to
+consider the epidemiology and mode of transmission of the infecting
+pathogen and the patient population being served in determining patient
+placement. Under these circumstances, consultation with infection control
+professionals is advised before patient placement. Moreover, when an
+infected patient shares a room with a noninfected patient, it also is
+important that patients, personnel, and visitors take precautions to
+prevent the spread of infection and that roommates are selected carefully.
+<P>
+Guidelines for construction, equipment, air handling, and ventilation
+for isolation rooms have been delineated in other publications. (77-79) A
+private room with appropriate air handling and ventilation is particularly
+important for reducing the risk of transmission of microorganisms from a
+source patient to susceptible patients and other persons in hospitals when
+the microorganism is spread by airborne transmission. Some hospitals use an
+isolation room with an anteroom as an extra measure of precaution to
+prevent airborne transmission. Adequate data regarding the need for an
+anteroom, however, is not available. Ventilation recommendations for
+isolation rooms housing patients with pulmonary tuberculosis have been
+delineated in other CDC guidelines. (23)
+<P>
+
+
+<A NAME="head003002003000000"></A>
+<H4>Transport of Infected Patients</H4>
+
+Limiting the movement and transport of patients infected with virulent
+or epidemiologically important microorganisms and ensuring that such
+patients leave their rooms only for essential purposes reduces
+opportunities for transmission of microorganisms in hospitals. When patient
+transport is necessary, it is important that (1) appropriate barriers
+(eg, masks, impervious dressings) are worn or used by the patient to
+reduce the opportunity for transmission of pertinent microorganisms to
+other patients, personnel, and visitors and to reduce contamination of the
+environment; (2) personnel in the area to which the patient is to be taken
+are notified of the impending arrival of the patient and of the precautions
+to be used to reduce the risk of transmission of infectious microorganisms;
+and, (3) patients are informed of ways by which they can assist in
+preventing the transmission of their infectious microorganisms to others.
+<P>
+
+
+<A NAME="head003002004000000"></A>
+<H4>Masks, Respiratory Protection, Eye Protection, Face Shields</H4>
+
+Various types of masks, goggles, and face shields are worn alone or in
+combination to provide barrier protection. A mask that covers both the nose
+and the mouth, and goggles or a face shield are worn by hospital personnel
+during procedures and patient care activities that are likely to generate
+splashes or sprays of blood, body fluids, secretions, or excretions to
+provide protection of the mucous membranes of the eyes, nose, and mouth
+from contact transmission of pathogens. The wearing of masks, eye
+protection, and face shields in specified circumstances to reduce the risk
+of exposures to bloodborne pathogens is mandated by the OSHA bloodborne
+pathogens final rule. (51) A surgical mask generally is worn by hospital
+personnel to provide protection against spread of infectious large-particle
+droplets that are transmitted by close contact and generally travel only
+short distances (up to 3 ft) from infected patients who are coughing or
+sneezing.
+<P>
+An area of major concern and controversy over the last several years
+has been the role and selection of respiratory protection equipment and the
+implications of a respiratory protection program for prevention of
+transmission of tuberculosis in hospitals. Traditionally, although the
+efficacy was not proven, a surgical mask was worn for isolation precautions
+in hospitals when patients were known or suspected to be infected with
+pathogens spread by the airborne route of transmission. In 1990, however,
+the CDC tuberculosis guidelines (18) stated that surgical masks may not be
+effective in preventing the inhalation of droplet nuclei and recommended
+the use of disposable particulate respirators, despite the fact that the
+efficacy of particulate respirators in protecting persons from the
+inhalation of M tuberculosis had not been demonstrated. By definition,
+particulate respirators included dust-mist (DM), dust-fume-mist (DFM), or
+high-efficiency particulate air (HEPA) filter respirators certified by the
+CDC National Institute for Occupational Safety and Health (NIOSH); because
+the generic term &quot;particulate respirator&quot; was used in the 1990 guidelines,
+the implication was that any of these respirators provided sufficient
+protection. (80)
+<P>
+In 1993, a draft revision of the CDC tuberculosis guidelines (22)
+outlined performance criteria for respirators and stated that some DM or
+DFM respirators might not meet these criteria. After review of public
+comments, the guidelines were finalized in October 1994 (23), with the
+draft respirator criteria unchanged. At that time, the only class of
+respirators that were known to consistently meet or exceed the performance
+criteria outlined in the 1994 tuberculosis guidelines and that were
+certified by NIOSH (as required by OSHA) were HEPA filter respirators.
+Subsequently, NIOSH revised the testing and certification requirements for
+all types of air-purifying respirators, including those used for
+tuberculosis control. (81) The new rule, effective in July 1995, provides a
+broader range of certified respirators that meet the performance criteria
+recommended by CDC in the 1994 tuberculosis guidelines. NIOSH has indicated
+that the N95 (N category at 95% efficiency) meets the CDC performance
+criteria for a tuberculosis respirator. The new respirators are likely to
+be available in late 1995. Additional information on the evolution of
+respirator recommendations, regulations to protect hospital personnel, and
+the role of various federal agencies in respiratory protection for hospital
+personnel has been published. (80)
+<P>
+
+
+<A NAME="head003002005000000"></A>
+<H4>Gowns and Protective Apparel</H4>
+
+Various types of gowns and protective apparel are worn to provide
+barrier protection and to reduce opportunities for transmission of
+microorganisms in hospitals. Gowns are worn to prevent contamination of
+clothing and to protect the skin of personnel from blood and body fluid
+exposures. Gowns especially treated to make them impermeable to liquids,
+leg coverings, boots, or shoe covers provide greater protection to the skin
+when splashes or large quantities of infective material are present or
+anticipated. The wearing of gowns and protective apparel under specified
+circumstances to reduce the risk of exposures to bloodborne pathogens is
+mandated by the OSHA Bloodborne Pathogens final rule. (51)
+<P>
+Gowns also are worn by personnel during the care of patients infected
+with epidemiologically important microorganisms to reduce the opportunity
+for transmission of pathogens from patients or items in their environment
+to other patients or environments; when gowns are worn for this purpose,
+they are removed before leaving the patient's environment, and hands are
+washed. Adequate data regarding the efficacy of gowns for this purpose,
+however, is not available.
+<P>
+
+
+<A NAME="head003002006000000"></A>
+<H4>Patient-Care Equipment and Articles</H4>
+
+Many factors determine whether special handling and disposal of used
+patient-care equipment and articles are prudent or required, including the
+likelihood of contamination with infective material; the ability to cut,
+stick, or otherwise cause injury (needles, scalpels, and other sharp
+instruments {sharps}); the severity of the associated disease; and the
+environmental stability of the pathogens involved. (27,51,82-84) Some used
+articles are enclosed in containers or bags to prevent inadvertent
+exposures to patients, personnel, and visitors and to prevent contamination
+of the environment. Used sharps are placed in puncture-resistant
+containers; other articles are placed in a bag. One bag is adequate if the
+bag is sturdy and the article can be placed in the bag without
+contaminating the outside of the bag (85); otherwise, two bags are used.
+<P>
+The scientific rationale, indications, methods, products, and equipment
+for reprocessing patient-care equipment have been delineated in other
+publications. (68,84,86-91) Contaminated, reusable critical medical devices
+or patient-care equipment (ie, equipment that enters normally sterile
+tissue or through which blood flows) or semicritical medical devices or
+patient-care equipment (ie, equipment that touches mucous membranes) are
+sterilized or disinfected (reprocessed) after use to reduce the risk of
+transmission of microorganisms to other patients; the type of reprocessing
+is determined by the article and its intended use, the manufacturer's
+recommendations, hospital policy, and any applicable guidelines and
+regulations.
+<P>
+Noncritical equipment (ie, equipment that touches intact skin)
+contaminated with blood, body fluids, secretions, or excretions is cleaned
+and disinfected after use, according to hospital policy. Contaminated
+disposable (single-use) patient-care equipment is handled and transported
+in a manner that reduces the risk of transmission of microorganisms
+and decreases environmental contamination in the hospital; the equipment
+is disposed of according to hospital policy and applicable regulations.
+<P>
+
+
+<A NAME="head003002007000000"></A>
+<H4>Linen and Laundry</H4>
+Although soiled linen may be contaminated with pathogenic
+microorganisms, the risk of disease transmission is negligible if it is
+handled, transported, and laundered in a manner that avoids transfer of
+microorganisms to patients, personnel, and environments. Rather than rigid
+rules and regulations, hygienic and common sense storage and processing of
+clean and soiled linen are recommended. (27,83,92,93) The methods for
+handling, transporting, and laundering of soiled linen are determined by
+hospital policy and any applicable regulations.
+<P>
+
+
+<A NAME="head003002008000000"></A>
+<H4>Dishes, Glasses, Cups, and Eating Utensils</H4>
+
+No special precautions are needed for dishes, glasses, cups, or eating
+utensils. Either disposable or reusable dishes and utensils can be used for
+patients on isolation precautions. The combination of hot water and
+detergents used in hospital dishwashers is sufficient to decontaminate
+dishes, glasses, cups, and eating utensils.
+<P>
+
+
+<A NAME="head003002009000000"></A>
+<H4>Routine and Terminal Cleaning</H4>
+
+The room, or cubicle, and bedside equipment of patients on
+Transmission-Based Precautions are cleaned using the same procedures used
+for patients on Standard Precautions, unless the infecting microorganism(s)
+and the amount of environmental contamination indicate special cleaning. In
+addition to thorough cleaning, adequate disinfection of bedside equipment
+and environmental surfaces (eg, bed rails, bedside tables, carts,
+commodes, doorknobs, faucet handles) is indicated for certain pathogens,
+especially enterococci, which can survive in the inanimate environment for
+prolonged periods of time. (94) Patients admitted to hospital rooms that
+previously were occupied by patients infected or colonized with such
+pathogens are at increased risk of infection from contaminated
+environmental surfaces and bedside equipment if they have not been cleaned
+and disinfected adequately. The methods, thoroughness, and frequency of
+cleaning and the products used are determined by hospital policy.
+<P>
+
+
+<A NAME="head003003000000000"></A>
+<H3>HICPAC Isolation Precautions</H3>
+
+There are two tiers of HICPAC isolation precautions. In the first, and
+most important, tier are those precautions designed for the care of all
+patients in hospitals, regardless of their diagnosis or presumed infection
+status. Implementation of these &quot;Standard Precautions&quot; is the primary
+strategy for successful nosocomial infection control. In the second tier
+are precautions designed only for the care of specified patients. These
+additional &quot;Transmission-Based Precautions&quot; are for patients known or
+suspected to be infected by epidemiologically important pathogens spread by
+airborne or droplet transmission or by contact with dry skin or
+contaminated surfaces.
+<P>
+
+
+<A NAME="head003003001000000"></A>
+<H4>Standard Precautions</H4>
+
+Standard Precautions synthesize the major features of UP (Blood and
+Body Fluid Precautions) (27,28) (designed to reduce the risk of
+transmission of bloodborne pathogens) and BSI (29,30) (designed to reduce
+the risk of transmission of pathogens from moist body substances) and
+applies them to all patients receiving care in hospitals, regardless of
+their diagnosis or presumed infection status. Standard Precautions apply to
+(1) blood; (2) all body fluids, secretions, and excretions except sweat,
+regardless of whether or not they contain visible blood; (3) nonintact
+skin; and, (4) mucous membranes. Standard Precautions are designed to
+reduce the risk of transmission of microorganisms from both recognized and
+unrecognized sources of infection in hospitals.
+<P>
+
+
+<A NAME="head003003002000000"></A>
+<H4>Transmission-Based Precautions</H4>
+
+Transmission-Based Precautions are designed for patients documented or
+suspected to be infected with highly transmissible or epidemiologically
+important pathogens for which additional precautions beyond Standard
+Precautions are needed to interrupt transmission in hospitals. There are
+three types of Transmission-Based Precautions: Airborne Precautions,
+Droplet Precautions, and Contact Precautions. They may be combined for
+diseases that have multiple routes of transmission. When used either
+singularly or in combination, they are to be used in addition to Standard
+Precautions.
+<P>
+
+Airborne Precautions are designed to reduce the risk of<BR>
+airborne transmission of infectious agents. Airborne transmission occurs by
+dissemination of either airborne droplet nuclei (small-particle residue {5
+um or smaller in size} of evaporated droplets that may remain suspended in
+the air for long periods of time) or dust particles containing the
+infectious agent. Microorganisms carried in this manner can be dispersed
+widely by air currents and may become inhaled by or deposited on a
+susceptible host within the same room or over a longer distance from the
+source patient, depending on environmental factors; therefore, special air
+handling and ventilation are required to prevent airborne transmission.
+Airborne Precautions apply to patients known or suspected to be infected
+with epidemiologically important pathogens that can be transmitted by the
+airborne route.
+<P>
+
+Droplet Precautions are designed to reduce the risk of droplet
+transmission of infectious agents. Droplet transmission involves contact of
+the conjunctivae or the mucous membranes of the nose or mouth of a
+susceptible person with large-particle droplets (larger than 5 um in size)
+containing microorganisms generated from a person who has a clinical
+disease or who is a carrier of the microorganism. Droplets are generated
+from the source person primarily during coughing, sneezing, or talking and
+during the performance of certain procedures such as suctioning and
+bronchoscopy. Transmission via large-particle droplets requires close
+contact between source and recipient persons, because droplets do not
+remain suspended in the air and generally travel only short distances,
+usually 3 ft or less, through the air. Because droplets do not remain
+suspended in the air, special air handling and ventilation are not required
+to prevent droplet transmission. Droplet Precautions apply to any patient
+known or suspected to be infected with epidemiologically important
+pathogens that can be transmitted by infectious droplets.
+<P>
+
+Contact Precautions are designed to reduce the risk of transmission of
+epidemiologically important microorganisms by direct or indirect contact.
+Direct-contact transmission involves skin-to-skin contact and physical
+transfer of microorganisms to a susceptible host from an infected or
+colonized person, such as occurs when personnel turn patients, bathe
+patients, or perform other patient-care activities that require physical
+contact. Direct-contact transmission also can occur between two patients
+(eg, by hand contact), with one serving as the source of infectious
+microorganisms and the other as a susceptible host. Indirect-contact
+transmission involves contact of a susceptible host with a contaminated
+intermediate object, usually inanimate, in the patient's environment.
+Contact Precautions apply to specified patients known or suspected to be
+infected or colonized (presence of microorganism in or on patient but
+without clinical signs and symptoms of infection) with epidemiologically
+important microorganisms that can be transmitted by direct or indirect
+contact.
+<P>
+
+A synopsis of the types of precautions and the patients requiring the
+precautions is listed in <A HREF="#Table_1">Table 1</A>.
+<P>
+
+
+<A NAME="head003004000000000"></A>
+<H3>Empiric Use of Airborne, Droplet, or Contact Precautions</H3>
+
+In many instances, the risk of nosocomial transmission of infection
+may be highest before a definitive diagnosis can be made and before
+precautions based on that diagnosis can be implemented. The routine use of
+Standard Precautions for all patients should reduce greatly this risk for
+conditions other than those requiring Airborne, Droplet, or Contact
+Precautions. While it is not possible to prospectively identify all
+patients needing these enhanced precautions, certain clinical syndromes and
+conditions carry a sufficiently high risk to warrant the empiric addition
+of enhanced precautions while a more definitive diagnosis is pursued. A
+listing of such conditions and the recommended precautions beyond Standard
+Precautions is presented in <A HREF="#Table_2">Table 2</A>.
+<P>
+The organisms listed under the column &quot;Potential Pathogens&quot; are not
+intended to represent the complete or even most likely diagnoses, but
+rather possible etiologic agents that require additional precautions beyond
+Standard Precautions until they can be ruled out. Infection control
+professionals are encouraged to modify or adapt this table according to
+local conditions. To ensure that appropriate empiric precautions are
+implemented always, hospitals must have systems in place to evaluate
+patients routinely according to these criteria as part of their
+preadmission and admission care.
+<P>
+
+
+<A NAME="head003005000000000"></A>
+<H3>IMMUNOCOMPROMISED PATIENTS</H3>
+
+Immunocompromised patients vary in their susceptibility to nosocomial
+infections, depending on the severity and duration of immunosuppression.
+They generally are at increased risk for bacterial, fungal, parasitic, and
+viral infections from both endogenous and exogenous sources. The use of
+Standard Precautions for all patients and Transmission-Based Precautions
+for specified patients, as recommended in this guideline, should reduce the
+acquisition by these patients of institutionally acquired bacteria from
+other patients and environments.
+<P>
+It is beyond the scope of this guideline to address the various
+measures that may be used for immunocompromised patients to delay or
+prevent acquisition of potential pathogens during temporary periods of
+neutropenia. Rather, the primary objective of this guideline is to prevent
+transmission of pathogens from infected or colonized patients in hospitals.
+Users of this guideline, however, are referred to the &quot;Guideline for
+Prevention of Nosocomial Pneumonia&quot; (95,96) for the HICPAC recommendations
+for prevention of nosocomial aspergillosis and Legionnaires' disease in
+immunocompromised patients.
+<P>
+
+
+<A NAME="head003006000000000"></A>
+<H3>Recommendations</H3>
+
+The recommendations presented below are categorized as follows:
+<P>
+
+Category IA. Strongly recommended for all hospitals and strongly
+supported by well-designed experimental or epidemiologic studies.
+<P>
+
+Category IB. Strongly recommended for all hospitals and reviewed as
+effective by experts in the field and a consensus of HICPAC based on strong
+rationale and suggestive evidence, even though definitive scientific
+studies have not been done.
+<P>
+
+Category II. Suggested for implementation in many hospitals.
+Recommendations may be supported by suggestive clinical or epidemiologic
+studies, a strong theoretical rationale, or definitive studies applicable
+to some, but not all, hospitals.
+<P>
+
+No recommendation; unresolved issue. Practices for which insufficient
+evidence or consensus regarding efficacy exists.
+<P>
+
+The recommendations are limited to the topic of isolation precautions.
+Therefore, they must be supplemented by hospital policies and procedures
+for other aspects of infection and environmental control, occupational
+health, administrative and legal issues, and other issues beyond the scope
+of this guideline.
+<P>
+
+I. Administrative Controls
+<P>
+
+<OL>
+
+<LI>
+Education
+
+
+<BR>
+Develop a system to ensure that hospital patients, personnel, and
+visitors are educated about use of precautions and their
+responsibility for adherence to them. Category IB
+
+
+<LI>
+Adherence to Precautions
+
+
+<BR>
+Periodically evaluate adherence to precautions, and use findings to
+direct improvements. Category IB
+
+</OL>
+II. Standard Precautions
+<P>
+
+Use Standard Precautions, or the equivalent, for the care of all
+patients. Category IB<BR>
+
+<P>
+<OL>
+
+<LI>
+Handwashing
+
+
+<BR>
+(1) Wash hands after touching blood, body fluids, secretions,
+excretions, and contaminated items, whether or not gloves are
+worn. Wash hands immediately after gloves are removed, between
+patient contacts, and when otherwise indicated to avoid
+transfer of microorganisms to other patients or environments.
+It may be necessary to wash hands between tasks and procedures
+on the same patient to prevent cross-contamination of different
+body sites. Category IB
+(2) Use a plain (nonantimicrobial) soap for routine handwashing.
+Category IB
+(3) Use an antimicrobial agent or a waterless antiseptic agent for
+specific circumstances (eg, control of outbreaks or
+hyperendemic infections), as defined by the infection control
+program. Category IB (See Contact Precautions for additional
+recommendations on using antimicrobial and antiseptic agents.)
+
+
+<LI>
+Gloves
+
+
+<BR>
+Wear gloves (clean, nonsterile gloves are adequate) when touching
+blood, body fluids, secretions, excretions, and contaminated items.
+Put on clean gloves just before touching mucous membranes and
+nonintact skin. Change gloves between tasks and procedures on the
+same patient after contact with material that may contain a high
+concentration of microorganisms. Remove gloves promptly after use,
+before touching noncontaminated items and environmental surfaces,
+and before going to another patient, and wash hands immediately to
+avoid transfer of microorganisms to other patients or environments.
+Category IB
+
+
+<LI>
+Mask, Eye Protection, Face Shield
+
+
+<BR>
+Wear a mask and eye protection or a face shield to protect mucous
+membranes of the eyes, nose, and mouth during procedures and
+patient-care activities that are likely to generate splashes or
+sprays of blood, body fluids, secretions, and excretions. Category
+IB
+
+
+<LI>
+Gown
+
+
+<BR>
+Wear a gown (a clean, nonsterile gown is adequate) to protect skin
+and to prevent soiling of clothing during procedures and
+patient-care activities that are likely to generate splashes or
+sprays of blood, body fluids, secretions, or excretions. Select a
+gown that is appropriate for the activity and amount of fluid
+likely to be encountered. Remove a soiled gown as promptly as
+possible, and wash hands to avoid transfer of microorganisms to
+other patients or environments. Category IB
+
+
+<LI>
+Patient-Care Equipment
+
+
+<BR>
+Handle used patient-care equipment soiled with blood, body fluids,
+secretions, and excretions in a manner that prevents skin and
+mucous membrane exposures, contamination of clothing, and transfer
+of microorganisms to other patients and environments. Ensure that
+reusable equipment is not used for the care of another patient
+until it has been cleaned and reprocessed appropriately. Ensure
+that single-use items are discarded properly. Category IB
+
+
+<LI>
+Environmental Control
+
+
+<BR>
+Ensure that the hospital has adequate procedures for the routine
+care, cleaning, and disinfection of environmental surfaces, beds,
+bed rails, bedside equipment, and other frequently touched surfaces
+and ensure that these procedures are being followed. Category IB
+
+
+<LI>
+Linen
+
+
+<BR>
+Handle, transport, and process used linen soiled with blood, body
+fluids, secretions, and excretions in a manner that prevents skin
+and mucous membrane exposures and contamination of clothing, and
+that avoids transfer of microorganisms to other patients and
+environments. Category IB
+
+
+<LI>
+Occupational Health and Bloodborne Pathogens
+
+
+<BR>
+(1) Take care to prevent injuries when using needles, scalpels, and
+other sharp instruments or devices; when handling sharp
+instruments after procedures; when cleaning used instruments;
+and when disposing of used needles. Never recap used needles,
+or otherwise manipulate them using both hands, or use any other
+technique that involves directing the point of a needle toward
+any part of the body; rather, use either a one-handed &quot;scoop&quot;
+technique or a mechanical device designed for holding the
+needle sheath. Do not remove used needles from disposable
+syringes by hand, and do not bend, break, or otherwise
+manipulate used needles by hand. Place used disposable syringes
+and needles, scalpel blades, and other sharp items in
+appropriate puncture-resistant containers, which are located as
+close as practical to the area in which the items were used,
+and place reusable syringes and needles in a puncture-resistant
+container for transport to the reprocessing area. Category IB
+(2) Use mouthpieces, resuscitation bags, or other ventilation
+devices as an alternative to mouth-to-mouth resuscitation
+methods in areas where the need for resuscitation is
+predictable. Category IB
+
+
+<LI>
+Patient Placement
+
+
+<BR>
+Place a patient who contaminates the environment or who does not
+(or cannot be expected to) assist in maintaining appropriate
+hygiene or environmental control in a private room. If a private
+room is not available, consult with infection control professionals
+regarding patient placement or other alternatives. Category IB
+
+</OL>
+III. Airborne Precautions
+<P>
+
+In addition to Standard Precautions, use Airborne Precautions, or the
+equivalent, for patients known or suspected to be infected with
+microorganisms transmitted by airborne droplet nuclei (small-particle
+residue {5 um or smaller in size} of evaporated droplets containing
+microorganisms that remain suspended in the air and that can be
+dispersed widely by air currents within a room or over a long
+distance). Category IB<BR>
+
+<P>
+<OL>
+
+<LI>
+Patient Placement
+
+
+<BR>
+Place the patient in a private room that has (1) monitored negative
+air pressure in relation to the surrounding area, (2) 6 to 12 air
+changes per hour, and (3) appropriate discharge of air outdoors or
+monitored high-efficiency filtration of room air before the air is
+circulated to other areas in the hospital. (23) Keep the room door
+closed and the patient in the room. When a private room is not
+available, place the patient in a room with a patient who has
+active infection with the same microorganism, unless otherwise
+recommended, (23) but with no other infection. When a private room
+is not available and cohorting is not desirable, consultation with
+infection control professionals is advised before patient
+placement. Category IB
+
+
+<LI>
+Respiratory Protection
+
+
+<BR>
+Wear respiratory protection when entering the room of a patient
+with known or suspected infectious pulmonary tuberculosis. (23,81)
+Susceptible persons should not enter the room of patients known or
+suspected to have measles or (rubeola) or varicella (chickenpox) if
+other immune caregivers are available. If susceptible persons must
+enter the room of a patient known or suspected to have measles
+(rubeola) or varicella, they should wear respiratory protection.
+(81) Persons immune to measles (rubeola) or varicella need not wear
+respiratory protection. Category IB
+
+
+<LI>
+Patient Transport
+
+
+<BR>
+Limit the movement and transport of the patient from the room to
+essential purposes only. If transport or movement is necessary,
+minimize patient dispersal of droplet nuclei by placing a surgical
+mask on the patient, if possible. Category IB
+
+
+<LI>
+Additional Precautions for Preventing Transmission of Tuberculosis
+
+
+<BR>
+Consult CDC &quot;Guidelines for Preventing the Transmission of
+Tuberculosis in Health-Care Transmission of Facilities&quot; (23) for
+additional prevention strategies.
+
+</OL>
+IV. Droplet Precautions
+<P>
+
+In addition to Standard Precautions, use Droplet Precautions, or the
+equivalent for a patient known or suspected to be infected with
+microorganisms transmitted by droplets (large-particle droplets {larger
+than 5 um in size} that can be generated by the patient during
+coughing, sneezing, talking, or the performance of procedures).
+Category IB<BR>
+
+<P>
+<OL>
+
+<LI>
+Patient Placement
+
+
+<BR>
+Place the patient in a private room. When a private room is not
+available, place the patient in a room with a patient(s) who has
+active infection with the same microorganism but with no other
+infection (cohorting). When a private room is not available and
+cohorting is not achievable, maintain spatial separation of at
+least 3 ft between the infected patient and other patients and
+visitors. Special air handling and ventilation are not necessary,
+and the door may remain open. Category IB
+
+
+<LI>
+Mask
+
+
+<BR>
+In addition to standard precautions, wear a mask when working
+within 3 ft of the patient. (Logistically, some hospitals may want
+to implement the wearing of a mask to enter the room.) Category IB
+
+
+<LI>
+Patient Transport
+
+
+<BR>
+Limit the movement and transport of the patient from the room to
+essential purposes only. If transport or movement is necessary,
+minimize patient dispersal of droplets by masking the patient, if
+possible. Category IB
+
+</OL>
+V. Contact Precautions
+<P>
+
+In addition to Standard Precautions, use Contact Precautions, or the
+equivalent, for specified patients known or suspected to be infected or
+colonized with epidemiologically important microorganisms that can be
+transmitted by direct contact with the patient (hand or skin-to-skin
+contact that occurs when performing patient-care activities that
+require touching the patient's dry skin) or indirect contact (touching)
+with environmental surfaces or patient-care items in the patient's
+environment. Category IB<BR>
+
+<P>
+<OL>
+
+<LI>
+Patient Placement
+
+
+<BR>
+Place the patient in a private room. When a private room is not
+available, place the patient in a room with a patient(s) who has
+active infection with the same microorganism but with no other
+infection (cohorting). When a private room is not available and
+cohorting is not achievable, consider the epidemiology of the
+microorganism and the patient population when determining patient
+placement. Consultation with infection control professionals is
+advised before patient placement. Category IB
+
+
+<LI>
+Gloves and Handwashing
+
+
+<BR>
+In addition to wearing gloves as outlined under Standard
+Precautions, wear gloves (clean, nonsterile gloves are adequate)
+when entering the room. During the course of providing care for a
+patient, change gloves after having contact with infective material
+that may contain high concentrations of microorganisms (fecal
+material and wound drainage). Remove gloves before leaving the
+patient's environment and wash hands immediately with an
+antimicrobial agent or a waterless antiseptic agent. (72,94) After
+glove removal and handwashing, ensure that hands do not touch
+potentially contaminated environmental surfaces or items in the
+patient's room to avoid transfer of microorganisms to other
+patients or environments. Category IB
+
+
+<LI>
+Gown
+
+
+<BR>
+In addition to wearing a gown as outlined under Standard
+Precautions, wear a gown (a clean, nonsterile gown is adequate)
+when entering the room if you anticipate that your clothing will
+have substantial contact with the patient, environmental surfaces,
+or items in the patient's room, or if the patient is incontinent or
+has diarrhea, an ileostomy, a colostomy, or wound drainage not
+contained by a dressing. Remove the gown before leaving the
+patient's environment. After gown removal, ensure that clothing
+does not contact potentially contaminated environmental surfaces to
+avoid transfer of microorganisms to other patients or environments.
+Category IB
+
+
+<LI>
+Patient Transport
+
+
+<BR>
+Limit the movement and transport of the patient from the room to
+essential purposes only. If the patient is transported out of the
+room, ensure that precautions are maintained to minimize the risk
+of transmission of microorganisms to other patients and
+contamination of environmental surfaces or equipment. Category IB
+
+
+<LI>
+Patient-Care Equipment
+
+
+<BR>
+When possible, dedicate the use of noncritical patient-care
+equipment to a single patient (or cohort of patients infected or
+colonized with the pathogen requiring precautions) to avoid sharing
+between patients. If use of common equipment or items is
+unavoidable, then adequately clean and disinfect them before use
+for another patient. Category IB
+
+
+<LI>
+Additional Precautions for Preventing the Spread of Vancomycin
+Resistance
+
+
+<BR>
+Consult the HICPAC report on preventing the spread of vancomycin
+resistance for additional prevention strategies. (94)
+
+</OL>
+<HR>
+
+<A NAME="head004000000000000"></A>
+<H2>REVIEWERS</H2>
+
+Trisha Barrett, RN, BSN, CIC<BR>
+Alta Bates Medical Center<BR>
+Berkeley, California
+<P>
+
+Gloria E. Bonnicksen, RN, BS, CIC<BR>
+Methodist Hospital<BR>
+Minneapolis, Minnesota
+<P>
+
+Jeanette Daniel, RN, CIC<BR>
+The Retreat Hospital<BR>
+Richmond, Virginia
+<P>
+
+Leigh G. Donowitz, MD<BR>
+University of Virginia Medical Center<BR>
+Charlottesville, Virginia
+<P>
+
+Inge Gurevich, RN, MA<BR>
+Winthrop-University Hospital<BR>
+Mineola, New York
+<P>
+
+Karen Kroc<BR>
+American Hospital Association<BR>
+Chicago, Illinois
+<P>
+
+Patricia Lynch, RN, MBA<BR>
+Seattle, Washington
+<P>
+
+Sara McVicker, RN, MN<BR>
+Veterans Administration Medical Center<BR>
+Washington, DC
+<P>
+
+Mary D. Nettleman, MD, MS<BR>
+University of Iowa Hospitals and Clinics<BR>
+Iowa City, Iowa
+<P>
+
+Gina Pugliese, RN, MS<BR>
+American Hospital Association<BR>
+Chicago, Illinois
+<P>
+
+William Schaffner II, MD<BR>
+Vanderbilt University Hospital<BR>
+Nashville, Tennessee
+<P>
+
+Bryan P. Simmons, MD<BR>
+Methodist Hospitals<BR>
+Memphis, Tennessee
+<P>
+
+Beth H. Stover, RN, CIC<BR>
+Kosair Children's Hospital<BR>
+Louisville, Kentucky
+<P>
+
+Marjorie A. Underwood, RN, BSN, CIC<BR>
+Mt. Diablo Medical Center<BR>
+Concord, California
+<P>
+
+<HR>
+
+<A NAME="head005000000000000"></A>
+<H2>REFERENCES</H2>
+
+<OL>
+
+<LI>
+Garner JS. The CDC Hospital Infection Control Practices Advisory
+Committee. Am J Infect Control 1993;21:160-162.
+
+<LI>
+National Communicable Disease Center. Isolation Techniques for Use in
+Hospitals. 1st ed. Washington, DC: US Government Printing Office; 1970.
+PHS publication no. 2054.
+
+<LI>
+Centers for Disease Control. Isolation Techniques for Use in Hospitals.
+2nd ed. Washington. DC: US Government Printing Office; 1975. HHS
+publication no. (CDC) 80-8314.
+
+<LI>
+Garner JS, Simmons BP. CDC Guideline for Isolation Precautions in
+Hospitals. Atlanta, GA: US Department of Health and Human Services,
+Public Health Service, Centers for Disease Control; 1983. HHS
+publication no. (CDC) 83-8314; Infect Control 1983;4:245-325, and Am J
+Infect Control 1984;12:103-163.
+
+<LI>
+Lynch T. Communicable Disease Nursing. St. Louis, MO: Mosby; 1949.
+
+<LI>
+Gage ND, Landon JF, Sider MT. Communicable Disease. Philadelphia, PA:
+FA Davis; 1959.
+
+<LI>
+Haley RW, Shachtman RH. The emergence of infection surveillance and
+control programs in US hospitals; an assessment, 1976. Am J Epidemiol
+1980;111:574-591.
+
+<LI>
+Schaffner W. Infection control: old myths and new realities. Infect
+Control 1980;1:330-334.
+
+<LI>
+Garner JS, Comments on CDC guideline for isolation precautions in
+hospitals, 1984. Am J Infect Control 1984;12:163-164.
+
+<LI>
+Haley RW, Garner JS, Simmons BP. A new approach to the isolation of
+patients with infectious diseases: alternative systems. J Hosp Infect
+1985;6:128-139.
+
+<LI>
+Nauseef WM, Maki DG. A study of the value of simple protective
+isolation in patients with granulocytopenia. N Engl J Med 1981;304:
+448-453.
+
+<LI>
+Pizzo PA. The value of protective isolation in preventing nosocomial
+infections in high risk patients. Am J Med 1981;70:631-637.
+
+<LI>
+Jacobson JT, Johnson DS, Ross CA, Conti MT, Evans RS, Burke JP.
+Adapting disease-specific isolation guidelines to a hospital
+information system. Infect Control 1986;7:411-418.
+
+<LI>
+Goldmann DA. The role of barrier precautions in infection control. J
+Hosp Infect 1991;18:515-523.
+
+<LI>
+Goldmann DA, Platt R, Hopkins C. Control of hospital-acquired
+infections. In: Gorbach SL, Bartlett JG, Blacklow NR, eds. Infectious
+Diseases. Philadelphia, PA: WB Saunders; 1992:378-390.
+
+<LI>
+Centers for Disease Control. Management of patients with suspected
+viral hemorrhagic fever. MMWR 1988;37(3S):1-16.
+
+<LI>
+Centers for Disease Control. Risks associated with human parvovirus B19
+infection. MMWR 1989;38:81-88,93-97.
+
+<LI>
+Centers for Disease Control. Guidelines for preventing the transmission
+of tuberculosis in health-care settings, with special focus on
+HIV-related issues. MMWR 1990;39(RR-17):1-29.
+
+<LI>
+Centers for Disease Control. Nosocomial transmission of multidrug-
+resistant tuberculosis to health-care workers and HIV-infected patients
+in an urban hospital -- Florida. MMWR 1990;39:718-722.
+
+<LI>
+Centers for Disease Control. Nosocomial transmission of multidrug-
+resistant tuberculosis among HIV-infected persons -- Florida and New
+York, 1988-91. MMWR 1991;40:585-591.
+
+<LI>
+Centers for Disease Control and Prevention. Initial therapy for
+tuberculosis in the era of multidrug resistance: recommendations of the
+Advisory Council for the Elimination of Tuberculosis. MMWR 1993;
+42(RR-7):1-8.
+
+<LI>
+Centers for Disease Control and Prevention. Draft guidelines for
+preventing the transmission of tuberculosis in health-care facilities,
+second edition. Federal Register 1993;58(195):52810-52850.
+
+<LI>
+Centers for Disease Control and Prevention. Guidelines for preventing
+the transmission of tuberculosis in health-care facilities, 1994. MMWR
+1994;43(RR-13):1-132, and Federal Register 1994;59(208):54242-54303.
+
+<LI>
+Centers for Disease Control. Recommendations for preventing
+transmission of infection with human T-lymphotropic virus type
+III/lymphadenopathy-associated virus in the workplace. MMWR 1985;34:
+681-686,691-695.
+
+<LI>
+Centers for Disease Control. Recommendations for preventing
+transmission of infection with human T-lymphotropic virus type
+III/lymphadenopathy-associated virus during invasive procedures. MMWR
+1986;35:221-223.
+
+<LI>
+Centers for Disease Control. Update: human immunodeficiency virus
+infections in health-care workers exposed to blood of infected
+patients. MMWR 1987;36:285-289.
+
+<LI>
+Center for Disease Control. Recommendations for prevention of HIV
+transmission in health-care settings. MMWR 1987;36(2S):1S-18S.
+
+<LI>
+Centers for Disease Control. Update: universal precautions for
+prevention of transmission of human immunodeficiency virus, hepatitis B
+virus, and other bloodborne pathogens in health-care settings. MMWR
+1988;37:377-382,387-388.
+
+<LI>
+Lynch P, Jackson MM, Cummings MJ, Stamm WE. Rethinking the role of
+isolation practices in the prevention of nosocomial infections. Ann
+Intern Med 1987;107:245-246.
+
+<LI>
+Lynch P, Cummings MJ, Roberts PL, Herriott MJ, Yates B, Stamm WE.
+Implementing and evaluating a system of generic infection precautions:
+body substance isolation. Am J Infect Control 1990;18:1-12.
+
+<LI>
+McPherson DC, Jackson MM, Rogers JC. Evaluating the cost of the body
+substance isolation system. J Healthcare Material Mgmt 1988;6:20-28.
+
+<LI>
+Patterson JE, Vecchio J, Pantelick EL, et al. Association of
+contaminated gloves with transmission of Acinetobacter calcoaceticus
+var. anitratus in an intensive care unit. Am J Med 1991;91:479-483.
+
+<LI>
+Klein BS, Perloff WH, Maki DG. Reduction of nosocomial infection during
+pediatric intensive care by protective isolation. N Engl J Med 1989;
+320:1714-1721.
+
+<LI>
+Leclair JM, Freeman J, Sullivan BF, Crowley CM, Goldmann DA. Prevention
+of nosocomial respiratory syncytial virus infections through compliance
+with gown and glove isolation precautions. N Engl J Med 1987;317:
+329-334.
+
+<LI>
+Weinstein RA, Kabins SA. Strategies for prevention and control of
+multiple drug-resistant nosocomial infection. Am J Med 1981;70:449-454.
+
+<LI>
+Garner JS, Hierholzer WJ. Controversies in isolation policies and
+practices. In: Wenzel RP, ed. Prevention and Control of Nosocomial
+Infections. 2nd ed. Baltimore, MD: Williams &amp; Wilkins, 1993:70-81.
+
+<LI>
+Garner JS, Hughes JM. Options for isolation precautions. Ann Intern Med
+1987;107:248-250.
+
+<LI>
+Weinstein RA, Kabins SA. Isolation practices in hospitals. Ann Intern
+Med 1987;107:781-782. Letter.
+
+<LI>
+Doebbeling BN, Pfaller MA, Houston AK, Wenzel RP. Removal of nosocomial
+pathogens from the contaminated glove: implications for glove reuse and
+handwashing. Ann Intern Med 1988;109:394-398.
+
+<LI>
+Sussman GL, Tarlo S, Dolovich J. The spectrum of IgE-mediated response
+to latex. JAMA 1991;255:2844-2847.
+
+<LI>
+Bubak ME, Reed CE, Fransway AF, et al. Allergic reactions to latex
+among health-care workers. Mayo Clin Proc 1992;67:1075-1079.
+
+<LI>
+Albert RK, Condie F. Hand-washing patterns in medical intensive care
+units. N Engl J Med 1981;304:1465-1466.
+
+<LI>
+Preston GA, Larson EL, Stamm WE. The effect of private isolation rooms
+on patient care practices, colonization, and infection in an intensive
+care unit. AM J Med 1981;70:641-645.
+
+<LI>
+Larson E, Leyden JJ, McGinley KJ, Grove GL, Talbot GH. Physiologic and
+microbiologic changes in skin related to frequent handwashing. Infect
+Control 1986;7:59-63.
+
+<LI>
+Department of Labor, Occupational Safety and Health Administration.
+Occupational exposure to bloodborne pathogens; proposed rule and notice
+of hearings. Federal Register 1989;54(102):23042-23139.
+
+<LI>
+Doebbeling BN, Wenzel RP. The direct costs of universal precautions in
+a teaching hospital. JAMA 1990;264:2083-2087.
+
+<LI>
+Eickhoff TC. The cost of prevention. Infect Dis News 1991;4:6.
+
+<LI>
+Fahey BJ, Koziol DE, Banks SM, Henderson DK. Frequency of nonparenteral
+occupational exposures to blood and body fluids before and after
+universal precautions training. Am J Med 1991;90:145-153.
+
+<LI>
+Klein RS. Universal precautions for preventing occupational exposures
+to human immunodeficiency virus type 1. Am J Med 1991;90:141-153.
+
+<LI>
+Wong ES, Stotka JL, Chinchilli VM, Williams DS, Stuart CG, Markowitz
+SM. Are universal precautions effective in reducing the number of
+occupational exposures among healthcare workers? JAMA 1991;265:
+1123-1128.
+
+<LI>
+Department of Labor, Occupational Safety and Health Administration.
+Occupational exposure to bloodborne pathogens; final rule. Federal
+Register 1991;56(235):64175-64182.
+
+<LI>
+American Hospital Association. OSHA's Final Bloodborne Pathogens
+Standard: A Special Briefing. 1992; item no. 155904.
+
+<LI>
+Bruning LM. The bloodborne pathogens final rule. AORN J 1993;57:
+439-461.
+
+<LI>
+Jackson MM, Lynch P. An attempt to make an issue less murky: a
+comparison of four systems for infection precautions. Infect Control
+Hosp Epidemiol 1991;12:448-450.
+
+<LI>
+Pugliese G, Lynch P, Jackson MM. Universal Precautions: Policies,
+Procedures, and Resources. Chicago, IL: American Hospital Association;
+1991:7-87.
+
+<LI>
+Birnbaum D, Schulzer M, Mathias RG, Kelly M, Chow AW. Adoption of
+guidelines for universal precautions and body substance isolation in
+Canadian acute-care hospitals. 1990;11:465-472.
+
+<LI>
+Lynch P, Cummings MJ, Stamm WE, Jackson MM. Handwashing versus gloving.
+Infect Control Hosp Epidemiol 1991;12:139. Letter.
+
+<LI>
+Birnbaum D, Schulzer M, Mathias RG, Kelly M, Chow AW. Handwashing
+versus gloving. Infect Control Hosp Epidemiol 1991;12:140. Letter.
+
+<LI>
+Gurevich I. Body substance isolation. Infect Control Hosp Epidemiol
+1992;13:191. Letter.
+
+<LI>
+Jackson MM, Lynch P. Body substance isolation. Infect Control Hosp
+Epidemiol 1992;13:191-192. Letter.
+
+<LI>
+Rudnick JR, Kroc K, Manangan L, Banerjee S, Pugliese G, Jarvis W. Are
+US hospitals prepared to control nosocomial transmission of
+tuberculosis? Epidemic Intelligence Service Annual Conference, 1993;60.
+Abstract.
+
+<LI>
+Institute of Medicine. Emerging Infections: Microbial Threats to Health
+in the United States. 1st ed. Washington, DC: National Academy Press,
+1992.
+
+<LI>
+Centers for Disease Control and Prevention. Nosocomial enterococci
+resistant to vancomycin -- United States, 1989-1983. MMWR 1993;42:
+597-599.
+
+<LI>
+Lowbury EJL, Lilly HA, Bull JP. Disinfection of hands: removal of
+transient organisms. Br Med J 1964;2:230-233.
+
+<LI>
+Sprunt K, Redmon W, Leidy G. Antibacterial effectiveness of routine
+handwashing. Pediatrics 1973;52:264-271.
+
+<LI>
+Steere AC, Mallison GF. Handwashing practices for the prevention of
+nosocomial infections. Ann Intern Med 1975;83:683-690.
+
+<LI>
+Food and Drug Administration. The tentative final monograph for
+over-the-counter topical antimicrobial products. Federal Register
+1978;43:1210-1249.
+
+<LI>
+Garner JS, Favero MS. Guidelines for Handwashing and Hospital
+Environmental Control. Atlanta, GA: US Department of Health and Human
+Services, Public Health Service, Centers for Disease Control; 1985.
+
+<LI>
+Larson E. APIC guideline for use of topical antimicrobial products. Am
+J Infect Control 1988;16:253-266.
+
+<LI>
+Ehrenkranz NJ. Bland soap handwash or hand antisepsis? The pressing
+need for clarity. Infect Control Hosp Epidemiol 1992;13:299-301.
+
+<LI>
+Larson E. Skin cleansing. In: Wenzel RP, ed. Prevention and Control of
+Nosocomial Infections. 2nd ed. Baltimore, MD: Williams &amp; Wilkins,
+1993:450-459.
+
+<LI>
+Larson EL, 1992, 1993, and 1994 Association for Professionals in
+Infection Control and Epidemiology Guidelines Committee. APIC guideline
+for handwashing and hand antisepsis in health care settings. Am J
+Infect Control 1995;23:251-269.
+
+<LI>
+Paulssen J, Eidem T, Kristiansen R. Perforations in surgeons' gloves. J
+Hosp Infect 1988;11:82-85.
+
+<LI>
+DeGroot-Kosolcharoen J, Jones JM. Permeability of latex and vinyl
+gloves to water and blood. Am J Infect Control 1989;17:196-201.
+
+<LI>
+Kotilainen HR, Brinker JP, Avato JL, Gantz NM. Latex and vinyl
+examination gloves: quality control procedures and implications for
+healthcare workers. Arch Intern Med 1989;149:2749-2753.
+
+<LI>
+Olsen RJ, Lynch P, Coyle MB, Cummings MJ, Bokete T, Stamm WE.
+Examination gloves as barriers to hand contamination and clinical
+practice. JAMA 1993;270:350-353.
+
+<LI>
+Health Resources and Services Administration. Guidelines for
+Construction and Equipment of Hospital and Medical Facilities.
+Rockville, Maryland: US Department of Health and Human Services. Public
+Health Service, 1984. PHS publication no. (HRSA)84-14500.
+
+<LI>
+American Institute of Architects, Committee on Architecture for Health.
+General hospital. In: Guidelines for Construction and Equipment of
+Hospital and Medical Facilities. Washington, DC: The American Institute
+of Architects Press; 1993.
+
+<LI>
+American Society of Heating, Refrigerating, and Air Conditioning
+Engineers. Health facilities. In: 1991 Application Handbook. Atlanta,
+GA: American Society of Heating, Refrigerating, and Air Conditioning
+Engineers, Inc; 1991.
+
+<LI>
+Jarvis WR, Bolyard EA, Bozzi CJ, et al. Respirators, recommendations,
+and regulations: the controversy surrounding protection of health care
+workers from tuberculosis. Ann Intern Med 1995;122:142-146.
+
+<LI>
+Department of Health and Human Services, Department of Labor.
+Respiratory protective devices: final rules and notice. Federal
+Register 1995;60(110):30336-30402.
+
+<LI>
+Rutula WA, Mayhall CG. The Society for Hospital Epidemiology of America
+position paper: medical waste. Infect Control Hosp Epidemiol
+1992;13:38-48.
+
+<LI>
+Rhame FS. The inanimate environment. In: Bennett JV, Brachman PS, eds.
+Hospital Infections. 3rd ed. Boston, MA: Little, Brown and Co; 1992:
+299-333.
+
+<LI>
+Rutula WA. Disinfection, sterilization, and waste disposal. In: Wenzel
+RP, ed. Prevention and Control of Nosocomial Infections. 2nd ed.
+Baltimore, MD: Williams &amp; Wilkins. 1993:460-495.
+
+<LI>
+Maki DG, Alvarado C, Hassemer C. Double-bagging of items from isolation
+rooms is unnecessary as an infection control measure: a comparative
+study of surface contamination with single and double bagging. Infect
+Control 1986;7:535-537.
+
+<LI>
+American Society for Healthcare Central Services. Recommended Practices
+for Central Service: Sterilization. Chicago, IL: American Hospital
+Association; 1988.
+
+<LI>
+American Society for Healthcare Central Services. Recommended Practices
+for Central Service: Decontamination. Chicago, IL: American Hospital
+Association; 1900.
+
+<LI>
+Rutula WA. APIC guideline for selection and use of disinfectants. Am J
+Infect Control 1990;18:99-117.
+
+<LI>
+Bond WW, Ott BJ, Franke KA, McCracken JE. Effective use of liquid
+chemical germicides on medical devices: instrument design problems. In:
+Block SS, ed. Disinfection, Sterilization, and Preservation. 4th ed.
+Philadelphia, PA: Lea and Febiger, 1991:1097-1106.
+
+<LI>
+Favero MS, Bond WW. Sterilization, disinfection, and antisepsis. In:
+Ballows A, Hausler WJ, Herrmann KL, Isenberg HO, Shadomy HJ, eds.
+Manual of Clinical Microbiology. 5th ed. Washington, DC: American
+Society for Microbiology; 1991:183-200.
+
+<LI>
+Favero MS, Bond WW. Chemical disinfection of medical and surgical
+materials. In: Block SS, ed. Disinfection, Sterilization, and
+Preservation. 4th ed. Philadelphia, PA: Lea and Febiger. 1991:617-641.
+
+<LI>
+Pugliese G, Hunstiger CA. Central services, linens, and laundry. In:
+Bennett JV, Brachman PS, eds. Hospital Infections. 3rd ed. Boston, MA:
+Little, Brown and Co; 1992:335-344.
+
+<LI>
+Joint Committee on Healthcare Laundry Guidelines. Guidelines for
+Healthcare Linen Service -- 1994. Hallandale, FL: Textile Rental
+Services Association of America; 1994.
+
+<LI>
+Hospital Infection Control Practices Advisory Committee.
+Recommendations for preventing the spread of vancomycin resistance. Am
+J Infect Control 1995;23:87-94, Infect Control Hosp Epidemiol
+1995;16:105-113, and MMWR 1995;44(No. RR-12):1-13.
+
+<LI>
+Tablan OC, Anderson LJ, Arden NH, Breiman RF, Butler JC, McNeil MM.
+Hospital Infection Control Practices Advisory Committee. Guideline for
+prevention of nosocomial pneumonia. Part I: issues on prevention of
+nosocomial pneumonia -- 1994. Am J Infect Control 1994;22:247-266,
+Infect Control Hosp Epidemiol 1994;15:587-604, and American Association
+of Respiratory Care 1994;12:1191-1209.
+
+<LI>
+Hospital Infection Control Practices Advisory Committee. Guideline for
+prevention of nosocomial pneumonia. Part II: recommendations for
+prevention of nosocomial pneumonia. Am J Infect Control 1994;22:
+266-292, Infect Control Hosp Epidemiol 1994;15:604-627, and American
+Association of Respiratory Care 1994;12:1209-1236.
+
+<LI>
+Centers for Disease Control and Prevention. Update: management of
+patients with suspected viral hemorrhagic fever -- United States. MMWR
+1995;44:475-479.
+
+</OL>
+<HR>
+
+<A NAME="head006000000000000"></A>
+<H2>APPENDIX A</H2>
+
+Type and Duration of Precautions Needed for Selected Infections and
+Conditions
+<P>
+
+<A HREF="#Table_AA">Table AA</A><BR>
+<HR>
+
+<A NAME="head007000000000000"></A>
+<H2>POINT OF CONTACT FOR THIS DOCUMENT:</H2>
+To request a copy of this document or for questions concerning this
+document, please contact the person or office listed below. If
+requesting a document, please specify the complete name of the
+document as well as the address to which you would like it mailed.
+Note that if a name is listed with the address below, you may wish
+to contact this person via CDC WONDER/PC e-mail.<BR>
+HOSPITAL INFECTIONS PROGRAM<BR>
+CDC/NCID/HIP MS E-69<BR>
+1600 Clifton Rd N.E.<BR>
+Atlanta, GA 30333<BR>
+
+<HR>
+
+<A NAME="Table_1"></A>
+<H3>Table 1</H3>
+<PRE>TABLE 1
+SYNOPSIS OF TYPES OF PRECAUTIONS AND PATIENTS REQUIRING THE PRECAUTIONS *
+============================================================================================================================================
+
+Standard Precautions
+    Use Standard Precautions for the care of all patients
+
+Airborne Precautions
+    In addition to Standard Precautions, use Airborne Precautions for patients known or suspected to have serious illnesses
+  transmitted by airborne droplet nuclei. Examples of such illnesses include:
+        Measles
+        Varicella (including disseminated zoster) +
+        Tuberculosis ++
+
+Droplet Precautions
+    In addition to Standard Precautions, use Droplet Precautions for patients known or suspected to have serious illnesses
+  transmitted by large particle droplets. Examples of such illnesses include:
+        Invasive Haemophilus influenzae type b disease, including meningitis, pneumonia, epiglottitis, and sepsis
+        Invasive Neisseria meningitidis disease, including meningitis, pneumonia, and sepsis
+        Other serious bacterial respiratory infections spread by droplet transmission, including:
+            Diphtheria (pharyngeal)
+            Mycoplasma pneumonia
+            Pertussis
+            Pneumonic plague
+            Streptococcal pharyngitis, pneumonia, or scarlet fever in infants and young children
+        Serious viral infections spread by droplet transmission, including:
+            Adenovirus +
+            Influenza
+            Mumps
+            Parvovirus B19
+            Rubella
+
+Contact Precautions
+    In addition to Standard Precautions, use Contact Precautions for patients known or suspected to have serious illnesses easily
+  transmitted by direct patient contact or by contact with items in the patient's environment. Examples of such illnesses include:
+        Gastrointestinal, respiratory, skin, or wound infections or colonization with multidrug-resistant bacteria judged by the infection
+          control program, based on current state, regional, or national recommendations, to be of special clinical and epidemiologic
+          significance
+        Enteric infections with a low infectious dose or prolonged environmental survival, including:
+            Clostridium difficile
+            For diapered or incontinent patients: enterohemorrhagic Escherichia coil O157:H7, Shigella, hepatitis A, or rotavirus
+        Respiratory syncytial virus, parainfluenza virus, or enteroviral infections in infants and young children
+        Skin infections that are highly contagious or that may occur on dry skin, including:
+            Diphtheria (cutaneous)
+            Herpes simplex virus (neonatal or mucocutaneous)
+            Impetigo
+            Major (noncontained) abscesses, cellulitis, or decubiti
+            Pediculosis
+            Scabies
+            Staphylococcal furunculosis in infants and young children
+            Zoster (disseminated or in the immunocompromised host) +
+        Viral/hemorrhagic conjunctivitis
+        Viral hemorrhagic infections (Ebola, Lassa, or Marburg) *
+
+------------------------------------------------------------------------------------------------------------------------------------------
+ * See Appendix A for a complete listing of infections requiring precautions, including appropriate footnotes.
+ + Certain infections require more than one type of precaution.
+++ See CDC &quot;Guidelines for Preventing the Transmission of Tuberculosis in Health-Care Facilities.&quot; (23)
+============================================================================================================================================
+
+</PRE>
+<HR>
+
+<A NAME="Table_2"></A>
+<H3>Table 2</H3>
+<PRE>TABLE 2
+CLINICAL SYNDROMES OR CONDITIONS WARRANTING ADDITIONAL EMPIRIC PRECAUTIONS TO PREVENT TRANSMISSION OF
+EPIDEMIOLOGICALLY IMPORTANT PATHOGENS PENDING CONFIRMATION OF DIAGNOSIS *
+============================================================================================================================================================================
+                                                                                                                 Empiric
+Clinical Syndrome or Condition +                                                   Potential Pathogens ++        Precautions
+-------------------------------------------------------------------------------------------------------------------------------------
+Diarrhea
+    Acute diarrhea with a likely infectious cause in an incontinent or             Enteric Pathogens &amp;           Contact
+      diapered patient
+    Diarrhea in an adult with a history of recent antibiotic use                   Clostridium difficile         Contact
+
+Meningitis                                                                         Neisseria meningitidis        Droplet
+
+Rash or exanthems, generalized, etiology unknown
+    Petechial/ecchymotic with fever                                                Neisseria meningitidis        Droplet
+    Vesicular                                                                      Varicella                     Airborne and contact
+    Maculopapular with coryza and fever                                            Rubeola (measles)             Airborne
+
+Respiratory infections
+    Cough/fever/upper lobe pulmonary infiltrate in an HIV-negative                 Mycobacterium tuberculosis    Airborne
+      patient or a patient at low risk for HIV infection
+    Cough/fever/pulmonary infiltrate in any lung location in an                    Mycobacterium tuberculosis    Airborne
+      HIV-infected patient or a patient at high risk for HIV infection (23)
+    Paroxysmal or severe persistent cough during periods of                        Bordetella pertussis          Droplet
+      pertussis activity
+    Respiratory infections, particularly bronchiolitis and croup, in infants       Respiratory syncytial or      Contact
+      and young children                                                             parainfluenza virus
+
+Risk of multidrug-resistant microorganisms
+    History of infection or colonization with multidrug-resistant organisms @      Resistant bacteria            Contact
+    Skin, wound, or urinary tract infection in a patient with a recent hospital    Resistant bacteria            Contact
+      or nursing home stay in a facility where multidrug-resistant
+      organisms are prevalent
+
+Skin or Wound Infection
+    Abscess or draining wound that cannot be covered                               Staphylococcus aureus,        Contact
+                                                                                     Group A streptococcus
+
+-------------------------------------------------------------------------------------------------------------------------------------
+ * Infection control professionals are encouraged to modify or adapt this table according to local conditions. To ensure that appropriate empiric precautions are
+   implemented always, hospitals must have systems in place to evaluate patients routinely according to these criteria as part of their preadmission and admission care.
+ + Patients with the syndromes or conditions listed below may present with atypical signs or symptoms  (eg, pertussis in neonates and adults may not have paroxysmal or
+   severe cough). The clinician's index of suspicion should be guided by the prevalence of specific conditions in the community, as well as clinical judgment.
+++ The organisms listed under the column &quot;Potential Pathogens&quot; are not intended to represent the complete, or even most likely, diagnoses, but rather possible etiologic
+   agents that require additional precautions beyond Standard Precautions until they can be ruled out.
+ &amp; These pathogens include enterohemorrhagic Escherichia coli O157:H7, Shigella, hepatitis A, and rotavirus.
+ @ Resistant bacteria judged by the infection control program, based on current state, regional, or national recommendations, to be of special clinical or epidemiological
+   significance.
+============================================================================================================================================================================
+
+</PRE>
+<HR>
+
+<A NAME="Table_AA"></A>
+<H3>Table AA</H3>
+<PRE>APPENDIX A
+Type and Duration of Precautions Needed for Selected Infections and Conditions
+=======================================================================================================================================================================================
+                                                                                                          Precautions
+                                                                                                      --------------------
+Infection/Condition                                                                                   Type *    Duration +
+--------------------------------------------------------------------------------------------------------------------------
+Abscess
+  Draining, major (1)                                                                                 C         DI
+  Draining, minor or limited (2)                                                                      S
+Acquired immunodeficiency syndrome (3)                                                                S
+Actinomycosis                                                                                         S
+Adenovirus infection, in infants and young children                                                   D,C       DI
+Amebiasis                                                                                             S
+Anthrax
+  Cutaneous                                                                                           S
+  Pulmonary                                                                                           S
+Antibiotic-associated colitis (see Clostridium difficile)
+Arthropodborne viral encephalitides (eastern, western,
+  Venezuelan equine encephalomyelitis; St. Louis, California encephalitis)                            S (4)
+Arthropodborne viral fevers (dengue, yellow fever, Colorado tick fever)                               S (4)
+Ascariasis                                                                                            S
+Aspergillosis                                                                                         S
+Babesiosis                                                                                            S
+Blastomycosis, North American, cutaneous or pulmonary                                                 S
+Botulism                                                                                              S
+Bronchiolitis (see respiratory infections in infants and young children)
+Brucellosis (undulant, Malta, Mediterranean fever)                                                    S
+Campylobacter gastroenteritis (see gastroenteritis)
+Candidiasis, all forms including mucocutaneous                                                        S
+Cat-scratch fever (benign inoculation lymphoreticulosis)                                              S
+Cellulitis, uncontrolled drainage                                                                     C         DI
+Chancroid (soft chancre)                                                                              S
+Chickenpox (varicella; see F (5) for varicella exposure)                                              A,C       F (5)
+Chlamydia trachomatis
+  Conjunctivitis                                                                                      S
+  Genital                                                                                             S
+  Respiratory                                                                                         S
+Cholera (see gastroenteritis)
+Closed-cavity infection
+  Draining, limited or minor                                                                          S
+  Not draining                                                                                        S
+Clostridium
+  C botulinum                                                                                         S
+  C difficile                                                                                         C         DI
+  C perfringens
+  Food poisoning                                                                                      S
+  Gas gangrene                                                                                        S
+Coccidioidomycosis (valley fever)
+  Draining lesions                                                                                    S
+  Pneumonia                                                                                           S
+Colorado tick fever                                                                                   S
+Congenital rubella                                                                                    C         F (6)
+Conjunctivitis
+  Acute bacterial                                                                                     S
+  Chlamydia                                                                                           S
+  Gonococcal                                                                                          S
+  Acute viral (acute hemorrhagic)                                                                     C         DI
+Coxsackievirus disease (see enteroviral infection)
+Creutzfeldt-Jakob disease                                                                             S (7)
+Croup (see respiratory infections in infants and young children)
+Cryptococcosis                                                                                        S
+Cryptosporidiosis (see gastroenteritis)
+Cysticercosis                                                                                         S
+Cytomegalovirus infection, neonatal or immunosuppressed                                               S
+Decubitus ulcer, infected
+  Major (1)                                                                                           C         DI
+  Minor or limited (2)                                                                                S
+Dengue                                                                                                S (4)
+Diarrhea, acute -- infective etiology suspected (see gastroenteritis)
+Diphtheria
+  Cutaneous                                                                                           C         CN (8)
+  Pharyngeal                                                                                          D         CN (8)
+Ebola viral hemorrhagic fever                                                                         C (9)     DI
+Echinococcosis (hydatidosis)                                                                          S
+Echovirus (see enteroviral infection)
+Encephalitis or encephalomyelitis (see specific etiologic agents)
+Endometritis                                                                                          S
+Enterobiasis (pinworm disease, oxyuriasis)                                                            S
+Enterococcus species (see multidrug-resistant organisms if
+  epidemiologically significant or vancomycin resistant)
+Enterocolitis, Clostridium difficile                                                                  C         DI
+Enteroviral infections
+  Adults                                                                                              S
+  Infants and young children                                                                          C         DI
+Epiglottitis, due to Haemophilus influenzae                                                           D         U (24 hrs)
+Epstein-Barr virus infection, including infectious mononucleosis                                      S
+Erythema infectiosum (also see Parvovirus B19)                                                        S
+Escherichia coli gastroenteritis (see gastroenteritis)
+Food poisoning
+  Botulism                                                                                            S
+  Clostridium perfringens or welchii                                                                  S
+  Staphylococcal                                                                                      S
+Furunculosis -- staphylococcal
+  Infants and young children                                                                          C         DI
+Gangrene (gas gangrene)                                                                               S
+Gastroenteritis
+  Campylobacter species                                                                               S (10)
+  Cholera                                                                                             S (10)
+  Clostridium difficile                                                                               C         DI
+  Cyptosporidium species                                                                              S (10)
+  Escherichia coli
+    Enterohemorrhagic O157:H7                                                                         S (10)
+      Diapered or incontinent                                                                         C         DI
+    Other species                                                                                     S (10)
+  Giardia lamblia                                                                                     S (10)
+  Rotavirus                                                                                           S (10)
+    Diapered or incontinent                                                                           C         DI
+  Salmonella species including S typhi)                                                               S (10)
+  Shigella species                                                                                    S (10)
+    Diapered or incontinent                                                                           C         DI
+  Vibrio parahaemolyticus                                                                             S (10)
+  Viral (if not covered elsewhere)                                                                    S (10)
+  Yersinia enterocolitica                                                                             S (10)
+German measles (rubella)                                                                              D         F (22)
+Giardiasis (see gastroenteritis)
+Gonococcal ophthalmia neonatorum (gonorrheal opthalmia,
+  acute conjunctivitis of newborn)                                                                    S
+Gonorrhea                                                                                             S
+Granuloma inguinale (donovanosis, granuloma venereum)                                                 S
+Guillain-Barre syndrome                                                                               S
+Hand, foot, and mouth disease (see enteroviral infection)
+Hantavirus pulmonary syndrome                                                                         S
+Helicobacter pylori                                                                                   S
+Hemorrhagic fevers (for example, Lassa and Ebola)                                                     C (9)     DI
+Hepatitis, viral
+  Type A                                                                                              S
+    Diapered or incontinent patients                                                                  C         F (11)
+  Type B -- HBsAg positive                                                                            S
+  Type C and other unspecified non-A, non-B                                                           S
+  Type E                                                                                              S
+Herpangina (see enteroviral infection)
+Herpes simplex (Herpesvirus hominis)
+  Encephalitis                                                                                        S
+  Neonatal (12) (see F (12) for neonatal exposure)                                                    C         DI
+  Mucocutaneous, disseminated or primary, severe                                                      C         DI
+  Mucocutaneous, recurrent (skin, oral, genital)                                                      S
+Herpes zoster (varicella-zoster)
+  Localized in immunocompromised patient, or disseminated                                             A,C       DI (13)
+  Localized in normal patient                                                                         S (13)
+Histoplasmosis                                                                                        S
+HIV (see human immunodeficiency virus)                                                                S
+Hookworm disease (ancylostomiasis, uncinariasis)                                                      S
+Human immunodeficiency virus (HIV) infection (3)                                                      S
+Impetigo                                                                                              C         U (24 hrs)
+Infectious mononucleosis                                                                              S
+Influenza                                                                                             D (14)    DI
+Kawasaki syndrome                                                                                     S
+Lassa fever                                                                                           C (9)     DI
+Legionnaires' disease                                                                                 S
+Leprosy                                                                                               S
+Leptospirosis                                                                                         S
+Lice (pediculosis)                                                                                    C         U (24)
+Listeriosis                                                                                           S
+Lyme disease                                                                                          S
+Lymphocytic choriomeningitis                                                                          S
+Lymphogranuloma venereum                                                                              S
+Malaria                                                                                               S (4)
+Marburg virus disease                                                                                 C (9)     DI
+Measles (rubeola), all presentations                                                                  A         DI
+Melioidosis, all forms                                                                                S
+Meningitis                                                                                            S
+  Aseptic (nonbacterial or viral meningitis {also see enteroviral infections})
+  Bacterial, gram-negative enteric, in neonates                                                       S
+  Fungal                                                                                              S
+  Haemophilus influenzae, known or suspected                                                          D         U (24 hrs)
+  Listeria monocytogenes                                                                              S
+  Neisseria meningitidis (meningococcal) known or suspected                                           D         U (24 hrs)
+  Pneumococcal                                                                                        S
+  Tuberculosis (15)                                                                                   S
+  Other diagnosed bacterial                                                                           S
+Meningococcal pneumonia                                                                               D         U (24 hrs)
+Meningococcemia (meningococcal sepsis)                                                                D         U (24 hrs)
+Molluscum contagiosum                                                                                 S
+Mucormycosis                                                                                          S
+Multidrug-resistant organisms, infection or colonization (16)
+  Gastrointestinal                                                                                    C         CN
+  Respiratory                                                                                         C         CN
+    Pneumococcal                                                                                      S
+  Skin, wound, or burn                                                                                C         CN
+Mumps (infectious parotitis)                                                                          D         F (17)
+Mycobacteria, nontuberculosis (atypical)
+  Pulmonary                                                                                           S
+  Wound                                                                                               S
+Mycoplasma pneumonia                                                                                  D         DI
+Necrotizing enterocolitis                                                                             S
+Nocardiosis, draining lesions or other presentations                                                  S
+Norwalk agent gastroenteritis (see viral gastroenteritis)
+Orf                                                                                                   S
+Parainfluenza virus infection, respiratory in infants and young children                              C         DI
+Parvovirus B19                                                                                        D         F (18)
+Pediculosis (lice)                                                                                    C         U (24 hrs)
+Pertussis (whooping cough)                                                                            D         F (19)
+Pinworm infection                                                                                     S
+Plague
+  Bubonic                                                                                             S
+  Pneumonic                                                                                           D         U (72 hrs)
+Pleurodynia (see enteroviral infection)
+Pneumonia
+  Adenovirus                                                                                          D,C       DI
+  Bacterial not listed elsewhere (including gram-negative bacterial)                                  S
+  Burkholderia cepacia in cystic fibrosis (CF) patients, including respiratory tract colonization     S (20)
+  Chlamydia                                                                                           S
+  Fungal                                                                                              S
+  Haemophilus influenzae
+    Adults                                                                                            S
+    Infants and children (any age)                                                                    D         U (24 hrs)
+  Legionella                                                                                          S
+  Meningococcal                                                                                       D         U (24 hrs)
+  Multidrug-resistant bacterial (see multidrug-resistant organisms)
+  Mycoplasma (primary atypical pneumonia)                                                             D         DI
+    Pneumococcal
+    Multidrug-resistant (see multidrug-resistant organisms)
+  Pneumocystis carinii                                                                                S (21)
+  Pseudomonas cepacia (see Burkholderia cepacia)                                                      S (20)
+  Staphylococcus aureus                                                                               S
+  Streptococcus, Group A
+    Adults                                                                                            S
+    Infants and young children                                                                        D         U (24 hrs)
+  Viral
+    Adults                                                                                            S
+    Infants and young children (see respiratory infectious disease, acute)
+Poliomyelitis                                                                                         S
+Psittacosis (ornithosis)                                                                              S
+Q fever                                                                                               S
+Rabies                                                                                                S
+Rat-bite fever (Streptobacillus moniliformis disease, Spirillum minus disease)                        S
+Relapsing fever                                                                                       S
+Resistant bacterial infection or colonization (see multidrug-resistant organisms)
+Respiratory infectious disease, acute (if not covered elsewhere)
+  Adults                                                                                              S
+  Infants and young children (3)                                                                      C         DI
+Respiratory syncytial virus infection, in infants and young children, and immunocompromised adults    C         DI
+Reye's syndrome                                                                                       S
+Rheumatic fever                                                                                       S
+Rickettsial fevers, tickborne (Rocky Mountain spotted fever, tickborne typhus fever)                  S
+Rickettsialpox (vesicular rickettsiosis)                                                              S
+Ringworm (dermatophytosis, dermatomycosis, tinea)                                                     S
+Ritter's disease (staphylococcal scalded skin syndrome)                                               S
+Rocky Mountain spotted fever                                                                          S
+Roseola infantum (exanthem subitum)                                                                   S
+Rotavirus infection (see gastroenteritis)
+Rubella (German measles; also see congenital rubella)                                                 D         F (22)
+Salmonellosis (see gastroenteritis)
+Scabies                                                                                               C         U (24 hrs)
+Scalded skin syndrome, staphylococcal (Ritter's disease)                                              S
+Schistosomiasis (bilharziasis)                                                                        S
+Shigellosis (see gastroenteritis)
+Sporotrichosis                                                                                        S
+Spirillum minus disease (rat-bite fever)                                                              S
+Staphylococcal disease (S aureus)                                                                     S
+  Skin, wound, or burn
+    Major (1)                                                                                         C         DI
+    Minor or limited (2)                                                                              S
+  Enterocolitis                                                                                       S (10)
+  Multidrug-resistant (see multidrug-resistant organisms)
+  Pneumonia                                                                                           S
+  Scalded skin syndrome                                                                               S
+  Toxic shock syndrome                                                                                S
+Streptobacillus moniliformis disease (rat-bite fever)                                                 S
+Streptococcal disease (group A streptococcus)
+  Skin, wound, or burn
+    Major (1)                                                                                         C         U (24 hrs)
+    Minor or limited (2)                                                                              S
+  Endometritis (puerperal sepsis)                                                                     S
+  Pharyngitis in infants and young children                                                           D         U (24 hrs)
+  Pneumonia in infants and young children                                                             D         U (24 hrs)
+  Scarlet fever in infants and young children                                                         D         U (24 hrs)
+Streptococcal disease (group B streptococcus), neonatal                                               S
+Streptococcal disease (not group A or B) unless covered elsewhere                                     S
+  Multidrug-resistant (see multidrug-resistant organisms)
+Strongyloidiasis                                                                                      S
+Syphilis
+  Skin and mucous membrane, including congenital, primary, secondary                                  S
+  Latent (tertiary) and seropositivity without lesions                                                S
+Tapeworm disease
+  Hymenolepis nana                                                                                    S
+  Taenia solium (pork)                                                                                S
+  Other                                                                                               S
+Tetanus                                                                                               S
+Tinea (fungus infection dermatophytosis, dermatomycosis, ringworm)                                    S
+Toxoplasmosis                                                                                         S
+Toxic shock syndrome (staphylococcal disease)                                                         S
+Trachoma, acute                                                                                       S
+Trench mouth (Vincent's angina)                                                                       S
+Trichinosis                                                                                           S
+Trichomoniasis                                                                                        S
+Trichuriasis (whipworm disease)                                                                       S
+Tuberculosis
+  Extrapulmonary, draining lesion (including scrofula)                                                S
+  Extrapulmonary, meningitis (15)                                                                     S
+  Pulmonary, confirmed or suspected or laryngeal disease                                              A         F (23)
+  Skin-test positive with no evidence of current pulmonary disease                                    S
+Tularemia
+  Draining lesion                                                                                     S
+  Pulmonary                                                                                           S
+Typhoid (Salmonella typhi) fever (see gastroenteritis)
+Typhus, endemic and epidemic                                                                          S
+Urinary tract infection (including pyelonephritis), with or without urinary catheter                  S
+Varicella (chickenpox)                                                                                A,C       F (5)
+Vibrio parahaemolyticus (see gastroenteritis)
+Vincent's angina (trench mouth)                                                                       S
+Viral diseases
+  Respiratory (if not covered elsewhere)
+    Adults                                                                                            S
+    Infants and young children (see respiratory infectious disease, acute)
+Whooping cough (pertussis)                                                                            D         F (19)
+Wound infections
+  Major (1)                                                                                           C         DI
+  Minor or limited (2)                                                                                S
+Yersinia enterocolitica gastroenteritis (see gastroenteritis)
+  Localized in immunocompromised patient, disseminated                                                A,C       DI (13)
+  Localized in normal patient                                                                         S (13)
+Zygomycosis (phycomycosis, mucormycosis)                                                              S
+Zoster (varicella-zoster)
+--------------------------------------------------------------------------------------------------------------------------
+Abbreviations: type of precautions: A, Airborne; C, Contact; D, Droplet; S, Standard; when A, C, and D are specified, also use S.
+
++ Duration of precautions: CN, until off antibiotics and culture-negative; DH, duration of hospitalization; DI duration of illness (with wound lesions, DI means until they
+  stop draining); U, until time specified in hours (hrs) after initiation of effective therapy; F, see footnote number.
+
+ (1) No dressing or dressing does not contain drainage adequately.
+ (2) Dressing covers and contains drainage adequately.
+ (3) Also see syndromes of conditions listed in Table 2.
+ (4) Install screens in windows and doors in endemic areas.
+ (5) Maintain precautions until all lesions are crusted. The average incubation period for varicella is 10 to 16 days, with a range of 10 to 21 days. After exposure, use
+     varicella zoster immune globin (VZIG) when appropriate, and discharge susceptible patients if possible. Place exposed susceptible patients on Airborne Precautions beginning
+     10 days after exposure and continuing until 21 days after last exposure (up to 28 days if VZIG has been given). Susceptible persons should not enter the room of patients
+     on precautions if other immune caregivers are available.
+ (6) Place infant on precautions during any admission until 1 year of age, unless nasopharyngeal and urine cultures are negative for virus after age 3 months.
+ (7) Additional special precautions are necessary for handling and decontamination of blood, body fluids and tissues, and contaminated items from patients with confirmed
+     or suspected disease. See latest College of American Pathologists (Northfield, Illinois) guidelines or other references.
+ (8) Until two cultures taken at least 24 hours apart are negative.
+ (9) Call state health department and CDC for specific advice about management of a suspected case. During the 1995 Ebola outbreak in Zaire, interim recommendations
+     were published. (97) Pending a comprehensive review of the epidemiologic data from the outbreak and evaluation of the interim recommendations, the 1988 guidelines for
+     management of patients with suspected viral hemorrhagic infections (16) will be reviewed and updated if indicated.
+(10) Use Contact Precautions for diapered or incontinent children &lt;6 years of age for duration of illness.
+(11) Maintain precautions in infants and children &lt;3 years of age for duration of hospitalization; in children 3 to 14 years of age, until 2 weeks after onset of symptoms; and
+     in others, until 1 week after onset of symptoms.
+(12) For infants delivered vaginally or by C-section and if mother has active infection and membranes have been ruptured for more than 4 to 6 hours.
+(13) Persons susceptible to varicella are also at risk for developing varicella when exposed to patients with herpes zoster lesions; therefore, susceptibles should not enter the
+     room if other immune caregivers are available.
+(14) The &quot;Guideline for Prevention of Nosocomial Pneumonia&quot; (95,96) recommends surveillance, vaccination, antiviral agents, and use of private rooms with negative air
+     pressure as much as feasible for patients for whom influenza is suspected or diagnosed. Many hospitals encounter logistic difficulties and physical plant limitations when
+     admitting multiple patients with suspected influenza during community outbreaks. If sufficient private rooms are unavailable, consider cohorting patients or, at the very least,
+     avoid room sharing with high-risk patients. See &quot;Guideline for Prevention of Nosocomial Pneumonia&quot; (95,96) for additional prevention and control strategies.
+(15) Patient should be examined for evidence of current (active) pulmonary tuberculosis. If evidence exists, additional precautions are necessary (see tuberculosis).
+(16) Resistant bacteria judged by the infection control program, based on current state, regional, or national recommendations, to be of special clinical and epidemiologic
+     significance.
+(17) For 9 days after onset of swelling.
+(18) Maintain precautions for duration of hospitalization when chronic disease occurs in an immunodeficient patient. For patients with transient aplastic crisis or red-cell
+     crisis, maintain precautions for 7 days.
+(19) Maintain precautions until 5 days after patient is placed on effective therapy.
+(20) Avoid cohorting or placement in the same room with a CF patient who is not infected or colonized with B cepacia. Persons with CF who visit or provide care and are
+     not infected or colonized with B cepacia may elect to wear a mask when within 3 ft of a colonized or infected patient.
+(21) Avoid placement in the same room with an immunocompromised patient.
+(22) Until 7 days after onset of rash.
+(23) Discontinue precautions only when TB patient is on effective therapy, is improving clinically, and has three consecutive negative sputum smears collected on different
+     days, or TB is ruled out. Also see CDC &quot;Guidelines for Preventing the Transmission of Tuberculosis in Health-Care Facilities.&quot; (23)
+=======================================================================================================================================================================================
+
+
+</PRE>
+<br><br>
+<hr>
+</blockquote>
+<center>
+<div class=foot2>
+This page last reviewed: 
+Wednesday, August 29, 2007
+</div> <!-- end of foot2 -->
+    <TABLE class="cdc-footer noprint" width="100%" border="0" cellpadding="0" cellspacing="0">
+        <TR>
+			<TD class="ftrBar"><IMG src="/images/CDC/s.gif" height="1" width="100%" border="0" alt="" /></TD>
+        </TR>
+        <TR>
+			<TD class="bgftrTop"><IMG src="/images/CDC/s.gif" height="3" width="1" border="0" alt="" /></TD>
+        </TR>
+
+        <TR>
+			<TD class="bgftrTop" align="left">
+				<TABLE border="0" cellpadding="0" cellspacing="0">
+					<TR>
+						<TD class="txtFtr" align="center" width="12">&nbsp;</TD>
+						<TD class="txtFtr" align="center">
+							<A href="http://www.cdc.gov/index.htm">Home</A></TD>
+						
+						<TD class="txtFtr" align="center" width="20">|</TD>
+
+						<TD class="txtFtr" align="center">
+							<A href="http://www.cdc.gov/doc.do/id/0900f3ec800cb856">Policies and Regulations</A></TD>
+						
+						<TD class="txtFtr" align="center" width="20">|</TD>
+						<TD class="txtFtr" align="center">
+							<A href="http://www.cdc.gov/disclaimer.htm">Disclaimer</A></TD>
+						<TD class="txtFtr" align="center" width="20">|</TD>
+						<TD class="txtFtr" align="center">
+
+							<A href="http://www.cdc.gov/doc.do/id/0900f3ec801153ff">e-Government</A></TD>
+						<TD class="txtFtr" align="center" width="20">|</TD>
+						<TD class="txtFtr" align="center">
+							<A href="http://www.cdc.gov/od/foia/foi.htm">FOIA</A></TD>
+						<TD class="txtFtr" align="center" width="20">|</TD>
+						<TD class="txtFtr" align="center">
+							<A href="http://www.cdc.gov/doc.do/id/0900f3ec80093d70">Contact Us</A></TD>
+
+					</TR>
+				</TABLE>
+			</TD>
+        </TR>
+        <TR> 
+			<TD class="bgftrTop"><IMG src="/images/CDC/s.gif" height="3" width="1" border="0" alt="" /></TD>
+        </TR>
+        <TR>
+			<TD class="ftrBar"><IMG src="/images/CDC/s.gif" height="1" width="100%" border="0" alt="" /></TD>
+
+        </TR>
+        <TR>
+			<TD valign="top" class="bgftrBottom">
+				<TABLE border="0" cellpadding="0" cellspacing="0" width="713">
+					<TR>
+						<TD class="bgftrBottom" width="12"><IMG src="/images/CDC/s.gif" height="1" width="12" border="0" alt="" /></TD>
+						<TD class="bgftrBottom" width="375">
+                        <IMG src="/images/CDC/ftr_SaferHealthier.gif" border="0" alt="Safer, Healthier People" width="150" height="7" /><BR /><IMG src="/images/CDC/s.gif" height="5" width="1" border="0" alt="" /><BR />
+						<SPAN class="txtftrBottom">Centers for Disease Control and Prevention, 1600 Clifton Rd, Atlanta, GA 30333, U.S.A.<BR />
+
+								800-CDC-INFO (800-232-4636) TTY: (888) 232-6348
+								<BR> 24 Hours/Every Day - <a class="txtFtr"  href=mailto:"cdcinfo@cdc.gov">cdcinfo@cdc.gov</a>
+						</SPAN></TD>
+						<TD class="bgftrBottom" width="20"><IMG src="/images/CDC/s.gif" height="1" width="20" border="0" alt="" /></TD>	
+						<TD class="bgftrBottom" align="right" valign="middle" width="205"><A href="http://firstgov.gov/">
+                        <IMG src="/images/CDC/logo_FirstGov.gif" border="0" alt="FirstGov" width="147" height="52" /></A><A href="http://www.hhs.gov/"><IMG src="/images/CDC/logo_dhhs.gif" border="0" alt="DHHS" width="58" height="52" /></A></TD>
+						<TD class="bgftrBottom" width="101"><A class="txtFtr" href="http://www.hhs.gov/">Department of Health<BR/>and Human Services</A></TD>
+					</TR>
+				</TABLE>
+			</TD>
+
+        </TR>
+		
+    </TABLE>
+
+
+</center>
+</body>
+</html>
+     

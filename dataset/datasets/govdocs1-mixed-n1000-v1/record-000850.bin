@@ -1,0 +1,118 @@
+                              " F R I N G E S "
+
+S P A C E   I N T E R F E R O M E T R Y   M I S S I O N   N E W S L E T T E R
+
+                        Number 17,  September 9, 2001
+
+
+SIM TECHNOLOGY MILESTONES
+
+Most readers of this Newsletter know that SIM is technologically
+challenging.  But what specifically are the challenges?  The External Review
+Board (ERB) appointed by NASA to review the Shared Baseline design
+recommended that specific technology demonstrations be defined.  These would
+serve as as `gates' for the Project to pass through in order to proceed with
+development.  The Project worked with NASA to define a set of five specific
+technology milestones (listed below).  
+
+The first four milestones must be passed for the project to enter Phase B,
+and the fifth is a necessary step for entering Phase C/D.  The metrology
+beam launcher (Milestone 1) is SIM's last outstanding *component* technology.
+The remaining technology milestones pertain to demonstrations of performance
+at the subsystem or system level.
+
+These milestones trace back to the fundamental science requirements for SIM.
+Wide-angle performance is defined in terms of the all-sky Astrometric Grid.
+Narrow-angle performance is defined in terms of (a) a `Broad Survey' to
+study planetary system demographics; and (b) a more-demanding `Deep Search'
+of nearby stars for planets down to a few Earth masses.  Note that most of
+the gates below are considered passed when performance consistent with the
+astrometric grid and Broad Survey is achieved.  We will of course strive to
+improve performance to enable the Deep Search as well, but the Project will
+enter Phase B even if Deep Search performance is still outstanding.  The
+Non-Advocate Review (NAR) will determine if the Project has made sufficient
+progress toward the Deep Search requirements to allow transition to Phase
+C/D development.
+
+We have accomplished the first of these milestones.  Four more to go! 
+
+MILESTONE 1
+
+Demonstrate that the brassboard metrology beam launcher is capable of
+performance that meets both narrow angle and global astrometry requirements.
+Performance by the date below is sufficient to enable the Broad Survey of
+planetary systems and the Astrometric Grid.  
+
+Due date: August 2001
+
+Status:   We have recently accomplished this milestone with brassboards of
+both our internal and external beam launchers.  The internal launcher
+achieved under 100 pm of `cyclic' error (i.e., error with amplitude under
+100 pm and sinusoidal with fiducial motion with a period of 1.3 um, the
+wavelength of the metrology laser) and thermal sensitivity of about 4 pm/mK.
+The external launcher demonstrated slightly better cyclic error (about 80
+pm) and less than 8 pm/mK thermal sensitivity.  Although performance must
+improve somewhat to enable the Deep Search planet finding science, the basic
+technology is now well in hand and engineering enhancements are expected
+provide launchers that will meet all SIM science goals.  No further
+technical breakthroughs are needed.
+
+MILESTONE 2
+
+Demonstrate the ability of SIM to stabilize fringes of faint science stars
+on the science interferometer of System Testbed-3 (STB-3).  This will
+demonstrate that SIM can provide the nanometer control required to enable
+the Broad Survey and Deep Search for planets, and the Astrometric Grid.
+With this demonstration the nanometer control technology activity will be
+successfully concluded.
+
+Due date: December 2001
+Status:   We are on track to accomplish this milestone.
+
+MILESTONE 3
+
+Demonstrate on the Microarcsecond Metrology (MAM-1) Testbed that `angles'
+(viz., fringe phase delays) between pseudo star sources can be measured at a
+level consistent with the narrow angle astrometry requirement. This
+demonstrates, at the level of a complete stellar interferometer, SIM's
+ability to meet its requirements for planet finding. The level of
+performance by the date below will be sufficient to perform the
+Broad Survey of planetary systems.
+
+Due Date: July 2002
+Status:   We are on track to accomplish this milestone.
+
+MILESTONE 4
+
+Demonstrate that multiple laser metrology gauges can be integrated into an
+optical truss representative of SIM's external metrology system.
+Performance by the date below will be sufficient to demonstrate the ability
+to meet the scientific mission goals for the Broad Survey and the
+astrometric Grid.
+
+Due Date: July 2002
+Status:   We are on track to accomplish this milestone.
+
+MILESTONE 5
+
+Demonstrate the feed forward of information from a guide interferometer to a
+science interferometer on a two baseline testbed.  This demonstrates, at the
+system level, the astrometry requirement.  The level of performance by the
+date below will be sufficient for the Broad Survey science, for the study of
+planetary formation around young stars, and for the global astrometry
+science.
+
+Due Date: December 2004
+Status:   We are just beginning the design of a major testbed to meet
+this milestone.
+
+
+Future Newsletters will bring updates on our progress against these critical
+technology gates.
+
+---------------------------------------------------------------------------
+Steve Unwin, Editor                              stephen.unwin@jpl.nasa.gov
+
+You are subscribed to the list 'sim-announce'.  To unsubscribe from this
+list, please go to the 'The Store' link on the SIM web page at:
+http://sim.jpl.nasa.gov

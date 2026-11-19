@@ -1,0 +1,1040 @@
+
+
+Document # ESE-SVX-950703
+- Preliminary Draft -
+Device Specifications
+
+for the 
+SVX 3 Readout Chip Set 
+October 20, 1995 - revised July 9, 1996
+
+R. Ströhmer and W. Knopf 
+------------------
+I - General Description : 
+
+The SVX-3 Readout Device is  a custom multi-channel A/D converter chipset, consisting of two devices, the analog portion (from here on referred to as the Front-End device, or FE) and the digital portion (referred to as the Back-End device, or BE).  It contains 128 channels of  analog input, each with it's own converter and analog pipeline. Among other salient features are adjustable loadable control parameters, pedestal threshold adjust, sparsified readout, and build-in charge injection for calibration. Sampling, conversion and readout of  the device is controlled by external control lines, digitized data is read over a byte-wide parallel path; included in the data is a unique chip identifier for each device.
+The purpose of this document is to provide all necessary electrical and timing information to allow a designer to interface to this device, not to familiarize the user with the functionality of this device - for this a detailed description can be found in  appendix D  -'A Beginners Guide to the SVXII' by Ray Yarema et al.
+DEVICE SPECIFICATIONS	
+SVX 3 READOUT CHIP SET	
+I - GENERAL DESCRIPTION :	
+II - FUNCTIONAL  DESCRIPTION:	
+Initialization Cycle (Front & Back End):	
+Acquisition Cycle(Front End):	
+Digitize Cycle(Back End):	
+Readout Cycle(Back End):	
+III -  PIN FUNCTION AND SIGNAL  DESCRIPTION.	
+Back-End Chip:	
+Front-End Chip :	
+Front-End to Back End Interconnect lines:	
+IV - ELECTRICAL SPECIFICATIONS	
+Absolute Maximum Ratings	
+Recommended Operating Conditions	
+DC Characteristics	
+V - AC CHARACTERISTICS	
+Cycle Timing:	
+1) Initialization:	
+2)  Acquisition Cycle - Start of  Digitization	
+3)  Acquisition Cycle -  End of Digitization and Data Readout	
+4)  Front End Level 1 Accept	
+5) FE pre-amplifier reset	
+6)  Pipeline Reset	
+7) Re-synchronization of pipeline cell (not well defined jet).	
+8) Abort readout cycle	
+VI - MECHANICAL DIMENSIONS.	
+V - APPENDICES.	
+Appendix A - Initialization Data Format	
+Appendix B - Readout Data Format	
+Appendix C - External Components	
+Appendix D - A Beginner's Guide to the SVXII	
+
+II - Functional  Description:
+The various cycles are determined by the state of the MODE control lines, latched in via the Change Mode signal.
+The initialization cycle usually is performed once, followed by many data acquisition, conversion and readout cycles. 
+Initialization Cycle (Front & Back End):
+During the initialization cycle a serial bitstream of digital data is clocked into the chip set to determine the operational parameters of the devices. All control bits, with the exception of the 128-bit channel mask, are transferred to a transparent latch via a strobe signal. Bits are shifted in at the TN signal pin, the shifted out bits appear at the BN signal pin to allow for daisy-chaining of several devices. 
+The pipeline cell pointer is reset by the strobe signal.
+
+For a definition of the initialization bits refer to appendix A.
+Acquisition Cycle(Front End):
+After the Initialization or Readout cycle the Front End is in the Acquisition Mode. Analog input values are continuously transferred to the pipeline. A trigger input (Level 1 Accept) will cause the cell in the pipeline to be marked for later readout and the pipeline address logic will skip this cell. The value of this cell is transferred to the back end  as a result of the PIPE-RD1 signal going active; PIPE-RD2 signal clears the cell and makes it available for the pipeline again (see Appendix B for details ).
+Data read during a PIPE-RD2 or a pre-amp reset cycle is not valid.
+Digitize Cycle(Back End):
+Analog values are digitized using a single slope conversion technique. Bottom Neighbor and Top Neighbor lines are used as bi-directional semaphores to enable neighbor logic across several chips. 
+Readout Cycle(Back End):
+Data is available in parallel form at the bus0 - bus7 lines when TN goes low. This provides for reading out several chips in series; when the last data value has been read, BN goes low to pass control to the next chip.
+
+For a definition of the readout data format refer to appendix B.
+
+
+III -  Pin Function and Signal  Description.
+Back-End Chip:
+Pin Name
+Pin No.
+In/Out
+Signal Type
+Pin Function
+PA-RST
+1
+IN
+CMOS
+Pre-amplifier reset - active high
+PIPE-RD1
+2
+IN
+CMOS
+Causes analog voltage transfer from pipeline
+PIPE-RD2
+3
+IN
+CMOS
+Reset pipeline reference cell
+TRIG-L1A*
+4
+IN
+CMOS
+Level 1 Accept trigger - select pipeline cell for read
+CAL/ST
+5
+IN
+CMOS
+Calibration pulse (Acquire), strobe setup param's 
+FE-MODE
+6
+IN
+CMOS
+Front End Mode control line
+BE-MODE
+7
+IN
+CMOS
+Back End Mode control line
+CH-MODE
+8
+IN
+CMOS
+Change Mode - latch mode control signals
+FE-CLKH
+9
+IN
+CDIF
+Front End Clock  (also data shift clock)
+FE-CLKL
+10
+IN
+CDIF
+"
+BE-CLKH
+11
+IN
+CDIF
+Back End Clock
+BE-CLKL
+12
+IN
+CDIF
+"
+BUS0H
+13
+I/O
+CDIF
+Comparator Reset (Digitize), Data Bus D0
+BUS0L
+14
+I/O
+CDIF
+"
+BUS1H
+15
+I/O
+CDIF
+Ramp Reset (Digitize), Data Bus D1
+BUS1L
+16
+I/O
+CDIF
+"
+BUS2H
+17
+I/O
+CDIF
+Counter Reset (Digitize), Data Bus D2
+BUS2L
+18
+I/O
+CDIF
+"
+BUS3H
+19
+I/O
+CDIF
+Ramp Reference Select (Digitize), Data Bus D3
+BUS3L
+20
+I/O
+CDIF
+"
+BUS4H
+21
+OUT
+CDIF
+Data Bus D4 (Readout)
+BUS4L
+22
+OUT
+CDIF
+"
+BUS5H
+23
+OUT
+CDIF
+Data Bus D5
+BUS5L
+24
+OUT
+CDIF
+"
+BUS6H
+25
+OUT
+CDIF
+Data Bus D6
+BUS6L
+26
+OUT
+CDIF
+"
+BUS7H
+27
+OUT
+CDIF
+Data Bus D7
+BUS7L
+28
+OUT
+CDIF
+"
+OPAD-ISET
+29
+
+ANALOG
+Data Bus Output swing adjust via Resistor to GND
+DC-ISET
+30
+
+ANALOG
+Bias for comparator via Resistor to GND
+RMP-RATE
+31
+
+ANALOG
+Comparator ramp rate adjust - A/D gain adjust
+BN
+32
+I/O
+CMOS
+Bottom Neighbor, init. string shift out, arbitration
+RAMP--PED
+33
+
+ANALOG
+Pedestal Adjust (A/D offset)
+RAMP-REF
+34
+
+ANALOG
+A/D zero adjust
+DVDD
+35,36
+
+ANALOG
+Digital Supply Voltage
+DGND
+37,38
+
+ANALOG
+Digital Ground
+QGND
+39,40
+
+ANALOG
+Quiet Ground, same as Digital ground
+QVDD
+41,42
+
+ANALOG
+Quiet Digital Supply Voltage
+QVDD
+43,44
+
+ANALOG
+
+QGND
+45,46
+
+ANALOG
+
+DGND
+47,48
+
+ANALOG
+
+DVDD
+49,50
+
+ANALOG
+
+RAMP--REF
+51
+
+ANALOG
+
+RAMP-PED
+52
+
+ANALOG
+
+TN
+53
+I/O
+CMOS
+Top Neighbor
+Table 1
+
+
+Front-End Chip :
+Pin Name
+Pin No.
+Pin Function
+DGND
+1
+Digital Ground
+DSUBS
+2
+Digital Substrate (GND)
+DVDD
+3
+Digital Supply 
+PRGND
+4
+Read-amp Ground
+PRVDD
+5
+Read-amp Supply  (+ 5V)
+PWGND
+6
+Write-amp Ground (analog)
+PWVDD
+7
+Write-amp Supply (analog, +5 V)
+ISET3
+8
+Read Amplifier bias adjust (to AVDD)
+ISET2
+9
+Write amplifier bias adjust (to GND)
+AVDD
+10
+Analog supply 
+AGND
+11
+Analog Ground
+AVDD2
+12
+Pre-amp Transistor supply
+ISET1
+13
+Pre-amp bias current (from AVDD)
+VREF
+14
+Pre-amp reference voltage
+CALIN
+15
+Calibration Voltage
+CHAN127
+16
+Analog input channel #127
+....
+17-142
+channel#126 - channel #1
+CHAN0
+143
+Analog input channel #0
+CALIN
+144
+( 
+VREF
+145
+.
+ISET1
+146
+.
+AVDD2
+147
+.
+AGND
+148
+.
+AVDD
+149
+redundant pads
+ISET2
+150
+.
+ISET3
+151
+.
+PWVDD
+152
+.
+PWGND
+153
+.
+PRVDD
+154
+.
+PRGND
+155
+.
+DVDD
+156
+.
+DSUBS
+157
+.
+DGND
+158
+(
+Table 2
+
+
+Front-End to Back End Interconnect lines:
+
+Pin Name
+Pin No.
+Pin Function
+FE-SRIN
+1
+Initialization bits shift-in 
+PA-RST
+2
+Pre-Amplifier Reset
+PIPE-RD1
+3
+Pipeline Read1 - flag cell for readout
+PIPE-RD2
+4
+Pipeline Read2 - return tagged cell to pipeline
+TRIG-L1A
+5
+Trigger (Level 1 Accept)
+CAL/SR STRB
+6
+Calibration pulse / latch init.bitstream
+FE-MODE
+7
+Front End Mode control
+FE-CLKH
+8
+Front End Differential Clock
+FE-CLKL
+9
+"                  "
+CELLID0
+10
+Pipeline Cell ID (LSB)
+CELLID1
+11
+
+CELLID2
+12
+
+CELLID3
+13
+
+CELLID4
+14
+
+CELLID5
+15
+Pipeline Cell ID (MSB)
+ANALOG0
+16
+Channel 0 input voltage from pipeline cell
+ANALOG1
+17
+
+...
+...
+
+ANALOG126
+142
+
+ANALOG127
+143
+Channel 127 input voltage from pipeline cell
+FE-SROUT
+22
+Initialization bits shift-out
+Table 3
+
+IV - Electrical Specifications
+
+Absolute Maximum Ratings
+
+Parameter
+Minimum
+Maximum
+Unit
+Supply Voltage - DVVD
+-0.5
+6.5
+V
+Supply Voltage - AVVD
+-0.5
+6.5
+V
+Supply Voltage - AVVD2
+-0.5
+6.5
+V
+Input Signals
+-0.5
+DVDD + 0.5
+V
+Calibration Voltage
+-10??
++10??
+V
+Ramp Reference Voltage
+-0.5
+DVVD+0.5??
+V
+Ramp Pedestal Voltage
+-0.5
+DVVD+0.5??
+V
+Operating Temperature
+0
++70
+°C
+AVVD2
+2.50
+5.00
+V
+Table 4
+Recommended Operating Conditions
+
+Parameter
+Minimum
+Nominal
+Maximum
+Unit
+Supply Voltage -DVVD
+4.75
+5.0
+5.25
+V
+Supply Voltage - AVVD
+4.75
+5.0
+5.25
+V
+Supply VoltageAVVD21
+2.5
+3.5
+5
+V
+Time delay DVVD to AVVD on
+???
+
+
+ms
+Time delay AVVD to AVVD2 on
+???
+
+
+ms
+Low Level Input CMOS
+0
+
+0.8
+V
+High Level Input CMOS
+2.2
+
+DVDD
+V
+Differential Input CDIFDIFF
+.80
+1.0
+DVVD
+V
+Differential Input Offset CDIFOFF
+CDIFDIFF/2
+2.5
+DVVD-CDIFDIFF/2
+V
+Ramp Pedestal Voltage
+1.5
+
+3.5
+V
+Ramp Reference Voltage
+1.5
+
+3.5
+V
+FE-CLK (Initialize)2
+
+
+25
+MHz
+FE-CLK (Acquire)
+
+
+25
+MHz
+BE-CLK (Digitize)2
+
+
+75
+MHz
+BE-CLK (Readout)
+
+
+30
+MHz
+Table 5
+DC Characteristics
+
+Signal Type
+Minimum
+Nominal
+Maximum
+Unit
+Digital High level - CMOSHIGH
+2
+
+
+V
+Digital Low level -CMOSLOW
+
+
+0.8
+V
+Digital Source current -CMOSIout
+
+
+
+mA
+Digital Sink current - CMOSIin
+
+
+
+mA
+Input  capacitance - CMOSCin
+
+
+
+pF
+Output  capacitance CMOSCout
+
+
+
+pF
+Differential level CDIFDIFF
+20
+100
+200
+mV
+Offset level CDIFOFF
+CDIFDIFF/2
+2.5
+DVVD-CDIFDIFF/2
+V
+CDIFIout
+
+
+
+mA
+CDIFIin
+
+
+
+mA
+Input  capacitanceCDIFCin
+
+
+
+pF
+Output  capacitance CDIFCout
+
+
+
+pF
+Supply Current AVVD
+???
+???
+???
+mA
+Supply Current AVVD2
+30
+40
+50
+mA
+Supply Current DVVD 
+3
+10
+20
+mA
+     DVVD during Readout
+30
+50
+50
+mA
+Table 6
+
+V - AC Characteristics
+
+Cycle Timing:
+1) Initialization:
+
+
+Figure 1
+
+Parameters
+
+Minimum
+Maximum
+CH-MODE width
+t1
+100 ns
+---
+CH-MODE( to FE-MODE(or(
+t2
+25 ns
+---
+FE-MODE(or(  to CH-MODE(
+t3
+25 ns
+---
+FE-CLK( to CH-MODE(
+t4
+10 ns
+---
+CH-MODE( to FE-CLK(
+t5
+t4+30ns
+---
+FE-CLK cycle time
+t6
+50ns
+---
+TN data setup to FE-CLK(
+t7
+20 ns
+---
+TN data hold after FE-CLK(
+t8
+20 ns
+---
+BN data ready after FE-CLK(
+t9
+20 ns
+---
+CAL/STB pulse width
+t10
+???
+---
+last FE-CLK( to CAL/STB(
+t11
+???
+---
+CAL/STB( to CH-MODE(
+t12
+???
+---
+CH-MODE( to BE-CLK(
+t13
+???
+---
+Table 7
+The following signals should be set to a steady state level at least 25 ns before the falling edge of CH-MODE and held at that level throughout the Initialization cycle:
+HIGH - PA-RST, CNTR-RST, EAMP-RST, COMP-RST, TRIG-L1A* and RREF-SEL.
+LOW  - PIPE-RD1 and PIPE-RD2.
+Bus lines BUS4 through BUS7  and BN are tri-stated throughout the initialization cycle.
+
+
+
+2)  Acquisition Cycle - Start of  Digitization 
+
+ 
+Figure 2
+
+Parameters
+
+Minimum
+Maximum
+FE-CLK width high
+t1
+25 ns
+---
+FE-CLK width low
+t2
+15 ns3
+---
+FE-CLK(  to PIPE-RD1(
+t3
+???
+---
+FE-CLK( to PIPE-RD1(
+t4
+???
+---
+PIPE-RD1 pulse width
+t5
+???
+---
+PIPE-RD1( to PIPE-RD1(
+t6
+???
+---
+PIPE-RD1( to COMP-RST(
+t7
+???
+---
+COMP-RST( to PIPE-RD1(
+t8
+???
+---
+PIPE-RD1( to RREF-SEL(
+t9
+???
+---
+RREF-SEL( to RAMP-RST(
+t10
+300 ns4
+---
+RAMP-RST( to CNTR-RST(
+t11
+0
+---
+Start of BE-CLK to RAMP-RST(
+t12
+1 BE-CLK
+---
+Table 8
+During the digitization cycle both TN and BN can act as inputs and outputs, therefore they should not be driven by external signals.
+Bus lines BUS4 through BUS7  are tri-stated throughout the digitization cycle.
+The FE-Mode and BE-Mode  are high.
+
+
+
+3)  Acquisition Cycle -  End of Digitization and Data Readout
+
+
+Figure 3
+
+Parameters
+
+Minimum
+Maximum
+CNTR-RST( to RREF-SEL(
+t1
+maxcnt+3 beclk
+---
+RREF-SEL( to TN(
+t2
+550 ns5
+---
+BE-CLK edge to TN (
+t3
+3 ns6
+---
+BE-CLK edge to BN (
+t4
+3 ns7
+---
+BE-CLK( to TN (
+t5
+5 ns8
+---
+TN( to BE-CLK(
+t6
+5 ns
+---
+TN( to Data
+t7
+5 ns
+---
+BE-CLK edge to Data
+t8  
+15 ns
+---
+BE-CLK( to BN(
+t99 
+15 ns
+---
+    
+
+Bus lines BUS0 through BUS7 present chip id and channel number after the rising edge and status and data after the falling edge of BE-CLK.
+
+
+4)  Front End Level 1 Accept
+
+
+
+
+Parameters
+
+Minimum
+Maximum
+FE-CLK( to LV1A*(
+t1
+5 ns
+tc - 5 ns
+LV1A* pulse width
+t2
+???
+
+LV1A*( to FE-CLK(
+t3
+5
+tc - 5 ns
+LV1A* recovery time
+t4
+15
+
+    
+
+5) FE pre-amplifier reset
+PA-RST minimum pulse width is 1 (s to reset the pre-amplifier completely.
+Data taken during reset and within 1 (s after reset is not valid.
+6)  Reference Pipeline Reset
+
+
+Parameters
+
+Minimum
+Maximum
+PIPE-RD2( to FE-CLK(
+t1
+5 ns
+tc - 5 ns
+PIPE-RD2 pulse width
+t2
+???
+
+PIPE-RD2( to FE-CLK(
+t3
+5
+tc - 5 ns
+
+The reference pipeline reset must occur each time after the digitization is completed.
+While pipe-rd2 is high the write amplifier is connected to the reference cell so
+no data can be acquired but the pipeline cell pointer is still advanced. 
+Because of this the pipe-rd2 should occur at a time when no data is present at the chip input.
+The  pipeline cell, which has been digitized, is put back into the cell at the first 
+clock after the falling edge of PIPE-RD2.
+
+7) Re-synchronization of pipeline cell (not well defined yet).
+A full initialization cycle will resynchronize the pipeline cell, but dropping the FE-Mode line and toggling the cal/strobe line without toggling the FE-Clock also resets the
+pipeline cell pointer.
+8) Abort readout cycle
+
+If  necessary the readout cycle can be aborted before all devices in a daisy-chain are read out.
+
+
+
+VI - Mechanical Dimensions. 
+
+
+
+V - Appendices. 
+
+Appendix A - Initialization Data Format
+
+
+Bits are loaded in the following order:
+ 128 bits of channel mask (channel #0 first) destined for the front end chip, followed by 15 bits of  control for the Front End, followed by  40 bits of control for the Back End (bit #144 shifted in first); control bits are latched into registers by the CAL/STRB signal.
+
+BITS
+PARAMETER
+1-128
+channel mask [0:127]
+129
+Cal Dir
+130
+Pipeline select
+131-136
+Bandwidth [0:5]
+137-142
+Pipeline Delay [0:5]
+143
+Pipeline Polarity
+BITS
+PARAMETER
+144-150
+Chip ID [0:6]
+151-154
+Unused Spares
+155
+Last Chip
+156
+Read Neighbors
+157
+Read All
+158
+Ramp Up/Down
+159
+Comp Up/Down
+160-167
+Ramp Cap Adjust [7:0]
+168-175
+Threshold [0:7]
+176-183
+Counter Modulo [7:0]
+
+ 
+Appendix B - Readout Data Format  (Status Word)
+The status word contains the pipeline cell number (between 0 and 45). 
+For SVX3BEa the bits of the status word are reversed. 
+(e.g. cell number 3 = 00 0011  shows up as 11 0000  = 48 ).
+
+The cell number is determined by the following rules:
+
+1). When in Initialize, the pipeline is set to cell 0 upon a CAL/STROBE  signal.  It will stay on cell zero until the first FE clock where it will advance the pipeline to cell 1, 2, 3etc. on the rising edge of the FE clocks.  The pipeline depth  must be reached before L1A's can be received by the FE chip. This means for example, if the depth is set to 3 then 3 FE clocks are required to get the first CELL-ID into the skip logic pipeline.
+
+2). As long as the FE clocks are  25ns wide or more, the advance to the next cell takes place prior to the start of the next integration region.
+
+3). Assertion of a L1A (active low) must occur between FE-clocks during low cycle of FECLK (high of FECLK*). L1a must go low and return to high within a single integration period.
+
+4). Asserting L1A marks the cell at the pipeline depth for digitization and readout.
+The cell is skipped until it is put back with a Pipe-RD2 signal (see 5).  Successive cells marked by L1A are processed in the order in which they received L1A's.
+
+5) At some point after digitization, Pipe-RD2 must be asserted (active high)  to put the recently processed cell back in to the pipeline.  This is preferably done during a beam gap but MUST be done prior to processing the next event.  The token passes to the next cell prior to the replacement of the cell in the pipeline.
+
+
+SPECIAL CASE:  Pretend we've just finished with cell three and the pointers on cell 2 for the raising edge of Pipe_RD2 ( and the falling edge is in the next bucket.).  The pointer will count 1, 2, 4, 5, 6 .  Cell 3 will not get back into the pipeline until the next time around. This is only if the place to put the cell back is being passed by the token when the cell is ready to go back at the same time.
+
+Appendix C - External Components
+Appendix D - A Beginner's Guide to the SVXII
+
+1 Avdd2 has to be bypassed with 0.1 (f capacitor.
+2 Clock lines have to be terminated close to the pin with 50 Ohm resistors. 
+3 t2 should be greater than the rise time of the pre Amp. 
+4 delays of less than this value will reduce the negative dynamic range.
+
+5 This time is needed before channel 127 is read out. If the chip is run in
+   readall mode, the time delay can be shorter.
+6 TN goes low after the gray counter reaches the value of channel 0.
+7 BN goes low after the gray counter reaches the value of channel 127.
+8 If TN goes low when BE-CLK is low the chip-id is not read out properly.
+9 BN goes low after the last channel's data is read out.
+17
+
+
+17
+
+
+

@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <datsetid>
+      gov.noaa.ncdc:C00185
+    </datsetid>
+    <citation>
+      <citeinfo>
+        <origin>
+          National Climatic Data Center, NESDIS, NOAA, U.S. Department of Commerce
+        </origin>
+        <pubdate>
+          Unknown
+        </pubdate>
+        <title>
+          Surface Prognostic Charts
+        </title>
+        <geoform>
+          chart
+        </geoform>
+        <onlink>
+          http://www.ncdc.noaa.gov
+        </onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>
+        Surface Prognostic Charts are historical surface prognostic, or
+forecast charts that are available at the National Climatic Data Center 
+(NCDC). They include fronts, isobars, cloud, and precipitation areas. There
+are two separate charts: one is a four-panel 12- and 24-hour, in which the
+upper two panels are devoted to low-level significant weather; the other, a
+two-panel 36- and 48-hour with discussion. The discussion is limited to about 
+260 abbreviated words. Because of the space limitation, it may contain 
+different kinds of information on one example of the chart than on another; 
+but the following information is always included: a. Date/time of the initial 
+data, b. Extent of numerical guidance available, c. Each weather system with 
+significant developments, d. The &quot;how&quot; and &quot;why&quot; of any 
+modification of numerical guidance, e. Revisions of previous forecasts, if 
+needed, f. Clarification of any abrupt changes in continuity. The discussion 
+was written and signed by the forecaster who made the forecast. 12 and 24-hour 
+surface prognoses (0600z and 1800z initial data) were prepared in conjunction 
+with the 30-hour surface forecast and had a four-panel format, in which the 
+upper two panels were devoted to low-level significant weather. The 12 and 
+24-hour charts were prepared 4 times daily from 00z, 06z, 12z, and 18z initial 
+data. The 36 and 48-hour prognoses with forecast discussions were prepared 
+twice daily from 00z and 12z initial data. These charts covered the 
+conterminous United States of America, southern Canada, and northern Mexico. 
+They had a scale of 1:26.7 million.
+      </abstract>
+      <purpose>
+        To make a wide range of climatic data available to researchers
+and the public.
+      </purpose>
+      <supplinf>
+        chart
+      </supplinf>
+      <noaainfo>
+        <entry>
+          C00185
+        </entry>
+        <sensor>
+          ANEMOMETERS
+        </sensor>
+        <sensor>
+          WIND VANES
+        </sensor>
+        <sensor>
+          BAROMETERS
+        </sensor>
+        <sensor>
+          THERMOMETERS
+        </sensor>
+        <sensor>
+          HYGROMETERS
+        </sensor>
+        <sensor>
+          VISUAL OBSERVATIONS
+        </sensor>
+        <sensor>
+          RAIN GAUGES
+        </sensor>
+        <sensor>
+          CEILOMETERS
+        </sensor>
+        <source>
+          WEATHER STATIONS
+        </source>
+        <center>
+          National Climatic Data Center, NESDIS, NOAA, U.S. Department of Commerce
+        </center>
+      </noaainfo>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>
+            Unknown
+          </begdate>
+          <enddate>
+            Unknown
+          </enddate>
+        </rngdates>
+      </timeinfo>
+      <current>
+        Ground Condition
+      </current>
+    </timeperd>
+    <status>
+      <progress>
+        Complete
+      </progress>
+      <update>
+        As Needed
+      </update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>
+          -135.0
+        </westbc>
+        <eastbc>
+          -50.0
+        </eastbc>
+        <northbc>
+          55.0
+        </northbc>
+        <southbc>
+          24.0
+        </southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>
+          ISO 19115 Topic Category
+        </themekt>
+        <themekey>
+          climatologyMeteorologyAtmosphere
+        </themekey>
+        <themekey>
+          004
+        </themekey>
+      </theme>
+      <theme>
+        <themekt>
+          DIF Discipline Keyword Thesaurus
+        </themekt>
+        <themekey>
+          Earth Sciences &gt; Atmosphere &gt; Meteorology
+        </themekey>
+        <themekey>
+          Earth Sciences &gt; Atmosphere &gt; Climatology
+        </themekey>
+        <themekey>
+          Earth Sciences &gt; Atmosphere &gt; Weather
+        </themekey>
+        <themekey>
+          Earth Sciences &gt; Land &gt; Hydrology
+        </themekey>
+      </theme>
+      <theme>
+        <themekt>
+          GCMD Sciences Keyword Valids
+        </themekt>
+        <themekey>
+          EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC WINDS &gt; SURFACE WINDS
+        </themekey>
+        <themekey>
+          EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PHENOMENA &gt; STORMS
+        </themekey>
+        <themekey>
+          EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD HEIGHT
+        </themekey>
+        <themekey>
+          EARTH SCIENCE &gt; ATMOSPHERE &gt; CLOUDS &gt; CLOUD AMOUNT/FREQUENCY
+        </themekey>
+        <themekey>
+          EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; PRECIPITATION AMOUNT
+        </themekey>
+        <themekey>
+          EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; ANTICYCLONES/CYCLONES
+        </themekey>
+        <themekey>
+          EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; ATMOSPHERIC PRESSURE MEASUREMENTS
+        </themekey>
+        <themekey>
+          EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC PRESSURE &gt; SURFACE PRESSURE
+        </themekey>
+      </theme>
+      <place>
+        <placekt>
+          GCMD Location Valids
+        </placekt>
+        <placekey>
+          UNITED STATES OF AMERICA
+        </placekey>
+        <placekey>
+          CANADA
+        </placekey>
+        <placekey>
+          MEXICO
+        </placekey>
+      </place>
+      <stratum>
+        <stratkt>
+          GCMD Location Valids
+        </stratkt>
+        <stratkey>
+          LAND SURFACE
+        </stratkey>
+        <stratkey>
+          TROPOSPHERE
+        </stratkey>
+      </stratum>
+    </keywords>
+    <plainsid>
+      <platflnm>
+        WEATHER STATIONS
+      </platflnm>
+      <instflnm>
+        ANEMOMETERS
+      </instflnm>
+    </plainsid>
+    <plainsid>
+      <platflnm>
+        WEATHER STATIONS
+      </platflnm>
+      <instflnm>
+        WIND VANES
+      </instflnm>
+    </plainsid>
+    <plainsid>
+      <platflnm>
+        WEATHER STATIONS
+      </platflnm>
+      <instflnm>
+        BAROMETERS
+      </instflnm>
+    </plainsid>
+    <plainsid>
+      <platflnm>
+        WEATHER STATIONS
+      </platflnm>
+      <instflnm>
+        THERMOMETERS
+      </instflnm>
+    </plainsid>
+    <plainsid>
+      <platflnm>
+        WEATHER STATIONS
+      </platflnm>
+      <instflnm>
+        HYGROMETERS
+      </instflnm>
+    </plainsid>
+    <plainsid>
+      <platflnm>
+        WEATHER STATIONS
+      </platflnm>
+      <instflnm>
+        VISUAL OBSERVATIONS
+      </instflnm>
+    </plainsid>
+    <plainsid>
+      <platflnm>
+        WEATHER STATIONS
+      </platflnm>
+      <instflnm>
+        RAIN GAUGES
+      </instflnm>
+    </plainsid>
+    <plainsid>
+      <platflnm>
+        WEATHER STATIONS
+      </platflnm>
+      <instflnm>
+        CEILOMETERS
+      </instflnm>
+    </plainsid>
+    <bandidnt>
+      <numbands>
+        1
+      </numbands>
+    </bandidnt>
+    <accconst>
+      None
+    </accconst>
+    <useconst>
+      None
+    </useconst>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>
+        Not provided
+      </attraccr>
+    </attracc>
+    <logic>
+      Unknown
+    </logic>
+    <complete>
+      Completeness information not available.
+    </complete>
+    <lineage>
+      <procstep>
+        <procdesc>
+          Unknown
+        </procdesc>
+        <procdate>
+          Unknown
+        </procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <overview>
+      <eaover>
+        Surface Prognostic Charts are surface forecast charts that are 
+available at the NCDC.
+      </eaover>
+      <eadetcit>
+        None
+      </eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>
+            National Climatic Data Center, NESDIS, NOAA, U.S. Department of Commerce
+          </cntorg>
+        </cntorgp>
+        <cntpos>
+          Customer Services Branch
+        </cntpos>
+        <cntaddr>
+          <addrtype>
+            Mailing and physical
+          </addrtype>
+          <address>
+            151 Patton Avenue
+          </address>
+          <address>
+            Room 468
+          </address>
+          <city>
+            Asheville
+          </city>
+          <state>
+            North Carolina
+          </state>
+          <postal>
+            28801-5001
+          </postal>
+          <country>
+            USA
+          </country>
+        </cntaddr>
+        <cntvoice>
+          828-271-4800
+        </cntvoice>
+        <cnttdd>
+          828-271-4010
+        </cnttdd>
+        <cntfax>
+          828-271-4876
+        </cntfax>
+        <cntemail>
+          ncdc.orders@noaa.gov
+        </cntemail>
+        <hours>
+          8:00 - 6:00 Eastern
+        </hours>
+        <cntinst>
+          http://www.ncdc.noaa.gov/oa/about/ncdcordering.html
+        </cntinst>
+      </cntinfo>
+    </distrib>
+    <distliab>
+      Every effort has been made to ensure that these data are accurate and 
+reliable within the limits of current NOAA quality control procedures. NOAA can 
+only certify that the data provided to its customers is an authentic copy of the 
+records which were accepted for inclusion in NOAA archives. NOAA cannot assume 
+liability for any damages caused by any errors or omissions in the data, nor as 
+a result of the failure of the data to function on a particular system. NOAA 
+makes no warranty, expressed or implied, nor does the fact of distribution 
+constitute such a warranty.
+    </distliab>
+  </distinfo>
+  <metainfo>
+    <metd>
+      20060627
+    </metd>
+    <metrd>
+      20060627
+    </metrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>
+            National Climatic Data Center, NESDIS, NOAA, U.S. Department of Commerce
+          </cntorg>
+        </cntorgp>
+        <cntpos>
+          Customer Services Branch
+        </cntpos>
+        <cntaddr>
+          <addrtype>
+            Mailing and physical
+          </addrtype>
+          <address>
+            151 Patton Avenue
+          </address>
+          <address>
+            Room 468
+          </address>
+          <city>
+            Asheville
+          </city>
+          <state>
+            North Carolina
+          </state>
+          <postal>
+            28801-5001
+          </postal>
+          <country>
+            USA
+          </country>
+        </cntaddr>
+        <cntvoice>
+          828-271-4800
+        </cntvoice>
+        <cnttdd>
+          828-271-4010
+        </cnttdd>
+        <cntfax>
+          828-271-4876
+        </cntfax>
+        <cntemail>
+          ncdc.metadata@noaa.gov
+        </cntemail>
+        <hours>
+          8:00 - 6:00 Eastern
+        </hours>
+      </cntinfo>
+    </metc>
+    <metstdn>
+      Content Standard for Digital Geospatial Metadata: Extensions for Remote Sensing Metadata
+    </metstdn>
+    <metstdv>
+      FGDC-STD-012-2002
+    </metstdv>
+    <metextns>
+      <onlink>
+        http://www.ngdc.noaa.gov/metadata/extensions/local_extensions.html
+      </onlink>
+      <metprof>
+        NGDC Extensions to FGDC Metadata
+      </metprof>
+    </metextns>
+    <metextns>
+      <onlink>
+        http://www.fgdc.gov/standards/projects/FGDC-standards-projects/csdgm_rs_ex/MetadataRemoteSensingExtens.pdf
+      </onlink>
+      <onlink>
+        http://www.fgdc.gov/standards/projects/FGDC-standards-projects/csdgm_rs_ex/remote-sensing-metadata
+      </onlink>
+      <metprof>
+        Content Standard for Digital Geospatial Metadata: Extensions for Remote Sensing Metadata, FGDC-STD-012-2002
+      </metprof>
+    </metextns>
+    <metextns>
+      <onlink>
+        http://www.eis.noaa.gov/fgdc/fgdcleg.html
+      </onlink>
+      <metprof>
+        NOAA Supplemental Information in Description (NOAA legacy extension to FGDC)
+      </metprof>
+    </metextns>
+  </metainfo>
+  
+  
+  
+  
+  
+  
+</metadata>

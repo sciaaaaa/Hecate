@@ -1,0 +1,871 @@
+{
+  "format": "HECATE-FREEZE-2000-v1",
+  "created_utc": "2026-10-20T06:24:39.879545+00:00",
+  "plan": {
+    "format": "HECATE-STUDY-2000-v1",
+    "im_bytes": 1024,
+    "pairs_per_batch": 100,
+    "threshold": 0.5,
+    "model_seed": 20261017,
+    "bootstrap_seed": 20261031,
+    "bootstrap_repeats": 2000,
+    "feature_sets": [
+      "F1_gas",
+      "F2_gas_structure",
+      "F3_public_statistics"
+    ],
+    "models": [
+      "dummy",
+      "logistic",
+      "random_forest",
+      "xgboost"
+    ],
+    "selection": "maximum validation AUC, first candidate on ties; threshold fixed at 0.5; no refit on validation",
+    "batches": [
+      {
+        "number": 1,
+        "experiment": "presence-p100-1k-01",
+        "seed": 20261017,
+        "role": "train"
+      },
+      {
+        "number": 2,
+        "experiment": "presence-p100-1k-02",
+        "seed": 20261020,
+        "role": "train"
+      },
+      {
+        "number": 3,
+        "experiment": "presence-p100-1k-03",
+        "seed": 20261023,
+        "role": "train"
+      },
+      {
+        "number": 4,
+        "experiment": "presence-p100-1k-04",
+        "seed": 20261024,
+        "role": "train"
+      },
+      {
+        "number": 5,
+        "experiment": "presence-p100-1k-05",
+        "seed": 20261025,
+        "role": "train"
+      },
+      {
+        "number": 6,
+        "experiment": "presence-p100-1k-06",
+        "seed": 20261026,
+        "role": "validation"
+      },
+      {
+        "number": 7,
+        "experiment": "presence-p100-1k-07",
+        "seed": 20261027,
+        "role": "validation"
+      },
+      {
+        "number": 8,
+        "experiment": "presence-p100-1k-08",
+        "seed": 20261028,
+        "role": "test"
+      },
+      {
+        "number": 9,
+        "experiment": "presence-p100-1k-09",
+        "seed": 20261029,
+        "role": "test"
+      },
+      {
+        "number": 10,
+        "experiment": "presence-p100-1k-10",
+        "seed": 20261030,
+        "role": "test"
+      }
+    ],
+    "scope": "Reuse B01/B02 only as development data. Primary test B08-B10 after freezing all models. Same account and deployment; im1KiB only. All nine real detector combinations and three dummy baselines reported; do not choose winner by test score."
+  },
+  "code_hashes": {
+    "study.py": "63bca1f2f3755888998ff02f30d5105e399b90072e0bd30a28fcfe6c9322ece0",
+    "data_utils.py": "bdfb17203c7a9109007b98adee7a7c72cb212720a7297769a67c3a4bf37eea48",
+    "plan.json": "7b93b277743fb0f9dbd90a9f527b37cd7f66a5252a013497e23aea32c1677daa"
+  },
+  "versions": {
+    "python": "3.10.22",
+    "numpy": "2.2.6",
+    "sklearn": "1.7.2",
+    "xgboost": "3.2.0"
+  },
+  "development": {
+    "1": {
+      "experiment": "presence-p100-1k-01",
+      "hashes": {
+        "COLLECTED.json": "6456a85738af12b7e5fc1848994ccc7f8685235c52d9ca32330568d7b205a25e",
+        "public_features.csv": "1ce6fa7460ab3d7f5db3a0f60980520da252dc91e126e10949f00b90eedb95c5",
+        "labels_private.csv": "f3b489c499b73e36c2ac1dd3f688f55d08a445fc7c28791fb7f66f8bf4403104",
+        "spec.json": "e3fe74cc82c950a1026f6c7e83e25163bd70ed03220f6835d701dc7766dd8280",
+        "public-manifest.json": "fa2422041622723afe86ffd4cf0e0fcf0d25bcf5e21cdb0edf1082a3ec3eb928"
+      }
+    },
+    "2": {
+      "experiment": "presence-p100-1k-02",
+      "hashes": {
+        "COLLECTED.json": "829a9984ed739dd05385a5b26a7f0b252c659a51de27d416a868d28eef87452b",
+        "public_features.csv": "278392f34f6a33d759359fab951df4997a99a7ebe1fdfc9a3945ac139c58728f",
+        "labels_private.csv": "04e086117a7f7d6ce47918093eee2614c0867941999b01006b23d20f70d3dce0",
+        "spec.json": "60ea6ba522ce9f62a82b2d46e2d907bc32f23298fb96c2f20e450407b6eac8f9",
+        "public-manifest.json": "dd21521177b3dcfc3eea8b467ac1c53dd47b9ceae7c3b30b37a67290aecedb0a"
+      }
+    },
+    "3": {
+      "experiment": "presence-p100-1k-03",
+      "hashes": {
+        "COLLECTED.json": "fa8b0ce011d8ed3989d72bc7f4eb901bf8edc5192d1674915c29952e7e9c92d9",
+        "public_features.csv": "8508a2e7f49a8745f16b46c20fa2eba278617b13deed103190dbd9c81768459e",
+        "labels_private.csv": "39531d2e4873baad0db2252a91df0d8c73a0cd44e82aa4cd9518dbca321dcd42",
+        "spec.json": "5c5d28ca4d9cbc0331611f07287e8c2ae9cb4b026cb5045e1de91cce978e9518",
+        "public-manifest.json": "8f347fad1b04484b7e960ba12581528441711f95ef82f2c112b22ab4de186609"
+      }
+    },
+    "4": {
+      "experiment": "presence-p100-1k-04",
+      "hashes": {
+        "COLLECTED.json": "3b81cd0e6b11706a972a76c9c6131cba26198204f7e37dd5ee4dddf4380b4dfa",
+        "public_features.csv": "0dfe1144edc7b819b0cdcb5fac940f0d43908fc2be437e43c37d44efad0ee4bd",
+        "labels_private.csv": "65f92630ceb95b889ec78e7c5aa0f9b4f3c1d70ce87d35abeb12ad45fe4b71f7",
+        "spec.json": "231d5ed1d02f1a8e1e1ba12e71a30527d8cdfa75fa65f0f68c7ee435bddb46ec",
+        "public-manifest.json": "4f76563c25efadf24ca1a6c44ee7ce10b86402f7691ed23353508110fefb69cd"
+      }
+    },
+    "5": {
+      "experiment": "presence-p100-1k-05",
+      "hashes": {
+        "COLLECTED.json": "c6418da90c64b5baae85e082313793b65dc3aff2923d94eecbd5cc042d9de5cf",
+        "public_features.csv": "e803efe2b8a6cfaba0648d49842e6e570ae4ad1622d6785d84c9064e6a7d575c",
+        "labels_private.csv": "f85d1ea97b67a996d111266a74bcb938523b230d16812809cb41dffa3e619957",
+        "spec.json": "fae9813f104e0a6e454cff5f0bda4c29d171f69f84a1871ca1f5099666e955bc",
+        "public-manifest.json": "5688ff741b29d9b9504549863a9a129ad2007ac0cbf638ac06f803a103011594"
+      }
+    },
+    "6": {
+      "experiment": "presence-p100-1k-06",
+      "hashes": {
+        "COLLECTED.json": "60168bb228103f58cb98970a57bcbb04fa0436ae64423bc2f8218204fd091a22",
+        "public_features.csv": "a7a992babce59c4ebb6c9fed9775dcda94fa53ceb47878ac733416a3822f249b",
+        "labels_private.csv": "7c86827da30872035684d130f86c3adb412014f917a780a1c53c47481d840e38",
+        "spec.json": "1c1ea9882b6dc52ce263e0ba3942be087092c2c477e96e51802cbf52aaf69495",
+        "public-manifest.json": "4afa43aa6ee9ebae236dbd48faf2429784c9d6832586f32175f71e06a6e3b7ac"
+      }
+    },
+    "7": {
+      "experiment": "presence-p100-1k-07",
+      "hashes": {
+        "COLLECTED.json": "460a82bd0b43abcc90a664255ffc33fe4ffb48b40d88cdbba0d91ffffc2ec123",
+        "public_features.csv": "a227e3da1325817b7c74a0f52d1b4c90f8e304e8dfc33c66110198a1ddb2242d",
+        "labels_private.csv": "7f1696c1de5105e3cb2bacaf19b32c4b5995c1278de7ebd9f50111814a1fae87",
+        "spec.json": "77f93daf82aeed06446f53bc4d7d2fc65283b33162f712b4eb5c96a57355b601",
+        "public-manifest.json": "5d3419552c79afe2a1dad5e86d7cc8f04e769cd670f148972d047b7379fe8389"
+      }
+    }
+  },
+  "models": [
+    {
+      "feature_set": "F1_gas",
+      "model": "dummy",
+      "params": "prior",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max"
+      ],
+      "file": "F1_gas__dummy.joblib",
+      "sha256": "960d4ba6e30888cdd67ed100a3b4a67fbca1b9979dc9c3930208172e5544048b",
+      "validation_metrics": {
+        "auc": 0.5,
+        "accuracy": 0.5,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666,
+        "fpr": 1.0,
+        "specificity": 0.0,
+        "balanced_accuracy": 0.5,
+        "mcc": 0.0,
+        "confusion_matrix": [
+          [
+            0,
+            200
+          ],
+          [
+            0,
+            200
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F1_gas",
+      "model": "logistic",
+      "params": "C=0.1",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max"
+      ],
+      "file": "F1_gas__logistic.joblib",
+      "sha256": "22b454d210e600c6dd931db4e9e453dc76090bc7d698de20610c42e7a121a8c1",
+      "validation_metrics": {
+        "auc": 0.4971625,
+        "accuracy": 0.495,
+        "precision": 0.496875,
+        "recall": 0.795,
+        "f1": 0.6115384615384616,
+        "fpr": 0.805,
+        "specificity": 0.195,
+        "balanced_accuracy": 0.495,
+        "mcc": -0.0125,
+        "confusion_matrix": [
+          [
+            39,
+            161
+          ],
+          [
+            41,
+            159
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F1_gas",
+      "model": "random_forest",
+      "params": "depth=3",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max"
+      ],
+      "file": "F1_gas__random_forest.joblib",
+      "sha256": "e484062d823bec226d6263460771edadfba754231a1a6bf9b641b516050f5d22",
+      "validation_metrics": {
+        "auc": 0.4841375,
+        "accuracy": 0.4925,
+        "precision": 0.49377593360995853,
+        "recall": 0.595,
+        "f1": 0.5396825396825397,
+        "fpr": 0.61,
+        "specificity": 0.39,
+        "balanced_accuracy": 0.4925,
+        "mcc": -0.015325483020540872,
+        "confusion_matrix": [
+          [
+            78,
+            122
+          ],
+          [
+            81,
+            119
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F1_gas",
+      "model": "xgboost",
+      "params": "depth=2",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max"
+      ],
+      "file": "F1_gas__xgboost.json",
+      "sha256": "8307eb4c256871722c67df61caa5d9b305a6c06903006836c7d9acefbd7c7224",
+      "validation_metrics": {
+        "auc": 0.4865875,
+        "accuracy": 0.4925,
+        "precision": 0.49377593360995853,
+        "recall": 0.595,
+        "f1": 0.5396825396825397,
+        "fpr": 0.61,
+        "specificity": 0.39,
+        "balanced_accuracy": 0.4925,
+        "mcc": -0.015325483020540872,
+        "confusion_matrix": [
+          [
+            78,
+            122
+          ],
+          [
+            81,
+            119
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "dummy",
+      "params": "prior",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max",
+        "transaction_count",
+        "calldata_bytes_total",
+        "calldata_zero_total",
+        "log_count_total",
+        "log_data_bytes_total",
+        "wire_bytes"
+      ],
+      "file": "F2_gas_structure__dummy.joblib",
+      "sha256": "1e52df16b4ba40c9819d22e31b4a63da96a3476bf5bd97ab5e8cd27484336730",
+      "validation_metrics": {
+        "auc": 0.5,
+        "accuracy": 0.5,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666,
+        "fpr": 1.0,
+        "specificity": 0.0,
+        "balanced_accuracy": 0.5,
+        "mcc": 0.0,
+        "confusion_matrix": [
+          [
+            0,
+            200
+          ],
+          [
+            0,
+            200
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "logistic",
+      "params": "C=0.1",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max",
+        "transaction_count",
+        "calldata_bytes_total",
+        "calldata_zero_total",
+        "log_count_total",
+        "log_data_bytes_total",
+        "wire_bytes"
+      ],
+      "file": "F2_gas_structure__logistic.joblib",
+      "sha256": "1e35e449d107382c020af75902a5ede4ecc0eb667f4fa5a2cc6beee7a0d5e419",
+      "validation_metrics": {
+        "auc": 0.4971625,
+        "accuracy": 0.495,
+        "precision": 0.496875,
+        "recall": 0.795,
+        "f1": 0.6115384615384616,
+        "fpr": 0.805,
+        "specificity": 0.195,
+        "balanced_accuracy": 0.495,
+        "mcc": -0.0125,
+        "confusion_matrix": [
+          [
+            39,
+            161
+          ],
+          [
+            41,
+            159
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "random_forest",
+      "params": "depth=3",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max",
+        "transaction_count",
+        "calldata_bytes_total",
+        "calldata_zero_total",
+        "log_count_total",
+        "log_data_bytes_total",
+        "wire_bytes"
+      ],
+      "file": "F2_gas_structure__random_forest.joblib",
+      "sha256": "d22d704bc0060169948e6404ee8acf6d20fd27a4c43d50f4cacfea5248413052",
+      "validation_metrics": {
+        "auc": 0.4841375,
+        "accuracy": 0.4925,
+        "precision": 0.49377593360995853,
+        "recall": 0.595,
+        "f1": 0.5396825396825397,
+        "fpr": 0.61,
+        "specificity": 0.39,
+        "balanced_accuracy": 0.4925,
+        "mcc": -0.015325483020540872,
+        "confusion_matrix": [
+          [
+            78,
+            122
+          ],
+          [
+            81,
+            119
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "xgboost",
+      "params": "depth=2",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max",
+        "transaction_count",
+        "calldata_bytes_total",
+        "calldata_zero_total",
+        "log_count_total",
+        "log_data_bytes_total",
+        "wire_bytes"
+      ],
+      "file": "F2_gas_structure__xgboost.json",
+      "sha256": "32051d786c2103c974d93af6488b867e8c8532ba240842e7e477d47c6adb7f43",
+      "validation_metrics": {
+        "auc": 0.4840875,
+        "accuracy": 0.4925,
+        "precision": 0.49377593360995853,
+        "recall": 0.595,
+        "f1": 0.5396825396825397,
+        "fpr": 0.61,
+        "specificity": 0.39,
+        "balanced_accuracy": 0.4925,
+        "mcc": -0.015325483020540872,
+        "confusion_matrix": [
+          [
+            78,
+            122
+          ],
+          [
+            81,
+            119
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "dummy",
+      "params": "prior",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max",
+        "transaction_count",
+        "calldata_bytes_total",
+        "calldata_zero_total",
+        "log_count_total",
+        "log_data_bytes_total",
+        "wire_bytes",
+        "wire_zero_bytes",
+        "wire_entropy",
+        "R_s_hex_bytes",
+        "R_s_hex_zero_bytes",
+        "R_s_hex_entropy",
+        "s_s_hex_bytes",
+        "s_s_hex_zero_bytes",
+        "s_s_hex_entropy",
+        "c2_hex_bytes",
+        "c2_hex_zero_bytes",
+        "c2_hex_entropy"
+      ],
+      "file": "F3_public_statistics__dummy.joblib",
+      "sha256": "b4fc1fd84b7aed71986536ddea8cb17ce4896eaacc06ce4859d20201906f2a80",
+      "validation_metrics": {
+        "auc": 0.5,
+        "accuracy": 0.5,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666,
+        "fpr": 1.0,
+        "specificity": 0.0,
+        "balanced_accuracy": 0.5,
+        "mcc": 0.0,
+        "confusion_matrix": [
+          [
+            0,
+            200
+          ],
+          [
+            0,
+            200
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "logistic",
+      "params": "C=1",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max",
+        "transaction_count",
+        "calldata_bytes_total",
+        "calldata_zero_total",
+        "log_count_total",
+        "log_data_bytes_total",
+        "wire_bytes",
+        "wire_zero_bytes",
+        "wire_entropy",
+        "R_s_hex_bytes",
+        "R_s_hex_zero_bytes",
+        "R_s_hex_entropy",
+        "s_s_hex_bytes",
+        "s_s_hex_zero_bytes",
+        "s_s_hex_entropy",
+        "c2_hex_bytes",
+        "c2_hex_zero_bytes",
+        "c2_hex_entropy"
+      ],
+      "file": "F3_public_statistics__logistic.joblib",
+      "sha256": "5ab2c4e6dfcbcd3d6d8af0f7015f27b83a95a0ae7aba8b1431a566833e21051c",
+      "validation_metrics": {
+        "auc": 0.5005,
+        "accuracy": 0.52,
+        "precision": 0.5165289256198347,
+        "recall": 0.625,
+        "f1": 0.5656108597285068,
+        "fpr": 0.585,
+        "specificity": 0.415,
+        "balanced_accuracy": 0.52,
+        "mcc": 0.040912287306400875,
+        "confusion_matrix": [
+          [
+            83,
+            117
+          ],
+          [
+            75,
+            125
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "random_forest",
+      "params": "depth=3",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max",
+        "transaction_count",
+        "calldata_bytes_total",
+        "calldata_zero_total",
+        "log_count_total",
+        "log_data_bytes_total",
+        "wire_bytes",
+        "wire_zero_bytes",
+        "wire_entropy",
+        "R_s_hex_bytes",
+        "R_s_hex_zero_bytes",
+        "R_s_hex_entropy",
+        "s_s_hex_bytes",
+        "s_s_hex_zero_bytes",
+        "s_s_hex_entropy",
+        "c2_hex_bytes",
+        "c2_hex_zero_bytes",
+        "c2_hex_entropy"
+      ],
+      "file": "F3_public_statistics__random_forest.joblib",
+      "sha256": "5314893d98848dd2bbbf269128b4857fc8108808e25c86ca6b35e5148b59c675",
+      "validation_metrics": {
+        "auc": 0.49605,
+        "accuracy": 0.515,
+        "precision": 0.5119047619047619,
+        "recall": 0.645,
+        "f1": 0.5707964601769911,
+        "fpr": 0.615,
+        "specificity": 0.385,
+        "balanced_accuracy": 0.515,
+        "mcc": 0.031068488300060003,
+        "confusion_matrix": [
+          [
+            77,
+            123
+          ],
+          [
+            71,
+            129
+          ]
+        ],
+        "threshold": 0.5
+      }
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "xgboost",
+      "params": "depth=3",
+      "features": [
+        "gas_total",
+        "gas_open",
+        "gas_finalize",
+        "gas_chunk_mean",
+        "gas_chunk_std",
+        "gas_chunk_min",
+        "gas_chunk_max",
+        "transaction_count",
+        "calldata_bytes_total",
+        "calldata_zero_total",
+        "log_count_total",
+        "log_data_bytes_total",
+        "wire_bytes",
+        "wire_zero_bytes",
+        "wire_entropy",
+        "R_s_hex_bytes",
+        "R_s_hex_zero_bytes",
+        "R_s_hex_entropy",
+        "s_s_hex_bytes",
+        "s_s_hex_zero_bytes",
+        "s_s_hex_entropy",
+        "c2_hex_bytes",
+        "c2_hex_zero_bytes",
+        "c2_hex_entropy"
+      ],
+      "file": "F3_public_statistics__xgboost.json",
+      "sha256": "a405c8ca75a4dd7ec2d4b193a5b6d5994ddd0456e64e430121d970296ba4620b",
+      "validation_metrics": {
+        "auc": 0.480125,
+        "accuracy": 0.4775,
+        "precision": 0.4805194805194805,
+        "recall": 0.555,
+        "f1": 0.5150812064965197,
+        "fpr": 0.6,
+        "specificity": 0.4,
+        "balanced_accuracy": 0.47750000000000004,
+        "mcc": -0.04555050195875324,
+        "confusion_matrix": [
+          [
+            80,
+            120
+          ],
+          [
+            89,
+            111
+          ]
+        ],
+        "threshold": 0.5
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "feature_set": "F1_gas",
+      "model": "dummy",
+      "params": "prior",
+      "validation_auc": 0.5
+    },
+    {
+      "feature_set": "F1_gas",
+      "model": "logistic",
+      "params": "C=0.1",
+      "validation_auc": 0.4971625
+    },
+    {
+      "feature_set": "F1_gas",
+      "model": "logistic",
+      "params": "C=1",
+      "validation_auc": 0.4971625
+    },
+    {
+      "feature_set": "F1_gas",
+      "model": "logistic",
+      "params": "C=10",
+      "validation_auc": 0.4971625
+    },
+    {
+      "feature_set": "F1_gas",
+      "model": "random_forest",
+      "params": "depth=3",
+      "validation_auc": 0.4841375
+    },
+    {
+      "feature_set": "F1_gas",
+      "model": "random_forest",
+      "params": "depth=None",
+      "validation_auc": 0.4840375
+    },
+    {
+      "feature_set": "F1_gas",
+      "model": "xgboost",
+      "params": "depth=2",
+      "validation_auc": 0.4865875
+    },
+    {
+      "feature_set": "F1_gas",
+      "model": "xgboost",
+      "params": "depth=3",
+      "validation_auc": 0.4838375
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "dummy",
+      "params": "prior",
+      "validation_auc": 0.5
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "logistic",
+      "params": "C=0.1",
+      "validation_auc": 0.4971625
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "logistic",
+      "params": "C=1",
+      "validation_auc": 0.4971625
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "logistic",
+      "params": "C=10",
+      "validation_auc": 0.4971625
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "random_forest",
+      "params": "depth=3",
+      "validation_auc": 0.4841375
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "random_forest",
+      "params": "depth=None",
+      "validation_auc": 0.4840375
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "xgboost",
+      "params": "depth=2",
+      "validation_auc": 0.4840875
+    },
+    {
+      "feature_set": "F2_gas_structure",
+      "model": "xgboost",
+      "params": "depth=3",
+      "validation_auc": 0.4839875
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "dummy",
+      "params": "prior",
+      "validation_auc": 0.5
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "logistic",
+      "params": "C=0.1",
+      "validation_auc": 0.500375
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "logistic",
+      "params": "C=1",
+      "validation_auc": 0.5005
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "logistic",
+      "params": "C=10",
+      "validation_auc": 0.50045
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "random_forest",
+      "params": "depth=3",
+      "validation_auc": 0.49605
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "random_forest",
+      "params": "depth=None",
+      "validation_auc": 0.47775
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "xgboost",
+      "params": "depth=2",
+      "validation_auc": 0.475475
+    },
+    {
+      "feature_set": "F3_public_statistics",
+      "model": "xgboost",
+      "params": "depth=3",
+      "validation_auc": 0.480125
+    }
+  ],
+  "train_count": 1000,
+  "validation_count": 400,
+  "threshold": 0.5,
+  "note": "No final test data used. No refit on validation. All feature/model combinations retained."
+}

@@ -1,0 +1,140 @@
+<!DOCTYPE MMR_DSD SYSTEM "mmr_dsd.dtd">
+<MMR_DSD>
+   <Entry_ID>EUR-L2P-AVHRR16_G</Entry_ID>
+   <Entry_Title>Multi Channel SST (MCSST) GAC, MCSST Level 2 (NAVOCEANO) orbital 9km for 100W - 45E and 90N - 70S,  from NOAA-16 AVHRR/2 </Entry_Title>
+   <Data_Set_Citation>
+      <Dataset_Creator>ESA Medspiration: Meteo France/Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France; EUMETSAT Ocean; Sea Ice Satellite Application Facility</Dataset_Creator>
+      <Dataset_Title>MCSST Orbital GAC MCSST Level 2 (NAVOCEANO) orbital 9km for 100W - 45E and 90N - 70S, from NOAA-16 AVHRR/2 over the EU-RDAC area (Medspiration)</Dataset_Title>
+      <Dataset_Series_Name>Medspiration L2P NAVOCEANO MCSST Level 2 orbital 9km  data</Dataset_Series_Name>
+      <Dataset_Release_Date>20041215T010000Z</Dataset_Release_Date>
+      <Dataset_Release_Place>Plouzane (Brest), France</Dataset_Release_Place>
+      <Dataset_Publisher>Medspiration, IFREMER/CERSAT</Dataset_Publisher>
+      <Version>1.0</Version>
+      <Other_Citation_Details>These data are produced by the ESA Medspiration project funded by the European Space Agency Data User Element (ESA-DUE)</Other_Citation_Details>
+      <Online_Resource>ftp://ftp.ifremer.fr/ifremer/valmedspi</Online_Resource>
+   </Data_Set_Citation>
+   <Parameters>
+      <Category>Earth Science</Category>
+      <Topic>Oceans</Topic>
+      <Term>Ocean Temperature</Term>
+      <Variable>Sea Surface Temperature</Variable>
+      <Detailed_Variable>Sub-skin Sea Surface Temperature (SSTsub-skin)</Detailed_Variable>
+   </Parameters>
+   <Sensor_Name>
+      <Short_Name>AVHRR/2</Short_Name>
+      <Long_Name>Advanced Very High Resolution Radiometer version 3</Long_Name>
+   </Sensor_Name>
+   <Source_Name>
+      <Short_Name>NOAA-16</Short_Name>
+      <Long_Name>National Oceanographic and Atmospheric Administration Environmental Satellite 16</Long_Name>
+   </Source_Name>
+   <Temporal_Coverage>
+      <Start_Date>20021215T010000Z</Start_Date>
+   </Temporal_Coverage>
+   <Spatial_Coverage>
+      <Southernmost_Latitude>-70.00</Southernmost_Latitude>
+      <Northernmost_Latitude>80.00</Northernmost_Latitude>
+      <Westernmost_Longitude>-100.00</Westernmost_Longitude>
+      <Easternmost_Longitude>45.00</Easternmost_Longitude>
+      <Minimum_Altitude>0.00</Minimum_Altitude>
+      <Maximum_Altitude>0.00</Maximum_Altitude>
+      <Minimum_Depth>0.00</Minimum_Depth>
+      <Maximum_Depth>0.00</Maximum_Depth>
+   </Spatial_Coverage>
+   <Location>
+      <Location_Name>Atlantic Ocean</Location_Name>
+      <Detailed_Location>Medspiration EU-RDAC area including Atantic Ocean, Mediterranean, Baltic and Black Sea</Detailed_Location>
+   </Location>
+   <Projection_Information>
+      <Projection_Type>Satellite native swath along-track</Projection_Type>
+      <Other_Projection_Details>Satellite swath data with latitude and longitude for each pixel measurement</Other_Projection_Details>
+   </Projection_Information>
+   <Data_Resolution>
+      <Latitude_Resolution>9.0 km</Latitude_Resolution>
+      <Longitude_Resolution>9.0 km</Longitude_Resolution>
+      <Altitude_Resolution>0.00</Altitude_Resolution>
+      <Temporal_Resolution>The AVHRR has a cross-track scanning system which use an elliptical beryllium mirror rotating at 360 RPM about an axis parallel to the Earth. The 110.8 degree cross-track scan equates to a swath width of about 2700 km. This swath width is greater than the 25.3 degree separation between successive orbital tracks, and provides overlapping coverage. Coverage is global, twice daily, at an instantaneous field of view (IFOV) of ~1.4 milliradians, giving a ground field of view of ~1.1 km at nadir for a nominal altitude of 833 km.</Temporal_Resolution>
+   </Data_Resolution>
+   <Access_Constraints>None</Access_Constraints>
+   <Use_Constraints>None</Use_Constraints>
+   <Originating_Center>Jet Propulsion Laboratory Physical Oceanography Data Active Archive Centre (PO.DAAC) </Originating_Center>
+   <Data_Center>
+      <Data_Center_Name>
+         <Short_Name>Medspiration IFREMER / CERSAT</Short_Name>
+         <Long_Name>Francais de Recherche pour l'Exploitation de la Mer / Centre ERS d'Archivage et de Traitement</Long_Name>
+      </Data_Center_Name>
+      <Data_Center_URL>http://www.ifremer.fr/cersat/en/index.html</Data_Center_URL>
+      <Data_Set_ID>AVHRR16_G</Data_Set_ID>
+      <Personnel>
+        <Role>Technical Contact</Role>
+         <First_Name>Jean-Francois</First_Name>
+         <Last_Name>Piolle</Last_Name>
+         <Email>jfpiolle@ifremer.fr</Email>
+         <Phone>+33 555-333444</Phone>
+         <Fax>+33 555-333444</Fax>
+         <Address>IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France</Address>
+      </Personnel>
+      <Personnel>
+         <Role>Technical Contact</Role>
+         <First_Name>Sylvie</First_Name>
+         <Middle_Name></Middle_Name>
+         <Last_Name>Pouliquen</Last_Name>
+         <Email>sylvie.pouliquen@ifremer.fr</Email>
+         <Phone>+33 2 98 22 44 92</Phone>
+         <Fax>+33 2 98 22 45 33</Fax>
+         <Address>IFREMER CERSAT, Technopole Brest-Iroise, 29280 Plouzane, France</Address>
+      </Personnel>
+      <Personnel>
+         <Role>Data originator/Technical contact</Role>
+         <First_Name>Pierre</First_Name>
+         <Middle_Name></Middle_Name>
+         <Last_Name>LeBorgne</Last_Name>
+         <Email>pierre.leborgne@meteo.fr</Email>
+         <Phone>+33 2 96 05 67 52</Phone>
+         <Fax>+33 2 96 05 67 37</Fax>
+         <Address>Meteo France, Centre de Meteorologie Spatiale (CMS), Lannion, 22303 Lannion, cedex, France</Address>
+      </Personnel>
+   </Data_Center>
+   <Reference>Medspiration products user manual, Robinson I., Leborgne P., Piolle J.F., Larnicol G., v1.02, September 2004</Reference>
+   <Summary>High quality Sea Surface Temperatures (SSTs) maps derived from the NOAA (National Oceanic and Atmospheric Administration)-Polar Orbiting Advanced Very High Resolution Radiometer (AVHRR) have been available since 1981. The multichannel sea surface temperature algorithm (MCSST) has been used to routinely calculate SSTs using a split window approach. Currently this algorithm is applied by the Naval Oceanographic Office (NAVOCEANO) to calculate SSTs at a near real-time rate.    The multichannel sea surface temperature algorithm uses a set of linear coefficients to retrive sea surface temperature from the brightness radiances. Improved cloud retrieval algorithms applied by NAVOCEANO have significantly increased the number of SST pixels flagged as cloud free, as compared to previous MCSST data sets.
+
+The NAVOCEANO MCSST data sets provide a high quality near real time sea surface temperature data set with a high number of cloud free retrievals. Additionally the orbital temporal and 9km spatial resolutions allow this data to be used in a quasi real time mode for detection of mesoscale features such as eddies associated with major current systems. The history of SST computation from AVHRR radiances is discussed at length by [McClain et al., 1985]. Briefly, radiative transfer theory is used to correct for the effects of the atmosphere on the observations by utilizing "windows" of the electromagnetic spectrum where little or no atmospheric absorption occurs. Channel radiances are transformed (through the use of the Planck function) to units of temperature, then compared to a-priori temperatures measured at the surface. This comparison yields coefficients which, when applied to the global AVHRR data, give estimates of surface temperature which have been nominally accurate to 0.7 degrees Celsius.
+
+Each AVHRR scan views Earth for 51.282 milliseconds, during which time each channel of the analog data output is digitized. Scans occur at the rate of 6 per second, and the sampling rate of the AVHRR sensors is 39,936 samples per second per channel. During a scan, the detectors view an internal target, cold space, and the external scene. The temperature of the internal target is monitored, and space is assumed to have a black- body temperature of 3K. In this way, a simple two-point linear calibration is done internally (Schwalb, 1978). The nonlinear modification to this calibration is achieved at the time of postprocessing, and takes into account sensor nonlinearities, measurement of internal target temperature, calculation of target radiance, internal reflections and emissions, etc. 
+
+Sensor/Instrument Measurement Geometry:The AVHRR has a cross-track scanning system which use an elliptical beryllium mirror rotating at 360 RPM about an axis parallel to the Earth. The 110.8 degree cross-track scan equates to a swath width of about 2700 km. This swath width is greater than the 25.3 degree separation between successive orbital tracks, and provides overlapping coverage. Coverage is global, twice daily, at an instantaneous field of view (IFOV) of ~1.4 milliradians, giving a ground field of view of ~1.1 km at nadir for a nominal altitude of 833 km.
+
+Full resolution AVHRR data are continuously transmitted and recorded in High Resolution Picture Transmission (HRPT) format. The Global Area Coverage (GAC) data are subsampled to approximately 4 km IFOV, recorded internally, and downlinked daily. The MCSST coefficients are then applied to the infrared brightness radiances to convert to SST. A level 2 declouded product produced by the Naval Oceanographic Office (NAVOCEANO) is then downloaded to JPL for distribution. The level-2 product is available in orbital files with a spatial resolution of approximately 9 kilometers. There are approximately 28 files per day for the NOAA-14 and NOAA-16 data. The spatial coverage is not uniform because of cloud coverage, which prevents the AVHRR instrument from seeing the ocean. 
+ 
+Data Organization: Granularity: (http://harp.gsfc.nasa.gov:1729/eosdis_documents/glossary.of.terms.html#GRANULE)
+  The level 2 product is separated into orbital files with each file consisting of an ascending (daytime) and descending (nighttime) pass. Data are available from both the NOAA-14 and NOAA-16 satellites. 
+  
+Data Format: The data and information are stored in a packed binary format where each file begins with a 770 byte header record followed by 1406 byte data blocks. The number of data blocks in each file varies depending on the number of good retrievals in each orbit.
+
+Please refer to the following document: Appendix D. NAVOCEANO Products and File Format: Release 2 Version 2 (ftp://podaac.jpl.nasa.gov/pub/sea_surface_temperature/avhrr/navoceano_mcsst/doc/Appn-D-NAVO.pdf)
+
+L2P data products are then derived following the GHRSST-PP Data Processing Specification (GDS) version 1.5 avaialable from http://ghrsst-pp.metoffice.com/documents/GDS-v1.0-rev1.5.pdf.  Single Sensor Error Statistics (SSES) are provided based on the GDS-v1.5 specification.
+</Summary>
+   <Related_URL>
+      <URL_Content_Type>Project Home Page</URL_Content_Type>
+      <URL>http://www.medspiration.org</URL>
+      <Description>Description of the Medspiration projec</Description>
+   </Related_URL>
+  <Related_URL>
+      <URL_Content_Type>Project Home Page</URL_Content_Type>
+      <URL>http://www.ghrsst-pp.org</URL>
+      <Description>Home Page of the Global Ocean Data Assimilation Experiment High Resolution SST Pilot Project (GHRSST-PP)</Description>
+   </Related_URL> 
+ <Related_URL>
+      <URL_Content_Type>Reference Materials</URL_Content_Type>
+      <URL> http://podaac.jpl.nasa.gov:2031/DATASET_DOCS/avhrr_navoceano.html</URL>
+      <Description>JPL Physical Oceanography Data Active Archive Centre (PO.DAAC)</Description>
+   </Related_URL>
+   <DSD_File_Version>1.1</DSD_File_Version>
+   <DSD_Creation_Date>20041224T150000Z</DSD_Creation_Date>
+   <DSD_Last_Revision_Date>20041224T150000Z</DSD_Last_Revision_Date>
+   <DSD_Revision_History>
+   2004-12-20. C Donlon: Original;
+   2005-10-24. E Armstrong: revised
+   </DSD_Revision_History>
+</MMR_DSD>

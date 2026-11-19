@@ -1,0 +1,370 @@
+<html><!-- #BeginTemplate "/Templates/template.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>Locust Grove--Lewis and Clark Expedition: A National Register of Historic Places Travel Itinerary</title>
+<script language="JavaScript" src="http://www.nps.gov/pollscript/triggerParams.js"></script>
+
+<script language="JavaScript" src="http://www.nps.gov/pollscript/poll_launcher.js"></script>
+
+<script language="JavaScript">callPoll();</script>
+
+<script language="JavaScript" src="http://www.nps.gov/pollscript/survey.js"></script>
+
+<script language="JavaScript" src="http://www.nps.gov/pollscript/survey2.js"></script>
+
+<script language="JavaScript">callCRPoll();</script>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<div id="statTrackingScriptContainer" style="display:none;">
+		
+			<script language="JavaScript" src="/pwr/templates/js/s_code.js"></script>
+			<script language="JavaScript">
+			<!--
+			/* You may give each page an identifying name, server, and channel on the next lines. */
+			s.pageName=window.location.pathname
+			s.server="pwr"
+			s.channel=""
+			s.pageType=""
+			s.prop1=""
+			s.prop2=""
+			s.prop3=""
+			s.prop4=""
+			s.prop5=""
+			/* E-commerce Variables */
+			s.campaign=""
+			s.state=""
+			s.zip=""
+			s.events=""
+			s.products=""
+			s.purchaseID=""
+			s.eVar1=""
+			s.eVar2=""
+			s.eVar3=""
+			s.eVar4=""
+			s.eVar5=""
+			/* Hierarchy Variables */
+			s.hier1=""
+			/* DO NOT EDIT BELOW THIS LINE */
+			var s_code=s.t();if(s_code)document.write(s_code)
+			//-->
+			</script>
+
+			
+</div>  </HEAD>
+
+<script language="JavaScript" src="http://www.nps.gov/pollscript/survey.js"></script> <body bgcolor="#FFFFFF" onLoad="MM_preloadImages('graphics/header1-e_r3_c03_f2.gif','graphics/header1-e_r3_c05_f2.gif','graphics/header1-e_r3_c13_f2.gif','graphics/header1-e_r4_c07_f2.gif','graphics/header1-e_r4_c09_f2.gif','graphics/header1-e_r4_c11_f2.gif','graphics/header1-e_r4_c15_f2.gif','graphics/hikers-return.gif','graphics/boatnextsite.gif','graphics/footer4_r2_c07_f2.gif','graphics/footer4_r4_c03_f2.gif','graphics/footer4_r4_c09_f2.gif','graphics/footer4_r7_c04_f2.gif','graphics/footer4_r7_c10_f2.gif','graphics/footer4_r2_c02_f2.gif')">
+<div align="center">
+  <table width="600" border="0" background="graphics/body1-e-lightest.jpg" cellpadding="0" cellspacing="0">
+    <tr> 
+      <td> 
+        <table border="0" cellpadding="0" cellspacing="0" width="600">
+          <!-- fwtable fwsrc="header1-e.png" fwbase="header1-e.gif" --> 
+          <script language="JavaScript">
+  <!-- hide 
+  if (document.images) {
+  header1e_r3_c03_f2 = new Image(104 ,15); header1e_r3_c03_f2.src = "graphics/header1-e_r3_c03_f2.gif";
+  header1e_r3_c03_f1 = new Image(104 ,15); header1e_r3_c03_f1.src = "graphics/header1-e_r3_c03.gif";
+  header1e_r3_c05_f2 = new Image(71 ,14); header1e_r3_c05_f2.src = "graphics/header1-e_r3_c05_f2.gif";
+  header1e_r3_c05_f1 = new Image(71 ,14); header1e_r3_c05_f1.src = "graphics/header1-e_r3_c05.gif";
+  header1e_r3_c13_f2 = new Image(61 ,14); header1e_r3_c13_f2.src = "graphics/header1-e_r3_c13_f2.gif";
+  header1e_r3_c13_f1 = new Image(61 ,14); header1e_r3_c13_f1.src = "graphics/header1-e_r3_c13.gif";
+  header1e_r4_c07_f2 = new Image(33 ,14); header1e_r4_c07_f2.src = "graphics/header1-e_r4_c07_f2.gif";
+  header1e_r4_c07_f1 = new Image(33 ,14); header1e_r4_c07_f1.src = "graphics/header1-e_r4_c07.gif";
+  header1e_r4_c09_f2 = new Image(41 ,14); header1e_r4_c09_f2.src = "graphics/header1-e_r4_c09_f2.gif";
+  header1e_r4_c09_f1 = new Image(41 ,14); header1e_r4_c09_f1.src = "graphics/header1-e_r4_c09.gif";
+  header1e_r4_c11_f2 = new Image(71 ,13); header1e_r4_c11_f2.src = "graphics/header1-e_r4_c11_f2.gif";
+  header1e_r4_c11_f1 = new Image(71 ,13); header1e_r4_c11_f1.src = "graphics/header1-e_r4_c11.gif";
+  header1e_r4_c15_f2 = new Image(62 ,13); header1e_r4_c15_f2.src = "graphics/header1-e_r4_c15_f2.gif";
+  header1e_r4_c15_f1 = new Image(62 ,13); header1e_r4_c15_f1.src = "graphics/header1-e_r4_c15.gif";
+  }
+  // stop hiding -->
+  </script>
+          <tr> <!-- Shim row, height 1. --> 
+            <td><img src="graphics/shim.gif" width="1" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="41" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="104" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="11" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="71" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="14" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="33" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="12" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="41" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="12" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="71" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="10" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="61" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="10" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="62" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="46" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="1" height="1" border="0" alt=" " title=" " ></td>
+          </tr>
+          <tr valign="top"><!-- row 1 --> 
+            <td rowspan="6"><img name="header1e_r1_c01" src="graphics/header1-e_r1_c01.gif" width="1" height="134" border="0" alt=" " title=" " ></td>
+            <td><a href="http://www.nps.gov"><img name="header1e_r1_c02" src="graphics/header1-e_r1_c02.gif" width="41" height="51" border="0" alt="[graphic] NPS Arrowhead and link to NPS.gov" title="[graphic] NPS Arrowhead and link to NPS.gov"></a></td>
+            <td rowspan="2" colspan="14"><img name="header1e_r1_c03" src="graphics/header1-e_r1_c03.gif" width="558" height="107" border="0" alt="[graphic] Lewis and Clark Expedition" title="[graphic] Lewis and Clark Expedition"></td>
+            <td><img src="graphics/shim.gif" width="1" height="51" border="0" alt=" " title=" " ></td>
+          </tr>
+          <tr valign="top"><!-- row 2 --> 
+            <td rowspan="5"><img name="header1e_r2_c02" src="graphics/header1-e_r2_c02.gif" width="41" height="83" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="1" height="56" border="0" alt=" " title=" " ></td>
+          </tr>
+          <tr valign="top"><!-- row 3 --> 
+            <td rowspan="3"><a href="index.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('header1e_r3_c03','','graphics/header1-e_r3_c03_f2.gif',1)" ><img name="header1e_r3_c03" src="graphics/header1-e_r3_c03.gif" width="104" height="15" border="0" alt="[graphic] Expedition Home" title="[graphic] Expedition Home "></a></td>
+            <td rowspan="4"><img name="header1e_r3_c04" src="graphics/header1-e_r3_c04.gif" width="11" height="27" border="0" alt=" " title=" " ></td>
+            <td rowspan="2"><a href="sitelist.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('header1e_r3_c05','','graphics/header1-e_r3_c05_f2.gif',1)" ><img name="header1e_r3_c05" src="graphics/header1-e_r3_c05.gif" width="71" height="14" border="0" alt="[graphic] List of Sites" title="[graphic] List of Sites"></a></td>
+            <td colspan="7"><img name="header1e_r3_c06" src="graphics/header1-e_r3_c06.gif" width="193" height="1" border="0" alt=" " title=" " ></td>
+            <td rowspan="2"><a href="/nr/travel" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('header1e_r3_c13','','graphics/header1-e_r3_c13_f2.gif',1)" ><img name="header1e_r3_c13" src="graphics/header1-e_r3_c13.gif" width="61" height="14" border="0" alt="[graphic] Itineraries home" title="[graphic] Itineraries home"></a></td>
+            <td colspan="3"><img name="header1e_r3_c14" src="graphics/header1-e_r3_c14.gif" width="118" height="1" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="1" height="1" border="0" alt=" " title=" " ></td>
+          </tr>
+          <tr valign="top"><!-- row 4 --> 
+            <td rowspan="3"><img name="header1e_r4_c06" src="graphics/header1-e_r4_c06.gif" width="14" height="26" border="0" alt=" " title=" " ></td>
+            <td rowspan="2"><a href="map.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('header1e_r4_c07','','graphics/header1-e_r4_c07_f2.gif',1)" ><img name="header1e_r4_c07" src="graphics/header1-e_r4_c07.gif" width="33" height="14" border="0" alt="[graphic] Maps" title="[graphic] Maps"></a></td>
+            <td rowspan="3"><img name="header1e_r4_c08" src="graphics/header1-e_r4_c08.gif" width="12" height="26" border="0" alt=" " title=" " ></td>
+            <td rowspan="2"><a href="#essays" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('header1e_r4_c09','','graphics/header1-e_r4_c09_f2.gif',1)" ><img name="header1e_r4_c09" src="graphics/header1-e_r4_c09.gif" width="41" height="14" border="0" alt="[graphic] Essays" title="[graphic] Essays"></a></td>
+            <td rowspan="3"><img name="header1e_r4_c10" src="graphics/header1-e_r4_c10.gif" width="12" height="26" border="0" alt=" " title=" " ></td>
+            <td><a href="learnmore.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('header1e_r4_c11','','graphics/header1-e_r4_c11_f2.gif',1)" ><img name="header1e_r4_c11" src="graphics/header1-e_r4_c11.gif" width="71" height="13" border="0" alt="[graphic] Learn More" title="[graphic] Learn More"></a></td>
+            <td rowspan="3"><img name="header1e_r4_c12" src="graphics/header1-e_r4_c12.gif" width="10" height="26" border="0" alt=" " title=" " ></td>
+            <td rowspan="3"><img name="header1e_r4_c14" src="graphics/header1-e_r4_c14.gif" width="10" height="26" border="0" alt=" " title=" " ></td>
+            <td><a href="/nr/" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('header1e_r4_c15','','graphics/header1-e_r4_c15_f2.gif',1)" ><img name="header1e_r4_c15" src="graphics/header1-e_r4_c15.gif" width="62" height="13" border="0" alt="[graphic] NR Home" title="[graphic] NR Home"></a></td>
+            <td rowspan="3"><img name="header1e_r4_c16" src="graphics/header1-e_r4_c16.gif" width="46" height="26" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="1" height="13" border="0" alt=" " title=" " ></td>
+          </tr>
+          <tr valign="top"><!-- row 5 --> 
+            <td rowspan="2"><img name="header1e_r5_c05" src="graphics/header1-e_r5_c05.gif" width="71" height="13" border="0" alt=" " title=" " ></td>
+            <td rowspan="2"><img name="header1e_r5_c11" src="graphics/header1-e_r5_c11.gif" width="71" height="13" border="0" alt=" " title=" " ></td>
+            <td rowspan="2"><img name="header1e_r5_c13" src="graphics/header1-e_r5_c13.gif" width="61" height="13" border="0" alt=" " title=" " ></td>
+            <td rowspan="2"><img name="header1e_r5_c15" src="graphics/header1-e_r5_c15.gif" width="62" height="13" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="1" height="1" border="0" alt=" " title=" " ></td>
+          </tr>
+          <tr valign="top"><!-- row 6 --> 
+            <td><img name="header1e_r6_c03" src="graphics/header1-e_r6_c03.gif" width="104" height="12" border="0" alt=" " title=" " ></td>
+            <td><img name="header1e_r6_c07" src="graphics/header1-e_r6_c07.gif" width="33" height="12" border="0" alt=" " title=" " ></td>
+            <td><img name="header1e_r6_c09" src="graphics/header1-e_r6_c09.gif" width="41" height="12" border="0" alt=" " title=" " ></td>
+            <td><img src="graphics/shim.gif" width="1" height="12" border="0" alt=" " title=" " ></td>
+          </tr>
+          <!--   This HTML was automatically created with Macromedia Fireworks 3.0   --> 
+          <!--   http://www.macromedia.com   --> 
+        </table>
+        <div align="center"> <!-- #BeginEditable "title%20prev%20next%20buttons" --> 
+          <table width="536" border="0" background="graphics/parchmentpiece-lightest.jpg">
+            <tr> 
+              <td><a href="two.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image95','','graphics/hikers-return.gif',1)"><img name="Image95" border="0" src="graphics/hikers-return-start.gif" width="116" height="48" alt="[graphic] Return to Previous Site" title="[graphic] Return to Previous Site"></a></td>
+              <td>
+                <div align="center"><img src="graphics/loc.gif" width="312" height="79" alt="[graphic] Property Title" title="[graphic]"Property></div>
+              </td>
+              <td><a href="nat.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image99','','graphics/boatnextsite.gif',1)"><img name="Image99" border="0" src="graphics/boatnextsite-start.gif" width="100" height="49" alt="[graphic] Proceed to Next Site" title="[graphic] Proceed to Next Site"></a> 
+              </td>
+            </tr>
+          </table>
+          <!-- #EndEditable --></div>
+        <div align="center"> <!-- #BeginEditable "text%20table" --> 
+          <table width="500" border="0" align="center">
+            <tr background="graphics/body-table-lightest.jpg"> 
+              <td> 
+                <table align=right width="185">
+                  <tr> 
+                    <td width "1" bgcolor="#990033"><br>
+                    </td>
+                    <td width="250" align="left"> 
+                      <p><img src="buildings/Loc1.jpg" width="175" height="125" alt="[photo]" title="[photo]"> 
+                        <font size="1" face=arial><b>Locust Grove</b><br>
+                        <i>Photo courtesy of Locust Grove </i></font></p>
+                    </td>
+                  </tr>
+                </table>
+                <p>Built around 1790, Locust Grove was the residence of its builder 
+                  and owner, Major William Croghan and his wife, Lucy Clark Croghan. 
+                  Lucy was the sister of Revolutionary War General George Rogers 
+                  Clark (1752-1818) and William Clark of Lewis and Clark fame. 
+                  Locust Grove, located in Louisville, Kentucky, was visited by 
+                  a number of national figures including James Monroe, Andrew 
+                  Jackson, Zachary Taylor, John James Audubon, and Aaron Burr. 
+                  In 1841, Locust Grove was the scene of a duel between the fiery 
+                  Kentucky statesman Cassius Marcellus Clay and Robert Wickliffe. 
+                  Architecturally, Locust Grove is a fine example of the frontier's 
+                  adaptation of Georgian styling. Each floor of the two and one-half 
+                  story brick residence contains four rooms divided by an axis 
+                  hallway. A kitchen, servants quarters, well, dairy and log cabin 
+                  have been rebuilt on excavated foundations. 
+                <p>
+                <table align=left width="184">
+                  <tr> 
+                    <td width="250" align="left"> <img src="buildings/loc2.jpg" width="174" height="125" alt="[photo]" title="[photo]"><br>
+                      <font size="1" face=arial><b> Today Locust Grove contains 
+                      the c.1790 Georgian house, the original smoke house and 
+                      eight other stone and log supporting farm buildings, formal 
+                      quadrant gardens, herb, perennial and annual beds, woods 
+                      and meadows</b><br>
+                      <i> Photo courtesy of Locust Grove </i></font></td>
+                    <td width "1" bgcolor="#990033"><br>
+                    </td>
+                  </tr>
+                </table>
+               On November 9, 1806, Lewis and Clark stopped at Locust Grove, as 
+                they were making their way back east after the Corps of Discovery 
+                had disbanded. The citizens of Louisville threw a banquet ball 
+                for the explorers and bonfires were lit in their honor. On November 
+                13, 1806, Lewis and Clark parted company for the time, as Lewis 
+                went to <a href="mon.htm">Monticello </a>to see President Jefferson 
+                and Clark went to Fincastle, Virginia. General George Rogers Clark 
+                lived here from 1809 to 1818, after leaving the <a href="ocs.htm">Old 
+                Clarksville Site</a>. Today, Locust Grove and its surrounding 
+                55 acres are owned by Jefferson County, Kentucky, and operated 
+                by Historic Locust Grove, Inc. 
+                <p> <i>Locust Grove, a National Historic Landmark, is located 
+                  at 561 Blankenbaker Ln. in Louisville, Kentucky. From I-65 take 
+                  I-71 North. Continue on I-71, passing the I-64 split, and exit 
+                  at Zorn Ave. Turn left onto Zorn, right onto River Rd., right 
+                  onto Blankenbaker Ln. and proceed gradually uphill away from 
+                  the river where you will find the entrance to the Locust Grove 
+                  parking lot on your left. Locust Grove is open Monday-Saturday, 
+                  10:00am to 4:30pm, with the final tour at 3:30pm. There is a 
+                  fee. The museum is closed New Year's Eve and Day, Easter, Derby 
+                  Day, Thanksgiving and Christmas Eve. Please call 502-897- 9845 
+                  or visit <a href="http://www.nps.gov/applications/redirect/?sUrl=http://www.locustgrove.org/index.htm">www.locustgrove.org</a> 
+                  for further information.</i> 
+              </td>
+            </tr>
+          </table>
+          <!-- #EndEditable --></div>
+        <table border="0" cellpadding="0" cellspacing="0" width="600">
+          <!-- fwtable fwsrc="footer4.png" fwbase="footer4.gif" --> 
+          <script language="JavaScript">
+  <!-- hide 
+  if (document.images) {
+  footer4_r2_c02_f2 = new Image(154 ,21); footer4_r2_c02_f2.src = "graphics/footer4_r2_c02_f2.gif";
+  footer4_r2_c02_f1 = new Image(154 ,21); footer4_r2_c02_f1.src = "graphics/footer4_r2_c02.gif";
+  footer4_r2_c07_f2 = new Image(160 ,21); footer4_r2_c07_f2.src = "graphics/footer4_r2_c07_f2.gif";
+  footer4_r2_c07_f1 = new Image(160 ,21); footer4_r2_c07_f1.src = "graphics/footer4_r2_c07.gif";
+  footer4_r4_c03_f2 = new Image(195 ,21); footer4_r4_c03_f2.src = "graphics/footer4_r4_c03_f2.gif";
+  footer4_r4_c03_f1 = new Image(195 ,21); footer4_r4_c03_f1.src = "graphics/footer4_r4_c03.gif";
+  footer4_r4_c09_f2 = new Image(139 ,19); footer4_r4_c09_f2.src = "graphics/footer4_r4_c09_f2.gif";
+  footer4_r4_c09_f1 = new Image(139 ,19); footer4_r4_c09_f1.src = "graphics/footer4_r4_c09.gif";
+  footer4_r7_c04_f2 = new Image(94 ,21); footer4_r7_c04_f2.src = "graphics/footer4_r7_c04_f2.gif";
+  footer4_r7_c04_f1 = new Image(94 ,21); footer4_r7_c04_f1.src = "graphics/footer4_r7_c04.gif";
+  footer4_r7_c10_f2 = new Image(122 ,21); footer4_r7_c10_f2.src = "graphics/footer4_r7_c10_f2.gif";
+  footer4_r7_c10_f1 = new Image(122 ,21); footer4_r7_c10_f1.src = "graphics/footer4_r7_c10.gif";
+  }
+  // stop hiding -->
+  </script>
+            <tr> <!-- Shim row, height 1. --> 
+              
+            <td><img src="graphics/shim.gif" width="36" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="18" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="128" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="8" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="59" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="26" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="1" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="68" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="83" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="8" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="48" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="66" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="51" height="1" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="1" height="1" border="0" alt=" " title=" " ></td>
+            </tr>
+            <tr valign="top"><!-- row 1 --> 
+              
+            <td colspan="13"><img name="footer4_r1_c01" src="graphics/footer4_r1_c01.gif" width="600" height="6" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="1" height="6" border="0" alt=" " title=" " ></td>
+            </tr>
+            <tr valign="top"><!-- row 2 --> 
+              
+            <td rowspan="7"><img name="footer4_r2_c01" src="graphics/footer4_r2_c01.gif" width="36" height="116" border="0" alt=" " title=" " ></td>
+              
+            <td colspan="3"><a href="earlierexplorations.htm" 
+onMouseOut="MM_swapImgRestore()"
+onMouseOver="MM_swapImage('footer4_r2_c02','','graphics/footer4_r2_c02_f2.gif',1)" ><img name="footer4_r2_c02" src="graphics/footer4_r2_c02.gif" width="154" height="21" border="0" alt="[graphic] Earlier Exploration" title="[graphic] Earlier Exploration"></a></td>
+              <td rowspan="2" colspan="2"><img name="footer4_r2_c05" src="graphics/footer4_r2_c05.gif" width="85" height="27" border="0" alt=" " title=" " ></td>
+              
+            <td colspan="4"><a href="encounters.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('footer4_r2_c07','','graphics/footer4_r2_c07_f2.gif',1)" ><img name="footer4_r2_c07" src="graphics/footer4_r2_c07.gif" width="160" height="21" border="0" alt="[graphic] Scientific Encounters" title="[graphic] Scientific Encounters"></a></td>
+              <td rowspan="2" colspan="3"><img name="footer4_r2_c11" src="graphics/footer4_r2_c11.gif" width="165" height="27" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="1" height="21" border="0" alt=" " title=" " ></td>
+            </tr>
+            <tr valign="top"><!-- row 3 --> 
+              <td colspan="3"><img name="footer4_r3_c02" src="graphics/footer4_r3_c02.gif" width="154" height="6" border="0" alt=" " title=" " ></td>
+              <td colspan="4"><img name="footer4_r3_c07" src="graphics/footer4_r3_c07.gif" width="160" height="6" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="1" height="6" border="0" alt=" " title=" " ></td>
+            </tr>
+            <tr valign="top"><!-- row 4 --> 
+              <td rowspan="5"><img name="footer4_r4_c02" src="graphics/footer4_r4_c02.gif" width="18" height="89" border="0" alt=" " title=" " ></td>
+              
+            <td rowspan="2" colspan="3"><a href="preparing.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('footer4_r4_c03','','graphics/footer4_r4_c03_f2.gif',1)" ><img name="footer4_r4_c03" src="graphics/footer4_r4_c03.gif" width="195" height="21" border="0" alt="[graphic] Preparing for the Journey" title="[graphic] Preparing for the Journey"></a></td>
+              <td rowspan="3" colspan="3"><img name="footer4_r4_c06" src="graphics/footer4_r4_c06.gif" width="95" height="29" border="0" alt=" " title=" " ></td>
+              
+            <td colspan="3"><a href="indians.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('footer4_r4_c09','','graphics/footer4_r4_c09_f2.gif',1)" ><img name="footer4_r4_c09" src="graphics/footer4_r4_c09.gif" width="139" height="19" border="0" alt="[graphic] American Indians" title="[graphic] American Indians"></a></td>
+              <td rowspan="3" colspan="2"><img name="footer4_r4_c12" src="graphics/footer4_r4_c12.gif" width="117" height="29" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="1" height="19" border="0" alt=" " title=" " ></td>
+            </tr>
+            <tr valign="top"><!-- row 5 --> 
+              <td rowspan="2" colspan="3"><img name="footer4_r5_c09" src="graphics/footer4_r5_c09.gif" width="139" height="10" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="1" height="2" border="0" alt=" " title=" " ></td>
+            </tr>
+            <tr valign="top"><!-- row 6 --> 
+              <td colspan="3"><img name="footer4_r6_c03" src="graphics/footer4_r6_c03.gif" width="195" height="8" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="1" height="8" border="0" alt=" " title=" " ></td>
+            </tr>
+            <tr valign="top"><!-- row 7 --> 
+              <td rowspan="2"><img name="footer4_r7_c03" src="graphics/footer4_r7_c03.gif" width="128" height="60" border="0" alt=" " title=" " ></td>
+              
+            <td colspan="4"><a href="journey.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('footer4_r7_c04','','graphics/footer4_r7_c04_f2.gif',1)" ><img name="footer4_r7_c04" src="graphics/footer4_r7_c04.gif" width="94" height="21" border="0" alt="[graphic] The Journey" title="[graphic] The Journey"></a></td>
+              <td rowspan="2" colspan="2"><img name="footer4_r7_c08" src="graphics/footer4_r7_c08.gif" width="151" height="60" border="0" alt=" " title=" " ></td>
+              
+            <td colspan="3"><a href="trailtoday.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('footer4_r7_c10','','graphics/footer4_r7_c10_f2.gif',1)" ><img name="footer4_r7_c10" src="graphics/footer4_r7_c10.gif" width="122" height="21" border="0" alt="[graphic] The Trail Today" title="[graphic] The Trail Today"></a></td>
+              <td rowspan="2"><img name="footer4_r7_c13" src="graphics/footer4_r7_c13.gif" width="51" height="60" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="1" height="21" border="0" alt=" " title=" " ></td>
+            </tr>
+            <tr valign="top"><!-- row 8 --> 
+              <td colspan="4"><img name="footer4_r8_c04" src="graphics/footer4_r8_c04.gif" width="94" height="39" border="0" alt=" " title=" " ></td>
+              <td colspan="3"><img name="footer4_r8_c10" src="graphics/footer4_r8_c10.gif" width="122" height="39" border="0" alt=" " title=" " ></td>
+              <td><img src="graphics/shim.gif" width="1" height="39" border="0" alt=" " title=" " ></td>
+            </tr>
+            <!--   This HTML was automatically created with Macromedia Fireworks 3.0   --> 
+            <!--   http://www.macromedia.com   --> 
+          </table>
+         
+      
+  </table>
+  <p><a name="essays"></a><a href="index.htm">Expedition Home</a> |<a href="sitelist.htm"> 
+    List of Sites</a> | <a href="map.htm">Maps</a>| <a href="learnmore.htm"> Learn 
+    More</a> | <a href="/nr/travel">Itineraries</a> | <a href="/nr/">NR Home</a> 
+    |&nbsp;<!-- #BeginEditable "bottomnextsite" --><a href="nat.htm">Next Site</a><!-- #EndEditable --><br>
+    Essays: <a href="earlierexplorations.htm">Earlier Explorations</a> | <a href="preparing.htm">Preparing 
+    for the Journey</a> | <a href="journey.htm">The Journey</a> |<br>
+    <a href="encounters.htm">Scientific Encounters</a> | <a href="indians.htm">American 
+    Indians</a> | <a href="trailtoday.htm">The Trail Today</a></p>
+  <p><a href="intro.htm#citations"><font size="-1">Journal Citations</font></a><br>
+    <font size=-1><a href="mailto:nr_travel@nps.gov"> Comments or Questions</a> 
+    </font><br>
+    <font size=-1><!--#include virtual="/scripts/lastmod"--><br>
+    JPJ/RQ/SB</font> </p>
+  </div>
+</body>
+<!-- #EndTemplate --></html>

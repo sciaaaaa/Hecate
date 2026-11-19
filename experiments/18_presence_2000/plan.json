@@ -1,0 +1,84 @@
+{
+  "format": "HECATE-STUDY-2000-v1",
+  "im_bytes": 1024,
+  "pairs_per_batch": 100,
+  "threshold": 0.5,
+  "model_seed": 20261017,
+  "bootstrap_seed": 20261031,
+  "bootstrap_repeats": 2000,
+  "feature_sets": [
+    "F1_gas",
+    "F2_gas_structure",
+    "F3_public_statistics"
+  ],
+  "models": [
+    "dummy",
+    "logistic",
+    "random_forest",
+    "xgboost"
+  ],
+  "selection": "maximum validation AUC, first candidate on ties; threshold fixed at 0.5; no refit on validation",
+  "batches": [
+    {
+      "number": 1,
+      "experiment": "presence-p100-1k-01",
+      "seed": 20261017,
+      "role": "train"
+    },
+    {
+      "number": 2,
+      "experiment": "presence-p100-1k-02",
+      "seed": 20261020,
+      "role": "train"
+    },
+    {
+      "number": 3,
+      "experiment": "presence-p100-1k-03",
+      "seed": 20261023,
+      "role": "train"
+    },
+    {
+      "number": 4,
+      "experiment": "presence-p100-1k-04",
+      "seed": 20261024,
+      "role": "train"
+    },
+    {
+      "number": 5,
+      "experiment": "presence-p100-1k-05",
+      "seed": 20261025,
+      "role": "train"
+    },
+    {
+      "number": 6,
+      "experiment": "presence-p100-1k-06",
+      "seed": 20261026,
+      "role": "validation"
+    },
+    {
+      "number": 7,
+      "experiment": "presence-p100-1k-07",
+      "seed": 20261027,
+      "role": "validation"
+    },
+    {
+      "number": 8,
+      "experiment": "presence-p100-1k-08",
+      "seed": 20261028,
+      "role": "test"
+    },
+    {
+      "number": 9,
+      "experiment": "presence-p100-1k-09",
+      "seed": 20261029,
+      "role": "test"
+    },
+    {
+      "number": 10,
+      "experiment": "presence-p100-1k-10",
+      "seed": 20261030,
+      "role": "test"
+    }
+  ],
+  "scope": "Reuse B01/B02 only as development data. Primary test B08-B10 after freezing all models. Same account and deployment; im1KiB only. All nine real detector combinations and three dummy baselines reported; do not choose winner by test score."
+}

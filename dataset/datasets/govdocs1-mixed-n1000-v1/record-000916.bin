@@ -1,0 +1,194 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Invasive Species Sheet - Black Locust | Connecticut NRCS</title>
+
+<link rel="stylesheet" type="text/css" href="common/style.css">
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="common/mediumtext.css" title="Medium Text">
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="common/largetext.css" title="Large Text">
+<link rel="shortcut icon" type="image/ico" href="common/favicon.ico">
+<link rel="icon" type="image/png" href="common/favicon.png">
+<script type="text/javascript" src="common/nrcs.js"></script>
+<meta name="Microsoft Border" content="tlrb, default">
+</head>
+
+<body marginwidth="0" marginheight="0"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+
+<a name="top" id="top"></a>
+<table bgcolor="#3366cc" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="100%">
+    <!-- Logos --><a href="http://www.usda.gov/">
+    <img src="common/header_usda.gif" alt="United States Department of Agriculture" border="0" hspace="5" width="314" height="13"></a><br>
+    <a href="http://www.nrcs.usda.gov/">
+    <img src="common/header_nrcs.gif" alt="Natural Resources Conservation Service" border="0" hspace="5" width="314" height="47"></a></td>
+    <td align="right" width="100%">
+    <!-- Site Name --><a href="./">
+    <img src="common/header_sitename.gif" alt="Connecticut" border="0" hspace="3" width="152" height="70"></a></td>
+    <td>
+    <!-- Accessibility Jumps -->
+    <a href="http://www.nrcs.usda.gov/accessibility.html">
+    <img src="common/spacer.gif" alt="Go to Accessibility Information" border="0" width="1" height="1"></a><br>
+    <a href="#content" accesskey="k">
+    <img src="common/spacer.gif" alt="Skip to Page Content" border="0" width="1" height="1"></a><br>
+    </td>
+    <td align="right" id="headerPhoto">
+    <!-- Site Photo -->
+    <img src="common/header_photo.jpg" alt="Aerial photo of Connecticut." width="202" height="70" align="left"></td>
+  </tr>
+</table>
+<table width="100%" id="navBar" border="0" cellpadding="4" cellspacing="0">
+  <tr valign="top">
+    <td id="navLinks" width="87%">
+    <!-- Primary Navigation --><a href="./">Connecticut&nbsp;Home</a>
+    <img src="common/nav_sep.gif" alt="" align="absmiddle" hspace="1" width="1" height="17">
+    <a href="about/">About&nbsp;Us</a>
+    <img src="common/nav_sep.gif" alt="" align="absmiddle" hspace="1" width="1" height="17">
+    <a href="news/">News</a>
+    <img src="common/nav_sep.gif" alt="" align="absmiddle" hspace="1" width="1" height="17">
+    <a href="programs/">Programs</a>
+    <img src="common/nav_sep.gif" alt="" align="absmiddle" hspace="1" width="1" height="17">
+    <a href="technical/">Technical&nbsp;Resources</a>
+    <img src="common/nav_sep.gif" alt="" align="absmiddle" hspace="1" width="1" height="17">
+    <a href="partnerships/">Partnerships</a>
+    <img src="common/nav_sep.gif" alt="" align="absmiddle" hspace="1" width="1" height="17">
+    <a href="contact/">Contact&nbsp;Us</a>&nbsp; </td>
+    <td align="right" id="navSize" nowrap>&nbsp;<!-- Text Size Tool -->
+    <img src="common/nav_sep.gif" alt="" hspace="1" width="1" height="17"><a title="Small Text Size" id="navSmallText" href="#" onClick="setActiveStyleSheet('default'); return false"><img src="common/nav_smalltext.gif" alt="Small Text Size" border="0" width="17" height="17"></a><img src="common/nav_sep.gif" alt="" hspace="1" width="1" height="17"><a title="Medium Text Size" id="navMediumText" href="#" onClick="setActiveStyleSheet('Medium Text'); return false"><img src="common/nav_medtext.gif" alt="Medium Text Size" border="0" width="17" height="17"></a><img src="common/nav_sep.gif" alt="" hspace="1" width="1" height="17"><a title="Large Text Size" id="navLargeText" href="#" onClick="setActiveStyleSheet('Large Text'); return false"><img src="common/nav_largetext.gif" alt="Large Text Size" border="0" width="17" height="17"></a></td>
+  </tr>
+</table>
+
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+		<table id="leftBar" border="0" cellpadding="0" cellspacing="0" height="171">
+          <tr>
+            <td>
+            <form id="search" name="search" action="http://www.nrcs.usda.gov/search.asp" method="get">
+              <table border="0" cellpadding="2" cellspacing="0">
+                <tr>
+                  <td colspan="2" id="searchLabel"><label for="searchSite">
+                  Search</label></td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                  <select name="ct" id="searchSite" tabindex="1" size="1" accesskey="s">
+                  <option value="CT" selected>Connecticut</option>
+                  <option value="ALL">All NRCS Sites</option>
+                  <option value="USDA">NRCS, FSA &amp; RD</option>
+                  </select> <span id="searchFor">&nbsp;<label for="searchTerms">for</label></span></td>
+                </tr>
+                <tr>
+                  <td>
+                  <input type="text" tabindex="2" name="qu" id="searchTerms" size="11" onFocus="ClearSearch(this)" value="Enter Keywords"></td>
+                  <td>
+                  <input type="image" tabindex="3" src="common/button_go.gif" alt="Go" name="Go" value="Search" border="0" width="32" height="19"></td>
+                </tr>
+              </table>
+              <input type="hidden" name="site" value="CT">
+            </form>
+            <div id="auxnav">
+              <ul>
+                <li><a href="http://offices.sc.egov.usda.gov/locator/app">Find a 
+                Service Center</a></li>
+              </ul>
+            </div>
+            </td>
+          </tr>
+          <tr>
+            <td>
+            <div id="subnav">
+              <h2>Quick Access</h2>
+              <ul>
+                <li><a href="http://www.nrcs.usda.gov/programs/soilsurvey/">
+                National Soil Survey Program</a></li>
+                <li><a href="http://soils.usda.gov/">National Soil Survey 
+                Division</a></li>
+                <li>
+                <a href="http://fargo.nserl.purdue.edu/rusle2_dataweb/RUSLE2_Index.htm">
+                Revised Universal Soil Loss Equation Project (RUSLE2)</a></li>
+                <li><a href="http://www.nrcs.usda.gov/technical/NRI/">National 
+                Resources Inventory (NRI)</a></li>
+                <li><a href="http://soils.usda.gov/use/worldsoils/">World Soil 
+                Resources</a></li>
+              </ul>
+            </div>
+            </td>
+          </tr>
+        </table>
+        <a name="content" id="content"></a>
+
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+
+
+<h4>Invasive Species Identification Sheet </h4>
+<h1>Black Locust (<font face="Verdana"><em>Robinia pseudoacacia</em></font> L.<font face="Verdana"><em>)</em></font></h1>
+<p>Alternate common names: Locust-tree; False or Bastard Acacia; White, Yellow, 
+Green, Red-flowering, Common, Honey-, Post-, or Peaflower Locust.</p>
+<p>Alternate Latin names: <font face="Verdana"><em>Pseudo-Acacia odorata</em></font> 
+Moench, <font face="Verdana"><em>Robinia Pseudo-Acacia</em></font> L.<br>
+- deciduous tree; 40'-100' tall; may produce thickets from root sprouts<br>
+- leaves alternate; each with <em><font face="Verdana">7-21 leaflets arranged</font></em> 
+in pairs along leaf mainstem<br>
+- leaflets with smooth margins; dark or bluish green on top, lighter beneath<br>
+- twigs/branches with <em><font face="Verdana">pairs</font></em> of 1/4&quot;-1&quot; long 
+spines where alternate leaves are/were attached<br>
+- except for the pairs of spines, twigs are smooth (with no bristles or glands)<br>
+- flowers white, fragrant, sweetpea-shaped; in 4&quot;-8&quot; long drooping clusters; 
+May-June<br>
+- fruit flat, bean-like pod; brown and split open in the fall when dry; persists 
+in Winter<br>
+- bark deeply furrowed, rough and twisted, with horizontal checks; smooth on 
+saplings</p>
+<p>The paired, thorny spines distinguish Black Locust trees, even in the winter. 
+The lack of either sticky glands or a bristly surface differentiates young Black 
+Locust twigs from twigs of related shrubs in the genus <font face="Verdana"><em>
+Robinia</em></font>. Sweetpea-type flowers (with their 5 petals arranged as 1 
+large petal, 2 side-wing petals, and 2 petals fused into a boatlike keel) 
+distinguish all species of <font face="Verdana"><em>Robinia</em></font> from 
+unrelated species that have paired thorns. Black Locust flowers are normally 
+white, but pink cultivars exist. In mid-summer, leaves may appear brown or lacey 
+because of insect attack. <font face="Verdana"><em>Honeylocust</em></font> (<font face="Verdana"><em>Gleditsia 
+triacanthos</em></font> L., sometimes, confusingly, also called Black Locust) 
+lacks<br>
+sweetpea-like flowers and <em><font face="Verdana">has</font></em> 
+twice-compound leaves and <em><font face="Verdana">single</font></em> (sometimes 
+branched) <em><font face="Verdana">thorns</font></em>.</p>
+<p>Black Locust is native only from Monroe Co., PA, south to GA, and west to IA, 
+MO, and OK. Its rootsprout colonies choke out native vegetation in dry areas as 
+well as along streams. In barren areas, its ability to add nitrogen to the soil 
+can promote the survival of non-native plants.<br>
+</p>
+<p class="goback"><a href="invas-factsheets.html">&lt; Back to Invasives</a></p>
+
+
+<!--msnavigation--></td><td valign="top" width="24"></td><td valign="top" width="1%">
+<p>&nbsp;</p>
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<div id="footer">
+  <hr size="1" noshade>
+  <table border="0" cellpadding="2" cellspacing="0">
+    <tr valign="top">
+      <td width="155" id="footerLeft" nowrap>&nbsp;<a href="#top"><img src="common/footer_uparrow.gif" alt="" border="0" width="11" height="8">Back&nbsp;to&nbsp;Top</a>&nbsp;&nbsp;</td>
+      <td id="footerLinks"><a href="./"><strong>Connecticut&nbsp;<acronym title="Natural Resources Conservation Service">NRCS</acronym>&nbsp;Home</strong></a> 
+      &nbsp;|&nbsp; <a href="sitemap.html">Site&nbsp;Map</a> &nbsp;|&nbsp;
+      <a href="contact/">Contact</a> &nbsp;|&nbsp;
+      <a href="http://www.nrcs.usda.gov/accessibility.html">Accessibility</a> &nbsp;|&nbsp;
+      <a href="http://www.nrcs.usda.gov/">
+      <acronym title="Natural Resources Conservation Service">NRCS</acronym></a> 
+      &nbsp;|&nbsp; <a href="http://www.usda.gov/">
+      <acronym title="United States Department of Agriculture">USDA</acronym></a><br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</td></tr><!--msnavigation--></table></body>
+</html>

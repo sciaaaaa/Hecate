@@ -1,0 +1,1444 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!------------------------------------------------->
+<!-- Department of Transportation | PHMSA portal -->
+<!------------------------------------------------->
+
+<!-- Vignette Application Portal 7.2.2 (build 251) (JAR 7.2.2 SP4 2008-04-30 1304635 build 251) -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>PHMSA - Technical Advisory Committees </title>
+	
+	<meta name="DC.title" content="PHMSA - Technical Advisory Committees" />
+	<meta name="DC.description" content="PHMSA - US Department of Transportation Pipeline and Hazardous Materials Safety Administration" />
+	<meta name="description" content="PHMSA - US Department of Transportation Pipeline and Hazardous Materials Safety Administration" />
+	<meta name="DC.creator" content="Department of Transportation's Pipeline and Hazardous Materials Safety Administration" />
+	<meta name="DC.date.created" scheme="ISO 8601" content="2007-08-14" />
+	<meta name="DC.date.reviewed" scheme="ISO 8601" content="2007-08-14" />
+	<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+	<meta name="channel" content="Technical Advisory Committees" />	
+	
+	<base target="_top">
+	<script language="JavaScript" src="/portal/jslib/form_state_manager.js"></script>
+	<noscript>
+	</noscript>	
+	<link rel="stylesheet" type="text/css" href="/portal/css/portal0123163222142612316322214261192248514141.css">
+
+	
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+	<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+	<link rel="P3Pv1" href="/phmsa-ext/policy/p3p.xml" />
+	<link rel="stylesheet" type="text/css" href="/staticfiles/PHMSA/SiteStylesheets/phmsa_public_global.css" />
+	<link rel="stylesheet" type="text/css" href="/staticfiles/PHMSA/SiteStylesheets/content_area_render.css" />
+	
+	
+	
+	
+	<link rel="stylesheet" type="text/css" href="/staticfiles/PHMSA/SiteStylesheets/phmsa_public_pipeline.css" />
+	
+	
+	
+</head>
+
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+<table border="0" valign="top" align="center" cellpadding="0" cellspacing="0" summary="This table is used for layout purposes only">	
+<tr>
+	<td>
+
+
+
+
+		
+
+
+</td>
+</tr>
+<tr>
+	<td id="grid" valign="top" align="center"><a href="#content" tabindex="1" title="Skip Navigation"></a>
+
+
+
+
+
+    
+    
+    
+	
+    
+
+
+
+
+
+
+
+
+
+
+<!-- Start Page Controls - Horz Area -->
+
+<!-- End Page Controls - Horz Area -->
+
+
+<table border="0" cellspacing="0" cellpadding="0"  width=100% height="240">
+
+	
+	<tr>
+		<td width="100%" valign="top">
+			<table border="0" width="100%" cellpadding="0" cellspacing="0">
+		  	<tr>
+			
+			  	<td width=1% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            <div xmlns:DPMUtil="com.vignette.ext.templating.util" class="header">
+<a href="/portal/site/PHMSA"><img border="0" alt="[Header] PHMSA - U.S. Department of Transportation - Pipeline and Hazardous materials Safety Adminis" src="/staticfiles/PHMSA/SiteHeaders/Images/PHMSASiteHeader.gif"></a>
+</div>
+
+
+
+
+
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+			  	<td width=99% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="floatingLinks">
+
+			<span class="item"><a href="/careers">Careers</a></span>
+			
+				|
+				
+			<span class="item"><a href="/about/contact">Contact Us</a></span>
+			
+				|
+				
+			<span class="item"><a href="/about/faq">FAQs</a></span>
+			
+				|
+				
+			<span class="item"><a href="/about/sitemap">Site Map</a></span>
+			
+</td>
+    <td class="floatRight"><img src="/staticfiles/PHMSA/SiteImages/Common/spacer.gif" alt="spacer" width="11" height="11" /></td>
+  </tr>
+</table>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+	
+<form id="simpleSearchForm" name="simpleSearchForm" action="/vgn-ext-templating/v/index.jsp" method="get">
+	<input type="hidden" name="vgnextoid" value="4a38272cb3eae010VgnVCM1000008055a8c0RCRD" />
+	<input type="hidden" name="vgnextchannel" value="4a38272cb3eae010VgnVCM1000008055a8c0RCRD" />
+	<input class="textBox" type="text" name="as_q" size="20" value="" alt="PHMSA Search" tabindex="2" />
+	<input class="goButton" type="submit" value="Go" tabindex="3" />
+	<div class="advancedSearch"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=4a38272cb3eae010VgnVCM1000008055a8c0RCRD&vgnextchannel=4a38272cb3eae010VgnVCM1000008055a8c0RCRD&showAdv=1&as_epq=&as_eq=&as_dt=&sort=&as_sitesearch=&num=10&as_oq=&as_occt=&as_q="  tabindex="4">Advanced Search</a></div>
+</form>
+	
+
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+         	</tr>
+      		</table>
+    	</td>
+	</tr>
+	
+		<!-- vertical spacer between divs/rows - begins -->
+		<!-- vertical spacer between divs/rows - ends -->
+		
+	<tr>
+		<td width="100%" valign="top">
+			<table border="0" width="100%" cellpadding="0" cellspacing="0">
+		  	<tr>
+			
+			  	<td width=100% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0" class="keyAudienceMenu"><tr><td class="keyAudienceMenuSpacer">
+</td>
+
+
+			<td class="KeyAudienceMenuItem_1"><a href="/public">For the Public<br />&nbsp;</a></td>			
+		
+			<td class="KeyAudienceMenuItem_2"><a href="/hazmat">Hazmat Safety Community</a></td>			
+		
+			<td class="KeyAudienceMenuItem_3"><a href="/pipeline">Pipeline Safety Community</a></td>			
+		
+			<td class="KeyAudienceMenuItem_4"><a href="/media-congress">Media | Congress<br />&nbsp;</a></td>			
+		
+			<td class="KeyAudienceMenuItem_5"><a href="/doing-biz">Doing Business with PHMSA</a></td>			
+		
+</tr></table>
+
+
+
+
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+         	</tr>
+      		</table>
+    	</td>
+	</tr>
+	
+		<!-- vertical spacer between divs/rows - begins -->
+		<!-- vertical spacer between divs/rows - ends -->
+		
+	<tr>
+		<td width="100%" valign="top">
+			<table border="0" width="100%" cellpadding="0" cellspacing="0">
+		  	<tr>
+			
+			  	<td width=1% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="activeSubMenu">
+<div class="spacer">&nbsp;</div>	
+
+				<li><a href="/pipeline/about" title="About Us" >About Us</a></li>
+	
+				
+				<li><a href="/pipeline/calendar" title="Calendar" >Calendar</a></li>
+	
+				
+				<li><a href="/pipeline/about/contact" title="Contact Us" >Contact Us</a></li>
+	
+				
+				<li><a href="/pipeline/library/data-stats" title="Data & Statistics" >Data & Statistics</a></li>
+	
+				
+				<li><a href="/pipeline/regs/drug" title="Drug & Alcohol Testing" >Drug & Alcohol Testing</a></li>
+	
+				
+				<li><a href="/pipeline/enforcement" title="Enforcement" >Enforcement</a></li>
+	
+				
+				<li><a href="/pipeline/initiatives/partners" title="Federal and State Partners" >Federal and State Partners</a></li>
+	
+				
+				<li><a href="/pipeline/initiatives" title="Initiatives" >Initiatives</a></li>
+	
+				
+				<li><a href="http://primis.phmsa.dot.gov/comm/InspectionEnforcement.htm" title="Inspection" >Inspection</a></li>
+	
+				
+				<li><a href="/pipeline/imp" title="Integrity Management Program (IMP)" >Integrity Management Program (IMP)</a></li>
+	
+				
+				<li><a href="/pipeline/library" title="Library" >Library</a></li>
+	
+				
+				<li><a href="http://opsweb.rspa.dot.gov/cfdocs/opsapps/pipes/main.cfm" title="Online Data Entry" >Online Data Entry</a></li>
+	
+				
+				<li><a href="/pipeline/outreach" title="Outreach: Stakeholder Awareness" >Outreach: Stakeholder Awareness</a></li>
+	
+				
+				<li><a href="/pipeline/regs" title="Regulations" >Regulations</a></li>
+	
+				
+				<li><a href="http://primis.phmsa.dot.gov/rd/" title="Research & Development" >Research & Development</a></li>
+	
+				
+				<li><a href="/pipeline/security" title="Security" >Security</a></li>
+	
+				
+				<li><a href="/pipeline/regs/special-permits" title="Special Permits" >Special Permits</a></li>
+	
+				
+				<li><a href="/pipeline/state-programs" title="State Programs" >State Programs</a></li>
+	
+				
+				<li><a href="/pipeline/regs/technical-advisory-comm" title="Technical Advisory Committees" >Technical Advisory Committees</a></li>
+	
+				
+				<li><a href="/pipeline/tq" title="Training & Qualifications" >Training & Qualifications</a></li>
+	
+					
+</div>
+<div class="activeSubMenuBottom">&nbsp;</div>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+	 	
+
+<div class="Key_Menu_Home">
+  	<a href="/home"><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/home.gif" alt="PHMSA Home" border="0" /></a>
+</div>
+
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="Key_Menu_About">
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/about.gif" alt="About PHMSA" width="150" height="43" class="Key_Menu_About_header" /></li>
+
+			<li><a href="/about/mission">Mission and Goals</a></li>
+			
+		
+			
+			<li><a href="/about/agency">About the Agency</a></li>
+			
+		
+			
+			<li><a href="/about/key-officials">Key Officials</a></li>
+			
+		
+			
+			<li><a href="/about/org">Organization</a></li>
+			
+		
+			
+			<li><a href="/about/calendar">Calendar</a></li>
+			
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/bottom-box.gif" alt=" " /></li>
+</ul>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="Key_Menu_PSS">
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/PSS.gif" alt="Promoting Safety &amp; Security" width="150" height="43" class="Key_Menu_PSS_header" /></li>
+
+	
+	
+			<li><a href="/regulations">Regulations</a></li>
+			
+			
+			
+			<li><a href="/special-permits-approvals">Special Permits & Approvals</a></li>
+			
+			
+			
+			<li><a href="/international">International Standards</a></li>
+			
+			
+			
+			<li><a href="/security">Security</a></li>
+			
+			
+			
+			<li><a href="/initiatives">Initiatives</a></li>
+			
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/bottom-box.gif" alt=" " /></li>
+</ul>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="Key_Menu_EncComp">
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/ENCcomp.gif" alt="Encouraging Compliance" width="150" height="43" class="Key_Menu_EncComp_header" /></li>
+
+
+	
+	
+			<li><a href="/training">Training Resources</a></li>
+			
+			
+			
+			<li><a href="/outreach">Outreach</a></li>
+			
+			
+			
+			<li><a href="/inspect-enforce">Inspections & Enforcement</a></li>
+			
+			
+			
+			<li><a href="/drug">Drug & Alcohol Testing</a></li>
+			
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/bottom-box.gif" alt=" " /></li>
+</ul>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="Key_Menu_SupCom">
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/SCR.gif" alt="Supporting Community Response" width="150" height="43" class="Key_Menu_SupCom_header" /></li>
+
+			<li><a href="/prepare-respond">Preparedness & Response</a></li>
+			
+			<li><a href="/grants-state-programs">State Programs & Grants</a></li>
+			
+			<li><a href="/incident-report">Incident Reporting</a></li>
+			
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/bottom-box.gif" alt=" " /></li>
+</ul>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="Key_Menu_Resources">
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/resources.gif" alt="PHMSA Resources" width="150" height="43" class="Key_Menu_Resources_header" /></li>
+
+
+			<li><a href="/resources/data-stats">Data & Statistics</a></li>
+			
+			<li><a href="/resources/e-forms">eForms</a></li>
+			
+			<li><a href="/resources/e-pay">ePayments</a></li>
+			
+			<li><a href="/resources/glossary">Glossary</a></li>
+			
+			<li><a href="/resources/library">Library</a></li>
+			
+
+<li><img src="/staticfiles/PHMSA/SiteImages/KeyContentMenu/bottom-box.gif" alt=" " /></li>
+</ul>
+
+
+
+
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+			  	<td width=99% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="breadcrumb"><div class="trail">		 				 	
+
+			<a href="/home">Home</a>
+			
+				&nbsp;&raquo;&nbsp;
+				
+			<a href="/pipeline">Pipeline Safety Community</a>
+			
+				&nbsp;&raquo;&nbsp;
+				
+			<a href="/pipeline/regs">Regulations</a>
+			
+				&nbsp;&raquo;&nbsp;
+				
+			<a href="/pipeline/regs/technical-advisory-comm">Technical Advisory Committees</a>
+				
+</div></div>
+
+
+
+
+
+	
+	
+
+	
+
+	
+    
+    
+
+	
+		
+
+
+
+
+
+		 				 	
+
+
+
+
+
+
+
+
+
+
+
+
+<!--PAGEWATCH CODE=""-->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+<tr>
+	<!------------------------->
+	<!-- Main Content Region -->
+	<!------------------------->
+	<td valign="top" width="100%">
+		<a id="content" name="content" />
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		
+			<tr>
+				<td>
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+	<td id="404499547_PO" >
+		
+		<div class="pageOverview">
+		
+			<div class="title">Technical Advisory Committees</div>
+			
+			<div class="description">The Pipeline and Hazardous Materials Safety Administration (PHMSA) has two pipeline safety standards advisory committees that are mandated by legislation. The Natural Gas Pipeline Safety Act of 1968 established the <b>Technical Pipeline Safety Standards Committee (TPSSC)</b>, and the Hazardous Liquid Safety Act of 1979 established the <b>Technical Hazardous Liquid Pipeline Safety Standards Committee (THLPSSC)</b>.</div>
+			
+		</div>
+	</td>
+</tr>		
+</table></td>
+			</tr>	
+			
+			<tr>
+				<td>
+
+
+
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+
+		<tr>
+	<td id="404499547_MCS_S_0" valign="top" >
+	
+	<div class="mainContentSet">
+	
+	<b class="spiffy"><b class="spiffy1"><b></b></b><b class="spiffy2"><b></b></b><b class="spiffy3"></b><b class="spiffy4"></b><b class="spiffy5"></b></b>
+	
+		<div class="title">Role of Technical Advisory Committees</div>
+		
+		<div class="description">The committees provide peer reviews of all proposed pipeline safety rules to assure technical feasibility, reasonableness, cost-effectiveness and practicability. They also evaluate cost-benefit analysis and risk assessment information on each proposal. 
+</div>
+		
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="/pipeline/regs/technical-advisory-comm/TPSSC" title="Technical Pipeline Safety Standards Committee (TPSSC)" >Technical Pipeline Safety Standards Committee (TPSSC)</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="/pipeline/regs/technical-advisory-comm/liquid-pipeline" title="Technical Hazardous Liquid Pipeline Safety Standards Committee (THLPSSC)" >Technical Hazardous Liquid Pipeline Safety Standards Committee (THLPSSC)</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+</div>
+</td>
+</tr>
+		
+		<tr>
+	<td id="404499547_MCS_S_1" valign="top" >
+	
+	<div class="mainContentSet">
+	
+	<b class="spiffy"><b class="spiffy1"><b></b></b><b class="spiffy2"><b></b></b><b class="spiffy3"></b><b class="spiffy4"></b><b class="spiffy5"></b></b>
+	
+		<div class="title">Federal Agency Responsibility</div>
+		
+		<div class="description">These committees are chartered under the Federal Advisory Committee Act (FACA), 5 U.S.C § 9 (c) (App 2). The charters describe each committee’s mission, goals, and objectives as specified by the FACA. The FACA governs advisory committee activities, and requires the Department to review the pipeline technical advisory committee charters every two years to determine the need for continuing the committees. The Secretary of Transportation and the General Services Administration (GSA) must approve each charter. For more information on the requirements of the FACA, contact GSA’s Committee Management Secretariat.</div>
+		
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="http://www.archives.gov/federal-register/laws/fed-advisory-committee/09.html" title="Federal Advisory Committee Act (FACA), 5 U.S.C § 9 (c) (App 2)" >Federal Advisory Committee Act (FACA), 5 U.S.C § 9 (c) (App 2)</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="http://www.gsa.gov/Portal/gsa/ep/channelView.do?pageTypeId=8203&channelPage=/ep/channel/gsaOverview.jsp&channelId=-13170" title="GSA's Committee Management Secretariat" >GSA's Committee Management Secretariat</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+</div>
+</td>
+</tr>
+		
+		<tr>
+	<td id="404499547_MCS_S_2" valign="top" colspan="1" >
+	
+	<div class="mainContentSet">
+	
+	<b class="spiffy"><b class="spiffy1"><b></b></b><b class="spiffy2"><b></b></b><b class="spiffy3"></b><b class="spiffy4"></b><b class="spiffy5"></b></b>
+	
+		<div class="title">Appointing Committee Members</div>
+		
+		<div class="description">Each pipeline safety advisory committee has 15 members – with equal representation from Government, industry, and the public. Members’ qualifications must include: 
+
+(1) knowledge of the Pipeline Safety Regulations addressing transportation of hazardous liquids or natural gas, and experience with operating pipeline facilities; or,  
+(2) technical training, experience, or knowledge in at least one field of engineering applicable to the safe operations of pipeline facilities. 
+
+The charter includes a description of the composition and duties delineated in current legislation 49 U.S.C. § 60115. </div>
+		
+					       	<div class="item">
+					       		<table border="0" cellpadding="0" cellspacing="0">
+					       		<tr>
+					       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+					       			<td><a href="http://uscode.house.gov/uscode-cgi/fastweb.exe?getdoc+uscview+t49t50+1277+1++" title="49 U.S.C. § 60115" >49 U.S.C. § 60115</a></td>
+					       		</tr>
+					       		
+					       		</table>	
+					       	</div>
+					       	
+</div>
+</td>
+</tr>
+		
+</table></td>
+			</tr>	
+			
+		</table>		
+	</td>
+	
+	<!------------------------->
+	<!-- Side Content Region -->
+	<!------------------------->
+	
+		<td valign="top" width="250px">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			
+			<tr>
+				<td>
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+	<tr>
+		<td id="404499547_SCS_0" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Mini-Menu</div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/technical-advisory-comm" title="<b>Technical Advisory Committees home</b>" ><b>Technical Advisory Committees home</b></a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/technical-advisory-comm/TPSSC" title="Technical Pipeline Safety Standards Committee (TPSSC)" >Technical Pipeline Safety Standards Committee (TPSSC)</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/technical-advisory-comm/liquid-pipeline" title="Technical Hazardous Liquid Pipeline Safety Standards Committee (THLPSSC)" >Technical Hazardous Liquid Pipeline Safety Standards Committee (THLPSSC)</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="404499547_SCS_1" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Mini-Menu</div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs" title="<b>Regulations home</b>" ><b>Regulations home</b></a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/advisory-bulletin" title="Advisory Bulletins" >Advisory Bulletins</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/technical-advisory-comm" title="Technical Advisory Committees" >Technical Advisory Committees</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/drug" title="Drug & Alcohol Testing" >Drug & Alcohol Testing</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/interps" title="Interpretations" >Interpretations</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/notices" title="Notices" >Notices</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/ntsb" title="NTSB Recommendations" >NTSB Recommendations</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/rulemaking" title="Rulemaking" >Rulemaking</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/special-permits" title="Special Permits (formerly Waivers)" >Special Permits (formerly Waivers)</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="/pipeline/regs/contact" title="Contact Us" >Contact Us</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="404499547_SCS_2" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Related Links</div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://www.archives.gov/federal-register/laws/fed-advisory-committee/index.html" title="Federal Advisory Committee Act (FACA)" >Federal Advisory Committee Act (FACA)</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://www.gsa.gov/Portal/gsa/ep/channelView.do?pageTypeId=8203&channelPage=/ep/channel/gsaOverview.jsp&channelId=-13170" title="Committee Management Secretariat: GSA" >Committee Management Secretariat: GSA</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://thomas.loc.gov/" title="49 United States Code, Section 60115" >49 United States Code, Section 60115</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://www.regulations.gov" title="Federal Docket Management System (Opens in new window)" target="_new">Federal Docket Management System</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td id="404499547_SCS_3" valign="top" style="padding-top:5px;padding-bottom:5px;">
+		
+			<div class="sideContentSet-frame">
+			
+			<div class="title">Application Process & Forms</div>
+			
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://ops.dot.gov/init/TAC/ADVISORY%20COMMITTEE%20CANDIDATE.pdf" title="Advisory Committee Candidate Biographical Information (DOT F1120.1) (PDF) (Opens in new window)" target="_new">Advisory Committee Candidate Biographical Information (DOT F1120.1) (PDF)</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		       	<div class="item">
+		       		<table border="0" cellpadding="0" cellspacing="0">
+		       		<tr>
+		       			<td valign="top"><div class="bullet">&nbsp;</div></td>
+		       			<td><a href="http://ops.dot.gov/init/TAC/OUALIFYING%20FACTOR%20FOR%20APPLICANTS%20TO%20SERVE%20AS%20PUBLIC%20MEMBERS%20OF%20RSPA.pdf" title="Certification of Significant Financial Interest (PDF) (Opens in new window)" target="_new">Certification of Significant Financial Interest (PDF)</a></td>
+		       		</tr>
+		       		
+		       		</table>	
+		       	</div>
+		       	
+		</div>
+		</td>
+	</tr>
+	
+</table></td>
+			</tr>
+			</table>
+		</td>
+				
+</tr>
+</table>
+
+<!--/PAGEWATCH-->
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+         	</tr>
+      		</table>
+    	</td>
+	</tr>
+	
+		<!-- vertical spacer between divs/rows - begins -->
+		<!-- vertical spacer between divs/rows - ends -->
+		
+	<tr>
+		<td width="100%" valign="top">
+			<table border="0" width="100%" cellpadding="0" cellspacing="0">
+		  	<tr>
+			
+			  	<td width=100% valign="top" align="left">
+			    	
+    
+    
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="page_bottom">
+
+
+		<a href="/careers" title="Careers">Careers</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/contact" title="Contact Us">Contact Us</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/no-fear" title="No Fear">No Fear</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/privacy" title="Privacy Policy">Privacy Policy</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/foia" title="FOIA">FOIA</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/accessibility" title="Accessibility">Accessibility</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/faq" title="FAQs">FAQs</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/web-policy" title="Web Policies">Web Policies</a>
+		
+			&nbsp;|&nbsp;
+			
+		<a href="/about/sitemap" title="Site Map">Site Map</a>
+		
+			&nbsp;|&nbsp;
+			
+			<a href="/phmsa-ext/redirect/externalLink.jsp?name=Download Acrobat&new=true&url=http%3A%2F%2Fwww.adobe.com%2Fproducts%2Facrobat%2Freadstep2.html" title="Download Acrobat (Opens in new window)" target="_new">Download Acrobat</a>
+			
+</div>
+
+
+
+
+
+	
+	
+
+	
+
+	
+
+			    </td>
+				
+         	</tr>
+      		</table>
+    	</td>
+	</tr>
+	 
+	
+</table>
+	
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+

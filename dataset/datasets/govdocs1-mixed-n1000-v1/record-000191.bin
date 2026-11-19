@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<?xml-stylesheet href="\billres.xsl" type="text/xsl"?>-->
+<!--<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill v2.8 20020720//EN" "http://xml.house.gov/bill.dtd">-->
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill v2.8 20020720//EN" "http://thomas.loc.gov/dtd/bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HFC7B28F905BC44979C4E89E3FED2C7F" public-private="public" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>109 HR 3086 IH: WISEWOMAN Expansion Act of 2005</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2005-06-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form> 
+<distribution-code display="yes">I</distribution-code> 
+<congress>109th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 3086</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20050628">June 28, 2005</action-date> 
+<action-desc><sponsor name-id="D000216">Ms. DeLauro</sponsor> (for herself, <cosponsor name-id="L000169">Mr. Leach</cosponsor>, <cosponsor name-id="J000283">Mr. Jackson of Illinois</cosponsor>, <cosponsor name-id="O000159">Mr. Owens</cosponsor>, <cosponsor name-id="M000714">Ms. Millender-McDonald</cosponsor>, <cosponsor name-id="R000486">Ms. Roybal-Allard</cosponsor>, <cosponsor name-id="M000639">Mr. Menendez</cosponsor>, <cosponsor name-id="W001159">Ms. Wasserman Schultz</cosponsor>, <cosponsor name-id="M000590">Mr. McNulty</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="M000309">Mrs. McCarthy</cosponsor>, <cosponsor name-id="S000810">Mr. Stark</cosponsor>, <cosponsor name-id="J000126">Ms. Eddie Bernice Johnson of Texas</cosponsor>, <cosponsor name-id="K000172">Mr. Kildee</cosponsor>, <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>, <cosponsor name-id="U000039">Mr. Udall of New Mexico</cosponsor>, <cosponsor name-id="M000404">Mr. McDermott</cosponsor>, <cosponsor name-id="E000215">Ms. Eshoo</cosponsor>, <cosponsor name-id="C000380">Mrs. Christensen</cosponsor>, <cosponsor name-id="D000327">Mr. Dicks</cosponsor>, <cosponsor name-id="M000087">Mrs. Maloney</cosponsor>, <cosponsor name-id="B000652">Mr. Boswell</cosponsor>, <cosponsor name-id="M000312">Mr. McGovern</cosponsor>, <cosponsor name-id="W000215">Mr. Waxman</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson-Lee of Texas</cosponsor>, <cosponsor name-id="W000738">Ms. Woolsey</cosponsor>, <cosponsor name-id="M001149">Mr. Michaud</cosponsor>, <cosponsor name-id="W000314">Mr. Wexler</cosponsor>, and <cosponsor name-id="B001227">Mr. Brady of Pennsylvania</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To reduce health care costs and promote improved health by providing supplemental grants for additional preventive health services for women.</official-title> 
+</form> 
+<legis-body id="H5A9DE2E0375F4AB1871E74577DF128AA" style="OLC"> 
+<section section-type="section-one" id="HF63E6BC17E9544A4825D6FD44E67ECD3" display-inline="no-display-inline"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>WISEWOMAN Expansion Act of 2005</short-title></quote>.</text></section> 
+<section id="H4B34A0E6DEC8477A9FD967CE94F8453E"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">The Congress finds as follows:</text> 
+<paragraph id="H158E8D2375814B7085561400A9C27200"><enum>(1)</enum><text>Heart disease, stroke, and other cardiovascular diseases remain the leading cause of death among females in the United States, killing almost 500,000 women each year.</text></paragraph> 
+<paragraph id="H7E3DDCE76B3B451FBBCA46C653A26910"><enum>(2)</enum><text>About 1 in 4 females have some form of cardiovascular disease, killing more than the next 6 causes of death combined.</text></paragraph> 
+<paragraph id="HE777EC8143D743F8807B8B8560FF57BA"><enum>(3)</enum><text>In women, cardiovascular disease is frequently undetected and untreated until the disease has become severe, causing 42 percent of women who have heart attacks to die within 1 year.</text></paragraph> 
+<paragraph id="HDA10E55D1BB346A3A15CA7AEC3D1BAE1"><enum>(4)</enum><text>Obesity increases women’s risk for some of the leading causes of death: heart disease, stroke, diabetes, and certain cancers.</text></paragraph> 
+<paragraph id="H7C4F9677440E407B92F57F3FC93122CF"><enum>(5)</enum><text>Better nutrition and lifestyle changes can effectively prevent and treat obesity.</text></paragraph> 
+<paragraph id="H61662E2CB2164FD68BA6D007D6CEFC3"><enum>(6)</enum><text>Osteoporosis is a major public health threat for an estimated 44 million Americans.</text></paragraph> 
+<paragraph id="HC7F0768118A54CF183279DD08D02B84"><enum>(7)</enum><text>Women over age 50 accounted for over 75 percent of the total cases of osteoporosis of the hip in 2002.</text></paragraph> 
+<paragraph id="HCA9036E580AF4AA086863D9E488D4ED3"><enum>(8)</enum><text>One out of every 2 women over the age of 50 will have an osteoporosis-related fracture in her lifetime.</text></paragraph> 
+<paragraph id="H01DA64659ACC4320BADF15B7E3FACCFE"><enum>(9)</enum><text>The rate of hip fractures is two to three times higher in women than men.</text></paragraph> 
+<paragraph id="H67ECA88757C44421BC2B4E43C3770009"><enum>(10)</enum><text>The direct expenditures for osteoporotic fractures alone range from 12-18 billion dollars each year.</text></paragraph> 
+<paragraph id="H6A60FB27FD944E3A98D6DCA84C31CBD5"><enum>(11)</enum><text>Physical activity, calcium, and vitamin D are major contributors to bone health for individuals of all ages.</text></paragraph> 
+<paragraph id="HE8E58A2F953844FBBBFDA409FAEE36B4"><enum>(12)</enum><text>Muscular strength and balance may be very significant in future risk reduction for osteoporosis.</text></paragraph> 
+<paragraph id="H195AAB240A1446E9BF297FCFEDAA5590"><enum>(13)</enum><text>18.2 million Americans have diabetes, and over 200,000 people die each year from related complications. Among adults in the United States, diabetes increased 61 percent from 1990 to 2001. Diabetes is the sixth leading cause of death in America.</text></paragraph> 
+<paragraph id="H7C71CC5F238E449A86643D005F433FD4"><enum>(14)</enum><text>Approximately 8.7 percent of all women over the age of 20 in the United States have diabetes, but about one-third of them are unaware of it.</text></paragraph> 
+<paragraph id="H5898E0646CD647F9854B9E00E9E377FC"><enum>(15)</enum><text>The risk for cardiovascular disease, the most common complication attributable to diabetes, is more serious among women than men. Deaths from heart disease in women with diabetes have increased 23 percent over the past 30 years.</text></paragraph> 
+<paragraph id="HA148D3DDDD6E44AEBAE33142E8DEC5FD"><enum>(16)</enum><text>The direct and indirect costs of diabetes are over $132 billion a year.</text></paragraph> 
+<paragraph id="HA8146F59FD564188814D9B533EB8A407"><enum>(17)</enum><text>Better nutrition, physical activity, control of blood glucose levels, and access to services can delay the progression of diabetes. In fact, recent findings show that modest, consistent physical activity and a healthy diet can cut a person’s risk for developing type-2 diabetes by nearly 60 percent.</text></paragraph> 
+<paragraph id="HFED4C1D547574229B117354B9480033C"><enum>(18)</enum><text display-inline="yes-display-inline">The direct and indirect costs of diabetes are over $130 billion a year.</text></paragraph> 
+<paragraph id="HCBB755A745A94B4B9F39EFB1DB43F76B"><enum>(19)</enum><text>The WISEWOMAN program has—</text> 
+<subparagraph id="HE6293967888046399461CC1B8F6B70A2"><enum>(A)</enum><text>provided one-stop shopping for preventive health services such as cholesterol and blood pressure screening for more than 12,000 women and identified risk factors for heart disease such as obesity, high cholesterol, high blood pressure, sedentary behavior, and poor diet; and</text></subparagraph> 
+<subparagraph id="HFFBECF4B5C764A9AA39870CC5934E84"><enum>(B)</enum><text>identified more than 2,700 cases of previously undiagnosed hypertension, 3,000 cases of undiagnosed high cholesterol, and 400 cases of undiagnosed diabetes in women who would have been unaware of their risk factors if not for WISEWOMAN.</text></subparagraph></paragraph> 
+<paragraph id="H7EA2276C09274C008C39F63E814F77BA" display-inline="no-display-inline"><enum>(20)</enum><text>Research has demonstrated that—</text> 
+<subparagraph id="H6A19D07B823D42B0ADE03485722A759"><enum>(A)</enum><text>the uninsured often have significantly poorer health than the insured; and</text></subparagraph> 
+<subparagraph id="H1F38C9584DC84440B3A975A83068AB3D"><enum>(B)</enum><text>being uninsured is an obstacle to receiving preventive health care services.</text></subparagraph></paragraph></section> 
+<section id="H9997F82CCE514741B622DDDA8E96F32D"><enum>3.</enum><header>Supplemental grants for additional preventive health services for women</header><text display-inline="no-display-inline">Section 1509 of the <act-name parsable-cite="PHSA">Public Health Service Act</act-name> (<external-xref legal-doc="usc" parsable-cite="usc/42/300n-4a">42 U.S.C. 300n–4a</external-xref>) is amended to read as follows:</text> 
+<quoted-block act-name="Public Health Service Act" id="HFC11DB6E77F342FBAA6803F07CD14E55"> 
+<section id="H270BF1DD5CD74128A7CD6D7D9ECCCC44"><enum>1509.</enum><header>Establishment of program for additional preventive health services</header> 
+<subsection id="H6B1A4121628E4645A8FF5CBAD0855DAE"><enum>(a)</enum><header>In general</header><text>The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may, through a competitive review process, award grants to States that have received grants under section 1501 for a fiscal year, to enable such State to carry out programs—</text> 
+<paragraph id="HA82A6C38BDB541B684826D49DCD7119C"><enum>(1)</enum><text>to provide preventive health services, in addition to the services authorized in such section 1501, for diseases such as cardiovascular diseases, diabetes, osteoporosis, and obesity;</text></paragraph> 
+<paragraph id="H24CE92AC3C454CBDB8D7343DBAEC6500"><enum>(2)</enum><text>to provide screenings, such as screening for blood pressure, cholesterol, osteoporosis, and diabetes, and other services that the Secretary determines to be appropriate and feasible;</text></paragraph> 
+<paragraph id="HC64BB0F022A44A3FB85F20DEB1EF119B"><enum>(3)</enum><text>for health education, counseling, and interventions for behavioral risk factors, such as physical inactivity and poor nutrition, and diseases such as cardiovascular diseases, diabetes, osteoporosis, and obesity;</text></paragraph> 
+<paragraph id="H8991C184A0C54AE2903DD7F9D4A6B0A6"><enum>(4)</enum><text>to provide appropriate referrals for medical treatment of women receiving services pursuant to paragraph (1) through (3), and ensuring, to the extent practicable, the provision of appropriate follow-up services; and</text></paragraph> 
+<paragraph id="H60216016E3D745D98682C3EA88E7C6BB"><enum>(5)</enum><text>to evaluate the activities conducted under paragraphs (1) through (4) through appropriate surveillance, research, or program monitoring activities.</text></paragraph></subsection> 
+<subsection id="H0C3C8925F3E84A2E9BEF68005BF3A3A7"><enum>(b)</enum><header>Status as participant in program regarding breast and cervical cancer</header><text>The Secretary may not make a grant to a State under subsection (a) unless the State involved agrees that services under the grant will be provided in conjunction with entities that are screening women for breast or cervical cancer pursuant to a grant under section 1501.</text></subsection> 
+<subsection id="H2CD5282AA58B4DD185178E8951711626"><enum>(c)</enum><header>Applicability of provisions</header><text>The provisions of this title shall apply to a grant under subsection (a) to the same extent and in the same manner as such provisions apply to a grant under section 1501.</text></subsection> 
+<subsection id="H39B776EF7551495A94A39DF9D1BB09D"><enum>(d)</enum><header>Funding</header> 
+<paragraph id="HF1B53BE18C2A4DFDA3E02800BBA2EE2"><enum>(1)</enum><header>In general</header><text>There is authorized to be appropriated to carry out this section—</text> 
+<subparagraph id="H979864BAD1834C90BDFB98B1537EF702"><enum>(A)</enum><text>$20,000,000 for fiscal year 2006;</text></subparagraph> 
+<subparagraph id="H2B33E26D948E4FEC900116B808E97B53"><enum>(B)</enum><text>$25,000,000 for fiscal year 2007;</text></subparagraph> 
+<subparagraph id="H3EAE86DF55C84BE38374FE2243B21CBB"><enum>(C)</enum><text>$30,000,000 for fiscal year 2008; and</text></subparagraph> 
+<subparagraph id="HF287310EC44E4F9A81071C1C452700BB"><enum>(D)</enum><text>such sums as may be necessary for each subsequent fiscal year.</text></subparagraph></paragraph> 
+<paragraph id="HFF6F1B7CE6474ED18EBF009DCFEC4AF"><enum>(2)</enum><header>Limitation regarding funding with respect to breast and cervical cancer</header><text>No additional resources shall be appropriated for a fiscal year under paragraph (1) unless the amount appropriated under section 1510(a) for such fiscal year is at least $173,920,000.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body> 
+</bill> 
+

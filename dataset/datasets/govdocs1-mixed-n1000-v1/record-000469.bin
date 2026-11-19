@@ -1,0 +1,774 @@
+<?xml version="1.0"?>
+<!DOCTYPE dataset SYSTEM "http://www-pcmdi.llnl.gov/software/cdms/cdml.dtd">
+<dataset
+	comment	="Experiment was initiated from nominal year 2000 of 20C3M XX1. It corresponds to nominal year 2000 of SRES-A2 experiment A21. Forcing agents included: CO2,CH4,N2O,O3,CFC11(including other CFCs and HFCs),CFC12; sulfate(Boucher),BC,sea salt,desert dust aerosols."
+	institution	="CNRM (Centre National de Recherches Meteorologiques, Meteo-France, Toulouse, France)"
+	Conventions	="CF-1.0"
+	directory	="/ipcc/sresa2/"
+	cdms_filemap	="[[[geo_region],[[-,-,-,-,ocn/mo/hfogo/cnrm_cm3/run1/hfogo_O1.nc]]],[[hfogo,time_bnds],[[0,1200,-,-,ocn/mo/hfogo/cnrm_cm3/run1/hfogo_O1.nc]]],[[hfsib],[[0,1200,-,-,ice/mo/hfsib/cnrm_cm3/run1/hfsib_O1.nc]]],[[htovdiff],[[0,1200,-,-,ocn/mo/htovdiff/cnrm_cm3/run1/htovdiff_O1.nc]]],[[htovgyre],[[0,1200,-,-,ocn/mo/htovgyre/cnrm_cm3/run1/htovgyre_O1.nc]]],[[htovovrt],[[0,1200,-,-,ocn/mo/htovovrt/cnrm_cm3/run1/htovovrt_O1.nc]]],[[lat_bnds],[[-,-,-,-,ice/mo/hfsib/cnrm_cm3/run1/hfsib_O1.nc]]],[[lon_bnds],[[-,-,-,-,ice/mo/hfsib/cnrm_cm3/run1/hfsib_O1.nc]]],[[rhopoto],[[0,120,-,-,ocn/mo/rhopoto/cnrm_cm3/run1/rhopoto_O1_2000_2009.nc],[120,240,-,-,ocn/mo/rhopoto/cnrm_cm3/run1/rhopoto_O1_2010_2019.nc],[240,360,-,-,ocn/mo/rhopoto/cnrm_cm3/run1/rhopoto_O1_2020_2029.nc],[360,480,-,-,ocn/mo/rhopoto/cnrm_cm3/run1/rhopoto_O1_2030_2039.nc],[480,600,-,-,ocn/mo/rhopoto/cnrm_cm3/run1/rhopoto_O1_2040_2049.nc],[600,720,-,-,ocn/mo/rhopoto/cnrm_cm3/run1/rhopoto_O1_2050_2059.nc],[720,840,-,-,ocn/mo/rhopoto/cnrm_cm3/run1/rhopoto_O1_2060_2069.nc],[840,960,-,-,ocn/mo/rhopoto/cnrm_cm3/run1/rhopoto_O1_2070_2079.nc],[960,1080,-,-,ocn/mo/rhopoto/cnrm_cm3/run1/rhopoto_O1_2080_2089.nc],[1080,1200,-,-,ocn/mo/rhopoto/cnrm_cm3/run1/rhopoto_O1_2090_2099.nc]]],[[sbl],[[0,1200,-,-,ice/mo/sbl/cnrm_cm3/run1/sbl_O1.nc]]],[[sic],[[0,1200,-,-,ice/mo/sic/cnrm_cm3/run1/sic_O1.nc]]],[[sit],[[0,1200,-,-,ice/mo/sit/cnrm_cm3/run1/sit_O1.nc]]],[[sltfsib],[[0,1200,-,-,ice/mo/sltfsib/cnrm_cm3/run1/sltfsib_O1.nc]]],[[sltovdiff],[[0,1200,-,-,ocn/mo/sltovdiff/cnrm_cm3/run1/sltovdiff_O1.nc]]],[[sltovgyre],[[0,1200,-,-,ocn/mo/sltovgyre/cnrm_cm3/run1/sltovgyre_O1.nc]]],[[sltovovrt],[[0,1200,-,-,ocn/mo/sltovovrt/cnrm_cm3/run1/sltovovrt_O1.nc]]],[[so],[[0,120,-,-,ocn/mo/so/cnrm_cm3/run1/so_O1_2000_2009.nc],[120,240,-,-,ocn/mo/so/cnrm_cm3/run1/so_O1_2010_2019.nc],[240,360,-,-,ocn/mo/so/cnrm_cm3/run1/so_O1_2020_2029.nc],[360,480,-,-,ocn/mo/so/cnrm_cm3/run1/so_O1_2030_2039.nc],[480,600,-,-,ocn/mo/so/cnrm_cm3/run1/so_O1_2040_2049.nc],[600,720,-,-,ocn/mo/so/cnrm_cm3/run1/so_O1_2050_2059.nc],[720,840,-,-,ocn/mo/so/cnrm_cm3/run1/so_O1_2060_2069.nc],[840,960,-,-,ocn/mo/so/cnrm_cm3/run1/so_O1_2070_2079.nc],[960,1080,-,-,ocn/mo/so/cnrm_cm3/run1/so_O1_2080_2089.nc],[1080,1200,-,-,ocn/mo/so/cnrm_cm3/run1/so_O1_2090_2099.nc]]],[[stfbarot],[[0,1200,-,-,ocn/mo/stfbarot/cnrm_cm3/run1/stfbarot_O1.nc]]],[[thetao],[[0,120,-,-,ocn/mo/thetao/cnrm_cm3/run1/thetao_O1_2000_2009.nc],[120,240,-,-,ocn/mo/thetao/cnrm_cm3/run1/thetao_O1_2010_2019.nc],[240,360,-,-,ocn/mo/thetao/cnrm_cm3/run1/thetao_O1_2020_2029.nc],[360,480,-,-,ocn/mo/thetao/cnrm_cm3/run1/thetao_O1_2030_2039.nc],[480,600,-,-,ocn/mo/thetao/cnrm_cm3/run1/thetao_O1_2040_2049.nc],[600,720,-,-,ocn/mo/thetao/cnrm_cm3/run1/thetao_O1_2050_2059.nc],[720,840,-,-,ocn/mo/thetao/cnrm_cm3/run1/thetao_O1_2060_2069.nc],[840,960,-,-,ocn/mo/thetao/cnrm_cm3/run1/thetao_O1_2070_2079.nc],[960,1080,-,-,ocn/mo/thetao/cnrm_cm3/run1/thetao_O1_2080_2089.nc],[1080,1200,-,-,ocn/mo/thetao/cnrm_cm3/run1/thetao_O1_2090_2099.nc]]],[[tos],[[0,1200,-,-,ocn/mo/tos/cnrm_cm3/run1/tos_O1.nc]]],[[uo],[[0,120,-,-,ocn/mo/uo/cnrm_cm3/run1/uo_O1_2000_2009.nc],[120,240,-,-,ocn/mo/uo/cnrm_cm3/run1/uo_O1_2010_2019.nc],[240,360,-,-,ocn/mo/uo/cnrm_cm3/run1/uo_O1_2020_2029.nc],[360,480,-,-,ocn/mo/uo/cnrm_cm3/run1/uo_O1_2030_2039.nc],[480,600,-,-,ocn/mo/uo/cnrm_cm3/run1/uo_O1_2040_2049.nc],[600,720,-,-,ocn/mo/uo/cnrm_cm3/run1/uo_O1_2050_2059.nc],[720,840,-,-,ocn/mo/uo/cnrm_cm3/run1/uo_O1_2060_2069.nc],[840,960,-,-,ocn/mo/uo/cnrm_cm3/run1/uo_O1_2070_2079.nc],[960,1080,-,-,ocn/mo/uo/cnrm_cm3/run1/uo_O1_2080_2089.nc],[1080,1200,-,-,ocn/mo/uo/cnrm_cm3/run1/uo_O1_2090_2099.nc]]],[[usi],[[0,1200,-,-,ocn/mo/usi/cnrm_cm3/run1/usi_O1.nc]]],[[vo],[[0,120,-,-,ocn/mo/vo/cnrm_cm3/run1/vo_O1_2000_2009.nc],[120,240,-,-,ocn/mo/vo/cnrm_cm3/run1/vo_O1_2010_2019.nc],[240,360,-,-,ocn/mo/vo/cnrm_cm3/run1/vo_O1_2020_2029.nc],[360,480,-,-,ocn/mo/vo/cnrm_cm3/run1/vo_O1_2030_2039.nc],[480,600,-,-,ocn/mo/vo/cnrm_cm3/run1/vo_O1_2040_2049.nc],[600,720,-,-,ocn/mo/vo/cnrm_cm3/run1/vo_O1_2050_2059.nc],[720,840,-,-,ocn/mo/vo/cnrm_cm3/run1/vo_O1_2060_2069.nc],[840,960,-,-,ocn/mo/vo/cnrm_cm3/run1/vo_O1_2070_2079.nc],[960,1080,-,-,ocn/mo/vo/cnrm_cm3/run1/vo_O1_2080_2089.nc],[1080,1200,-,-,ocn/mo/vo/cnrm_cm3/run1/vo_O1_2090_2099.nc]]],[[vsi],[[0,1200,-,-,ocn/mo/vsi/cnrm_cm3/run1/vsi_O1.nc]]],[[wfo],[[0,1200,-,-,ocn/mo/wfo/cnrm_cm3/run1/wfo_O1.nc]]],[[wo],[[0,120,-,-,ocn/mo/wo/cnrm_cm3/run1/wo_O1_2000_2009.nc],[120,240,-,-,ocn/mo/wo/cnrm_cm3/run1/wo_O1_2010_2019.nc],[240,360,-,-,ocn/mo/wo/cnrm_cm3/run1/wo_O1_2020_2029.nc],[360,480,-,-,ocn/mo/wo/cnrm_cm3/run1/wo_O1_2030_2039.nc],[480,600,-,-,ocn/mo/wo/cnrm_cm3/run1/wo_O1_2040_2049.nc],[600,720,-,-,ocn/mo/wo/cnrm_cm3/run1/wo_O1_2050_2059.nc],[720,840,-,-,ocn/mo/wo/cnrm_cm3/run1/wo_O1_2060_2069.nc],[840,960,-,-,ocn/mo/wo/cnrm_cm3/run1/wo_O1_2070_2079.nc],[960,1080,-,-,ocn/mo/wo/cnrm_cm3/run1/wo_O1_2080_2089.nc],[1080,1200,-,-,ocn/mo/wo/cnrm_cm3/run1/wo_O1_2090_2099.nc]]],[[zmlo],[[0,1200,-,-,ocn/mo/zmlo/cnrm_cm3/run1/zmlo_O1.nc]]],[[zobt],[[-,-,-,-,ocn/fixed/zobt/cnrm_cm3/run1/zobt_O1.nc]]]]"
+	calendar	="gregorian"
+	id	="pcmdi.ipcc4.cnrm_cm3.sresa2.run1.ocn.mo"
+	history	="model description and validation, in preparation for Climate Dynamics  At 19:06:10 on 03/24/2005, CMOR rewrote data to comply with CF standards and IPCC Fourth Assessment requirements
+[2006-4-4 3:5:26] cdscan -x /var/www/html/ipcc4/sresa2/cnrm_cm3/pcmdi.ipcc4.cnrm_cm3.sresa2.run1.ocn.mo.xml -d pcmdi.ipcc4.cnrm_cm3.sresa2.run1.ocn.mo --exclude=plev --ignore-open-error --var-locate ps,ps_.* -f /tmp/scan/list.pcmdi.ipcc4.cnrm_cm3.sresa2.run1.ocn.mo.txt"
+	>
+	<attr datatype="String" name="title">CNRM  model output prepared for IPCC Fourth Assessment SRES A2 experiment</attr>
+	<attr datatype="String" name="table_id">Table O1 (13 November 2004)</attr>
+	<attr datatype="Double" name="cmor_version">0.959999978542</attr>
+	<attr datatype="String" name="source">CNRM-CM3 (2004): atmosphere: Arpege-Climat v3 (T42L45, cy 22b+); ocean: OPA8.1; sea ice: Gelato 3.10; river routing: TRIP</attr>
+	<attr datatype="String" name="contact">david.salas@meteo.fr, sophie.tyteca@meteo.fr, jean-francois.royer@meteo.fr</attr>
+	<attr datatype="String" name="references">D. Salas-Mélia, F. Chauvin, M. Déqué, H. Douville, J.F. Gueremy, P. Marquet, S. Planton, J.F. Royer and S. Tyteca (2004) : XXth century warming simulated by ARPEGE-Climat-OPA coupled system</attr>
+	<attr datatype="String" name="experiment_id">SRES A2 experiment</attr>
+	<attr datatype="Long" name="realization">1</attr>
+	<attr datatype="String" name="project_id">IPCC Fourth Assessment</attr>
+	<axis
+		datatype	="Float"
+		units	=""
+		length	="2"
+		id	="bnds"
+		>
+		[ 0.  1.]
+		</axis>
+	<axis
+		datatype	="Double"
+		positive	="down"
+		long_name	="depth"
+		length	="33"
+		units	="m"
+		id	="depth"
+		axis	="Z"
+		>
+		<attr datatype="String" name="standard_name">depth</attr>
+		[    0.    10.    20.    30.    50.    75.   100.   125.   150.   200.   250.
+        300.   400.   500.   600.   700.   800.   900.  1000.  1100.  1200.
+       1300.  1400.  1500.  1750.  2000.  2500.  3000.  3500.  4000.  4500.
+       5000.  5500.]
+		</axis>
+	<axis
+		datatype	="Double"
+		bounds	="lat_bnds"
+		long_name	="latitude"
+		length	="170"
+		units	="degrees_north"
+		id	="lat"
+		axis	="Y"
+		>
+		<attr datatype="String" name="standard_name">latitude</attr>
+		[-79.5 -78.5 -77.5 -76.5 -75.5 -74.5 -73.5 -72.5 -71.5 -70.5 -69.5 -68.5 -67.5
+        -66.5 -65.5 -64.5 -63.5 -62.5 -61.5 -60.5 -59.5 -58.5 -57.5 -56.5
+        -55.5 -54.5 -53.5 -52.5 -51.5 -50.5 -49.5 -48.5 -47.5 -46.5 -45.5
+        -44.5 -43.5 -42.5 -41.5 -40.5 -39.5 -38.5 -37.5 -36.5 -35.5 -34.5
+        -33.5 -32.5 -31.5 -30.5 -29.5 -28.5 -27.5 -26.5 -25.5 -24.5 -23.5
+        -22.5 -21.5 -20.5 -19.5 -18.5 -17.5 -16.5 -15.5 -14.5 -13.5 -12.5
+        -11.5 -10.5  -9.5  -8.5  -7.5  -6.5  -5.5  -4.5  -3.5  -2.5  -1.5
+         -0.5   0.5   1.5   2.5   3.5   4.5   5.5   6.5   7.5   8.5   9.5
+         10.5  11.5  12.5  13.5  14.5  15.5  16.5  17.5  18.5  19.5  20.5
+         21.5  22.5  23.5  24.5  25.5  26.5  27.5  28.5  29.5  30.5  31.5
+         32.5  33.5  34.5  35.5  36.5  37.5  38.5  39.5  40.5  41.5  42.5
+         43.5  44.5  45.5  46.5  47.5  48.5  49.5  50.5  51.5  52.5  53.5
+         54.5  55.5  56.5  57.5  58.5  59.5  60.5  61.5  62.5  63.5  64.5
+         65.5  66.5  67.5  68.5  69.5  70.5  71.5  72.5  73.5  74.5  75.5
+         76.5  77.5  78.5  79.5  80.5  81.5  82.5  83.5  84.5  85.5  86.5
+         87.5  88.5  89.5]
+		</axis>
+	<axis
+		datatype	="Double"
+		bounds	="lon_bnds"
+		long_name	="longitude"
+		length	="180"
+		units	="degrees_east"
+		id	="lon"
+		axis	="X"
+		>
+		<attr datatype="String" name="standard_name">longitude</attr>
+		[   1.    3.    5.    7.    9.   11.   13.   15.   17.   19.   21.   23.   25.
+          27.   29.   31.   33.   35.   37.   39.   41.   43.   45.   47.
+          49.   51.   53.   55.   57.   59.   61.   63.   65.   67.   69.
+          71.   73.   75.   77.   79.   81.   83.   85.   87.   89.   91.
+          93.   95.   97.   99.  101.  103.  105.  107.  109.  111.  113.
+         115.  117.  119.  121.  123.  125.  127.  129.  131.  133.  135.
+         137.  139.  141.  143.  145.  147.  149.  151.  153.  155.  157.
+         159.  161.  163.  165.  167.  169.  171.  173.  175.  177.  179.
+         181.  183.  185.  187.  189.  191.  193.  195.  197.  199.  201.
+         203.  205.  207.  209.  211.  213.  215.  217.  219.  221.  223.
+         225.  227.  229.  231.  233.  235.  237.  239.  241.  243.  245.
+         247.  249.  251.  253.  255.  257.  259.  261.  263.  265.  267.
+         269.  271.  273.  275.  277.  279.  281.  283.  285.  287.  289.
+         291.  293.  295.  297.  299.  301.  303.  305.  307.  309.  311.
+         313.  315.  317.  319.  321.  323.  325.  327.  329.  331.  333.
+         335.  337.  339.  341.  343.  345.  347.  349.  351.  353.  355.
+         357.  359.]
+		</axis>
+	<axis
+		datatype	="Float"
+		units	=""
+		length	="4"
+		id	="region"
+		>
+		[ 0.  1.  2.  3.]
+		</axis>
+	<axis
+		datatype	="Float"
+		units	=""
+		length	="14"
+		id	="strlen"
+		>
+		[  0.   1.   2.   3.   4.   5.   6.   7.   8.   9.  10.  11.  12.  13.]
+		</axis>
+	<axis
+		name_in_file	="time"
+		datatype	="Double"
+		partition	="[   0 1200]"
+		bounds	="time_bnds"
+		length	="1200"
+		units	="days since 1860-1-1"
+		calendar	="gregorian"
+		id	="time"
+		>
+		[ 51149.5  51179.5  51209.5  51240.   51270.5  51301.   51331.5  51362.5
+       51393.   51423.5  51454.   51484.5  51515.5  51545.   51574.5  51605. 
+       51635.5  51666.   51696.5  51727.5  51758.   51788.5  51819.   51849.5
+       51880.5  51910.   51939.5  51970.   52000.5  52031.   52061.5  52092.5
+       52123.   52153.5  52184.   52214.5  52245.5  52275.   52304.5  52335. 
+       52365.5  52396.   52426.5  52457.5  52488.   52518.5  52549.   52579.5
+       52610.5  52640.5  52670.5  52701.   52731.5  52762.   52792.5  52823.5
+       52854.   52884.5  52915.   52945.5  52976.5  53006.   53035.5  53066. 
+       53096.5  53127.   53157.5  53188.5  53219.   53249.5  53280.   53310.5
+       53341.5  53371.   53400.5  53431.   53461.5  53492.   53522.5  53553.5
+       53584.   53614.5  53645.   53675.5  53706.5  53736.   53765.5  53796. 
+       53826.5  53857.   53887.5  53918.5  53949.   53979.5  54010.   54040.5
+       54071.5  54101.5  54131.5  54162.   54192.5  54223.   54253.5  54284.5
+       54315.   54345.5  54376.   54406.5  54437.5  54467.   54496.5  54527. 
+       54557.5  54588.   54618.5  54649.5  54680.   54710.5  54741.   54771.5
+       54802.5  54832.   54861.5  54892.   54922.5  54953.   54983.5  55014.5
+       55045.   55075.5  55106.   55136.5  55167.5  55197.   55226.5  55257. 
+       55287.5  55318.   55348.5  55379.5  55410.   55440.5  55471.   55501.5
+       55532.5  55562.5  55592.5  55623.   55653.5  55684.   55714.5  55745.5
+       55776.   55806.5  55837.   55867.5  55898.5  55928.   55957.5  55988. 
+       56018.5  56049.   56079.5  56110.5  56141.   56171.5  56202.   56232.5
+       56263.5  56293.   56322.5  56353.   56383.5  56414.   56444.5  56475.5
+       56506.   56536.5  56567.   56597.5  56628.5  56658.   56687.5  56718. 
+       56748.5  56779.   56809.5  56840.5  56871.   56901.5  56932.   56962.5
+       56993.5  57023.5  57053.5  57084.   57114.5  57145.   57175.5  57206.5
+       57237.   57267.5  57298.   57328.5  57359.5  57389.   57418.5  57449. 
+       57479.5  57510.   57540.5  57571.5  57602.   57632.5  57663.   57693.5
+       57724.5  57754.   57783.5  57814.   57844.5  57875.   57905.5  57936.5
+       57967.   57997.5  58028.   58058.5  58089.5  58119.   58148.5  58179. 
+       58209.5  58240.   58270.5  58301.5  58332.   58362.5  58393.   58423.5
+       58454.5  58484.5  58514.5  58545.   58575.5  58606.   58636.5  58667.5
+       58698.   58728.5  58759.   58789.5  58820.5  58850.   58879.5  58910. 
+       58940.5  58971.   59001.5  59032.5  59063.   59093.5  59124.   59154.5
+       59185.5  59215.   59244.5  59275.   59305.5  59336.   59366.5  59397.5
+       59428.   59458.5  59489.   59519.5  59550.5  59580.   59609.5  59640. 
+       59670.5  59701.   59731.5  59762.5  59793.   59823.5  59854.   59884.5
+       59915.5  59945.5  59975.5  60006.   60036.5  60067.   60097.5  60128.5
+       60159.   60189.5  60220.   60250.5  60281.5  60311.   60340.5  60371. 
+       60401.5  60432.   60462.5  60493.5  60524.   60554.5  60585.   60615.5
+       60646.5  60676.   60705.5  60736.   60766.5  60797.   60827.5  60858.5
+       60889.   60919.5  60950.   60980.5  61011.5  61041.   61070.5  61101. 
+       61131.5  61162.   61192.5  61223.5  61254.   61284.5  61315.   61345.5
+       61376.5  61406.5  61436.5  61467.   61497.5  61528.   61558.5  61589.5
+       61620.   61650.5  61681.   61711.5  61742.5  61772.   61801.5  61832. 
+       61862.5  61893.   61923.5  61954.5  61985.   62015.5  62046.   62076.5
+       62107.5  62137.   62166.5  62197.   62227.5  62258.   62288.5  62319.5
+       62350.   62380.5  62411.   62441.5  62472.5  62502.   62531.5  62562. 
+       62592.5  62623.   62653.5  62684.5  62715.   62745.5  62776.   62806.5
+       62837.5  62867.5  62897.5  62928.   62958.5  62989.   63019.5  63050.5
+       63081.   63111.5  63142.   63172.5  63203.5  63233.   63262.5  63293. 
+       63323.5  63354.   63384.5  63415.5  63446.   63476.5  63507.   63537.5
+       63568.5  63598.   63627.5  63658.   63688.5  63719.   63749.5  63780.5
+       63811.   63841.5  63872.   63902.5  63933.5  63963.   63992.5  64023. 
+       64053.5  64084.   64114.5  64145.5  64176.   64206.5  64237.   64267.5
+       64298.5  64328.5  64358.5  64389.   64419.5  64450.   64480.5  64511.5
+       64542.   64572.5  64603.   64633.5  64664.5  64694.   64723.5  64754. 
+       64784.5  64815.   64845.5  64876.5  64907.   64937.5  64968.   64998.5
+       65029.5  65059.   65088.5  65119.   65149.5  65180.   65210.5  65241.5
+       65272.   65302.5  65333.   65363.5  65394.5  65424.   65453.5  65484. 
+       65514.5  65545.   65575.5  65606.5  65637.   65667.5  65698.   65728.5
+       65759.5  65789.5  65819.5  65850.   65880.5  65911.   65941.5  65972.5
+       66003.   66033.5  66064.   66094.5  66125.5  66155.   66184.5  66215. 
+       66245.5  66276.   66306.5  66337.5  66368.   66398.5  66429.   66459.5
+       66490.5  66520.   66549.5  66580.   66610.5  66641.   66671.5  66702.5
+       66733.   66763.5  66794.   66824.5  66855.5  66885.   66914.5  66945. 
+       66975.5  67006.   67036.5  67067.5  67098.   67128.5  67159.   67189.5
+       67220.5  67250.5  67280.5  67311.   67341.5  67372.   67402.5  67433.5
+       67464.   67494.5  67525.   67555.5  67586.5  67616.   67645.5  67676. 
+       67706.5  67737.   67767.5  67798.5  67829.   67859.5  67890.   67920.5
+       67951.5  67981.   68010.5  68041.   68071.5  68102.   68132.5  68163.5
+       68194.   68224.5  68255.   68285.5  68316.5  68346.   68375.5  68406. 
+       68436.5  68467.   68497.5  68528.5  68559.   68589.5  68620.   68650.5
+       68681.5  68711.5  68741.5  68772.   68802.5  68833.   68863.5  68894.5
+       68925.   68955.5  68986.   69016.5  69047.5  69077.   69106.5  69137. 
+       69167.5  69198.   69228.5  69259.5  69290.   69320.5  69351.   69381.5
+       69412.5  69442.   69471.5  69502.   69532.5  69563.   69593.5  69624.5
+       69655.   69685.5  69716.   69746.5  69777.5  69807.   69836.5  69867. 
+       69897.5  69928.   69958.5  69989.5  70020.   70050.5  70081.   70111.5
+       70142.5  70172.5  70202.5  70233.   70263.5  70294.   70324.5  70355.5
+       70386.   70416.5  70447.   70477.5  70508.5  70538.   70567.5  70598. 
+       70628.5  70659.   70689.5  70720.5  70751.   70781.5  70812.   70842.5
+       70873.5  70903.   70932.5  70963.   70993.5  71024.   71054.5  71085.5
+       71116.   71146.5  71177.   71207.5  71238.5  71268.   71297.5  71328. 
+       71358.5  71389.   71419.5  71450.5  71481.   71511.5  71542.   71572.5
+       71603.5  71633.5  71663.5  71694.   71724.5  71755.   71785.5  71816.5
+       71847.   71877.5  71908.   71938.5  71969.5  71999.   72028.5  72059. 
+       72089.5  72120.   72150.5  72181.5  72212.   72242.5  72273.   72303.5
+       72334.5  72364.   72393.5  72424.   72454.5  72485.   72515.5  72546.5
+       72577.   72607.5  72638.   72668.5  72699.5  72729.   72758.5  72789. 
+       72819.5  72850.   72880.5  72911.5  72942.   72972.5  73003.   73033.5
+       73064.5  73094.5  73124.5  73155.   73185.5  73216.   73246.5  73277.5
+       73308.   73338.5  73369.   73399.5  73430.5  73460.   73489.5  73520. 
+       73550.5  73581.   73611.5  73642.5  73673.   73703.5  73734.   73764.5
+       73795.5  73825.   73854.5  73885.   73915.5  73946.   73976.5  74007.5
+       74038.   74068.5  74099.   74129.5  74160.5  74190.   74219.5  74250. 
+       74280.5  74311.   74341.5  74372.5  74403.   74433.5  74464.   74494.5
+       74525.5  74555.5  74585.5  74616.   74646.5  74677.   74707.5  74738.5
+       74769.   74799.5  74830.   74860.5  74891.5  74921.   74950.5  74981. 
+       75011.5  75042.   75072.5  75103.5  75134.   75164.5  75195.   75225.5
+       75256.5  75286.   75315.5  75346.   75376.5  75407.   75437.5  75468.5
+       75499.   75529.5  75560.   75590.5  75621.5  75651.   75680.5  75711. 
+       75741.5  75772.   75802.5  75833.5  75864.   75894.5  75925.   75955.5
+       75986.5  76016.5  76046.5  76077.   76107.5  76138.   76168.5  76199.5
+       76230.   76260.5  76291.   76321.5  76352.5  76382.   76411.5  76442. 
+       76472.5  76503.   76533.5  76564.5  76595.   76625.5  76656.   76686.5
+       76717.5  76747.   76776.5  76807.   76837.5  76868.   76898.5  76929.5
+       76960.   76990.5  77021.   77051.5  77082.5  77112.   77141.5  77172. 
+       77202.5  77233.   77263.5  77294.5  77325.   77355.5  77386.   77416.5
+       77447.5  77477.5  77507.5  77538.   77568.5  77599.   77629.5  77660.5
+       77691.   77721.5  77752.   77782.5  77813.5  77843.   77872.5  77903. 
+       77933.5  77964.   77994.5  78025.5  78056.   78086.5  78117.   78147.5
+       78178.5  78208.   78237.5  78268.   78298.5  78329.   78359.5  78390.5
+       78421.   78451.5  78482.   78512.5  78543.5  78573.   78602.5  78633. 
+       78663.5  78694.   78724.5  78755.5  78786.   78816.5  78847.   78877.5
+       78908.5  78938.5  78968.5  78999.   79029.5  79060.   79090.5  79121.5
+       79152.   79182.5  79213.   79243.5  79274.5  79304.   79333.5  79364. 
+       79394.5  79425.   79455.5  79486.5  79517.   79547.5  79578.   79608.5
+       79639.5  79669.   79698.5  79729.   79759.5  79790.   79820.5  79851.5
+       79882.   79912.5  79943.   79973.5  80004.5  80034.   80063.5  80094. 
+       80124.5  80155.   80185.5  80216.5  80247.   80277.5  80308.   80338.5
+       80369.5  80399.5  80429.5  80460.   80490.5  80521.   80551.5  80582.5
+       80613.   80643.5  80674.   80704.5  80735.5  80765.   80794.5  80825. 
+       80855.5  80886.   80916.5  80947.5  80978.   81008.5  81039.   81069.5
+       81100.5  81130.   81159.5  81190.   81220.5  81251.   81281.5  81312.5
+       81343.   81373.5  81404.   81434.5  81465.5  81495.   81524.5  81555. 
+       81585.5  81616.   81646.5  81677.5  81708.   81738.5  81769.   81799.5
+       81830.5  81860.5  81890.5  81921.   81951.5  81982.   82012.5  82043.5
+       82074.   82104.5  82135.   82165.5  82196.5  82226.   82255.5  82286. 
+       82316.5  82347.   82377.5  82408.5  82439.   82469.5  82500.   82530.5
+       82561.5  82591.   82620.5  82651.   82681.5  82712.   82742.5  82773.5
+       82804.   82834.5  82865.   82895.5  82926.5  82956.   82985.5  83016. 
+       83046.5  83077.   83107.5  83138.5  83169.   83199.5  83230.   83260.5
+       83291.5  83321.5  83351.5  83382.   83412.5  83443.   83473.5  83504.5
+       83535.   83565.5  83596.   83626.5  83657.5  83687.   83716.5  83747. 
+       83777.5  83808.   83838.5  83869.5  83900.   83930.5  83961.   83991.5
+       84022.5  84052.   84081.5  84112.   84142.5  84173.   84203.5  84234.5
+       84265.   84295.5  84326.   84356.5  84387.5  84417.   84446.5  84477. 
+       84507.5  84538.   84568.5  84599.5  84630.   84660.5  84691.   84721.5
+       84752.5  84782.5  84812.5  84843.   84873.5  84904.   84934.5  84965.5
+       84996.   85026.5  85057.   85087.5  85118.5  85148.   85177.5  85208. 
+       85238.5  85269.   85299.5  85330.5  85361.   85391.5  85422.   85452.5
+       85483.5  85513.   85542.5  85573.   85603.5  85634.   85664.5  85695.5
+       85726.   85756.5  85787.   85817.5  85848.5  85878.   85907.5  85938. 
+       85968.5  85999.   86029.5  86060.5  86091.   86121.5  86152.   86182.5
+       86213.5  86243.5  86273.5  86304.   86334.5  86365.   86395.5  86426.5
+       86457.   86487.5  86518.   86548.5  86579.5  86609.   86638.5  86669. 
+       86699.5  86730.   86760.5  86791.5  86822.   86852.5  86883.   86913.5
+       86944.5  86974.   87003.5  87034.   87064.5  87095.   87125.5  87156.5
+       87187.   87217.5  87248.   87278.5  87309.5  87339.   87368.5  87399. 
+       87429.5  87460.   87490.5  87521.5  87552.   87582.5  87613.   87643.5]
+		</axis>
+	<variable
+		datatype	="Char"
+		long_name	="Ocean Basin"
+		id	="geo_region"
+		>
+		<attr datatype="String" name="standard_name">region</attr>
+		<domain
+			>
+			<domElem start="0" length="4" name="region"/>
+			<domElem start="0" length="14" name="strlen"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Northward Ocean Heat Transport"
+		units	="W"
+		missing_value	="1.00000002004e+20"
+		id	="hfogo"
+		>
+		<attr datatype="String" name="original_name">hfogo</attr>
+		<attr datatype="String" name="coordinates">geo_region</attr>
+		<attr datatype="String" name="standard_name">northward_ocean_heat_transport</attr>
+		<attr datatype="String" name="cell_methods">time: mean  longitude: sum</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="4" name="region"/>
+			<domElem start="0" length="170" name="lat"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Upward Heat Flux at Base of Sea Ice"
+		units	="W m-2"
+		missing_value	="1.00000002004e+20"
+		id	="hfsib"
+		>
+		<attr datatype="String" name="original_name">hfsib</attr>
+		<attr datatype="String" name="standard_name">upward_sea_ice_basal_heat_flux</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   19:06:10 on 03/24/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Northward Diffusive Heat Transport by Ocean"
+		units	="W"
+		missing_value	="1.00000002004e+20"
+		id	="htovdiff"
+		>
+		<attr datatype="String" name="original_name">htovdiff</attr>
+		<attr datatype="String" name="coordinates">geo_region</attr>
+		<attr datatype="String" name="standard_name">northward_ocean_heat_transport_due_to_diffusion</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="4" name="region"/>
+			<domElem start="0" length="170" name="lat"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Northward Gyre Heat Transport by Ocean"
+		units	="W"
+		missing_value	="1.00000002004e+20"
+		id	="htovgyre"
+		>
+		<attr datatype="String" name="original_name">htovgyre</attr>
+		<attr datatype="String" name="coordinates">geo_region</attr>
+		<attr datatype="String" name="standard_name">northward_ocean_heat_transport_due_to_gyre</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="4" name="region"/>
+			<domElem start="0" length="170" name="lat"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Northward Ocean Heat Transport by Overturning"
+		units	="W"
+		missing_value	="1.00000002004e+20"
+		id	="htovovrt"
+		>
+		<attr datatype="String" name="original_name">htovovrt</attr>
+		<attr datatype="String" name="coordinates">geo_region</attr>
+		<attr datatype="String" name="standard_name">northward_ocean_heat_transport_due_to_overturning</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="4" name="region"/>
+			<domElem start="0" length="170" name="lat"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Double"
+		id	="lat_bnds"
+		>
+		<domain
+			>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="2" name="bnds"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Double"
+		id	="lon_bnds"
+		>
+		<domain
+			>
+			<domElem start="0" length="180" name="lon"/>
+			<domElem start="0" length="2" name="bnds"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Potential Density"
+		units	="kg m-3"
+		missing_value	="1.00000002004e+20"
+		id	="rhopoto"
+		>
+		<attr datatype="String" name="original_name">rhopoto</attr>
+		<attr datatype="String" name="standard_name">sea_water_potential_density</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:53 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="33" name="depth"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Sublimation over Sea Ice"
+		units	="kg m-2 s-1"
+		missing_value	="1.00000002004e+20"
+		id	="sbl"
+		>
+		<attr datatype="String" name="original_name">sbl</attr>
+		<attr datatype="String" name="standard_name">water_evaporation_flux_where_sea_ice</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   19:06:10 on 03/24/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Sea Ice Concentration"
+		units	="%"
+		missing_value	="1.00000002004e+20"
+		id	="sic"
+		>
+		<attr datatype="String" name="original_name">sic</attr>
+		<attr datatype="String" name="standard_name">sea_ice_area_fraction</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:57 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Sea Ice Thickness"
+		units	="m"
+		missing_value	="1.00000002004e+20"
+		id	="sit"
+		>
+		<attr datatype="String" name="original_name">sit</attr>
+		<attr datatype="String" name="standard_name">sea_ice_thickness</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:57 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Downward Salt Flux at Base of Sea Ice"
+		units	="kg m-2 s-1"
+		missing_value	="1.00000002004e+20"
+		id	="sltfsib"
+		>
+		<attr datatype="String" name="original_name">sltfsib</attr>
+		<attr datatype="String" name="standard_name">downward_sea_ice_basal_salt_flux</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   09:57:24 on 04/21/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Northward Diffusive Salt Transport by Ocean"
+		units	="kg s-1"
+		missing_value	="1.00000002004e+20"
+		id	="sltovdiff"
+		>
+		<attr datatype="String" name="original_name">sltovdiff</attr>
+		<attr datatype="String" name="coordinates">geo_region</attr>
+		<attr datatype="String" name="standard_name">northward_ocean_salt_transport_due_to_diffusion</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="4" name="region"/>
+			<domElem start="0" length="170" name="lat"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Northward Gyre Salt Transport by Ocean"
+		units	="kg s-1"
+		missing_value	="1.00000002004e+20"
+		id	="sltovgyre"
+		>
+		<attr datatype="String" name="original_name">sltovgyre</attr>
+		<attr datatype="String" name="coordinates">geo_region</attr>
+		<attr datatype="String" name="standard_name">northward_ocean_salt_transport_due_to_gyre</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="4" name="region"/>
+			<domElem start="0" length="170" name="lat"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Northward Ocean Salt Transport by Overturning"
+		units	="kg s-1"
+		missing_value	="1.00000002004e+20"
+		id	="sltovovrt"
+		>
+		<attr datatype="String" name="original_name">sltovovrt</attr>
+		<attr datatype="String" name="coordinates">geo_region</attr>
+		<attr datatype="String" name="standard_name">northward_ocean_salt_transport_due_to_overturning</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="4" name="region"/>
+			<domElem start="0" length="170" name="lat"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Salinity"
+		units	="1e-3"
+		missing_value	="1.00000002004e+20"
+		id	="so"
+		>
+		<attr datatype="String" name="original_name">so</attr>
+		<attr datatype="String" name="standard_name">sea_water_salinity</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:51 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="33" name="depth"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Ocean Barotropic Streamfunction"
+		units	="m3 s-1"
+		missing_value	="1.00000002004e+20"
+		id	="stfbarot"
+		>
+		<attr datatype="String" name="original_name">stfbarot</attr>
+		<attr datatype="String" name="standard_name">ocean_barotropic_streamfunction</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:58 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Potential Temperature"
+		units	="K"
+		missing_value	="1.00000002004e+20"
+		id	="thetao"
+		>
+		<attr datatype="String" name="original_name">thetao</attr>
+		<attr datatype="String" name="standard_name">sea_water_potential_temperature</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:52 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="33" name="depth"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Double"
+		id	="time_bnds"
+		>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="2" name="bnds"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Sea Surface Temperature"
+		units	="K"
+		missing_value	="1.00000002004e+20"
+		id	="tos"
+		>
+		<attr datatype="String" name="original_name">tos</attr>
+		<attr datatype="String" name="standard_name">sea_surface_temperature</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:57 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Eastward Sea Water Velocity"
+		units	="m s-1"
+		missing_value	="1.00000002004e+20"
+		id	="uo"
+		>
+		<attr datatype="String" name="original_name">uo</attr>
+		<attr datatype="String" name="standard_name">eastward_sea_water_velocity</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:54 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="33" name="depth"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Eastward Sea Ice Velocity"
+		units	="m s-1"
+		missing_value	="1.00000002004e+20"
+		id	="usi"
+		>
+		<attr datatype="String" name="original_name">usi</attr>
+		<attr datatype="String" name="standard_name">eastward_sea_ice_velocity</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   12:34:00 on 04/22/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Northward Sea Water Velocity"
+		units	="m s-1"
+		missing_value	="1.00000002004e+20"
+		id	="vo"
+		>
+		<attr datatype="String" name="original_name">vo</attr>
+		<attr datatype="String" name="standard_name">northward_sea_water_velocity</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:55 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="33" name="depth"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Northward Sea Ice Velocity"
+		units	="m s-1"
+		missing_value	="1.00000002004e+20"
+		id	="vsi"
+		>
+		<attr datatype="String" name="original_name">vsi</attr>
+		<attr datatype="String" name="standard_name">northward_sea_ice_velocity</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   12:34:00 on 04/22/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Water Flux Into Ocean"
+		units	="kg m-2 s-1"
+		missing_value	="1.00000002004e+20"
+		id	="wfo"
+		>
+		<attr datatype="String" name="original_name">wfo</attr>
+		<attr datatype="String" name="standard_name">water_flux_into_ocean</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:58 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Upward Sea Water Velocity"
+		units	="m s-1"
+		missing_value	="1.00000002004e+20"
+		id	="wo"
+		>
+		<attr datatype="String" name="original_name">wo</attr>
+		<attr datatype="String" name="standard_name">upward_sea_water_velocity</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   16:00:56 on 02/10/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="33" name="depth"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Mixed Layer Thickness"
+		units	="m"
+		missing_value	="1.00000002004e+20"
+		id	="zmlo"
+		>
+		<attr datatype="String" name="original_name">zmlo</attr>
+		<attr datatype="String" name="standard_name">ocean_mixed_layer_thickness</attr>
+		<attr datatype="String" name="cell_methods">time: mean</attr>
+		<attr datatype="String" name="history"> At   19:06:09 on 03/24/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="1200" name="time"/>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	<variable
+		datatype	="Float"
+		long_name	="Sea Floor Depth"
+		units	="m"
+		missing_value	="1.00000002004e+20"
+		id	="zobt"
+		>
+		<attr datatype="String" name="original_name">SOBATHYM</attr>
+		<attr datatype="String" name="standard_name">sea_floor_depth_below_geoid</attr>
+		<attr datatype="String" name="history"> At   14:18:24 on 02/17/2005: CMOR altered the data in the following ways:  Cyclical dimension was output starting at a different lon;</attr>
+		<domain
+			>
+			<domElem start="0" length="170" name="lat"/>
+			<domElem start="0" length="180" name="lon"/>
+			</domain>
+		</variable>
+	</dataset>

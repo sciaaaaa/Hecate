@@ -1,0 +1,275 @@
+; $Id: scc_sync_corr.pro,v 1.4 2009/01/08 14:39:27 mcnutt Exp $
+;
+; Project   : STEREO SECCHI
+;                   
+; Name      : scc_sync_corr
+;               
+; Purpose   : Compares images from SC-A and SC-B and corrects the SYNC keyword and  update database.
+;               
+; Explanation: 
+;               
+; Use       : IDL> 
+;    
+; Inputs    :  scc_sync_corr,'2006-10-26','2007-03-01',/cor1,/cor2
+;               
+; Outputs   : 
+;
+; Keywords  :     COR1=cor1,COR2=cor2,EUVI=euvi,HI1=hi1,HI2=hi2,pipeline=pipeline
+;
+; Calls from LASCO : 
+;
+; Common    : SCC_REDUCE, dbms
+;               
+; Restrictions: 
+;               
+; Side effects: in pipeline day yyyymmdd -2 is checked to allow time for both sc processing to complete before check fits files.
+;               
+; Category    : Pipeline 
+;               
+; Prev. Hist. : None.
+;
+; Written     : Lynn McNutt, NRL/I2, March 2008
+;               
+; $Log: scc_sync_corr.pro,v $
+; Revision 1.4  2009/01/08 14:39:27  mcnutt
+; date_fname_utc to date_cmd to complete v1.293 mods
+;
+; Revision 1.3  2008/04/10 13:00:55  mcnutt
+; added syncpath and syncfn database corrections and fits files if missing
+;
+; Revision 1.2  2008/03/20 14:59:25  secchia
+; corrected pipeline keyword errors
+;
+; Revision 1.1  2008/03/19 18:13:42  mcnutt
+; compare and correct header sync keyword
+;
+
+;
+pro start_db_script,dbfile,dbstarted
+		
+	             openw,ludb,dbfile,/get_lun
+	         ; only at beginning of each script file
+	             printf,ludb,'use secchi_flight;'
+	             printf,ludb,'start transaction;'
+	             get_utc,ustarttime
+	             starttime=utc2str(ustarttime,/ecs)
+	             printf,ludb,'# starting dbfile at '+starttime
+	             close,ludb
+  	             free_lun,ludb
+                     dbstarted=1
+
+end
+
+pro scc_sync_corr,d1,d2,COR1=cor1,COR2=cor2,EUVI=euvi,HI1=hi1,HI2=hi2,pipeline=pipeline,fixfitshdr=fixfitshdr,othersc=othersc
+common scc_reduce,  lulog, basehdr, nom_hdr, ext_hdr, scch, leapsecs, enums, resetvars, $
+    	    	    ipdat, nom_tlr, prevbasename, readfileidline, wavefileidline, $
+		    setupfileidline, exposfileidline, maskfileidline, ipfileidline, icerdiv2flag, $
+		    rotblidlines,hbtimes,hbtemps,cebtimes,cebtemps, subdir, date_fname_utc, ispb, islz, isrt, aorb, $
+		    iserror, ephemfil, att_file
+common dbms,ludb, dbfile, delflag, img_seb_hdr, img_seb_hdr_ext, img_cal_bias, $
+	    img_cal_led, img_cal_dark, img_hist_cmnt, img_euvi_gt    	
+
+idline='$Id: scc_sync_corr.pro,v 1.4 2009/01/08 14:39:27 mcnutt Exp $'
+idinfo=strmid(idline,5,34)
+longwait=10
+shortwait=2
+;aorb=getenv("SCC_PLATFORM")
+if datatype(aorb) eq 'UND' then aorb=getenv('SC')
+aorblc=strlowcase(aorb)
+if aorblc eq 'a' then osc='b' else osc='a'
+if (keyword_set(othersc) and aorb eq 'A') then begin
+   osc='a' & aorblc='b'
+endif 
+if (keyword_set(othersc) and aorb eq 'B') then begin
+   osc='b' & aorblc='a'
+endif 
+
+
+if keyword_set(pipeline) then d1=strmid(yyyymmdd,0,4)+'-'+strmid(yyyymmdd,4,2)+'-'+strmid(yyyymmdd,6,2)
+ud1=anytim2utc(d1)
+IF n_params() GT 1 THEN ud2=anytim2utc(d2) ELSE ud2=ud1
+ud=ud1
+
+tels=['none']
+IF keyword_set(COR1) THEN tels=[tels,'cor1']
+IF keyword_set(COR2) THEN tels=[tels,'cor2']
+IF keyword_set(EUVI) THEN tels=[tels,'euvi']
+IF keyword_set(HI1) THEN tels=[tels,'hi_1']
+IF keyword_set(HI2) THEN tels=[tels,'hi_2']
+nt=n_elements(tels)-1
+IF nt LT 1 THEN BEGIN
+	message,'Must specify one or more telescopes. Returning.',/info
+	return
+ENDIF
+tels=tels(1:n_elements(tels)-1)
+
+IF ud1.mjd GT ud2.mjd THEN incr=-1 ELSE incr=1
+FOR mjd=ud1.mjd,ud2.mjd,incr DO BEGIN
+      if keyword_set(pipeline) then ud.mjd=(mjd-2) else ud.mjd=mjd
+      yyyymmdd=utc2yymmdd(ud,/yyyy)
+      isc='*'
+      dbstarted=0
+      for i=0,n_Elements(tels)-1 do begin
+            fitsfiles=file_search(getenv('secchi')+'/lz/L0/'+aorblc+'/'+isc+'/'+tels(i)+'/'+yyyymmdd+'/*.fts')
+            if i eq 0 then list1=fitsfiles else list1=[list1,fitsfiles]
+      endfor
+      for i=0,n_Elements(tels)-1 do begin
+            fitsfiles2=file_search(getenv('secchi')+'/lz/L0/'+osc+'/'+isc+'/'+tels(i)+'/'+yyyymmdd+'/*.fts')
+            if i eq 0 then list2=fitsfiles2 else list2=[list2,fitsfiles2]
+      endfor
+      fitsfiles=list1
+      imgcheck=where(fitsfiles ne '')
+
+      if (imgcheck(0) gt -1) then begin 
+        fitsfiles=list1(imgcheck)
+        absync=find_common(strmid(list2,strlen(list2(0))-16,11),strmid(fitsfiles,strlen(fitsfiles(0))-16,11))
+        SYNCV=strarr(n_elements(fitsfiles))+'T'
+        if absync(0) gt -1 then begin
+           unsync=rest_mask(strmid(fitsfiles,strlen(fitsfiles(0))-16,11),find_common(strmid(list2,strlen(list2(0))-16,11),strmid(fitsfiles,strlen(fitsfiles(0))-16,11)))
+	   if(unsync(0) gt -1)then SYNCV(unsync)='F'
+        endif else SYNCV=strarr(n_elements(fitsfiles))+'F'
+        nf=n_elements(fitsfiles)
+        
+       if ~keyword_set(pipeline) then begin
+          get_utc,logdate,/ccsds,/noz
+          logdate=strmid(logdate,2,2)+strmid(logdate,5,2)+strmid(logdate,8,2)
+          pipe ='sync'
+          dbroot=yyyymmdd
+          lulog=9
+          sccattic=getenv('SCC_ATTIC')+'/'+strmid(yyyymmdd,2,6)+'/'
+;          unblock_cmd = concat_dir(getenv('UTIL_DIR'),'unblockSciFile')
+;open log file need for write db_script
+    	  logfile= concat_dir(getenv('SCC_LOG'),'scc'+strupcase(aorblc)+pipe+dbroot+'.log')
+	  openw,lulog,logfile,/append
+	  printf,lulog,' '
+	  text=[';*  DB Table IDL structure definition created by CPP2IDLSTRUCT.PRO', $
+	      ';*  from $stereo/fsw/sw_dev/utils/rdSh/hdr.h on Thu May 19 15:11:05 2005']
+	  printf,lulog,'NOTE: sebhdr info is static -- need to generate from sebhdr4_struct.inc'
+	  printf,lulog,text[0]
+	  printf,lulog,text[1]
+	  printf,lulog,'starting log file at '+systime()
+	  printf,lulog,' '
+	  printf,lulog,'SEB_IMG	',getenv('seb_img')
+	  printf,lulog,'SCI_SOURCE ',getenv('SCI_SOURCE')
+	  for i=0,n_Elements(tels)-1 do printf,lulog,'SECCHI	',getenv('SECCHI')+'/*/'+tels(i)+'/'+yyyymmdd
+	  printf,lulog,'SCC_ATTIC ',sccattic
+
+	  printf,lulog,'IDL_PATH	',getenv('IDL_PATH')
+	  printf,lulog,'TABLES	',getenv('TABLES')
+	  printf,lulog,'PT    	',getenv('PT')
+	  printf,lulog,'DATE: ',yyyymmdd
+	  printf,lulog,'==============================='
+
+	; go ahead and make db files for SPWX or PB, even though not (yet) using them
+          SPAWN,'hostname',machine,/sh  
+           machine = machine(N_ELEMENTS(machine)-1)
+          src=strmid(machine,0,1)+rstrmid(machine,0,1)
+	  dbfile=concat_dir(getenv('SCC_DB'),'scc'+strupcase(aorblc)+pipe+src+dbroot+logdate+'sql.script')
+        endif
+
+
+        FOR i=0,nf-1 DO BEGIN
+;          print,fitsfiles[i]
+          img=sccreadfits(fitsfiles[i],scch,/nodata)
+	  scchdate_obs= strmid(scch.date_obs,0,10)+' '+strmid(scch.date_obs,11,8)
+          fitsfile=strmid(fitsfiles(i),strlen(fitsfiles(i))-25,25)
+          cmnd='select sync,filename,date_obs,syncpath,synced_fn,fileorig from img_seb_hdr where filename ="'+fitsfile+'" and naxis1 >0'
+          imgdb=SQDB('secchi_flight',cmnd,/quiet)
+          if (datatype(imgdb) eq 'STR') then begin
+	       if (dbstarted eq 0)  and ~keyword_set(pipeline) then start_db_script,dbfile,dbstarted
+	       printf,lulog,'************* '+fitsfile+' NOT IN DATABASE ADDING**************'
+               subdir=strmid(fitsfiles(i),strpos(fitsfiles(i),'/'+aorblc+'/')+3,8)
+               atticdir='/net/earth/secchi/raw/lz/'+aorblc+'/sci/'+strmid(scch.filename,2,6)+'/'               
+	       unblock_image_hdrs,atticdir+scch.fileorig
+               delflag=0
+	       write_db_scripts, fitsfiles(i)
+	       imgdbdate_obs= scchdate_obs
+               imgdb_fileorig= scch.fileorig
+	       if scch.sync eq 'T' then begin 
+	          imgdbsync = 1
+	          imgdbsyncpath=strmid(fitsfiles(i),strpos(fitsfiles(i),'lz/'),(strlen(fitsfiles(i))-strpos(fitsfiles(i),'/lz'))-26)
+                  strput,imgdbsyncpath,osc,6	          
+		  imgdbsynced_fn=fitsfile
+	          strput,imgdbsynced_fn,strupcase(osc),20
+		endif else begin
+		  imgdbsync=0
+	          imgdbsynced_fn = ''
+	          imgdbsyncpath = ''
+                endelse
+          endif else begin 
+               imgdb_fileorig= imgdb(0).fileorig
+	       imgdbdate_obs = imgdb(0).date_obs
+	       imgdbsync = imgdb(0).sync
+	       imgdbsynced_fn = imgdb(0).synced_fn
+	       imgdbsyncpath = imgdb(0).syncpath
+          endelse   
+          if imgdbdate_obs ne scchdate_obs then begin
+	       if (dbstarted eq 0)  and ~keyword_set(pipeline) then start_db_script,dbfile,dbstarted
+ 	       openw,ludb,dbfile,/append,/get_lun
+	       printf,ludb,'update img_seb_hdr set date_obs="'+scchdate_obs+'" where filename="'+fitsfile+'" and fileorig="'+imgdb_fileorig+'";' 
+	       printf,ludb,'update img_seb_hdr_ext set date_obs="'+scchdate_obs+'" where date_obs="'+imgdbdate_obs+'" and fileorig="'+imgdb_fileorig+'";' 
+ 	       printf,ludb,'update img_hist_cmnt set filename="'+scchdate_obs+'" where date_obs = "'+imgdbdate_obs+'" and filename="'+fitsfile+'";' 
+ 	       close,ludb
+  	       free_lun,ludb
+	       printf,lulog,'updated Database for ', fitsfiles[i],' to date_obs = ',scchdate_obs
+               imgdbdate_obs = scchdate_obs
+         endif
+
+          if (scch.SYNC ne 'F' or  (scch.SYNC eq 'F' and imgdbsync eq 1 ))then begin
+            if keyword_set(fixfitshdr)then begin
+              img=sccreadfits(fitsfiles[i],scch,/nodata)
+              get_utc,date_mod,/ccsds,/noz
+              if strupcase(scch.SYNC) ne SYNCV(i) then begin
+     	         scch.SYNC=SYNCV(i)
+  	         fxhmodify,fitsfiles[i],'SYNC',scch.SYNC
+       	         fxhmodify,fitsfiles[i],'HISTORY',idinfo
+       	         fxhmodify,fitsfiles[i],'DATE',date_mod
+	         printf,lulog,'updated Header for ', fitsfiles[i],' to sync = ',SYNCV(i)
+               endif
+            endif
+
+            if SYNCV(i) eq 'F' then syncval=0 else syncval=1
+            IF (syncval eq 0) THEN begin 
+	        syncpath='' 
+	        syncfn=''
+	    endif ELSE begin 
+	          syncpath=strmid(fitsfiles(i),strpos(fitsfiles(i),'lz/'),(strlen(fitsfiles(i))-strpos(fitsfiles(i),'/lz'))-26)
+                  strput,syncpath,osc,6	          
+		  syncfn=fitsfile
+	          strput,syncfn,strupcase(osc),20
+            endelse
+
+           if syncval ne imgdbsync then begin
+	       if (dbstarted eq 0)  and ~keyword_set(pipeline) then start_db_script,dbfile,dbstarted
+ 	       openw,ludb,dbfile,/append,/get_lun
+	       printf,ludb,'update img_seb_hdr set sync='+string(syncval,'(i1.1)')+' where date_obs="'+imgdbdate_obs+'" and filename="'+fitsfile+'" and fileorig="'+imgdb_fileorig+'";' 
+ 	       close,ludb
+  	       free_lun,ludb
+	       printf,lulog,'updated Database for ', fitsfiles[i],' to sync = ',SYNCV(i)
+            endif
+            if imgdbsynced_fn ne syncfn then begin
+	       if (dbstarted eq 0)  and ~keyword_set(pipeline) then start_db_script,dbfile,dbstarted
+ 	       openw,ludb,dbfile,/append,/get_lun
+	       printf,ludb,'update img_seb_hdr set synced_fn="'+syncfn+'" where date_obs="'+imgdbdate_obs+'" and filename="'+fitsfile+'" and fileorig="'+imgdb_fileorig+'";' 
+ 	       close,ludb
+  	       free_lun,ludb
+	       printf,lulog,'updated Database for ', fitsfiles[i],' to synced_fn = ',syncfn
+            endif
+            if imgdbsyncpath ne syncpath then begin
+	       if (dbstarted eq 0)  and ~keyword_set(pipeline) then start_db_script,dbfile,dbstarted
+ 	       openw,ludb,dbfile,/append,/get_lun
+	       printf,ludb,'update img_seb_hdr set syncpath="'+syncpath+'" where date_obs="'+imgdbdate_obs+'" and filename="'+fitsfile+'" and fileorig="'+imgdb_fileorig+'";' 
+ 	       close,ludb
+  	       free_lun,ludb
+	       printf,lulog,'updated Database for ', fitsfiles[i],' to syncpath = ',syncpath
+            endif
+        endif
+        ENDFOR
+
+    endif
+      
+    if ~keyword_set(pipeline) and (datatype(lulog) ne 'UND')then close,lulog
+
+ENDFOR
+
+end

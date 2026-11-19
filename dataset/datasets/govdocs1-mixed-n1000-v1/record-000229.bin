@@ -1,0 +1,613 @@
+<html>
+<head>
+<script type="text/javascript" src="/fsrscripts/triggerParams.js"></script> 
+<script type="text/javascript" src="/fsrscripts/stdLauncher.js"></script>
+<script type="text/javascript">Poll();</script>
+
+<TITLE>IMPORT ALERT IA2104</TITLE>
+<meta name="Author" content="ORA">
+<meta name="description" content="A FIARS report page">
+<meta name="Keywords" content="report, page, fiars, alerts, import, Office, 
+Regulatory, Affairs, ORA">
+
+<link rel="stylesheet" type="text/css" media="print" 
+href="/ora/import/lib/css/style_print.css"> 
+<link rel="stylesheet" href="/ora/import/lib/css/style_fda_combo.css" 
+type="text/css">
+
+<body bgcolor="#FFFFFF" text="#000000" background="/ora/images/background.gif"
+topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<!--FDA required header begin//-->
+<div id="masthead"> <table width="100%" border="0" cellspacing="0" 
+cellpadding="0" align="center">
+<tr>
+<!--Left FDA Logo/Link/508C Skipover topnav-->
+<td valign="top" align="left" height="68" width="20%" class="hedbackground">
+<a name="_top"></a><a href="#maintext">
+<img src="/ora/import/lib/images/dot_clear.gif" border="0" width="1" 
+height="1" alt="Skip page top navigation" title="Skip 
+page top navigation"></a><a href="/default.htm">
+<img src="/ora/import/lib/images/fda_mast_01.gif" 
+alt="FDA Logo--links to FDA home
+page" title="FDA Logo--links to FDA home page" height="68" width="100" 
+border="0"></a></td>
+<!--Center FDA/ORA Logo/Link-->
+<td valign="top" height="68" align="center" width="60%" class="hedbackground">
+<img src="/ora/import/lib/images/fda_ora_02.gif" 
+alt="Logo of and Link to start page of Office of Regulatory Affairs, 
+U.S. Food and Drug Administration" width="383" height="68" border="0" 
+align="top" title="Logo of and Link to start page of Office of Regulatory
+Affairs, U.S. Food and Drug Administration" usemap="#ora_header">
+<map name="ora_header">
+<area shape="rect" coords="2,3,380,53" 
+href="/default.htm" alt="U.S. Food and Drug Administration">
+<area shape="rect" coords="4,53,378,66" 
+href="/ora/default.htm" alt="Office of Regulatory Affairs">
+</map></td>
+<!--Right HHS Logo/Link-->
+<td valign="top" align="right" height="68" width="20%" class="hedbackground">
+<a href="http://www.hhs.gov/"><img 
+src="/ora/import/lib/images/fda_mast_03.gif" 
+alt="HHS Logo and link to Department of Health and Human Services website" 
+height="68"
+width="116" border="0"></a></td>
+</tr>
+<!--ORA Navigation Categories-->
+<tr>
+ <td colspan="3">
+      <p align="center"><a href="/default.htm">
+<font color="Blue">FDA Home Page</font></a> | <a
+ href="/ora/fed_state/default.htm"><font color="Blue">Federal-State</font></a>
+ | <a href="/ora/import/default.htm"><em><span style="color:#009900">Import
+Program</span></em></a> | <a
+href="/ora/compliance_ref/default.htm"><font color="Blue">Compliance</font></a>
+  | <a href="/ora/inspect_ref/default.htm"><font color="Blue">
+Inspection</font></a> | <a
+href="/ora/science_ref/default.htm"><font color="Blue">Science</font></a> | <a  
+href="/ora/orasrch.htm"><font color="Blue">ORA Search</font></a></p>
+<img src="/ora/import/lib/images/blkpixel.gif" alt="" height="1" 
+width="100%" border="0"></td></tr>
+</table>
+</div>
+<!--FDA required Header end //-->
+
+<!-- Begin Page content -->
+<basefont FACE="GEORGIA, TIMES, TIMES NEW ROMAN, SERIF">
+<div align="left">
+<table border="0" width="80%">
+<!-- Text body -->
+  <tr>
+    <td width="80%" valign="top"><a name="maintext"></a>
+
+<PRE>
+IA #21-04, 4/4/08, REVISION TO IMPORT ALERT #21-04 "DETENTION WITHOUT PHYSICAL
+EXAMINATION AND INCREASED SURVEILLANCE OF DRIED FRUITS" Attachment A 9/8/08,
+Attachment B - 9/12/08
+
+***This revision provides additional guidance, updates the product codes, and
+includes Alert formatting changes.***"
+
+     Alert language changes are bracketed by asterisks (***).
+
+TYPE OF ALERT: Detention Without Physical Examination
+
+(Note:    This import alert represents the Agency's current guidance to FDA
+          field personnel regarding the manufacturer(s) and/or products(s)
+          at issue.  It does not create or confer any rights for or on any
+          person, and does not operate to bind FDA or the public).
+
+PRODUCT:       Dried Preserved Fruits
+
+PRODUCT
+CODE:       ***20B[][][], 20H[][][], 20Q[][][]
+               21B[][][], 21H[][][]
+               22B[][][], 22H[][][]***
+
+PROBLEM:       Filth
+               Unsafe Color Additives
+               Labeling
+               Unsafe Food Additives
+               Cyclamates
+               Undeclared Saccharin
+
+PAF:           FIL (Filth)
+               FAD (Food Additives)
+               COL (Colors in Foods and Cosmetics)
+               LBL (Labeling)
+
+PAC FOR
+COLLECTION:    03819A, 09006A, 09006B
+
+COUNTRY:       See Attachments
+
+MANUFACTURER/
+SHIPPER
+& FEI# :       See Attachments
+
+CHARGE:        For Detention Without Physical Examination charge:
+
+               1.   Insect and/or Rodent Filth:
+
+                    "The article is subject to refusal of admission
+                    pursuant to Section 801(a)(3) in that it appears to
+                    contain insect and/or rodent filth [Adulteration,
+                    402(a)(3)]."
+
+               2.   Artificial Sweeteners
+
+                    a) Undeclared Saccharin:
+
+                    "The article is subject to refusal of admission
+                    pursuant to Section 801(a)(3) in that it fails to
+                    declare the presence of saccharin as an added
+                    ingredient [Misbranded 403(i)]."
+
+
+
+
+
+
+               3.   Unsafe Food Additives
+
+                    a) Cyclamates and/or Dulcin:
+
+                    "The article is subject to refusal of admission
+                    pursuant to Section 801(a)(3) in that it appears to
+                    contain cyclamate and/or dulcin, an unsafe food
+                    additive within the meaning of Section 409.
+                    [Adulteration, 402(a)(2)(c)]"
+
+               4.   Unsafe Color Additives:
+
+                    "The article is subject to refusal of admission
+                    pursuant to Section 801(a)(3) in that it appears to
+                    contain color additives which are unsafe within the
+                    meaning of 721(a). [Adulteration, 402(c)]"
+
+OASIS CHARGE
+CODE:          FILTHY
+               SACCHARLBL
+               CYCLAMATE
+               DULCIN
+               UNSAFE COL
+
+RECOMMENDING
+OFFICE:        Division of Import Operations & Policy (HFC-170)
+
+REASON FOR
+ALERT:    The history of detentions of dried preserved and/or sweetened
+          plums from Hong Kong between March 1 and September 1, 1986,
+          resulted in these products being detained without physical
+          examination due to the presence of insect and/or rodent filth and
+          non-nutritive sweeteners (saccharin and/or cyclamates).
+
+          During FY '87 ORA conducted an import targeting project for
+          preserved fruits. Samples of preserved, sweetened, dehydrated,
+          candied, dried or salted fruits from Southeast Asian countries
+          were collected. Analyses revealed non-permitted or undeclared
+          color additives and non-nutritive sweeteners, a problem that
+          appears to be pervasive in the industry.
+
+          Dried preserved fruits from TAIWAN were found to contain non-
+          nutritive sweeteners (saccharin and/or cyclamates, and one
+          contained dulcin) and unapproved and/or undeclared color additives
+          such as FD&C Yellow #5 (C.I. No. 19140 - tartrazine) FD&C Red #3
+          C.I. No. 45430 - Erythrosine), and Carmoisine (C.I. No. 14720 -
+          former ext. D&C Red #10).
+
+          Samples of dried, preserved fruit from HONG KONG and the PEOPLES
+          REPUBLIC OF CHINA were found to contain non-nutritive sweeteners,
+          insect and/or rodent filth, and/or undeclared or non-permitted
+          color additives.
+
+          In addition to the above, examination of data from PODS, Import
+          Detention System, and the import targeting project revealed
+          violative samples from Thailand, Japan, Korea, and the
+          Philippines; however, the number of violative samples was not
+          enough to detain these countries without physical examination.
+
+          THAILAND - Samples contained non-nutritive sweeteners
+          (cyclamates and/or saccharin), undeclared color additives (FD&C
+          Yellow #5 - Tartrazine (certifiable as FD&C Yellow No. 5), or
+          Sunset Yellow FCF (certifiable as FD&C Yellow No. 6), and insect
+          and/or rodent filth.
+
+
+          JAPAN - Samples contained unapproved color additives, undeclared
+          Tartrazine, and the non-nutritive sweetener saccharin).
+
+          KOREA - Undeclared Tartrazine and the non-nutritive sweetener
+          saccharin were found in one sample.
+
+          PHILIPPINES - Samples contained the unapproved color additive
+          Amaranth (C.I. No. 16185 - former FD&C Red #2) and undeclared
+          Sunset Yellow FCF.
+
+          Examples of types of dried preserved fruits which were found
+          violative include: papaya, kumquats, prunes, mixed fruits, sugar
+          palm fruit, sweet fruit, plum, mango, jujube fruit, mayom, lemon,
+          grapes, olives, and tamarind.
+
+          Dried fruit that has not been treated with preserving material
+          (i.e., sweeteners, salt) are not subject to detention under this
+          alert. These products should be treated in accordance with normal
+          import procedures.
+
+          Between August 1990 and January 1991, New York District collected
+          31 samples of various dried, preserved fruit products from two
+          manufacturers/shippers in Singapore. 7 of the 16 samples from Meng
+          Chong Foodstuffs PTE.LTD were found to contain cyclamates while 12
+          of the 15 samples from Kee Wee Hup Kee Manufacture PTE. LTD were
+          found to contain cyclamates. Additionally, nine of the samplesfrom
+          Kee Wee Hup Kee were found to contain undeclared saccharin.
+
+GUIDANCE: ***Products other than dried and dried and preserved fruits should
+          be covered under the guidance of Import Alert 45-07 for undeclared
+          and/or non-permitted sweeteners.***
+
+          This alert is intended to apply only to fruits that are dried and
+          dried and preserved by adding sweeteners or salt.
+
+          Fruit that is treated by drying alone is not subject to detention
+          without physical examination under this alert and should be
+          handled in accordance with normal import procedures.
+
+          Districts may detain without physical examination shipments of
+          dried preserved fruits from HONG KONG, PEOPLES REPUBLIC OF CHINA
+          and TAIWAN except products from those ***manufacturers/***shippers
+          identified in Attachment B of this alert.
+
+          Districts may detain without physical examination shipments of
+          dried preserved fruits from the manufacturers/shippers identified
+          in Attachment A of this alert.
+
+          Intensified coverage of dried fruits from other
+          manufacturers/shippers for cyclamates, saccharin, insect/rodent
+          filth, and color additives is indicated.
+
+          If products are detained under this import alert and the importer
+          or other responsible party submits documentation to demonstrate
+          that the goods are not preserved by means other than drying, the
+          products may be released.
+
+
+
+
+
+
+
+
+          Continued coverage of dried fruits from Thailand, Japan, Korea,
+          and the Philippines as well as other countries for insect/rodent
+          filth, cyclamates, undeclared saccharin, and non-permitted color
+          additives is indicated.  Surveillance of other preserved and/or
+          sweetened fruits from these and other countries is indicated.
+
+
+          For questions or issues concerning science, science policy, sample
+          collection, analysis, preparation, or analytical methodology,
+          contact the Division of Field Science at (301) 827-7605.
+
+
+PRIORITIZATION
+GUIDANCE:      I
+
+FOI:           No purging is required
+
+KEYWORDS:      filth, saccharin, dulcin, cyclamate, color additives
+
+PREPARED BY:   Sammi L. Hadden, DIOP, (301)443-6553
+
+DATE LOADED
+INTO FIARS:    April 4, 2008
+
+
+     ATTACHMENT A TO IMPORT ALERT  #21-04  -  REVISED 9/9/08
+
+Manufacturers/shippers meeting the criteria for *** Detention Without Physical
+Examination: ***
+
+                *** PEOPLES REPUBLIC OF CHINA (CN)
+
+FIRM                          PRODUCT             CHARGE
+
+All                           All dried fruits         1,2,3,4
+
+                         HONG KONG (HK)
+
+FIRM                          PRODUCT             CHARGE
+
+All                           All dried fruits         1,2,3,4 ***
+
+Fruitair SA de CV                  Mangoes, dried      Cyclamates
+Av Del Tercer Mundo           21S[][]05 21T[][]05
+San Francisco, Nayarit             21U[][]05 21X[][]05
+Mexico                        01/13/03
+FEI #3004670125
+
+                         SINGAPORE (SG)
+
+FIRM                          PRODUCT             CHARGE
+
+Kee Wee Hup Kee Manufacture        All dried fruits         Cyclamate
+ PTE.LTD
+17 Chin Bee Crescent
+Singapore 2261
+FEI# 12879
+
+Meng Chong Foodstuffs              All dried fruits         Cyclamate
+ PTE.LTD                                          Undeclared
+18 Senoko Way Singapore 2775                           Saccharin
+FEI# 12880
+
+                         *** TAIWAN (TW)
+
+
+FIRM                          PRODUCT             CHARGE
+
+All                           All dried fruits         2,3,4
+
+
+                         THAILAND (TH)
+
+
+FIRM                          PRODUCT             CHARGE
+
+A S World Trading Ltd.             Preserved Mango Sweet    Undeclared
+   Partnership                and Sour w/Chilli        Saccharin
+69/21-22 Moo 6                21T[][]05 21X[][]05
+SOI Kingkaew 54                    21T[][]99
+Kingkaew Road                 21S[][]05
+Rachathwea, Bangplee               21S[][]99
+Samutprakarn, Thailand             3/15/04
+FEI# 3004248958
+   # 3003967217                    Preserved Jujube         Undeclared
+                              Sweet & Sour        Saccharin
+                              w/Chili             Cyclamates
+                              21G[][]05
+                              21H[][]05
+                              21J[][]05
+                              21G[][]16
+                              21H[][]16
+                              21J[][]16
+                              3/15/04
+
+                              Preserved Thai Olive          Undeclared
+                              Sweet & Sour             Saccharin
+                              21G[][]09 21G[][]10
+                              21G[][]11 21G[][]99
+                              21H[][]09 21H[][]11
+                              21H[][]99 21J[][]09
+                              21J[][]99 22J[][]99
+                              22H[][]99
+                              1/30/04
+
+Pa-Siam Intertrade Co. Ltd.        Preserve Plum/21G[][]14
+619 621 623 Rama 3 Road            Salted Mango/21T[][]05
+Bangkok, Thailand                  3/27/02
+FEI# 13365
+
+Wang Derm Exporters, Ltd.          Dehydrated Mango         Non-permitted
+Partnerships                  21T[][]05           Tartrazine &
+10/78 Moo Thakam                   10/23/98            Sunset Yellow
+Phraram 2 Road Bangkok,                                FCF
+Thailand
+FEI# 1000355679 ***
+
+
+          ATTACHMENT B TO IMPORT ALERT #21-04 - REVISED 9/12/08
+
+Manufacturers/shippers in Hong Kong, PROC and Taiwan exempt from *** Detention
+Without Physical Examination ***:
+
+               PEOPLES REPUBLIC OF CHINA (CN)
+
+FIRM                                    PRODUCT
+
+
+Chenghai Native Produce I/E Co.              Salted Prune
+Zhong Shan Road                              21G[][]15
+Chenghai, Guangdong                     21H[][]15
+China                                        03/10/05
+FEI# 3004669979
+
+
+Dong Bou Foodstuff                      Dried Salted Prunes
+ Industrial Co., Ltd.                        21G--15
+No. 1 Huangan Development Area               21H--15
+Xinxing, China                          2/5/02
+FEI# 3002872593
+
+
+Shenzhen Ao Xin Tai Imp. & Exp               Plum
+4005 Donxiao Road Building 6, Suite 606      21G[]B14
+Luohu District                          21G[]C14
+Shenzhen                                1/12/07
+China
+FEI #3004278320
+
+
+Shoei Foods Qingdao Co., Ltd.           Prepared dried strawberries
+Yuhuangling Industry Park,              infused with sugar
+Chengyang, Qingdao, China               20BGH14
+FEI# 2000008676                         9/9/08
+
+
+Xing Hua Food Co. Ltd.                       Dried Persimmon
+He Bin Road South, Da Ze Town,               22H[][]02
+Xin Hui District, Jiang Men City,            07/30/08
+Guangdong, China
+FEI#      3004260967
+     3004254245                              Dried Dates
+     3004255553                              21H[][]05
+                                        9/3/08
+
+                                        Dried Persimmons
+                                        22H[][]02
+                                        9/3/08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          HONG KONG (HK)
+
+FIRM                                    PRODUCT
+
+Manuf: Mee Chun Canning Co., Ltd             Kumcho Tim Mui
+D.D 127 Ping Shaw                            (sweet & Sour Plums or
+Yuen Long, Hong Kong                         Preserved Plums)
+FEI# 3002482636                              Preserved Lemons
+
+
+Tang Hoi Moom Kee Co., Ltd.                  Preserved Plum
+175 Wing Lok Street, G/F.                    21G[][]14
+Sheung Wan, Hong Kong                        21H[][]14
+FEI# 3003526449                              6/2/05
+
+
+Shipper: Wing Coffee Co. (HK) Ltd.           8/16/94
+156-164 Des Voeux Road, C.
+505 Gen Comme Bldg.
+Hong Kong
+FEI# 12881
+
+                           TAIWAN (TW)
+
+
+FIRM                                    PRODUCT
+
+Chuun Huung Int'l Trading Co.                Dried Prunes
+4 No. 108-1, Sec. 1, Hsin Sheng S.           21G[][]15, *** 21H[][]15
+Taipei, Taiwan, Republic of China            1/14/00
+FEI# 1000274944                              Name Change
+
+
+
+
+
+
+Fu Cheng Foods Industrial Co.                Plums
+522 San Teiaaao St.                     (preserved, dried,
+Yuanlin Hsssien, Taiwan                      cured, salted)/21H[][H]14
+FEI# 100010945                          7/16/92
+
+Goang Yuan Bio-Tech Co., Ltd.                Dry Plum
+#23-1, Mai Pu Li                             21J--15
+Tai Bao                                 21GG-14
+Chia-Yi, Taiwan                              7/28/06
+FEI# 3004061018
+
+Lian Kok Food Industrial Co., Ltd            Preserved Prunes/Plums
+No. 100 Shan Chiao Road                      and Shredded Mango
+Chen H sing Li Yuanlin, Ghang Hwa,
+Taiwan
+FEI# 12640
+
+Ming Jang Enterprise Co.
+P.O Box 57
+Taiwan
+FEI# 12639
+
+Pongshin Corp Dried                     Salted Prunes
+No. 60                                  12/6/91
+Taipei, Taiwan
+FEI# 12398
+
+Prince Ginger & Foods Corp.                  Dried Salted
+No. 480 Sec. 2, Chung Shang Road             Prunes/21G[][]15
+Yuan Lin, Chang Hua Taiwan                   12/21/99 *** 21H[][]15 ***
+FEI# 3001687521
+
+Sanh Yuan Enterprises Co., Ltd               Dried Prunes
+4th Floor, 108-1, Sec. 1                *** 21G[][]15 ***,
+Hsin Sheng Rd.                          21H[][]15
+Taipei, Taiwan                          12/12/00
+FEI# 1000292648
+
+Yi Chering Lii Co., Ltd                      *** Prunes, *** dried and
+No.7 Pusi Strret                             salted
+Changhua City, Taiwan                        21H[][]15
+FEI# 3005094192                              5/1/98
+
+                                        Plums, dried and salted
+                                        21H[][H]14
+                                        5/1/98
+
+                                        Name and address change
+                                        9/12/08
+</PRE>
+</td>
+</tr>
+</table>
+</div><!--FDA Required Footer Start-->
+<div id="footer" align="center">
+<p align="left"><font size="1">
+<p align="left"><font size="1">
+Return to: <a href="#_top">Page Top</a> | <a href="/ora/import/default.htm">
+Import Start</a> | <a
+href="/ora/fiars/ora_import_alerts.html">FIARS start</a></font></p>
+<font size="1"><table width="100%" border="0" cellspacing="2"
+cellpadding="0" bgcolor="#ffffff">
+  <tr>
+    <td align="center" width="10"></td>
+    <td colspan="5" align="center" valign="middle"><img 
+SRC="/ora/import/lib/images/dot_clear.gif" alt="" height="10" width="97%"
+border="0"></td>
+    <td align="center" width="10"></td>
+  </tr>
+  <tr>
+    <td colspan="7" align="center" valign="middle" height="10"><img 
+SRC="/ora/import/lib/images/blkpixel.gif" alt = ""  height="1"
+width="100%" border="0"></td>
+  </tr>
+  <tr>
+    <td align="center" width="10"></td>
+    <td colspan="5"><p align="center"><a href="/ora/about/default.htm">
+About ORA</a> | 
+	<a href="/ora/about/sitemap/default.htm">Site
+          Map/Index</a> | <a href="/ora/orasrch.htm">ORA Search</a><br>
+          <a href="/default.htm">FDA Home Page</a> | <a 
+href="/search.html">Search
+          FDA Site</a> | <a href="/opacom/hpchoice.html">A-Z
+          Index</a> | <a href="/comments.html">Contact FDA</a> | 
+<a href="/privacy.html">Privacy</a> | <a
+href="http://www.hhs.gov/Accessibility.html">Accessibility</a> | 
+<a href="http://www.hhs.gov">HHS
+        Home Page</a></p>
+      <p align="center"><a href="/ora/default.htm">
+Office of Regulatory Affairs</a><br>
+        </p>
+    </td>
+    <td align="center" width="10"></td>
+  </tr>
+  <tr>
+    <td align="center" width="10"></td>
+    <td colspan="5" align="center" valign="middle"><img 
+SRC="/ora/import/lib/images/dot_clear.gif" alt="" height="10" width="97%"
+border="0"></td>
+    <td align="center" width="10"></td>
+  </tr>
+</table>
+
+</font>
+</div><!--FDA Required Footer End-->
+</body>
+</html>

@@ -1,0 +1,383 @@
+<HTML><!-- InstanceBegin template="/Templates/NEW_ecfr.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<HEAD>
+
+<!-- #BeginEditable "doctitle" --> 
+<TITLE>Electronic Code of Federal Regulations: </TITLE>
+<!-- #EndEditable --> 
+
+<META HTTP=equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="stylesheet" HREF="http://ecfr.gpoaccess.gov/e/ecfr/styles/styles.css" TYPE="text/css">
+<LINK HREF="http://ecfr.gpoaccess.gov/e/ecfr/styles/print.css" REL="stylesheet" TYPE="text/css" MEDIA="print">
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<STYLE>
+.white
+{
+color:#FFFFFF;
+margin:0;
+padding:0;
+}
+</STYLE>
+<SCRIPT>
+<!-- Cloak code
+function leapto(form)
+{
+var site=form.dest.selectedIndex;
+
+if (site>=1)
+
+{ location=form.dest.options[site].value; }
+
+}
+// Decloak -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="#content"><IMG SRC="http://www.gpoaccess.gov/images/spacer.gif" ALT="Skip to content." BORDER="0"></A><A HREF="#links"><IMG SRC="http://www.gpoaccess.gov/images/spacer.gif" ALT="Skip to side navigation." BORDER="0"></A>
+Quick Navigation:
+<UL>
+<LI><A HREF="http://www.gpoaccess.gov/topics/index.html" SELECTED>Resources by Topic</A></LI>
+<LI><A HREF="http://www.gpoaccess.gov/topics/business.html">Business &amp; Economy</A></LI>
+<LI><A HREF="http://www.gpoaccess.gov/topics/education.html">Education</A></LI>
+<LI><A HREF="http://www.gpoaccess.gov/topics/environment.html">Environment</A></LI>
+<LI><A HREF="http://www.gpoaccess.gov/topics/food.html">Food &amp; Drugs</A></LI>
+<LI><A HREF="http://www.gpoaccess.gov/topics/grants.html">Grants &amp; Awards</A></LI>
+<LI><A HREF="http://www.gpoaccess.gov/topics/health.html">Health &amp; Safety</A></LI>
+<LI><A HREF="http://www.gpoaccess.gov/topics/military.html">Military &amp; Security</A></LI>
+<LI><A HREF="http://www.gpoaccess.gov/topics/science.html">Science &amp; Technology</A></LI>
+<LI><A HREF="http://www.gpoaccess.gov/topics/programs.html">Social Programs</A></LI>
+<LI><A HREF="http://www.gpoaccess.gov/topics/transportation.html">Transportation</A></LI>
+</UL>
+</NOSCRIPT>
+</HEAD>
+<BODY LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0">
+
+<!-- Beginning of top navigation. Do not modify. -->
+<TABLE WIDTH="100%" CELLSPACING="0" CELLPADDING="0" BORDER="0">
+ <TR ID="topnav"><A HREF="#content"><IMG SRC="http://www.gpoaccess.gov/images/spacer.gif" ALT="Skip to content." BORDER="0"></A><A HREF="#links"><IMG SRC="http://www.gpoaccess.gov/images/spacer.gif" ALT="Skip to side navigation." BORDER="0"></A></TR> 
+  <TR>
+    <TD ID="topnav" BGCOLOR="#333399" BACKGROUND="http://www.gpoaccess.gov/images/bg.gif">
+	<TABLE WIDTH="700" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+        <TR>
+          <TD ROWSPAN="2" VALIGN="bottom" BGCOLOR="#FFFFFF"><A HREF="http://www.gpoaccess.gov/"><IMG SRC="http://www.gpoaccess.gov/images/nav_01.gif" WIDTH=132 HEIGHT=69 BORDER="0" ALT="GPO Access Home Page."></A></TD>
+          <TD>
+		  <TABLE WIDTH="568" BORDER="0" CELLPADDING="2" CELLSPACING="0" HEIGHT="38">
+              <TR>
+                <FORM NAME="quickNav">
+                  <TD BGCOLOR="#FFFFFF" ALIGN="left" VALIGN="bottom" COLSPAN="2" HEIGHT="3">
+                    <DIV ALIGN="right">
+					<LABEL FOR="label_for_menu" CLASS="white">Quick Navigation:</LABEL>
+					<SELECT ID="label_for_menu" NAME="quickNavBar" SIZE="1" STYLE="font-size: 9pt; margin: 0px; width: 145px; font-family: Arial, Helvetica, sans-serif;">
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/index.html" SELECTED>Resources by Topic</OPTION>
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/business.html">Business &amp; Economy</OPTION>
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/education.html">Education</OPTION>
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/environment.html">Environment</OPTION>
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/food.html">Food &amp; Drugs</OPTION>
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/grants.html">Grants &amp; Awards</OPTION>
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/health.html">Health &amp; Safety</OPTION>
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/military.html">Military &amp; Security</OPTION>
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/science.html">Science &amp; Technology</OPTION>
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/programs.html">Social Programs</OPTION>
+					<OPTION VALUE="http://www.gpoaccess.gov/topics/transportation.html">Transportation</OPTION>
+					</SELECT>
+					<A HREF="javascript:location=document.quickNav.quickNavBar.options[document.quickNav.quickNavBar.selectedIndex].value" TITLE="Jump to selected topic."><IMG SRC="http://www.gpoaccess.gov/images/go.gif" BORDER="0" VALUE="" HSPACE="0" ALT="Jump to selected topic." ALIGN="absbottom"></A></DIV>
+				  </TD>
+				</FORM>
+                <A NAME="search"></A>
+                <FORM ACTION="http://www.firstgov.gov/fgsearch/index.jsp" NAME="query">
+                  <TD BGCOLOR="#FFFFFF" ALIGN="center" WIDTH="70" VALIGN="bottom">
+                    <DIV ALIGN="right" CLASS="search">
+                      <LABEL FOR="xmw0">Site Search:</LABEL>
+                      <BR>
+                      <A HREF="http://www.gpoaccess.gov/advancedsearch.html"><SPAN CLASS="search">advanced</SPAN></A></DIV></TD>
+                  <TD BGCOLOR="#FFFFFF" ALIGN="left" WIDTH="151" VALIGN="bottom">
+                    <DIV ALIGN="right">
+                      <INPUT MAXLENGTH="50" ID="xmw0" NAME="mw0" ALIGN="absmiddle" STYLE="font-size: 9pt; margin: 0px; width: 110px; font-family: Arial, Helvetica, sans-serif">
+                      <INPUT TYPE="image" ALIGN="absmiddle" SRC="http://www.gpoaccess.gov/images/go.gif" BORDER="0" ALT="Submit Search" onClick="document.query.submit();" onKeyPress="document.query.submit();">
+                      <INPUT TYPE="hidden" NAME="adv" VALUE="0010">
+                      <INPUT TYPE="hidden" NAME="nr" VALUE="10">
+                      <INPUT TYPE="hidden" NAME="db" VALUE="www">
+                      <INPUT NAME="fr" TYPE="hidden" VALUE="0">
+                      <INPUT NAME="mt0" TYPE="hidden" VALUE="all">
+                      <INPUT NAME="ms0" TYPE="hidden" VALUE="should">
+                      <INPUT TYPE="hidden" NAME="de" VALUE="detailed">
+                      <INPUT TYPE="hidden" NAME="pl" VALUE="domain">
+                      <INPUT NAME="domain" TYPE="hidden" VALUE="gpoaccess.gov, gpo.gov">
+                    </DIV></TD>
+                </FORM>
+            </TABLE></TD>
+        </TR>
+        <TR>
+          <TD><IMG SRC="http://www.gpoaccess.gov/images/nav_03.gif" WIDTH="568" HEIGHT="44" USEMAP="#Map" BORDER="0" ALT="Navigation Bar"></TD>
+          
+        </TR>
+    </TABLE></TD>
+  </TR>
+</TABLE><MAP NAME="Map"><AREA SHAPE="poly" COORDS="470,2,529,2,515,19,457,18" HREF="http://www.gpoaccess.gov/about/index.html" ALT="About."><AREA SHAPE="poly" COORDS="407,2,466,2,452,19,394,18" HREF="http://www.gpoaccess.gov/help/index.html" ALT="Help.">
+            <AREA SHAPE="rect" COORDS="1,23,121,43" HREF="http://www.gpoaccess.gov/databases.html" ALT="A-Z Resource List." TITLE="A-Z Resource List.">
+            <AREA SHAPE="rect" COORDS="124,24,332,43" HREF="http://www.gpoaccess.gov/libraries.html" ALT="Locate a Federal Depository Library." TITLE="Locate a Federal Depository Library.">
+            <AREA SHAPE="rect" COORDS="335,22,444,43" HREF="http://bookstore.gpo.gov" ALT="Buy Publications." TITLE="Buy Publications.">
+            <AREA SHAPE="rect" COORDS="0,1,115,21" HREF="http://www.gpoaccess.gov/legislative.html" ALT="Legislative." TITLE="Legislative.">
+            <AREA SHAPE="rect" COORDS="119,1,223,20" HREF="http://www.gpoaccess.gov/executive.html" ALT="Executive." TITLE="Executive.">
+            <AREA SHAPE="rect" COORDS="227,1,310,21" HREF="http://www.gpoaccess.gov/judicial.html" ALT="Judicial." TITLE="Judicial.">
+          </MAP>
+<!--End of top navigation. -->
+
+<TABLE WIDTH="700" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+  <TR>
+    <TD ID="leftnav" WIDTH="5" VALIGN="top" BGCOLOR="#333399"><IMG SRC="http://ecfr.gpoaccess.gov/e/ecfr/images/spacer.gif" ALT=" " WIDTH="5"></TD>
+    <TD ID="leftnav" WIDTH="135" VALIGN="top" BGCOLOR="#333399">
+      <DIV ALIGN="center"><A NAME="links"></A><IMG SRC="http://ecfr.gpoaccess.gov/e/ecfr/images/narablue.gif" ALT="National Archives and Records Administration logo." WIDTH="120" HEIGHT="122">
+      </DIV>      <!-- #BeginLibraryItem "/library/leftnav.lbi" --> <TABLE WIDTH="137" BORDER="0" CELLSPACING="0" CELLPADDING="0" BGCOLOR="#FFFFFF">
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="12" COLSPAN="2"> <DIV ALIGN="center"><IMG SRC="http://ecfr.gpoaccess.gov/images/applicationfeatures.gif" ALT="Database Features." WIDTH="137" HEIGHT="16"></DIV></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD COLSPAN="2" HEIGHT="5"><IMG SRC="http://ecfr.gpoaccess.gov/images/spacer.gif" HEIGHT="5" ALT=" "></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="2" CLASS="side" WIDTH="13"><DIV ALIGN="center">&#149;</DIV></TD>
+    <TD HEIGHT="20" CLASS="side"><A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&tpl=%2Findex.tpl">Browse</A></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="2" CLASS="side"><DIV ALIGN="center">&#149;</DIV></TD>
+    <TD HEIGHT="20" CLASS="side"><A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&page=simple">Simple 
+      Search </A></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="19" CLASS="side"> <DIV ALIGN="center">&#149;</DIV></TD>
+    <TD HEIGHT="19" CLASS="side"><FONT COLOR="#000011" FACE="Arial, Helvetica, sans-serif">Advanced 
+      Search </FONT></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="2" CLASS="side"><DIV ALIGN="center"></DIV></TD>
+    <TD HEIGHT="20" CLASS="side">*<A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&page=boolean"> 
+      Boolean</A></TD>
+  </TR>
+  <TR ALIGN="center"> 
+    <TD HEIGHT="20">&nbsp;</TD>
+    <TD ALIGN="left" CLASS="side">* <A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&page=proximity"> 
+      Proximity</A></TD>
+  </TR>
+    <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="2" ALIGN="center" CLASS="side">&#149;</TD>
+    <TD HEIGHT="20" CLASS="side"><A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&page=history">Search 
+      History</A></TD>
+  </TR>
+  
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="2" ALIGN="center" CLASS="side">&#149;</TD>
+    <TD HEIGHT="20" CLASS="side"><A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&tpl=search.tpl">Search 
+      Tips</A></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top">
+    <TD HEIGHT="2" CLASS="side"><DIV ALIGN="CENTER">&#149;</DIV></TD>
+    <TD HEIGHT="20" CLASS="side"><A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&tpl=correctionspage.tpl">Corrections</A></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="2" CLASS="side"><DIV ALIGN="center">&#149;</DIV></TD>
+    <TD HEIGHT="20" CLASS="side"><P><A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&tpl=update.tpl">Latest 
+        Updates</A></P></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="2" ALIGN="center" CLASS="side">&#149;</TD>
+    <TD HEIGHT="20" CLASS="side"><A
+            HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&tpl=about.tpl">User Info</A></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="2" ALIGN="center" CLASS="side">&#149;</TD>
+    <TD HEIGHT="20" CLASS="side"><A
+            HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&tpl=faq.tpl">FAQs</A></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="2" CLASS="side"><DIV ALIGN="center">&#149;</DIV></TD>
+    <TD HEIGHT="20" CLASS="side"><A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&tpl=%2Fagencylist.tpl">Agency 
+      List</A></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD HEIGHT="2" CLASS="side"><DIV ALIGN="center">&#149;</DIV></TD>
+    <TD HEIGHT="20" CLASS="side"><A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&tpl=%2Findex.tpl">e-CFR 
+      Main Page</A></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top"> 
+    <TD COLSPAN="2" HEIGHT="2"><IMG SRC="http://ecfr.gpoaccess.gov/images/bottom.gif" WIDTH="137" HEIGHT="16" ALT=" "></TD>
+  </TR>
+</TABLE>
+
+
+	  <TABLE WIDTH="137" BORDER="0" CELLSPACING="0" CELLPADDING="0" BGCOLOR="#FFFFFF">
+        <TR ALIGN="left" VALIGN="top">
+          <TD COLSPAN="2" HEIGHT="12"> <DIV ALIGN="center"><IMG SRC="http://ecfr.gpoaccess.gov/e/ecfr/images/related.gif" HEIGHT="16" ALT="Related Resources" WIDTH="137"></DIV></TD>
+        </TR>
+        <TR ALIGN="left" VALIGN="top">
+          <TD COLSPAN="2" HEIGHT="5"><IMG SRC="http://ecfr.gpoaccess.gov/e/ecfr/images/spacer.gif" HEIGHT="5" ALT=" "></TD>
+        </TR>
+        <TR ALIGN="left" VALIGN="top">
+          <TD HEIGHT="2" CLASS="side" WIDTH="13"><DIV ALIGN="center">&#149;</DIV></TD>
+          <TD HEIGHT="35" CLASS="side"><A HREF="http://www.gpoaccess.gov/cfr/index.html">Code
+            of Federal Regulations</A></TD>
+        </TR>
+        <TR ALIGN="left" VALIGN="top">
+          <TD HEIGHT="2" CLASS="side"><DIV ALIGN="center">&#149;</DIV></TD>
+          <TD HEIGHT="20" CLASS="side"><A HREF="http://www.gpoaccess.gov/fr/index.html">Federal
+            Register</A></TD>
+        </TR>
+        <TR ALIGN="left" VALIGN="top">
+          <TD HEIGHT="2" CLASS="side"><DIV ALIGN="center">&#149;</DIV></TD>
+          <TD HEIGHT="35" CLASS="side"><A HREF="http://www.gpoaccess.gov/lsa/index.html">List
+            of CFR<BR>
+            Sections Affected</A></TD>
+        </TR>
+        <TR ALIGN="left" VALIGN="top">
+          <TD HEIGHT="2" CLASS="side"><DIV ALIGN="center">&#149;</DIV></TD>
+          <TD WIDTH="132" HEIGHT="20" CLASS="side"><A HREF="http://www.regulations.gov">Regulations.gov</A></TD>
+        </TR>
+        <TR ALIGN="left" VALIGN="top">
+          <TD HEIGHT="2" CLASS="side"><DIV ALIGN="center">&#149;</DIV></TD>
+          <TD WIDTH="132" HEIGHT="20" CLASS="side"><A HREF="http://www.gpoaccess.gov/ua/index.html">Unified
+            Agenda</A></TD>
+        </TR>
+        <TR ALIGN="left" VALIGN="top">
+          <TD HEIGHT="2" CLASS="side"><DIV ALIGN="center">&#149;</DIV></TD>
+          <TD WIDTH="132" HEIGHT="20" CLASS="side"><A HREF="http://www.gpoaccess.gov/nara/index.html">All
+            NARA Publications</A></TD>
+        </TR>
+        <TR ALIGN="left" VALIGN="top">
+          <TD COLSPAN="2" HEIGHT="2"><IMG SRC="http://ecfr.gpoaccess.gov/e/ecfr/images/bottom.gif" WIDTH="137" HEIGHT="16" ALT=" "></TD>
+        </TR>
+      </TABLE>
+
+<TABLE WIDTH="137" BORDER="0" CELLSPACING="0" CELLPADDING="0" BGCOLOR="#FFFFFF">
+  <TR ALIGN="left" VALIGN="top">
+    <TD COLSPAN="3" HEIGHT="12"><DIV ALIGN="left"><IMG SRC="http://ecfr.gpoaccess.gov/e/ecfr/images/learn.gif" HEIGHT="16" ALT="About Government." WIDTH="137"></DIV></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top">
+    <TD HEIGHT="5" COLSPAN="3"><IMG SRC="http://ecfr.gpoaccess.gov/e/ecfr/images/spacer.gif" WIDTH="1" HEIGHT="5" ALT=" "></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top">
+    <TD WIDTH="52" HEIGHT="10"><DIV ALIGN="left"><A HREF="http://bensguide.gpo.gov"><IMG SRC="http://ecfr.gpoaccess.gov/e/ecfr/images/ben2.gif" ALT="Ben's Guide Logo." WIDTH="48" HEIGHT="52" HSPACE="2" BORDER="0"></A></DIV></TD>
+    <TD WIDTH="85" HEIGHT="10" CLASS="side"><DIV ALIGN="left"><A HREF="http://bensguide.gpo.gov">Ben's
+        Guide<BR>
+        to U.S.<BR>
+        Government</A></DIV></TD>
+  </TR>
+  <TR ALIGN="left" VALIGN="top">
+    <TD COLSPAN="3" HEIGHT="2"><IMG SRC="http://ecfr.gpoaccess.gov/e/ecfr/images/bottom.gif" WIDTH="137" HEIGHT="16" ALT=" "></TD>
+  </TR>
+</TABLE>
+<!-- #EndLibraryItem --><DIV ALIGN="center"><A HREF="http://frwebgate.access.gpo.gov/cgi-bin/leaving.cgi?from=exit.html&to=http://www.adobe.com/prodindex/acrobat/readstep.html&log=linklog"><IMG SRC="http://www.gpoaccess.gov/images/getacro.gif" ALT="Get Adobe Reader" BORDER="0" WIDTH="88" HEIGHT="31"></A> </DIV>
+</TD>
+<TD ID="leftnav" WIDTH="5" VALIGN="top" BGCOLOR="#333399" ALIGN="left"><IMG SRC="http://www.gpoaccess.gov/images/spacer.gif" ALT=" " WIDTH="5"></TD>
+
+<TD WIDTH="555" CLASS="tablespacing"  VALIGN="top">
+  
+<P CLASS="navigation">
+<A HREF="http://www.gpoaccess.gov/index.html">Home Page</A> &gt; <A HREF="http://www.gpoaccess.gov/executive.html"> Executive Branch</A> &gt; <A HREF="http://www.gpoaccess.gov/cfr/index.html">Code of Federal Regulations</A> &gt; <A HREF="http://www.gpoaccess.gov/ecfr/">Electronic Code of Federal Regulations</A>
+</p>
+<p align="center"><A NAME="content"></A>
+      <img src="http://ecfr.gpoaccess.gov/e/ecfr/images/logo--bluepill.gif" alt="blue pill" width="498" height="120"><BR>
+      <!--<H3 ALIGN="center"><SPAN CLASS="head">Electronic Code of Federal Regulations 
+        (e-CFR)</SPAN> </H3>-->
+
+      <!--<H4 ALIGN="center"><FONT COLOR="#FF0000" FACE="Arial, Helvetica, sans-serif">BETA TEST SITE</FONT></H4>-->
+
+ <FONT COLOR="#FF0000" SIZE="4" FACE="Arial, Helvetica, sans-serif"><STRONG>e-CFR Data is current as of February 4, 2009</STRONG></FONT> </P>
+
+<!-- InstanceBeginEditable name="body" -->
+		  
+		  <!--XXXXXXXXXXXXXXPUT COPY HEREXXXXXXXXXXXXXXXXXXXXXXXX-->	
+		    <p align="center"> <SPAN CLASS="updatebodytest">
+              
+              </SPAN></p>
+            <p> <SPAN CLASS="updatebodytest">
+              </p>
+            </SPAN>
+            <p> <SPAN CLASS="updatebodytest">
+              <br>
+<strong><span class="mainheader">Title 21: Food and Drugs</span></strong><br>
+<a name="PartTop"></a><p><span><a href="http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr;sid=6bddfaebf4f515a3e56f757c8d4e6a27;rgn=div5;view=text;node=21%3A3.0.1.1.15;idno=21;cc=ecfr">Browse Previous</a></span>&nbsp;|&nbsp;<span><a href="http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr;sid=6bddfaebf4f515a3e56f757c8d4e6a27;rgn=div5;view=text;node=21%3A3.0.1.1.17;idno=21;cc=ecfr">Browse Next</a></span><br>
+<h5>PART 189&mdash;SUBSTANCES PROHIBITED FROM USE IN HUMAN FOOD</h5><hr width="50%" align="left"><b>Section Contents</b><br>
+<font size="-1"><br>
+<strong><center><a href="#21:3.0.1.1.16.1">Subpart A&mdash;General Provisions</a></center></strong></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.1.1.1">&#167;&nbsp;189.1&nbsp;&nbsp;&nbsp;Substances prohibited from use in human food.</a></font><br>
+<font size="-1"><br>
+<strong><center><a href="#21:3.0.1.1.16.2">Subpart B&mdash;Prohibited Cattle Materials</a></center></strong></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.2.1.1">&#167;&nbsp;189.5&nbsp;&nbsp;&nbsp;Prohibited cattle materials.</a></font><br>
+<font size="-1"><br>
+<strong><center><a href="#21:3.0.1.1.16.3">Subpart C&mdash;Substances Generally Prohibited From Direct Addition or Use as Human Food</a></center></strong></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.1">&#167;&nbsp;189.110&nbsp;&nbsp;&nbsp;Calamus and its derivatives.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.2">&#167;&nbsp;189.113&nbsp;&nbsp;&nbsp;Cinnamyl anthranilate.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.3">&#167;&nbsp;189.120&nbsp;&nbsp;&nbsp;Cobaltous salts and its derivatives.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.4">&#167;&nbsp;189.130&nbsp;&nbsp;&nbsp;Coumarin.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.5">&#167;&nbsp;189.135&nbsp;&nbsp;&nbsp;Cyclamate and its derivatives.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.6">&#167;&nbsp;189.140&nbsp;&nbsp;&nbsp;Diethylpyrocarbonate (DEPC).</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.7">&#167;&nbsp;189.145&nbsp;&nbsp;&nbsp;Dulcin.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.8">&#167;&nbsp;189.155&nbsp;&nbsp;&nbsp;Monochloroacetic acid.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.9">&#167;&nbsp;189.165&nbsp;&nbsp;&nbsp;Nordihydroguaiaretic acid (NDGA).</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.10">&#167;&nbsp;189.175&nbsp;&nbsp;&nbsp;P&ndash;4000.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.11">&#167;&nbsp;189.180&nbsp;&nbsp;&nbsp;Safrole.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.12">&#167;&nbsp;189.190&nbsp;&nbsp;&nbsp;Thiourea.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.3.1.13">&#167;&nbsp;189.191&nbsp;&nbsp;&nbsp;Chlorofluorocarbon propellants.</a></font><br>
+<font size="-1"><br>
+<strong><center><a href="#21:3.0.1.1.16.4">Subpart D&mdash;Substances Prohibited From Indirect Addition to Human Food Through Food-Contact Surfaces</a></center></strong></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.4.1.1">&#167;&nbsp;189.220&nbsp;&nbsp;&nbsp;Flectol H.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.4.1.2">&#167;&nbsp;189.240&nbsp;&nbsp;&nbsp;Lead solders.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.4.1.3">&#167;&nbsp;189.250&nbsp;&nbsp;&nbsp;Mercaptoimidazoline and 2-mercaptoimidazoline.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.4.1.4">&#167;&nbsp;189.280&nbsp;&nbsp;&nbsp;4,4&prime;-Methylenebis (2-chloroanaline).</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.4.1.5">&#167;&nbsp;189.300&nbsp;&nbsp;&nbsp;Hydrogenated 4,4&prime;-isopropylidene-diphenolphosphite ester resins.</a></font><br>
+<font size="-1"><a href="#21:3.0.1.1.16.4.1.6">&#167;&nbsp;189.301&nbsp;&nbsp;&nbsp;Tin-coated lead foil capsules for wine bottles.</a></font><br>
+<font size="-1"><a href="#"></a></font><br>
+<hr width="50%" align="left">
+<p><font size="-1"><b>Authority:</b>
+&nbsp;&nbsp;21 U.S.C. 321, 342, 348, 371, 381.</PSPACE></font><p><font size="-1"><b>Source:</b>
+&nbsp;&nbsp;42 FR 14659, Mar. 15, 1977, unless otherwise noted.</PSPACE></font><p><b>Editorial Note:</b>
+<font size="-1"></font>&nbsp;&nbsp;Nomenclature changes to part 189 appear at 61 FR 14482, Apr. 2, 1996, 66 FR 56035, Nov. 6, 2001, 70 FR 40880, July 15, 2005, and 70 FR 67651, Nov. 8, 2005.</PSPACE></EDNOTE><a name="21:3.0.1.1.16.1"><h5>Subpart A&mdash;General Provisions</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><a name="21:3.0.1.1.16.1.1.1"><h5>&#167;&nbsp;189.1&nbsp;&nbsp;&nbsp;Substances prohibited from use in human food.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) The food ingredients listed in this section have been prohibited from use in human food by the Food and Drug Administration because of a determination that they present a potential risk to the public health or have not been shown by adequate scientific data to be safe for use in human food. Use of any of these substances in violation of this section causes the food involved to be adulterated in violation of the act.</p>  <p>  (b) This section includes only a partial list of substances prohibited from use in human food, for easy reference purposes, and is not a complete list of substances that may not lawfully be used in human food. No substance may be used in human food unless it meets all applicable requirements of the act.</p>  <p>  (c) The Commissioner of Food and Drugs, either on his own initiative or on behalf of any interested person who has submitted a petition, may publish a proposal to establish, amend, or repeal a regulation under this section on the basis of new scientific evaluation or information. Any such petition shall include an adequate scientific basis to support the petition, pursuant to part 10 of this chapter, and will be published for comment if it contains reasonable grounds.</p>  <p>[42 FR 14659, Mar. 15, 1977, as amended at 54 FR 24899, June 12, 1989]</p><a name="21:3.0.1.1.16.2"><h5>Subpart B&mdash;Prohibited Cattle Materials</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><a name="21:3.0.1.1.16.2.1.1"><h5>&#167;&nbsp;189.5&nbsp;&nbsp;&nbsp;Prohibited cattle materials.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) <I>Definitions </I>. The definitions and interpretations of terms contained in section 201 of the Federal Food, Drug, and Cosmetic Act (the act) apply to such terms when used in this part. The following definitions also apply:</p>  <p>  (1) Prohibited cattle materials means specified risk materials, small intestine of all cattle except as provided in paragraph (b)(2) of this section, material from nonambulatory disabled cattle, material from cattle not inspected and passed, or mechanically separated (MS) (Beef). Prohibited cattle materials do not include the following:</p>  <p>  (i) Tallow that contains no more than 0.15 percent insoluble impurities, tallow derivatives, hides and hide-derived products, and milk and milk products, and</p>  <p>  (ii) Cattle materials inspected and passed from a country designated under paragraph (e) of this section.</p>  <p>  (2) <I>Inspected and passed </I>means that the product has been inspected and passed for human consumption by the appropriate regulatory authority, and at the time it was inspected and passed, it was found to be not adulterated.</p>  <p>  (3) <I>Mechanically Separated (MS)(Beef) </I>means a meat food product that is finely comminuted, resulting from the mechanical separation and removal of most of the bone from attached skeletal muscle of cattle carcasses and parts of carcasses that meets the specifications contained in 9 CFR 319.5, the regulation that prescribes the standard of identity for MS (Species).</p>  <p>  (4) <I>Nonambulatory disabled cattle </I>means cattle that cannot rise from a recumbent position or that cannot walk, including, but not limited to, those with broken appendages, severed tendons or ligaments, nerve paralysis, fractured vertebral column, or metabolic conditions.</p>  <p>  (5) <I>Specified risk material </I>means the brain, skull, eyes, trigeminal ganglia, spinal cord, vertebral column (excluding the vertebrae of the tail, the transverse processes of the thoracic and lumbar vertebrae, and the wings of the sacrum), and dorsal root ganglia of cattle 30 months and older and the tonsils and distal ileum of the small intestine of all cattle.</p>  <p>  (6) <I>Tallow </I>means the rendered fat of cattle obtained by pressing or by applying any other extraction process to tissues derived directly from discrete adipose tissue masses or to other carcass parts and tissues. Tallow must be produced from tissues that are not prohibited cattle materials or must contain not more than 0.15 percent insoluble impurities as determined by the method entitled &ldquo;Insoluble Impurities&rdquo; (AOCS Official Method Ca 3a-46), American Oil Chemists' Society (AOCS), 5th Edition, 1997, incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51, or another method equivalent in accuracy, precision, and sensitivity to AOCS Official Method Ca 3a-46. You may obtain copies of the method from AOCS ( <I>http://www.aocs.org </I>) 2211 W. Bradley Ave. Champaign, IL 61821. Copies may be examined at the Center for Food Safety and Applied Nutrition's Library, 5100 Paint Branch Pkwy., College Park, MD 20740, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202&ndash;741&ndash;6030, or go to <I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. </I></p>  <p>  (7) <I>Tallow derivative </I>means any chemical obtained through initial hydrolysis, saponification, or trans-esterification of tallow; chemical conversion of material obtained by hydrolysis, saponification, or trans-esterification may be applied to obtain the desired product.</p>  <p>  (b) <I>Requirements. </I>(1) No human food shall be manufactured from, processed with, or otherwise contain, prohibited cattle materials.</p>  <p>  (2) The small intestine is not considered prohibited cattle material if the distal ileum is removed by a procedure that removes at least 80 inches of the uncoiled and trimmed small intestine, as measured from the caeco-colic junction and progressing proximally towards the jejunum, or by a procedure that the establishment can demonstrate is equally effective in ensuring complete removal of the distal ileum.</p>  <p>  (c) <I>Records. </I>(1) Manufacturers and processors of a human food that is manufactured from, processed with, or otherwise contains, material from cattle must establish and maintain records sufficient to demonstrate that the food is not manufactured from, processed with, or does not otherwise contain, prohibited cattle materials.</p>  <p>  (2) Records must be retained for 2 years after the date they were created.</p>  <p>  (3) Records must be retained at the manufacturing or processing establishment or at a reasonably accessible location.</p>  <p>  (4) The maintenance of electronic records is acceptable. Electronic records are considered to be reasonably accessible if they are accessible from an onsite location.</p>  <p>  (5) Records required by this section and existing records relevant to compliance with this section must be available to FDA for inspection and copying.</p>  <p>  (6) When filing entry with U.S. Customs and Border Protection, the importer of record of a human food manufactured from, processed with, or otherwise containing, cattle material must affirm that the food was manufactured from, processed with, or otherwise contains, cattle material and must affirm that the food was manufactured in accordance with this section. If a human food is manufactured from, processed with, or otherwise contains, cattle material, then the importer of record must, if requested, provide within 5 days records sufficient to demonstrate that the food is not manufactured from, processed with, or does not otherwise contain, prohibited cattle material.</p>  <p>  (7) Records established or maintained to satisfy the requirements of this subpart that meet the definition of electronic records in &sect;11.3(b)(6) of this chapter are exempt from the requirements of part 11 of this chapter. Records that satisfy the requirements of this subpart but that are also required under other applicable statutory provisions or regulations remain subject to part 11 of this chapter.</p>  <p>  (d) <I>Adulteration. </I>(1) Failure of a manufacturer or processor to operate in compliance with the requirements of paragraphs (b) or (c) of this section renders human food adulterated under section 402(a)(4) of the act.</p>  <p>  (2) Human food manufactured from, processed with, or otherwise containing, prohibited cattle materials is unfit for human food and deemed adulterated under section 402(a)(3) of the act.</p>  <p>  (3) <I>Food additive status </I>. Prohibited cattle materials for use in human food are food additives subject to section 409 of the act, except when used as dietary ingredients in dietary supplements. The use or intended use of any prohibited cattle material in human food causes the material and the food to be adulterated under section 402(a)(2)(C) of the act if the prohibited cattle material is a food additive, unless it is the subject of a food additive regulation or of an investigational exemption for a food additive under &sect;170.17 of this chapter.</p>  <p>  (e) <I>Process for designating countries </I>. A country seeking designation must send a written request to the Director, Office of the Center Director, Center for Food Safety and Applied Nutrition, Food and Drug Administration, at the address designated in 21 CFR 5.1100. The request shall include information about a country's bovine spongiform encephalopathy (BSE) case history, risk factors, measures to prevent the introduction and transmission of BSE, and any other information relevant to determining whether specified risk materials, the small intestine of cattle except as provided in paragraph (b)(2) of this section, material from nonambulatory disabled cattle, or MS (Beef) from cattle from the country should be considered prohibited cattle materials. FDA shall respond in writing to any such request and may impose conditions in granting any such request. A country designation granted by FDA under this paragraph will be subject to future review by FDA, and may be revoked if FDA determines that it is no longer appropriate.</p>  <p>[70 FR 53068, Sept. 7, 2005, as amended at 71 FR 59668, Oct. 11, 2006; 73 FR 20793, Apr. 17, 2008]</p><a name="21:3.0.1.1.16.3"><h5>Subpart C&mdash;Substances Generally Prohibited From Direct Addition or Use as Human Food</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p><font size="-1"><b>Source:</b>
+&nbsp;&nbsp;42 FR 14659, Mar. 15, 1977, unless otherwise noted. Redesignated at 69 FR 42273, July 14, 2004.</PSPACE></font><a name="21:3.0.1.1.16.3.1.1"><h5>&#167;&nbsp;189.110&nbsp;&nbsp;&nbsp;Calamus and its derivatives.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Calamus is the dried rhizome of <I>Acorus calamus </I>L. It has been used as a flavoring compound, especially as the oil or extract.</p>  <p>  (b) Food containing any added calamus, oil of calamus, or extract of calamus is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of May 9, 1968 (33 FR 6967).</p>  <p>  (c) The analytical method used for detecting oil of calamus (&beta;-asarone) is in the &ldquo;Journal of the Association of Official Analytical Chemists,&rdquo; Volume 56, (Number 5), pages 1281 to 1283, September 1973, which is incorporated by reference. Copies are available from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, also from the Division of Food and Color Additives, Center for Food Safety and Applied Nutrition (HFS&ndash;200), Food and Drug Administration, 5100 Paint Branch Pkwy., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202&ndash;741&ndash;6030, or go to: <I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. </I></p>  <p>[42 FR 14659, Mar. 15, 1977, as amended at 47 FR 11855, Mar. 19, 1982; 54 FR 24899, June 12, 1989]</p><a name="21:3.0.1.1.16.3.1.2"><h5>&#167;&nbsp;189.113&nbsp;&nbsp;&nbsp;Cinnamyl anthranilate.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) The food additive cinnamyl anthranilate (C<SUB>16</SUB>H<SUB>15</SUB>NO<SUB>2</SUB>, CAS Reg. No. 87&ndash;29&ndash;6) is the ester of cinnamyl alcohol and anthranilic acid. Cinnamyl anthranilate is a synthetic chemical that has not been identified in natural products at levels detectable by available methodology. It has been used as a flavoring agent in food.</p>  <p>  (b) Food containing any added cinnamyl anthranilate is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of October 23, 1985.</p>  <p>[50 FR 42932, Oct. 23, 1985]</p><a name="21:3.0.1.1.16.3.1.3"><h5>&#167;&nbsp;189.120&nbsp;&nbsp;&nbsp;Cobaltous salts and its derivatives.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Cobaltous salts are the chemicals, CoC<SUB>4</SUB>H<SUB>6</SUB>O<SUB>4</SUB>, CoCl<SUB>2</SUB>, and CoSO<SUB>4</SUB>.They have been used in fermented malt beverages as a foam stabilizer and to prevent &ldquo;gushing.&rdquo;</p>  <p>  (b) Food containing any added cobaltous salts is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of August 12, 1966 (31 FR 8788).</p>  <a name="21:3.0.1.1.16.3.1.4"><h5>&#167;&nbsp;189.130&nbsp;&nbsp;&nbsp;Coumarin.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Coumarin is the chemical 1,2-benzopyrone, C<SUB>9</SUB>H<SUB>6</SUB>O<SUB>2</SUB>. It is found in tonka beans and extract of tonka beans, among other natural sources, and is also synthesized. It has been used as a flavoring compound.</p>  <p>  (b) Food containing any added coumarin as such or as a constituent of tonka beans or tonka extract is deemed to be adulterated under the act, based upon an order published in the<E T="04">Federal Register</E>of March 5, 1954 (19 FR 1239).</p>  <p>  (c) The analytical methods used for detecting coumarin in food are in sections 19.016&ndash;19.024 of the &ldquo;Official Methods of Analysis of the Association of Official Analytical Chemists,&rdquo; 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202&ndash;741&ndash;6030, or go to: <I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. </I></p>  <p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24899, June 12, 1989]</p><a name="21:3.0.1.1.16.3.1.5"><h5>&#167;&nbsp;189.135&nbsp;&nbsp;&nbsp;Cyclamate and its derivatives.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Calcium, sodium, magnesium and potassium salts of cyclohexane sulfamic acid, (C<SUB>6</SUB>H<SUB>12</SUB>NO<SUB>3</SUB>S)<SUB>2</SUB>Ca, (C<SUB>6</SUB>H<SUB>12</SUB>NO<SUB>3</SUB>S)Na, (C<SUB>6</SUB>H<SUB>12</SUB>NO<SUB>3</SUB>S)<SUB>2</SUB>Mg, and (C<SUB>6</SUB>H<SUB>12</SUB>NO<SUB>3</SUB>S)K. Cyclamates are synthetic chemicals having a sweet taste 30 to 40 times that of sucrose, are not found in natural products at levels detectable by the official methodology, and have been used as artificial sweeteners.</p>  <p>  (b) Food containing any added or detectable level of cyclamate is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of October 21, 1969 (34 FR 17063).</p>  <p>  (c) The analytical methods used for detecting cyclamate in food are in sections 20.162&ndash;20.172 of the &ldquo;Official Methods of Analysis of the Association of Official Analytical Chemists,&rdquo; 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202&ndash;741&ndash;6030, or go to: <I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. </I></p>  <p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24899, June 12, 1989]</p><a name="21:3.0.1.1.16.3.1.6"><h5>&#167;&nbsp;189.140&nbsp;&nbsp;&nbsp;Diethylpyrocarbonate (DEPC).</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Diethylpyrocarbonate is the chemical pyrocarbonic acid diethyl ester, C<SUB>6</SUB>H<SUB>10</SUB>O<SUB>5</SUB>. It is a synthetic chemical not found in natural products at levels detectable by available methodology and has been used as a ferment inhibitor in alcoholic and nonalcoholic beverages.</p>  <p>  (b) Food containing any added or detectable level of DEPC is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of August 2, 1972 (37 FR 15426).</p>  <a name="21:3.0.1.1.16.3.1.7"><h5>&#167;&nbsp;189.145&nbsp;&nbsp;&nbsp;Dulcin.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Dulcin is the chemical 4-ethoxyphenylurea, C<SUB>9</SUB>H<SUB>12</SUB>N<SUB>2</SUB>O<SUB>2</SUB>. It is a synthetic chemical having a sweet taste about 250 times that of sucrose, is not found in natural products at levels detectable by the official methodology, and has been proposed for use as an artificial sweetener.</p>  <p>  (b) Food containing any added or detectable level of dulcin is deemed to be adulterated in violation of the act, based upon an order published in the<E T="04">Federal Register</E>of January 19, 1950 (15 FR 321).</p>  <p>  (c) The analytical methods used for detecting dulcin in food are in sections 20.173&ndash;20.176 of the &ldquo;Official Methods of Analysis of the Association of Official Analytical Chemists,&rdquo; 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202&ndash;741&ndash;6030, or go to: <I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. </I></p>  <p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24899, June 12, 1989]</p><a name="21:3.0.1.1.16.3.1.8"><h5>&#167;&nbsp;189.155&nbsp;&nbsp;&nbsp;Monochloroacetic acid.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Monochloroacetic acid is the chemical chloroacetic acid, C<SUB>2</SUB>H<SUB>3</SUB>C1O<SUB>2</SUB>. It is a synthetic chemical not found in natural products, and has been proposed as a preservative in alcoholic and nonalcoholic beverages. Monochloroacetic acid is permitted in food package adhesives with an accepted migration level up to 10 parts per billion (ppb) under &sect;175.105 of this chapter. The official methods do not detect monochloroacetic acid at the 10 ppb level.</p>  <p>  (b) Food containing any added or detectable level of monochloroacetic acid is deemed to be adulterated in violation of the act based upon trade correspondence dated December 29, 1941 (TC&ndash;377).</p>  <p>  (c) The analytical methods used for detecting monochloroacetic acid in food are in sections 20.067&ndash;20.072 of the &ldquo;Official Methods of Analysis of the Association of Official Analytical Chemists,&rdquo; 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202&ndash;741&ndash;6030, or go to: <I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. </I></p>  <p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24899, June 12, 1989]</p><a name="21:3.0.1.1.16.3.1.9"><h5>&#167;&nbsp;189.165&nbsp;&nbsp;&nbsp;Nordihydroguaiaretic acid (NDGA).</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Nordihydroguaiaretic acid is the chemical 4,4&prime;-(2,3-dimethyltetramethylene) dipyrocatechol, C<SUB>18</SUB>H<SUB>22</SUB>O<SUB>4</SUB>. It occurs naturally in the resinous exudates of certain plants. The commercial product, which is synthesized, has been used as an antioxidant in foods.</p>  <p>  (b) Food containing any added NDGA is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of April 11, 1968 (33 FR 5619).</p>  <p>  (c) The analytical method used for detecting NDGA in food is in section 20.008(b) of the &ldquo;Official Methods of Analysis of the AOAC INTERNATIONAL,&rdquo; 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202&ndash;741&ndash;6030, or go to: <I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. </I></p>  <p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24900, June 12, 1989]</p><a name="21:3.0.1.1.16.3.1.10"><h5>&#167;&nbsp;189.175&nbsp;&nbsp;&nbsp;P&ndash;4000.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) P&ndash;4000 is the chemical 5-nitro-2-n-propoxyaniline, C<SUB>9</SUB>H<SUB>12</SUB>N<SUB>2</SUB>O<SUB>3</SUB>. It is a synthetic chemical having a sweet taste about 4000 times that of sucrose, is not found in natural products at levels detectable by the official methodology, and has been proposed for use as an artificial sweetener.</p>  <p>  (b) Food containing any added or detectable level of P&ndash;4000 is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of January 19, 1950 (15 FR 321).</p>  <p>  (c) The analytical methods used for detecting P&ndash;4000 in food are in sections 20.177&ndash;20.181 of the &ldquo;Official Methods of Analysis of the Association of Official Analytical Chemists,&rdquo; 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202&ndash;741&ndash;6030, or go to: <I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. </I></p>  <p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24900, June 12, 1989]</p><a name="21:3.0.1.1.16.3.1.11"><h5>&#167;&nbsp;189.180&nbsp;&nbsp;&nbsp;Safrole.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Safrole is the chemical 4-allyl-1,2-methylenedioxy-benzene, C<SUB>10</SUB>H<SUB>10</SUB>O<SUB>2</SUB>. It is a natural constituent of the sassafras plant. Oil of sassafras is about 80 percent safrole. Isosafrole and dihydrosafrole are derivatives of safrole, and have been used as flavoring compounds.</p>  <p>  (b) Food containing any added safrole, oil of sassafras, isosafrole, or dihydrosafrole, as such, or food containing any safrole, oil of sassafras, isosafrole, or dihydrosafrole, e.g., sassafras bark, which is intended solely or primarily as a vehicle for imparting such substances to another food, e.g., sassafras tea, is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of December 3, 1960 (25 FR 12412).</p>  <p>  (c) The analytical method used for detecting safrole, isosafrole and dihydrosafrole is in the &ldquo;Journal of the Association of Official Analytical Chemists,&rdquo; Volume 54 (Number 4), pages 900 to 902, July 1971, which is incorporated by reference. Copies are available from the Division of Food and Color Additives, Center for Food Safety and Applied Nutrition (HFS&ndash;200), Food and Drug Administration, 5100 Paint Branch Pkwy., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202&ndash;741&ndash;6030, or go to: <I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. </I></p>  <p>[42 FR 14659, Mar. 15, 1977, as amended at 42 FR 56729, Oct. 28, 1977; 47 FR 11855, Mar. 19, 1982; 54 FR 24900, June 12, 1989]</p><a name="21:3.0.1.1.16.3.1.12"><h5>&#167;&nbsp;189.190&nbsp;&nbsp;&nbsp;Thiourea.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Thiourea is the chemical thiocarbamide, CH<SUB>4</SUB>N<SUB>2</SUB>S. It is a synthetic chemical, is not found in natural products at levels detectable by the official methodology, and has been proposed as an antimycotic for use in dipping citrus.</p>  <p>  (b) Food containing any added or detectable level of thiourea is deemed to be adulterated under the act.</p>  <p>  (c) The analytical methods used for detecting thiourea are in sections 20.115&ndash;20.126 of the &ldquo;Official Methods of Analysis of the Association of Official Analytical Chemists,&rdquo; 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202&ndash;741&ndash;6030, or go to: <I>http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. </I></p>  <p>[42 FR 14659, Mar. 15, 1977, as amended at 49 FR 10114, Mar. 19, 1984; 54 FR 24900, June 12, 1989]</p><a name="21:3.0.1.1.16.3.1.13"><h5>&#167;&nbsp;189.191&nbsp;&nbsp;&nbsp;Chlorofluorocarbon propellants.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  The use of chlorofluorocarbons in human food as propellants in self-pressurized containers is prohibited as provided by &sect;2.125 of this chapter.</p>  <p>[43 FR 11317, Mar. 17, 1978]</p><a name="21:3.0.1.1.16.4"><h5>Subpart D&mdash;Substances Prohibited From Indirect Addition to Human Food Through Food-Contact Surfaces</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p><font size="-1"><b>Source:</b>
+&nbsp;&nbsp;42 FR 14659, Mar. 15, 1977, unless otherwise noted. Redesignated at 69 FR 42273, July 14, 2004.</PSPACE></font><a name="21:3.0.1.1.16.4.1.1"><h5>&#167;&nbsp;189.220&nbsp;&nbsp;&nbsp;Flectol H.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Flectol H is the chemical 1,2-dihydro-2,2,4-trimethylquinoline, polymerized, C<SUB>12</SUB>H<SUB>15</SUB>N. It is a synthetic chemical not found in natural products, and has been used as a component of food packaging adhesives.</p>  <p>  (b) Food containing any added or detectable level of this substance is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of April 7, 1967 (32 FR 5675).</p>  <p>[42 FR 14659, Mar.15, 1977, as amended at 58 FR 17099, Apr. 1, 1993]</p><a name="21:3.0.1.1.16.4.1.2"><h5>&#167;&nbsp;189.240&nbsp;&nbsp;&nbsp;Lead solders.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Lead solders are alloys of metals that include lead and are used in the construction of metal food cans.</p>  <p>  (b) Food packaged in any container that makes use of lead in can solder is deemed to be adulterated in violation of the Federal Food, Drug, and Cosmetic Act, based upon an order published in the<E T="04">Federal Register</E>of June 27, 1995.</p>  <p>[60 FR 33109, June 27, 1995]</p><a name="21:3.0.1.1.16.4.1.3"><h5>&#167;&nbsp;189.250&nbsp;&nbsp;&nbsp;Mercaptoimidazoline and 2-mercaptoimidazoline.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Mercaptoimidazoline and 2-mercaptoimidazoline both have the molecular formula C<SUB>3</SUB>H<SUB>6</SUB>N<SUB>2</SUB>S. They are synthetic chemicals not found in natural products and have been used in the production of rubber articles that may come into contact with food.</p>  <p>  (b) Food containing any added or delectable levels of these substances is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of November 30, 1973 (38 FR 33072).</p>  <a name="21:3.0.1.1.16.4.1.4"><h5>&#167;&nbsp;189.280&nbsp;&nbsp;&nbsp;4,4&prime;-Methylenebis (2-chloroanaline).</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) 4,4&prime;-Methylenebis (2-chloroanaline) has the molecular formula, C<SUB>13</SUB>H<SUB>12</SUB>Cl<SUB>2</SUB>N<SUB>2</SUB>. It is a synthetic chemical not found in natural products and has been used as a polyurethane curing agent and as a component of food packaging adhesives and polyurethane resins.</p>  <p>  (b) Food containing any added or detectable level of this substance is deemed to be adulterated in violation of the act based upon an order published in the<E T="04">Federal Register</E>of December 2, 1969 (34 FR 19073).</p>  <a name="21:3.0.1.1.16.4.1.5"><h5>&#167;&nbsp;189.300&nbsp;&nbsp;&nbsp;Hydrogenated 4,4&prime;-isopropylidene-diphenolphosphite ester resins.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Hydrogenated 4,4&prime;-isopropylidene-diphenolphosphite ester resins are the condensation product of 1 mole of triphenyl phosphite and 1.5 moles of hydrogenated 4,4&prime;-isopropylidene-diphenol such that the finished resins have a molecular weight in the range of 2,400 to 3,000. They are synthetic chemicals not found in natural products and have been used as antioxidants and as stabilizers in vinyl chloride polymer resins when such polymer resins are used in the manufacture of rigid vinyl chloride polymer bottles.</p>  <p>  (b) Food containing any added or detectable levels of these substances is deemed to be adulterated and in violation of the Federal Food, Drug, and Cosmetic Act, based upon an order published in the<E T="04">Federal Register</E>of September 9, 1987 (52 FR 33929).</p>  <p>[54 FR 7188, Feb. 17, 1989]</p><a name="21:3.0.1.1.16.4.1.6"><h5>&#167;&nbsp;189.301&nbsp;&nbsp;&nbsp;Tin-coated lead foil capsules for wine bottles.</h5></a>
+<a href="#PartTop"><img src="/e/ecfr/graphics/ret-arrow-generic-grey.gif" alt="" > top</a><p>  (a) Tin-coated lead foil is composed of a lead foil coated on one or both sides with a thin layer of tin. Tin-coated lead foil has been used as a capsule (i.e., as a covering applied over the cork and neck areas) on wine bottles to prevent insect infestation, as a barrier to oxygen, and for decorative purposes. Information received by the Food and Drug Administration establishes that the use of such a capsule on wine bottles may reasonably be expected to result in lead becoming a component of the wine.</p>  <p>  (b) The capping of any bottles of wine after February 8, 1996, with a tin-coated lead foil capsule renders the wine adulterated and in violation of section 402(a)(2)(C) of the Federal Food, Drug, and Cosmetic Act because lead from the capsule, which is an unsafe food additive within the meaning of section 409 of the act, may reasonably be expected to become a component of the wine.</p>  <p>[61 FR 4820, Feb. 8, 1996]</p></p><span><a href="http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr;sid=6bddfaebf4f515a3e56f757c8d4e6a27;rgn=div5;view=text;node=21%3A3.0.1.1.15;idno=21;cc=ecfr">Browse Previous</a></span>&nbsp;|&nbsp;<span><a href="http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr;sid=6bddfaebf4f515a3e56f757c8d4e6a27;rgn=div5;view=text;node=21%3A3.0.1.1.17;idno=21;cc=ecfr">Browse Next</a></span><br>
+
+              </SPAN> </p>
+	
+         
+  	<!--XXXXXXXXXXXXXXPUT COPY HEREXXXXXXXXXXXXXXXXXXXXXXXX-->
+		  
+		  
+		  <!-- InstanceEndEditable -->
+<HR WIDTH="70%" ALIGN="center" NOSHADE SIZE="1">
+<P ALIGN="center" CLASS="footer">
+For questions or comments regarding e-CFR editorial content, features, or design, email <A HREF="mailto:ecfr@nara.gov">ecfr@nara.gov</A>.<BR><BR>
+For questions concerning e-CFR programming and delivery issues, email <A HREF="mailto:webteam@gpo.gov">webteam@gpo.gov</A>.<BR><BR>
+
+<A HREF="/cgi/t/text/text-idx?sid=6bddfaebf4f515a3e56f757c8d4e6a27&c=ecfr&tpl=508Accessibility.tpl"> Section 508 / Accessibility</A></P>
+
+<!--<P ALIGN="center" CLASS="footer">Last updated: < !-- #BeginDate format:Am1 -- >August 1, 2007<!-- #EndDate -- ></P>
+--><P>&nbsp;</P>
+</TD>
+</TR>
+</TABLE>
+    
+</BODY>
+<!-- InstanceEnd --></HTML>

@@ -1,0 +1,283 @@
+Software Project Quarterly Report Jan-Mar 2001
+==============================================
+
+Framework, Architecture and Event Model (WBS 2.2.1.1, 2.2.1.2, 2.2.1.4)
+-----------------------------------------------------------------------
+
+This reporting period began with a major milestone and set of framework
+deliverables. This was the so-called "December 2000 Milestone", which
+actually was declared to be the date of the first ATLAS release following
+the nominal date of 29 Dec 2000. This corresponded to ATLAS release 1.3.0,
+which was finally announced on 29 January 2001 after a protracted build
+process.
+
+Major deliverables for this milestone were:
+
+o Deployment of the StoreGate event data access model. Although some
+  functionality was still missing, this made it available to general
+  ATLAS developers.
+
+o Deployment of interactive scripting using the Python scripting
+  language.
+
+o A strategy for the so-called data dictionary was in place.
+
+Other achievements and activities during this reporting period were:
+
+o A first version of the Athena Users Guide was written, initially
+  based on release 1.3.0. This is in the process of being expanded
+  into a Users Guide, a Developers Guide and a Tutorial,
+  incorporating common sections from the Gaudi Developers Guide.
+  Gaudi is the LHCb Framework upon which Athena is based.
+
+o ATLAS and LHCb now share a common code base and repository for
+  GAUDI and thence Athena. Used from ATLAS release 1.3.2 with
+  minor ATLAS-specific fixes still to be merged back.
+
+o Support for both Solaris and Linux using gcc 2.95.2 was added
+  but was incomplete at the end of the reporting period.
+
+o The ability to filter events into different output streams
+  was added to the framework, meeting a requirement from the
+  Event Filter.
+
+o The setup scripts were modified to use ATLAS standard environment
+  setup scripts, thus easing use at remote sites.
+
+o Limited control support was added when Python scripting is in
+  use.
+
+o Significant progress was made towards restructuring the service
+  management to provide a more flexible configuration environment.
+  However, this work was incomplete at the end of the reporting
+  period.
+
+o An Architecture Workshop was organized at CERN on 23 Jan 2001. The
+  primary goals were to report briefly on the status of the Athena
+  framework, to get feedback from users and developers, and to refine
+  the plans for future milestones and deliverables based on that
+  feedback and any changes in priorities that might arise.
+
+o The final meeting of the ATLAS Architecture Review Committee (ARC)
+  took place on 5-7 March 2001. We still await the final report.
+
+Databases and Data Management (WBS 2.2.1.3)
+-------------------------------------------
+
+A major database accomplishment in this quarter was the introduction in
+ATLAS software release 1.3.0 of database support for Athena.
+The principal component of this support is what the Gaudi/Athena framework
+calls a conversion service, which handles mappings between transient data
+(as seen by physics programs) and persistent representations (as stored
+in databases).  A conversion service that supports the ATLAS baseline
+database technology, Objectivity/DB, was introduced by the ANL database
+group.  Standard Athena tutorial examples, used to illustrate how an
+algorithm might write data for reading by downstream algorithms,
+were demonstrated to run successfully, unmodified, with the data
+stored in and subsequently retrieved from an object database.
+
+Persistence capabilities were provided in support of collections of
+events in HepMC format, the common format used by ATLAS and other
+experiments to represent the output of physics generators such as
+ISAJET and PYTHIA.  Persistence for the Athena-based version of
+Atlfast, the principal ATLAS fast simulation program, was also
+demonstrated.  At the request of the Architecture Review Committee,
+this persistence was implemented, without optimization, in two
+technologies -- Objectivity/DB by ANL, and ROOT 'blobs' by LBNL and
+ANL -- to demonstrate the ability of the core software to maintain
+independence of database supplier.
+
+A ROOT-based persistency service was developed at Nevis and BNL to
+provide Geant4 simulation persistency and Athena-based access to
+Geant4 data needed by the liquid argon efforts at those sites. The
+service is based on the I/O system of the STAR experiment. The
+work is expected to develop into a role in the ATLAS evaluation
+of ROOT-based persistency.
+
+The freeware relational database MySQL has been employed in the
+liquid argon community for certain run bookkeeping and storage of
+testbeam calibration data, accessible within Athena via a
+technology-independent API.  BNL has developed database software in
+support of these applications, and has done so in a way intended to make
+the software viable as a generalized service accessible through the
+Athena framework.  This work is being integrated into the overall
+database effort, and ANL has begun support of MySQL as a recognized
+external package for ATLAS.
+
+Significant time was spent on interaction with the Architecture Review
+Committee, whose final meeting prior to writing the closeout report
+was held on 5-7 March.  The committee took particular interest in
+plans for database technology evaluation, which will largely be done
+in a 2002 timescale.  The review process served as a catalyst for a
+decision by the database coordinators to produce a database architecture
+document, since the ATLAS data-handling model, apart from resource estimates
+for the Hoffmann review, had not been revisited since the Computing
+Technical Proposal was written.  A draft is tentatively scheduled to be
+available before the end of the next quarter.
+
+Database plans and milestones for the next quarter include enhancements
+to the Objectivity persistence service to support Gaudi interobject
+references.  The Gaudi interobject reference support will eventually
+be replaced as the StoreGate software (which will be the interface
+between ATLAS algorithms and the transient data stores) develops its
+own interobject reference architecture.
+
+Support for output collection registration will be introduced in the
+next quarter, with an aim to connect this work to ATLAS bookkeeping
+work underway in Grenoble, and to emerging grid replica catalog services,
+before the end of the year.  Rudimentary persistence will be provided
+for data in the transient detector data service, which, in the Gaudi/Athena
+architecture, houses time-varying conditions information and other detector
+data.  More complete persistence connections between Athena and detector
+data will be provided once the ATLAS detector description architecture
+has been articulated.  Transaction management sufficient to support access
+to different stores for conditions and event data will be introduced;
+this will be a joint ANL/Orsay effort.  Elementary support for physical
+clustering within the database will be introduced as well.
+
+The ATLAS database software must make a transition to a new version of
+the Objectivity/DB object database product in the coming months.
+This work will be a joint US/European effort.  ATLAS schema management
+and database build infrastructure will need serious attention in the
+coming quarter.  While this effort will be led by Orsay, it will
+necessarily include some US database effort.
+
+Distributed Data Management and Processing Software (WBS 2.2.1.10)
+------------------------------------------------------------------
+
+A detailed program of software development and scheduled deliverables
+in distributed data management and processing software was developed
+for the Particle Physics Data Grid project, based on delivering useful
+distributed processing capability to ATLAS and US ATLAS.  This program
+was adopted as an outline for the PPDG program in general in the new
+PPDG SciDAC proposal that was submitted during this quarter.
+
+A prototype distributed data cataloguing system 'DBYA' based on the
+MySQL relational database was developed for use both as an operational
+catalog for ATLAS data and as a testbed for distributed data and
+metadata management studies and technology evaluations. The system was
+populated with ATLAS simulation and test beam data sets in mass store
+and on disk at CERN and the BNL Tier 1 center.
+
+Simulation and Reconstruction Software (WBS 2.2.2)
+--------------------------------------------------
+
+Core software efforts continued to be complemented by much (primarily
+off-project) development activity in subsystem software.  Work
+continued in all areas described in the last quarterly report.  The
+U.S. acquired a new major subsystem software role in International
+ATLAS when Pavel Nevski (BNL) was asked to serve as the ATLAS
+DICE/Geant3 coordinator for two years, with responsibility to
+coordinate Geant3 based simulation development and production. The
+Geant3 based simulation will be the production simulation for the
+coming Data Challenges DC0 and DC1. Pavel was officially named to this
+role after the end of the reporting period.
+
+Software Support and QA/QC (WBS 2.2.4)
+--------------------------------------
+
+The software support and librarian effort took on additional 
+responsibilities during the quarter in the development of improved
+software test and validation tools. Development was initiated on
+a facility which will produce nightly builds of ATLAS software
+based on the most recent tagged versions of package, and will provide
+immediate feedback to developers on newly introduced software bugs and
+incompatibilities. This system is expected to help ameliorate the
+present ATLAS difficulties in assembling functional software releases
+in a timely way.
+
+In collaboration with the ATLAS quality control group, BNL took the
+lead role in assembling and editing a new revision of the ATLAS
+Coding Standards document. The new revision was released and favorably
+received during the quarter.
+
+A new U.S.-based CVS repository was established at BNL for the use
+of the U.S. ATLAS community. It is used for software development
+projects too preliminary for the ATLAS repository; for projects
+with a local scope; and for the personal CVS repositories of U.S.
+collaborators. Browse and search tools were provided.
+
+The HyperNews web-based discussion tool was fully deployed as the
+host of a number of discussion forums on US LHC common projects,
+remote use of ATLAS software, etc., as well as local US mirrors
+of the most important CERN-based email lists.
+
+Training and Collaborative Tools (WBS 2.2.5, 2.2.3)
+---------------------------------------------------
+
+A new cycle of training courses was launched, with a solicitation sent
+to gather interest in a proposed set of courses in languages and
+ATLAS software tools. A successful Geant4 course was conducted at
+University of Michigan in February with about 16 attendees. The course was
+accompanied by careful arrangements to record it using the Michigan-
+developed Syncomat web-based lecture tool. The result is a high
+quality web based version of the lectures that should be made public
+in the next quarter and should be useful throughout ATLAS.
+
+Project Management
+------------------
+
+Following a set of requirements agreed with International ATLAS in
+December, the U.S.-developed XProject project planning software was
+extended to support its use by International ATLAS (and potentially
+other ATLAS national bodies) for the project WBS and schedule. It will
+form the basis of unified project planning between U.S. and
+International ATLAS. The U.S. and ATLAS WBS's were implemented as
+distinct 'projections' out of the same WBS sources, coinciding
+wherever possible but differing where necessary. The XProject-based
+schedule was synchronized with that of International ATLAS for
+adoption by the latter as the schedule for planning purposes. At the
+end of the period the XProject system was nearly ready to release to
+International ATLAS.
+
+Work was also initiated to extend XProject to support Grid Computing
+planning, following interest expressed at the January ATLAS Grid
+meeting.
+
+In software agreements, the draft agreement on Framework and Data
+Dictionary stood as complete from a U.S. perspective and was under
+review by International ATLAS throughout the period. The first
+subsystem-level exercise in software expressions of interest was
+completed in the liquid argon community, with the U.S. submitting
+a coordinated response covering U.S. interest in LAr software.
+
+The effort required to deal with the fragmented and tentative funding
+sources and options promulgated by the agencies continued to consume
+substantial amounts of time and effort, deflecting work from software
+development and other project activities.
+
+Summary of Major Milestones and Deliverables
+--------------------------------------------
+
+- 29 Jan 2001: 'December 2000' Athena release announced (WBS 2.2.1.2)
+- 29 Jan 2001: 'StoreGate' event model released (WBS 2.2.1.4)
+- 29 Jan 2001: Database support for Athena introduced (WBS 2.2.1.3)
+- 30 Jan 2001: C++ Coding Standards released (WBS 2.2.4)
+- 5 Mar 2001: Final meeting of Arch Review Committee (WBS 2.2.1.1)
+- 15 Mar 2001: PPDG software development plan established (WBS 2.2.1.10)
+
+Forthcoming Milestones and Deliverables
+---------------------------------------
+
+The next major milestone will be the Athena Gamma release in
+May. Deliverables with substantial U.S. involvement are indicated.
+
+May ATLAS software release: Athena gamma release (WBS 2.2.1.2)
+ - Objectivity event I/O fully deployed (WBS 2.2.1.3)
+ - Data dictionary prototype
+ - Pile-up support prototype
+ - Physics analysis ROOT binding
+ - Geant4 integration prototype (limited U.S. involvement)
+ In addition, the following are desirable: 
+ - Particle properties service deployed
+ - Statistics and monitoring tools prototype
+ - Bookkeeping prototype
+
+Summer, 2001: Selection of database technology (WBS 2.2.1.2)
+Still a 'floating' milestone in International ATLAS, without a firm
+date.  Will almost certainly be delayed. Mid 2002 is under discussion.
+This will allow time to properly evaluate both the current baseline
+(Objectivity) and other possible solutions (Oracle 9i, ROOT). The
+U.S. will be (must be) a strong contributor to the prototyping,
+evaluating, and decision making involved, and this will be a focus
+area in the database and data management effort in the coming months.

@@ -1,0 +1,498 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<!-- #BeginEditable "doctitle" --> 
+<title>CDC - Rickettsialpox in Turkey</title>
+<meta name="KEYWORDS" content="Rickettsia akari, rickettsialpox, vesicular rash, mites, diagnostic 
+        methods">
+<!-- #EndEditable --> 
+<script language="JavaScript"> 
+function form_Validator(form2)
+{
+
+  if (form2.From.value == "")
+  {
+    alert("Please enter your email address.");
+    form2.From.focus();
+	return (false);
+     }
+
+  if (form2.RCPT.value == "")
+  {
+    alert("Please enter your friend's email address.");
+    form2.RCPT.focus();
+    return (false);
+  }
+  
+  return (true);
+  }
+  //-->
+</script>
+<script language="JavaScript">
+<!-- hide from non-JavaScript Browsers; 
+
+function stopError(){
+return true;
+}
+window.onerror = stopError;
+
+bVer = parseInt(navigator.appVersion);
+
+//end script -->
+</script>
+<script language="JavaScript" src="/ncidod/eid/eidscript.js">
+</script>
+</head>
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td colspan="7" bgcolor="#000099"> <a href="#content_area"><img src="http://www.cdc.gov/navimages/spacer.gif" border="0" width="100%" height="1" alt="Skip Standard Navigation Links"></a></td>
+  </tr>
+  <tr> 
+    <td width="140" valign="top" rowspan="2" bgcolor="#CCCCCC"> 
+      <table border="0" cellpadding="0" cellspacing="0" width="140" bgcolor="#FFFFFF">
+        <tr> 
+          <td width="140"><a href="http://www.cdc.gov/"><img src="http://www.cdc.gov/navimages/nav11.gif" border="0" alt="Centers for Disease Control and Prevention" width="140" height="60"></a></td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="140">
+        <tr> 
+          <td width="140"><a href="http://www.cdc.gov/"><img src="http://www.cdc.gov/navimages/nav21.gif" border="0" width="140" height="8" alt=" "></a></td>
+        </tr>
+      </table>
+    </td>
+    <td width="12" valign="top" rowspan="2"><a href="http://www.cdc.gov/"><img border="0" src="http://www.cdc.gov/navimages/nav12.gif" alt=" " width="12" height="63"></a></td>
+    <td width="267" height="19" valign="top"><a href="http://www.cdc.gov/"><img border="0" src="http://www.cdc.gov/navimages/nav13.gif" alt="CDC Home" width="267" height="19"></a></td>
+    <td width="58" height="19" valign="top"><a href="http://www.cdc.gov/search.htm"><img border="0" src="http://www.cdc.gov/navimages/nav14.gif" alt="Search" width="58" height="19"></a></td>
+    <td width="118" height="19" valign="top"><a href="http://www.cdc.gov/health/diseases.htm"><img border="0" src="http://www.cdc.gov/navimages/nav15.gif" alt="Health Topics A-Z" width="118" height="19"></a></td>
+    <td bgcolor="#000099" width="50%" height="19" valign="top"><img src="http://www.cdc.gov/navimages/spacer.gif" width="1" height="1" alt=" "></td>
+    <td bgcolor="#000099" width="50%" height="19" valign="top"><img src="http://www.cdc.gov/navimages/spacer.gif" width="1" height="1" alt=" "></td>
+  </tr>
+  <tr> 
+    <td width="99%" valign="top" colspan="5"> <!-- #BeginLibraryItem "/Library/header.lbi" --><table border="0" cellpadding="0" cellspacing="0" width="99%">
+        <tr> 
+          <td rowspan="2"><img src="../images/peer-reviewed.gif" alt="peer-reviewed.gif (582 bytes)" width="443" height="18"></td>
+          <td width="50%"><img src="../images/spacer.gif" width="1" height="16" alt=" "></td>
+          <td width="50%"><img src="../images/spacer.gif" width="1" height="16" alt=" "></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#000080" width="50%"><img src="../images/spacer.gif" alt=" " width="1" height="2"></td>
+          <td bgcolor="#000080" width="50%"><img src="../images/spacer.gif" alt=" " width="1" height="2"></td>
+        </tr>
+        <tr> 
+          <td><img src="../images/eid_header.gif" alt="eid_header.gif (2942 bytes)" width="443" height="26"></td>
+          <td width="50%"><img src="../images/spacer.gif" width="1" height="26" alt=" "></td>
+          <td width="50%"><img src="../images/spacer.gif" width="1" height="26" alt=" "></td>
+        </tr>
+        <tr> 
+          <td rowspan="2"> <img border="0" src="../images/second_navbar2.gif" width="443" height="16"></td>
+          <td bgcolor="#000080" width="50%"><img src="../images/spacer.gif" width="1" height="2" alt=" "></td>
+          <td bgcolor="#000080" width="50%"><img src="../images/spacer.gif" width="1" height="2" alt=" "></td>
+        </tr>
+        <tr> 
+          <td width="50%"><img src="../images/spacer.gif" width="1" height="14" alt=" "></td>
+          <td width="50%"><img src="../images/spacer.gif" width="1" height="14" alt=" "></td>
+        </tr>
+      </table><!-- #EndLibraryItem --></td>
+  </tr>
+</table>
+<table width="98%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC" valign="top"><!-- #BeginEditable "left_nav" --> 
+      <!-- #BeginLibraryItem "/Library/issue_id-vol9no11.lbi" -->
+<table border="0" width="130" cellspacing="0" cellpadding="2" height="42" align="center">
+  <tr>
+    <td height="38"><font face="Verdana, Arial, Helvetica" size="2"><b>Past Issue</b></font><br>
+            <img src="/ncidod/eid/images/short_line.gif" alt=" " vspace="2" width="120" height="2"><br>
+      <font face="Verdana, Arial, Helvetica" size="1"><b>Vol. 9, No. 11<br>
+      November 2003</b></font></td>
+  </tr>
+</table><!-- #EndLibraryItem --><!-- #EndEditable --><img src="../images/spacer.gif" width="140" height="1" alt=" "></td>
+    <td width="12"><a name="#content_area"></a><img src="../images/spacer.gif" width="12" height="1" alt=" "></td>
+    <td width="100%" valign="top"> 
+      <p><!-- #BeginLibraryItem "/Library/header_menu.lbi" --><strong><font face="Verdana, Arial, Helvetica" size="1"><a href="/ncidod/EID/index.htm">EID 
+Home</a> | <a href="/ncidod/EID/upcoming.htm">Ahead of Print</a> | <a href="/ncidod/EID/pastcon.htm">Past 
+Issues</a> | <a href="/ncidod/EID/search.htm">EID Search</a> | <a href="/ncidod/EID/feedback.htm">Contact 
+Us</a> | <a href="/ncidod/EID/announc.htm">Announcements</a> | <a href="/ncidod/EID/citation.htm">Suggested 
+Citation</a> | <a href="http://mc.manuscriptcentral.com/eid/" target="_blank">Submit Manuscript</a></font></strong><!-- #EndLibraryItem --> 
+      </p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><a href="pdfs/03-0224.pdf">PDF 
+        Version</a></b> | <b><a href="/ncidod/eid/download.htm">Download Adobe 
+        Acrobat</a></b> | <b><a href="#com">Comments</a></b> | <a href="#email"><img src="../images/email.gif" width="14" height="9" border="0" align="bottom" alt="Email this article"></a> 
+        <a href="#email"><b>Email this article</b></a></font> </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="100%"><img src="../images/spacer.gif" width="1" height="8" alt=" "></td>
+        </tr>
+      </table>
+      <!-- #BeginEditable "content_area_1" --><!-- #EndEditable --></td>
+  </tr>
+</table>
+<table width="98%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC" valign="top"><img src="../images/spacer.gif" width="140" height="1" alt=" "><br>
+      <!-- #BeginEditable "titles" --> 
+      <table border="0" width="130" cellspacing="0" cellpadding="2" align="center">
+        <tr> 
+          <td colspan="2"><img src="http://www.cdc.gov/navimages/spacer.gif" width="2" height="12" alt=" "><br>
+            <font face="Verdana, Arial, Helvetica" size="1"></font></td>
+        </tr>
+        <tr> 
+          <td width="10" valign="baseline" align="left"> <font size="1" face="Verdana, Arial, Helvetica" color="#000099">&#149;</font></td>
+          <td width="125" valign="top" align="left"><a href="#ref"><font face="Verdana, Arial, Helvetica" size="1">References</font></a></td>
+        </tr>
+      </table>
+      <!-- #EndEditable --></td>
+    <td width="12"><img src="../images/spacer.gif" width="12" height="1" alt=" "></td>
+    <td width="100%" valign="top"><!-- #BeginEditable "content_area_2" --> 
+      <p><b><i>Letter</i></b></p>
+      <h3><font face="Arial, Helvetica, sans-serif">Rickettsialpox in Turkey</font></h3>
+      <p><b>Mustafa K. Ozturk,* Tamer Gunes,* Mehmet Kose,* Christopher Coker,† 
+        and Suzana Radulovic†</b><br>
+        *Erciyes University, Kayseri, Turkey; and †University of Maryland, Baltimore, 
+        Maryland, USA</p>
+      <blockquote> 
+        <p><i><font face="Arial, Helvetica, sans-serif" size="2">Suggested citation 
+          for this article:</font></i><font face="Arial, Helvetica, sans-serif" size="2"> 
+          Ozturk MK, Gunes T, Kose M, Coker C, Radulovic S. Rickettsialpox in 
+          Turkey. Emerg Infect Dis [serial online] 2003 Nov [<i>date cited</i>]. 
+          Available from: URL: http://www.cdc.gov/ncidod/EID/vol9no11/03-0224.htm</font></p>
+      </blockquote>
+      <hr>
+      <p><b>To the Editor:</b> Rickettsialpox is often described as a chickenpox-like 
+        disease and is caused by <i>Rickettsia akari</i>, a spotted fever group 
+        <i>Rickettsia</i> that is transmitted to humans by the bite of mites (<i>Liponyssoides 
+        sanguineus</i>). Although the mite host (typically a mouse) is widely 
+        distributed in cities, the disease is infrequently diagnosed. It is typically 
+        characterized in patients by the appearance of a primary eschar at the 
+        site of a mite bite followed by fever, headache, and development of a 
+        papulovesicular rash. Symptoms normally appear 9–14 days after the mite 
+        bite and are often unnoticed by the affected person. In documented rickettsialpox 
+        cases, the presence of a papule that ulcerates and becomes a scar approximately 
+        0.5–3.0 cm in diameter is reported (<a href="#1">1–3</a>). Three to 7 
+        days later, symptoms are more pronounced, with patients experiencing the 
+        sudden onset of chills, fever, and headache followed by myalgia and the 
+        appearence of generalized vesicular skin rashes. Less frequently, photophobia, 
+        conjunctival injection, cough, generalized lymphadenopathy, and vomiting 
+        are reported.</p>
+      <p>The first well-described clinical case of rickettsialpox was documented 
+        in New York City in 1946 (<a href="#1">1</a>). Historically, most documented 
+        rickettsialpox cases have occurred in large metropolitan areas of the 
+        United States (<a href="#1">2</a>), where the causative agent, <i>R. akari</i>, 
+        circulates primarily between the house mouse (<i>Mus musculus</i>) and 
+        its mite (<i>Liponyssoides sanguineus</i>). Recently, rickettsialpox cases 
+        have been reported from Croatia, Ukraine, South Africa, Korea, and North 
+        Carolina (<a href="#1">3,4</a>). <i>R. akari</i> was isolated from the 
+        blood of a patient suspected of having Mediterranean spotted fever rather 
+        than rickettsialpox; this was the first human isolate of <i>R. akari</i> 
+        reported in &gt;40 years (<a href="#1">4</a>). Recent reports of a rickettsialpox 
+        case in North Carolina (<a href="#1">3</a>), <i>R. akari</i> seropositivity 
+        found in HIV-positive intravenous drug users in the inner city of Baltimore, 
+        Maryland (<a href="#1">5</a>), and in Central and East Harlem, New York 
+        City (<a href="#1">6</a>), as well as rickettsialpox cutaneous eruption 
+        in an HIV patient in New York (<a href="#1">7</a>), indicate that <i>R. 
+        akari</i> rickettsiosis is more common than previously thought and presents 
+        the risk of sporadic outbreaks worldwide.</p>
+      <p>We describe the clinical presentation of rickettsialpox in a 9-year-old 
+        boy from Nevpehir, located in the middle region of Turkey. Previously, 
+        a report from the Antalya area of Turkey described the prevalence of serum 
+        immunoglobulin (Ig) G antibodies in humans directed against <i>R. conorii</i> 
+        (spotted fever group <i>Rickettsia</i>) (<a href="#1">8</a>); however, 
+        rickettsialpox was not reported in Turkey. This report of what we believe 
+        to be the first described rickettsialpox case from Turkey further extends 
+        the recognized geographic distribution of <i>R. akari</i>.</p>
+      <p>A 9-year-old boy was admitted to the Kayseri hospital with fever &gt;39°C 
+        and generalized papulovesicular exanthema. One week before admission, 
+        fever, profuse sweating, headache, and dysuria were present. On admission, 
+        physical examination indicated generalized vesicular, bullouse, and papular 
+        exanthema involving the lips and oral cavity. Notable pathologic findings 
+        at admission included a black eschar on the boy’s penis, bilateral prominent 
+        conjunctival ejection, and bilateral lower pulmonary rales. The leukocyte 
+        count was 13,300/mm<sup>3</sup>, hemoglobin was 14.49 mg/dL, and the platelet 
+        count was 544,000/mm<sup>3</sup>. Serum electrolytes and blood urea nitrogen 
+        levels and results of coagulation study and urine analysis were normal. 
+        Routine blood cultures taken 24 hours postadmission were sterile. Specific 
+        antibodies (IgG; IgM) against <i>Varicella</i> were not detected in serum 
+        samples (Duzen Laboratories, Ankara, Turkey). Additionally, the patient 
+        reported mice on the family’s farm.</p>
+      <p>A diagnosis of rickettsialpox was made and doxycycline treatment (200 
+        mg/kg) was initiated. The patient serum sample was tested by indirect 
+        immunofluorescence assay (IFA) for IgG and IgM antibodies reactive with 
+        <i>R. akari</i> (Kaplan strain), <i>R. typhi</i> (Wilmington), <i>R. rickettsii</i> 
+        (Sheila Smith), and <i>R. conorii</i> (Malish 7). Serum IgG titers of 
+        1/1280 and IgM of 1/40 to <i>R. akari</i> were detected and confirmed 
+        through cross-adsorption with rickettsial antigens (<i>R. rickettsii</i>, 
+        <i>R. conorii</i>) (<a href="#1">9,10</a>). Higher reciprocal titers were 
+        obtained against <i>R. akari</i> antigens than against <i>R. rickettsii</i> 
+        and <i>R. conorii</i> antigens (reciprocol titers of 1,024 vs. 512 and 
+        512, respectively). We observed a difference in reduction in antibody 
+        titers against <i>R. akari</i> after adsorption with <i>R. akari</i> (Kaplan) 
+        (&lt;16), <i>R. rickettsii</i> (256), and <i>R. conorii</i> (256). Antibodies 
+        against <i>R. typhi</i> were not detected. The IFA result confirmed the 
+        clinical diagnosis of <i>R. akari</i> infection. After 2 days of doxycycline 
+        treatment, the patient was afebrile, and the rickettsialpox infection 
+        resolved without scars or complications.</p>
+      <p>In summary, we present a case in which the presence of an eschar on the 
+        patient’s penis, the failure of lesions to appear in crops, the sparsity 
+        of lesions, and mice on the family’s farm led to a diagnosis of rickettsialpox, 
+        which was confirmed by cross-adsorption serologic findings. This case 
+        indicates that rickettsialpox is an emerging infectious disease in Turkey. 
+        We recommend further studies to define the prevalence of <i>R. akari</i> 
+        and the worldwide distribution of rickettsialpox.</p>
+      <h4><font face="Arial, Helvetica, sans-serif"><a name="ref"></a>References</font></h4>
+      <ol>
+        <li><a name="1"></a>Shankman B. Report of an outbreak of endemic febrile 
+          illness, not yet identified, occurring in New York City. N Y State J 
+          Med 1946;46:2156–9.</li>
+        <li>Kass EM, Szaniawski WK, Levy H, Leach J, Srinivasan K, Rives C. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7969341&dopt=Abstract" target="_blank">Rickettsialpox 
+          in a New York City hospital, 1980 to 1989.</a> N Engl J Med 1994;331:1612–7.</li>
+        <li>Krusell A, Comer JA, Sexton DJ. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12095443&dopt=Abstract" target="_blank">Rickettsialpox 
+          in North Carolina: a case report.</a> Emerg Infect Dis 2002;8:727–8.</li>
+        <li>Radulovic S, Feng HM, Morovic M, Djelalija B, Popov V, Crocquet-Valdes 
+          P, et al. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8838175&dopt=Abstract" target="_blank">Isolation 
+          of <i>Rickettsia akari</i> from a patient in a region where Mediterranean 
+          spotted fever is endemic.</a> Clin Infect Dis 1996;22:216–20.</li>
+        <li>Comer JA, Tzianabos T, Flynn C, Vlahov D, Childs JE. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10403316&dopt=Abstract" target="_blank">Serologic 
+          evidence of rickettsialpox (<i>Rickettsia akari</i>) infection among 
+          intravenous drug users in inner-city Baltimore, Maryland.</a> Am J Trop 
+          Med Hyg 1999;60:894–8.</li>
+        <li>Comer JA, Diaz T, Vlahov D, Monterroso E, Childs JE. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11791987&dopt=Abstract" target="_blank">Evidence 
+          of rodent-associated <i>Bartonella</i> and <i>Rickettsia</i> infections 
+          among intravenous drug users from Central and East Harlem, New York 
+          City.</a> Am J Trop Med Hyg 2001:65:855–60.</li>
+        <li>Sanders S, Di Costanzo D, Leach J, Levy H, Srinivasan K, Zaki SR, 
+          et al. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12582406&dopt=Abstract" target="_blank">Rickettsialpox 
+          in a patient with HIV infection.</a> J Am Acad Dermatol 2003;48:286–9.</li>
+        <li>Vural T, Ergan C, Sayin F. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=9646110&dopt=Abstract" target="_blank">Investigation 
+          of <i>Rickettsia conorii</i> antibodies in the Antalya area.</a> Infection 
+          1998;26:170–2.</li>
+        <li>Eremeeva M, Balayeva NM, Ignatovich VF, Raoult D. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7902843&dopt=Abstract" target="_blank">Proteinic 
+          and genomic identification of spotted fever group rickettsiae isolated 
+          in the former USSR.</a> J Clin Microbiol 1993;10:2625–33.</li>
+        <li>Eremeeva M, Balayeva N, Ignatovich V, Raoult D. <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8576365&dopt=Abstract" target="_blank">Genomic 
+          study of <i>Rickettsia akari</i> by pulsed-field gel electrophoresis.</a> 
+          J Clin Microbiol 1995;33:3022–4.</li>
+      </ol>
+      <!-- #EndEditable --> </td>
+  </tr>
+</table>
+<table width="98%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="12">&nbsp;</td>
+    <td width="100%"> 
+      <hr width="100%">
+    </td>
+  </tr>
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="12">&nbsp;</td>
+    <td width="100%">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC">&nbsp;</td>
+    <td width="12">&nbsp;</td>
+    <td width="100%"><!-- #BeginEditable "comments" --> 
+      <table border="0" cellpadding="1" cellspacing="0" bgcolor="000088" width="440">
+        <tr> 
+          <td align="center"> 
+            <table border="0" cellspacing="0" cellpadding="5" width="512">
+              <tr> 
+                <td bgcolor="#000080"><font face="Arial" color="#FFFF00"><strong><a name="com"></a>Comments 
+                  to the Authors</strong></font></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#FFFFCc" valign="baseline"> 
+                  <p><font face="Arial, Helvetica, sans-serif" size="2">Please 
+                    use the form below to submit correspondence to the authors 
+                    or contact them at the following address:</font></p>
+                  <p><font face="Arial, Helvetica, sans-serif" size="2">Suzana 
+                    Radulovic, University of Maryland, School of Medicine, Department 
+                    of Microbiology and Immunology, 655 West Baltimore Street, 
+                    Baltimore, MD 21201, USA; fax: 410 706 4721; email: <a href="mailto:sradu001@umaryland.edu">sradu001@umaryland.edu</a></font></p>
+                  <!-- @@@@@@@@@@@@@@@@@@@ -->
+                  <!-- BEGIN FORM #1 HERE  -->
+                  <!-- Description: Emailing comments to the author -->
+                  <form name="form1" method="post" action="http://www2a.cdc.gov/ncidod/eid/thankyou.asp">
+                    <input type="hidden" name="RCPT" value="sradu001@umaryland.edu">
+                    <input type="hidden" name="Subject" value="Your article in the EID Journal">
+                    <p> 
+                      <textarea rows="10" cols="60" name="textarea"></textarea>
+                    </p>
+                    <p><font face="Arial" size="2">Return email address optional:</font><br>
+                      <input type="text" name="From" size="35">
+                      <br>
+                      <br>
+                      <input type="submit" value="Submit" name="">
+                      <input type="reset" value="Reset" name="">
+                    </p>
+                  </form>
+                  <!-- END FORM #1 HERE: -->
+                  <!-- @@@@@@@@@@@@@@@@@ -->
+                  <p>&nbsp;</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <!-- #BeginLibraryItem "/Library/comments.lbi" --><table border="0" cellpadding="1" cellspacing="0" bgcolor="000088" width="440">
+   <tr>      
+    <td align="center"> 
+      <table border="0" cellpadding="1" cellspacing="0" bgcolor="000088" width="440">
+        <tr> 
+          <td align="center"> 
+            <table border="0" cellspacing="0" cellpadding="5" width="439">
+              <tr> 
+                <td bgcolor="#000080"><font face="Arial" color="#FFFF00"><strong>Comments 
+                  to the EID Editors</strong></font></td></tr>
+              <tr> 
+                <td bgcolor="#FFFFCc" valign="baseline"><font face="Arial" size="2">Please 
+                  contact the EID Editors at <a href="mailto:eideditor@cdc.gov">eideditor@cdc.gov</a></font></td></tr>
+            </table></td></tr>
+      </table></td></tr>
+  </table><!-- #EndLibraryItem --><br>
+      <table border="0" cellpadding="1" cellspacing="0" bgcolor="000088" width="440">
+        <tr> 
+          <td align="center"> 
+            <table border="0" cellspacing="0" cellpadding="5" width="512">
+              <tr> 
+                <td bgcolor="#000080"><font face="Arial" color="#FFFF00"><strong><a name="email"></a>Email 
+                  this article</strong></font></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#FFFFCc" valign="baseline"> 
+                  <!-- @@@@@@@@@@@@@@@@@@@ -->
+                  <!-- BEGIN FORM #2 HERE  -->
+                  <!-- Description: Emailing article, links, and message to others  -->
+                  <form name="form2" method="post" action="http://www2a.cdc.gov/ncidod/eid/thankyou2.asp" onSubmit="return form_Validator(this)">
+                    <input type="hidden" name="Subject" value="Article in the EID Journal">
+                    <input type="hidden" name="article" value="Rickettsialpox in Turkey
+http://www.cdc.gov/ncidod/EID/vol9no11/03-0224.htm">
+                    <p><font face="Arial, Helvetica, sans-serif" size="2">Your 
+                      email:</font><br>
+                      <input type="text" name="From" size="35">
+                    </p>
+                    <p><font face="Arial, Helvetica, sans-serif" size="2">Your 
+                      friend's email:</font><br>
+                      <input type="text" name="RCPT" size="35">
+                    </p>
+                    <p><font face="Arial, Helvetica, sans-serif" size="2">Message 
+                      (optional):</font><br>
+                      <textarea rows=" 10" cols="60" name="message"></textarea>
+                    </p>
+                    <p>&nbsp;</p>
+                    <input type="submit" value="Submit" name="">
+                    <input type="reset" value="Reset" name="">
+                  </form>
+                  <!-- END FORM #2 HERE  -->
+                  <!-- @@@@@@@@@@@@@@@@@ -->
+                  <p>&nbsp; </p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC"><img src="../images/spacer.gif" width="140" height="1" alt=" "></td>
+    <td width="12"><img src="../images/spacer.gif" width="12" height="1" alt=" "></td>
+    <td width="100%"> 
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<table width="98%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC"><img src="../images/spacer.gif" width="140" height="1" alt=" "></td>
+    <td width="12"><img src="../images/spacer.gif" width="12" height="1" alt=" "></td>
+    <td width="100%"> 
+      <p><!-- #BeginLibraryItem "/Library/footer_1.lbi" --><font face="Verdana, Arial, Helvetica" size="1"><a href="../index.htm"><b>EID 
+Home</b></a> <b>| <a href="#top">Top of Page</a> | <a href="../upcoming.htm">Ahead-of-Print</a> 
+| <a href="../pastcon.htm">Past Issues</a>&nbsp;</b></font><font face="Verdana, Arial, Helvetica" size="1"><b>| 
+<a href="../citation.htm">Suggested Citation</a><a href="#top"></a> | <a href="../upcoming.htm"></a><a href="../search.htm">EID 
+Search</a> | <a href="../feedback.htm">Contact Us</a> | <a href="http://www.cdc.gov/accessibility/alt508.html">Accessibility</a> 
+| <a href="http://www.cdc.gov/privacy.htm">Privacy Policy Notice</a> | <a href="http://www.cdc.gov/">CDC 
+Home</a> | </b><a href="http://www.cdc.gov/search.htm"><b>CDC Search</b></a> <b>| 
+<a href="http://www.cdc.gov/health/diseases.htm">Health Topics A-Z</a></b></font><font face="Verdana, Arial, Helvetica" size="1"><b></b></font><!-- #EndLibraryItem --></p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC"><img src="../images/spacer.gif" width="1" height="10" alt=" "></td>
+    <td width="12"><img src="../images/spacer.gif" width="12" height="1" alt=" "></td>
+    <td width="100%"></td>
+  </tr>
+</table>
+<table width="98%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC"><img src="../images/spacer.gif" width="140" height="1" alt=" "></td>
+    <td width="12"><img src="../images/spacer.gif" width="12" height="1" alt=" "></td>
+    <td width="100%"> 
+      <p><font size="2" face="Verdana, Arial, Helvetica">This page posted <!-- #BeginEditable "date" -->October 
+        8, 2003<!-- #EndEditable --><br>
+        This page last reviewed <font size="2" face="Verdana, Arial, Helvetica"> 
+        <font size="2" face="Verdana, Arial, Helvetica"><font size="2" face="Verdana, Arial, Helvetica"> 
+        <!-- #BeginDate format:Am1 -->April 14, 2004<!-- #EndDate -->
+        </font></font></font></font></p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC"><img src="../images/spacer.gif" width="1" height="10" alt=" "></td>
+    <td width="12"><img src="../images/spacer.gif" width="12" height="1" alt=" "></td>
+    <td width="100%"></td>
+  </tr>
+</table>
+<table width="98%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC"><img src="../images/spacer.gif" width="140" height="1" alt=" "></td>
+    <td width="12"><img src="../images/spacer.gif" width="12" height="1" alt=" "></td>
+    <td width="100%"> 
+      <p><!-- #BeginLibraryItem "/Library/footer_2.lbi" --><font face="Verdana, Arial, Helvetica" size="1"><a href="../index.htm"><i>Emerging 
+Infectious Diseases</i> Journal</a><br>
+<a href="/ncidod/index.htm">National Center for Infectious Diseases</a><br>
+<a href="http://www.cdc.gov/">Centers for Disease Control and Prevention</a><br>
+<br>
+</font><!-- #EndLibraryItem --></p>
+    </td>
+  </tr>
+  <tr> 
+    <td width="140" bgcolor="#CCCCCC"><img src="../images/spacer.gif" width="1" height="10" alt=" "></td>
+    <td width="12"><img src="../images/spacer.gif" width="12" height="1" alt=" "></td>
+    <td width="100%"></td>
+  </tr>
+</table>
+<!-- ####################################  -->
+<!-- BEGIN SiteCatalyst/Omniture code here-->
+<!-- Version 1.2: Date Created: 08/04/2004-->
+<script language="JavaScript" type="text/javascript">
+<!--
+var s_pageName=document.title
+var s_channel="EidNCID"
+var s_prop1= s_pageName + " ^ " + s_channel
+var s_code=' '//-->
+</script>
+<script language="JavaScript" src="/JScript/s_code.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc('cdcgov');if(s_code)document.write(s_code)}else
+document.write('<im'+'g src="http://mtrics.cdc.gov/b/ss/cdcgov/1/G.5--FB/s'+s_tm.getTime()+'?[AQB]' +'&j=1.0&[AQE]" height="1" width="1" border="0" alt="" />')
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//-->
+</script>
+<noscript>
+<img src="http://mtrics.cdc.gov/b/ss/cdcgov/1/G.5--NS/0?cl=Session" height="1" width="1" border="0" alt="" />
+</noscript>
+<!--/DO NOT REMOVE/-->
+<!-- END SiteCatalyst/Omniture code here-->
+<!-- ####################################  -->
+</body>
+</html>

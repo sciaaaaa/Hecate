@@ -1,0 +1,1098 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.18 [Mar-02-2008]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=16218944&dopt=Citation">Reference for compositional score matrix adjustment</a>:</b>
+Altschul, Stephen F., John C. Wootton, E. Michael Gertz, Richa Agarwala,
+Aleksandr Morgulis, Alejandro A. Sch&auml;ffer, and Yi-Kuo Yu (2005) "Protein database
+searches using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+<b>Query=</b> SPy_0696	phage associated protein 
+         (193 letters)
+
+<b>Database:</b> All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           6,515,104 sequences; 2,222,278,849 total letters
+
+Searching..................................................done
+
+<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15674758&dopt=GenPept" >ref|NP_268932.1|</a>  conserved hypothetical protein, phage asso...   <a href = #15674758>387</a>   e-106
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71903899&dopt=GenPept" >ref|YP_280702.1|</a>  phage protein [Streptococcus pyogenes MGAS...   <a href = #71903899>383</a>   e-105
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16271816&dopt=GenPept" >ref|NP_438153.1|</a>  hypothetical protein [Temperate phage PhiN...   <a href = #16271816>382</a>   e-105
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=139473383&dopt=GenPept" >ref|YP_001128099.1|</a>  putative phage Gp15 protein [Streptococ...   <a href = #139473383>345</a>   8e-94
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=19746652&dopt=GenPept" >ref|NP_607788.1|</a>  hypothetical protein spyM18_1764 [Streptoc...   <a href = #19746652>341</a>   2e-92
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=149008074&dopt=GenPept" >ref|ZP_01831622.1|</a>  phage protein [Streptococcus pneumoniae ...   <a href = #149008074>184</a>   4e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15088785&dopt=GenPept" >ref|NP_150174.1|</a>  hypothetical protein MM1p45 [Streptococcus...   <a href = #15088785>182</a>   8e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=73747060&dopt=GenPept" >gb|AAZ82456.1|</a>  hypothetical protein [Streptococcus pneumoni...   <a href = #73747060>182</a>   9e-45
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169832631&dopt=GenPept" >ref|YP_001693536.1|</a>  phage protein [Streptococcus pneumoniae...   <a href = #169832631>182</a>   1e-44
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=56694916&dopt=GenPept" >ref|YP_164426.1|</a>  hypothetical protein BCBBV1cgp48 [Bacillus...   <a href = #56694916>170</a>   5e-41
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167015383&dopt=GenPept" >ref|ZP_02277916.1|</a>  Protein gp15 [Listeria monocytogenes FSL...   <a href = #167015383>110</a>   5e-23
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16799195&dopt=GenPept" >ref|NP_469463.1|</a>  Protein gp15 [Listeria innocua Clip11262] ...   <a href = #16799195>110</a>   6e-23
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153168275&dopt=GenPept" >ref|ZP_01928231.1|</a>  protein gp15 (Bacteriophage A118) [Liste...   <a href = #153168275>108</a>   2e-22
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153196965&dopt=GenPept" >ref|ZP_01941264.1|</a>  protein gp15 (Bacteriophage A118) [Liste...   <a href = #153196965>108</a>   2e-22
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16798798&dopt=GenPept" >ref|NP_463476.1|</a>  gp15 [Listeria phage A118] >gi|16804327|re...   <a href = #16798798>107</a>   5e-22
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153203650&dopt=GenPept" >ref|ZP_01944694.1|</a>  protein gp15 (Bacteriophage A118) [Liste...   <a href = #153203650>105</a>   1e-21
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153203641&dopt=GenPept" >ref|ZP_01944693.1|</a>  Protein gp15 (Bacteriophage A118) [Liste...   <a href = #153203641> 99</a>   1e-19
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167058381&dopt=GenPept" >ref|ZP_02280638.1|</a>  Protein gp15 [Listeria monocytogenes FSL...   <a href = #167058381> 90</a>   7e-17
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=23455810&dopt=GenPept" >ref|NP_695159.1|</a>  hypothetical protein phig1ep25 [Lactobacil...   <a href = #23455810> 89</a>   1e-16
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160932945&dopt=GenPept" >ref|ZP_02080334.1|</a>  hypothetical protein CLOLEP_01787 [Clost...   <a href = #160932945> 71</a>   3e-11
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160931340&dopt=GenPept" >ref|ZP_02078739.1|</a>  hypothetical protein CLOLEP_00176 [Clost...   <a href = #160931340> 70</a>   7e-11
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89212627&dopt=GenPept" >gb|ABD63738.1|</a>  unknown [Lactococcus phage ul36.k1t1] >gi|89...   <a href = #89212627> 69</a>   2e-10
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47570565&dopt=GenPept" >ref|ZP_00241186.1|</a>  protein gp15 [Bacillus cereus G9241] >gi...   <a href = #47570565> 60</a>   1e-07
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166031477&dopt=GenPept" >ref|ZP_02234306.1|</a>  hypothetical protein DORFOR_01174 [Dorea...   <a href = #166031477> 48</a>   4e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168697087&dopt=GenPept" >ref|ZP_02729364.1|</a>  hypothetical protein CdifQCD_16750 [Clos...   <a href = #168697087> 47</a>   8e-04
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167746016&dopt=GenPept" >ref|ZP_02418143.1|</a>  hypothetical protein ANACAC_00711 [Anaer...   <a href = #167746016> 43</a>   0.014
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153853381&dopt=GenPept" >ref|ZP_01994790.1|</a>  hypothetical protein DORLON_00779 [Dorea...   <a href = #153853381> 43</a>   0.014
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153815846&dopt=GenPept" >ref|ZP_01968514.1|</a>  hypothetical protein RUMTOR_02091 [Rumin...   <a href = #153815846> 42</a>   0.025
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166031056&dopt=GenPept" >ref|ZP_02233885.1|</a>  hypothetical protein DORFOR_00737 [Dorea...   <a href = #166031056> 41</a>   0.036
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168181390&dopt=GenPept" >ref|ZP_02616054.1|</a>  site-specific recombinase [Clostridium b...   <a href = #168181390> 39</a>   0.16 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160915208&dopt=GenPept" >ref|ZP_02077421.1|</a>  hypothetical protein EUBDOL_01216 [Eubac...   <a href = #160915208> 39</a>   0.17 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170755699&dopt=GenPept" >ref|YP_001781730.1|</a>  putative protein gp15 [Clostridium botu...   <a href = #170755699> 39</a>   0.23 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170759050&dopt=GenPept" >ref|YP_001787263.1|</a>  putative protein gp15 [Clostridium botu...   <a href = #170759050> 39</a>   0.24 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168211729&dopt=GenPept" >ref|ZP_02637354.1|</a>  hypothetical protein AC1_1108 [Clostridi...   <a href = #168211729> 38</a>   0.30 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168214640&dopt=GenPept" >ref|ZP_02640265.1|</a>  conserved hypothetical protein [Clostrid...   <a href = #168214640> 38</a>   0.41 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167760034&dopt=GenPept" >ref|ZP_02432161.1|</a>  hypothetical protein CLOSCI_02406 [Clost...   <a href = #167760034> 38</a>   0.45 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168214560&dopt=GenPept" >ref|ZP_02640185.1|</a>  putative protein gp15 [Clostridium perfr...   <a href = #168214560> 37</a>   0.52 
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=147898789&dopt=GenPept" >ref|NP_001085087.1|</a>  hypothetical protein LOC432158 [Xenopus...   <a href = #147898789> 36</a>   1.3  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148750848&dopt=GenPept" >ref|YP_001285891.1|</a>  hypothetical protein LPLLH_ORF75 [Lacto...   <a href = #148750848> 35</a>   2.5  
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=172355550&dopt=GenPept" >ref|NP_001116498.1|</a>  centrosomal protein 290kDa [Xenopus tro...   <a href = #172355550> 34</a>   4.6  
+</PRE>
+<PRE>
+><a name = 15674758></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15674758&dopt=GenPept" >ref|NP_268932.1|</a> conserved hypothetical protein, phage associated [Streptococcus
+           phage 370.1]
+ <a name = 94992086></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=94992086&dopt=GenPept" >ref|YP_600185.1|</a> phage protein [Streptococcus phage 2096.1]
+ <a name = 13621883></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=13621883&dopt=GenPept" >gb|AAK33653.1|</a> conserved hypothetical protein, phage associated [Streptococcus
+           phage 370.1]
+ <a name = 94545594></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=94545594&dopt=GenPept" >gb|ABF35641.1|</a> phage protein [Bacteriophage 2096.1]
+          Length = 193
+
+ Score =  387 bits (995), Expect = e-106,   Method: Compositional matrix adjust.
+ Identities = 193/193 (100%), Positives = 193/193 (100%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF
+Sbjct: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+           TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ
+Sbjct: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+           AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK
+Sbjct: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+
+Query: 181 YSLDEREEEDDGS 193
+           YSLDEREEEDDGS
+Sbjct: 181 YSLDEREEEDDGS 193
+</PRE>
+
+
+<PRE>
+><a name = 71903899></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71903899&dopt=GenPept" >ref|YP_280702.1|</a> phage protein [Streptococcus pyogenes MGAS6180]
+ <a name = 71802994></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=71802994&dopt=GenPept" >gb|AAX72347.1|</a> phage protein [Streptococcus pyogenes MGAS6180]
+          Length = 193
+
+ Score =  383 bits (984), Expect = e-105,   Method: Compositional matrix adjust.
+ Identities = 191/193 (98%), Positives = 192/193 (99%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF
+Sbjct: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+           TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ
+Sbjct: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+           AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK
+Sbjct: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+
+Query: 181 YSLDEREEEDDGS 193
+           YSLD+ EEEDDGS
+Sbjct: 181 YSLDDGEEEDDGS 193
+</PRE>
+
+
+<PRE>
+><a name = 16271816></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16271816&dopt=GenPept" >ref|NP_438153.1|</a> hypothetical protein [Temperate phage PhiNIH1.1]
+ <a name = 21910754></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=21910754&dopt=GenPept" >ref|NP_665022.1|</a> hypothetical protein SpyM3_1218 [Streptococcus pyogenes MGAS315]
+ <a name = 28876332></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28876332&dopt=GenPept" >ref|NP_795589.1|</a> hypothetical protein SpyM3_1218 [Streptococcus pyogenes phage
+           315.4]
+ <a name = 28895555></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28895555&dopt=GenPept" >ref|NP_801905.1|</a> hypothetical protein SPs0643 [Streptococcus pyogenes SSI-1]
+ <a name = 94990823></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=94990823&dopt=GenPept" >ref|YP_598923.1|</a> phage protein [Streptococcus pyogenes MGAS10270]
+ <a name = 16156208></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16156208&dopt=GenPept" >gb|AAL15082.1|</a> hypothetical protein-phage associated [temperate phage PhiNIH1.1]
+ <a name = 21904958></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=21904958&dopt=GenPept" >gb|AAM79825.1|</a> conserved hypothetical protein - phage-associated [Streptococcus
+           pyogenes MGAS315]
+ <a name = 28810804></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=28810804&dopt=GenPept" >dbj|BAC63738.1|</a> hypothetical protein (phage associated) [Streptococcus pyogenes
+           SSI-1]
+ <a name = 94544331></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=94544331&dopt=GenPept" >gb|ABF34379.1|</a> phage protein [Streptococcus pyogenes MGAS10270]
+          Length = 193
+
+ Score =  382 bits (980), Expect = e-105,   Method: Compositional matrix adjust.
+ Identities = 190/193 (98%), Positives = 191/193 (98%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF
+Sbjct: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+           TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ
+Sbjct: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+            YQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK
+Sbjct: 121 TYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+
+Query: 181 YSLDEREEEDDGS 193
+           YSLD+ EEEDDGS
+Sbjct: 181 YSLDDGEEEDDGS 193
+</PRE>
+
+
+<PRE>
+><a name = 139473383></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=139473383&dopt=GenPept" >ref|YP_001128099.1|</a> putative phage Gp15 protein [Streptococcus pyogenes str. Manfredo]
+ <a name = 134271630></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=134271630&dopt=GenPept" >emb|CAM29859.1|</a> putative phage Gp15 protein [Streptococcus pyogenes str. Manfredo]
+          Length = 193
+
+ Score =  345 bits (886), Expect = 8e-94,   Method: Compositional matrix adjust.
+ Identities = 181/193 (93%), Positives = 189/193 (97%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           MKLNDPLVESFEFRGEIY I+LSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF
+Sbjct: 1   MKLNDPLVESFEFRGEIYSINLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+           +YAVDLW++IK N+ID ++PEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ
+Sbjct: 61  SYAVDLWIHIKKNYIDTKKPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+           AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK
+Sbjct: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+
+Query: 181 YSLDEREEEDDGS 193
+           YSLD+ EEEDDGS
+Sbjct: 181 YSLDDGEEEDDGS 193
+</PRE>
+
+
+<PRE>
+><a name = 19746652></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=19746652&dopt=GenPept" >ref|NP_607788.1|</a> hypothetical protein spyM18_1764 [Streptococcus pyogenes MGAS8232]
+ <a name = 50914698></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=50914698&dopt=GenPept" >ref|YP_060670.1|</a> unknown phage protein [Streptococcus pyogenes MGAS10394]
+ <a name = 19748873></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=19748873&dopt=GenPept" >gb|AAL98287.1|</a> conserved hypothetical phage protein [Streptococcus pyogenes
+           MGAS8232]
+ <a name = 50903772></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=50903772&dopt=GenPept" >gb|AAT87487.1|</a> unknown phage protein [Streptococcus pyogenes MGAS10394]
+          Length = 193
+
+ Score =  341 bits (874), Expect = 2e-92,   Method: Compositional matrix adjust.
+ Identities = 179/193 (92%), Positives = 187/193 (96%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           MKLNDPLVESFEFRGEIY I+LSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF
+Sbjct: 1   MKLNDPLVESFEFRGEIYSINLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+           +YAVDLW++IK N+ID ++ EKPQLDIKGNPMPVVKEKEDN+KVIDL LDAEFIYASFRQ
+Sbjct: 61  SYAVDLWIHIKKNYIDTKKSEKPQLDIKGNPMPVVKEKEDNEKVIDLRLDAEFIYASFRQ 120
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+           AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK
+Sbjct: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+
+Query: 181 YSLDEREEEDDGS 193
+           YSLDE EEEDDGS
+Sbjct: 181 YSLDEGEEEDDGS 193
+</PRE>
+
+
+<PRE>
+><a name = 149008074></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=149008074&dopt=GenPept" >ref|ZP_01831622.1|</a> phage protein [Streptococcus pneumoniae SP18-BS74]
+ <a name = 147760482></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=147760482&dopt=GenPept" >gb|EDK67459.1|</a> phage protein [Streptococcus pneumoniae SP18-BS74]
+          Length = 189
+
+ Score =  184 bits (466), Expect = 4e-45,   Method: Compositional matrix adjust.
+ Identities = 96/190 (50%), Positives = 131/190 (68%), Gaps = 4/190 (2%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           MKLND L+ +F    + Y IDLSFNKVLDVF+++ +D +   E+  L + +L  +     
+Sbjct: 3   MKLNDALITNFSIADKEYDIDLSFNKVLDVFEILKEDEMTRLEQAQLIVHLLTGQELYDI 62
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+              VD W+YIK +F+  E+ E  Q D+ GNPMP  K++E+ +K+ID   DAE+IYASF Q
+Sbjct: 63  KEVVDCWIYIKEHFLGIEK-ETVQYDLLGNPMPTAKDEEEQEKLIDFEQDAEYIYASFLQ 121
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+           AY INLLK QN+L+W EFKALLNALPD+T+MQ+II IR W+ +  G K   + MRKL+AK
+Sbjct: 122 AYGINLLKSQNKLTWTEFKALLNALPDNTIMQQIIEIRAWKPEYGGDK---NKMRKLQAK 178
+
+Query: 181 YSLDEREEED 190
+           YSL +  E++
+Sbjct: 179 YSLGKEGEDN 188
+</PRE>
+
+
+<PRE>
+><a name = 15088785></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15088785&dopt=GenPept" >ref|NP_150174.1|</a> hypothetical protein MM1p45 [Streptococcus phage MM1]
+ <a name = 15074931></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=15074931&dopt=GenPept" >emb|CAC48108.1|</a> hypothetical protein [Streptococcus pneumoniae bacteriophage MM1]
+          Length = 189
+
+ Score =  182 bits (463), Expect = 8e-45,   Method: Compositional matrix adjust.
+ Identities = 99/192 (51%), Positives = 131/192 (68%), Gaps = 5/192 (2%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           MKLND L+ +F    + Y IDLSFNKVLDVF+++ +D +   E+  L + +L  +     
+Sbjct: 3   MKLNDALITNFSIADKEYDIDLSFNKVLDVFEILKEDEMTRLEQAQLIVHLLTGQELYDI 62
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+              VD W+YIK +F+  E+ E  Q D+ GNPMP  K +E+ +K+ID   DAE+IYASF Q
+Sbjct: 63  KEVVDCWIYIKEHFLGIEK-ETVQYDLLGNPMPKAKGEEEQEKLIDFEQDAEYIYASFLQ 121
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+           AY INLLK QN L+W EFKALLNALPD+T+MQ+II IR W+ +  G K   + MRKL+AK
+Sbjct: 122 AYGINLLKVQNELTWTEFKALLNALPDNTIMQQIIEIRAWKPEYGGDK---NKMRKLQAK 178
+
+Query: 181 YSLDEREEEDDG 192
+           YSL  +E ED+G
+Sbjct: 179 YSLG-KEGEDNG 189
+</PRE>
+
+
+<PRE>
+><a name = 73747060></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=73747060&dopt=GenPept" >gb|AAZ82456.1|</a> hypothetical protein [Streptococcus pneumoniae bacteriophage MM1
+           1998]
+          Length = 189
+
+ Score =  182 bits (462), Expect = 9e-45,   Method: Compositional matrix adjust.
+ Identities = 99/192 (51%), Positives = 131/192 (68%), Gaps = 5/192 (2%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           MKLND L+ +F    + Y IDLSFNKVLDVF+++ +D +   E+  L + +L  +     
+Sbjct: 3   MKLNDALITNFSIADKEYDIDLSFNKVLDVFEILKEDEMTRLEQAQLIVHLLTGQELYDI 62
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+              VD W+YIK +F+  E+ E  Q D+ GNPMP  K +E+ +K+ID   DAE+IYASF Q
+Sbjct: 63  KEVVDCWIYIKEHFLGIEK-ETVQYDLLGNPMPKAKGEEEQEKLIDFEQDAEYIYASFLQ 121
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+           AY INLLK QN L+W EFKALLNALPD+T+MQ+II IR W+ +  G K   + MRKL+AK
+Sbjct: 122 AYGINLLKFQNELTWTEFKALLNALPDNTIMQQIIEIRAWKPEYGGDK---NKMRKLQAK 178
+
+Query: 181 YSLDEREEEDDG 192
+           YSL  +E ED+G
+Sbjct: 179 YSLG-KEGEDNG 189
+</PRE>
+
+
+<PRE>
+><a name = 169832631></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169832631&dopt=GenPept" >ref|YP_001693536.1|</a> phage protein [Streptococcus pneumoniae Hungary19A-6]
+ <a name = 168995133></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168995133&dopt=GenPept" >gb|ACA35745.1|</a> phage protein [Streptococcus pneumoniae Hungary19A-6]
+          Length = 189
+
+ Score =  182 bits (461), Expect = 1e-44,   Method: Compositional matrix adjust.
+ Identities = 97/191 (50%), Positives = 130/191 (68%), Gaps = 4/191 (2%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           MKLND L+ +F    + Y IDLSFNKVLDVF+++ +D +   E+  L + +L  +     
+Sbjct: 3   MKLNDALITNFSIADKEYDIDLSFNKVLDVFEILKEDEMTRLEQAQLIVHLLTGQELYDI 62
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+              VD W+YIK +F+  E+ E  Q D+ GNPMP  K +E+ +K+ID   DAE+IYASF Q
+Sbjct: 63  KEVVDCWIYIKEHFLGIEK-ETVQYDLLGNPMPKAKGEEEQEKLIDFEQDAEYIYASFLQ 121
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+           AY INLLK QN L+W EFKALLNALPD+T+MQ+II IR W+ +  G K   + MRKL+AK
+Sbjct: 122 AYGINLLKVQNELTWTEFKALLNALPDNTIMQQIIEIRAWKPEYGGDK---NKMRKLQAK 178
+
+Query: 181 YSLDEREEEDD 191
+           YSL +  E++D
+Sbjct: 179 YSLGKEGEDND 189
+</PRE>
+
+
+<PRE>
+><a name = 56694916></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=56694916&dopt=GenPept" >ref|YP_164426.1|</a> hypothetical protein BCBBV1cgp48 [Bacillus phage BCJA1c]
+ <a name = 52631343></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=52631343&dopt=GenPept" >gb|AAU85095.1|</a> 48 [Bacillus clarkii bacteriophage BCJA1c]
+          Length = 187
+
+ Score =  170 bits (430), Expect = 5e-41,   Method: Compositional matrix adjust.
+ Identities = 88/192 (45%), Positives = 130/192 (67%), Gaps = 5/192 (2%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           M+LNDPL+ SF ++ + Y IDL+F+ VLDVFD ++D   + + K  +CL +LL+R D   
+Sbjct: 1   MRLNDPLITSFVYKDQEYAIDLAFDNVLDVFDALNDHDFSISGKIDVCLKLLLNR-DFEG 59
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+             A++LW +I   FI  E  ++ + D+KGN MP    +++ K++ID   DAE+I+ASF+Q
+Sbjct: 60  QEAMELWNHIYEEFIHIEDKQRIEYDLKGNLMP----QKEQKRLIDFERDAEYIFASFQQ 115
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+           AY +NL KEQ +L W EF+ALLN LP +T+MQRII IR WE     S +Y+  M +L+  
+Sbjct: 116 AYHMNLFKEQGKLHWREFQALLNGLPSNTIMQRIIQIRMWEPQKGDSNEYKQKMLELQKV 175
+
+Query: 181 YSLDEREEEDDG 192
+           Y+L++ EEE+ G
+Sbjct: 176 YALEDPEEEEVG 187
+</PRE>
+
+
+<PRE>
+><a name = 167015383></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167015383&dopt=GenPept" >ref|ZP_02277916.1|</a> Protein gp15 [Listeria monocytogenes FSL J1-194]
+          Length = 200
+
+ Score =  110 bits (275), Expect = 5e-23,   Method: Compositional matrix adjust.
+ Identities = 68/188 (36%), Positives = 110/188 (58%), Gaps = 16/188 (8%)
+
+Query: 11  FEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPFTYAVD----- 65
+           +E+ G+ Y +DL+F+ VL V D+ +D+ L++  +  L +D+L    D+P+  + +     
+Sbjct: 12  YEYEGKEYKLDLAFDNVLRVIDLTEDNSLSDVFRANLAIDVLF-ADDMPWPRSNEEDEYA 70
+
+Query: 66  -------LWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSL--DAEFIYA 116
+                  + + I TN+I  E  +    DI GN MP     ED +++   SL  DA++IYA
+Sbjct: 71  NIEEKSLVLIDIFTNYIVKENDDGLLYDIDGNKMPSATNNEDAEEIASYSLTQDADYIYA 130
+
+Query: 117 SFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWE-DDGEGSKKYRDNMR 175
+           SF Q Y I+LL  + ++ W +F+ALL +L DDT ++ II IRQ E   G+G++K R+ + 
+Sbjct: 131 SFLQDYNIDLLDSRGKMHWYKFRALLESLRDDTTIKTIIGIRQAELPSGKGTEKERNELI 190
+
+Query: 176 KLKAKYSL 183
+           KLK +Y L
+Sbjct: 191 KLKNRYKL 198
+</PRE>
+
+
+<PRE>
+><a name = 16799195></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16799195&dopt=GenPept" >ref|NP_469463.1|</a> Protein gp15 [Listeria innocua Clip11262]
+ <a name = 157324976></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=157324976&dopt=GenPept" >ref|YP_001468401.1|</a> gp15 [Listeria phage A500]
+ <a name = 16412537></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16412537&dopt=GenPept" >emb|CAC95351.1|</a> Protein gp15 [Bacteriophage A118] [Listeria innocua]
+ <a name = 66732984></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=66732984&dopt=GenPept" >gb|AAY52803.1|</a> gp15 [Listeria phage A500]
+          Length = 200
+
+ Score =  110 bits (275), Expect = 6e-23,   Method: Compositional matrix adjust.
+ Identities = 68/188 (36%), Positives = 110/188 (58%), Gaps = 16/188 (8%)
+
+Query: 11  FEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPFTYAVD----- 65
+           +E+ G+ Y +DL+F+ VL V D+ +D+ L++  +  L +D+L    D+P+  + +     
+Sbjct: 12  YEYEGKEYKLDLAFDNVLRVIDLTEDNSLSDVFRANLAIDVLF-ADDMPWPRSNEEDEYA 70
+
+Query: 66  -------LWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSL--DAEFIYA 116
+                  + + I TN+I  E  +    DI GN MP     ED +++   SL  DA++IYA
+Sbjct: 71  NIEEKSLVLIDIFTNYIVKENDDGLLYDIDGNKMPSATNNEDAEEIASYSLTQDADYIYA 130
+
+Query: 117 SFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWE-DDGEGSKKYRDNMR 175
+           SF Q Y I+LL  + ++ W +F+ALL +L DDT ++ II IRQ E   G+G++K R+ + 
+Sbjct: 131 SFLQDYNIDLLDSRGKMHWYKFRALLESLRDDTTIKTIIGIRQAELPSGKGTEKERNELI 190
+
+Query: 176 KLKAKYSL 183
+           KLK +Y L
+Sbjct: 191 KLKNRYKL 198
+</PRE>
+
+
+<PRE>
+><a name = 153168275></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153168275&dopt=GenPept" >ref|ZP_01928231.1|</a> protein gp15 (Bacteriophage A118) [Listeria monocytogenes FSL
+           N1-017]
+ <a name = 133726381></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=133726381&dopt=GenPept" >gb|EBA28079.1|</a> protein gp15 (Bacteriophage A118) [Listeria monocytogenes FSL
+           N1-017]
+          Length = 200
+
+ Score =  108 bits (270), Expect = 2e-22,   Method: Compositional matrix adjust.
+ Identities = 68/189 (35%), Positives = 111/189 (58%), Gaps = 14/189 (7%)
+
+Query: 11  FEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDIL-LDRTDLPFTYAVDLWVY 69
+           +E+ G+ Y +DL+F+ VL V D+ +D+ L++  +  L +D+L +D    P +   D +  
+Sbjct: 12  YEYEGKEYKLDLAFDNVLRVIDLTEDNSLSDVFRANLAIDVLFVDDMPWPRSNEEDEYAN 71
+
+Query: 70  IK----------TNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSL--DAEFIYAS 117
+           I+          TN+I  E  +    DI GN MP     +D +++   SL  DA++IYAS
+Sbjct: 72  IEEKSLVLIDIFTNYIVKENDDGLLYDIDGNKMPSATNNDDVEEIASYSLTQDADYIYAS 131
+
+Query: 118 FRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWE-DDGEGSKKYRDNMRK 176
+           F Q Y I+LL  + ++ W +F+ALL +L DDT ++ II IRQ E   G+G++K R+ + K
+Sbjct: 132 FLQDYNIDLLDSRGKMHWYKFRALLESLRDDTTIKTIIGIRQAELPSGKGTEKERNELIK 191
+
+Query: 177 LKAKYSLDE 185
+           LK +Y L++
+Sbjct: 192 LKNRYKLND 200
+</PRE>
+
+
+<PRE>
+><a name = 153196965></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153196965&dopt=GenPept" >ref|ZP_01941264.1|</a> protein gp15 (Bacteriophage A118) [Listeria monocytogenes 10403S]
+ <a name = 127633420></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=127633420&dopt=GenPept" >gb|EBA22832.1|</a> protein gp15 (Bacteriophage A118) [Listeria monocytogenes 10403S]
+          Length = 200
+
+ Score =  108 bits (269), Expect = 2e-22,   Method: Compositional matrix adjust.
+ Identities = 68/187 (36%), Positives = 109/187 (58%), Gaps = 14/187 (7%)
+
+Query: 11  FEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDIL-LDRTDLPFTYAVDLWVY 69
+           +E+ G+ Y +DL+F+ VL V ++ +D+ L++  +  L +D+L +D    P +   D +  
+Sbjct: 12  YEYEGKEYKLDLAFDNVLRVIELTEDNSLSDVFRANLAIDVLFVDDMPWPRSNEEDEYAN 71
+
+Query: 70  IK----------TNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSL--DAEFIYAS 117
+           I+          TN+I  E  +    DI GN MP     ED +++   SL  DA++IYAS
+Sbjct: 72  IEEKSLVLIDIFTNYIVKENDDGLLYDIDGNKMPSATNNEDAEEIASYSLTQDADYIYAS 131
+
+Query: 118 FRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWE-DDGEGSKKYRDNMRK 176
+           F Q Y I+LL  + ++ W +F+ALL +L DDT ++ II IRQ E   G+G++K R+ + K
+Sbjct: 132 FLQDYNIDLLDSRGKMHWYKFRALLESLRDDTTIKTIIGIRQAELPSGKGTEKERNELIK 191
+
+Query: 177 LKAKYSL 183
+           LK +Y L
+Sbjct: 192 LKNRYKL 198
+</PRE>
+
+
+<PRE>
+><a name = 16798798></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16798798&dopt=GenPept" >ref|NP_463476.1|</a> gp15 [Listeria phage A118]
+ <a name = 16804327></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16804327&dopt=GenPept" >ref|NP_465812.1|</a> Protein gp15 [Listeria monocytogenes EGD-e]
+ <a name = 47095990></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47095990&dopt=GenPept" >ref|ZP_00233592.1|</a> protein gp15 [Listeria monocytogenes str. 1/2a F6854]
+ <a name = 153180292></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153180292&dopt=GenPept" >ref|ZP_01933431.1|</a> gp15 protein (Bacteriophage A118) [Listeria monocytogenes F6900]
+ <a name = 153186586></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153186586&dopt=GenPept" >ref|ZP_01936838.1|</a> protein gp15 (Bacteriophage A118) [Listeria monocytogenes J0161]
+ <a name = 153191835></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153191835&dopt=GenPept" >ref|ZP_01938989.1|</a> protein gp15 (Bacteriophage A118) [Listeria monocytogenes J2818]
+ <a name = 167405115></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167405115&dopt=GenPept" >ref|ZP_02309879.1|</a> Protein gp15 [Listeria monocytogenes FSL J2-003]
+ <a name = 5823613></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=05823613&dopt=GenPept" >emb|CAB53801.1|</a> gp15 [Listeria phage A118]
+ <a name = 16411758></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=16411758&dopt=GenPept" >emb|CAD00366.1|</a> Protein gp15 [Bacteriophage A118] [Listeria monocytogenes]
+ <a name = 47015587></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47015587&dopt=GenPept" >gb|EAL06518.1|</a> protein gp15 [Listeria monocytogenes str. 1/2a F6854]
+ <a name = 126941029></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=126941029&dopt=GenPept" >gb|EBA18930.1|</a> protein gp15 (Bacteriophage A118) [Listeria monocytogenes J0161]
+ <a name = 127764706></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=127764706&dopt=GenPept" >gb|EBA25231.1|</a> protein gp15 (Bacteriophage A118) [Listeria monocytogenes J2818]
+ <a name = 133732467></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=133732467&dopt=GenPept" >gb|EBA34165.1|</a> gp15 protein (Bacteriophage A118) [Listeria monocytogenes F6900]
+          Length = 201
+
+ Score =  107 bits (266), Expect = 5e-22,   Method: Compositional matrix adjust.
+ Identities = 67/189 (35%), Positives = 109/189 (57%), Gaps = 17/189 (8%)
+
+Query: 11  FEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPFTYAVD----- 65
+           +E+ G+ Y +DL+F+ VL V D+ +D+ L++  +  L +D+L    D+P+  + +     
+Sbjct: 12  YEYEGKEYKLDLAFDNVLRVIDLTEDNSLSDVFRANLAIDVLF-ADDMPWPRSNEEDEYA 70
+
+Query: 66  -------LWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVI---DLSLDAEFIY 115
+                  + + I TN+I  E  +    DI GN MP      D+ + I    L+ DA++IY
+Sbjct: 71  NIEEKSLVLIDIFTNYIVKENDDGLLYDIDGNKMPSATNNNDDAEEIASYSLTQDADYIY 130
+
+Query: 116 ASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWE-DDGEGSKKYRDNM 174
+           ASF Q Y I+LL  + ++ W +F+ALL +L DDT ++ II IRQ E   G+G++K R+ +
+Sbjct: 131 ASFLQDYNIDLLDSRGKMHWYKFRALLESLRDDTTIKTIIGIRQAELPSGKGTEKERNEL 190
+
+Query: 175 RKLKAKYSL 183
+            KLK +Y L
+Sbjct: 191 IKLKNRYKL 199
+</PRE>
+
+
+<PRE>
+><a name = 153203650></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153203650&dopt=GenPept" >ref|ZP_01944694.1|</a> protein gp15 (Bacteriophage A118) [Listeria monocytogenes HPB2262]
+ <a name = 133734609></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=133734609&dopt=GenPept" >gb|EBA36307.1|</a> protein gp15 (Bacteriophage A118) [Listeria monocytogenes HPB2262]
+          Length = 201
+
+ Score =  105 bits (263), Expect = 1e-21,   Method: Compositional matrix adjust.
+ Identities = 67/189 (35%), Positives = 107/189 (56%), Gaps = 17/189 (8%)
+
+Query: 11  FEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPFTYAVD----- 65
+           +E+ G+ Y +DL+F+ VL V D+ +D+ L+   +  L +D+L    D+P+  + +     
+Sbjct: 12  YEYEGKEYKLDLAFDNVLRVIDLTEDNSLSNVFRANLAIDVLF-ADDMPWPRSNEEDKYA 70
+
+Query: 66  -------LWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVI---DLSLDAEFIY 115
+                  + + I TN+I  E  +    DI GN MP      D  + I    L+ DA++IY
+Sbjct: 71  NIEEKSLVLIDIFTNYIVKENDDGLLYDIDGNKMPSATNNNDEAEEIASYSLTQDADYIY 130
+
+Query: 116 ASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWE-DDGEGSKKYRDNM 174
+           ASF Q Y I+LL  + ++ W +F+ALL +L DDT ++ II IRQ E   G+G++K R+ +
+Sbjct: 131 ASFLQDYNIDLLDSRGKMHWYKFRALLESLRDDTTIKTIIGIRQAELPSGKGTEKERNEL 190
+
+Query: 175 RKLKAKYSL 183
+            KLK +Y L
+Sbjct: 191 IKLKNRYKL 199
+</PRE>
+
+
+<PRE>
+><a name = 153203641></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153203641&dopt=GenPept" >ref|ZP_01944693.1|</a> Protein gp15 (Bacteriophage A118) [Listeria monocytogenes HPB2262]
+ <a name = 133734611></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=133734611&dopt=GenPept" >gb|EBA36309.1|</a> Protein gp15 (Bacteriophage A118) [Listeria monocytogenes HPB2262]
+          Length = 199
+
+ Score = 99.4 bits (246), Expect = 1e-19,   Method: Compositional matrix adjust.
+ Identities = 65/196 (33%), Positives = 109/196 (55%), Gaps = 13/196 (6%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRT---- 56
+           + L D + + + ++ E Y +DLSF+ VL V ++ +++ L    +  L +D+L +      
+Sbjct: 2   LSLADGIDDIYVYKNEKYQLDLSFDNVLRVIELTENNQLTNDFRVNLAVDVLFENVMPWN 61
+
+Query: 57  ----DLPFTYAVDLWVY---IKTNFIDAERPEKPQLDIKGNPMP-VVKEKEDNKKVIDLS 108
+               D PF+   +  +    I  N+I  +  E  Q DI GNPMP    E  +      L+
+Sbjct: 62  PYDEDNPFSNIEEKSIVLLDIFENYIVKDNDEGIQCDIDGNPMPSATNEDGEEPAYYSLT 121
+
+Query: 109 LDAEFIYASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWE-DDGEGS 167
+            D+++I+ASF Q Y I+L++ + +L W +F+AL  +L DDT ++ I++IRQ E   G+G+
+Sbjct: 122 QDSDYIFASFLQDYNIDLIEVRGKLHWYKFRALFESLRDDTAIKSIMSIRQAELPSGKGT 181
+
+Query: 168 KKYRDNMRKLKAKYSL 183
+           +K RD + KLK  Y L
+Sbjct: 182 EKERDALIKLKNHYKL 197
+</PRE>
+
+
+<PRE>
+><a name = 167058381></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167058381&dopt=GenPept" >ref|ZP_02280638.1|</a> Protein gp15 [Listeria monocytogenes FSL F2-515]
+          Length = 200
+
+ Score = 90.1 bits (222), Expect = 7e-17,   Method: Compositional matrix adjust.
+ Identities = 63/197 (31%), Positives = 107/197 (54%), Gaps = 14/197 (7%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRT---- 56
+           + L D + + + ++ E Y +DLSF+ VL V ++ +++ L    +  L +D+L +      
+Sbjct: 2   LSLADGIDDIYVYKNEKYQLDLSFDNVLRVIELTENNQLTNDFRVNLAVDVLFENVMPWN 61
+
+Query: 57  ----DLPFTYAVDLWVY---IKTNFIDAERPEKPQLDIKGNPMP-VVKEKEDNKKVIDLS 108
+               D PF+   +  +    I  N+I  +  E  Q DI GNPMP    E  +      L+
+Sbjct: 62  PYDEDNPFSNIEEKSIVLLDIFENYIVKDNDEGIQCDIDGNPMPSATNEDGEEPAYYSLT 121
+
+Query: 109 LDAEFIYAS-FRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWE-DDGEG 166
+            D+++I+   F Q Y I+L++ + +L W +F+AL  +L DDT ++ I++IRQ E   G+G
+Sbjct: 122 QDSDYIFCLLFLQDYNIDLIEVRGKLHWYKFRALFESLRDDTAIKSIMSIRQAELPSGKG 181
+
+Query: 167 SKKYRDNMRKLKAKYSL 183
+           ++K RD + KLK  Y L
+Sbjct: 182 TEKERDALIKLKNHYKL 198
+</PRE>
+
+
+<PRE>
+><a name = 23455810></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=23455810&dopt=GenPept" >ref|NP_695159.1|</a> hypothetical protein phig1ep25 [Lactobacillus phage phig1e]
+ <a name = 7519409></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=07519409&dopt=GenPept" >pir||T13215</a> hypothetical protein R198 - Lactobacillus phage phi-gle
+ <a name = 1926359></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=01926359&dopt=GenPept" >emb|CAA66744.1|</a> Rorf198 [Bacteriophage phig1e]
+          Length = 198
+
+ Score = 89.4 bits (220), Expect = 1e-16,   Method: Compositional matrix adjust.
+ Identities = 50/169 (29%), Positives = 94/169 (55%), Gaps = 13/169 (7%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDR----- 55
+           + L +PL ++    GE + +DLSF+ VL  + ++DDD +N++ K +L  +  +       
+Sbjct: 2   LSLVEPLGKTITIGGEEWTVDLSFDNVLRWYILLDDDAINDSRKIYLAFNAFVGEGMDVT 61
+
+Query: 56  TDLPFTYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIY 115
+            D   +   ++  Y++   +  +  ++P +D+ G+P+P        ++      DA+ I+
+Sbjct: 62  ADQMVSVVSEISKYVQQT-VYGDHDDEPSVDLNGDPVP-------QERFFSYEKDADAIF 113
+
+Query: 116 ASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDG 164
+           ASF   Y+I+L+++Q +L W +FKA+L+ L + T  +RIIAIRQ    G
+Sbjct: 114 ASFMADYRIDLIEQQGKLRWEKFKAMLDGLSETTQFRRIIAIRQRSTSG 162
+</PRE>
+
+
+<PRE>
+><a name = 160932945></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160932945&dopt=GenPept" >ref|ZP_02080334.1|</a> hypothetical protein CLOLEP_01787 [Clostridium leptum DSM 753]
+ <a name = 156868019></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156868019&dopt=GenPept" >gb|EDO61391.1|</a> hypothetical protein CLOLEP_01787 [Clostridium leptum DSM 753]
+          Length = 201
+
+ Score = 71.2 bits (173), Expect = 3e-11,   Method: Compositional matrix adjust.
+ Identities = 57/195 (29%), Positives = 89/195 (45%), Gaps = 23/195 (11%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           M+L  PL +  +++     ++ SF  VL  + V  D  L ++EK   CL           
+Sbjct: 1   MRLYSPLKKRVKYKLVPVRLNTSFRTVLKCYQVFSDALLTDSEKAEACL----------- 49
+
+Query: 61  TYAVDLWVYIKTN-FIDAERPEKPQLD---IKGNPMPVVKEKEDNKKVIDLSLDAEFIYA 116
+                 W+ +K+  F+   +P+K       I    + V  +K   +K  D + DA  +Y+
+Sbjct: 50  ------WLLVKSKLFLKILKPDKKAALFNLIFKEFIDVSDKKNGGEKYFDFNQDAWAVYS 103
+
+Query: 117 SFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQ--WEDDGEGSKKYRDNM 174
+           SF Q Y ++LL     L W  F AL N L DDT + +II+IR        + + + R  +
+Sbjct: 104 SFMQCYHLDLLGADKNLHWWSFTALFNGLSDDTKIMQIISIRSRPLPKPTKYNAEERRQL 163
+
+Query: 175 RKLKAKYSLDEREEE 189
+            KLK  Y L+  EEE
+Sbjct: 164 IKLKQLYKLNLSEEE 178
+</PRE>
+
+
+<PRE>
+><a name = 160931340></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160931340&dopt=GenPept" >ref|ZP_02078739.1|</a> hypothetical protein CLOLEP_00176 [Clostridium leptum DSM 753]
+ <a name = 156869660></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=156869660&dopt=GenPept" >gb|EDO63032.1|</a> hypothetical protein CLOLEP_00176 [Clostridium leptum DSM 753]
+          Length = 201
+
+ Score = 70.1 bits (170), Expect = 7e-11,   Method: Compositional matrix adjust.
+ Identities = 57/195 (29%), Positives = 88/195 (45%), Gaps = 23/195 (11%)
+
+Query: 1   MKLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           M+L  PL +  +++     ++ SF  VL  + V  D  L + EK   CL           
+Sbjct: 1   MRLYSPLKKRVKYKLVPVRLNTSFRTVLKCYQVFSDTLLTDFEKAEACL----------- 49
+
+Query: 61  TYAVDLWVYIKTN-FIDAERPEKPQLD---IKGNPMPVVKEKEDNKKVIDLSLDAEFIYA 116
+                 W+ +K+  F+   +P+K       I    + V  +K   +K  D + DA  +Y+
+Sbjct: 50  ------WLLVKSKLFLKILKPDKKAALFNLIFKEFIDVSDKKAGGEKYFDFNQDAWAVYS 103
+
+Query: 117 SFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQ--WEDDGEGSKKYRDNM 174
+           SF Q Y ++LL     L W  F AL N L DDT + +II+IR        + + + R  +
+Sbjct: 104 SFMQCYHLDLLGADKNLHWWSFTALFNGLSDDTKIMQIISIRSRPLPKPTKYNAEERRQL 163
+
+Query: 175 RKLKAKYSLDEREEE 189
+            KLK  Y L+  EEE
+Sbjct: 164 IKLKQLYKLNLSEEE 178
+</PRE>
+
+
+<PRE>
+><a name = 89212627></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89212627&dopt=GenPept" >gb|ABD63738.1|</a> unknown [Lactococcus phage ul36.k1t1]
+ <a name = 89212681></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89212681&dopt=GenPept" >gb|ABD63791.1|</a> unknown [Lactococcus phage ul36.t1]
+ <a name = 89212732></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89212732&dopt=GenPept" >gb|ABD63841.1|</a> unknown [Lactococcus phage ul36.t1k1]
+ <a name = 89212783></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=89212783&dopt=GenPept" >gb|ABD63891.1|</a> unknown [Lactococcus phage phismq86]
+          Length = 235
+
+ Score = 68.6 bits (166), Expect = 2e-10,   Method: Compositional matrix adjust.
+ Identities = 53/191 (27%), Positives = 95/191 (49%), Gaps = 31/191 (16%)
+
+Query: 18  YPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDI--LLDRTDLPFT-YAVDLWVYIKTNF 74
+           Y + + F++VL +F++   D ++ +EK F+ +++  L    ++P   + + L    +   
+Sbjct: 20  YEVVMDFSRVLRLFELYKQDDIDVSEKLFITIEMFFLAPINEIPEEDFQLILEGLTQKII 79
+
+Query: 75  IDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQAYQINLLKEQNR-- 132
+            D  R E  + D+KGN +      E+ KK  D   DA++I+ASF Q Y I+L+KE+ +  
+Sbjct: 80  GDNSREETVERDMKGNIL------EEEKKFYDFEEDADYIFASFMQDYGIDLIKEREKSN 133
+
+Query: 133 --------------------LSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRD 172
+                               +SW +F ALL  L + +  +R+I IRQ E     ++K R 
+Sbjct: 134 YYWNKVQSGKMSLEKFRNHTMSWDKFNALLTGLSETSKFRRVIEIRQMEIPENATEKERK 193
+
+Query: 173 NMRKLKAKYSL 183
+            ++K K+  +L
+Sbjct: 194 EIKKAKSAVAL 204
+</PRE>
+
+
+<PRE>
+><a name = 47570565></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47570565&dopt=GenPept" >ref|ZP_00241186.1|</a> protein gp15 [Bacillus cereus G9241]
+ <a name = 47552768></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47552768&dopt=GenPept" >gb|EAL11198.1|</a> protein gp15 [Bacillus cereus G9241]
+          Length = 221
+
+ Score = 59.7 bits (143), Expect = 1e-07,   Method: Compositional matrix adjust.
+ Identities = 58/206 (28%), Positives = 94/206 (45%), Gaps = 37/206 (17%)
+
+Query: 2   KLNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPFT 61
+           KL D   + + + G    ++LSF+ VL + ++ DD+ ++   K  + L +L+        
+Sbjct: 3   KLTDRNRDIYHWAGVDIELNLSFDNVLKIMELFDDETISNRNKPNIALMMLI-------- 54
+
+Query: 62  YAVDLWVYIKTNFIDAERPEKPQLDI---------------KGNPMPVVKEKEDNKK--- 103
+             VD  +  +      ER  K QL I               K N M    E E +++   
+Sbjct: 55  --VDHRILEQL-----ERRRKEQLIIDVFKDKLNIDLLSNKKKNEMTEAIENEGDEQPPE 107
+
+Query: 104 --VIDLSLDAEFIYASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWE 161
+             +++ +LDA+ I+ASF   Y INL ++Q +L W EF AL N L +   M+  I  R  E
+Sbjct: 108 IPIVNFTLDADMIFASFLFDYNINLFEQQGKLQWSEFLALFNNLSEKAPMKIAIHYRTCE 167
+
+Query: 162 --DDGEGSKKYRDNMRKLKAKYSLDE 185
+                E +   R  ++K+K +Y L E
+Sbjct: 168 IPKKDEHNADERKRIKKMKERYELPE 193
+</PRE>
+
+
+<PRE>
+><a name = 166031477></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166031477&dopt=GenPept" >ref|ZP_02234306.1|</a> hypothetical protein DORFOR_01174 [Dorea formicigenerans ATCC
+           27755]
+ <a name = 166028882></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166028882&dopt=GenPept" >gb|EDR47639.1|</a> hypothetical protein DORFOR_01174 [Dorea formicigenerans ATCC
+           27755]
+          Length = 201
+
+ Score = 47.8 bits (112), Expect = 4e-04,   Method: Compositional matrix adjust.
+ Identities = 35/110 (31%), Positives = 60/110 (54%), Gaps = 19/110 (17%)
+
+Query: 95  VKEKEDNKK----------VIDLSLDAEFIYASFRQAYQINLLKEQNRLSWIEFKALLNA 144
+           V+E+E+ KK              S DA +IY +F++ Y I+L + Q+ L W +FKAL ++
+Sbjct: 79  VEEQEETKKRYVRKSTGEPAYSFSKDAAYIYTAFKEQYDIDLTEIQD-LHWWKFKALFDS 137
+
+Query: 145 LPDDTVMQRIIAIRQWEDDG--EGSKKYRDNMRKL------KAKYSLDER 186
+           L ++T M++I+  R+    G     + Y + M+KL      K K +L++R
+Sbjct: 138 LNEETQMKKIMYYRKVSTSGMDRDRRAYINEMKKLYSLSKDKKKMTLEQR 187
+</PRE>
+
+
+<PRE>
+><a name = 168697087></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168697087&dopt=GenPept" >ref|ZP_02729364.1|</a> hypothetical protein CdifQCD_16750 [Clostridium difficile
+           QCD-37x79]
+ <a name = 168715194></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168715194&dopt=GenPept" >ref|ZP_02747471.1|</a> hypothetical protein CdifQCD-6_15828 [Clostridium difficile
+           QCD-63q42]
+          Length = 201
+
+ Score = 46.6 bits (109), Expect = 8e-04,   Method: Compositional matrix adjust.
+ Identities = 48/186 (25%), Positives = 84/186 (45%), Gaps = 20/186 (10%)
+
+Query: 3   LNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPFTY 62
+           L D L ES E  G+ Y I+  F   +    +I D+ +++ EK    L +         T 
+Sbjct: 4   LVDILPESVEIDGKEYKINTDFRISILFEMLIQDNSISDEEKGENALLLYYPVIPTNTTM 63
+
+Query: 63  AVD--LWVYI---KTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYAS 117
+           A++  +W Y    K N +D           +G             ++     D E+IY++
+Sbjct: 64  AIEKIIWFYSCGKKENNVDD--------GCRGGA------GSSKSQIYSYDYDDEYIYSA 109
+
+Query: 118 FRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKL 177
+           F   Y I+L ++  +L W +FKAL  +L +DT + +I+  R  +  G+  K  +D  RK+
+Sbjct: 110 FLGQYGIDL-QDIEKLHWWKFKALFKSLKEDTEIVKIMGYRAMDVSGDMPKAQKDFYRKM 168
+
+Query: 178 KAKYSL 183
+           K  +++
+Sbjct: 169 KKIHAI 174
+</PRE>
+
+
+<PRE>
+><a name = 167746016></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167746016&dopt=GenPept" >ref|ZP_02418143.1|</a> hypothetical protein ANACAC_00711 [Anaerostipes caccae DSM 14662]
+ <a name = 167654531></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167654531&dopt=GenPept" >gb|EDR98660.1|</a> hypothetical protein ANACAC_00711 [Anaerostipes caccae DSM 14662]
+          Length = 221
+
+ Score = 42.7 bits (99), Expect = 0.014,   Method: Compositional matrix adjust.
+ Identities = 25/89 (28%), Positives = 47/89 (52%), Gaps = 3/89 (3%)
+
+Query: 103 KVIDLSLDAEFIYASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWED 162
+           ++   + DA++IYA+F + Y I+L      L W +F A+   L +D ++ +++  R  + 
+Sbjct: 115 QIYSFTHDADYIYAAFMEQYGIDL--NAVELHWWKFSAMFAGLKEDCLISKVMGYRAADT 172
+
+Query: 163 DGEGSKKYRDNMRKLKAKYSLDEREEEDD 191
+            G   K+ +   +K+K  Y L E   E+D
+Sbjct: 173 AGM-DKEQKKFYKKMKEIYKLPENVSEED 200
+</PRE>
+
+
+<PRE>
+><a name = 153853381></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153853381&dopt=GenPept" >ref|ZP_01994790.1|</a> hypothetical protein DORLON_00779 [Dorea longicatena DSM 13814]
+ <a name = 149754167></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=149754167&dopt=GenPept" >gb|EDM64098.1|</a> hypothetical protein DORLON_00779 [Dorea longicatena DSM 13814]
+          Length = 189
+
+ Score = 42.7 bits (99), Expect = 0.014,   Method: Compositional matrix adjust.
+ Identities = 43/144 (29%), Positives = 70/144 (48%), Gaps = 20/144 (13%)
+
+Query: 16  EIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRT--DL-PFTYAVDLWVYIKT 72
+           E Y I+  F + +    +++D+ +    KC L L   +D    DL    YA+  ++ +KT
+Sbjct: 17  EAYQIETDFREWIRFAKLVEDEDIPWQIKCRLLLRWYIDGIPDDLETAVYALGDFLAMKT 76
+
+Query: 73  NFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQAYQINLLKEQNR 132
+              +AE  E     I G+           K++     DAE IY++FR+ Y IN L+  + 
+Sbjct: 77  E--NAEEDE----SITGSA---------PKQLYSFEQDAECIYSAFREVYGIN-LQTISY 120
+
+Query: 133 LSWIEFKALLNALPDDT-VMQRII 155
+           + W EF+ L   LP+ T + QRI+
+Sbjct: 121 MHWWEFQTLFAGLPEKTEIKQRIM 144
+</PRE>
+
+
+<PRE>
+><a name = 153815846></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=153815846&dopt=GenPept" >ref|ZP_01968514.1|</a> hypothetical protein RUMTOR_02091 [Ruminococcus torques ATCC 27756]
+ <a name = 145846871></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=145846871&dopt=GenPept" >gb|EDK23789.1|</a> hypothetical protein RUMTOR_02091 [Ruminococcus torques ATCC 27756]
+          Length = 201
+
+ Score = 41.6 bits (96), Expect = 0.025,   Method: Compositional matrix adjust.
+ Identities = 25/88 (28%), Positives = 49/88 (55%), Gaps = 3/88 (3%)
+
+Query: 100 DNKKVIDLSLDAEFIYASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQ 159
+           ++K+  D   DA+ IYA F Q Y I+L  +++ + W +F  LL  L + T +Q+++  R 
+Sbjct: 91  NDKQPFDFEEDADLIYAGFMQQYGIDL--QESDMHWWKFMILLENLGNGTRLQKVMEYRT 148
+
+Query: 160 WEDDGEG-SKKYRDNMRKLKAKYSLDER 186
+            +   +  SK  ++  R ++  Y L+++
+Sbjct: 149 IDTGNKNLSKTEQEFYRAMQRYYGLEQK 176
+</PRE>
+
+
+<PRE>
+><a name = 166031056></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166031056&dopt=GenPept" >ref|ZP_02233885.1|</a> hypothetical protein DORFOR_00737 [Dorea formicigenerans ATCC
+           27755]
+ <a name = 166029323></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=166029323&dopt=GenPept" >gb|EDR48080.1|</a> hypothetical protein DORFOR_00737 [Dorea formicigenerans ATCC
+           27755]
+          Length = 187
+
+ Score = 41.2 bits (95), Expect = 0.036,   Method: Compositional matrix adjust.
+ Identities = 37/142 (26%), Positives = 63/142 (44%), Gaps = 16/142 (11%)
+
+Query: 15  GEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPFTYAVDLWVYIKTNF 74
+           G+ Y ++  F + +    +++D+ +    KC L L    D        A++      T  
+Sbjct: 16  GQDYEVETDFREWIRFTKLVEDEDVPWQIKCRLLLQWYTDEIPDDLEEAIEALGDFLTMR 75
+
+Query: 75  IDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQAYQINLLKEQNRLS 134
+            D E  ++P L                K+V     D  +IY++FR+AY I+L +    + 
+Sbjct: 76  QDGEESDEPMLP--------------PKQVYSFDEDMVWIYSAFREAYGIDL-QSVPYMH 120
+
+Query: 135 WIEFKALLNALPDDT-VMQRII 155
+           W EF+ L   LPD+T + QRI+
+Sbjct: 121 WWEFQTLFIGLPDNTEIKQRIL 142
+</PRE>
+
+
+<PRE>
+><a name = 168181390></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168181390&dopt=GenPept" >ref|ZP_02616054.1|</a> site-specific recombinase [Clostridium botulinum Bf]
+ <a name = 182675279></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=182675279&dopt=GenPept" >gb|EDT87240.1|</a> site-specific recombinase [Clostridium botulinum Bf]
+          Length = 197
+
+ Score = 39.3 bits (90), Expect = 0.16,   Method: Compositional matrix adjust.
+ Identities = 39/161 (24%), Positives = 72/161 (44%), Gaps = 18/161 (11%)
+
+Query: 33  VIDDDFLNEAEKCFLCLDILLDRTDLPFTYAVD--LWVYIKTNFIDAERPEKPQLDIKGN 90
+           ++ D+ L+E +K    L +           AVD  LW Y         R  K  +  KG 
+Sbjct: 34  LMQDNELSEEDKIIQALQLYYPVIPPNINLAVDKMLWFY---------RCGKDMIPSKGT 84
+
+Query: 91  PMPVVKEKEDNKKVIDLSLDAEFIYASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTV 150
+                  K  + ++ +   D ++IY++F   Y+I+L ++   L W +FKA+  AL +D  
+Sbjct: 85  G------KGKSTQIYNFEYDDDYIYSAFLDQYRIDL-QDIEYLHWWKFKAMFKALKEDNE 137
+
+Query: 151 MQRIIAIRQWEDDGEGSKKYRDNMRKLKAKYSLDEREEEDD 191
+           + +I+  R  +      K+ +   RK++  Y +   ++E D
+Sbjct: 138 IVKIMGYRSMDLSKIKDKEEKSYYRKMQELYKIPIAKDEKD 178
+</PRE>
+
+
+<PRE>
+><a name = 160915208></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=160915208&dopt=GenPept" >ref|ZP_02077421.1|</a> hypothetical protein EUBDOL_01216 [Eubacterium dolichum DSM 3991]
+ <a name = 158433007></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=158433007&dopt=GenPept" >gb|EDP11296.1|</a> hypothetical protein EUBDOL_01216 [Eubacterium dolichum DSM 3991]
+          Length = 184
+
+ Score = 38.9 bits (89), Expect = 0.17,   Method: Compositional matrix adjust.
+ Identities = 25/91 (27%), Positives = 45/91 (49%), Gaps = 2/91 (2%)
+
+Query: 101 NKKVIDLSLDAEFIYASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQW 160
+           ++ V   + D ++I   F + Y I+LL     + W +F ALLNAL D   +++ I  R  
+Sbjct: 90  SRYVFSFTYDQDYIIGGFMECYGIDLLS--TSMHWWKFNALLNALNDSCELKKRIYYRSI 147
+
+Query: 161 EDDGEGSKKYRDNMRKLKAKYSLDEREEEDD 191
+                  KK R  ++K++ + ++   E  D+
+Sbjct: 148 CLSEIKDKKERRQIQKIQRQIAIPAAELSDE 178
+</PRE>
+
+
+<PRE>
+><a name = 170755699></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170755699&dopt=GenPept" >ref|YP_001781730.1|</a> putative protein gp15 [Clostridium botulinum B1 str. Okra]
+ <a name = 169120911></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169120911&dopt=GenPept" >gb|ACA44747.1|</a> putative protein gp15 [Clostridium botulinum B1 str. Okra]
+          Length = 197
+
+ Score = 38.5 bits (88), Expect = 0.23,   Method: Compositional matrix adjust.
+ Identities = 39/161 (24%), Positives = 71/161 (44%), Gaps = 18/161 (11%)
+
+Query: 33  VIDDDFLNEAEKCFLCLDILLDRTDLPFTYAVD--LWVYIKTNFIDAERPEKPQLDIKGN 90
+           ++ D+ ++E  K    L +           AVD  LW Y         R  K  L  KG 
+Sbjct: 34  LMQDNSISEENKIIQALQLYYPVIPPNINLAVDKMLWFY---------RCGKDILPSKGT 84
+
+Query: 91  PMPVVKEKEDNKKVIDLSLDAEFIYASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTV 150
+                  K  + ++   + D ++IY++F   Y+I+L ++   L W +FKA+  AL +D  
+Sbjct: 85  G------KGKSTQIYSFNFDDDYIYSAFLDQYRIDL-QDIEYLHWWKFKAMFKALKEDNE 137
+
+Query: 151 MQRIIAIRQWEDDGEGSKKYRDNMRKLKAKYSLDEREEEDD 191
+           + +I+  R  +      K+ +   RK++  Y +   ++E D
+Sbjct: 138 IVKIMGYRSMDLSKIKDKEEKKYYRKMQELYKIPIAKDEKD 178
+</PRE>
+
+
+<PRE>
+><a name = 170759050></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170759050&dopt=GenPept" >ref|YP_001787263.1|</a> putative protein gp15 [Clostridium botulinum A3 str. Loch Maree]
+ <a name = 169406039></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=169406039&dopt=GenPept" >gb|ACA54450.1|</a> putative protein gp15 [Clostridium botulinum A3 str. Loch Maree]
+          Length = 197
+
+ Score = 38.5 bits (88), Expect = 0.24,   Method: Compositional matrix adjust.
+ Identities = 44/191 (23%), Positives = 83/191 (43%), Gaps = 18/191 (9%)
+
+Query: 3   LNDPLVESFEFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPFTY 62
+           L D +  + E  G+ Y I+  F   +    ++ D+ ++E +K    L +           
+Sbjct: 4   LIDLVPNTIEIEGKNYNINSDFRTSILFELLMQDNSISEEDKLIQALQLYYPVIPPNINL 63
+
+Query: 63  AVD--LWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+           AVD  LW Y         R  K     KG        K  + ++   + D ++IY++F  
+Sbjct: 64  AVDKMLWFY---------RCGKDITPSKGTG------KGKSTQIYLFNFDDDYIYSAFLD 108
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+            Y I+L ++   L W +FKA+  AL +D  + +I+  R  +      K+ ++  R+++  
+Sbjct: 109 QYGIDL-QDIEYLHWWKFKAMFKALKEDNEIVKIMGYRSMDLSKIKDKEEKNYYRRMQEL 167
+
+Query: 181 YSLDEREEEDD 191
+           Y +   ++E D
+Sbjct: 168 YKIPIAKDEKD 178
+</PRE>
+
+
+<PRE>
+><a name = 168211729></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168211729&dopt=GenPept" >ref|ZP_02637354.1|</a> hypothetical protein AC1_1108 [Clostridium perfringens B str. ATCC
+           3626]
+ <a name = 170710317></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170710317&dopt=GenPept" >gb|EDT22499.1|</a> hypothetical protein AC1_1108 [Clostridium perfringens B str. ATCC
+           3626]
+          Length = 120
+
+ Score = 38.1 bits (87), Expect = 0.30,   Method: Compositional matrix adjust.
+ Identities = 24/64 (37%), Positives = 35/64 (54%), Gaps = 1/64 (1%)
+
+Query: 101 NKKVIDLSLDAEFIYASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQW 160
+           N +  DL  D E I ASF   Y I L  E + ++W EF  LL+ +   T + +I++IR  
+Sbjct: 13  NNQWYDLFEDWELIEASFTAQYGIRLRNESD-MTWDEFCTLLSGIMSKTPLGQIVSIRSE 71
+
+Query: 161 EDDG 164
+           ED+ 
+Sbjct: 72  EDEN 75
+</PRE>
+
+
+<PRE>
+><a name = 168214640></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168214640&dopt=GenPept" >ref|ZP_02640265.1|</a> conserved hypothetical protein [Clostridium perfringens CPE str.
+           F4969]
+ <a name = 170713901></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170713901&dopt=GenPept" >gb|EDT26083.1|</a> conserved hypothetical protein [Clostridium perfringens CPE str.
+           F4969]
+          Length = 203
+
+ Score = 37.7 bits (86), Expect = 0.41,   Method: Compositional matrix adjust.
+ Identities = 23/89 (25%), Positives = 44/89 (49%), Gaps = 1/89 (1%)
+
+Query: 104 VIDLSLDAEFIYASFRQAYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDD 163
+           +     D E+IY++F   Y+++L ++   L W +FKA+   L +   +  II  R  +  
+Sbjct: 98  IYSFEYDDEYIYSAFLSQYKVDL-QDIEYLHWWKFKAMFKGLSEGNKIMEIIKYRSIDLS 156
+
+Query: 164 GEGSKKYRDNMRKLKAKYSLDEREEEDDG 192
+               KK R+  + +K  + L +R  +D+ 
+Sbjct: 157 KIEDKKEREFYKNMKNTFKLPDRINKDEN 185
+</PRE>
+
+
+<PRE>
+><a name = 167760034></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167760034&dopt=GenPept" >ref|ZP_02432161.1|</a> hypothetical protein CLOSCI_02406 [Clostridium scindens ATCC 35704]
+ <a name = 167662327></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=167662327&dopt=GenPept" >gb|EDS06457.1|</a> hypothetical protein CLOSCI_02406 [Clostridium scindens ATCC 35704]
+          Length = 188
+
+ Score = 37.7 bits (86), Expect = 0.45,   Method: Compositional matrix adjust.
+ Identities = 39/187 (20%), Positives = 84/187 (44%), Gaps = 17/187 (9%)
+
+Query: 5   DPLVESF----EFRGEIYPIDLSFNKVLDVFDVIDDDFLNEAEKCFLCLDILLDRTDLPF 60
+           +PL E F    E RG+   I   F + + + +++DD+ +   +K  L L   +D  +   
+Sbjct: 2   NPLYERFPDYVEVRGKRCRIVTDFREWIKLVELLDDEGVPGRKKAELLLQWYIDCPEDTE 61
+
+Query: 61  TYAVDLWVYIKTNFIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQ 120
+                L  ++  N +  E            P      K +++ V   + DA  I+A+F +
+Sbjct: 62  EAIYKLGEFLAGNVLYPE------------PKKTDSSKSESEPVFSYTEDAGCIFAAFLE 109
+
+Query: 121 AYQINLLKEQNRLSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAK 180
+            Y I+L + +  + W +F  L   LP+   +++ +  R+ + +    K+ R  ++++K +
+Sbjct: 110 YYGIDLERVRY-MHWWKFLILFEGLPEQAEIKQRMMYRKADLNSIKDKEERKRVKEIKKR 168
+
+Query: 181 YSLDERE 187
+            +L  ++
+Sbjct: 169 VALHRKQ 175
+</PRE>
+
+
+<PRE>
+><a name = 168214560></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=168214560&dopt=GenPept" >ref|ZP_02640185.1|</a> putative protein gp15 [Clostridium perfringens CPE str. F4969]
+ <a name = 170713954></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=170713954&dopt=GenPept" >gb|EDT26136.1|</a> putative protein gp15 [Clostridium perfringens CPE str. F4969]
+          Length = 204
+
+ Score = 37.4 bits (85), Expect = 0.52,   Method: Compositional matrix adjust.
+ Identities = 28/110 (25%), Positives = 56/110 (50%), Gaps = 6/110 (5%)
+
+Query: 74  FIDAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSLDAEFIYASFRQAYQINLLKEQNRL 133
+           F    R EK +++ K N     KEK     +     D E+IY++F   Y+++L ++ + L
+Sbjct: 73  FYGGGREEK-EVNSKKNNSSSRKEK----NIYSFEYDDEYIYSAFLSQYKVDL-QDIDYL 126
+
+Query: 134 SWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAKYSL 183
+            W +FKA+   L ++  + +I+  R  + +    K+ R   ++++  Y+L
+Sbjct: 127 HWWKFKAMFKGLTEENTIVKIMKYRSIDLNSIKDKEERKFYKEMQELYAL 176
+</PRE>
+
+
+<PRE>
+><a name = 147898789></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=147898789&dopt=GenPept" >ref|NP_001085087.1|</a> hypothetical protein LOC432158 [Xenopus laevis]
+ <a name = 47939974></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=47939974&dopt=GenPept" >gb|AAH72228.1|</a> MGC81471 protein [Xenopus laevis]
+          Length = 616
+
+ Score = 36.2 bits (82), Expect = 1.3,   Method: Compositional matrix adjust.
+ Identities = 32/101 (31%), Positives = 48/101 (47%), Gaps = 9/101 (8%)
+
+Query: 76  DAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLSL---DAEFIYASFRQAYQINLLKEQNR 132
+           +AE+  + QL I+      VK  E+  ++  LS    D+ F+    RQ      L+EQ R
+Sbjct: 72  EAEKANEEQLKIENQLRNRVKRLENEIEMAQLSTGSRDSRFLREEIRQ------LEEQLR 125
+
+Query: 133 LSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDN 173
+            S  E K + N L  +  +   +A+R  E D E SK  R+N
+Sbjct: 126 QSERELKDMANELEREKQVNEQLALRNEETDNENSKLRREN 166
+</PRE>
+
+
+<PRE>
+><a name = 148750848></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=148750848&dopt=GenPept" >ref|YP_001285891.1|</a> hypothetical protein LPLLH_ORF75 [Lactobacillus phage LL-H]
+ <a name = 623068></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=00623068&dopt=GenPept" >gb|AAC00543.1|</a> hypothetical protein [Lactobacillus phage LL-H]
+          Length = 75
+
+ Score = 35.0 bits (79), Expect = 2.5,   Method: Compositional matrix adjust.
+ Identities = 21/57 (36%), Positives = 33/57 (57%), Gaps = 1/57 (1%)
+
+Query: 133 LSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDNMRKLKAKYSLDEREEE 189
+           +SW +FKALL+ L  +++ +RI+ IR+  D  E   K  + M   K  YSL +  E+
+Sbjct: 1   MSWFKFKALLDGLDPESIFERIVRIRK-ADLSEYKGKQLNEMVDCKEYYSLAQTPED 56
+</PRE>
+
+
+<PRE>
+><a name = 172355550></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=172355550&dopt=GenPept" >ref|NP_001116498.1|</a> centrosomal protein 290kDa [Xenopus tropicalis]
+ <a name = 165971064></a><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=Protein&list_uids=165971064&dopt=GenPept" >gb|AAI58163.1|</a> Unknown (protein for MGC:135494) [Xenopus tropicalis]
+          Length = 396
+
+ Score = 34.3 bits (77), Expect = 4.6,   Method: Compositional matrix adjust.
+ Identities = 32/101 (31%), Positives = 47/101 (46%), Gaps = 9/101 (8%)
+
+Query: 76  DAERPEKPQLDIKGNPMPVVKEKEDNKKVIDLS---LDAEFIYASFRQAYQINLLKEQNR 132
+           +AE+  + QL  +      VK  E+  +V  LS    D+ F+    RQ      L+EQ R
+Sbjct: 72  EAEKANEEQLKTENQLRNRVKRLENEIEVAQLSSGSRDSRFLREEIRQ------LEEQLR 125
+
+Query: 133 LSWIEFKALLNALPDDTVMQRIIAIRQWEDDGEGSKKYRDN 173
+            S  E K + N L  +  +   +A+R  E D E SK  R+N
+Sbjct: 126 QSERECKDMANELEREKQVNEQLALRNEETDNENSKLRREN 166
+</PRE>
+
+
+<PRE>
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  May 10, 2008  4:54 AM
+  Number of letters in database: 2,222,278,849
+  Number of sequences in database:  6,515,104
+  
+Lambda     K      H
+   0.319    0.140    0.409 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 6515104
+Number of Hits to DB: 890,110,226
+Number of extensions: 37780034
+Number of successful extensions: 102777
+Number of sequences better than 10.0: 72
+Number of HSP's gapped: 103791
+Number of HSP's successfully gapped: 72
+Length of query: 193
+Length of database: 2,222,278,849
+Length adjustment: 126
+Effective length of query: 67
+Effective length of database: 1,401,375,745
+Effective search space: 93892174915
+Effective search space used: 93892174915
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 16 ( 7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.7 bits)
+S2: 75 (33.5 bits)
+</PRE>
+</BODY>
+</HTML>

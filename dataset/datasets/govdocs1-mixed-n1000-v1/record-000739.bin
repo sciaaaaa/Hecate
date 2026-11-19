@@ -1,0 +1,209 @@
+<BASE HREF="http://nmp.jpl.nasa.gov/ds1/">
+
+<html>
+
+
+
+<head>
+
+
+
+<title>Dr. Marc Rayman's Mission Log</title>
+
+
+
+</head>
+
+
+
+<body background="./img/bg_rock1.jpg" text="BLACK" bgcolor="#000000">
+
+
+
+<center> 
+
+<!------------------
+
+<table><tr><td>
+
+<font color="#ffff44" face="arial" ><b><i>Earth Date:
+
+<script language="JavaScript">
+
+var  today = new Date()
+
+document.write(today)
+
+</script>
+
+</i></b></font>
+
+</td></tr></table>
+
+------------------------->
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="530">
+
+
+
+<tr>
+
+<td width="30">&#160;</td>
+
+<td colspan=2  valign="middle" width="500"><img src="./img/title.jpg" border=0>
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width="50">&#160;</td>
+
+<td colspan=2 align="center" valign="middle" width="500">
+
+<br><br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="400">
+
+<tr>
+
+<td><img src="./ani/radar1sized.gif" alt="" border="0"></td>
+
+<td><img src="./ani/bin1sized.gif" alt="" border="0"></td>
+
+<td><img src="./ani/graph1sized.gif" alt="" border="0"></td>
+
+<td><img src="./ani/bin2sized.gif" alt="" border="0"></td>
+
+</tr>
+
+</table>
+
+<br><br>
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width="30">&#160;</td> 
+
+<td colspan=2 valign="bottom">
+
+<font color="#ffff44" size="+1" face="arial"><b><i>September 24, 2000
+
+</i></b></font>
+
+</TD>
+
+</TR>
+
+
+
+<TR>
+
+<TD width="30"> </TD>
+
+
+
+<TD colspan="2" align="left" valign="top" width="500">
+
+
+
+<BR><H2><FONT color="#ffff44" face="arial" size="+1"><I>Mission Update:</I></FONT></H2><BR>
+
+
+
+<TABLE ALIGN="CENTER" WIDTH="500" BORDER="3" CELLPADDING="7" CELLSPACING="0" BGCOLOR="#FFFF99">
+
+<TR>
+
+<TD>
+
+
+<P><FONT size="+1" face="arial">Thank you for visiting the Deep Space 1 mission status information site, for over 700 days the most popular site on any habitable planet in or near the plane of the Milky Way galaxy for information on this bold mission of exploration.  This message was logged in at 1:30 pm Pacific Time on Sunday, September 24. This log is an edited transcript of a telephone recording. If you would like to access the same information from any place with a telephone, please call 1-800-391-6654 and select option 3.</FONT></P>
+
+<P><FONT size="+1" face="arial">Deep Space 1's journey through the solar system is progressing very smoothly, as the probe continues heading toward an exciting and ambitious meeting with comet Borrelly just one year from now.  DS1, Borrelly, and all the other comets, asteroids, and planets of our solar system orbit the Sun. But right now the orbits of DS1 and Borrelly do not intersect, so for them to meet we have to change DS1's orbit.  That is the job of the advanced ion propulsion system, which is slowly but surely reshaping DS1's orbit so the spacecraft will encounter Borrelly in September 2001 as they follow their separate paths around the Sun. The timing is critical; it is not sufficient just for the orbits to cross any more than it is sufficient for a baseball batter to swing at the correct height after the ball has already passed by. In addition to having its orbit cross that of the comet, DS1 must be close to the intersection point at the same time the comet is for the planned near-miss to occur.  Then Borrelly, as it streaks around the Sun on its nearly 7-year-long tour of the solar system, will flash past DS1 at a speed of almost 17 kilometers per second, or about 37,000 miles per hour. Organizing the complex choreography required to assure that this brief pas de deux takes place on schedule is all part of the fascinating job of flying a spacecraft through the solar system.</FONT></P>
+
+<P><FONT size="+1" face="arial">A great deal of work and a variety of hazards remain before DS1 can keep its date with Borrelly.  The greatest threat so far to that event was overcome after DS1 lost a critical system in November, just a couple of months after the end of its primary mission.  The operations team pulled off a tremendously successful ultra-long-distance rescue of the crippled ship, and now DS1 is as healthy as ever.  And with the remarkable longevity of its ion propulsion system, which has accumulated over 237 days of running time (far longer than any other propulsion system in the history of space travel), this cosmic Energizer bunny continues to demonstrate a remarkable indefatigability.</FONT></P>
+
+<P><FONT size="+1" face="arial">As all conscientious readers know, to hold the spacecraft stable for thrusting with the ion propulsion system, we have the camera point at a star we call a "thrustar."  Every week, it turns for a short time to an "Earth star" to allow a few hours of communications through its main antenna.  Each star gives a celestial reference point for the ship to lock to in the absence of the star tracker that failed last year.  The map DS1 will follow to find Borrelly is made from the locations of the thrustars that it uses for pointing references and the length of time it spends on each one.  For most of the last two months, the spacecraft has been using a star in Sagittarius as a guide, but now it has completed the required thrusting in that direction.  So on September 25 it will point to a new thrustar for two weeks of thrusting.  That star is Deneb Algiedi, the brightest one in Capricornus.  Then for three weeks DS1 will follow Ancha, a star in the less conspicuous constellation Aquarius. Those stars are best viewed this time of year here on my planet, and if you can see them, the next time you do, you might devote a moment's thought to a very very distant and faithful representative of humankind that is obediently and serenely watching the same star as it patiently allows the ion propulsion system to delicately push it along toward its appointment with Borrelly.</FONT></P>
+
+<P><FONT size="+1" face="arial">By late October, a new step in the solar system dance will begin as DS1 and Earth (whose inhabitants are one of the smaller but more dedicated groups of readers) will be ready to line up on opposite sides of the Sun.  The actual alignment will occur in November, and the next log will describe it in more detail as well as what the consequences are for DS1 of being on the far side of the Sun from Earth.</FONT></P>
+
+<P><FONT size="+1" face="arial">Deep Space 1 is now over 2.3 times as far from Earth as the Sun is and more than 900 times as far as the moon.  At this distance of almost 347 million kilometers, or more than 215 million miles, radio signals, traveling at the universal limit of the speed of light, take longer than 38 and a half minutes to make the round trip.</FONT></P>
+
+<P><FONT size="+1" face="arial">Thanks again for logging in!
+
+<div align="right"><B><I><a href="arch/mrlog63.html">Next entry --></a></I></B><br>
+<a href="http://nmp/ds1/archives.html"><strong><em><-- Back to Log Index</em></strong></a></div></FONT></P></P>
+
+
+
+
+</TD>
+
+</TR>
+
+</TABLE>
+
+
+
+<BR>
+
+<BR>
+
+<CENTER>
+
+<TABLE border="0" cellpadding="0" cellspacing="0" width="400">
+
+<TR>
+
+<td><img src="./ani/radar1sized.gif" alt="" border="0"></td>
+
+<td><img src="./ani/bin1sized.gif" alt="" border="0"></td>
+
+<td><img src="./ani/graph1sized.gif" alt="" border="0"></td>
+
+<td><img src="./ani/bin2sized.gif" alt="" border="0"></td>
+
+</TR>
+
+</TABLE>
+
+</CENTER>
+
+
+
+<BR>
+
+
+
+</TD>
+
+</TR>
+
+
+
+
+
+
+
+</TABLE>
+
+</CENTER>
+
+</BODY>
+
+</HTML>
+

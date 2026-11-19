@@ -1,0 +1,582 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en"><!-- InstanceBegin template="/Templates/projects-mercury.dwt" codeOutsideHTMLIsLocked="false" --> 
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Mercury Studies Team- USGS Wisconsin Water Science Center</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="The official website of the USGS Wisconsin Water Science Center.">
+<meta name="keywords" content="water, wisconsin, USGS, science, streamflow, sediment, sampling, mercury, GIS, pathogens, drilling, database, quality, non-point, surface-water, hydrology, great lakes, lakes, streams, rivers, runoff">
+<meta name="author" content="Melanie McCalmont">
+<meta name="publisher" content="U.S. Geological Survey">
+<meta name="created" content="20080428">
+<meta name="revised" content="20080428">
+<!--this sets the usgs std styles -->
+<link href="http://www.usgs.gov/styles/common.css" rel="stylesheet" type="text/css" />
+<!--this sets the title bar color and default header -->
+<link href="http://www.usgs.gov/frameworkfiles/styles/custom.css" rel="stylesheet" type="text/css" />
+<!--this sets the main styles used in the Water framework -->
+<link href="http://www.usgs.gov/frameworkfiles/styles/framework.css" rel="stylesheet" type="text/css" />
+<!--this adds or changes styles for Wisconsin applications -->
+<link href="/styles/wi.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="/styles/wi-print.css" rel="stylesheet" type="text/css" media="print"/>
+<!-- InstanceBeginEditable name="head" -->
+
+
+<!-- InstanceEndEditable -->
+<!--[if IE]> <style type="text/css"> body {word-wrap: break-word;} </style><![endif]-->
+</head>
+
+<body>
+<div id="usgslogo"><img src="../images/logo/printmedia-usgsbanner.gif" alt="green USGS logo"/></div>
+<table cellpadding="0" cellspacing="0" id="menutable">
+    <tr><td width="100%" valign="top"><!-- START header and top navigation section -->
+            <!-- BEGIN USGS Header Template -->
+<div id="usgscolorbandprojects">
+	<div id="usgsbanner">
+		<div id="usgsidentifier"><a href="http://www.usgs.gov/"><img src="http://www.usgs.gov/images/header_graphic_usgsIdentifier_white.jpg" alt="USGS - science for a changing world" title="U.S. Geological Survey Home Page" width="178" height="72" /></a></div>
+		<div id="usgsccsabox">
+			<div id="usgsccsa">
+			  <br /><a href="http://www.usgs.gov/">USGS Home</a>
+			  <br /><a href="http://www.usgs.gov/ask/">Contact USGS</a>
+			  <br /><a href="http://search.usgs.gov/">Search USGS</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="usgstitle">
+	<p>Wisconsin Water Science Center</p>
+</div>
+<!-- END USGS Header Template -->
+
+            <a href="#skipnavmain" title="Skip main topics." name="topnavmainbuttons"></a>
+<div id="topnavbuttons">
+<ul id="navlist">
+<li><a href="../index.html" title="Wisconsin Water Science Center home page"><span id="home">home</span></a></li>
+<li><a href="/data/index.html"><span id="data">water&nbsp;data</span></a></li>
+<li><a href="/projects/index.html"><span id="projects">projects</span></a></li>
+<li><a href="/hazards/index.html"><span id="hazards">hazards</span></a></li>
+<li><a href="/publications/index.html"><span id="pubs4">publications</span></a></li>
+<li><a href="/news/index.html"><span id="news">news</span></a></li>
+<li><a href="/education/outreach.html"><span id="education">education</span></a></li>
+<li><a href="/about/welcome.html"><span id="about">about&nbsp;us</span></a></li>
+<li><a href="/about/contacts.html"><span id="contact">contact&nbsp;us</span></a></li>
+
+</ul>
+</div>
+<a name="skipnavmain"></a>
+
+            <style type="text/css">
+#projects  {
+	padding: 0.37em .91em;
+	margin: 0em -.91em;
+	background-color: #339;	
+}
+</style>
+<div id="subnav">
+		<a href="../../surface-water/index.html"><span id="projsw">Surface&nbsp;water</span></a>
+		<a href="../../ground-water/index.html"><span id="projgw">Ground&nbsp;water</span></a>
+		<a href="../../water-quality/index.html"><span id="projwq">Water&nbsp;quality</span></a>
+        <a href="../../water-use/index.html"><span id="projwu">Water&nbsp;use</span></a>
+		<a href="../../lakes/index.html"><span id="projlk">Lakes</span></a>
+		<a href="../../non-point/index.html"><span id="projnp">Non-point</span></a>
+		<a href="../../mercury/index.html"><span id="projmc">Mercury</span></a>
+        <a href="../../rna/index.html"><span id="projrn">Assessments</span></a>
+        <a href="../../mdc/index.html"><span id="projdb">Data&nbsp;center</span></a>
+</div>
+            <!-- END of header section --></td>
+    </tr>
+    </table>
+
+<table id="contenttable" cellspacing="0">
+    <!--DWLayoutTable-->
+    <tr>
+        <td id="lefttable" width="216" height="649" valign="top">
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <!--DWLayoutTable-->
+            
+            <tr>
+                <td id="leftbar"><!-- InstanceBeginEditable name="sidepicture" --><img src="../images/sidepane/side_surfacewater.jpg" alt="USGS"><!-- InstanceEndEditable --></td>
+            </tr>
+            <tr>
+                 <!-- START left side bar section -->
+                 <td rowspan="2" id="leftbar">
+				  <!-- Google CSE Search Box Begins -->
+
+<form id="searchbox_005083607223377578371:b5ixbbpqpx0" action="http://wi.water.usgs.gov/search-results.html" style="margin-top: 20px;">
+<input type="hidden" name="cx" value="005083607223377578371:b5ixbbpqpx0" />
+<input type="hidden" name="cof" value="FORID:11" />
+<label for="q"><span class="bold smaller black">Search this website:</span></label>
+<input name="q" id="q" type="text" size="15" accesskey="s" />
+<input type="hidden" name="as_oq" value="site:http://wi.water.usgs.gov" />
+<input type="submit" name="sa" id="sa" value="Go" />
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_005083607223377578371%3Ab5ixbbpqpx0"></script>
+<!--Google CSE Search Box Ends -->
+<h2>Mercury Studies</h2>
+   <ul>
+    <li class="bold">Project Areas
+        <ul>
+	   <li> <a href="../../mercury-lab/index.html">Mercury Research Laboratory</a> (MRL)</li>
+       <li><a href="../../mercury/index.html">Current Projects</a>
+           <ul>
+               <li>Aquatic Cycling of Mercury in the Everglades <a href="../../mercury/acme.html">(ACME)</a></li>
+               <li><a href="../../mercury/national-mcae.html">National Assessment Study of Mercury Contamination of Aquatic Ecosystems</a></li>
+               <li><a href="../../mercury/national-hgcycling.html">Mercury Cycling in Aquatic Ecosystems</a></li>
+               <li><a href="../../mercury/highalpinelakes.html">High Alpine Lakes</a></li>
+               <li><a href="../../mercury/metaalicus.html">METAALICUS</a></li>
+               <li><a href="../../mercury/yukonriver.html">Yukon River</a></li>
+               </ul>
+       </li>
+       <li>General Information
+           <ul>
+               <li><a href="../../mercury/mercury-cycling.html">Mercury Cycling</a></li>
+               <li><a href="../../mercury/links.html">Links</a></li>
+           </ul>
+       </li>
+       <li><a href="../../mercury/publications.html">Publications</a></li>
+       <li><a href="../../mercury/data.html">Data</a></li>
+       <li>Models</li>
+	   <li>Past Projects</li>
+	   <li><a href="../../mercury/docs/mercury_studies_capabilities.pdf" target="_blank">Team Capabilities</a> <img src="../../images/icons/pdf.gif" alt="pdf" width="17" height="13"></li>
+	</ul>
+    </li>
+</ul>
+<ul>
+    <li class="bold">Project Team
+        <ul>
+        <li><a href="../../professional-pages/krabbenhoft.html">David P. Krabbenhoft</a>, Research Hydrologist, Geochemistry (Team Leader) </li>
+        <li>Jacob Ogorek, Biologist</li>
+         <li>John F. DeWild, Hydrologic Technician</li>
+         <li>Tom Sabin, Hydrologic Technician</li>
+         <li>Charlie Thompson, Hydrologic Technician</li>
+        </ul>
+    </li>
+</ul>
+<a name="skipmercuryprojects"></a></ul></ul>
+<a href="#skipusgsstates" title="Skip USGS in your state." name="topusgsstates"></a>
+<h2>USGS IN YOUR STATE</h2>
+<p>USGS Water Science Centers are located in each state.</p>
+<img src="http://www.usgs.gov/frameworkfiles/includes/imagemaps/usmapsmall.gif" width="201" height="133" border="0" alt="There is a USGS Water Science Center office in each State. " usemap="#wscoffices" />
+<map name="wscoffices" id="wscoffices">
+<area alt="Washington" coords="2,1,30,18" href="http://wa.water.usgs.gov/" title="Washington" />
+<area alt="Oregon" coords="1,18,29,34" href="http://or.water.usgs.gov/" title="Oregon" />
+<area alt="California" shape="poly" coords="0,34,16,36,12,49,28,71,25,83,0,72" href="http://ca.water.usgs.gov/" title="California" />
+<area alt="Idaho" shape="poly" coords="30,2,36,2,36,24,45,29,44,40,25,38,30,32" href="http://id.water.usgs.gov/" title="Idaho" />
+<area alt="Nevada" shape="poly" coords="16,36,34,41,28,68,13,48" href="http://nevada.usgs.gov/water/" title="Nevada" />
+<area alt="Montana" shape="poly" coords="38,8,70,13,66,30,38,24" href="http://mt.water.usgs.gov/" title="Montana" />
+<area alt="Wyoming" coords="46,30,66,47" href="http://wy.water.usgs.gov/" title="Wyoming" />
+<area alt="Utah" shape="poly" coords="36,42,43,41,43,46,48,48,48,64,31,62" href="http://ut.water.usgs.gov/" title="Utah" />
+<area alt="Colorado" coords="50,48,72,66" href="http://co.water.usgs.gov/" title="Colorado" />
+<area alt="Arizona" shape="poly" coords="31,63,48,65,45,92,26,83" href="http://az.water.usgs.gov/" title="Arizona" />
+<area alt="New Mexico" coords="49,66,69,90" href="http://nm.water.usgs.gov/" title="New Mexico" />
+<area alt="North Dakota" coords="70,13,90,28" href="http://nd.water.usgs.gov/" title="North Dakota" />
+<area alt="South Dakota" coords="67,28,91,42" href="http://sd.water.usgs.gov/" title="South Dakota" />
+<area alt="Nebraska" shape="poly" coords="67,42,89,42,95,53,73,52,72,47,67,47" href="http://ne.water.usgs.gov/" title="Nebraska" />
+<area alt="Kansas" coords="73,54,98,68" href="http://ks.water.usgs.gov/" title="Kansas" />
+<area alt="Oklahoma" shape="poly" coords="72,67,97,70,98,83,80,80,80,70,70,70" href="http://ok.water.usgs.gov/" title="Oklahoma" />
+<area alt="Texas" shape="poly" coords="69,72,79,72,79,81,100,84,104,106,85,120,54,91,69,91" href="http://tx.usgs.gov/" title="Texas." />
+<area alt="Minnesota" shape="poly" coords="90,12,112,16,102,28,107,37,92,37" href="http://mn.water.usgs.gov/" title="Minnesota" />
+<area alt="Iowa" shape="poly" coords="91,39,108,39,112,44,108,50,95,50" href="http://ia.water.usgs.gov/" title="Iowa" />
+<area alt="Missouri" shape="poly" coords="97,51,108,51,118,67,115,71,112,69,99,68" href="http://mo.water.usgs.gov/" title="Missouri" />
+<area alt="Arkansas" shape="poly" coords="98,70,116,70,111,87,102,87" href="http://ar.water.usgs.gov/" title="Arkansas" />
+<area alt="Louisiana " shape="poly" coords="101,88,111,88,111,94,117,94,121,101,105,106" href="http://la.water.usgs.gov/" title="Louisiana " />
+<area alt="Wisconsin " shape="poly" coords="108,22,120,29,119,41,111,42,103,28" href="http://wi.water.usgs.gov/" title="Wisconsin " />
+<area alt="Illinois" shape="poly" coords="114,43,121,42,122,61,119,65,109,51,109,51,109,51" href="http://il.water.usgs.gov/" title="Illinois" />
+<area alt="Mississippi" shape="poly" coords="115,76,120,77,122,96,117,92,112,92,112,83" href="http://ms.water.usgs.gov/" title="Mississippi" />
+<area alt="Michigan" shape="poly" coords="112,21,122,17,139,36,134,43,122,42,120,41,120,27" href="http://mi.water.usgs.gov/" title="Michigan" />
+<area alt="Indiana" shape="poly" coords="123,43,132,43,131,55,123,62" href="http://in.water.usgs.gov/" title="Indiana" />
+<area alt="Ohio" shape="poly" coords="133,44,145,40,146,47,139,56,133,54" href="http://oh.water.usgs.gov/" title="Ohio" />
+<area alt="Kentucky" shape="poly" coords="125,61,134,55,140,57,142,62,139,66,119,67" href="http://ky.water.usgs.gov/" title="Kentucky" />
+<area alt="Tennessee" shape="poly" coords="118,68,144,66,137,73,116,75" href="http://tn.water.usgs.gov/" title="Tennessee" />
+<area alt="Alabama" shape="poly" coords="122,77,131,76,135,92,127,92,127,97,123,98" href="http://al.water.usgs.gov/" title="Alabama" />
+<area alt="Pennsylvania" shape="poly" coords="146,40,162,39,164,47,148,50" href="http://pa.water.usgs.gov/" title="Pennsylvania" />
+<area alt="West Virginia" shape="poly" coords="143,50,154,50,149,60,142,61,140,56" href="http://wv.water.usgs.gov/" title="West Virginia" />
+<area alt="Georgia" shape="poly" coords="131,74,139,74,152,89,150,92,137,93" href="http://ga.water.usgs.gov/" title="Georgia" />
+<area alt="Florida" shape="poly" coords="128,93,155,94,162,115,152,120,140,100,129,99" href="http://fl.water.usgs.gov/" title="Florida" />
+<area alt="Caribbean" shape="poly" coords="105,111,134,103,147,120,100,132" href="http://pr.water.usgs.gov/" title="Caribbean" />
+<area alt="Alaska" shape="poly" coords="1,85,34,96,37,127,1,120" href="http://alaska.usgs.gov/science/water/index.php" title="Alaska" />
+<area alt="Hawaii" shape="poly" coords="45,101,77,118,68,131,38,116" href="http://hi.water.usgs.gov/" class="." title="Hawaii" />
+<area alt="New York" shape="poly" coords="146,33,158,23,166,23,168,40,162,38,146,39" href="http://ny.water.usgs.gov/" title="New York" />
+<area alt="Vermont" shape="poly" coords="151,14,166,16,171,21,170,30,168,30,167,22,150,22" href="http://vt.water.usgs.gov/" title="Vermont" />
+<area alt="New Hampshire" shape="poly" coords="153,4,169,4,175,29,171,30,171,21,167,15,151,13" href="http://nh.water.usgs.gov/" title="New Hampshire" />
+<area alt="Maine" shape="poly" coords="172,6,189,7,188,17,176,26" href="http://me.water.usgs.gov/" title="Maine" />
+<area alt="Massachusetts" shape="poly" coords="185,19,200,19,199,27,186,27,179,28,175,32,175,34,168,34,169,31,176,29,178,25" href="http://ma.water.usgs.gov/" title="Massachusetts" />
+<area alt="South Carolina" shape="poly" coords="141,73,167,77,162,91,151,86" href="http://sc.water.usgs.gov/" title="South Carolina" />
+<area alt="North Carolina" shape="poly" coords="144,65,164,63,168,67,166,75,140,72" href="http://nc.water.usgs.gov/" title="North Carolina" />
+<area alt="Rhode Island" shape="poly" coords="177,30,182,28,196,28,196,35,177,35,175,37,175,34" href="http://ma.water.usgs.gov/" title="Rhode Island" />
+<area alt="Virginia" shape="poly" coords="143,62,149,60,155,51,160,52,165,62,144,64" href="http://va.water.usgs.gov/" title="Virginia" />
+<area alt="Connecticut" shape="poly" coords="169,35,173,37,176,36,178,35,195,36,190,45,174,44,169,39" href="http://ct.water.usgs.gov/" title="Connecticut" />
+<area alt="New Jersey" shape="poly" coords="164,40,171,44,183,46,181,51,167,52,163,49,166,47" href="http://nj.water.usgs.gov/" title="New Jersey" />
+<area alt="Maryland-Delaware-D.C." shape="poly" coords="164,52,179,53,193,51,188,76,168,65" href="http://md.water.usgs.gov/" title="Maryland-Delaware-D.C." />
+</map>
+
+<a name="skipusgsstates"></a></td>
+<!-- END left side bar section -->
+            </tr>
+        </table>
+        </td>
+        <td width="100%" valign="top">
+        <table id="contenttable" border="0" cellpadding="0" cellspacing="0">
+            <!--DWLayoutTable-->
+            <tr>
+                <!-- START MAIN BODY -->
+<td height="857" valign="top" id="mainbody"><!-- InstanceBeginEditable name="body" -->
+    <h1>Mercury Studies Team</h1>
+
+        <p><img src="images/ela_wl-aerial_th.jpg" alt="ELA aerial view" width="200" height="300" class="picrightborder">The mission of the   Mercury Studies team is to provide expert assistance to the USGS and other state   and Federal agencies in the form of scientific understanding of mercury in the   environment, methods for collecting mercury samples in various media (water,   sediment, biota), and analytical support by maintaining a state-of-the-art   mercury analysis laboratory.</p>
+        <h2>Objectives</h2>
+        <p>The objectives of the Team are to:</p>
+        <blockquote>
+            <p>1) within the team, continually seek high-quality projects through cooperator   contracts, development of project proposals, execution of the project work   elements, and timely completion of reports,</p>
+            <p>2) provide professional consultation and analytical support to other USGS   employees who seek assistance for conducting studies of mercury in the   environment</p>
+            </blockquote>
+        <h2>Team History</h2>
+        <p>During the late 1980s, the Wisconsin DNR became aware that a  surprising number of lakes in remote locations contained game fish with high  levels of mercury.&nbsp; These observations  resulted in the start of the Wisconsin WSC&rsquo;s Mercury Program.</p>
+        <p>The Mercury in  Temperate Lakes (MTL) project and Florida Everglades were the District&rsquo;s first  mercury projects and were directly responsible for redefining what we know  about mercury concentrations, sources, and pathways to fish. The Office of  Water Quality <img src="images/ela/thumbnails/ela_wl-sl_and_dk-99_jpeg.jpg" alt="sampling in the ELA" width="200" height="125" class="picleftborder">provided funding to establish the <a href="../mercury-lab/index.html">USGS  Mercury  Research Laboratory (MRL)</a> in 1994.&nbsp; The  MRL immediately began offering low-level mercury analysis for all the USGS  and initiated a large, multi-agency mercury investigation in the Florida  Everglades.</p>
+        <h2>Methods</h2>
+        <p>Mercury is the most common contaminant of aquatic ecosystems   worldwide, however, its sources, pathways and toxicity controlling processes are   very complex. In addition, sampling and analytical procedures are very exacting   and a great care must be taken to yield reliable data. Some analytical methods are listed at the <a href="../mercury-lab/analysis-methods.html">MRL website Methods</a> page.</p>
+        <p>&nbsp;</p>
+        <table width="647" cellspacing="4" class="datatable-fixed">
+        <tr>
+            <td colspan="3"><h2>National Projects</h2></td>
+        </tr>
+        <tr class="backwisconsin datatablehead">
+            <th width="13%">Project Number</th>
+            <th width="87%">Title</th>
+        </tr>
+        <tr class="datatable" >
+            <td height="48">9BI81</td>
+            <td >NAWQA Mercury Topical Study</td>
+        </tr>
+        <tr class="backgreymedium" >
+            <td height="48">AK710</td>
+            <td ><a href="national-mcae.html">National Assessment Study of Mercury Contamination of Aquatic Ecosystems</a></td>
+        </tr>
+        <tr >
+            <td height="48">&nbsp;</td>
+            <td ><a href="national-hgcycling.html">Mercury Cycling in Aquatic Ecosystems: a National Investigation</a></td>
+        </tr>
+    </table>
+        <table width="647" cellspacing="4" class="datatable-fixed">
+            <tr>
+                <td colspan="3"><h2><a name="current"></a>Current projects, outside Wisconsin</h2></td>
+            </tr>
+            <tr class="backwisconsin datatablehead">
+                <th width="13%">Project Number</th>
+                <th width="44%">Location</th>
+                <th width="43%">Title</th>
+            </tr>
+            <tr class="datatable">
+                <td height="48">0H712</td>
+                <td>Florida Everglades</td>
+                <td><a href="acme.html">Aquatic Cycling of Mercury in the Everglades (ACME)</a></td>
+            </tr>
+            <tr class="backgreymedium datatable">
+                <td height="68">9KB34</td>
+                <td>Lake Pontchartrain Basin, Southern Louisiana </td>
+                <td>Mercury Cycling in the Lake Pontchartrain Basin, Louisiana Project </td>
+            </tr>
+            <tr>
+                <td height="68">ARN00</td>
+                <td>Lostwood National Wildlife Refuge, Northwestern North Dakota</td>
+                <td>Mercury Contamination at the Lostwood National Wildlife Refuge, Northwestern   North Dakota </td>
+            </tr>
+            <tr class="backgreymedium">
+                <td height="77">&nbsp;</td>
+                <td>Canada</td>
+                <td><a href="metaalicus.html">Mercury Experiment to Assess Atmospheric Loading in Canada and the United States (METAALICUS)</a></td>
+            </tr>
+            <tr>
+                <td height="49">&nbsp;</td>
+                <td>Rocky Mountains</td>
+                <td><a href="highalpinelakes.html">Mercury in High Alpine Lakes</a></td>
+            </tr>
+            <tr class="backgreymedium">
+                <td height="68">&nbsp;</td>
+                <td>Yukon region, Alaska</td>
+                <td><a href="yukonriver.html">Methylmercury Formation, Transport and Fate in the Yukon River, Alaska</a></td>
+            </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p></p>
+<!-- InstanceEndEditable --></td>
+<!-- END MAIN BODY -->
+            </tr>
+        </table>
+        </td>
+    </tr>
+</table>
+<table id="contenttable" cellspacing="0">
+    <!--DWLayoutTable-->
+    <tr>
+        <td width="100%" height="16" valign="top"><!-- #BeginLibraryItem "/Library/footer.lbi" -->	<!-- BEGIN USGS Footer Template -->
+	<div id="usgsfooter">
+    <div id="linksfooterbar">
+	<a href="http://www.usgs.gov/" title="USGS Home page">USGS Home</a>
+	<a href="http://water.usgs.gov/" title="USGS Water Resources Discipline">Water Resources</a>
+	<a href="http://biology.usgs.gov/" title="USGS Biological Resources Discipline">Biology</a>
+	<a href="http://geography.usgs.gov/" title="USGS Geography Discipline">Geography</a>
+	<a href="http://geology.usgs.gov/index.htm" title="USGS Geology Discipline">Geology</a>
+	<a href="http://www.usgs.gov/ngpo/" title="USGS National Geospatial Program Office">Geospatial</a>
+</div>
+	<p id="usgsfooterbar">
+		<a href="http://www.usgs.gov/laws/accessibility.html" title="Accessibility Policy (Section 508)">Accessibility</a>
+		<a href="http://www.usgs.gov/foia/" title="Freedom of Information Act">FOIA</a>
+		<a href="http://www.usgs.gov/laws/privacy.html" title="Privacy policies of the U.S. Geological Survey.">Privacy</a>
+		<a href="http://www.usgs.gov/laws/policies_notices.html" title="Policies and notices that govern information posted on USGS Web sites.">Policies and Notices</a>
+	</p>
+		<p id="usgsfootertext">
+        <a href="http://www.takepride.gov/"><img src="http://www.usgs.gov/images/footer_graphic_takePride.jpg" alt="Take Pride in America logo" title="Take Pride in America Home Page" width="60" height="58" /></a>
+		<a href="http://usa.gov/"><img src="http://www.usgs.gov/images/footer_graphic_usagov.jpg" alt="USA.gov logo" width="90" height="26" style="float: right; margin-right: 10px;" title="USAGov: Government Made Easy." /></a>
+		<a href="http://www.doi.gov/">U.S. Department of the Interior</a> | 
+        <a href="http://www.usgs.gov/">U.S. Geological Survey</a>
+        <br />
+	URL: http://wi.water.usgs.gov/mercury/index.html<br />
+	Page Contact Information: <a href="mailto:webmaster@wi.water.usgs.gov">webmaster@wi.water.usgs.gov</a><br />
+	Page Last Modified: Thursday, 23-Oct-2008 13:59:52 EDT
+		</p>
+	</div>
+	<!-- END USGS Footer Template -->
+
+<!--Use the Framework exec cmd when you are on a staging or a state page.   This script interprets the page you are coming from and automatically pulls the RT imagemap file for that state-->
+<map name='real' id='real'>
+<area shape="RECT" coords="265, 82, 273, 90" href="http://waterdata.usgs.gov/nwis/uv?04062000" alt='04062000: Flow=414cfs,Stage=3.73ft,2009-02-05 22:45,High,PAINT RIVER NR ALPHA, MI' title='04062000: Flow=414cfs,Stage=3.73ft,2009-02-05 22:45,High,PAINT RIVER NR ALPHA, MI'  />
+<area shape="RECT" coords="218, 293, 226, 301" href="http://waterdata.usgs.gov/nwis/uv?05429500" alt='05429500: Flow=275cfs,Stage=4.22ft,2009-02-05 22:15,>90,YAHARA RIVER AT MC FARLAND, WI' title='05429500: Flow=275cfs,Stage=4.22ft,2009-02-05 22:15,>90,YAHARA RIVER AT MC FARLAND, WI'  />
+<area shape="RECT" coords="123, 292, 131, 300" href="http://waterdata.usgs.gov/nwis/uv?05389500" alt='05389500: Flow=26800cfs,Stage=13.85ft,Floodstage=16.0ft,2009-02-05 20:00,>90,Mississippi River at McGregor, IA' title='05389500: Flow=26800cfs,Stage=13.85ft,Floodstage=16.0ft,2009-02-05 20:00,>90,Mississippi River at McGregor, IA'  />
+<area shape="RECT" coords="247, 80, 255, 88" href="http://waterdata.usgs.gov/nwis/uv?04060500" alt='04060500: Flow=80cfs,Stage=4.59ft,2009-02-05 23:30,>90,IRON RIVER AT CASPIAN, MI' title='04060500: Flow=80cfs,Stage=4.59ft,2009-02-05 23:30,>90,IRON RIVER AT CASPIAN, MI'  />
+<area shape="RECT" coords="202, 96, 210, 104" href="http://waterdata.usgs.gov/nwis/uv?05391000" alt='05391000: Flow=468cfs,Stage=1.62ft,2009-02-05 22:15,<10,WISCONSIN RIVER @ RAINBOW LAKE NR LAKE TOMAHAWK,WI' title='05391000: Flow=468cfs,Stage=1.62ft,2009-02-05 22:15,<10,WISCONSIN RIVER @ RAINBOW LAKE NR LAKE TOMAHAWK,WI'  />
+<area shape="RECT" coords="207, 67, 215, 75" href="http://waterdata.usgs.gov/nwis/uv?04037500" alt='04037500: Flow=5.1cfs,Stage=4.09ft,2009-02-06 00:00,<10,CISCO BRANCH ONTONAGON R AT CISCO LAKE OUTLET, MI' title='04037500: Flow=5.1cfs,Stage=4.09ft,2009-02-06 00:00,<10,CISCO BRANCH ONTONAGON R AT CISCO LAKE OUTLET, MI'  />
+<area shape="RECT" coords="273, 331, 281, 339" href="http://waterdata.usgs.gov/nwis/uv?05548280" alt='05548280: Flow=194cfs,Stage=4.88ft,2009-02-05 23:30,76-90,NIPPERSINK CREEK NEAR SPRING GROVE, IL' title='05548280: Flow=194cfs,Stage=4.88ft,2009-02-05 23:30,76-90,NIPPERSINK CREEK NEAR SPRING GROVE, IL'  />
+<area shape="RECT" coords="268, 302, 276, 310" href="http://waterdata.usgs.gov/nwis/uv?05544200" alt='05544200: Flow=50cfs,Stage=2.48ft,Floodstage=5.0ft,2009-02-05 22:00,76-90,MUKWONAGO RIVER AT MUKWONAGO, WI' title='05544200: Flow=50cfs,Stage=2.48ft,Floodstage=5.0ft,2009-02-05 22:00,76-90,MUKWONAGO RIVER AT MUKWONAGO, WI'  />
+<area shape="RECT" coords="231, 332, 239, 340" href="http://waterdata.usgs.gov/nwis/uv?05437500" alt='05437500: Flow=5170cfs,Stage=5.12ft,2009-02-05 23:30,76-90,ROCK RIVER AT ROCKTON, IL' title='05437500: Flow=5170cfs,Stage=5.12ft,2009-02-05 23:30,76-90,ROCK RIVER AT ROCKTON, IL'  />
+<area shape="RECT" coords="158, 331, 166, 339" href="http://waterdata.usgs.gov/nwis/uv?05414820" alt='05414820: Flow=32cfs,Stage=4.58ft,2009-02-05 23:45,76-90,SINSINAWA RIVER NEAR MENOMINEE, IL' title='05414820: Flow=32cfs,Stage=4.58ft,2009-02-05 23:45,76-90,SINSINAWA RIVER NEAR MENOMINEE, IL'  />
+<area shape="RECT" coords="86, 163, 94, 171" href="http://waterdata.usgs.gov/nwis/uv?05369000" alt='05369000: Flow=729cfs,Stage=6.21ft,2009-02-05 22:00,10-24,RED CEDAR RIVER AT MENOMONIE, WI' title='05369000: Flow=729cfs,Stage=6.21ft,2009-02-05 22:00,10-24,RED CEDAR RIVER AT MENOMONIE, WI'  />
+<area shape="RECT" coords="112, 160, 120, 168" href="http://waterdata.usgs.gov/nwis/uv?05365500" alt='05365500: Flow=1500cfs,Stage=3.09ft,2009-02-05 22:00,10-24,CHIPPEWA RIVER AT CHIPPEWA FALLS, WI' title='05365500: Flow=1500cfs,Stage=3.09ft,2009-02-05 22:00,10-24,CHIPPEWA RIVER AT CHIPPEWA FALLS, WI'  />
+<area shape="RECT" coords="268, 86, 276, 94" href="http://waterdata.usgs.gov/nwis/uv?04063000" alt='04063000: Flow=845cfs,Stage=3.18ft,Floodstage=9.0ft,2009-02-05 22:45,10-24,MENOMINEE RIVER NEAR FLORENCE, WI' title='04063000: Flow=845cfs,Stage=3.18ft,Floodstage=9.0ft,2009-02-05 22:45,10-24,MENOMINEE RIVER NEAR FLORENCE, WI'  />
+<area shape="RECT" coords="289, 327, 297, 335" href="http://waterdata.usgs.gov/nwis/uv?05527800" alt='05527800: Flow=72cfs,Stage=2.95ft,Floodstage=7.0ft,2009-02-05 23:15,25-75,DES PLAINES RIVER AT RUSSELL, IL' title='05527800: Flow=72cfs,Stage=2.95ft,Floodstage=7.0ft,2009-02-05 23:15,25-75,DES PLAINES RIVER AT RUSSELL, IL'  />
+<area shape="RECT" coords="209, 288, 217, 296" href="http://waterdata.usgs.gov/nwis/uv?05427965" alt='05427965: Flow=0.05cfs,Stage=0.40ft,2009-02-05 22:15,25-75,SPRING HARBOR STORM SEWER AT MADISON, WI' title='05427965: Flow=0.05cfs,Stage=0.40ft,2009-02-05 22:15,25-75,SPRING HARBOR STORM SEWER AT MADISON, WI'  />
+<area shape="RECT" coords="229, 307, 237, 315" href="http://waterdata.usgs.gov/nwis/uv?05427570" alt='05427570: Flow=1080cfs,Stage=11.93ft,2009-02-05 22:15,25-75,ROCK RIVER AT INDIANFORD, WI' title='05427570: Flow=1080cfs,Stage=11.93ft,2009-02-05 22:15,25-75,ROCK RIVER AT INDIANFORD, WI'  />
+<area shape="RECT" coords="196, 284, 204, 292" href="http://waterdata.usgs.gov/nwis/uv?05406500" alt='05406500: Flow=32cfs,Stage=2.06ft,Floodstage=7.0ft,2009-02-05 22:00,25-75,BLACK EARTH CREEK AT BLACK EARTH, WI' title='05406500: Flow=32cfs,Stage=2.06ft,Floodstage=7.0ft,2009-02-05 22:00,25-75,BLACK EARTH CREEK AT BLACK EARTH, WI'  />
+<area shape="RECT" coords="198, 138, 206, 146" href="http://waterdata.usgs.gov/nwis/uv?05394500" alt='05394500: Flow=75cfs,Stage=1.95ft,Floodstage=7.0ft,2009-02-05 22:00,25-75,PRAIRIE RIVER NEAR MERRILL, WI' title='05394500: Flow=75cfs,Stage=1.95ft,Floodstage=7.0ft,2009-02-05 22:00,25-75,PRAIRIE RIVER NEAR MERRILL, WI'  />
+<area shape="RECT" coords="71, 165, 79, 173" href="http://waterdata.usgs.gov/nwis/uv?05370000" alt='05370000: Flow=12cfs,Stage=11.80ft,2009-02-05 22:00,25-75,EAU GALLE RIVER AT SPRING VALLEY, WI' title='05370000: Flow=12cfs,Stage=11.80ft,2009-02-05 22:00,25-75,EAU GALLE RIVER AT SPRING VALLEY, WI'  />
+<area shape="RECT" coords="128, 96, 136, 104" href="http://waterdata.usgs.gov/nwis/uv?05356000" alt='05356000: Flow=507cfs,Stage=4.83ft,Floodstage=11.0ft,2009-02-05 22:15,25-75,CHIPPEWA RIVER AT BISHOPS BRIDGE NEAR WINTER, WI' title='05356000: Flow=507cfs,Stage=4.83ft,Floodstage=11.0ft,2009-02-05 22:15,25-75,CHIPPEWA RIVER AT BISHOPS BRIDGE NEAR WINTER, WI'  />
+<area shape="RECT" coords="51, 126, 59, 134" href="http://waterdata.usgs.gov/nwis/uv?05340500" alt='05340500: Flow=1740cfs,Stage=2.69ft,2009-02-05 22:15,25-75,ST. CROIX RIVER AT ST. CROIX FALLS, WI' title='05340500: Flow=1740cfs,Stage=2.69ft,2009-02-05 22:15,25-75,ST. CROIX RIVER AT ST. CROIX FALLS, WI'  />
+<area shape="RECT" coords="294, 309, 302, 317" href="http://waterdata.usgs.gov/nwis/uv?04087240" alt='04087240: Flow=30cfs,Stage=2.44ft,2009-02-05 22:15,25-75,ROOT RIVER AT RACINE, WI' title='04087240: Flow=30cfs,Stage=2.44ft,2009-02-05 22:15,25-75,ROOT RIVER AT RACINE, WI'  />
+<area shape="RECT" coords="136, 51, 144, 59" href="http://waterdata.usgs.gov/nwis/uv?04027500" alt='04027500: Flow=204cfs,Stage=1.29ft,2009-02-05 22:15,25-75,WHITE RIVER NEAR ASHLAND, WI' title='04027500: Flow=204cfs,Stage=1.29ft,2009-02-05 22:15,25-75,WHITE RIVER NEAR ASHLAND, WI'  />
+<area shape="RECT" coords="79, 31, 87, 39" href="http://waterdata.usgs.gov/nwis/uv?464646092052900" alt='464646092052900: Stage=600.95ft,2009-02-05 22:25:00,Not ranked,Rating being developed or revised,SUPERIOR BAY DULUTH SHIP CANAL AT DULUTH, MN' title='464646092052900: Stage=600.95ft,2009-02-05 22:25:00,Not ranked,Rating being developed or revised,SUPERIOR BAY DULUTH SHIP CANAL AT DULUTH, MN'  />
+<area shape="RECT" coords="177, 74, 185, 82" href="http://waterdata.usgs.gov/nwis/uv?460930090035900" alt='460930090035900: Stage=1583.86ft,2009-02-05 19:00:00,Not ranked,MERCER LAKE AT MERCER, WI' title='460930090035900: Stage=1583.86ft,2009-02-05 19:00:00,Not ranked,MERCER LAKE AT MERCER, WI'  />
+<area shape="RECT" coords="300, 186, 308, 194" href="http://waterdata.usgs.gov/nwis/uv?443014087362500" alt='443014087362500: Flow=0.000080cfs,Stage=0.012ft,2009-02-05 21:00,Not ranked,DISCOVERY FARMS TILE SITE NUMBER 2 NR KEWAUNEE, WI' title='443014087362500: Flow=0.000080cfs,Stage=0.012ft,2009-02-05 21:00,Not ranked,DISCOVERY FARMS TILE SITE NUMBER 2 NR KEWAUNEE, WI'  />
+<area shape="RECT" coords="300, 186, 308, 194" href="http://waterdata.usgs.gov/nwis/uv?443012087362500" alt='443012087362500: Flow=0.005870cfs,Stage=0.039ft,2009-02-05 21:00,Not ranked,DISCOVERY FARMS WATERWAY SITE NO. 3 NR KEWAUNEE,WI' title='443012087362500: Flow=0.005870cfs,Stage=0.039ft,2009-02-05 21:00,Not ranked,DISCOVERY FARMS WATERWAY SITE NO. 3 NR KEWAUNEE,WI'  />
+<area shape="RECT" coords="301, 187, 309, 195" href="http://waterdata.usgs.gov/nwis/uv?442945087354100" alt='442945087354100: Flow=0.000000cfs,Stage=-0.010ft,2009-02-05 21:00,Not ranked,DISCOVERY FARMS TILE SITE NUMBER 1 NR KEWAUNEE, WI' title='442945087354100: Flow=0.000000cfs,Stage=-0.010ft,2009-02-05 21:00,Not ranked,DISCOVERY FARMS TILE SITE NUMBER 1 NR KEWAUNEE, WI'  />
+<area shape="RECT" coords="301, 187, 309, 195" href="http://waterdata.usgs.gov/nwis/uv?442944087354100" alt='442944087354100: Flow=0.000360cfs,Stage=0.027ft,2009-02-05 21:00,Not ranked,DISCOVERY FARMS WATERWAY SITE NO. 1 NR KEWAUNEE,WI' title='442944087354100: Flow=0.000360cfs,Stage=0.027ft,2009-02-05 21:00,Not ranked,DISCOVERY FARMS WATERWAY SITE NO. 1 NR KEWAUNEE,WI'  />
+<area shape="RECT" coords="293, 228, 301, 236" href="http://waterdata.usgs.gov/nwis/uv?435444087462300" alt='435444087462300: Flow=0.000000cfs,Stage=-0.018ft,2009-02-05 20:00,Not ranked,DISCOVERY FARMS WATERWAY NUMBER 2 NR CLEVELAND, WI' title='435444087462300: Flow=0.000000cfs,Stage=-0.018ft,2009-02-05 20:00,Not ranked,DISCOVERY FARMS WATERWAY NUMBER 2 NR CLEVELAND, WI'  />
+<area shape="RECT" coords="293, 228, 301, 236" href="http://waterdata.usgs.gov/nwis/uv?435441087463900" alt='435441087463900: Flow=0.000000cfs,Stage=-0.017ft,2009-02-05 20:00,Not ranked,DISCOVERY FARMS WATERWAY NUMBER 1 NR CLEVELAND, WI' title='435441087463900: Flow=0.000000cfs,Stage=-0.017ft,2009-02-05 20:00,Not ranked,DISCOVERY FARMS WATERWAY NUMBER 1 NR CLEVELAND, WI'  />
+<area shape="RECT" coords="293, 228, 301, 236" href="http://waterdata.usgs.gov/nwis/uv?435440087463800" alt='435440087463800: Flow=0.000000cfs,Stage=-0.014ft,2009-02-05 07:00,Not ranked,DISCOVERY FARMS TILE SITE NUMBER 2 NR CLEVELAND,WI' title='435440087463800: Flow=0.000000cfs,Stage=-0.014ft,2009-02-05 07:00,Not ranked,DISCOVERY FARMS TILE SITE NUMBER 2 NR CLEVELAND,WI'  />
+<area shape="RECT" coords="293, 228, 301, 236" href="http://waterdata.usgs.gov/nwis/uv?435414087471400" alt='435414087471400: Flow=0.000000cfs,Stage=-0.010ft,2009-02-05 19:00,Not ranked,DISCOVERY FARMS WATERWAY NUMBER 3 NR CLEVELAND, WI' title='435414087471400: Flow=0.000000cfs,Stage=-0.010ft,2009-02-05 19:00,Not ranked,DISCOVERY FARMS WATERWAY NUMBER 3 NR CLEVELAND, WI'  />
+<area shape="RECT" coords="236, 235, 244, 243" href="http://waterdata.usgs.gov/nwis/uv?434928088553601" alt='434928088553601: Stage=6.34ft,2009-02-05 22:00:00,Not ranked,GREEN LAKE AT COUNTY TRUNK HWY A NR GREEN LAKE, WI' title='434928088553601: Stage=6.34ft,2009-02-05 22:00:00,Not ranked,GREEN LAKE AT COUNTY TRUNK HWY A NR GREEN LAKE, WI'  />
+<area shape="RECT" coords="260, 279, 268, 287" href="http://waterdata.usgs.gov/nwis/uv?431113088281000" alt='431113088281000: Flow=0.017250cfs,Stage=0.164ft,2009-02-05 20:00,Not ranked,DISCOVERY FARMS TILE SITE NO. 1 NEAR MAPLETON, WI' title='431113088281000: Flow=0.017250cfs,Stage=0.164ft,2009-02-05 20:00,Not ranked,DISCOVERY FARMS TILE SITE NO. 1 NEAR MAPLETON, WI'  />
+<area shape="RECT" coords="260, 279, 268, 287" href="http://waterdata.usgs.gov/nwis/uv?431112088281000" alt='431112088281000: Flow=0.025160cfs,Stage=0.203ft,2009-02-05 20:00,Not ranked,DISCOVERY FARMS TILE SITE NO. 2 NEAR MAPLETON, WI' title='431112088281000: Flow=0.025160cfs,Stage=0.203ft,2009-02-05 20:00,Not ranked,DISCOVERY FARMS TILE SITE NO. 2 NEAR MAPLETON, WI'  />
+<area shape="RECT" coords="218, 284, 226, 292" href="http://waterdata.usgs.gov/nwis/uv?430748089181800" alt='430748089181800: Not ranked,Rating being developed or revised,EAST WASHINGTON AVENUE STORM SEWER AT MADISON, WI' title='430748089181800: Not ranked,Rating being developed or revised,EAST WASHINGTON AVENUE STORM SEWER AT MADISON, WI'  />
+<area shape="RECT" coords="213, 289, 221, 297" href="http://waterdata.usgs.gov/nwis/uv?430412089241501" alt='430412089241501: Not ranked,Site discontinued,CHARTER ST. POWER PLANT STORM SEWER AT MADISON, WI' title='430412089241501: Not ranked,Site discontinued,CHARTER ST. POWER PLANT STORM SEWER AT MADISON, WI'  />
+<area shape="RECT" coords="219, 297, 227, 305" href="http://waterdata.usgs.gov/nwis/uv?425715089164700" alt='425715089164700: Stage=2.44ft,2009-02-05 22:30:00,Not ranked,LAKE KEGONSA AT BARBER DRIVE NEAR STOUGHTON, WI' title='425715089164700: Stage=2.44ft,2009-02-05 22:30:00,Not ranked,LAKE KEGONSA AT BARBER DRIVE NEAR STOUGHTON, WI'  />
+<area shape="RECT" coords="277, 305, 285, 313" href="http://waterdata.usgs.gov/nwis/uv?424848088083100" alt='424848088083100: Stage=8.01ft,2009-02-05 22:00:00,Not ranked,WIND LAKE AT OUTLET AT WIND LAKE, WI' title='424848088083100: Stage=8.01ft,2009-02-05 22:00:00,Not ranked,WIND LAKE AT OUTLET AT WIND LAKE, WI'  />
+<area shape="RECT" coords="162, 314, 170, 322" href="http://waterdata.usgs.gov/nwis/uv?424317090241401" alt='424317090241401: Flow=0.000000cfs,Stage=-0.024ft,2009-02-05 22:00,Not ranked,U.W. PLATTEVILLE FARMS SITE 2B NEAR PLATTEVILLE,WI' title='424317090241401: Flow=0.000000cfs,Stage=-0.024ft,2009-02-05 22:00,Not ranked,U.W. PLATTEVILLE FARMS SITE 2B NEAR PLATTEVILLE,WI'  />
+<area shape="RECT" coords="162, 314, 170, 322" href="http://waterdata.usgs.gov/nwis/uv?424314090240601" alt='424314090240601: Flow=0.000000cfs,Stage=-0.022ft,2009-02-05 19:45,Not ranked,U.W. PLATTEVILLE FARMS SITE 02 NR PLATTEVILLE, WI' title='424314090240601: Flow=0.000000cfs,Stage=-0.022ft,2009-02-05 19:45,Not ranked,U.W. PLATTEVILLE FARMS SITE 02 NR PLATTEVILLE, WI'  />
+<area shape="RECT" coords="163, 314, 171, 322" href="http://waterdata.usgs.gov/nwis/uv?424302090231900" alt='424302090231900: Not ranked,Temporarily unavailable,U.W. PLATTEVILLE FARMS SITE 10 NR PLATTEVILLE, WI' title='424302090231900: Not ranked,Temporarily unavailable,U.W. PLATTEVILLE FARMS SITE 10 NR PLATTEVILLE, WI'  />
+<area shape="RECT" coords="163, 314, 171, 322" href="http://waterdata.usgs.gov/nwis/uv?424302090225601" alt='424302090225601: Flow=19.130000cfs,2009-01-03 09:45,Stage=3.000ft,2009-01-03 19:05:00,Not ranked,U.W. PLATTEVILLE FARMS SITE 03 NR PLATTEVILLE, WI' title='424302090225601: Flow=19.130000cfs,2009-01-03 09:45,Stage=3.000ft,2009-01-03 19:05:00,Not ranked,U.W. PLATTEVILLE FARMS SITE 03 NR PLATTEVILLE, WI'  />
+<area shape="RECT" coords="163, 314, 171, 322" href="http://waterdata.usgs.gov/nwis/uv?424259090231301" alt='424259090231301: Flow=0.005000cfs,Stage=0.044ft,2009-01-03 19:05,Not ranked,U.W. PLATTEVILLE FARMS SITE 05 NR PLATTEVILLE, WI' title='424259090231301: Flow=0.005000cfs,Stage=0.044ft,2009-01-03 19:05,Not ranked,U.W. PLATTEVILLE FARMS SITE 05 NR PLATTEVILLE, WI'  />
+<area shape="RECT" coords="163, 314, 171, 322" href="http://waterdata.usgs.gov/nwis/uv?424253090232100" alt='424253090232100: Flow=0.000000cfs,Stage=-0.014ft,2008-12-11 06:15,Not ranked,U.W. PLATTEVILLE FARMS SITE 11 NR PLATTEVILLE, WI' title='424253090232100: Flow=0.000000cfs,Stage=-0.014ft,2008-12-11 06:15,Not ranked,U.W. PLATTEVILLE FARMS SITE 11 NR PLATTEVILLE, WI'  />
+<area shape="RECT" coords="163, 314, 171, 322" href="http://waterdata.usgs.gov/nwis/uv?424246090231700" alt='424246090231700: Not ranked,Seasonal site,U.W. PLATTEVILLE FARMS SITE 12A NR PLATTEVILLE, WI' title='424246090231700: Not ranked,Seasonal site,U.W. PLATTEVILLE FARMS SITE 12A NR PLATTEVILLE, WI'  />
+<area shape="RECT" coords="163, 314, 171, 322" href="http://waterdata.usgs.gov/nwis/uv?424245090231600" alt='424245090231600: Not ranked,Temporarily unavailable,U.W. PLATTEVILLE FARMS SITE 12B NR PLATTEVILLE, WI' title='424245090231600: Not ranked,Temporarily unavailable,U.W. PLATTEVILLE FARMS SITE 12B NR PLATTEVILLE, WI'  />
+<area shape="RECT" coords="163, 314, 171, 322" href="http://waterdata.usgs.gov/nwis/uv?424245090231000" alt='424245090231000: Flow=0.000000cfs,Stage=-0.005ft,2009-02-05 22:00,Not ranked,U.W. PLATTEVILLE FARMS SITE 08 NR PLATTEVILLE, WI' title='424245090231000: Flow=0.000000cfs,Stage=-0.005ft,2009-02-05 22:00,Not ranked,U.W. PLATTEVILLE FARMS SITE 08 NR PLATTEVILLE, WI'  />
+<area shape="RECT" coords="163, 314, 171, 322" href="http://waterdata.usgs.gov/nwis/uv?424242090230701" alt='424242090230701: Flow=0.000000cfs,Stage=-0.004ft,2009-02-05 21:45,Not ranked,U.W. PLATTEVILLE FARMS SITE 07 NR PLATTEVILLE, WI' title='424242090230701: Flow=0.000000cfs,Stage=-0.004ft,2009-02-05 21:45,Not ranked,U.W. PLATTEVILLE FARMS SITE 07 NR PLATTEVILLE, WI'  />
+<area shape="RECT" coords="168, 318, 176, 326" href="http://waterdata.usgs.gov/nwis/uv?423912090170800" alt='423912090170800: Flow=0.000000cfs,Stage=-0.015ft,2009-02-05 19:00,Not ranked,DISCOVERY FARMS WATERWAY SITE NO 1 NEAR BELMONT,WI' title='423912090170800: Flow=0.000000cfs,Stage=-0.015ft,2009-02-05 19:00,Not ranked,DISCOVERY FARMS WATERWAY SITE NO 1 NEAR BELMONT,WI'  />
+<area shape="RECT" coords="168, 318, 176, 326" href="http://waterdata.usgs.gov/nwis/uv?423909090172100" alt='423909090172100: Flow=0.000540cfs,Stage=0.013ft,2009-02-05 19:00,Not ranked,DISCOVERY FARMS WATERWAY SITE NO 2 NEAR BELMONT,WI' title='423909090172100: Flow=0.000540cfs,Stage=0.013ft,2009-02-05 19:00,Not ranked,DISCOVERY FARMS WATERWAY SITE NO 2 NEAR BELMONT,WI'  />
+<area shape="RECT" coords="168, 319, 176, 327" href="http://waterdata.usgs.gov/nwis/uv?423846090171600" alt='423846090171600: Flow=0.001260cfs,Stage=0.017ft,2009-02-05 19:00,Not ranked,DISCOVERY FARMS WATERWAY SITE NO 3 NEAR BELMONT,WI' title='423846090171600: Flow=0.001260cfs,Stage=0.017ft,2009-02-05 19:00,Not ranked,DISCOVERY FARMS WATERWAY SITE NO 3 NEAR BELMONT,WI'  />
+<area shape="RECT" coords="254, 320, 262, 328" href="http://waterdata.usgs.gov/nwis/uv?423706088363400" alt='423706088363400: Stage=4.98ft,2009-02-05 22:00:00,Not ranked,DELAVAN LAKE NEAR DELAVAN, WI' title='423706088363400: Stage=4.98ft,2009-02-05 22:00:00,Not ranked,DELAVAN LAKE NEAR DELAVAN, WI'  />
+<area shape="RECT" coords="263, 321, 271, 329" href="http://waterdata.usgs.gov/nwis/uv?423525088260400" alt='423525088260400: Not ranked,GENEVA LAKE AT LAKE GENEVA, WI' title='423525088260400: Not ranked,GENEVA LAKE AT LAKE GENEVA, WI'  />
+<area shape="RECT" coords="177, 74, 185, 82" href="http://waterdata.usgs.gov/nwis/uv?0535739503" alt='0535739503: Flow=3.9cfs,Stage=2.05ft,2009-02-05 20:00,Not ranked,LITTLE TURTLE RIVER AT GARNET STREET AT MERCER, WI' title='0535739503: Flow=3.9cfs,Stage=2.05ft,2009-02-05 20:00,Not ranked,LITTLE TURTLE RIVER AT GARNET STREET AT MERCER, WI'  />
+<area shape="RECT" coords="263, 321, 271, 329" href="http://waterdata.usgs.gov/nwis/uv?055451345" alt='055451345: Flow=28cfs,Stage=8.72ft,2009-02-05 18:00,Not ranked,WHITE RIVER AT CENTER STREET AT LAKE GENEVA, WI' title='055451345: Flow=28cfs,Stage=8.72ft,2009-02-05 18:00,Not ranked,WHITE RIVER AT CENTER STREET AT LAKE GENEVA, WI'  />
+<area shape="RECT" coords="257, 317, 265, 325" href="http://waterdata.usgs.gov/nwis/uv?054310157" alt='054310157: Stage=5.52ft,2009-02-05 22:00:00,Not ranked,Ice affected,JACKSON CREEK TRIBUTARY NEAR ELKHORN, WI' title='054310157: Stage=5.52ft,2009-02-05 22:00:00,Not ranked,Ice affected,JACKSON CREEK TRIBUTARY NEAR ELKHORN, WI'  />
+<area shape="RECT" coords="139, 204, 147, 212" href="http://waterdata.usgs.gov/nwis/uv?053813595" alt='053813595: Stage=35.60ft,2009-02-05 22:00:00,Floodstage=47.0ft,Not ranked,Ice affected,BLACK RIVER DS ST HWY 54 AT BLACK RIVER FALLS, WI' title='053813595: Stage=35.60ft,2009-02-05 22:00:00,Floodstage=47.0ft,Not ranked,Ice affected,BLACK RIVER DS ST HWY 54 AT BLACK RIVER FALLS, WI'  />
+<area shape="RECT" coords="286, 292, 294, 300" href="http://waterdata.usgs.gov/nwis/uv?040871488" alt='040871488: Flow=3.7cfs,Stage=10.98ft,2009-02-05 22:00,Not ranked,WILSON PARK CR @ ST. LUKES HOSPTL @ MILWAUKEE, WI' title='040871488: Flow=3.7cfs,Stage=10.98ft,2009-02-05 22:00,Not ranked,WILSON PARK CR @ ST. LUKES HOSPTL @ MILWAUKEE, WI'  />
+<area shape="RECT" coords="289, 295, 297, 303" href="http://waterdata.usgs.gov/nwis/uv?040871476" alt='040871476: Flow=0.03cfs,Stage=0.16ft,2009-02-05 21:00,Not ranked,HOLMES AVE CR TRB @ GMIA OUTFALL #1 @ MILWAUKEE,WI' title='040871476: Flow=0.03cfs,Stage=0.16ft,2009-02-05 21:00,Not ranked,HOLMES AVE CR TRB @ GMIA OUTFALL #1 @ MILWAUKEE,WI'  />
+<area shape="RECT" coords="289, 295, 297, 303" href="http://waterdata.usgs.gov/nwis/uv?040871475" alt='040871475: Flow=0.50cfs,Stage=10.82ft,2009-02-05 21:55,Not ranked,WILSON PARK CREEK @ GMIA OUTFALL #7 @ MILWAUKEE,WI' title='040871475: Flow=0.50cfs,Stage=10.82ft,2009-02-05 21:55,Not ranked,WILSON PARK CREEK @ GMIA OUTFALL #7 @ MILWAUKEE,WI'  />
+<area shape="RECT" coords="290, 295, 298, 303" href="http://waterdata.usgs.gov/nwis/uv?040871473" alt='040871473: Flow=0.21cfs,Stage=10.66ft,2009-02-05 12:05,Not ranked,WILSON PARK CREEK AT GMIA INFALL AT MILWAUKEE, WI' title='040871473: Flow=0.21cfs,Stage=10.66ft,2009-02-05 12:05,Not ranked,WILSON PARK CREEK AT GMIA INFALL AT MILWAUKEE, WI'  />
+<area shape="RECT" coords="285, 285, 293, 293" href="http://waterdata.usgs.gov/nwis/uv?040869416" alt='040869416: Stage=3.89ft,2009-02-05 22:15:00,Not ranked,Ice affected,LINCOLN CREEK @ SHERMAN BOULEVARD AT MILWAUKEE, WI' title='040869416: Stage=3.89ft,2009-02-05 22:15:00,Not ranked,Ice affected,LINCOLN CREEK @ SHERMAN BOULEVARD AT MILWAUKEE, WI'  />
+<area shape="RECT" coords="280, 185, 288, 193" href="http://waterdata.usgs.gov/nwis/uv?040851385" alt='040851385: Flow=779cfs,Stage=577.70ft,Floodstage=584.0ft,2009-02-05 14:00,Not ranked,FOX RIVER AT OIL TANK DEPOT AT GREEN BAY, WI' title='040851385: Flow=779cfs,Stage=577.70ft,Floodstage=584.0ft,2009-02-05 14:00,Not ranked,FOX RIVER AT OIL TANK DEPOT AT GREEN BAY, WI'  />
+<area shape="RECT" coords="284, 187, 292, 195" href="http://waterdata.usgs.gov/nwis/uv?040851325" alt='040851325: Flow=4.4cfs,Stage=2.10ft,2009-02-05 21:45,Not ranked,BAIRD CREEK AT SUPERIOR ROAD AT GREEN BAY, WI' title='040851325: Flow=4.4cfs,Stage=2.10ft,2009-02-05 21:45,Not ranked,BAIRD CREEK AT SUPERIOR ROAD AT GREEN BAY, WI'  />
+<area shape="RECT" coords="129, 47, 137, 55" href="http://waterdata.usgs.gov/nwis/uv?040263491" alt='040263491: Flow=51cfs,Stage=6.71ft,Floodstage=12.0ft,2009-02-05 22:15,Not ranked,NORTH FISH CREEK NEAR MOQUAH, WI' title='040263491: Flow=51cfs,Stage=6.71ft,Floodstage=12.0ft,2009-02-05 22:15,Not ranked,NORTH FISH CREEK NEAR MOQUAH, WI'  />
+<area shape="RECT" coords="134, 44, 142, 52" href="http://waterdata.usgs.gov/nwis/uv?040263205" alt='040263205: Flow=17cfs,Stage=1.38ft,Floodstage=5.0ft,2009-02-05 22:00,Not ranked,WHITTLESEY CREEK NEAR ASHLAND, WI' title='040263205: Flow=17cfs,Stage=1.38ft,Floodstage=5.0ft,2009-02-05 22:00,Not ranked,WHITTLESEY CREEK NEAR ASHLAND, WI'  />
+<area shape="RECT" coords="276, 334, 284, 342" href="http://waterdata.usgs.gov/nwis/uv?05548000" alt='05548000: Stage=2.97ft,2009-02-05 23:30:00,Not ranked,NIPPERSINK LAKE AT FOX LAKE, IL' title='05548000: Stage=2.97ft,2009-02-05 23:30:00,Not ranked,NIPPERSINK LAKE AT FOX LAKE, IL'  />
+<area shape="RECT" coords="279, 333, 287, 341" href="http://waterdata.usgs.gov/nwis/uv?05547500" alt='05547500: Stage=3.01ft,2009-02-05 23:30:00,Not ranked,FOX LAKE NEAR LAKE VILLA, IL' title='05547500: Stage=3.01ft,2009-02-05 23:30:00,Not ranked,FOX LAKE NEAR LAKE VILLA, IL'  />
+<area shape="RECT" coords="278, 329, 286, 337" href="http://waterdata.usgs.gov/nwis/uv?05547000" alt='05547000: Stage=3.23ft,2009-02-05 23:30:00,Not ranked,CHANNEL LAKE NEAR ANTIOCH, IL' title='05547000: Stage=3.23ft,2009-02-05 23:30:00,Not ranked,CHANNEL LAKE NEAR ANTIOCH, IL'  />
+<area shape="RECT" coords="273, 319, 281, 327" href="http://waterdata.usgs.gov/nwis/uv?05545750" alt='05545750: Stage=7.72ft,2009-02-05 22:00:00,Not ranked,Ice affected,FOX RIVER NEAR NEW MUNSTER, WI' title='05545750: Stage=7.72ft,2009-02-05 22:00:00,Not ranked,Ice affected,FOX RIVER NEAR NEW MUNSTER, WI'  />
+<area shape="RECT" coords="272, 292, 280, 300" href="http://waterdata.usgs.gov/nwis/uv?05543830" alt='05543830: Stage=2.92ft,2009-02-05 22:00:00,Not ranked,Ice affected,FOX RIVER AT WAUKESHA, WI' title='05543830: Stage=2.92ft,2009-02-05 22:00:00,Not ranked,Ice affected,FOX RIVER AT WAUKESHA, WI'  />
+<area shape="RECT" coords="287, 333, 295, 341" href="http://waterdata.usgs.gov/nwis/uv?05527950" alt='05527950: Flow=28cfs,Stage=6.80ft,2009-02-05 22:45,Not ranked,MILL CREEK AT OLD MILL CREEK, IL' title='05527950: Flow=28cfs,Stage=6.80ft,2009-02-05 22:45,Not ranked,MILL CREEK AT OLD MILL CREEK, IL'  />
+<area shape="RECT" coords="285, 331, 293, 339" href="http://waterdata.usgs.gov/nwis/uv?05527910" alt='05527910: Stage=16.91ft,2009-02-05 23:15:00,Not ranked,NORTH MILL CREEK NEAR MILBURN, IL' title='05527910: Stage=16.91ft,2009-02-05 23:15:00,Not ranked,NORTH MILL CREEK NEAR MILBURN, IL'  />
+<area shape="RECT" coords="284, 330, 292, 338" href="http://waterdata.usgs.gov/nwis/uv?05527905" alt='05527905: Stage=12.40ft,2009-02-05 23:15:00,Not ranked,HASTINGS CREEK NEAR LINDENHURST, IL' title='05527905: Stage=12.40ft,2009-02-05 23:15:00,Not ranked,HASTINGS CREEK NEAR LINDENHURST, IL'  />
+<area shape="RECT" coords="285, 329, 293, 337" href="http://waterdata.usgs.gov/nwis/uv?05527900" alt='05527900: Stage=6.84ft,2009-02-05 23:15:00,Not ranked,NORTH MILL CREEK AT HICKORY CORNERS, IL' title='05527900: Stage=6.84ft,2009-02-05 23:15:00,Not ranked,NORTH MILL CREEK AT HICKORY CORNERS, IL'  />
+<area shape="RECT" coords="251, 326, 259, 334" href="http://waterdata.usgs.gov/nwis/uv?05438283" alt='05438283: Flow=2.7cfs,Stage=4.80ft,2009-02-05 22:00,Not ranked,PISCASAW CREEK NEAR WALWORTH, WI' title='05438283: Flow=2.7cfs,Stage=4.80ft,2009-02-05 22:00,Not ranked,PISCASAW CREEK NEAR WALWORTH, WI'  />
+<area shape="RECT" coords="225, 333, 233, 341" href="http://waterdata.usgs.gov/nwis/uv?05437050" alt='05437050: Flow=2580cfs,Stage=7.06ft,Floodstage=12.0ft,2009-02-05 23:30,Not ranked,PECATONICA RIVER NR SHIRLAND, ILL' title='05437050: Flow=2580cfs,Stage=7.06ft,Floodstage=12.0ft,2009-02-05 23:30,Not ranked,PECATONICA RIVER NR SHIRLAND, ILL'  />
+<area shape="RECT" coords="214, 321, 222, 329" href="http://waterdata.usgs.gov/nwis/uv?05436500" alt='05436500: Stage=2.11ft,2009-02-05 22:00:00,Floodstage=5.0ft,Not ranked,Ice affected,SUGAR RIVER NEAR BRODHEAD, WI' title='05436500: Stage=2.11ft,2009-02-05 22:00:00,Floodstage=5.0ft,Not ranked,Ice affected,SUGAR RIVER NEAR BRODHEAD, WI'  />
+<area shape="RECT" coords="206, 295, 214, 303" href="http://waterdata.usgs.gov/nwis/uv?05435943" alt='05435943: Flow=11cfs,Stage=4.33ft,2009-02-05 22:00,Not ranked,BADGER MILL CREEK AT VERONA, WI' title='05435943: Flow=11cfs,Stage=4.33ft,2009-02-05 22:00,Not ranked,BADGER MILL CREEK AT VERONA, WI'  />
+<area shape="RECT" coords="208, 294, 216, 302" href="http://waterdata.usgs.gov/nwis/uv?05435935" alt='05435935: Flow=-0.80cfs,Stage=0.926ft,2009-02-05 22:00,Not ranked,BADGER MILL CREEK @ HIGHWAYS 18 & 151 @ MADISON,WI' title='05435935: Flow=-0.80cfs,Stage=0.926ft,2009-02-05 22:00,Not ranked,BADGER MILL CREEK @ HIGHWAYS 18 & 151 @ MADISON,WI'  />
+<area shape="RECT" coords="193, 328, 201, 336" href="http://waterdata.usgs.gov/nwis/uv?05434500" alt='05434500: Stage=6.34ft,2009-02-05 22:15:00,Floodstage=13.5ft,Not ranked,Ice affected,PECATONICA RIVER AT MARTINTOWN, WI' title='05434500: Stage=6.34ft,2009-02-05 22:15:00,Floodstage=13.5ft,Not ranked,Ice affected,PECATONICA RIVER AT MARTINTOWN, WI'  />
+<area shape="RECT" coords="190, 309, 198, 317" href="http://waterdata.usgs.gov/nwis/uv?05433000" alt='05433000: Stage=5.50ft,2009-02-05 22:00:00,Floodstage=11.0ft,Not ranked,Ice affected,EAST BRANCH PECATONICA RIVER NR BLANCHARDVILLE, WI' title='05433000: Stage=5.50ft,2009-02-05 22:00:00,Floodstage=11.0ft,Not ranked,Ice affected,EAST BRANCH PECATONICA RIVER NR BLANCHARDVILLE, WI'  />
+<area shape="RECT" coords="193, 298, 201, 306" href="http://waterdata.usgs.gov/nwis/uv?05432927" alt='05432927: Flow=39cfs,Stage=9.97ft,2009-02-05 21:45,Not ranked,PLEASANT VALLEY CREEK @ CTH H NR BLANCHARDVILLE,WI' title='05432927: Flow=39cfs,Stage=9.97ft,2009-02-05 21:45,Not ranked,PLEASANT VALLEY CREEK @ CTH H NR BLANCHARDVILLE,WI'  />
+<area shape="RECT" coords="187, 298, 195, 306" href="http://waterdata.usgs.gov/nwis/uv?05432695" alt='05432695: Flow=7.1cfs,Stage=7.57ft,2009-02-05 21:45,Not ranked,RIDGEWAY BRANCH NEAR HOLLANDALE, WI' title='05432695: Flow=7.1cfs,Stage=7.57ft,2009-02-05 21:45,Not ranked,RIDGEWAY BRANCH NEAR HOLLANDALE, WI'  />
+<area shape="RECT" coords="177, 316, 185, 324" href="http://waterdata.usgs.gov/nwis/uv?05432500" alt='05432500: Stage=2.91ft,2009-02-05 22:00:00,Floodstage=13.5ft,Not ranked,Ice affected,PECATONICA RIVER AT DARLINGTON, WI' title='05432500: Stage=2.91ft,2009-02-05 22:00:00,Floodstage=13.5ft,Not ranked,Ice affected,PECATONICA RIVER AT DARLINGTON, WI'  />
+<area shape="RECT" coords="243, 321, 251, 329" href="http://waterdata.usgs.gov/nwis/uv?05431486" alt='05431486: Stage=4.59ft,2009-02-05 22:00:00,Floodstage=8.0ft,Not ranked,Ice affected,TURTLE CREEK AT CARVERS ROCK ROAD NEAR CLINTON, WI' title='05431486: Stage=4.59ft,2009-02-05 22:00:00,Floodstage=8.0ft,Not ranked,Ice affected,TURTLE CREEK AT CARVERS ROCK ROAD NEAR CLINTON, WI'  />
+<area shape="RECT" coords="251, 318, 259, 326" href="http://waterdata.usgs.gov/nwis/uv?05431032" alt='05431032: Flow=43cfs,Stage=1.73ft,2009-02-05 22:15,Not ranked,TURTLE CREEK AT DELAVAN, WI' title='05431032: Flow=43cfs,Stage=1.73ft,2009-02-05 22:15,Not ranked,TURTLE CREEK AT DELAVAN, WI'  />
+<area shape="RECT" coords="253, 320, 261, 328" href="http://waterdata.usgs.gov/nwis/uv?05431022" alt='05431022: Flow=6.4cfs,Stage=5.28ft,2009-02-05 22:15,Not ranked,DELAVAN LAKE OUTLET AT BORG ROAD NEAR DELAVAN, WI' title='05431022: Flow=6.4cfs,Stage=5.28ft,2009-02-05 22:15,Not ranked,DELAVAN LAKE OUTLET AT BORG ROAD NEAR DELAVAN, WI'  />
+<area shape="RECT" coords="255, 319, 263, 327" href="http://waterdata.usgs.gov/nwis/uv?05431017" alt='05431017: Flow=5.4cfs,Stage=27.81ft,2009-02-05 16:00,Not ranked,DELAVAN LAKE INLET AT STATE HWY 50 AT LAKE LAWN,WI' title='05431017: Flow=5.4cfs,Stage=27.81ft,2009-02-05 16:00,Not ranked,DELAVAN LAKE INLET AT STATE HWY 50 AT LAKE LAWN,WI'  />
+<area shape="RECT" coords="256, 318, 264, 326" href="http://waterdata.usgs.gov/nwis/uv?05431016" alt='05431016: Stage=8.51ft,2009-02-05 22:00:00,Not ranked,Ice affected,JACKSON CREEK AT MOUND ROAD NEAR ELKHORN, WI' title='05431016: Stage=8.51ft,2009-02-05 22:00:00,Not ranked,Ice affected,JACKSON CREEK AT MOUND ROAD NEAR ELKHORN, WI'  />
+<area shape="RECT" coords="230, 320, 238, 328" href="http://waterdata.usgs.gov/nwis/uv?05430500" alt='05430500: Stage=4.82ft,2009-02-05 22:30:00,Floodstage=9.0ft,Not ranked,Ice affected,ROCK RIVER AT AFTON, WI' title='05430500: Stage=4.82ft,2009-02-05 22:30:00,Floodstage=9.0ft,Not ranked,Ice affected,ROCK RIVER AT AFTON, WI'  />
+<area shape="RECT" coords="225, 305, 233, 313" href="http://waterdata.usgs.gov/nwis/uv?05430175" alt='05430175: Stage=4.79ft,2009-02-05 22:00:00,Floodstage=10.0ft,Not ranked,Ice affected,YAHARA RIVER NEAR FULTON, WI' title='05430175: Stage=4.79ft,2009-02-05 22:00:00,Floodstage=10.0ft,Not ranked,Ice affected,YAHARA RIVER NEAR FULTON, WI'  />
+<area shape="RECT" coords="224, 305, 232, 313" href="http://waterdata.usgs.gov/nwis/uv?05430150" alt='05430150: Flow=117cfs,Stage=4.90ft,2009-02-05 22:00,Not ranked,BADFISH CREEK NEAR COOKSVILLE, WI' title='05430150: Flow=117cfs,Stage=4.90ft,2009-02-05 22:00,Not ranked,BADFISH CREEK NEAR COOKSVILLE, WI'  />
+<area shape="RECT" coords="222, 299, 230, 307" href="http://waterdata.usgs.gov/nwis/uv?05429700" alt='05429700: Flow=300cfs,Stage=6.00ft,2009-02-05 22:10,Not ranked,YAHARA RIVER @ FORTON STREET BRIDGE @ STOUGHTON,WI' title='05429700: Flow=300cfs,Stage=6.00ft,2009-02-05 22:10,Not ranked,YAHARA RIVER @ FORTON STREET BRIDGE @ STOUGHTON,WI'  />
+<area shape="RECT" coords="218, 293, 226, 301" href="http://waterdata.usgs.gov/nwis/uv?05429510" alt='05429510: Not ranked,Equipment malfunction,YAHARA RIVER @ EXCHANGE ST. BRIDGE @ MC FARLAND,WI' title='05429510: Not ranked,Equipment malfunction,YAHARA RIVER @ EXCHANGE ST. BRIDGE @ MC FARLAND,WI'  />
+<area shape="RECT" coords="218, 293, 226, 301" href="http://waterdata.usgs.gov/nwis/uv?05429485" alt='05429485: Stage=4.23ft,2009-02-05 22:15:00,Not ranked,LAKE WAUBESA AT MC FARLAND, WI' title='05429485: Stage=4.23ft,2009-02-05 22:15:00,Not ranked,LAKE WAUBESA AT MC FARLAND, WI'  />
+<area shape="RECT" coords="213, 289, 221, 297" href="http://waterdata.usgs.gov/nwis/uv?05429000" alt='05429000: Stage=4.54ft,2009-02-05 22:15:00,Not ranked,LAKE MONONA AT MADISON, WI' title='05429000: Stage=4.54ft,2009-02-05 22:15:00,Not ranked,LAKE MONONA AT MADISON, WI'  />
+<area shape="RECT" coords="215, 287, 223, 295" href="http://waterdata.usgs.gov/nwis/uv?05428500" alt='05428500: Flow=150cfs,Stage=4.70ft,2009-02-05 22:05,Not ranked,YAHARA RIVER AT EAST MAIN STREET AT MADISON, WI' title='05428500: Flow=150cfs,Stage=4.70ft,2009-02-05 22:05,Not ranked,YAHARA RIVER AT EAST MAIN STREET AT MADISON, WI'  />
+<area shape="RECT" coords="214, 287, 222, 295" href="http://waterdata.usgs.gov/nwis/uv?05428000" alt='05428000: Stage=8.33ft,2009-02-05 22:30:00,Not ranked,LAKE MENDOTA AT MADISON, WI' title='05428000: Stage=8.33ft,2009-02-05 22:30:00,Not ranked,LAKE MENDOTA AT MADISON, WI'  />
+<area shape="RECT" coords="207, 286, 215, 294" href="http://waterdata.usgs.gov/nwis/uv?05427948" alt='05427948: Stage=3.41ft,2009-02-05 20:00:00,Not ranked,Ice affected,PHEASANT BRANCH AT MIDDLETON, WI' title='05427948: Stage=3.41ft,2009-02-05 20:00:00,Not ranked,Ice affected,PHEASANT BRANCH AT MIDDLETON, WI'  />
+<area shape="RECT" coords="213, 283, 221, 291" href="http://waterdata.usgs.gov/nwis/uv?05427850" alt='05427850: Flow=84cfs,Stage=8.49ft,2009-02-05 21:00,Not ranked,YAHARA RIVER AT STATE HIGHWAY 113 AT MADISON, WI' title='05427850: Flow=84cfs,Stage=8.49ft,2009-02-05 21:00,Not ranked,YAHARA RIVER AT STATE HIGHWAY 113 AT MADISON, WI'  />
+<area shape="RECT" coords="215, 279, 223, 287" href="http://waterdata.usgs.gov/nwis/uv?05427718" alt='05427718: Stage=1.40ft,2009-02-05 22:15:00,Not ranked,Ice affected,YAHARA RIVER AT WINDSOR, WI' title='05427718: Stage=1.40ft,2009-02-05 22:15:00,Not ranked,Ice affected,YAHARA RIVER AT WINDSOR, WI'  />
+<area shape="RECT" coords="237, 303, 245, 311" href="http://waterdata.usgs.gov/nwis/uv?05427235" alt='05427235: Stage=6.21ft,2009-02-05 22:15:00,Floodstage=10.0ft,Not ranked,LAKE KOSHKONONG NEAR NEWVILLE, WI' title='05427235: Stage=6.21ft,2009-02-05 22:15:00,Floodstage=10.0ft,Not ranked,LAKE KOSHKONONG NEAR NEWVILLE, WI'  />
+<area shape="RECT" coords="241, 298, 249, 306" href="http://waterdata.usgs.gov/nwis/uv?05427085" alt='05427085: Flow=649cfs,2009-02-05 22:25,Not ranked,ROCK RIVER AT ROBERT STREET AT FORT ATKINSON, WI' title='05427085: Flow=649cfs,2009-02-05 22:25,Not ranked,ROCK RIVER AT ROBERT STREET AT FORT ATKINSON, WI'  />
+<area shape="RECT" coords="250, 295, 258, 303" href="http://waterdata.usgs.gov/nwis/uv?05426250" alt='05426250: Stage=1.36ft,2009-02-05 22:00:00,Floodstage=3.0ft,Not ranked,Ice affected,BARK RIVER NEAR ROME, WI' title='05426250: Stage=1.36ft,2009-02-05 22:00:00,Floodstage=3.0ft,Not ranked,Ice affected,BARK RIVER NEAR ROME, WI'  />
+<area shape="RECT" coords="265, 286, 273, 294" href="http://waterdata.usgs.gov/nwis/uv?05426067" alt='05426067: Stage=12.55ft,2009-02-05 22:15:00,Not ranked,Ice affected,BARK RIVER AT NAGAWICKA ROAD AT DELAFIELD, WI' title='05426067: Stage=12.55ft,2009-02-05 22:15:00,Not ranked,Ice affected,BARK RIVER AT NAGAWICKA ROAD AT DELAFIELD, WI'  />
+<area shape="RECT" coords="241, 286, 249, 294" href="http://waterdata.usgs.gov/nwis/uv?05426000" alt='05426000: Stage=2.88ft,2009-02-05 22:00:00,Not ranked,Ice affected,CRAWFISH RIVER AT MILFORD, WI' title='05426000: Stage=2.88ft,2009-02-05 22:00:00,Not ranked,Ice affected,CRAWFISH RIVER AT MILFORD, WI'  />
+<area shape="RECT" coords="240, 262, 248, 270" href="http://waterdata.usgs.gov/nwis/uv?05425912" alt='05425912: Flow=154cfs,Stage=840.39ft,Floodstage=843.5ft,2009-02-05 22:00,Not ranked,BEAVER DAM RIVER AT BEAVER DAM, WI' title='05425912: Flow=154cfs,Stage=840.39ft,Floodstage=843.5ft,2009-02-05 22:00,Not ranked,BEAVER DAM RIVER AT BEAVER DAM, WI'  />
+<area shape="RECT" coords="247, 280, 255, 288" href="http://waterdata.usgs.gov/nwis/uv?05425500" alt='05425500: Stage=2.55ft,2009-02-05 21:00:00,Floodstage=5.5ft,Not ranked,Ice affected,ROCK RIVER AT WATERTOWN, WI' title='05425500: Stage=2.55ft,2009-02-05 21:00:00,Floodstage=5.5ft,Not ranked,Ice affected,ROCK RIVER AT WATERTOWN, WI'  />
+<area shape="RECT" coords="251, 261, 259, 269" href="http://waterdata.usgs.gov/nwis/uv?05424057" alt='05424057: Flow=99cfs,Stage=6.83ft,Floodstage=8.5ft,2009-02-05 22:00,Not ranked,ROCK RIVER AT HORICON, WI' title='05424057: Flow=99cfs,Stage=6.83ft,Floodstage=8.5ft,2009-02-05 22:00,Not ranked,ROCK RIVER AT HORICON, WI'  />
+<area shape="RECT" coords="246, 248, 254, 256" href="http://waterdata.usgs.gov/nwis/uv?05423500" alt='05423500: Stage=2.20ft,2009-02-05 22:15:00,Floodstage=6.0ft,Not ranked,Ice affected,SOUTH BRANCH ROCK RIVER AT WAUPUN, WI' title='05423500: Stage=2.20ft,2009-02-05 22:15:00,Floodstage=6.0ft,Not ranked,Ice affected,SOUTH BRANCH ROCK RIVER AT WAUPUN, WI'  />
+<area shape="RECT" coords="162, 314, 170, 322" href="http://waterdata.usgs.gov/nwis/uv?05414850" alt='05414850: Flow=1.7cfs,Stage=3.517ft,2009-01-03 19:00,Not ranked,GALENA R.-U.W. PLATTEVILLE FARMS-NR PLATTEVILLE,WI' title='05414850: Flow=1.7cfs,Stage=3.517ft,2009-01-03 19:00,Not ranked,GALENA R.-U.W. PLATTEVILLE FARMS-NR PLATTEVILLE,WI'  />
+<area shape="RECT" coords="150, 313, 158, 321" href="http://waterdata.usgs.gov/nwis/uv?05414000" alt='05414000: Stage=4.15ft,2009-02-05 21:45:00,Not ranked,Ice affected,PLATTE RIVER NEAR ROCKVILLE, WI' title='05414000: Stage=4.15ft,2009-02-05 21:45:00,Not ranked,Ice affected,PLATTE RIVER NEAR ROCKVILLE, WI'  />
+<area shape="RECT" coords="141, 314, 149, 322" href="http://waterdata.usgs.gov/nwis/uv?05413500" alt='05413500: Stage=6.34ft,2009-02-05 22:15:00,Floodstage=18.0ft,Not ranked,Ice affected,GRANT RIVER AT BURTON, WI' title='05413500: Stage=6.34ft,2009-02-05 22:15:00,Floodstage=18.0ft,Not ranked,Ice affected,GRANT RIVER AT BURTON, WI'  />
+<area shape="RECT" coords="124, 301, 132, 309" href="http://waterdata.usgs.gov/nwis/uv?05411500" alt='05411500: Stage=12.57ft,2009-02-05 23:00:00,Not ranked,Mississippi River at Clayton, IA' title='05411500: Stage=12.57ft,2009-02-05 23:00:00,Not ranked,Mississippi River at Clayton, IA'  />
+<area shape="RECT" coords="139, 281, 147, 289" href="http://waterdata.usgs.gov/nwis/uv?05410490" alt='05410490: Stage=7.92ft,2009-02-05 22:15:00,Not ranked,Ice affected,KICKAPOO RIVER AT STEUBEN, WI' title='05410490: Stage=7.92ft,2009-02-05 22:15:00,Not ranked,Ice affected,KICKAPOO RIVER AT STEUBEN, WI'  />
+<area shape="RECT" coords="150, 254, 158, 262" href="http://waterdata.usgs.gov/nwis/uv?05408000" alt='05408000: Stage=3.84ft,2009-02-05 22:15:00,Floodstage=12.0ft,Not ranked,Ice affected,KICKAPOO RIVER AT LA FARGE, WI' title='05408000: Stage=3.84ft,2009-02-05 22:15:00,Floodstage=12.0ft,Not ranked,Ice affected,KICKAPOO RIVER AT LA FARGE, WI'  />
+<area shape="RECT" coords="153, 244, 161, 252" href="http://waterdata.usgs.gov/nwis/uv?05407470" alt='05407470: Stage=8.93ft,2009-02-05 22:00:00,Not ranked,Ice affected,KICKAPOO RIVER AT STATE HIGHWAY 33 AT ONTARIO, WI' title='05407470: Stage=8.93ft,2009-02-05 22:00:00,Not ranked,Ice affected,KICKAPOO RIVER AT STATE HIGHWAY 33 AT ONTARIO, WI'  />
+<area shape="RECT" coords="160, 280, 168, 288" href="http://waterdata.usgs.gov/nwis/uv?05407000" alt='05407000: Stage=3.17ft,2009-02-05 22:00:00,Floodstage=9.0ft,Not ranked,Ice affected,WISCONSIN RIVER AT MUSCODA, WI' title='05407000: Stage=3.17ft,2009-02-05 22:00:00,Floodstage=9.0ft,Not ranked,Ice affected,WISCONSIN RIVER AT MUSCODA, WI'  />
+<area shape="RECT" coords="201, 260, 209, 268" href="http://waterdata.usgs.gov/nwis/uv?05405000" alt='05405000: Stage=8.01ft,2009-02-05 22:15:00,Floodstage=16.0ft,Not ranked,Ice affected,BARABOO RIVER NEAR BARABOO, WI' title='05405000: Stage=8.01ft,2009-02-05 22:15:00,Floodstage=16.0ft,Not ranked,Ice affected,BARABOO RIVER NEAR BARABOO, WI'  />
+<area shape="RECT" coords="196, 264, 204, 272" href="http://waterdata.usgs.gov/nwis/uv?05404500" alt='05404500: Stage=7.14ft,2009-02-05 22:15:00,Not ranked,DEVILS LAKE NEAR BARABOO, WI' title='05404500: Stage=7.14ft,2009-02-05 22:15:00,Not ranked,DEVILS LAKE NEAR BARABOO, WI'  />
+<area shape="RECT" coords="165, 248, 173, 256" href="http://waterdata.usgs.gov/nwis/uv?05404116" alt='05404116: Flow=21cfs,Stage=4.86ft,Floodstage=13.0ft,2009-02-05 22:00,Not ranked,SOUTH BRANCH BARABOO RIVER AT HILLSBORO, WI' title='05404116: Flow=21cfs,Stage=4.86ft,Floodstage=13.0ft,2009-02-05 22:00,Not ranked,SOUTH BRANCH BARABOO RIVER AT HILLSBORO, WI'  />
+<area shape="RECT" coords="194, 252, 202, 260" href="http://waterdata.usgs.gov/nwis/uv?05404000" alt='05404000: Stage=3.16ft,2009-02-05 20:00:00,Floodstage=16.0ft,Not ranked,Ice affected,WISCONSIN RIVER NEAR WISCONSIN DELLS, WI' title='05404000: Stage=3.16ft,2009-02-05 20:00:00,Floodstage=16.0ft,Not ranked,Ice affected,WISCONSIN RIVER NEAR WISCONSIN DELLS, WI'  />
+<area shape="RECT" coords="176, 203, 184, 211" href="http://waterdata.usgs.gov/nwis/uv?05402000" alt='05402000: Stage=2.24ft,2009-02-05 22:30:00,Floodstage=12.0ft,Not ranked,Ice affected,YELLOW RIVER AT BABCOCK, WI' title='05402000: Stage=2.24ft,2009-02-05 22:30:00,Floodstage=12.0ft,Not ranked,Ice affected,YELLOW RIVER AT BABCOCK, WI'  />
+<area shape="RECT" coords="191, 206, 199, 214" href="http://waterdata.usgs.gov/nwis/uv?05401050" alt='05401050: Stage=4.26ft,2009-02-05 22:00:00,Not ranked,Ice affected,TENMILE CREEK NEAR NEKOOSA, WI' title='05401050: Stage=4.26ft,2009-02-05 22:00:00,Not ranked,Ice affected,TENMILE CREEK NEAR NEKOOSA, WI'  />
+<area shape="RECT" coords="177, 167, 185, 175" href="http://waterdata.usgs.gov/nwis/uv?05399500" alt='05399500: Stage=3.24ft,2009-02-05 22:15:00,Floodstage=15.5ft,Not ranked,Ice affected,BIG EAU PLEINE RIVER AT STRATFORD, WI' title='05399500: Stage=3.24ft,2009-02-05 22:15:00,Floodstage=15.5ft,Not ranked,Ice affected,BIG EAU PLEINE RIVER AT STRATFORD, WI'  />
+<area shape="RECT" coords="199, 162, 207, 170" href="http://waterdata.usgs.gov/nwis/uv?05398000" alt='05398000: Stage=12.47ft,2009-02-05 21:00:00,Floodstage=25.0ft,Not ranked,Equipment malfunction,WISCONSIN RIVER AT ROTHSCHILD, WI' title='05398000: Stage=12.47ft,2009-02-05 21:00:00,Floodstage=25.0ft,Not ranked,Equipment malfunction,WISCONSIN RIVER AT ROTHSCHILD, WI'  />
+<area shape="RECT" coords="203, 160, 211, 168" href="http://waterdata.usgs.gov/nwis/uv?05397500" alt='05397500: Stage=1.14ft,2009-02-05 22:00:00,Floodstage=7.0ft,Not ranked,Ice affected,EAU CLAIRE RIVER AT KELLY, WI' title='05397500: Stage=1.14ft,2009-02-05 22:00:00,Floodstage=7.0ft,Not ranked,Ice affected,EAU CLAIRE RIVER AT KELLY, WI'  />
+<area shape="RECT" coords="197, 142, 205, 150" href="http://waterdata.usgs.gov/nwis/uv?05395000" alt='05395000: Stage=4.98ft,2009-02-05 22:15:00,Floodstage=11.0ft,Not ranked,Ice affected,WISCONSIN RIVER AT MERRILL, WI' title='05395000: Stage=4.98ft,2009-02-05 22:15:00,Floodstage=11.0ft,Not ranked,Ice affected,WISCONSIN RIVER AT MERRILL, WI'  />
+<area shape="RECT" coords="182, 123, 190, 131" href="http://waterdata.usgs.gov/nwis/uv?05393500" alt='05393500: Stage=1.39ft,2009-02-05 22:15:00,Not ranked,Ice affected,SPIRIT RIVER AT SPIRIT FALLS, WI' title='05393500: Stage=1.39ft,2009-02-05 22:15:00,Not ranked,Ice affected,SPIRIT RIVER AT SPIRIT FALLS, WI'  />
+<area shape="RECT" coords="221, 76, 229, 84" href="http://waterdata.usgs.gov/nwis/uv?05390100" alt='05390100: Stage=80.16ft,2009-02-05 23:00:00,Not ranked,LAC VIEUX DESERT NEAR LAND O\'LAKES, WI' title='05390100: Stage=80.16ft,2009-02-05 23:00:00,Not ranked,LAC VIEUX DESERT NEAR LAND O\'LAKES, WI'  />
+<area shape="RECT" coords="121, 291, 129, 299" href="http://waterdata.usgs.gov/nwis/uv?05389400" alt='05389400: Flow=13cfs,Stage=4.29ft,2009-02-06 00:00,Not ranked,Bloody Run Creek near Marquette, IA' title='05389400: Flow=13cfs,Stage=4.29ft,2009-02-06 00:00,Not ranked,Bloody Run Creek near Marquette, IA'  />
+<area shape="RECT" coords="118, 286, 126, 294" href="http://waterdata.usgs.gov/nwis/uv?05389000" alt='05389000: Flow=60cfs,Stage=4.84ft,2009-02-05 23:45,Not ranked,Yellow River near Ion, IA' title='05389000: Flow=60cfs,Stage=4.84ft,2009-02-05 23:45,Not ranked,Yellow River near Ion, IA'  />
+<area shape="RECT" coords="118, 246, 126, 254" href="http://waterdata.usgs.gov/nwis/uv?05386400" alt='05386400: Stage=30.94ft,2009-02-05 23:00:00,Not ranked,MISSISSIPPI RIVER AT BROWNSVILLE, MN' title='05386400: Stage=30.94ft,2009-02-05 23:00:00,Not ranked,MISSISSIPPI RIVER AT BROWNSVILLE, MN'  />
+<area shape="RECT" coords="121, 234, 129, 242" href="http://waterdata.usgs.gov/nwis/uv?05383075" alt='05383075: Stage=4.11ft,2009-02-05 22:00:00,Not ranked,Ice affected,LA CROSSE RIVER NEAR LA CROSSE, WI' title='05383075: Stage=4.11ft,2009-02-05 22:00:00,Not ranked,Ice affected,LA CROSSE RIVER NEAR LA CROSSE, WI'  />
+<area shape="RECT" coords="146, 224, 154, 232" href="http://waterdata.usgs.gov/nwis/uv?05382267" alt='05382267: Stage=5.92ft,2009-02-05 19:00:00,Not ranked,Rating being developed or revised,LA CROSSE RIVER @ CNTY TRUNK HIGHWY BB NR TOMAH,WI' title='05382267: Stage=5.92ft,2009-02-05 19:00:00,Not ranked,Rating being developed or revised,LA CROSSE RIVER @ CNTY TRUNK HIGHWY BB NR TOMAH,WI'  />
+<area shape="RECT" coords="148, 224, 156, 232" href="http://waterdata.usgs.gov/nwis/uv?05382257" alt='05382257: Flow=0.84cfs,Stage=2.47ft,2009-02-05 19:00,Not ranked,STILLWELL CREEK AT YARD ROAD NEAR TOMAH, WI' title='05382257: Flow=0.84cfs,Stage=2.47ft,2009-02-05 19:00,Not ranked,STILLWELL CREEK AT YARD ROAD NEAR TOMAH, WI'  />
+<area shape="RECT" coords="149, 225, 157, 233" href="http://waterdata.usgs.gov/nwis/uv?05382255" alt='05382255: Stage=2.32ft,2009-02-05 19:00:00,Not ranked,Rating being developed or revised,STILLWELL CREEK AT 16TH COURT NEAR TOMAH, WI' title='05382255: Stage=2.32ft,2009-02-05 19:00:00,Not ranked,Rating being developed or revised,STILLWELL CREEK AT 16TH COURT NEAR TOMAH, WI'  />
+<area shape="RECT" coords="117, 220, 125, 228" href="http://waterdata.usgs.gov/nwis/uv?05382000" alt='05382000: Stage=4.06ft,2009-02-05 22:00:00,Floodstage=12.0ft,Not ranked,Ice affected,BLACK RIVER NEAR GALESVILLE, WI' title='05382000: Stage=4.06ft,2009-02-05 22:00:00,Floodstage=12.0ft,Not ranked,Ice affected,BLACK RIVER NEAR GALESVILLE, WI'  />
+<area shape="RECT" coords="151, 185, 159, 193" href="http://waterdata.usgs.gov/nwis/uv?05381000" alt='05381000: Not ranked,Ice affected,BLACK RIVER AT NEILLSVILLE, WI' title='05381000: Not ranked,Ice affected,BLACK RIVER AT NEILLSVILLE, WI'  />
+<area shape="RECT" coords="114, 224, 122, 232" href="http://waterdata.usgs.gov/nwis/uv?05380509" alt='05380509: Stage=3.00ft,2009-02-05 21:45:00,Not ranked,TANK CREEK NEAR GALESVILLE, WI' title='05380509: Stage=3.00ft,2009-02-05 21:45:00,Not ranked,TANK CREEK NEAR GALESVILLE, WI'  />
+<area shape="RECT" coords="104, 215, 112, 223" href="http://waterdata.usgs.gov/nwis/uv?05379500" alt='05379500: Stage=5.90ft,2009-02-05 22:00:00,Floodstage=9.0ft,Not ranked,Ice affected,TREMPEALEAU RIVER AT DODGE, WI' title='05379500: Stage=5.90ft,2009-02-05 22:00:00,Floodstage=9.0ft,Not ranked,Ice affected,TREMPEALEAU RIVER AT DODGE, WI'  />
+<area shape="RECT" coords="100, 220, 108, 228" href="http://waterdata.usgs.gov/nwis/uv?05378500" alt='05378500: Stage=5.46ft,Floodstage=13.0ft,2009-02-05 23:00,Not ranked,Very low value,MISSISSIPPI RIVER AT WINONA, MN' title='05378500: Stage=5.46ft,Floodstage=13.0ft,2009-02-05 23:00,Not ranked,Very low value,MISSISSIPPI RIVER AT WINONA, MN'  />
+<area shape="RECT" coords="98, 218, 106, 226" href="http://waterdata.usgs.gov/nwis/uv?05378490" alt='05378490: Stage=5.68ft,2009-02-05 23:00:00,Not ranked,MISSISSIPPI RIVER AT LOCK AND DAM 5A NR WINONA, MN' title='05378490: Stage=5.68ft,2009-02-05 23:00:00,Not ranked,MISSISSIPPI RIVER AT LOCK AND DAM 5A NR WINONA, MN'  />
+<area shape="RECT" coords="84, 180, 92, 188" href="http://waterdata.usgs.gov/nwis/uv?05369500" alt='05369500: Stage=4.14ft,2009-02-05 22:00:00,Floodstage=13.0ft,Not ranked,Ice affected,CHIPPEWA RIVER AT DURAND, WI' title='05369500: Stage=4.14ft,2009-02-05 22:00:00,Floodstage=13.0ft,Not ranked,Ice affected,CHIPPEWA RIVER AT DURAND, WI'  />
+<area shape="RECT" coords="87, 151, 95, 159" href="http://waterdata.usgs.gov/nwis/uv?05368000" alt='05368000: Stage=4.04ft,2009-02-05 22:15:00,Not ranked,Ice affected,HAY RIVER AT WHEELER, WI' title='05368000: Stage=4.04ft,2009-02-05 22:15:00,Not ranked,Ice affected,HAY RIVER AT WHEELER, WI'  />
+<area shape="RECT" coords="134, 133, 142, 141" href="http://waterdata.usgs.gov/nwis/uv?05362000" alt='05362000: Stage=4.00ft,2009-02-05 22:00:00,Not ranked,Ice affected,JUMP RIVER AT SHELDON, WI' title='05362000: Stage=4.00ft,2009-02-05 22:00:00,Not ranked,Ice affected,JUMP RIVER AT SHELDON, WI'  />
+<area shape="RECT" coords="121, 126, 129, 134" href="http://waterdata.usgs.gov/nwis/uv?05360500" alt='05360500: Stage=5.86ft,2009-02-05 21:00:00,Not ranked,Ice affected,FLAMBEAU RIVER NEAR BRUCE, WI' title='05360500: Stage=5.86ft,2009-02-05 21:00:00,Not ranked,Ice affected,FLAMBEAU RIVER NEAR BRUCE, WI'  />
+<area shape="RECT" coords="181, 81, 189, 89" href="http://waterdata.usgs.gov/nwis/uv?05357335" alt='05357335: Flow=40cfs,Stage=3.85ft,2009-02-05 23:00,Not ranked,BEAR RIVER NEAR MANITOWISH WATERS, WI' title='05357335: Flow=40cfs,Stage=3.85ft,2009-02-05 23:00,Not ranked,BEAR RIVER NEAR MANITOWISH WATERS, WI'  />
+<area shape="RECT" coords="195, 82, 203, 90" href="http://waterdata.usgs.gov/nwis/uv?05357245" alt='05357245: Flow=23cfs,Stage=0.93ft,2009-02-05 05:00,Not ranked,TROUT RIVER AT TROUT LAKE NEAR BOULDER JUNCTION,WI' title='05357245: Flow=23cfs,Stage=0.93ft,2009-02-05 05:00,Not ranked,TROUT RIVER AT TROUT LAKE NEAR BOULDER JUNCTION,WI'  />
+<area shape="RECT" coords="196, 79, 204, 87" href="http://waterdata.usgs.gov/nwis/uv?05357230" alt='05357230: Flow=2.2cfs,Stage=7.73ft,2009-02-05 17:00,Not ranked,NORTH CREEK AT TROUT LAKE NEAR BOULDER JUNCTION,WI' title='05357230: Flow=2.2cfs,Stage=7.73ft,2009-02-05 17:00,Not ranked,NORTH CREEK AT TROUT LAKE NEAR BOULDER JUNCTION,WI'  />
+<area shape="RECT" coords="197, 80, 205, 88" href="http://waterdata.usgs.gov/nwis/uv?05357225" alt='05357225: Stage=7.93ft,2009-02-05 17:00:00,Not ranked,Ice affected,STEVENSON CREEK @ CT HWY M NR BOULDER JUNCTION, WI' title='05357225: Stage=7.93ft,2009-02-05 17:00:00,Not ranked,Ice affected,STEVENSON CREEK @ CT HWY M NR BOULDER JUNCTION, WI'  />
+<area shape="RECT" coords="197, 83, 205, 91" href="http://waterdata.usgs.gov/nwis/uv?05357215" alt='05357215: Flow=7.2cfs,Stage=1.43ft,2009-02-05 05:00,Not ranked,ALLEQUASH CREEK @ CT HWY M NR BOULDER JUNCTION, WI' title='05357215: Flow=7.2cfs,Stage=1.43ft,2009-02-05 05:00,Not ranked,ALLEQUASH CREEK @ CT HWY M NR BOULDER JUNCTION, WI'  />
+<area shape="RECT" coords="199, 82, 207, 90" href="http://waterdata.usgs.gov/nwis/uv?05357206" alt='05357206: 2009-01-22 10:00,Not ranked,ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI' title='05357206: 2009-01-22 10:00,Not ranked,ALLEQUASH CREEK SITE NO. 3 NR BOULDER JUNCTION, WI'  />
+<area shape="RECT" coords="119, 123, 127, 131" href="http://waterdata.usgs.gov/nwis/uv?05356500" alt='05356500: Stage=3.28ft,2009-02-05 21:00:00,Not ranked,Ice affected,CHIPPEWA RIVER NEAR BRUCE, WI' title='05356500: Stage=3.28ft,2009-02-05 21:00:00,Not ranked,Ice affected,CHIPPEWA RIVER NEAR BRUCE, WI'  />
+<area shape="RECT" coords="47, 178, 55, 186" href="http://waterdata.usgs.gov/nwis/uv?05346050" alt='05346050: Stage=668.34ft,2009-02-05 20:00:00,Not ranked,CLEAR LAKE, EAST SIDE, AT PRAIRIE ISLAND, MN' title='05346050: Stage=668.34ft,2009-02-05 20:00:00,Not ranked,CLEAR LAKE, EAST SIDE, AT PRAIRIE ISLAND, MN'  />
+<area shape="RECT" coords="50, 179, 58, 187" href="http://waterdata.usgs.gov/nwis/uv?05344850" alt='05344850: Stage=674.39ft,2009-02-05 21:00:00,Not ranked,STURGEON LAKE, WEST SIDE, AT PRAIRIE ISLAND, MN' title='05344850: Stage=674.39ft,2009-02-05 21:00:00,Not ranked,STURGEON LAKE, WEST SIDE, AT PRAIRIE ISLAND, MN'  />
+<area shape="RECT" coords="43, 172, 51, 180" href="http://waterdata.usgs.gov/nwis/uv?05344500" alt='05344500: Stage=25.04ft,2009-02-05 23:00,Not ranked,Very low value,MISSISSIPPI RIVER AT PRESCOTT, WI' title='05344500: Stage=25.04ft,2009-02-05 23:00,Not ranked,Very low value,MISSISSIPPI RIVER AT PRESCOTT, WI'  />
+<area shape="RECT" coords="43, 171, 51, 179" href="http://waterdata.usgs.gov/nwis/uv?05344490" alt='05344490: Flow=2360cfs,Stage=25.04ft,2009-02-05 23:30,Not ranked,ST. CROIX RIVER AT PRESCOTT, WI' title='05344490: Flow=2360cfs,Stage=25.04ft,2009-02-05 23:30,Not ranked,ST. CROIX RIVER AT PRESCOTT, WI'  />
+<area shape="RECT" coords="46, 166, 54, 174" href="http://waterdata.usgs.gov/nwis/uv?05342000" alt='05342000: Stage=9.88ft,2009-02-05 22:15:00,Not ranked,Ice affected,KINNICKINNIC RIVER NEAR RIVER FALLS, WI' title='05342000: Stage=9.88ft,2009-02-05 22:15:00,Not ranked,Ice affected,KINNICKINNIC RIVER NEAR RIVER FALLS, WI'  />
+<area shape="RECT" coords="52, 90, 60, 98" href="http://waterdata.usgs.gov/nwis/uv?05336000" alt='05336000: Stage=5.15ft,2009-02-05 23:00:00,Not ranked,ST. CROIX RIVER NEAR GRANTSBURG, WI' title='05336000: Stage=5.15ft,2009-02-05 23:00:00,Not ranked,ST. CROIX RIVER NEAR GRANTSBURG, WI'  />
+<area shape="RECT" coords="71, 79, 79, 87" href="http://waterdata.usgs.gov/nwis/uv?05333500" alt='05333500: Stage=2.09ft,2009-02-05 22:15:00,Floodstage=7.0ft,Not ranked,Ice affected,ST. CROIX RIVER NEAR DANBURY, WI' title='05333500: Stage=2.09ft,2009-02-05 22:15:00,Floodstage=7.0ft,Not ranked,Ice affected,ST. CROIX RIVER NEAR DANBURY, WI'  />
+<area shape="RECT" coords="116, 73, 124, 81" href="http://waterdata.usgs.gov/nwis/uv?05331833" alt='05331833: Stage=1.72ft,2009-02-05 22:00:00,Not ranked,Ice affected,NAMEKAGON RIVER AT LEONARDS, WI' title='05331833: Stage=1.72ft,2009-02-05 22:00:00,Not ranked,Ice affected,NAMEKAGON RIVER AT LEONARDS, WI'  />
+<area shape="RECT" coords="40, 172, 48, 180" href="http://waterdata.usgs.gov/nwis/uv?05331580" alt='05331580: Stage=7.58ft,2009-02-05 23:30:00,Not ranked,MISSISSIPPI RIVER BELOW L&D #2 AT HASTINGS, MN' title='05331580: Stage=7.58ft,2009-02-05 23:30:00,Not ranked,MISSISSIPPI RIVER BELOW L&D #2 AT HASTINGS, MN'  />
+<area shape="RECT" coords="292, 316, 300, 324" href="http://waterdata.usgs.gov/nwis/uv?04087257" alt='04087257: Stage=2.20ft,2009-02-05 22:00:00,Not ranked,Ice affected,PIKE RIVER NEAR RACINE, WI' title='04087257: Stage=2.20ft,2009-02-05 22:00:00,Not ranked,Ice affected,PIKE RIVER NEAR RACINE, WI'  />
+<area shape="RECT" coords="285, 305, 293, 313" href="http://waterdata.usgs.gov/nwis/uv?04087233" alt='04087233: Stage=2.87ft,2009-02-05 22:15:00,Floodstage=9.0ft,Not ranked,Ice affected,ROOT RIVER CANAL NEAR FRANKLIN, WI' title='04087233: Stage=2.87ft,2009-02-05 22:15:00,Floodstage=9.0ft,Not ranked,Ice affected,ROOT RIVER CANAL NEAR FRANKLIN, WI'  />
+<area shape="RECT" coords="285, 301, 293, 309" href="http://waterdata.usgs.gov/nwis/uv?04087220" alt='04087220: Stage=2.87ft,2009-02-05 22:00:00,Floodstage=8.0ft,Not ranked,Ice affected,ROOT RIVER NEAR FRANKLIN, WI' title='04087220: Stage=2.87ft,2009-02-05 22:00:00,Floodstage=8.0ft,Not ranked,Ice affected,ROOT RIVER NEAR FRANKLIN, WI'  />
+<area shape="RECT" coords="283, 296, 291, 304" href="http://waterdata.usgs.gov/nwis/uv?04087214" alt='04087214: Stage=10.62ft,2009-02-05 22:00:00,Not ranked,Ice affected,ROOT RIVER AT GRANGE AVENUE AT GREENFIELD, WI' title='04087214: Stage=10.62ft,2009-02-05 22:00:00,Not ranked,Ice affected,ROOT RIVER AT GRANGE AVENUE AT GREENFIELD, WI'  />
+<area shape="RECT" coords="291, 297, 299, 305" href="http://waterdata.usgs.gov/nwis/uv?04087204" alt='04087204: Stage=2.38ft,2009-02-05 22:15:00,Floodstage=8.0ft,Not ranked,Ice affected,OAK CREEK AT SOUTH MILWAUKEE, WI' title='04087204: Stage=2.38ft,2009-02-05 22:15:00,Floodstage=8.0ft,Not ranked,Ice affected,OAK CREEK AT SOUTH MILWAUKEE, WI'  />
+<area shape="RECT" coords="289, 290, 297, 298" href="http://waterdata.usgs.gov/nwis/uv?04087170" alt='04087170: Stage=6.92ft,2009-02-05 22:00:00,Not ranked,MILWAUKEE RIVER AT MOUTH AT MILWAUKEE, WI' title='04087170: Stage=6.92ft,2009-02-05 22:00:00,Not ranked,MILWAUKEE RIVER AT MOUTH AT MILWAUKEE, WI'  />
+<area shape="RECT" coords="288, 292, 296, 300" href="http://waterdata.usgs.gov/nwis/uv?04087159" alt='04087159: Stage=6.26ft,2009-02-05 22:00:00,Floodstage=16.0ft,Not ranked,Ice affected,KINNICKINNIC RIVER @ S. 11TH STREET @ MILWAUKEE,WI' title='04087159: Stage=6.26ft,2009-02-05 22:00:00,Floodstage=16.0ft,Not ranked,Ice affected,KINNICKINNIC RIVER @ S. 11TH STREET @ MILWAUKEE,WI'  />
+<area shape="RECT" coords="287, 289, 295, 297" href="http://waterdata.usgs.gov/nwis/uv?04087142" alt='04087142: Stage=11.58ft,2009-02-05 20:00:00,Not ranked,Rating being developed or revised,MENOMONEE RIVER AT 16TH STREET AT MILWAUKEE, WI' title='04087142: Stage=11.58ft,2009-02-05 20:00:00,Not ranked,Rating being developed or revised,MENOMONEE RIVER AT 16TH STREET AT MILWAUKEE, WI'  />
+<area shape="RECT" coords="284, 289, 292, 297" href="http://waterdata.usgs.gov/nwis/uv?04087120" alt='04087120: Stage=2.03ft,2009-02-05 20:00:00,Floodstage=11.0ft,Not ranked,Ice affected,MENOMONEE RIVER AT WAUWATOSA, WI' title='04087120: Stage=2.03ft,2009-02-05 20:00:00,Floodstage=11.0ft,Not ranked,Ice affected,MENOMONEE RIVER AT WAUWATOSA, WI'  />
+<area shape="RECT" coords="284, 289, 292, 297" href="http://waterdata.usgs.gov/nwis/uv?04087119" alt='04087119: Stage=5.97ft,2009-02-05 22:00:00,Not ranked,Ice affected,HONEY CREEK AT WAUWATOSA, WI' title='04087119: Stage=5.97ft,2009-02-05 22:00:00,Not ranked,Ice affected,HONEY CREEK AT WAUWATOSA, WI'  />
+<area shape="RECT" coords="282, 288, 290, 296" href="http://waterdata.usgs.gov/nwis/uv?04087088" alt='04087088: Stage=1.89ft,2009-02-05 22:15:00,Not ranked,Ice affected,UNDERWOOD CREEK AT WAUWATOSA, WI' title='04087088: Stage=1.89ft,2009-02-05 22:15:00,Not ranked,Ice affected,UNDERWOOD CREEK AT WAUWATOSA, WI'  />
+<area shape="RECT" coords="282, 283, 290, 291" href="http://waterdata.usgs.gov/nwis/uv?04087070" alt='04087070: Stage=4.36ft,2009-02-05 22:00:00,Not ranked,Ice affected,LITTLE MENOMONEE RIVER AT MILWAUKEE, WI' title='04087070: Stage=4.36ft,2009-02-05 22:00:00,Not ranked,Ice affected,LITTLE MENOMONEE RIVER AT MILWAUKEE, WI'  />
+<area shape="RECT" coords="282, 277, 290, 285" href="http://waterdata.usgs.gov/nwis/uv?04087050" alt='04087050: Stage=2.18ft,2009-02-05 09:00:00,Not ranked,Ice affected,LITTLE MENOMONEE RIVER NEAR FREISTADT, WI' title='04087050: Stage=2.18ft,2009-02-05 09:00:00,Not ranked,Ice affected,LITTLE MENOMONEE RIVER NEAR FREISTADT, WI'  />
+<area shape="RECT" coords="278, 280, 286, 288" href="http://waterdata.usgs.gov/nwis/uv?04087030" alt='04087030: Stage=3.48ft,2009-02-05 13:15:00,Floodstage=7.5ft,Not ranked,Ice affected,MENOMONEE RIVER AT MENOMONEE FALLS, WI' title='04087030: Stage=3.48ft,2009-02-05 13:15:00,Floodstage=7.5ft,Not ranked,Ice affected,MENOMONEE RIVER AT MENOMONEE FALLS, WI'  />
+<area shape="RECT" coords="288, 285, 296, 293" href="http://waterdata.usgs.gov/nwis/uv?04087000" alt='04087000: Stage=2.47ft,2009-02-05 21:45:00,Floodstage=7.0ft,Not ranked,Ice affected,MILWAUKEE RIVER AT MILWAUKEE, WI' title='04087000: Stage=2.47ft,2009-02-05 21:45:00,Floodstage=7.0ft,Not ranked,Ice affected,MILWAUKEE RIVER AT MILWAUKEE, WI'  />
+<area shape="RECT" coords="286, 272, 294, 280" href="http://waterdata.usgs.gov/nwis/uv?04086600" alt='04086600: Stage=6.78ft,2009-02-05 22:00:00,Floodstage=11.0ft,Not ranked,Ice affected,MILWAUKEE RIVER NEAR CEDARBURG, WI' title='04086600: Stage=6.78ft,2009-02-05 22:00:00,Floodstage=11.0ft,Not ranked,Ice affected,MILWAUKEE RIVER NEAR CEDARBURG, WI'  />
+<area shape="RECT" coords="284, 269, 292, 277" href="http://waterdata.usgs.gov/nwis/uv?04086500" alt='04086500: Stage=6.42ft,2009-02-05 22:00:00,Floodstage=10.0ft,Not ranked,Ice affected,CEDAR CREEK NEAR CEDARBURG, WI' title='04086500: Stage=6.42ft,2009-02-05 22:00:00,Floodstage=10.0ft,Not ranked,Ice affected,CEDAR CREEK NEAR CEDARBURG, WI'  />
+<area shape="RECT" coords="295, 240, 303, 248" href="http://waterdata.usgs.gov/nwis/uv?04086000" alt='04086000: Stage=3.22ft,2009-02-05 19:00:00,Floodstage=8.0ft,Not ranked,Ice affected,SHEBOYGAN RIVER AT SHEBOYGAN, WI' title='04086000: Stage=3.22ft,2009-02-05 19:00:00,Floodstage=8.0ft,Not ranked,Ice affected,SHEBOYGAN RIVER AT SHEBOYGAN, WI'  />
+<area shape="RECT" coords="296, 214, 304, 222" href="http://waterdata.usgs.gov/nwis/uv?04085427" alt='04085427: Stage=5.37ft,2009-02-05 22:00:00,Floodstage=10.0ft,Not ranked,Ice affected,MANITOWOC RIVER AT MANITOWOC, WI' title='04085427: Stage=5.37ft,2009-02-05 22:00:00,Floodstage=10.0ft,Not ranked,Ice affected,MANITOWOC RIVER AT MANITOWOC, WI'  />
+<area shape="RECT" coords="303, 189, 311, 197" href="http://waterdata.usgs.gov/nwis/uv?04085200" alt='04085200: Stage=9.18ft,2009-02-05 22:00:00,Floodstage=14.0ft,Not ranked,Ice affected,KEWAUNEE RIVER NEAR KEWAUNEE, WI' title='04085200: Stage=9.18ft,2009-02-05 22:00:00,Floodstage=14.0ft,Not ranked,Ice affected,KEWAUNEE RIVER NEAR KEWAUNEE, WI'  />
+<area shape="RECT" coords="284, 192, 292, 200" href="http://waterdata.usgs.gov/nwis/uv?04085119" alt='04085119: Stage=5.52ft,2009-02-05 21:45:00,Not ranked,Ice affected,BOWER CREEK @ COUNTY TRNK HIGHWAY MM NR DE PERE,WI' title='04085119: Stage=5.52ft,2009-02-05 21:45:00,Not ranked,Ice affected,BOWER CREEK @ COUNTY TRNK HIGHWAY MM NR DE PERE,WI'  />
+<area shape="RECT" coords="260, 205, 268, 213" href="http://waterdata.usgs.gov/nwis/uv?04084445" alt='04084445: Flow=3340cfs,Stage=5.47ft,Floodstage=8.4ft,2009-02-05 22:00,Not ranked,FOX RIVER AT APPLETON, WI' title='04084445: Flow=3340cfs,Stage=5.47ft,Floodstage=8.4ft,2009-02-05 22:00,Not ranked,FOX RIVER AT APPLETON, WI'  />
+<area shape="RECT" coords="265, 218, 273, 226" href="http://waterdata.usgs.gov/nwis/uv?04084255" alt='04084255: Stage=1.71ft,2009-02-05 22:00:00,Not ranked,LAKE WINNEBAGO NEAR STOCKBRIDGE, WI' title='04084255: Stage=1.71ft,2009-02-05 22:00:00,Not ranked,LAKE WINNEBAGO NEAR STOCKBRIDGE, WI'  />
+<area shape="RECT" coords="261, 238, 269, 246" href="http://waterdata.usgs.gov/nwis/uv?04084038" alt='04084038: Stage=749.48ft,2009-02-05 22:10:00,Not ranked,Ice affected,DE NEVEU CREEK @ E. MERRILL ST. AT FOND DU LAC, WI' title='04084038: Stage=749.48ft,2009-02-05 22:10:00,Not ranked,Ice affected,DE NEVEU CREEK @ E. MERRILL ST. AT FOND DU LAC, WI'  />
+<area shape="RECT" coords="259, 238, 267, 246" href="http://waterdata.usgs.gov/nwis/uv?04083545" alt='04083545: Flow=82cfs,Stage=1.73ft,2009-02-05 22:00,Not ranked,FOND DU LAC RIVER @ W. ARNDT ST. AT FOND DU LAC,WI' title='04083545: Flow=82cfs,Stage=1.73ft,2009-02-05 22:00,Not ranked,FOND DU LAC RIVER @ W. ARNDT ST. AT FOND DU LAC,WI'  />
+<area shape="RECT" coords="255, 222, 263, 230" href="http://waterdata.usgs.gov/nwis/uv?04082500" alt='04082500: Stage=1.84ft,2009-02-05 22:15:00,Floodstage=5.5ft,Not ranked,LAKE WINNEBAGO AT OSHKOSH, WI' title='04082500: Stage=1.84ft,2009-02-05 22:15:00,Floodstage=5.5ft,Not ranked,LAKE WINNEBAGO AT OSHKOSH, WI'  />
+<area shape="RECT" coords="255, 222, 263, 230" href="http://waterdata.usgs.gov/nwis/uv?04082400" alt='04082400: Flow=2060cfs,Stage=5.06ft,Floodstage=7.5ft,2009-02-05 22:00,Not ranked,FOX RIVER AT OSHKOSH, WI' title='04082400: Flow=2060cfs,Stage=5.06ft,Floodstage=7.5ft,2009-02-05 22:00,Not ranked,FOX RIVER AT OSHKOSH, WI'  />
+<area shape="RECT" coords="232, 200, 240, 208" href="http://waterdata.usgs.gov/nwis/uv?04081000" alt='04081000: Stage=2.29ft,2009-01-13 16:00:00,Floodstage=6.0ft,Not ranked,Ice affected,WAUPACA RIVER NEAR WAUPACA, WI' title='04081000: Stage=2.29ft,2009-01-13 16:00:00,Floodstage=6.0ft,Not ranked,Ice affected,WAUPACA RIVER NEAR WAUPACA, WI'  />
+<area shape="RECT" coords="238, 194, 246, 202" href="http://waterdata.usgs.gov/nwis/uv?04080000" alt='04080000: Stage=1.95ft,2009-02-05 23:00:00,Floodstage=5.0ft,Not ranked,Rating being developed or revised,LITTLE WOLF RIVER AT ROYALTON, WI' title='04080000: Stage=1.95ft,2009-02-05 23:00:00,Floodstage=5.0ft,Not ranked,Rating being developed or revised,LITTLE WOLF RIVER AT ROYALTON, WI'  />
+<area shape="RECT" coords="244, 196, 252, 204" href="http://waterdata.usgs.gov/nwis/uv?04079000" alt='04079000: Stage=2.06ft,2009-02-05 22:15:00,Floodstage=9.0ft,Not ranked,Ice affected,WOLF RIVER AT NEW LONDON, WI' title='04079000: Stage=2.06ft,2009-02-05 22:15:00,Floodstage=9.0ft,Not ranked,Ice affected,WOLF RIVER AT NEW LONDON, WI'  />
+<area shape="RECT" coords="244, 172, 252, 180" href="http://waterdata.usgs.gov/nwis/uv?04078500" alt='04078500: Stage=3.25ft,2009-02-05 22:00:00,Floodstage=7.0ft,Not ranked,Ice affected,EMBARRASS RIVER NEAR EMBARRASS, WI' title='04078500: Stage=3.25ft,2009-02-05 22:00:00,Floodstage=7.0ft,Not ranked,Ice affected,EMBARRASS RIVER NEAR EMBARRASS, WI'  />
+<area shape="RECT" coords="238, 161, 246, 169" href="http://waterdata.usgs.gov/nwis/uv?04077630" alt='04077630: Stage=6.16ft,2009-02-05 22:05:00,Not ranked,Ice affected,RED RIVER AT MORGAN ROAD NEAR MORGAN, WI' title='04077630: Stage=6.16ft,2009-02-05 22:05:00,Not ranked,Ice affected,RED RIVER AT MORGAN ROAD NEAR MORGAN, WI'  />
+<area shape="RECT" coords="243, 140, 251, 148" href="http://waterdata.usgs.gov/nwis/uv?04074950" alt='04074950: Stage=8.51ft,2009-02-05 22:00:00,Floodstage=11.5ft,Not ranked,Ice affected,WOLF RIVER AT LANGLADE, WI' title='04074950: Stage=8.51ft,2009-02-05 22:00:00,Floodstage=11.5ft,Not ranked,Ice affected,WOLF RIVER AT LANGLADE, WI'  />
+<area shape="RECT" coords="230, 120, 238, 128" href="http://waterdata.usgs.gov/nwis/uv?04074548" alt='04074548: Stage=2.16ft,2009-02-05 22:15:00,Not ranked,Ice affected,SWAMP CREEK BELOW RICE LAKE AT MOLE LAKE, WI' title='04074548: Stage=2.16ft,2009-02-05 22:15:00,Not ranked,Ice affected,SWAMP CREEK BELOW RICE LAKE AT MOLE LAKE, WI'  />
+<area shape="RECT" coords="231, 120, 239, 128" href="http://waterdata.usgs.gov/nwis/uv?04074538" alt='04074538: Stage=1.68ft,2009-02-05 22:15:00,Not ranked,Ice affected,SWAMP CREEK ABOVE RICE LAKE AT MOLE LAKE, WI' title='04074538: Stage=1.68ft,2009-02-05 22:15:00,Not ranked,Ice affected,SWAMP CREEK ABOVE RICE LAKE AT MOLE LAKE, WI'  />
+<area shape="RECT" coords="243, 222, 251, 230" href="http://waterdata.usgs.gov/nwis/uv?04073970" alt='04073970: Stage=4.08ft,2009-02-05 21:00:00,Not ranked,Ice affected,WAUKAU CREEK NEAR OMRO, WI' title='04073970: Stage=4.08ft,2009-02-05 21:00:00,Not ranked,Ice affected,WAUKAU CREEK NEAR OMRO, WI'  />
+<area shape="RECT" coords="234, 226, 242, 234" href="http://waterdata.usgs.gov/nwis/uv?04073500" alt='04073500: Stage=9.89ft,2009-02-05 22:15:00,Floodstage=13.0ft,Not ranked,Ice affected,FOX RIVER AT BERLIN, WI' title='04073500: Stage=9.89ft,2009-02-05 22:15:00,Floodstage=13.0ft,Not ranked,Ice affected,FOX RIVER AT BERLIN, WI'  />
+<area shape="RECT" coords="235, 233, 243, 241" href="http://waterdata.usgs.gov/nwis/uv?04073473" alt='04073473: Flow=42cfs,Stage=3.43ft,2009-02-05 22:15,Not ranked,PUCHYAN RIVER DS N. LAWSON DRIVE NR GREEN LAKE, WI' title='04073473: Flow=42cfs,Stage=3.43ft,2009-02-05 22:15,Not ranked,PUCHYAN RIVER DS N. LAWSON DRIVE NR GREEN LAKE, WI'  />
+<area shape="RECT" coords="236, 235, 244, 243" href="http://waterdata.usgs.gov/nwis/uv?04073468" alt='04073468: Flow=37cfs,Stage=6.34ft,2009-02-05 22:00,Not ranked,GREEN LAKE INLET AT CT HIGHWAY A NR GREEN LAKE, WI' title='04073468: Flow=37cfs,Stage=6.34ft,2009-02-05 22:00,Not ranked,GREEN LAKE INLET AT CT HIGHWAY A NR GREEN LAKE, WI'  />
+<area shape="RECT" coords="236, 236, 244, 244" href="http://waterdata.usgs.gov/nwis/uv?04073462" alt='04073462: Stage=4.47ft,2009-02-05 22:15:00,Not ranked,Ice affected,WHITE CREEK AT SPRING GROVE ROAD NR GREEN LAKE, WI' title='04073462: Stage=4.47ft,2009-02-05 22:15:00,Not ranked,Ice affected,WHITE CREEK AT SPRING GROVE ROAD NR GREEN LAKE, WI'  />
+<area shape="RECT" coords="214, 236, 222, 244" href="http://waterdata.usgs.gov/nwis/uv?04072845" alt='04072845: Stage=5.89ft,2009-02-05 21:00:00,Not ranked,Ice affected,MONTELLO RIVER NEAR MONTELLO, WI' title='04072845: Stage=5.89ft,2009-02-05 21:00:00,Not ranked,Ice affected,MONTELLO RIVER NEAR MONTELLO, WI'  />
+<area shape="RECT" coords="274, 185, 282, 193" href="http://waterdata.usgs.gov/nwis/uv?04072150" alt='04072150: Stage=12.07ft,2009-02-05 21:45:00,Floodstage=18.0ft,Not ranked,Ice affected,DUCK CREEK NEAR HOWARD, WI' title='04072150: Stage=12.07ft,2009-02-05 21:45:00,Floodstage=18.0ft,Not ranked,Ice affected,DUCK CREEK NEAR HOWARD, WI'  />
+<area shape="RECT" coords="281, 162, 289, 170" href="http://waterdata.usgs.gov/nwis/uv?04071765" alt='04071765: Stage=4.91ft,2009-02-05 22:00:00,Floodstage=9.0ft,Not ranked,Ice affected,OCONTO RIVER NEAR OCONTO, WI' title='04071765: Stage=4.91ft,2009-02-05 22:00:00,Floodstage=9.0ft,Not ranked,Ice affected,OCONTO RIVER NEAR OCONTO, WI'  />
+<area shape="RECT" coords="265, 162, 273, 170" href="http://waterdata.usgs.gov/nwis/uv?04071000" alt='04071000: Stage=2.10ft,2009-02-05 22:00:00,Floodstage=9.0ft,Not ranked,Ice affected,OCONTO RIVER NEAR GILLETT, WI' title='04071000: Stage=2.10ft,2009-02-05 22:00:00,Floodstage=9.0ft,Not ranked,Ice affected,OCONTO RIVER NEAR GILLETT, WI'  />
+<area shape="RECT" coords="292, 149, 300, 157" href="http://waterdata.usgs.gov/nwis/uv?04069500" alt='04069500: Stage=2.03ft,2009-02-05 22:00:00,Floodstage=10.0ft,Not ranked,Ice affected,PESHTIGO RIVER AT PESHTIGO, WI' title='04069500: Stage=2.03ft,2009-02-05 22:00:00,Floodstage=10.0ft,Not ranked,Ice affected,PESHTIGO RIVER AT PESHTIGO, WI'  />
+<area shape="RECT" coords="289, 142, 297, 150" href="http://waterdata.usgs.gov/nwis/uv?04069416" alt='04069416: Stage=8.15ft,2009-02-05 22:00:00,Floodstage=12.0ft,Not ranked,Ice affected,PESHTIGO RIVER AT PORTERFIELD, WI' title='04069416: Stage=8.15ft,2009-02-05 22:00:00,Floodstage=12.0ft,Not ranked,Ice affected,PESHTIGO RIVER AT PORTERFIELD, WI'  />
+<area shape="RECT" coords="264, 126, 272, 134" href="http://waterdata.usgs.gov/nwis/uv?04067958" alt='04067958: Stage=4.43ft,2009-02-05 19:00:00,Not ranked,Ice affected,PESHTIGO RIVER NEAR WABENO, WI' title='04067958: Stage=4.43ft,2009-02-05 19:00:00,Not ranked,Ice affected,PESHTIGO RIVER NEAR WABENO, WI'  />
+<area shape="RECT" coords="295, 129, 303, 137" href="http://waterdata.usgs.gov/nwis/uv?04067500" alt='04067500: Stage=9.85ft,2009-02-05 22:00:00,Floodstage=15.0ft,Not ranked,Ice affected,MENOMINEE RIVER NEAR MC ALLISTER, WI' title='04067500: Stage=9.85ft,2009-02-05 22:00:00,Floodstage=15.0ft,Not ranked,Ice affected,MENOMINEE RIVER NEAR MC ALLISTER, WI'  />
+<area shape="RECT" coords="293, 125, 301, 133" href="http://waterdata.usgs.gov/nwis/uv?04066800" alt='04066800: Stage=10.23ft,2009-02-05 22:15:00,Floodstage=17.0ft,Not ranked,Ice affected,MENOMINEE RIVER AT KOSS, MI' title='04066800: Stage=10.23ft,2009-02-05 22:15:00,Floodstage=17.0ft,Not ranked,Ice affected,MENOMINEE RIVER AT KOSS, MI'  />
+<area shape="RECT" coords="278, 118, 286, 126" href="http://waterdata.usgs.gov/nwis/uv?04066500" alt='04066500: Stage=3.10ft,2009-02-05 22:00:00,Not ranked,Ice affected,PIKE RIVER AT AMBERG, WI' title='04066500: Stage=3.10ft,2009-02-05 22:00:00,Not ranked,Ice affected,PIKE RIVER AT AMBERG, WI'  />
+<area shape="RECT" coords="288, 118, 296, 126" href="http://waterdata.usgs.gov/nwis/uv?04066030" alt='04066030: Stage=6.65ft,2009-02-05 22:00:00,Floodstage=14.0ft,Not ranked,Ice affected,MENOMINEE RIVER AT WHITE RAPIDS DAM NEAR BANAT, MI' title='04066030: Stage=6.65ft,2009-02-05 22:00:00,Floodstage=14.0ft,Not ranked,Ice affected,MENOMINEE RIVER AT WHITE RAPIDS DAM NEAR BANAT, MI'  />
+<area shape="RECT" coords="289, 112, 297, 120" href="http://waterdata.usgs.gov/nwis/uv?04066003" alt='04066003: Stage=8.29ft,2009-02-05 22:00:00,Floodstage=14.0ft,Not ranked,Ice affected,MENOMINEE RIVER BELOW PEMENE CREEK NR PEMBINE, WI' title='04066003: Stage=8.29ft,2009-02-05 22:00:00,Floodstage=14.0ft,Not ranked,Ice affected,MENOMINEE RIVER BELOW PEMENE CREEK NR PEMBINE, WI'  />
+<area shape="RECT" coords="279, 99, 287, 107" href="http://waterdata.usgs.gov/nwis/uv?04065106" alt='04065106: Flow=1280cfs,Stage=5.35ft,Floodstage=13.0ft,2009-02-05 22:00,Not ranked,MENOMINEE RIVER AT NIAGARA, WI' title='04065106: Flow=1280cfs,Stage=5.35ft,Floodstage=13.0ft,2009-02-05 22:00,Not ranked,MENOMINEE RIVER AT NIAGARA, WI'  />
+<area shape="RECT" coords="267, 94, 275, 102" href="http://waterdata.usgs.gov/nwis/uv?04064500" alt='04064500: Stage=3.02ft,2009-02-05 22:00:00,Floodstage=7.0ft,Not ranked,Ice affected,PINE RIVER BELOW PINE R POWERPLANT NR FLORENCE, WI' title='04064500: Stage=3.02ft,2009-02-05 22:00:00,Floodstage=7.0ft,Not ranked,Ice affected,PINE RIVER BELOW PINE R POWERPLANT NR FLORENCE, WI'  />
+<area shape="RECT" coords="255, 100, 263, 108" href="http://waterdata.usgs.gov/nwis/uv?04063700" alt='04063700: Stage=1.89ft,2009-02-05 21:00:00,Floodstage=6.0ft,Not ranked,Ice affected,POPPLE RIVER NEAR FENCE, WI' title='04063700: Stage=1.89ft,2009-02-05 21:00:00,Floodstage=6.0ft,Not ranked,Ice affected,POPPLE RIVER NEAR FENCE, WI'  />
+<area shape="RECT" coords="274, 92, 282, 100" href="http://waterdata.usgs.gov/nwis/uv?04063500" alt='04063500: Flow=528cfs,Stage=6.34ft,Floodstage=12.0ft,2009-02-05 14:30,Not ranked,MENOMINEE RIVER AT TWIN FALLS NEAR IRON MT, MI' title='04063500: Flow=528cfs,Stage=6.34ft,Floodstage=12.0ft,2009-02-05 14:30,Not ranked,MENOMINEE RIVER AT TWIN FALLS NEAR IRON MT, MI'  />
+<area shape="RECT" coords="267, 87, 275, 95" href="http://waterdata.usgs.gov/nwis/uv?04062011" alt='04062011: Flow=364cfs,Stage=6.56ft,Floodstage=12.0ft,2009-02-05 23:30,Not ranked,BRULE RIVER NEAR COMMONWEALTH, WI' title='04062011: Flow=364cfs,Stage=6.56ft,Floodstage=12.0ft,2009-02-05 23:30,Not ranked,BRULE RIVER NEAR COMMONWEALTH, WI'  />
+<area shape="RECT" coords="262, 86, 270, 94" href="http://waterdata.usgs.gov/nwis/uv?04060993" alt='04060993: Stage=4.74ft,2009-02-05 23:45:00,Not ranked,Ice affected,BRULE RIVER AT US HIGHWAY 2 NEAR FLORENCE, WI' title='04060993: Stage=4.74ft,2009-02-05 23:45:00,Not ranked,Ice affected,BRULE RIVER AT US HIGHWAY 2 NEAR FLORENCE, WI'  />
+<area shape="RECT" coords="207, 67, 215, 75" href="http://waterdata.usgs.gov/nwis/uv?04037400" alt='04037400: Stage=3.92ft,2009-02-05 23:00:00,Not ranked,CISCO LAKE NEAR WATERSMEET, MI' title='04037400: Stage=3.92ft,2009-02-05 23:00:00,Not ranked,CISCO LAKE NEAR WATERSMEET, MI'  />
+<area shape="RECT" coords="176, 49, 184, 57" href="http://waterdata.usgs.gov/nwis/uv?04031000" alt='04031000: Stage=1.58ft,2009-02-05 23:00:00,Floodstage=10.0ft,Not ranked,Ice affected,BLACK RIVER NEAR BESSEMER, MI' title='04031000: Stage=1.58ft,2009-02-05 23:00:00,Floodstage=10.0ft,Not ranked,Ice affected,BLACK RIVER NEAR BESSEMER, MI'  />
+<area shape="RECT" coords="146, 51, 154, 59" href="http://waterdata.usgs.gov/nwis/uv?04027000" alt='04027000: Stage=3.11ft,2009-02-05 23:45:00,Floodstage=18.0ft,Not ranked,Ice affected,BAD RIVER NEAR ODANAH, WI' title='04027000: Stage=3.11ft,2009-02-05 23:45:00,Floodstage=18.0ft,Not ranked,Ice affected,BAD RIVER NEAR ODANAH, WI'  />
+<area shape="RECT" coords="143, 43, 151, 51" href="http://waterdata.usgs.gov/nwis/uv?04026390" alt='04026390: Flow=0.39cfs,Stage=4.41ft,2009-02-05 20:00,Not ranked,BEARTRAP CREEK AT U.S. HIGHWAY 2 NEAR ASHLAND, WI' title='04026390: Flow=0.39cfs,Stage=4.41ft,2009-02-05 20:00,Not ranked,BEARTRAP CREEK AT U.S. HIGHWAY 2 NEAR ASHLAND, WI'  />
+<area shape="RECT" coords="103, 48, 111, 56" href="http://waterdata.usgs.gov/nwis/uv?04025500" alt='04025500: Stage=2.50ft,2009-02-05 22:15:00,Floodstage=7.0ft,Not ranked,Ice affected,BOIS BRULE RIVER AT BRULE, WI' title='04025500: Stage=2.50ft,2009-02-05 22:15:00,Floodstage=7.0ft,Not ranked,Ice affected,BOIS BRULE RIVER AT BRULE, WI'  />
+<area shape="RECT" coords="79, 41, 87, 49" href="http://waterdata.usgs.gov/nwis/uv?04024430" alt='04024430: Stage=5.35ft,2009-02-05 22:00:00,Floodstage=20.0ft,Not ranked,Ice affected,NEMADJI RIVER NEAR SOUTH SUPERIOR, WI' title='04024430: Stage=5.35ft,2009-02-05 22:00:00,Floodstage=20.0ft,Not ranked,Ice affected,NEMADJI RIVER NEAR SOUTH SUPERIOR, WI'  />
+<area shape='rect' coords='0,0,383,354' href='http://water.usgs.gov/waterwatch/?m=real&r=wi' title='Go to WaterWatch (offsite) for a larger map with additional options' alt='Go to WaterWatch (offsite) for a larger map with additional options' />
+</map>
+
+<!-- #EndLibraryItem --></td>
+    </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

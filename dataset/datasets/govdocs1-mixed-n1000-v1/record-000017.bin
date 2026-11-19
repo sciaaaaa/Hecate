@@ -1,0 +1,2755 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Maryland ESI: FISH (Fish Polygons)</title>
+<link rel="stylesheet" href="/mercury/style/mercury_default.css" type="text/css">
+<link rel="schema.dc" href="http://purl.org/metadata/dublin_core">
+<meta name="dc.title" content="Maryland ESI: FISH (Fish Polygons)">
+<meta name="dc.creator" content="National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Emergency Response Division (formerly Hazardous Materials Response Division), Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.">
+<meta name="dc.subject" content="environment, Environmental Monitoring, ESI, Sensitivity maps, Coastal resources, Oil spill planning, Coastal Zone Management, Wildlife, Fish">
+<meta name="dc.description" content="This data set contains sensitive biological resource data for marine, estuarine, anadromous, and freshwater fish species in Maryland. Vector polygons in this data set represent fish distribution, concentration areas, and spawning areas. Species specific abundance, seasonality, status, life history, and source information are stored in relational data tables (described below) designed to be used in conjunction with this spatial data layer. This data set comprises a portion of the Environmental Sensitivity Index (ESI) data for Maryland. ESI data characterize the marine and coastal environments and wildlife by their sensitivity to spilled oil. The ESI data include information for three main components: shoreline habitats, sensitive biological resources, and human-use resources.">
+<meta name="dc.publisher" content="">
+<meta name="dc.contributor" content="This project was supported by the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Emergency Response Division (formerly Hazardous Materials Response Division), Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.">
+<meta name="dc.date" content="200707">
+<meta name="dc.type" content="Vector digital data">
+<meta name="dc.format" content="">
+<meta name="dc.identifier" content="">
+<meta name="dc.source" content="">
+<meta name="dc.lang" content="en">
+<meta name="dc.relation" content="">
+<meta name="dc.coverage.x.min" content="-77.37500">
+<meta name="dc.coverage.x.max" content="-75.00000">
+<meta name="dc.coverage.y.min" content="37.87500">
+<meta name="dc.coverage.y.max" content="39.75000">
+<meta name="dc.coverage.placeName" content="Maryland">
+<meta name="dc.coverage.t.min" content="">
+<meta name="dc.coverage.t.max" content="">
+<meta name="dc.coverage.periodName" content="">
+<meta name="dc.rights" content="">
+<meta name="DateLastModified" content="2007-07-">
+
+</head>
+<body>
+<center>
+  <h4>Search the National Biological Information Infrastructure Metadata Clearinghouse for more biological information.</h4>
+  <p>
+    When you connect to the NBII Metadata Clearinghouse you will be able to search through metadata-based 
+    descriptions of biological data sets and information products from many different sources to identify 
+    those that meet your particular search criteria.
+  </p>
+  <p>The NBII Metadata Clearinghouse: <a href="http://metadata.nbii.gov/">http://metadata.nbii.gov/</a></p>
+  <p>The NBII Home Page: <a href="http://www.nbii.gov/">http://www.nbii.gov/</a></p>
+  <p>Powered by <a href="http://mercury.ornl.gov/">Mercury</a></p>
+</center>
+
+<!--BODY-->
+<a name="top"></a>
+<h1>Maryland ESI: FISH (Fish Polygons)</h1>
+<h2>Metadata:</h2>
+<ul>
+<li><a href="#idinfo">Identification_Information</a>
+<li><a href="#dataqual">Data_Quality_Information</a>
+<li><a href="#spdoinfo">Spatial_Data_Organization_Information</a>
+<li><a href="#spref">Spatial_Reference_Information</a>
+<li><a href="#eainfo">Entity_and_Attribute_Information</a>
+<li><a href="#distinfo">Distribution_Information</a>
+<li><a href="#metainfo">Metadata_Reference_Information</a>
+
+</ul>
+<a name="idinfo"><hr></a>
+<dl><dt><em>Identification_Information: </em><dd>
+<dl><dt><em>Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em><dd>National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Emergency Response Division (formerly Hazardous Materials Response Division), Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+</dd></dt></dl>
+<dl><dt><em>Publication_Date: </em>200707
+</dt></dl>
+<dl><dt><em>Title: </em>Maryland ESI: FISH (Fish Polygons)
+</dt></dl>
+<dl><dt><em>Edition: </em>First
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>Vector digital data
+</dt></dl>
+<dl><dt><em>Series_Information: </em><dd>
+<dl><dt><em>Series_Name: </em>None
+</dt></dl>
+<dl><dt><em>Issue_Identification: </em>Maryland
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Publication_Information: </em><dd>
+<dl><dt><em>Publication_Place: </em>Seattle, Washington
+</dt></dl>
+<dl><dt><em>Publisher: </em><dd>National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Emergency Response Division (formerly Hazardous Materials Response Division), Seattle, Washington.
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Other_Citation_Details: </em><dd>Prepared by Research Planning, Inc., Columbia, South Carolina for the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Emergency Response Division (formerly Hazardous Materials Response Division), Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+</dd></dt></dl>
+<dl><dt><em>Online_Linkage: </em><dd><a href="http://response.restoration.noaa.gov/esi">http://response.restoration.noaa.gov/esi</a>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Description: </em><dd>
+<dl><dt><em>Abstract: </em><dd>
+This data set contains sensitive biological resource data for marine, estuarine, anadromous, and freshwater fish species in Maryland.  Vector polygons in this data set represent fish distribution, concentration areas, and spawning areas. Species specific abundance, seasonality, status, life history, and source information are stored in relational data tables (described below) designed to be used in conjunction with this spatial data layer.
+
+<p>This data set comprises a portion of the Environmental Sensitivity Index (ESI) data for Maryland.  ESI data characterize the marine and coastal environments and wildlife by their sensitivity to spilled oil.  The ESI data include information for three main components: shoreline habitats, sensitive biological resources, and human-use resources.</p>
+</dd></dt></dl>
+<dl><dt><em>Purpose: </em><dd>The ESI data were collected, mapped, and digitized to provide environmental data for oil spill planning and response.  The Clean Water Act with amendments by the Oil Pollution Act of 1990 requires response plans for immediate and effective protection of sensitive resources.
+</dd></dt></dl>
+<dl><dt><em>Supplemental_Information: </em>ESI Atlas for Maryland
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Range_of_Dates_Times: </em><dd>
+<dl><dt><em>Beginning_Date: </em>1963
+</dt></dl>
+<dl><dt><em>Ending_Date: </em>2007
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Currentness_Reference: </em><dd>The biological data were compiled during 2005-2007.  The currentness dates for the data range from 1963 to 2007 and are documented in the Lineage section.
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Status: </em><dd>
+<dl><dt><em>Progress: </em>Complete
+</dt></dl>
+<dl><dt><em>Maintenance_and_Update_Frequency: </em>None Scheduled
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Spatial_Domain: </em><dd>
+<dl><dt><em>Bounding_Coordinates: </em><dd>
+<dl><dt><em>West_Bounding_Coordinate: </em>-77.37500
+</dt></dl>
+<dl><dt><em>East_Bounding_Coordinate: </em>-75.00000
+</dt></dl>
+<dl><dt><em>North_Bounding_Coordinate: </em>39.75000
+</dt></dl>
+<dl><dt><em>South_Bounding_Coordinate: </em>37.87500
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Keywords: </em><dd>
+<dl><dt><em>Theme: </em><dd>
+<dl><dt><em>Theme_Keyword_Thesaurus: </em>ISO 19115 Topic Category
+</dt></dl>
+<dl><dt><em>Theme_Keyword: </em>environment
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Theme: </em><dd>
+<dl><dt><em>Theme_Keyword_Thesaurus: </em>NOS Data Explorer Topic Category
+</dt></dl>
+<dl><dt><em>Theme_Keyword: </em>Environmental Monitoring
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Theme: </em><dd>
+<dl><dt><em>Theme_Keyword_Thesaurus: </em>None
+</dt></dl>
+<dl><dt><em>Theme_Keyword: </em>ESI
+</dt></dl>
+<dl><dt><em>Theme_Keyword: </em>Sensitivity maps
+</dt></dl>
+<dl><dt><em>Theme_Keyword: </em>Coastal resources
+</dt></dl>
+<dl><dt><em>Theme_Keyword: </em>Oil spill planning
+</dt></dl>
+<dl><dt><em>Theme_Keyword: </em>Coastal Zone Management
+</dt></dl>
+<dl><dt><em>Theme_Keyword: </em>Wildlife
+</dt></dl>
+<dl><dt><em>Theme_Keyword: </em>Fish
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Place: </em><dd>
+<dl><dt><em>Place_Keyword_Thesaurus: </em>None
+</dt></dl>
+<dl><dt><em>Place_Keyword: </em>Maryland
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Access_Constraints: </em>None
+</dt></dl>
+<dl><dt><em>Use_Constraints: </em><dd>
+DO NOT USE MAPS FOR NAVIGATIONAL PURPOSES.
+<p>Besides the above warning, there are no use constraints on these data.  Note that the ESI database should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations.  Likewise, information contained in the database cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys.  Recognize that the information contained in the ESI database represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource.  This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc.  Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.</p>
+</dd></dt></dl>
+<dl><dt><em>Browse_Graphic: </em><dd>
+<dl><dt><em>Browse_Graphic_File_Name: </em>datafig.jpg
+</dt></dl>
+<dl><dt><em>Browse_Graphic_File_Description: </em><dd>Depicts the relationships between spatial data layers and attribute data tables for the Maryland ESI data.
+</dd></dt></dl>
+<dl><dt><em>Browse_Graphic_File_Type: </em>JPEG
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Data_Set_Credit: </em><dd>This project was supported by the National Oceanic and Atmospheric Administration (NOAA), National Ocean Service, Office of Response and Restoration, Emergency Response Division (formerly Hazardous Materials Response Division), Seattle, Washington and NOAA Chesapeake Bay Office, Gloucester Point, Virginia.
+</dd></dt></dl>
+<dl><dt><em>Native_Data_Set_Environment: </em><dd>
+The software packages used to develop the atlas are Environmental Systems Research Institute's ARC/INFO® (version 9.1) and SQL SERVER® (version 2000). The hardware configuration is PC's with Windows Operating System (NT4.0/2000).
+
+<p>The Spatial_Data_Organization Information section refers only to the source files in the ARC export format.  The following files are included in that data set: birds.e00, esi.e00, fish.e00, habitats.e00, hydro.e00, index.e00, invert.e00, m_mammal.e00, mgt.e00, nests.e00, reptiles.e00, socecon.e00, t_mammal.e00.  Associated relational and desktop data tables provided in Arc export and text format are bio_lut, biofile, biores, breed, breed_dt, seasonal, soc_dat, soc_lut, sources, species, and status.</p>
+</dd></dt></dl>
+</dd></dt></dl>
+<a href="#top">Back to Top</a>
+<a name="dataqual"><hr></a>
+<dl><dt><em>Data_Quality_Information: </em><dd>
+<dl><dt><em>Attribute_Accuracy: </em><dd>
+<dl><dt><em>Attribute_Accuracy_Report: </em><dd>A multi-stage error checking process is used to verify both attribute accuracy and logical consistency throughout data production.  The process includes a standardized data entry methodology, hardcopy data review by in-house and external resource experts, a final Quality Assurance/Quality Control (QA/QC) process, and multiple automated logical consistency checks.  Quantitative data (such as densities, counts, abundances, or concentrations) provided by resource experts for inclusion in the data set may vary widely in attribute accuracy, depending upon the methodology used to collect and compile such data.  For a more detailed evaluation of source data attribute accuracy, contact the sources listed in the Lineage section.
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Logical_Consistency_Report: </em><dd>
+A multi-stage error checking process, described in the above Attribute_Accuracy_Report, is used to verify both attribute accuracy and logical consistency throughout data production.  This process includes multiple automated logical consistency checks that test the files for missing or duplicate data, rules for proper coding, GIS topological consistencies (such as dangles, unnecessary nodes, etc.), and SQL SERVER® to ARC/INFO® consistencies.  A final review is made by the GIS manager, where the data are written to CD-ROM and the metadata are written.
+
+<p>After the data are delivered to NOAA, they are again subjected to a number of quality and consistency checks. In the process of checking for topological and database consistencies, new ID's and RARNUM's or HUNUM's are also generated.  The new ID's are a combination of atlas number, element number, and record number.  In addition, the value used to represent the element is modified to reflect the type of feature being mapped.  In the case of an element that is normally represented by a point or polygon, a value of 20 is added to the standard element value for mapping of linear features.  In the case where an element usually mapped as a polygon is represented by a point, a value of 30 is added to the regular element value.  The RARNUM's are also modified to include the atlas number, so multiple atlases can be combined and RARNUM's remain unique.  RARNUM's are redefined on an element basis, so "resources at risk" groupings will contain only a single element.  HUNUM's are also modified to include the atlas number.</p>
+</dd></dt></dl>
+<dl><dt><em>Completeness_Report: </em><dd>These data represent a synthesis of expert knowledge, available hardcopy documents, and survey data for fish distribution, concentration areas, and spawning areas. These data do not necessarily represent all fish occurrences in Maryland.  The following species are included in this data set: (Species_ID, Common Name, Scientific Name [n/a if not applicable]): 65, Bluefish, Pomatomus saltatrix; 74, Rainbow trout, Oncorhynchus mykiss; 81, Spiny dogfish, Squalus acanthias; 85, Alewife, Alosa pseudoharengus; 86, Blueback herring, Alosa aestivalis; 87, American shad, Alosa sapidissima; 88, Winter flounder, Pleuronectes americanus; 90, White hake, Urophycis tenuis; 94, Atlantic silverside, Menidia menidia; 95, Mummichog, Fundulus heteroclitus; 97, Tautog, Tautoga onitis; 98, American eel, Anguilla rostrata; 100, Brown trout, Salmo trutta; 101, Shortnose sturgeon, Acipenser brevirostrum; 102, Atlantic sturgeon, Acipenser oxyrinchus; 103, Threadfin shad, Dorosoma petenense; 104, Striped bass, Morone saxatilis; 105, Hickory shad, Alosa mediocris; 107, Spotted seatrout, Cynoscion nebulosus; 108, Summer flounder, Paralichthys dentatus; 109, Red drum, Sciaenops ocellatus; 110, Black sea bass, Centropristis striata; 113, Bay anchovy, Anchoa mitchilli; 115, Atlantic menhaden, Brevoortia tyrannus; 116, Striped mullet, Mugil cephalus; 117, Pinfish, Lagodon rhomboides; 119, Silver perch, Bairdiella chrysoura; 120, Pigfish, Orthopristis chrysoptera; 121, Spot, Leiostomus xanthurus; 122, Black drum, Pogonias cromis; 123, Atlantic croaker, Micropogonias undulatus; 124, Southern kingfish (whiting), Menticirrhus americanus; 127, Spanish mackerel, Scomberomorus maculatus; 129, Atlantic thread herring, Opisthonema oglinum; 137, Sheepshead, Archosargus probatocephalus; 138, Weakfish, Cynoscion regalis; 142, Crevalle jack, Caranx hippos; 145, White perch, Morone americana; 146, Atlantic herring, Clupea harengus; 147, Atlantic mackerel, Scomber scombrus; 148, Silver hake, Merluccius bilinearis; 150, Scup (porgy), Stenotomus chrysops; 151, Northern puffer, Sphoeroides maculatus; 152, Yellow perch, Perca flavescens; 153, Northern kingfish, Menticirrhus saxatilis; 154, Pollock, Pollachius virens; 155, Red hake, Urophycis chuss; 157, Monkfish, Lophius americanus; 158, Butterfish, Peprilus triacanthus; 160, Windowpane, Scophthalmus aquosus; 162, Common carp, Cyprinus carpio; 163, Gizzard shad, Dorosoma cepedianum; 166, Brook trout, Salvelinus fontinalis; 168, Spottail shiner, Notropis hudsonius; 173, White mullet, Mugil curema; 179, Largemouth bass, Micropterus salmoides; 180, Smallmouth bass, Micropterus dolomieu; 181, Black crappie, Pomoxis nigromaculatus; 182, Bluegill, Lepomis macrochirus; 188, Walleye, Stizostedion vitreum vitreum; 191, Shorthead redhorse, Moxostoma macrolepidotum; 200, Blue catfish, Ictalurus furcatus; 201, Channel catfish, Ictalurus punctatus; 202, White crappie, Pomoxis annularis; 204, Redear sunfish, Lepomis microlophus; 211, Brown bullhead, Ameiurus nebulosus; 212, Pumpkinseed, Lepomis gibbosus; 249, Logperch, Percina caprodes; 271, Inland silverside, Menidia beryllina; 283, Killifish, Fundulus spp.; 290, Striped anchovy, Anchoa hepsetus; 292, Chain pickerel, Esox niger; 294, Spotted hake, Urophycis regia; 301, Rough silverside, Membras martinica; 309, Spotfin mojarra, Eucinostomus argenteus; 310, Atlantic spadefish, Chaetodipterus faber; 312, Harvestfish, Peprilus alepidotus; 325, Blackcheek tonguefish, Symphurus plagiusa; 335, Silversides, n/a; 353, Golden shiner, Notemigonus crysoleucas; 362, Southern stingray, Dasyatis americana; 363, Inshore lizardfish, Synodus foetens; 366, Hogchoker, Trinectes maculatus; 378, Atlantic needlefish, Strongylura marina; 464, Longnose gar, Lepisosteus osseus; 477, Cownose ray, Rhinoptera bonasus; 482, Northern pipefish, Syngnathus fuscus; 483, Northern searobin, Prionotus carolinus; 485, Oyster toadfish, Opsanus tau; 500, Sea lamprey, Petromyzon marinus; 506, White catfish, Ameiurus catus; 865, Striped burrfish, Cyclichthys schoepfi; 966, Clearnose skate, Raja eglanteria; 967, Sandbar shark, Carcharhinus plumbeus; 984, Bluespotted sunfish, Enneacanthus gloriosus; 985, Redbreast sunfish, Lepomis auritus; 986, Tessellated darter, Etheostoma olmstedi; 1001, Blennies, n/a; 1029, Gobies, n/a; 1042, Needlefishes, Belonidae; 1088, Lined seahorse, Hippocampus erectus; 1089, Little skate, Leucoraja erinacea; 1090, Northern stargazer, Astroscopus guttatus; 1091, Smallmouth flounder, Etropus microstomus; 1092, Striped cusk-eel, Ophidion marginatum; 1093, Butterfly ray, Gymnura micrura; 1104, Atlantic angel shark, Squatina dumeril; 1105, Blackbanded sunfish, Enneacanthus chaetodon; 1106, Eastern silvery minnow, Hybognathus regius; 1107, Sand tiger, Carcharias taurus; 1108, Smooth dogfish, Mustelus canis; 1109, Striped searobin, Prionotus evolans.
+</dd></dt></dl>
+<dl><dt><em>Positional_Accuracy: </em><dd>
+<dl><dt><em>Horizontal_Positional_Accuracy: </em><dd>
+<dl><dt><em>Horizontal_Positional_Accuracy_Report: </em><dd>Spatial components for the biological data layers can come from expert interviews, hardcopy, or digital sources. Most of the spatial components of the biological data layers are developed using regional experts who estimate concentration areas.  It is difficult to estimate the positional accuracy of such data, except to state that they are compiled on hardcopy base maps with a scale of 1:24,000.  Some of the spatial components of the biological data sets are developed from pre-existing digital or hardcopy sources and reflect the positional accuracy of these original data.  See the Lineage and Process_Description sections for more information on the original data source and how these data were integrated or manipulated to create the final data set.  Note that biological resource data by their very nature are considered "fuzzy", and this should be understood when considering the positional accuracy of vector digital objects representing these resources.
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Lineage: </em><dd>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>DOCTOR, S., MD DEPARTMENT OF NATURAL RESOURCES (DNR)
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2006
+</dt></dl>
+<dl><dt><em>Title: </em><dd>PERSONAL COMMUNICATION LIVING MARINE RESOURCES WITHIN THE COASTAL BAYS OF MD
+</dd></dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>EXPERT KNOWLEDGE
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>UNPUBLISHED
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>PERSONAL COMMUNICATION
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Range_of_Dates_Times: </em><dd>
+<dl><dt><em>Beginning_Date: </em>2006
+</dt></dl>
+<dl><dt><em>Ending_Date: </em>2007
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF COMMUNICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>DOTSON, J., INTERSTATE COMMISSION ON THE POTOMAC RIVER BASIN (ICPRB)
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2007
+</dt></dl>
+<dl><dt><em>Title: </em>PERSONAL COMMUNICATION ON FISH IN THE POTOMAC RIVER
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>EXPERT KNOWLEDGE
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>UNPUBLISHED
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>EMAIL
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>2007
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF COMMUNICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>DURELL, E., MD DNR
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2006
+</dt></dl>
+<dl><dt><em>Title: </em>PERSONAL COMMUNICATION ON FINFISH OF CHESAPEAKE BAY
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>EXPERT KNOWLEDGE
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>UNPUBLISHED
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>PERSONAL COMMUNICATION
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Range_of_Dates_Times: </em><dd>
+<dl><dt><em>Beginning_Date: </em>2006
+</dt></dl>
+<dl><dt><em>Ending_Date: </em>2007
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF COMMUNICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>EYLER, S., U.S. FISH & WILDLIFE SERVICE (USFWS)
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2005
+</dt></dl>
+<dl><dt><em>Title: </em>PERSONAL COMMUNICATION ON DISTRIBUTION OF STURGEON AND HORSESHOE CRAB
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>EXPERT KNOWLEDGE
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>UNPUBLISHED
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>PERSONAL COMMUNICATION
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Range_of_Dates_Times: </em><dd>
+<dl><dt><em>Beginning_Date: </em>2005
+</dt></dl>
+<dl><dt><em>Ending_Date: </em>2007
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF COMMUNICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>FUNDERBURK, S.L. ET AL. (EDS)
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>1991
+</dt></dl>
+<dl><dt><em>Title: </em>HABITAT REQUIREMENTS FOR CHESAPEAKE BAY LIVING RESOURCES
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>HARDCOPY TEXT
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em><dd>CHESAPEAKE BAY PROGRAM OFFICE, U.S. ENVIRONMENTAL PROTECTION AGENCY, ANNAPOLIS, MD
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>PAPER
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>1991
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF PUBLICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>LIPPSON, A.J. ET AL.
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>1979
+</dt></dl>
+<dl><dt><em>Title: </em>ENVIRONEMNTAL ATLAS OF THE POTOMAC ESTUARY
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>HARDCOPY TEXT
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>PREPARED FOR THE POWER PLANT SITING PROGRAM, MARYLAND DNR
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>PAPER
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>1979
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF PUBLICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>MANSUETI AND HOLLIS
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>1963
+</dt></dl>
+<dl><dt><em>Title: </em>STRIPED BASS IN MARYLAND TIDEWATER
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>HARDCOPY TEXT
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>MARYLAND DEPARTMENT OF TIDEWATER FISHERIES, ANNAPOLIS, MD
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>PAPER
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>1963
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF PUBLICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>MARYLAND DNR
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2005
+</dt></dl>
+<dl><dt><em>Title: </em>SUSQUEHANNA STATE PARK
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>WEBSITE
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em><dd><a href="http://www.dnr.state.md.us/publiclands/central/susquehanna">http://www.dnr.state.md.us/publiclands/central/susquehanna</a>.html, ANNAPOLIS, MD
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>ONLINE
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>2005
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF PUBLICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>MARYLAND DNR
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2003
+</dt></dl>
+<dl><dt><em>Title: </em>FISHING THE UPPER CHESAPEAKE
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>WEBSITE
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em><dd><a href="http://www.dnr.state.md.us/naturalresource/summer2003/fishing">http://www.dnr.state.md.us/naturalresource/summer2003/fishing</a>.html, ANNAPOLIS, MD DNR
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>ONLINE
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>2003
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF PUBLICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>MCGINTY, M., MD DNR
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2007
+</dt></dl>
+<dl><dt><em>Title: </em>PERSONAL COMMUNICATION ON FISH IN CHESAPEAKE BAY
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>EXPERT KNOWLEDGE
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>UNPUBLISHED
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>PERSONAL COMMUNICATION
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>2007
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF COMMUNICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>MD DNR FISHERIES SERVICE
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2003
+</dt></dl>
+<dl><dt><em>Title: </em>FRESHWATER FISHING HOTSPOTS
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>WEBSITE
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em><dd><a href="http://www.dnr.state.md.us/fisheries/recreational/fwhotgunpowdertail">http://www.dnr.state.md.us/fisheries/recreational/fwhotgunpowdertail</a>.html, ANNAPOLIS, MD
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>ONLINE
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>2003
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF PUBLICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>MD DNR WILDLIFE AND HERITAGE
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2006
+</dt></dl>
+<dl><dt><em>Title: </em><dd>ECOLOGICALLY SIGNIFICANT AREAS OF MARYLAND'S TIDAL WATERS AND SHORELINES
+</dd></dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>VECTOR DIGITAL DATA
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>MD DNR, ANNAPOLIS, MD
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>EMAIL
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Range_of_Dates_Times: </em><dd>
+<dl><dt><em>Beginning_Date: </em>1966
+</dt></dl>
+<dl><dt><em>Ending_Date: </em>2006
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF SURVEY
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>MOWRER, J., MD DNR
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2007
+</dt></dl>
+<dl><dt><em>Title: </em>PERSONAL COMMUNICATION ON FISH IN CHESAPEAKE BAY
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>EXPERT KNOWLEDGE
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>UNPUBLISHED
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>PERSONAL COMMUNICATION
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>2007
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF COMMUNICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>MURDY, BIRDSONG, AND MUSICK
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>1997
+</dt></dl>
+<dl><dt><em>Title: </em>FISHES OF CHESAPEAKE BAY
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>HARDCOPY TEXT
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>SMITHSONIAN INSTITUTION PRESS, WASHINGTON, D.C.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>PAPER
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>1997
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF PUBLICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>NATURESERVE
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2006
+</dt></dl>
+<dl><dt><em>Title: </em>WWW.NATURESERVE.ORG
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>HARDCOPY TEXT
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>WWW.NATURESERVE.ORG
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>ONLINE
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>2006
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF COMMUNICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Information: </em><dd>
+<dl><dt><em>Source_Citation: </em><dd>
+<dl><dt><em>Citation_Information: </em><dd>
+<dl><dt><em>Originator: </em>USFWS, REG. 5
+</dt></dl>
+<dl><dt><em>Publication_Date: </em>2005
+</dt></dl>
+<dl><dt><em>Title: </em>CHESAPEAKE MARSHLANDS NATIONAL WILDLIFE REFUGE COMPLEX DRAFT EA
+</dt></dl>
+<dl><dt><em>Geospatial_Data_Presentation_Form: </em>HARDCOPY TEXT
+</dt></dl>
+<dl><dt><em>Other_Citation_Details: </em>CHESAPEAKE MARSHLANDS NWR COMPLEX, CAMBRIDGE, MD
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Type_of_Source_Media: </em>PAPER
+</dt></dl>
+<dl><dt><em>Source_Time_Period_of_Content: </em><dd>
+<dl><dt><em>Time_Period_Information: </em><dd>
+<dl><dt><em>Single_Date_Time: </em><dd>
+<dl><dt><em>Calendar_Date: </em>2005
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Currentness_Reference: </em>DATE OF PUBLICATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Source_Citation_Abbreviation: </em>NONE
+</dt></dl>
+<dl><dt><em>Source_Contribution: </em>FISH INFORMATION
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Process_Step: </em><dd>
+<dl><dt><em>Process_Description: </em><dd>
+Two main sources of data were used to depict fish distribution and seasonality for this data layer: (1) personal interviews with resource experts from the Maryland Department of Natural Resources (MD DNR), and U.S. Fish and Wildlife Service (USFWS); and (2) numerous published and unpublished reports.
+
+<p>The above digital and/or hardcopy sources were compiled by the project biologist to create the FISH data layer. Depending on the type of source data, three general approaches are used for compiling a biology data layer: (1) information gathered during initial interviews and from hardcopy sources are compiled onto U.S. Geological Survey 1:24,000 topographic quadrangles and digitized; (2) hardcopy maps are digitized at their source scale; and (3) digital data layers are evaluated and used "as is" or integrated with the hardcopy data sources. See the Lineage section for additional information on the type of source data for this data layer. The compiled ESI, biology, and human-use data are plotted onto hardcopy draft maps.  Following the delivery of draft maps to the participating resource experts, a second set of interviews is conducted to review the maps.  If necessary, edits to the FISH data layer are made based on the recommendations of the resource experts, and final hardcopy maps and digital data are created.</p>
+</dd></dt></dl>
+<dl><dt><em>Process_Date: </em>200704
+</dt></dl>
+<dl><dt><em>Process_Contact: </em><dd>
+<dl><dt><em>Contact_Information: </em><dd>
+<dl><dt><em>Contact_Organization_Primary: </em><dd>
+<dl><dt><em>Contact_Organization: </em>NOAA, Office of Response and Restoration
+</dt></dl>
+<dl><dt><em>Contact_Person: </em>Jill Petersen
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Contact_Address: </em><dd>
+<dl><dt><em>Address_Type: </em>Physical address
+</dt></dl>
+<dl><dt><em>Address: </em>7600 Sand Point Way, N.E.
+</dt></dl>
+<dl><dt><em>City: </em>Seattle
+</dt></dl>
+<dl><dt><em>State_or_Province: </em>Washington
+</dt></dl>
+<dl><dt><em>Postal_Code: </em>98115-6349
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Contact_Voice_Telephone: </em>(206) 526-6944
+</dt></dl>
+<dl><dt><em>Contact_Facsimile_Telephone: </em>(206) 526-6329
+</dt></dl>
+<dl><dt><em>Contact_Electronic_Mail_Address: </em>Jill.Petersen@noaa.gov
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<a href="#top">Back to Top</a>
+<a name="spdoinfo"><hr></a>
+<dl><dt><em>Spatial_Data_Organization_Information: </em><dd>
+<dl><dt><em>Direct_Spatial_Reference_Method: </em>Vector
+</dt></dl>
+<dl><dt><em>Point_and_Vector_Object_Information: </em><dd>
+<dl><dt><em>SDTS_Terms_Description: </em><dd>
+<dl><dt><em>SDTS_Point_and_Vector_Object_Type: </em>GT-polygon composed of chains
+</dt></dl>
+<dl><dt><em>Point_and_Vector_Object_Count: </em>1823
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>SDTS_Terms_Description: </em><dd>
+<dl><dt><em>SDTS_Point_and_Vector_Object_Type: </em>Area point
+</dt></dl>
+<dl><dt><em>Point_and_Vector_Object_Count: </em>1823
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>SDTS_Terms_Description: </em><dd>
+<dl><dt><em>SDTS_Point_and_Vector_Object_Type: </em>Complete chain
+</dt></dl>
+<dl><dt><em>Point_and_Vector_Object_Count: </em>6329
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>SDTS_Terms_Description: </em><dd>
+<dl><dt><em>SDTS_Point_and_Vector_Object_Type: </em>Link
+</dt></dl>
+<dl><dt><em>Point_and_Vector_Object_Count: </em>1841072
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>SDTS_Terms_Description: </em><dd>
+<dl><dt><em>SDTS_Point_and_Vector_Object_Type: </em>Node, planar graph
+</dt></dl>
+<dl><dt><em>Point_and_Vector_Object_Count: </em>6094
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<a href="#top">Back to Top</a>
+<a name="spref"><hr></a>
+<dl><dt><em>Spatial_Reference_Information: </em><dd>
+<dl><dt><em>Horizontal_Coordinate_System_Definition: </em><dd>
+<dl><dt><em>Geographic: </em><dd>
+<dl><dt><em>Latitude_Resolution: </em>0.0000001
+</dt></dl>
+<dl><dt><em>Longitude_Resolution: </em>0.0000001
+</dt></dl>
+<dl><dt><em>Geographic_Coordinate_Units: </em>Decimal degrees
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Geodetic_Model: </em><dd>
+<dl><dt><em>Horizontal_Datum_Name: </em>North American Datum of 1927
+</dt></dl>
+<dl><dt><em>Ellipsoid_Name: </em>Clark 1866
+</dt></dl>
+<dl><dt><em>Semi_major_Axis: </em>6378206.400000
+</dt></dl>
+<dl><dt><em>Denominator_of_Flattening_Ratio: </em>294.978698
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<a href="#top">Back to Top</a>
+<a name="eainfo"><hr></a>
+<dl><dt><em>Entity_and_Attribute_Information: </em><dd>
+<dl><dt><em>Detailed_Description: </em><dd>
+<dl><dt><em>Entity_Type: </em><dd>
+<dl><dt><em>Entity_Type_Label: </em>FISH.PAT
+</dt></dl>
+<dl><dt><em>Entity_Type_Definition: </em><dd>The FISH.PAT table contains attribute information for the vector polygons in this data set representing fish distribution, concentration areas, and spawning areas.  Note that all attribute information is stored in a series of relational files, described below.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the relationships between attribute tables in the ESI data structure.
+</dd></dt></dl>
+<dl><dt><em>Entity_Type_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>ID
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>An identifier that links vector objects in the biology data layers to records in the BIO_LUT data table.  ID is a concatenation of atlas number (47), element number (2), and record number.  ID values of 9999 are holes in polygons and do not contain information.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>NOAA
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>0470200002
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>0470201790
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>RARNUM
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>An identifier that links directly to the BIORES table or the flat format BIOFILE table.  RARNUM values of 0 are holes in polygons and do not contain information.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>NOAA
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>047001084
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>047001221
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Detailed_Description: </em><dd>
+<dl><dt><em>Entity_Type: </em><dd>
+<dl><dt><em>Entity_Type_Label: </em>BIO_LUT
+</dt></dl>
+<dl><dt><em>Entity_Type_Definition: </em><dd>The data table BIO_LUT is a lookup table that contains items necessary for linking vector objects in the biological data layers with the BIORES data table.  Note that all attribute information is stored in a series of relational files, described below.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+</dd></dt></dl>
+<dl><dt><em>Entity_Type_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>RARNUM
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>An identifier that links records in the BIO_LUT data table to records in the BIORES data table or the flat format BIOFILE data table.  RARNUM values of 0 are holes in polygons and do not contain information.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>NOAA
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>047000001
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>047001335
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>ID
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>An identifier that links vector objects in the biology data layers to records in the BIO_LUT data table.  ID is a concatenation of atlas number (47), element number (2), and record number. ID values of 9999 are holes in polygons and do not contain information.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>NOAA
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>0470100002
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>0470900381
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Detailed_Description: </em><dd>
+<dl><dt><em>Entity_Type: </em><dd>
+<dl><dt><em>Entity_Type_Label: </em>BIORES
+</dt></dl>
+<dl><dt><em>Entity_Type_Definition: </em><dd>The data table BIORES contains both biological attribute data and items necessary for linking vector objects in the biological data layers via the BIO_LUT data table to other associated data tables.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+</dd></dt></dl>
+<dl><dt><em>Entity_Type_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>RARNUM
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>An identifier that links records in the BIORES data table to records in the BIO_LUT data table or the flat format BIOFILE data table.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>NOAA
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>047000001
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>047001335
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>SPECIES_ID
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Numeric identifier for each species that is unique within each element and refers to a nationwide master ESI species list maintained at NOAA.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>1
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>N
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>CONC
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>The field CONC refers to "concentration," abundance, or density values of a species at a particular location. No concentration data were available for fish, so the CONC field is populated with "-".
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>SEASON_ID
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Numeric identifier for the unique monthly presence and life history characteristics of each species at a given location.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>1
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>N
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>G_SOURCE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Geographic source identifier that links records in the BIORES data table to records in the SOURCES data table.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>1
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>N
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>S_SOURCE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Seasonality source identifier that links records in the BIORES data table to records in the SOURCES data table.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>1
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>N
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>ELEMENT
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Major categories of biological data.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>BIRD
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Birds
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>FISH
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>HABITAT
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Habitats and Plants
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>INVERT
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Invertebrates
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>M_MAMMAL
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Marine Mammals
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>REPTILE
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Reptiles and Amphibians
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>T_MAMMAL
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Terrestrial Mammals
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>EL_SPE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Concatenation of ELEMENT and SPECIES_ID.  This item links records in the BIORES data table to records in the SPECIES and STATUS data tables.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>E#####
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em><dd>Where E is the first character of ELEMENT and the next five characters are SPECIES_ID (e.g. ELEMENT = 'BIRD' and SPECIES_ID = 1; EL_SPE = 'B00001').
+</dd></dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>EL_SPE_SEA
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Concatenation of ELEMENT, SPECIES_ID, and SEASON_ID. This item links records in the BIORES data table to records in the SEASONAL and BREED data tables.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>E#######
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em><dd>Where E is the first character of ELEMENT, the next five characters are SPECIES_ID, and the last two characters are SEASON_ID (e.g. ELEMENT = 'BIRD', SPECIES_ID = 1 and SEASON_ID = 1; EL_SPE_SEA = 'B0000101').
+</dd></dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Detailed_Description: </em><dd>
+<dl><dt><em>Entity_Type: </em><dd>
+<dl><dt><em>Entity_Type_Label: </em>SPECIES
+</dt></dl>
+<dl><dt><em>Entity_Type_Definition: </em><dd>The data table SPECIES identifies all species in the ESI data set.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.  Refer to the Completeness_Report for a list of layer-specific species.
+</dd></dt></dl>
+<dl><dt><em>Entity_Type_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>SPECIES_ID
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Numeric identifier for each species that is unique within each element and refers to a nationwide master ESI species list maintained at NOAA.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>1
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>N
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>NAME
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Species common name for the entire ESI data set.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>GEN_SPEC
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Species scientific name for the entire ESI data set.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>ELEMENT
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Major categories of biological data.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>BIRD
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Birds
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>FISH
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>HABITAT
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Habitats and Plants
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>INVERT
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Invertebrates
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>M_MAMMAL
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Marine Mammals
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>REPTILE
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Reptiles and Amphibians
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>T_MAMMAL
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Terrestrial Mammals
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>SUBELEMENT
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Element subgroup delineating a logical grouping of species.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>amphibian
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Amphibian
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>bivalve
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Bivalve
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>crab
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Crab
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>diadromous
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Diadromous fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>diving
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Diving bird
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>dolphin
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Dolphin
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>e_nursery
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Estuarine nursery fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>e_resident
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Estuarine resident
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>freshwater
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Freshwater fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>gastropod
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Gastropod
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>gull_tern
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Gull or tern
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>insect
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Insect
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>invert
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Invert
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>m_benthic
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Marine benthic fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>m_pelagic
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Marine pelagic fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>passerine
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Passerine bird
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>pelagic
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Pelagic bird
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>pinniped
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Pinniped
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>plant
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Plant
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>raptor
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Raptor
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>sav
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Submerged aquatic vegetation
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>shorebird
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Shorebird
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>shrimp
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Shrimps
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>sm_mammal
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Small mammal
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>turtle
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Turtle
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>upland
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Upland
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>wading
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Wading bird
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>waterfowl
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Waterfowl
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>wetland
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Wetland
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>whale
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Whale
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>NHP
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Natural Heritage Program global ranking.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Network of Natural Heritage Program
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Codeset_Domain: </em><dd>
+<dl><dt><em>Codeset_Name: </em>NHP Global Conservation Status Rank
+</dt></dl>
+<dl><dt><em>Codeset_Source: </em>Natural Heritage Program
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>DATE_PUB
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Date of NHP listing.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>YYYYMM
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>YYYY for year and optionally MM for month
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>0
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Date unspecified
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>EL_SPE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Concatenation of ELEMENT and SPECIES_ID.  This item links records in the SPECIES data table to records in the BIORES and STATUS data tables.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>E#####
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em><dd>Where E is the first character of ELEMENT and the next five characters are SPECIES_ID (e.g. ELEMENT = 'BIRD' and SPECIES_ID = 1; EL_SPE = 'B00001').
+</dd></dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Detailed_Description: </em><dd>
+<dl><dt><em>Entity_Type: </em><dd>
+<dl><dt><em>Entity_Type_Label: </em>SEASONAL
+</dt></dl>
+<dl><dt><em>Entity_Type_Definition: </em><dd>The data table SEASONAL contains information on the seasonal presence of each species associated with each spatial vector object.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+</dd></dt></dl>
+<dl><dt><em>Entity_Type_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>ELEMENT
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Major categories of biological data.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>BIRD
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Birds
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>FISH
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>HABITAT
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Habitats and Plants
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>INVERT
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Invertebrates
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>M_MAMMAL
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Marine Mammals
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>REPTILE
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Reptiles and Amphibians
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>T_MAMMAL
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Terrestrial Mammals
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>SPECIES_ID
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Numeric identifier for each species that is unique within each element and refers to a nationwide ESI species list maintained at NOAA.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>1
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>N
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>SEASON_ID
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Numeric identifier for the unique monthly presence and life history characteristics of each species at a given location.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>1
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>N
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>JAN
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>January
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in January
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>FEB
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>February
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in February
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>MAR
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>March
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in March
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>APR
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>April
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in April
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>MAY
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>May
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in May
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>JUN
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>June
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in June
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>JUL
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>July
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in July
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>AUG
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>August
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in August
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>SEP
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>September
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in September
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>OCT
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>October
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in October
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>NOV
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>November
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in November
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>DEC
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>December
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>X
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Present in December
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>EL_SPE_SEA
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Concatenation of ELEMENT, SPECIES_ID, and SEASON_ID. This item links records in the SEASONAL data table to records in the BIORES and BREED data tables.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>E#######
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em><dd>Where E is the first character of ELEMENT, the next five characters are SPECIES_ID, and the last two characters are SEASON_ID (e.g. ELEMENT = 'BIRD', SPECIES_ID = 1 and SEASON_ID = 1; EL_SPE_SEA = 'B0000101').
+</dd></dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Detailed_Description: </em><dd>
+<dl><dt><em>Entity_Type: </em><dd>
+<dl><dt><em>Entity_Type_Label: </em>BREED
+</dt></dl>
+<dl><dt><em>Entity_Type_Definition: </em><dd>The data table BREED identifies the monthly presence of certain life-history stages or activities for each species at a given location.
+</dd></dt></dl>
+<dl><dt><em>Entity_Type_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>EL_SPE_SEA
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Concatenation of ELEMENT, SPECIES_ID, and SEASON_ID.  This item links records in the BREED data table to records in the BIORES and SEASONAL data tables.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>E#######
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em><dd>Where E is the first character of ELEMENT, the next five characters are SPECIES_ID, and the last two characters are SEASON_ID (e.g. ELEMENT = 'BIRD', SPECIES_ID = 1 and SEASON_ID = 1; EL_SPE_SEA = 'B0000101').
+</dd></dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>MONTH
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Two-digit calendar month.  Each life history stage or activity type for a particular species can have up to 12 records to account for each month of the year.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>1
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>12
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>BREED1
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Life history stage or activity type, where: if ELEMENT is "BIRD" then BREED1 = nesting; if ELEMENT is "FISH" then BREED1 = spawning; if ELEMENT is "INVERT" then BREED1 = spawning; if ELEMENT is "REPTILE" then BREED1 = nesting; if ELEMENT is "M_MAMMAL" then BREED1 = mating.  This attribute is not used for HABITAT or T_MAMMAL elements.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>Y
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Life-history stage or activity present
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>N
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Life-history stage or activity not present or not reported
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>-
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Breed category not used or not appropriate for record(s) in question
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>BREED2
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Life history stage or activity type, where: if ELEMENT is "BIRD" then BREED2 = migrating; if ELEMENT is "FISH" then BREED2 = eggs; if ELEMENT is "INVERT" then BREED2 = eggs; if ELEMENT is "REPTILE" then BREED2 = hatching; if ELEMENT is "M_MAMMAL" then BREED2 = calving.  This attribute is not used for HABITAT or T_MAMMAL elements.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>Y
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Life-history stage or activity present
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>N
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Life-history stage or activity not present or not reported
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>-
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Breed category not used or not appropriate for record(s) in question
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>BREED3
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Life history stage or activity type, where: if ELEMENT is "BIRD" then BREED3 = molting; if ELEMENT is "FISH" then BREED3 = larvae; if ELEMENT is "INVERT" then BREED3 = larvae; if ELEMENT is "REPTILE" then BREED3 = internesting; if ELEMENT is "M_MAMMAL" then BREED3 = pupping.  This attribute is not used for HABITAT or T_MAMMAL elements.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>Y
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Life-history stage or activity present
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>N
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Life-history stage or activity not present or not reported
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>-
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Breed category not used or not appropriate for record(s) in question
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>BREED4
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Life history stage or activity type, where: if ELEMENT is "FISH" then BREED4 = juveniles; if ELEMENT is "INVERT" then BREED4 = juveniles; if ELEMENT is "REPTILE" then BREED4 = juveniles; if ELEMENT is "M_MAMMAL" then BREED4 = molting.  This attribute is not used for BIRD, HABITAT, or T_MAMMAL elements.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>Y
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Life-history stage or activity present
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>N
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Life-history stage or activity not present or not reported
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>-
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Breed category not used or not appropriate for record(s) in question
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>BREED5
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Life history stage or activity type, where: if ELEMENT is "FISH" then BREED5 = adults; if ELEMENT is "INVERT" then BREED5 = adults; if ELEMENT is "REPTILE" then BREED5 = adults.  This attribute is not used for BIRD, M_MAMMAL, HABITAT, or T_MAMMAL elements.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>Y
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Life-history stage or activity present
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>N
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Life-history stage or activity not present or not reported
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>-
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Breed category not used or not appropriate for record(s) in question
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Detailed_Description: </em><dd>
+<dl><dt><em>Entity_Type: </em><dd>
+<dl><dt><em>Entity_Type_Label: </em>SOURCES
+</dt></dl>
+<dl><dt><em>Entity_Type_Definition: </em><dd>The data table SOURCES contains the primary sources used to create the ESI data set.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+</dd></dt></dl>
+<dl><dt><em>Entity_Type_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>SOURCE_ID
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Source identifier that links records in the SOURCES data table to the items G_SOURCE and A_SOURCE in the SOC_DAT table; G_SOURCE and S_SOURCE in the BIORES table; and SOURCE_ID in the ESI and HYDRO data layers.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>1
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>N
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>ORIGINATOR
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Author or developer of source material or data set.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>DATE_PUB
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Date of source material, publication, or date of personal communication with expert source.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>YYYYMM
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>YYYY for year and optionally MM for month
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>TITLE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Title of source material or data.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>DATA_FORMAT
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>The format of the source material.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>PUBLICATION
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Additional citation information.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>SCALE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Description of the source scale.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>TIME_PERIOD
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Date(s) of data collection that the source material is based upon.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Detailed_Description: </em><dd>
+<dl><dt><em>Entity_Type: </em><dd>
+<dl><dt><em>Entity_Type_Label: </em>STATUS
+</dt></dl>
+<dl><dt><em>Entity_Type_Definition: </em><dd>The data table STATUS identifies the species that are listed as either threatened or endangered by a state, federal, or international authority.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way this table relates to other attribute tables in the ESI data structure.
+</dd></dt></dl>
+<dl><dt><em>Entity_Type_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>ELEMENT
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Major categories of biological data.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>BIRD
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Birds
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>FISH
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Fish
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>HABITAT
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Habitats and Plants
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>INVERT
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Invertebrates
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>M_MAMMAL
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Marine Mammals
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>REPTILE
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Reptiles and Amphibians
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>T_MAMMAL
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Terrestrial Mammals
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>SPECIES_ID
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Numeric identifier for each species that is unique within each element and refers to a nationwide master ESI species list maintained at NOAA.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Range_Domain: </em><dd>
+<dl><dt><em>Range_Domain_Minimum: </em>1
+</dt></dl>
+<dl><dt><em>Range_Domain_Maximum: </em>N
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>STATE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Two-letter state abbreviation.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>COUNTRY
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Three-letter country abbreviation.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Unrepresentable_Domain: </em>Acceptable values change from atlas to atlas.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>S
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>State threatened or endangered status.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>E
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Endangered on state list
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>NOAA ESI Guidelines
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>T
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Threatened on state list
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>NOAA ESI Guidelines
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>C
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Species of Special Concern
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>NOAA ESI Guidelines
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>F
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>Federal threatened or endangered status.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>E
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Endangered on federal list
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>NOAA ESI Guidelines
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>T
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Threatened on federal list
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>NOAA ESI Guidelines
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>C
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Species of Special Concern
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>NOAA ESI Guidelines
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>I
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em>International threatened or endangered status.
+</dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>E
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Endangered on international list
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>NOAA ESI Guidelines
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>T
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Threatened on international list
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>NOAA ESI Guidelines
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>C
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>Species of Special Concern
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>NOAA ESI Guidelines
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>S_DATE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Publication date of source material used to assign state status values for each species, if used.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>YYYYMM
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>YYYY for year and optionally MM for month
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>F_DATE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Publication date of source material used to assign federal status values for each species, if used.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>YYYYMM
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>YYYY for year and optionally MM for month
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>I_DATE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Publication date of source material used to assign international status values for each species, if used.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>YYYYMM
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em>YYYY for year and optionally MM for month
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Attribute: </em><dd>
+<dl><dt><em>Attribute_Label: </em>EL_SPE
+</dt></dl>
+<dl><dt><em>Attribute_Definition: </em><dd>Concatenation of ELEMENT and SPECIES_ID.  This item links the STATUS data table to the BIORES and SPECIES data tables.
+</dd></dt></dl>
+<dl><dt><em>Attribute_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+<dl><dt><em>Attribute_Domain_Values: </em><dd>
+<dl><dt><em>Enumerated_Domain: </em><dd>
+<dl><dt><em>Enumerated_Domain_Value: </em>E#####
+</dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition: </em><dd>Where E is the first character of ELEMENT and the next five characters are SPECIES_ID (e.g. ELEMENT = 'BIRD' and SPECIES_ID = 1; EL_SPE = 'B00001').
+</dd></dt></dl>
+<dl><dt><em>Enumerated_Domain_Value_Definition_Source: </em>Research Planning, Inc.
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Overview_Description: </em><dd>
+<dl><dt><em>Entity_and_Attribute_Overview: </em><dd>
+In addition to the geographic data layers, six relational attribute or data tables, BIORES, BREED, SEASONAL, SOURCES, SPECIES, and STATUS, are used to store the complex biological data in the ESI data structure.  The geographic data layer containing biological resource information (in this case, FISH) is linked to the Biological Resources table (BIORES) using the unique ID and the lookup table BIO_LUT, or it can be linked directly using RARNUM.  The ID is a unique combination of the atlas number (for the Maryland atlas, the number is 47), an element/layer specific number (BIRDS are layer 1, FISH are layer 2, etc.), and a unique record number.  The RARNUM represents a unique combination of species, seasonalities, concentrations, and source information.  For each of these groupings, a number is generated.  That number is concatenated with the atlas number to create a "resource at risk" number that is unique across atlases.  BIORES and the other relational data tables are described below in detail.  See the Browse_Graphic section for a link to the entity-relationship diagram, which describes the way these tables relate to the geographic data layers and other attribute tables in the ESI data structure.
+
+<p>Due to the complexity of the relational database model, the data items are also post-processed into a flat file format.  This table, called BIOFILE, may be used in place of the relational files described below to ease simple data queries.  The items in the flat file are ELEMENT, SUBELEMENT, NAME, GEN_SPEC, S, F, NHP, DATE_PUB, CONC, JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC, BREED1, BREED2, BREED3, BREED4, BREED5, RARNUM, G_SOURCE, S_SOURCE, and BREED.  All of these items are the same as their counterparts in the individual data tables described below, except the BREED1-BREED5 and BREED items. BREED is a newly generated variable used to link to the BREED_DT data table, a modified, more compact version of the relational BREED data table. BREED1-BREED5 give a text summary of when each life stage occurs within the associated map object.  The life stages referred to are the same as those listed in the Detailed_Description of the BREED data table.  The link to the BIOFILE may be made through the BIO_LUT, using ID to link to RARNUM, or BIOFILE may be linked directly to the RARNUM in each of the geographic layer's attribute data tables.  As mentioned, BREED_DT is an auxiliary support data table to the flat file structure, which allows the user to do searches based on month for seasonal breeding activities.  The link from the flat file to BREED_DT is the BREED item.</p>
+<p></p>
+<p>A second supporting data table is SOURCES.  This is the same as the source file described above, and the link from the flat file is both G_SOURCE and S_SOURCE.  It should be noted that although the flat file eases data query, it is not a normalized database structure, and actual updates performed by the states and other responsible agencies should be done using the relational data tables.  The entity-relationship diagram, describing relationships between attribute tables in the ESI data structure, does NOT include the BIOFILE data table, and this data table is NOT described in detail below.</p>
+</dd></dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<a href="#top">Back to Top</a>
+<a name="distinfo"><hr></a>
+<dl><dt><em>Distribution_Information: </em><dd>
+<dl><dt><em>Distributor: </em><dd>
+<dl><dt><em>Contact_Information: </em><dd>
+<dl><dt><em>Contact_Person_Primary: </em><dd>
+<dl><dt><em>Contact_Person: </em>John Kaperick
+</dt></dl>
+<dl><dt><em>Contact_Organization: </em>NOAA, Office of Response and Restoration
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Contact_Address: </em><dd>
+<dl><dt><em>Address_Type: </em>Physical Address
+</dt></dl>
+<dl><dt><em>Address: </em>7600 Sand Point Way N.E.
+</dt></dl>
+<dl><dt><em>City: </em>Seattle
+</dt></dl>
+<dl><dt><em>State_or_Province: </em>Washington
+</dt></dl>
+<dl><dt><em>Postal_Code: </em>98115-6349
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Contact_Voice_Telephone: </em>(206) 526-6400
+</dt></dl>
+<dl><dt><em>Contact_Facsimile_Telephone: </em>(206) 526-6329
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Resource_Description: </em>Downloadable Data
+</dt></dl>
+<dl><dt><em>Distribution_Liability: </em><dd>Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration (NOAA), no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition.
+</dd></dt></dl>
+<dl><dt><em>Custom_Order_Process: </em><dd>Contact NOAA for distribution options (see Distributor).  ESI data are processed into multiple formats to make them useful to the widest community of GIS/mapping users.  Distribution formats include Geodatabase; ARC export, MOSS, and Shape files; and MARPLOT map folders.  An ArcMap .mxd file, an ArcView 3.x ESI project, and an ESI_Viewer product for use with the MARPLOT data are also included on the distribution DVDs for ease of use of the ESI data.  The database files are distributed both in the NOAA standard relational database format (see NOAA Technical Memorandum NOS ORCA 115) and in a simplified desktop flat file format.  This metadata document includes information on both of these database formats.
+</dd></dt></dl>
+</dd></dt></dl>
+<a href="#top">Back to Top</a>
+<a name="metainfo"><hr></a>
+<dl><dt><em>Metadata_Reference_Information: </em><dd>
+<dl><dt><em>Metadata_Date: </em>200707
+</dt></dl>
+<dl><dt><em>Metadata_Review_Date: </em>200707
+</dt></dl>
+<dl><dt><em>Metadata_Contact: </em><dd>
+<dl><dt><em>Contact_Information: </em><dd>
+<dl><dt><em>Contact_Person_Primary: </em><dd>
+<dl><dt><em>Contact_Person: </em>Jill Petersen
+</dt></dl>
+<dl><dt><em>Contact_Organization: </em>NOAA, Office of Response and Restoration
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Contact_Position: </em>GIS Manager
+</dt></dl>
+<dl><dt><em>Contact_Address: </em><dd>
+<dl><dt><em>Address_Type: </em>Physical Address
+</dt></dl>
+<dl><dt><em>Address: </em>7600 Sand Point Way, N.E.
+</dt></dl>
+<dl><dt><em>City: </em>Seattle
+</dt></dl>
+<dl><dt><em>State_or_Province: </em>Washington
+</dt></dl>
+<dl><dt><em>Postal_Code: </em>98115-6349
+</dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Contact_Voice_Telephone: </em>(206) 526-6944
+</dt></dl>
+<dl><dt><em>Contact_Facsimile_Telephone: </em>(206) 526-6329
+</dt></dl>
+<dl><dt><em>Contact_Electronic_Mail_Address: </em>Jill.Petersen@noaa.gov
+</dt></dl>
+</dd></dt></dl>
+</dd></dt></dl>
+<dl><dt><em>Metadata_Standard_Name: </em>Content Standards for Digital Geospatial Metadata
+</dt></dl>
+<dl><dt><em>Metadata_Standard_Version: </em>FGDC-STD-001-1998
+</dt></dl>
+</dd></dt></dl>
+<a href="#top">Back to Top</a>
+
+<!--/BODY-->
+</body>
+</html>

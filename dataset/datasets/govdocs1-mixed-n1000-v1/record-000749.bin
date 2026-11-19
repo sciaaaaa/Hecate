@@ -1,0 +1,146 @@
+
+		<html>
+		<head>
+		<meta http-equiv="Refresh" content="10; url=AirQBE.asp">
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+		<title>AM A/C Source List</title>
+		<link rel="stylesheet" href="Style.css" type="text/css">
+		<link rel="stylesheet" type="text/css" href="../style_nn.css">
+		<meta name="Microsoft Border" content="tb">
+</head>
+		<body><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<script>
+/*
+Preload images script
+By JavaScript Kit (http://javascriptkit.com)
+Over 400+ free scripts here!
+*/
+
+var myimages=new Array()
+function preloadimages(){
+for (i=0;i<preloadimages.arguments.length;i++){
+myimages[i]=new Image()
+myimages[i].src=preloadimages.arguments[i]
+}
+}
+//Enter path of images to be preloaded inside parenthesis. Extend list as desired.
+preloadimages("../images/banner_oas5.jpg","../images/pmb_web_seal.gif","../images/banner_flag4.jpg","../images/nbc_md_logo.gif","../images/dotline8.gif")
+</script>
+<SCRIPT LANGUAGE=JAVASCRIPT>
+function windowOpener(url, name, args) {
+if (typeof(popupWin) != "object"){
+popupWin = window.open(url,name,args);
+} else {
+if (!popupWin.closed){ 
+popupWin.location.href = url;
+} else {
+popupWin = window.open(url, name,args);
+}
+}
+popupWin.focus();
+}
+</script>
+<table border="0" cellspacing="1" width="800">
+  <tr>
+    <td width="550" class="sptitle6"><a href="http://amd.nbc.gov/">Home</a> | <a href="http://amd.nbc.gov/sitemap.htm">Sitemap</a>
+      | <a HREF="javascript:void windowOpener('http://amd.nbc.gov/feedback.htm', 'Feedback', 'scrollbars=1,resizable=1,WIDTH=425,HEIGHT=300');"> Feedback</a> |
+      <script language="JavaScript">
+<!-- 
+var name = "nbcam_web";
+var domain = "oas.gov"; 
+document.write('<a href=\"mailto:' + name + '@' + domain + '\">');
+document.write('Contact</a>'); 
+/ /-->
+</script> | <a HREF="javascript:void windowOpener('http://amd.nbc.gov/accessibility.htm', 'Accessibility', 'scrollbars=1,resizable=1,WIDTH=425,HEIGHT=300');">Accessibility</a>
+    </td>
+    <td align="right" width="250" class="sptitle6"><script type="text/javascript">
+var d=new Date()
+var weekday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+document.write(weekday[d.getDay()] + ", ")
+document.write(monthname[d.getMonth()] + " ")
+document.write(d.getDate() + ", ")
+document.write(d.getFullYear())
+</script></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+  <tr>
+    <td width="700" bgcolor="#000033"><map name="FPMap0_I1">
+      <area href="http://www.doi.gov/" shape="circle" coords="51, 52, 47">
+      <area href="http://www.nbc.gov/" shape="rect" coords="376, 65, 694, 85">
+      <area href="http://amd.nbc.gov/" shape="rect" coords="95, 6, 226, 26"></map><img border="0" src="http://amd.nbc.gov/images/banner_oas5.jpg" alt="DOI NBC Aviation Management Banner" usemap="#FPMap0_I1" width="700" height="110"></td>
+    <td width="100" bgcolor="#000033" align="right"><a href="http://www.doi.gov/pmb/"><img border="0" src="http://amd.nbc.gov/images/pmb_web_seal.gif" alt="PMB Image" width="100" height="110"></a></td>
+  </tr>
+</table>
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+<table border="0" width="660" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="20">&nbsp;</td>
+		<td width="680" colspan="2">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="20"></td>
+		<td width="680" colspan="2" class="sptitle3">AM A/C Source List Query Results</td>
+	</tr>
+	<tr>
+		<td width="20"></td>
+		<td width="680" colspan="2"><hr></td>
+	</tr>
+	<tr>
+		<td width="20"></td>
+		<td width="680" colspan="2"><p>Invalid Parameter or Value Passed<p>This page will automatically return to the Search Page in 10 Seconds.</td>
+	</tr>
+	<tr>
+		<td width="20"></td>
+		<td width="680" colspan="2"><hr></td>
+	</tr>
+	<tr>
+		<td width="20"></td>
+		<td width="240"><a href="airqbe.asp">AM A/C Source List Search</a></td>
+		<td width="440"><a href="pilotqbe.asp">AM Pilot Source List Search</a></td>
+	</tr>
+</table>
+
+		<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<p>&nbsp;</p>
+<SCRIPT LANGUAGE=JAVASCRIPT>
+function open_window(url){
+mywin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,screenX=0,screenY=0,top=0,left=0,width=450,height=450');}
+</script>
+<table valign="middle" cellpadding="0" cellspacing="0" width="800">
+  <tr>
+    <td width="234" class="sptitle6"></td>
+    <td width="566" class="sptitle6"><A HREF="javascript:void windowOpener('http://amd.nbc.gov/disclaim.htm', 'Disclaimer', 'scrollbars=1,resizable=1,WIDTH=425,HEIGHT=300');">Disclaimer</A>
+      | <A HREF="javascript:void windowOpener('http://amd.nbc.gov/privacy.htm', 'Privacy', 'scrollbars=1,resizable=1,WIDTH=425,HEIGHT=300');"> Privacy Policy</A> | <a href="http://amd.nbc.gov/foia/foia.htm">FOIA</a> | <a href="http://www.firstgov.gov/" target="_blank">FirstGov</a>
+      | <a href="http://www.doi.gov/" target="_blank">DOI Home</a> | <a href="http://www.doi.gov/pmb/" target="_blank">PMB
+      Home</a></td>
+  </tr>
+  <tr>
+    <td width="800" colspan="2" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="800" colspan="2" valign="middle"><img border="0" src="http://amd.nbc.gov/images/dotline8.gif" width="800" height="1"></td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+  <tr>
+    <td width="25"><img border="0" src="../images/pix.gif" width="25" height="25" alt="Single Pixel Image"></td>
+    <td class="address" width="775">U.S. Department of the Interior<br>
+      National Business Center<br>
+      Aviation Management<br>
+      <a href="http://amd.nbc.gov/">http://www.nbc.gov/amd</a><br>
+      <script LANGUAGE="JavaScript">
+<!-- hide script begin
+var m = "Last Updated on " + document.lastModified;
+var p = m.length-8;
+document.write(m.substring(p, 0));
+// End -->
+</script>
+</td>
+  </tr>
+</table>
+</td></tr><!--msnavigation--></table></body>
+		</html>		

@@ -1,0 +1,29 @@
+{
+  "experiment": "aws-n10-r5-s5-im576-01",
+  "root": "/home/Hecate_2/hecate-app",
+  "python": "/home/Hecate_2/.venv-chain/bin/python",
+  "rpc_host": "172.31.27.238",
+  "hosts": {
+    "node4": "172.31.1.251",
+    "node5": "172.31.32.163",
+    "node6": "172.31.3.139"
+  },
+  "ssh_user": "ubuntu",
+  "ssh_key": "/home/ubuntu/asiaccs-hecate-key.pem",
+  "receivers": [
+    "dr01",
+    "dr02",
+    "dr03",
+    "dr04",
+    "dr05"
+  ],
+  "records_per_receiver": 2,
+  "authorized_per_receiver": 1,
+  "min_im_bytes": 576,
+  "max_im_bytes": 576,
+  "im_with_replacement": false,
+  "seed": 20261015,
+  "em": "urgent",
+  "confirmations": 2,
+  "timeout": 1800
+}

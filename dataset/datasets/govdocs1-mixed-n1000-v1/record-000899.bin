@@ -1,0 +1,112 @@
+<html>
+<head>
+<title>NPWRC :: Southern Wetland Flora</title>
+<script type="text/javascript"></script> <!-- prevents browser "flash" -->
+<link href="/styles/common.css" rel="stylesheet" type="text/css"  />
+<link href="/styles/custom.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<!-- BEGIN USGS Header Template -->
+<div class="bannerColorBand">
+	<div class="banner">
+		<div class="identifier"><a href="http://www.usgs.gov/" title="U.S. Geological Survey Home Page"><img src="/images/header_graphic_usgsIdentifier_white.jpg" alt="U.S. Geological Survey - science for a changing world" width="178" height="72" style="border: none;" /></a></div>
+		<img src="/images/header_graphic_spacer.gif" height="72" width="1" alt="" style="position: absolute;" />
+		<div class="ccsaBox">
+			<img src="/images/header_graphic_spacer.gif" height="72" width="1" alt="" style="float: left;" />
+			<div class="ccsa">
+			  <br /><a href="http://www.usgs.gov/">USGS Home</a><br />
+			  <a href="http://www.usgs.gov/ask/index.html">Contact USGS</a><br />
+			  <a href="http://www.usgs.gov/search">Search USGS</a><br />
+			</div>
+		</div>
+	</div>
+</div>
+<div class="siteTitle"> 
+  <p id="pTitle"><a href="/" title="Northern Prairie Wildlife Research Center Home Page" accesskey="h">Northern Prairie Wildlife Research Center</a></p>
+</div>
+<!-- END USGS Header Template -->
+
+<!-- === BEGIN CONTENT CONTAINER =========================================== -->
+<div id="contentBody"> 
+<hr class="hidden" />
+
+
+<center>
+<h1>Southern Wetland Flora</h1>
+<h2><em>Field Office Guide to Plant Species</em></h2>
+</center>
+<hr>
+<center>
+<b>Water-locust </b><br>
+<i>Gleditsia aquatica </i> Marshall
+<p>
+<img src="photo/gledaqua.jpg" align="middle" alt="JPG -- Species Photo"> <img src="maps/gledaqua.gif" align="middle" alt="GIF -- Distribution Map">
+</center>
+<p>
+<ul>
+<li><b>Family:</b> Pea (Fabaceae)
+<li><b>Flowering:</b> May-June
+<li><b>Field Marks:</b> This species, which closely resembles honey-locust by its singly and doubly
+    compound leaves, differs by its very short, 1-seeded pods.
+<li><b>Habitat:</b> Swamps, low woods, sloughs.
+<li><b>Habit:</b> Tree to 60 feet tall, with a trunk diameter up to 2 feet; crown irregularly spreading.
+<li><b>Bark:</b> Dark gray or brown, with shallow furrows; branched thorns sometimes present.
+<li><b>Twigs:</b> Slender, gray or brown, smooth, sometimes bearing unbranched thorns.
+<li><b>Leaves:</b> Alternate, once or twice pinnately compound, with many leaflets; each leaflet oblong to
+    oblong-ovate, rounded or slightly pointed at the tip, rounded at the base, sometimes minutely
+    toothed, smooth except sometimes with a few hairs on the veins on the lower surface, up to 1 inch
+    long, up to 1/2 inch wide.
+<li><b>Flowers:</b> In elongated clusters, up to 4 inches long, some with both stamens and pistils, some with
+    one or the other.
+<li><b>Sepals:</b> Usually 5, united below, greenish.
+<li><b>Petals:</b> Usually 5, free from each other, yellow-green, about 1/8 inch long.
+<li><b>Stamens:</b> 3-10.
+<li><b>Pistils:</b> Ovary superior.
+<li><b>Fruits:</b> Pods oval, flat, smooth, up to 1 1/2 inches long, up to 1 inch broad, 1-seeded.
+<li><b>Notes:</b> Unlike the honey-locust, this species does not have pulpy material around the seeds.
+</ul>
+<p>
+<center>
+<img src="draw/gledaqua.gif" align="middle" alt="GIF -- Species Line Drawing">
+</center>
+<hr>
+<a href="gaylfron.htm">Previous Species</a> -- Dangle-berry (<i>Gaylussacia frondosa</i>)<br>
+<a href="../../species.htm#group5">Return to Species List</a> -- Group 5<br>
+<a href="gordlasi.htm">Next Species</a> -- Loblolly Bay (<i>Gordonia lasianthus</i>)
+
+
+
+<hr class="hidden" />
+</div> 
+<!-- END contentBody -->
+<!-- === END CONTENT CONTAINER ============================================= -->
+
+<!-- BEGIN Bottom Navigation Bar -->
+<div id="bottomNavbar"> 
+	<a href="/" title="NPWRC Home page">NPWRC Home</a> | <a href="/sitemap.htm" title="Site Map">Site Map</a> | <a href="/about/index.htm" title="About NPWRC">About Us</a> | <a href="/staff/index.htm" title="NPWRC Staff Directory and Biographies">Staff</a> | <a href="/resource/index.htm" title="Search for Biological Resources">Search</a> | <a href="/contact/index.htm" title="Contact NPWRC">Contact</a> | <a href="/about/index.htm#website" title="Web Site Help">Web Help</a> | <a href="/about/website/copyright.htm" title="Copyright Information for Photos and Text">Copyright</a> 
+</div>
+<!-- END bottomNavbar -->
+
+<!-- BEGIN USGS Footer Template -->
+<p class="footerBar" style="clear: both;">
+	<a href="http://www.usgs.gov/accessibility.html" title="Accessibility Policy (Section 508).">Accessibility</a>
+	<a href="http://www.usgs.gov/foia/" title="Freedom of Information Act.">FOIA</a>
+	<a href="http://www.usgs.gov/privacy.html" title="Privacy policies of the U.S. Geological Survey.">Privacy</a>
+	<a href="http://www.usgs.gov/policies_notices.html" title="Policies and notices that govern information posted on USGS Web sites. ">Policies and Notices</a>
+</p>
+
+<p class="footerText">
+	<a href="http://www.takepride.gov/" title="Take Pride in America home page."><img src="/images/footer_graphic_takePride.jpg" alt="Take Pride in America home page." width="60" height="58" style="border: none;  float: right;" /></a>
+	<a href="http://firstgov.gov/" title="FirstGov: The U.S. Government's Official Web Portal."><img src="/images/footer_graphic_firstGov.jpg" alt="FirstGov button" width="90" height="26" style="border: none; float: right; margin-right: 10px;" /></a>
+	<a href="http://www.doi.gov">U.S. Department of the Interior</a> | <a href="http://www.usgs.gov">U.S. Geological Survey</a><br />
+	URL: http://www.npwrc.usgs.gov/resource/plants/floraso/species/5/gledaqua.htm<br />
+	Page Contact Information: <a href="/contact/index.htm">npwrc@usgs.gov</a><br />
+	Page Last Modified: August  3, 2006
+</p>
+<hr />
+<!-- END USGS Footer Template -->
+
+</body>
+</html>
+

@@ -1,0 +1,56 @@
+This is a short summary of November 15, 2006 EP SFG meeting on ideas
+for proposals to be presented at the next NSTX forum in December 2006.
+
+General notes:
+
+- At the meeting we had around 10 PPPLers participating and Heidbrink
+  and Crocker connected from the outside.
+
+- Many speakers agreed that NSTX is a unique machine for studies of
+  fast ion physics. 
+
+- Since Joule milestone is upon us many emphasized importance of
+  having coordinated and coherent proposals for this year NSTX
+  campaign. 
+
+- Many people expressed interest in having another sfg meeting prior
+  to the forum, which we will have mabe one week before the forum.
+
+
+Presentations and discusssions
+
+- Eric gave a nice overview-like presentation on the diagnostic
+  capabilities and priorities, which summarizes our recent discussions
+  and developments. I recommend to look into his presentation. People
+  discussed ideas along the line of the priority list from Eric talk.
+
+  Eric showed a list, which containes available diagnostic
+  tools and includes new tools, such as scanning NPA, SFLIP and new
+  capabilities of reflectometer with details in Croacker talk. 
+
+- During Fu and Heidbrink presentations people asked questions about
+  similarity experiments with DIII-D. It was pointed out that the
+  parameter scans of beam driven instabilities suggested by Fu should be
+  extended to DIII-D experiments since such studied already showed
+  nice results. 
+
+- Martin asked Fu to identify parameters which would be key to
+  creating the database in studying the instabilities on NSTX and
+  possibly on DIII-D. 
+
+- Croacker showed capabilities and plans for reflectometer and
+  interferometer channels. It was noted that this diagnostic is
+  critical for proper addressin of the milestone. This is because we
+  need internal measurements of mode amplitudes and structure to
+  correctly identify the modes and model them with the tools we have,
+  such as ORBIT and NOVA.
+
+- Many question were asked during Sid's talk, who presented NPA
+  upgrades with its scanning capabilities. It also was brought up that
+  NPA can operate with the 0.1msec resolution, which will be of a great
+  help for diagnosing fast processes happening during chirping
+  frequency events. 
+
+- Gates expressed an interest in studying correlation of the MHD
+  actibivity with the edge density measurements. It should be of
+  relevance to CAE/GAE effects on fast ions. 

@@ -1,0 +1,247 @@
+
+
+<!-- specific login check--federal search.
+	Rev.: 9/21/2005(Haiyao)		splited from loginCheck.asp
+-->
+
+
+<!-- specific login check--federal search.
+	Rev.: 9/21/2005(Haiyao)		splited from loginCheck.asp
+-->
+
+
+<html>
+<head>
+<title>Pipeline Integrity Management Mapping Application</title>
+<script language="javascript">
+function checkEnter(event){
+	var code = 0; 
+	code = event.keyCode;
+	if (code==13)
+		validate();
+}
+
+function validate(){
+	if (document.newchoice.accept.checked){
+		var username = document.newchoice.username.value;
+		var password = document.newchoice.password.value;
+		if(username=="" || password=="") {
+			alert("Please make sure that you have entered both username and password.");
+		} else {
+//			document.newchoice.action = "newlogin.asp";
+			document.newchoice.submit();
+		}
+	}else{
+		alert("Please make sure that you have accepted the policy.");
+	}
+}
+</script>
+    <link type="text/css" rel="stylesheet" href="../npms.css" />
+    <script type="text/javascript" src="../npms.js"></script>
+</head>
+
+<body leftmargin="3" topmargin="0">
+<div id='altTip'></div>
+	
+		<table width="780" border="0" >
+			<tr>
+				<td><IMG height=141 src="images/logo.jpg" width=760 align=left></td>
+			</tr>
+				
+			<tr>
+				<td align="left"><br><b><font face="Tahoma" size="3">&nbsp;&nbsp;Welcome to the NPMS Public Map Viewer</b> </FONT></td>
+			</tr>
+		</table>
+	    
+        <table width="770" cellspacing="10" cellpadding="0" border="0">
+			<form method="get" action="newlogin.asp" id=form1 name=PubSearch>	
+						
+			<tr>
+				<td colspan="2" align="left">
+					<font face="Tahoma" size="3">
+					The NPMS Public Map Viewer enables the user to view National Pipeline Mapping System (NPMS)
+					data one county at a time. NPMS data consists of gas transmission pipelines and hazardous liquid 
+					trunklines.	It does not contain gathering or distribution pipelines, such as lines which deliver
+					gas to a customer's home. Therefore, not all pipelines in an area will be visible in the Public
+					Map Viewer.<b> NPMS data is for reference purposes only. It should never be used as a substitute
+					for contacting a one-call center prior to excavation activities. Please call 811 before any digging
+					occurs</B>.     
+					<Br>
+					<Br>
+					To view the data, select a state and then a county from the drop-down lists below. To view another county, 
+					close the Public Viewer window, return to the home page of the NPMS website and click the NPMS Public Map 
+					Viewer button again. The user may zoom in to a map scale of 1:24,000. Data cannot be downloaded from the Public
+					Viewer.
+					<Br>
+					<Br> 					
+					</font>
+				</td>
+			</tr>
+			
+			<tr>
+				<td width="170">
+					<img name="tab1" alt="" id="tab1" src="images/tx-ChoState.gif" border="0">
+					<br>
+					<select name="StateAbbr" onChange="this.form.submit()" style="font-size: 12; font-family: Tahoma; background: #F2F7FD" size="1">
+						<option value selected><font face="Tahoma" size="3">...</font></option>
+						
+								<option value="AK"><font face="Tahoma" size="3">AK</font></option>
+								
+								<option value="AL"><font face="Tahoma" size="3">AL</font></option>
+								
+								<option value="AR"><font face="Tahoma" size="3">AR</font></option>
+								
+								<option value="AZ"><font face="Tahoma" size="3">AZ</font></option>
+								
+								<option value="CA"><font face="Tahoma" size="3">CA</font></option>
+								
+								<option value="CO"><font face="Tahoma" size="3">CO</font></option>
+								
+								<option value="CT"><font face="Tahoma" size="3">CT</font></option>
+								
+								<option value="DC"><font face="Tahoma" size="3">DC</font></option>
+								
+								<option value="DE"><font face="Tahoma" size="3">DE</font></option>
+								
+								<option value="FL"><font face="Tahoma" size="3">FL</font></option>
+								
+								<option value="GA"><font face="Tahoma" size="3">GA</font></option>
+								
+								<option value="HI"><font face="Tahoma" size="3">HI</font></option>
+								
+								<option value="IA"><font face="Tahoma" size="3">IA</font></option>
+								
+								<option value="ID"><font face="Tahoma" size="3">ID</font></option>
+								
+								<option value="IL"><font face="Tahoma" size="3">IL</font></option>
+								
+								<option value="IN"><font face="Tahoma" size="3">IN</font></option>
+								
+								<option value="KS"><font face="Tahoma" size="3">KS</font></option>
+								
+								<option value="KY"><font face="Tahoma" size="3">KY</font></option>
+								
+								<option value="LA"><font face="Tahoma" size="3">LA</font></option>
+								
+								<option value="MA"><font face="Tahoma" size="3">MA</font></option>
+								
+								<option value="MD"><font face="Tahoma" size="3">MD</font></option>
+								
+								<option value="ME"><font face="Tahoma" size="3">ME</font></option>
+								
+								<option value="MI"><font face="Tahoma" size="3">MI</font></option>
+								
+								<option value="MN"><font face="Tahoma" size="3">MN</font></option>
+								
+								<option value="MO"><font face="Tahoma" size="3">MO</font></option>
+								
+								<option value="MS"><font face="Tahoma" size="3">MS</font></option>
+								
+								<option value="MT"><font face="Tahoma" size="3">MT</font></option>
+								
+								<option value="NC"><font face="Tahoma" size="3">NC</font></option>
+								
+								<option value="ND"><font face="Tahoma" size="3">ND</font></option>
+								
+								<option value="NE"><font face="Tahoma" size="3">NE</font></option>
+								
+								<option value="NH"><font face="Tahoma" size="3">NH</font></option>
+								
+								<option value="NJ"><font face="Tahoma" size="3">NJ</font></option>
+								
+								<option value="NM"><font face="Tahoma" size="3">NM</font></option>
+								
+								<option value="NV"><font face="Tahoma" size="3">NV</font></option>
+								
+								<option value="NY"><font face="Tahoma" size="3">NY</font></option>
+								
+								<option value="OH"><font face="Tahoma" size="3">OH</font></option>
+								
+								<option value="OK"><font face="Tahoma" size="3">OK</font></option>
+								
+								<option value="OR"><font face="Tahoma" size="3">OR</font></option>
+								
+								<option value="PA"><font face="Tahoma" size="3">PA</font></option>
+								
+								<option value="RI"><font face="Tahoma" size="3">RI</font></option>
+								
+								<option value="SC"><font face="Tahoma" size="3">SC</font></option>
+								
+								<option value="SD"><font face="Tahoma" size="3">SD</font></option>
+								
+								<option value="TN"><font face="Tahoma" size="3">TN</font></option>
+								
+								<option value="TX"><font face="Tahoma" size="3">TX</font></option>
+								
+								<option value="UT"><font face="Tahoma" size="3">UT</font></option>
+								
+								<option value="VA"><font face="Tahoma" size="3">VA</font></option>
+								
+								<option value="VT"><font face="Tahoma" size="3">VT</font></option>
+								
+								<option value="WA"><font face="Tahoma" size="3">WA</font></option>
+								
+								<option value="WI"><font face="Tahoma" size="3">WI</font></option>
+								
+								<option value="WV"><font face="Tahoma" size="3">WV</font></option>
+								
+								<option value="WY"><font face="Tahoma" size="3">WY</font></option>
+								
+					</select>
+				</td>
+				
+			</tr>
+		</Form> 
+		</table> 
+	
+	<p>&nbsp;</P>
+	<p>&nbsp;</P>
+	<p>&nbsp;</P>
+	
+	
+<p>		<div style="margin-left:10px;">
+			<!-- begin footer wrapper -->
+			<table width="740" cellpadding="0" cellspacing="0" border="0" rules="" ID="Table7">
+				<tr>
+					<td align="left" valign="top"><img src="/images/spacer.gif" width="1" height="10" border="0" alt="" /></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" bgcolor="#003366"><img src="/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top"><img src="images/spacer.gif" width="1" height="5" border="0" alt="" /></td>
+				</tr>
+			</table>
+			<table width="740" cellpadding="0" cellspacing="0" border="0" rules="" ID="Table8">
+				<tr>
+					<td align="left" valign="top" class="footer_normal">&nbsp;<a target=_top
+					href="/default.htm" class="foot_nav_strong">Home</a>
+						&nbsp;&#124;&nbsp;<a target=_top
+					href="/application.asp?tact=npms&page=subapp.asp?app=aboutnpms&act=contactdirectory" class="foot_nav_strong">Contact</a>
+						&nbsp;&#124;&nbsp;<a target=_top
+					href="/application.asp?tact=npms&page=subapp.asp?app=aboutnpms&act=faqs" class="foot_nav_strong">FAQ</a></td>
+					<td align="right" valign="top" class="footer_normal"><a target=_top
+					href="/privacy.html" class="foot_nav_strong">Privacy
+							Policy </a>&nbsp;&#124;&nbsp;<a target=_top
+					href="http://ops.dot.gov/common/foia.htm" class="foot_nav_strong">FOIA</a></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" colspan="2"><img src="images/spacer.gif" width="1" height="10" border="0" alt="" /></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" class="footer_normal" colspan="2">All Rights Reserved
+						- <a target=_top
+						href="http://www.phmsa.dot.gov" class="foot_nav_normal">PHMSA - Pipeline and
+							Hazardous Materials Safety Administration</a> - 2007</td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" colspan="2"><img src="/images/spacer.gif" width="1" height="10" border="0" alt="" /></td>
+				</tr>
+			</table>
+			<!-- end footer wrapper -->
+		</div>
+</p>
+</body>
+
+</html>
+

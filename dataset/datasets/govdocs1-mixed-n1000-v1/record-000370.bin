@@ -1,0 +1,517 @@
+<HTML><HEAD>
+<TITLE>Bureau of Labor Statistics Data</TITLE>
+<link href="/blsstyle.css" type="text/css" rel="stylesheet">
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="content-language" content="en">
+	<meta name="agency" content="BLS">
+	<meta name="audience" content="general">
+	
+	<!-- YUI JS FOR TABS -->
+	<script type="text/javascript" src="/javascripts/bls_tabs.js"></script>
+	<!-- FLASH EMBED JS -->
+	<script type="text/javascript" src="/javascripts/swfobject.js"></script>
+	<!-- FONTSWITCHER JS -->
+	<script type="text/javascript" src="/javascripts/font-switcher.js"></script>	
+	<!-- END TOP JS -->
+	
+	<style type="text/css" media="all">
+	<!--
+	@import url("/stylesheets/bls_main.css");
+	@import url("/stylesheets/bls_legacy.css");
+	@import url("/stylesheets/bls_layout.css");
+	@import url("/stylesheets/bls_content.css");
+	@import url("/stylesheets/bls_tables.css");
+	-->
+	</style>
+
+	<!--[if lt IE 9]>
+		<link href="/stylesheets/ie7-styles.css" media="all" rel="Stylesheet" type="text/css"> 
+	<![endif]-->
+	<!--[if lt IE 7]>
+		<link href="/stylesheets/ie6-styles.css" media="all" rel="Stylesheet" type="text/css"> 
+	<![endif]-->
+	<!--[if IE]>
+		<style type="text/css">
+		body {
+			font-size: expression(1 / (screen.deviceXDPI / 96) * 84 + '%');
+		}
+		</style> 
+	<![endif]-->
+
+<base href="http://www.bls.gov">
+</HEAD>
+<script language="JavaScript">
+<!--
+function validateYears(){ 
+var from_yr = document.format.from_year.options[document.format.from_year.selectedIndex].text;
+var to_yr = document.format.to_year.options[document.format.to_year.selectedIndex].text;
+if (from_yr > to_yr){
+alert("Please select the valid years : From Year should be less or equal to To Year" );}} 
+//-->
+</script>
+<BODY BGCOLOR="#ffffff" leftMargin="0" topMargin="0" marginwidth="0" marginheight="0" >
+
+<!-- OneColHeadBasic Begin -->
+<!-- Header Filename: \include\data\dataheader.txt-->
+<!--no_index_start-->
+<!-- DOL BANNER BEGIN -->
+
+		<a class="skiplink" href="#startcontent">Skip to Content</a>
+		<div id="dol-banner">
+			<div id="dol-seal"><a href="http://www.dol.gov/"><img src="/images/dol/dol_top_banner.gif" alt="DOL Banner" width="529" height="35"></a></div>
+		</div>
+			<div id="dol-search-bar">
+			<div id="dol-search-bar-content">
+				<div id="dol-search-bar-date"><a href="http://www.bls.gov/">www.bls.gov</a></div>
+				<form action="/search/query" style="margin:0; padding:0">
+					<div id="dol-search-bar-search">
+
+						<label for="search-dropdown-form">Search:</label>
+
+						<select name="prefix" id="search-dropdown-form" class="search-dropdown-form">
+							<option value="" selected="selected">All BLS.gov</option>
+							<option value="http://www.bls.gov/news.release/">News Releases</option>
+							<option value="http://www.bls.gov/opub/">All Publications</option>
+							<option value="http://www.bls.gov/oco/"> - Occupational Outlook Handbook</option>
+							<option value="http://www.bls.gov/opub/cwc/"> - Compensation &amp; Working Conditions</option>
+							<option value="http://www.bls.gov/opub/ted/"> - The Editor's Desk</option>
+							<option value="http://www.bls.gov/opub/mlr/"> - Monthly Labor Review</option>
+							<option value="http://www.bls.gov/opub/ooq/"> - Occupational Outlook Quarterly</option>
+							<option value="http://www.bls.gov/k12/"> - Career Information for Kids</option>
+							<option value="http://www.bls.gov/osmr/">Research Papers</option>
+						</select>
+
+						<label for="text_search">for:</label>
+						<input name="query" type="text" id="text_search" class="search-text-form" alt="Search Input">
+						<input name="submit" type="image" id="search-go" style="margin: 0; padding: 0; vertical-align: middle;" value="Submit" src="/images/layout/search_button_small.gif" alt="Search">
+
+					</div>
+				</form>
+				</div>
+			<div class="clearfloat"></div>
+		</div>
+
+<!-- DOL BANNER END -->
+
+<!-- WRAPPER TOP BEGIN -->
+<div id="wrapper-top-basic"></div>
+	<div id="wrapper-basic">
+	
+<!-- WRAPPER TOP END -->
+
+<!-- BLS BANNER BEGIN -->
+		<div id="top"></div>	
+		<div id="bls-banner">
+			<div id="bls-banner-title"><img id="bls-banner-logo" src="/images/layout/bls_logo_33x66.gif" alt="U.S. Bureau of Labor Statistics" width="33" height="33">Bureau of Labor Statistics</div>
+			<div id="bls-banner-latest"><a href="http://www.bls.gov/newsroom/" class="first"><strong>Newsroom</strong></a> | <a href="http://www.bls.gov/tutorial/"><strong>Tutorials</strong></a> | <a href="http://www.bls.gov/schedule/news_release/"><strong>Release Calendar</strong></a> <a href="http://www.bls.gov/schedule/news_release/"><img src="/images/icons/icon_small_date.gif" alt="Release Calendar" width="18" height="18" style="vertical-align:middle"></a></div>
+		</div>
+
+<!-- BLS BANNER END -->
+
+<!-- MAIN NAV BEGIN -->
+		<div id="main-nav">
+			<ul>
+				<li><a href="http://www.bls.gov/">Home</a></li>
+				<li><a href="http://www.bls.gov/bls/proghome.htm">Subject Areas</a></li>
+				<li id="main-nav-current"><a href="http://www.bls.gov/data/">Databases &amp; Tables</a></li>
+				<li><a href="http://www.bls.gov/opub/">Publications</a></li>
+				<li><a href="http://www.bls.gov/bls/newsrels.htm">Economic Releases</a></li>
+			</ul>
+			<div id="main-nav-text-links"><a class="first" href="http://www.bls.gov/bls/topicsaz.htm">A - Z Index</a> | <a href="http://www.bls.gov/bls/infohome.htm">About BLS</a></div>
+		</div>
+						
+<!-- MAIN NAV END -->
+
+<!-- MAIN NAV LEVEL 2 BEGIN -->
+			<div id="main-nav-level2">
+				<p>&nbsp;</p>
+			</div>
+<!-- MAIN NAV LEVEL 2 END -->
+
+
+
+<!-- SUBDOMAIN TITLE TOP BEGIN -->
+<div id="subdomain-title">
+	<h1 style="float:left">
+<!-- SUBDOMAIN TITLE TOP END -->
+<!-- SUBDOMAIN TITLE BEGIN -->
+<!--no_index_end-->
+Databases, Tables &amp; Calculators by Subject
+<!--no_index_start-->
+<!-- SUBDOMAIN TITLE END -->
+<!-- SUBDOMAIN TITLE MIDDLE BEGIN -->
+		</h1>
+		<div class="article-tools-box" style="margin-right: 8px;">
+			<div id="fontpopup">
+			<script type="text/javascript" language="javascript">
+				document.getElementById('fontpopup').onmouseout = bls_chfont_mo;
+			</script>
+			FONT SIZE:<a style="cursor: pointer;" class="fontminus" onMouseOver="this.style.cursor='pointer'" onFocus="this.blur();" onClick="bls_chsize('minus');"><img src="/images/icons/icon_small_minus.gif" alt="Minus Font Size" width="16" height="16"></a><a style="cursor: pointer;" class="fontplus" onMouseOver="this.style.cursor='pointer'" onFocus="this.blur();" onClick="bls_chsize('plus');"><img src="/images/icons/icon_small_plus.gif" alt="Plus Font Size" width="16" height="16"></a>		
+			</div>
+		</div>
+<!-- SUBDOMAIN TITLE MIDDLE END -->
+
+<!-- SUBDOMAIN TITLE BOTTOM BEGIN -->
+
+
+	</div> <!-- End Subdomain Title Div -->
+	<div id="subdomain-title-border"></div>
+
+<!-- SUBDOMAIN TITLE BOTTOM END -->
+
+<!-- 1COL LAYOUT COL1 BEGIN -->	
+	<div class="clearfloat" id="startcontent"></div>
+	<div id="main-content-full-width" class="main-content">
+		<div id="bodytext" class="verdana md">
+		
+
+<!-- 1COL LAYOUT COL1 END -->
+
+<!--no_index_end-->
+<!-- OneColHeadBasic End -->
+<!-- BEGIN MAIN CONTENT -->
+<TABLE cellSpacing="1" cellPadding="0" width="80%" border="0"><TBODY><TR>
+<FORM NAME="format" action="http://data.bls.gov/PDQ/servlet/SurveyOutputServlet" METHOD="POST">
+<input type="hidden" name="request_action" value="get_data">
+<input type="hidden" name="reformat" value="true">
+<input type="hidden" name="from_results_page" value="true">
+<TD vAlign="center" align="left" width="15%"><FONT face=helvetica,arial size=-1><STRONG>Change Output Options:</STRONG></FONT></TD>
+<TD vAlign="center" align="left" width="2%"><FONT face=helvetica,arial size=-2>From:</FONT></TD>
+<TD vAlign="center" align="left" width="2%"><FONT face=helvetica,arial size=-2>
+<SELECT onchange=validateYears() name='from_year'>
+<OPTION>1990</OPTION>
+<OPTION>1991</OPTION>
+<OPTION>1992</OPTION>
+<OPTION>1993</OPTION>
+<OPTION>1994</OPTION>
+<OPTION>1995</OPTION>
+<OPTION>1996</OPTION>
+<OPTION>1997</OPTION>
+<OPTION selected value='1998'>1998</OPTION>
+<OPTION>1999</OPTION>
+<OPTION>2000</OPTION>
+<OPTION>2001</OPTION>
+<OPTION>2002</OPTION>
+<OPTION>2003</OPTION>
+<OPTION>2004</OPTION>
+<OPTION>2005</OPTION>
+<OPTION>2006</OPTION>
+<OPTION>2007</OPTION>
+<OPTION>2008</OPTION>
+</SELECT>
+
+</FONT></TD><TD vAlign=center align="right" width="2%"><FONT face=helvetica,arial size=-2>&nbsp;&nbsp;To:</FONT></TD>
+<TD vAlign=center align="left" width="5%"><FONT face=helvetica,arial size=-2>
+<SELECT  onchange=validateYears() name='to_year'>
+<OPTION>1990</OPTION>
+<OPTION>1991</OPTION>
+<OPTION>1992</OPTION>
+<OPTION>1993</OPTION>
+<OPTION>1994</OPTION>
+<OPTION>1995</OPTION>
+<OPTION>1996</OPTION>
+<OPTION>1997</OPTION>
+<OPTION>1998</OPTION>
+<OPTION>1999</OPTION>
+<OPTION>2000</OPTION>
+<OPTION>2001</OPTION>
+<OPTION>2002</OPTION>
+<OPTION>2003</OPTION>
+<OPTION>2004</OPTION>
+<OPTION>2005</OPTION>
+<OPTION>2006</OPTION>
+<OPTION>2007</OPTION>
+<OPTION selected value='2008'>2008</OPTION>
+</SELECT>
+
+</FONT></TD><TD vAlign="center" align="left" width="10%">&nbsp;&nbsp;
+<INPUT type="image" height="18" alt="Retrieve Data Now!" width="20" src="/images/go.gif" border="0" name=Go></TD>
+<TD vAlign=center align=left width="20%">&nbsp;</TD></TR>
+<TR><TD vAlign=center align=right width="15%"></TD><TD vAlign=center align=left width="21%" colSpan=5>
+<input type="checkbox" name="include_graphs" value="true">include graphs
+
+<SPAN class=new>NEW!</SPAN></TD>
+<input type="hidden" name="initial_request" value="false">
+<input type="hidden" name="data_tool" value="XGtable">
+<input type="hidden" name="series_id" value="LAUMT48463406">
+
+</FORM>
+<TD vAlign=center align=middle width="20%">
+<FORM action="http://data.bls.gov/PDQ/servlet/SurveyOutputServlet" METHOD="POST">
+<input type="hidden" name="request_action" value="show_formatting">
+<input type="hidden" name="initial_request" value="false">
+<input type="hidden" name="data_tool" value="XGtable">
+<input type="hidden" name="series_id" value="LAUMT48463406">
+
+<INPUT type="image" src="/images/data/output.gif" height="18" alt="More Formatting Options" width="216" border="0">
+</FORM></TD></TR></TBODY></TABLE>
+<SPAN CLASS="extract"> Data extracted on: February 6, 2009 (2:09:43 AM)</SPAN>
+</P>
+<DIV class="SurveyTitle"> Local Area Unemployment Statistics</DIV>
+<BR><TABLE border=1 cellPadding=2 cellSpacing=0>
+<TR class="DataHead"><TD class="DataHead" vAlign="top" align="left" colspan=6><PRE STYLE="FONT-SIZE: x-small"><STRONG>Series Id:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</STRONG>LAUMT48463406<BR>Not Seasonally Adjusted<BR><STRONG>Area:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</STRONG>Tyler, TX Metropolitan Statistical Area<BR><STRONG>Area Type:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</STRONG>Metropolitan areas<BR><STRONG>State/Region/Division:&nbsp;&nbsp;</STRONG>Texas<BR></pre></TD></TR><TR class="OutputHead"><TH class="OutputHead" scope="row" vAlign="top">Year</TH><TH class="OutputHead" scope="row" vAlign="top">Period</TH><TH class="OutputHead" scope="col" vAlign="top">labor force</TH><TH class="OutputHead" scope="col" vAlign="top">employment</TH><TH class="OutputHead" scope="col" vAlign="top">unemployment</TH><TH class="OutputHead" scope="col" vAlign="top">unemployment rate</TH></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">89143</TD><TD class="OutputCell">83677</TD><TD class="OutputCell">5466</TD><TD class="OutputCell">6.1</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">88777</TD><TD class="OutputCell">83880</TD><TD class="OutputCell">4897</TD><TD class="OutputCell">5.5</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">88945</TD><TD class="OutputCell">84271</TD><TD class="OutputCell">4674</TD><TD class="OutputCell">5.3</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">88682</TD><TD class="OutputCell">84602</TD><TD class="OutputCell">4080</TD><TD class="OutputCell">4.6</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">88528</TD><TD class="OutputCell">84109</TD><TD class="OutputCell">4419</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">90187</TD><TD class="OutputCell">84994</TD><TD class="OutputCell">5193</TD><TD class="OutputCell">5.8</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">89706</TD><TD class="OutputCell">84651</TD><TD class="OutputCell">5055</TD><TD class="OutputCell">5.6</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">89547</TD><TD class="OutputCell">84720</TD><TD class="OutputCell">4827</TD><TD class="OutputCell">5.4</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">90279</TD><TD class="OutputCell">85589</TD><TD class="OutputCell">4690</TD><TD class="OutputCell">5.2</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">90255</TD><TD class="OutputCell">85660</TD><TD class="OutputCell">4595</TD><TD class="OutputCell">5.1</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">90077</TD><TD class="OutputCell">85796</TD><TD class="OutputCell">4281</TD><TD class="OutputCell">4.8</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">90322</TD><TD class="OutputCell">86427</TD><TD class="OutputCell">3895</TD><TD class="OutputCell">4.3</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1998</TH><TH class="OutputHead" scope="row" >Annual</TH><TD class="OutputCell">89538</TD><TD class="OutputCell">84865</TD><TD class="OutputCell">4673</TD><TD class="OutputCell">5.2</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">89856</TD><TD class="OutputCell">85574</TD><TD class="OutputCell">4282</TD><TD class="OutputCell">4.8</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">88970</TD><TD class="OutputCell">84888</TD><TD class="OutputCell">4082</TD><TD class="OutputCell">4.6</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">89158</TD><TD class="OutputCell">85299</TD><TD class="OutputCell">3859</TD><TD class="OutputCell">4.3</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">89264</TD><TD class="OutputCell">85713</TD><TD class="OutputCell">3551</TD><TD class="OutputCell">4.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">89592</TD><TD class="OutputCell">85906</TD><TD class="OutputCell">3686</TD><TD class="OutputCell">4.1</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">90567</TD><TD class="OutputCell">86426</TD><TD class="OutputCell">4141</TD><TD class="OutputCell">4.6</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">90087</TD><TD class="OutputCell">86083</TD><TD class="OutputCell">4004</TD><TD class="OutputCell">4.4</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">90171</TD><TD class="OutputCell">86417</TD><TD class="OutputCell">3754</TD><TD class="OutputCell">4.2</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">89822</TD><TD class="OutputCell">86019</TD><TD class="OutputCell">3803</TD><TD class="OutputCell">4.2</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">90803</TD><TD class="OutputCell">87021</TD><TD class="OutputCell">3782</TD><TD class="OutputCell">4.2</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">90755</TD><TD class="OutputCell">86915</TD><TD class="OutputCell">3840</TD><TD class="OutputCell">4.2</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">92070</TD><TD class="OutputCell">87699</TD><TD class="OutputCell">4371</TD><TD class="OutputCell">4.7</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >1999</TH><TH class="OutputHead" scope="row" >Annual</TH><TD class="OutputCell">90093</TD><TD class="OutputCell">86163</TD><TD class="OutputCell">3930</TD><TD class="OutputCell">4.4</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">85994</TD><TD class="OutputCell">81980</TD><TD class="OutputCell">4014</TD><TD class="OutputCell">4.7</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">85926</TD><TD class="OutputCell">82054</TD><TD class="OutputCell">3872</TD><TD class="OutputCell">4.5</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">86601</TD><TD class="OutputCell">82840</TD><TD class="OutputCell">3761</TD><TD class="OutputCell">4.3</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">86424</TD><TD class="OutputCell">83092</TD><TD class="OutputCell">3332</TD><TD class="OutputCell">3.9</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">85993</TD><TD class="OutputCell">82406</TD><TD class="OutputCell">3587</TD><TD class="OutputCell">4.2</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">86598</TD><TD class="OutputCell">82547</TD><TD class="OutputCell">4051</TD><TD class="OutputCell">4.7</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">85630</TD><TD class="OutputCell">81747</TD><TD class="OutputCell">3883</TD><TD class="OutputCell">4.5</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">86176</TD><TD class="OutputCell">82309</TD><TD class="OutputCell">3867</TD><TD class="OutputCell">4.5</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">85667</TD><TD class="OutputCell">81778</TD><TD class="OutputCell">3889</TD><TD class="OutputCell">4.5</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">87448</TD><TD class="OutputCell">82538</TD><TD class="OutputCell">4910</TD><TD class="OutputCell">5.6</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">86452</TD><TD class="OutputCell">82881</TD><TD class="OutputCell">3571</TD><TD class="OutputCell">4.1</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">86227</TD><TD class="OutputCell">82979</TD><TD class="OutputCell">3248</TD><TD class="OutputCell">3.8</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2000</TH><TH class="OutputHead" scope="row" >Annual</TH><TD class="OutputCell">86261</TD><TD class="OutputCell">82429</TD><TD class="OutputCell">3832</TD><TD class="OutputCell">4.4</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">85928</TD><TD class="OutputCell">81978</TD><TD class="OutputCell">3950</TD><TD class="OutputCell">4.6</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">85353</TD><TD class="OutputCell">81750</TD><TD class="OutputCell">3603</TD><TD class="OutputCell">4.2</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">86058</TD><TD class="OutputCell">82370</TD><TD class="OutputCell">3688</TD><TD class="OutputCell">4.3</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">86080</TD><TD class="OutputCell">82528</TD><TD class="OutputCell">3552</TD><TD class="OutputCell">4.1</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">85902</TD><TD class="OutputCell">82258</TD><TD class="OutputCell">3644</TD><TD class="OutputCell">4.2</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">87619</TD><TD class="OutputCell">83249</TD><TD class="OutputCell">4370</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">87980</TD><TD class="OutputCell">83627</TD><TD class="OutputCell">4353</TD><TD class="OutputCell">4.9</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">87317</TD><TD class="OutputCell">82686</TD><TD class="OutputCell">4631</TD><TD class="OutputCell">5.3</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">87430</TD><TD class="OutputCell">82936</TD><TD class="OutputCell">4494</TD><TD class="OutputCell">5.1</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">88880</TD><TD class="OutputCell">83563</TD><TD class="OutputCell">5317</TD><TD class="OutputCell">6.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">89136</TD><TD class="OutputCell">84052</TD><TD class="OutputCell">5084</TD><TD class="OutputCell">5.7</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">89070</TD><TD class="OutputCell">84133</TD><TD class="OutputCell">4937</TD><TD class="OutputCell">5.5</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2001</TH><TH class="OutputHead" scope="row" >Annual</TH><TD class="OutputCell">87230</TD><TD class="OutputCell">82928</TD><TD class="OutputCell">4302</TD><TD class="OutputCell">4.9</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">89360</TD><TD class="OutputCell">83852</TD><TD class="OutputCell">5508</TD><TD class="OutputCell">6.2</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">89466</TD><TD class="OutputCell">84483</TD><TD class="OutputCell">4983</TD><TD class="OutputCell">5.6</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">89564</TD><TD class="OutputCell">84744</TD><TD class="OutputCell">4820</TD><TD class="OutputCell">5.4</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">89238</TD><TD class="OutputCell">84440</TD><TD class="OutputCell">4798</TD><TD class="OutputCell">5.4</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">89454</TD><TD class="OutputCell">84629</TD><TD class="OutputCell">4825</TD><TD class="OutputCell">5.4</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">90537</TD><TD class="OutputCell">85014</TD><TD class="OutputCell">5523</TD><TD class="OutputCell">6.1</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">90995</TD><TD class="OutputCell">85677</TD><TD class="OutputCell">5318</TD><TD class="OutputCell">5.8</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">91088</TD><TD class="OutputCell">85874</TD><TD class="OutputCell">5214</TD><TD class="OutputCell">5.7</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">90952</TD><TD class="OutputCell">85969</TD><TD class="OutputCell">4983</TD><TD class="OutputCell">5.5</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">91006</TD><TD class="OutputCell">86189</TD><TD class="OutputCell">4817</TD><TD class="OutputCell">5.3</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">91274</TD><TD class="OutputCell">86093</TD><TD class="OutputCell">5181</TD><TD class="OutputCell">5.7</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">91653</TD><TD class="OutputCell">86708</TD><TD class="OutputCell">4945</TD><TD class="OutputCell">5.4</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2002</TH><TH class="OutputHead" scope="row" >Annual</TH><TD class="OutputCell">90382</TD><TD class="OutputCell">85306</TD><TD class="OutputCell">5076</TD><TD class="OutputCell">5.6</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">91573</TD><TD class="OutputCell">85970</TD><TD class="OutputCell">5603</TD><TD class="OutputCell">6.1</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">91335</TD><TD class="OutputCell">86020</TD><TD class="OutputCell">5315</TD><TD class="OutputCell">5.8</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">91265</TD><TD class="OutputCell">86110</TD><TD class="OutputCell">5155</TD><TD class="OutputCell">5.6</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">91386</TD><TD class="OutputCell">86239</TD><TD class="OutputCell">5147</TD><TD class="OutputCell">5.6</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">91273</TD><TD class="OutputCell">85813</TD><TD class="OutputCell">5460</TD><TD class="OutputCell">6.0</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">93095</TD><TD class="OutputCell">86790</TD><TD class="OutputCell">6305</TD><TD class="OutputCell">6.8</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">94153</TD><TD class="OutputCell">87937</TD><TD class="OutputCell">6216</TD><TD class="OutputCell">6.6</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">93402</TD><TD class="OutputCell">87763</TD><TD class="OutputCell">5639</TD><TD class="OutputCell">6.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">93435</TD><TD class="OutputCell">88039</TD><TD class="OutputCell">5396</TD><TD class="OutputCell">5.8</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">93759</TD><TD class="OutputCell">88616</TD><TD class="OutputCell">5143</TD><TD class="OutputCell">5.5</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">94446</TD><TD class="OutputCell">88651</TD><TD class="OutputCell">5795</TD><TD class="OutputCell">6.1</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">93791</TD><TD class="OutputCell">88716</TD><TD class="OutputCell">5075</TD><TD class="OutputCell">5.4</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2003</TH><TH class="OutputHead" scope="row" >Annual</TH><TD class="OutputCell">92743</TD><TD class="OutputCell">87222</TD><TD class="OutputCell">5521</TD><TD class="OutputCell">6.0</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">93161</TD><TD class="OutputCell">87488</TD><TD class="OutputCell">5673</TD><TD class="OutputCell">6.1</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">92961</TD><TD class="OutputCell">87833</TD><TD class="OutputCell">5128</TD><TD class="OutputCell">5.5</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">93658</TD><TD class="OutputCell">88423</TD><TD class="OutputCell">5235</TD><TD class="OutputCell">5.6</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">93842</TD><TD class="OutputCell">89046</TD><TD class="OutputCell">4796</TD><TD class="OutputCell">5.1</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">93902</TD><TD class="OutputCell">89119</TD><TD class="OutputCell">4783</TD><TD class="OutputCell">5.1</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">95368</TD><TD class="OutputCell">89997</TD><TD class="OutputCell">5371</TD><TD class="OutputCell">5.6</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">96289</TD><TD class="OutputCell">90600</TD><TD class="OutputCell">5689</TD><TD class="OutputCell">5.9</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">95391</TD><TD class="OutputCell">90384</TD><TD class="OutputCell">5007</TD><TD class="OutputCell">5.2</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">95659</TD><TD class="OutputCell">90893</TD><TD class="OutputCell">4766</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">96427</TD><TD class="OutputCell">91646</TD><TD class="OutputCell">4781</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">96738</TD><TD class="OutputCell">91943</TD><TD class="OutputCell">4795</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">97049</TD><TD class="OutputCell">92011</TD><TD class="OutputCell">5038</TD><TD class="OutputCell">5.2</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2004</TH><TH class="OutputHead" scope="row" >Annual</TH><TD class="OutputCell">95038</TD><TD class="OutputCell">89949</TD><TD class="OutputCell">5089</TD><TD class="OutputCell">5.4</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">95817</TD><TD class="OutputCell">90445</TD><TD class="OutputCell">5372</TD><TD class="OutputCell">5.6</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">95431</TD><TD class="OutputCell">90383</TD><TD class="OutputCell">5048</TD><TD class="OutputCell">5.3</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">95659</TD><TD class="OutputCell">91012</TD><TD class="OutputCell">4647</TD><TD class="OutputCell">4.9</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">95276</TD><TD class="OutputCell">90711</TD><TD class="OutputCell">4565</TD><TD class="OutputCell">4.8</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">95219</TD><TD class="OutputCell">90462</TD><TD class="OutputCell">4757</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">96171</TD><TD class="OutputCell">91075</TD><TD class="OutputCell">5096</TD><TD class="OutputCell">5.3</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">96882</TD><TD class="OutputCell">91279</TD><TD class="OutputCell">5603</TD><TD class="OutputCell">5.8</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">95945</TD><TD class="OutputCell">91162</TD><TD class="OutputCell">4783</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">96297</TD><TD class="OutputCell">91512</TD><TD class="OutputCell">4785</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">96668</TD><TD class="OutputCell">92181</TD><TD class="OutputCell">4487</TD><TD class="OutputCell">4.6</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">96292</TD><TD class="OutputCell">91771</TD><TD class="OutputCell">4521</TD><TD class="OutputCell">4.7</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">96085</TD><TD class="OutputCell">91892</TD><TD class="OutputCell">4193</TD><TD class="OutputCell">4.4</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2005</TH><TH class="OutputHead" scope="row" >Annual</TH><TD class="OutputCell">95978</TD><TD class="OutputCell">91157</TD><TD class="OutputCell">4821</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">95545</TD><TD class="OutputCell">90957</TD><TD class="OutputCell">4588</TD><TD class="OutputCell">4.8</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">95895</TD><TD class="OutputCell">91360</TD><TD class="OutputCell">4535</TD><TD class="OutputCell">4.7</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">96010</TD><TD class="OutputCell">91660</TD><TD class="OutputCell">4350</TD><TD class="OutputCell">4.5</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">96006</TD><TD class="OutputCell">91816</TD><TD class="OutputCell">4190</TD><TD class="OutputCell">4.4</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">96017</TD><TD class="OutputCell">91724</TD><TD class="OutputCell">4293</TD><TD class="OutputCell">4.5</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">97311</TD><TD class="OutputCell">92391</TD><TD class="OutputCell">4920</TD><TD class="OutputCell">5.1</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">96974</TD><TD class="OutputCell">92144</TD><TD class="OutputCell">4830</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">96694</TD><TD class="OutputCell">92141</TD><TD class="OutputCell">4553</TD><TD class="OutputCell">4.7</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">97075</TD><TD class="OutputCell">92651</TD><TD class="OutputCell">4424</TD><TD class="OutputCell">4.6</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">97380</TD><TD class="OutputCell">93208</TD><TD class="OutputCell">4172</TD><TD class="OutputCell">4.3</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">97227</TD><TD class="OutputCell">92837</TD><TD class="OutputCell">4390</TD><TD class="OutputCell">4.5</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">97875</TD><TD class="OutputCell">92836</TD><TD class="OutputCell">5039</TD><TD class="OutputCell">5.1</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2006</TH><TH class="OutputHead" scope="row" >Annual</TH><TD class="OutputCell">96668</TD><TD class="OutputCell">92144</TD><TD class="OutputCell">4524</TD><TD class="OutputCell">4.7</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">97468</TD><TD class="OutputCell">92912</TD><TD class="OutputCell">4556</TD><TD class="OutputCell">4.7</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">96457</TD><TD class="OutputCell">92081</TD><TD class="OutputCell">4376</TD><TD class="OutputCell">4.5</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">96360</TD><TD class="OutputCell">92468</TD><TD class="OutputCell">3892</TD><TD class="OutputCell">4.0</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">95746</TD><TD class="OutputCell">92103</TD><TD class="OutputCell">3643</TD><TD class="OutputCell">3.8</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">95585</TD><TD class="OutputCell">91887</TD><TD class="OutputCell">3698</TD><TD class="OutputCell">3.9</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">97110</TD><TD class="OutputCell">92772</TD><TD class="OutputCell">4338</TD><TD class="OutputCell">4.5</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">97501</TD><TD class="OutputCell">93110</TD><TD class="OutputCell">4391</TD><TD class="OutputCell">4.5</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">95732</TD><TD class="OutputCell">91736</TD><TD class="OutputCell">3996</TD><TD class="OutputCell">4.2</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">96596</TD><TD class="OutputCell">92560</TD><TD class="OutputCell">4036</TD><TD class="OutputCell">4.2</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">96977</TD><TD class="OutputCell">93127</TD><TD class="OutputCell">3850</TD><TD class="OutputCell">4.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">97275</TD><TD class="OutputCell">93298</TD><TD class="OutputCell">3977</TD><TD class="OutputCell">4.1</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">97184</TD><TD class="OutputCell">92934</TD><TD class="OutputCell">4250</TD><TD class="OutputCell">4.4</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2007</TH><TH class="OutputHead" scope="row" >Annual</TH><TD class="OutputCell">96666</TD><TD class="OutputCell">92582</TD><TD class="OutputCell">4084</TD><TD class="OutputCell">4.2</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Jan</TH><TD class="OutputCell">96677</TD><TD class="OutputCell">91926</TD><TD class="OutputCell">4751</TD><TD class="OutputCell">4.9</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Feb</TH><TD class="OutputCell">95921</TD><TD class="OutputCell">91653</TD><TD class="OutputCell">4268</TD><TD class="OutputCell">4.4</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Mar</TH><TD class="OutputCell">96927</TD><TD class="OutputCell">92670</TD><TD class="OutputCell">4257</TD><TD class="OutputCell">4.4</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Apr</TH><TD class="OutputCell">97063</TD><TD class="OutputCell">93221</TD><TD class="OutputCell">3842</TD><TD class="OutputCell">4.0</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >May</TH><TD class="OutputCell">97419</TD><TD class="OutputCell">93232</TD><TD class="OutputCell">4187</TD><TD class="OutputCell">4.3</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Jun</TH><TD class="OutputCell">98795</TD><TD class="OutputCell">94051</TD><TD class="OutputCell">4744</TD><TD class="OutputCell">4.8</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Jul</TH><TD class="OutputCell">99069</TD><TD class="OutputCell">94010</TD><TD class="OutputCell">5059</TD><TD class="OutputCell">5.1</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Aug</TH><TD class="OutputCell">98396</TD><TD class="OutputCell">93469</TD><TD class="OutputCell">4927</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Sep</TH><TD class="OutputCell">98061</TD><TD class="OutputCell">93112</TD><TD class="OutputCell">4949</TD><TD class="OutputCell">5.0</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Oct</TH><TD class="OutputCell">99753</TD><TD class="OutputCell">93352</TD><TD class="OutputCell">6401</TD><TD class="OutputCell">6.4</TD></TR>
+<TR bgcolor="#ffffff"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Nov</TH><TD class="OutputCell">98420</TD><TD class="OutputCell">93235</TD><TD class="OutputCell">5185</TD><TD class="OutputCell">5.3</TD></TR>
+<TR bgcolor="#DAE9FC"><TH class="OutputHead" scope="row" >2008</TH><TH class="OutputHead" scope="row" >Dec</TH><TD class="OutputCell">98361(p)</TD><TD class="OutputCell">92868(p)</TD><TD class="OutputCell">5493(p)</TD><TD class="OutputCell">5.6(p)</TD></TR>
+<TR><TD class="DataFoot" colspan=6>p : Preliminary.<BR></TD></TR></TABLE>
+
+<BR>
+<!-- OneColFootBasic Begin -->
+<!-- Footer Filename: \include\bls\pdq_footer.txt-->
+<!--no_index_start-->
+<!-- 1COL BASIC LAYOUT COL1 END -->
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		</div>
+	</div>
+	<div class="clearfloat"></div>
+
+
+<!-- 1COL LAYOUT COL1 END -->
+
+<!-- QUICK LINKS BEGIN -->
+		<div id="quick-links">
+			<h2>Quick Links</h2>
+			<table border="0" cellpadding="0" cellspacing="0" id="quick-links-table">
+				<tr>
+					<td valign="top">
+						<h4>Tools</h4>
+						<ul>
+							<li><a href="http://www.bls.gov/eag/">At a Glance Tables</a></li>
+							<li><a href="http://www.bls.gov/bls/newsrels.htm">Economic News Releases</a></li>
+							<li><a href="http://www.bls.gov/data/">Databases &amp; Tables</a></li>
+							<li><a href="http://data.bls.gov/map/servlet/map.servlet.MapToolServlet?survey=la">Maps</a></li>
+						</ul></td>
+					<td valign="top">
+						<h4>Calculators</h4>
+						<ul>
+							<li><a href="http://www.bls.gov/data/inflation_calculator.htm">Inflation</a></li>
+							<li><a href="http://data.bls.gov/LOCATION_QUOTIENT/servlet/lqc.ControllerServlet">Location Quotient</a> </li>
+							<!--<li><a href="/data/compensation_calculator.htm">National Compensation</a></li>-->
+							<li><a href="http://data.bls.gov/IIRC/">Injury And Illness</a></li>
+						</ul>
+					</td>
+					<td valign="top">
+						<h4>Help</h4>
+						<ul>
+							<li><a href="http://www.bls.gov/help/">Help &amp; Tutorials</a></li>
+							<li><a href="http://www.bls.gov/bls/topicsaz.htm">A to Z Index</a></li>
+							<li><a href="http://www.bls.gov/dolfaq/blsfaqtoc.htm">FAQs</a></li>
+							<li><a href="http://www.bls.gov/bls/glossary.htm">Glossary</a></li>
+							<li><a href="http://www.bls.gov/bls/infohome.htm">About BLS</a></li>
+							<li><a href="http://www.bls.gov/bls/contact.htm">Contact Us</a></li>
+						</ul>
+					</td>
+					<td valign="top" class="last">
+						<h4>Info</h4>
+						<ul>
+							<li><a href="http://www.bls.gov/bls/whatsnew.htm">What's New</a></li>						
+							<li><a href="http://www.bls.gov/jobs/">Careers @ BLS</a></li>
+							<li><a href="http://www.dol.gov/dol/findit.htm">Find It! DOL</a></li>
+							<li><a href="http://www.bls.gov/bls/list.htm">Join our Mailing Lists</a></li>
+							<li><a href="http://www.bls.gov/bls/pss.htm">Privacy &amp; Security</a></li>
+							<li><a href="http://www.bls.gov/bls/linksite.htm">Linking &amp; Copyright Information</a></li>
+						</ul>
+					</td>
+				</tr>
+			</table>
+		</div>
+			
+<!-- QUICK LINKS END -->
+
+<!-- WRAPPER BOTTOM BEGIN -->
+		</div>
+	<div id="wrapper-bottom-basic"></div>
+
+<!-- WRAPPER BOTTOM END -->
+
+<!-- FOOTER LEFT BEGIN -->
+<div id="dol-footer-wrapper">
+	<table border="0" cellspacing="0" cellpadding="0" id="dol-footer" class="dol-footer-autowidth">
+		<tr>
+			<td id="dol-footer-left">&nbsp;</td>
+			<td id="dol-footer-center">
+				<!-- JQUERY  FOR THICKBOX FOR POPUP BOXES AND JTIP FOR TOOLTIPS -->
+				<script type="text/javascript" src="/javascripts/jquery.js"></script>
+				<script type="text/javascript" src="/javascripts/thickbox-compressed.js"></script>
+				<script type="text/javascript" src="/javascripts/jtip.js"></script>
+
+				<!-- BEGIN WEBTRENDS ON DEMAND -->
+				<script type="text/javascript" src="/javascripts/webtrends-ondemand-config.js"></script>
+				<script type="text/javascript" src="/javascripts/webtrends-ondemand-sdc.js"></script>
+				<script type="text/javascript" src="/javascripts/webtrends-ondemand-files.js"></script>
+				<!-- END ALL JS -->
+				<noscript>
+					<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcspmlfn66twkfocu55nbix84_4c4t/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
+				</noscript>
+				<!-- END WEBTRENDS ON DEMAND -->
+				<p><img src="/images/layout/spacer.gif" alt="Spacer" width="1" height="23" border="0"> <a href="http://www.bls.gov/dolfaq/blsfaqtoc.htm">Frequently Asked Questions</a> | <a href="http://www.bls.gov/bls/blsfoia.htm">Freedom of Information Act</a> | <a href="http://www.dol.gov/feedback/FeedbackSurvey.asp">Customer Survey</a> </p></td>
+			<td id="dol-footer-right"><a href="http://www.bls.gov/">bls.gov</a> <a href="http://www.bls.gov/"><img src="/images/dol/dol_footer_home_icon_white.gif" alt="Back to Top" width="23" height="23"></a></td>
+		</tr>
+		<tr>
+			<td colspan="3"><p class="dol-footer-contact">
+
+<!-- FOOTER LEFT END -->
+
+<span id="footer-address"><strong>U.S. Bureau of Labor Statistics</strong> 2 Massachusetts Avenue, NE Washington, DC 20212-0001 </span> 	 	
+
+<!-- FOOTER CENTER BEGIN -->
+		</p><p class="dol-footer-contact">
+		
+<!-- FOOTER CENTER END -->
+
+<span id="footer-contact"><a href="http://www.bls.gov/">www.bls.gov</a> | Telephone: (202) 691-5200 | Do you have a <a href="http://data.bls.gov/cgi-bin/forms/opb">Data question</a>?</span>
+		
+
+<!-- FOOTER RIGHT BEGIN -->
+				</p>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<!-- FOOTER RIGHT END -->
+
+<!--no_index_end-->
+<!-- OneColFootBasic End -->
+</BODY></HTML>

@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="REFRESH" content="5;url=build.shtml" />
+<title>NCBI Build Page Redirect</title>
+<link href="../genome.css" rel="stylesheet" type="text/css" />
+<link href="../NCBI_core/header.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../js/nifty.js"></script>
+<script type="text/javascript">
+window.onload=function(){
+if(!NiftyCheck())
+    return;
+Rounded("div#main","#EEE","#FFF");
+}
+</script>
+</head>
+
+<body>
+<div id="ncbiheader">
+	<h1>
+		<a href="http://www.ncbi.nlm.nih.gov" title="NCBI Home Page">NCBI</a>
+	</h1>
+</div>
+<!--header - replace with SSI-->
+<!--end area nav-->
+<div id="main">
+		<h1>Page Redirect:</h1>
+		<p>We're sorry. The page you were trying to find: http://www.ncbi.nlm.nih.gov/genome/guide/build.html has been relocated.</p>
+		<p>The new location is <a href="build.shtml">http://www.ncbi.nlm.nih.gov/genome/guide/build.shtml</a>. Please update any bookmarks. If you are not redirected to the new page in 5 seconds, please use the provided link.</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,1427 @@
+
+<HTML>
+<HEAD>
+<title>Varicella</title>
+<META NAME="description" CONTENT="Varicella">
+<META NAME="topic" CONTENT="00925 00162 00976 ">
+<META NAME="pubdate" CONTENT="12-01-1992">
+<META NAME="source" CONTENT="U.S. Department of Health and Human Services, Public Health Service,">
+<link rel="stylesheet" href="/wonder_general.css" type="text/css">
+</head>
+
+<body>
+
+	<!-- BEGIN HEADER -->
+	<!-- the three td with id=cdc-header-row# are for extending up into header area
+			right hand column from sections below the header. normally background color, gradient, etc. -->
+	<table class="noprint cdc-header" border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="140" height="78" valign="top"> 
+				<!-- first column is 140 wide -->
+				<table border="0" cellpadding="0" cellspacing="0" width="140">
+					<tr>
+						<td width="140"><a href="http://www.cdc.gov"><img src="/images/CDC/nav11.gif" border="0" alt="Centers for Disease Control and Prevention" width="140" height="60"></a></td>
+					</tr>
+					<tr>
+						<td width="140" valign="top" align="left"><img src="/images/CDC/nav21.gif" border="0" alt=" " width="140" height="9"></td>
+					</tr>
+					<tr>
+						<td id="top-rounded-bottom" width="140" valign="top" align="left"><img border="0" src="/images/CDC/spacer.gif" width="1" height="1"></td>
+					</tr>
+					<tr>
+						<td id="rounded-bottom" width="140" valign="top" align="left"><img border="0" src="/images/CDC/spacer.gif" width="1" height="8"></td>
+					</tr>
+				</table>
+			</td>
+			<td width="12" valign="top"> 
+				<!-- second column is 12 wide -->
+				<img border="0" src="/images/CDC/nav12.gif" alt=" " width="12" height="63">
+			</td>
+			
+				<!-- third column  -->
+			<td valign="top" ><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr height="19">
+						<td width="615" valign="top" height="19" bgcolor="#000099"><a href="http://www.cdc.gov"><img border="0" src="/images/CDC/nav13.gif" alt="CDC Home" width="267" height="19"></a><a href="http://www.cdc.gov/search.htm"><img border="0" src="/images/CDC/nav14.gif" alt="Search" width="58" height="19"></a><a href="http://www.cdc.gov/health/diseases.htm"><img border="0" src="/images/CDC/nav15.gif" alt="Health Topics A-Z" width="118" height="19"></a></td>
+						<td bgcolor="#000099"></td>
+					</tr>
+					<tr>
+						<td><img border="0" src="/images/CDC/spacer.gif" vspace="4" width="1" height="1"></td>
+						<td id="cdc-header-row2"><img border="0" src="/images/CDC/spacer.gif" vspace="4" width="1" height="1"></td>
+					</tr>
+					<tr>
+						<td id="logo-top" width="603" height="32">&nbsp;</td>
+						<td id="cdc-header-row3">&nbsp;</td>
+					</tr>
+					<tr>
+						<td id="logo-bottom">
+							<table border="0" cellpadding="0" cellspacing="0" width="615">
+								<tr>
+									<td width="14" height="18">&nbsp;</td>
+									<td width="115" align="center" height="18"><a id="logo-nav" href="/">WONDER Home</a></td>
+									<td width="115" align="center" height="18"><a id="logo-nav" title="Frequently Asked Questions" href="/wonder/help/faq.html">FAQ</a></td>
+									<td width="115" align="center" height="18"><a id="logo-nav" href="/wonder/help/main.html">Help</a></td>
+									<td width="115" align="center" height="18"><a id="logo-nav" title="Contact WONDER for help or to offer suggestions." href="/ContactUs.html">Contact Us</a></td>
+									<td width="115" align="center" height="18"><a id="logo-nav" title="Search WONDER" href="/controller/datarequest?stage=search&action=current">Search</a></td>
+									<td width="10" height="18">&nbsp;</td>
+								</tr>
+							</table>
+						</td>
+						<td id="cdc-header-row4">&nbsp;</td>
+					</tr>
+				</table></td>
+		</tr>
+	</table>
+	<!-- END HEADER -->
+
+<!-- Law requires we include this TR for handicap access, part 2 -->
+<a name='content_area'></a>
+
+
+<blockquote>
+
+<font color=cc0000>
+<h1 align=center>Warning:</h1>
+<h3>This site is being maintained for historical purposes, but has had no new entries 
+since October 1998. To find more recent articles, please visit the following:
+<ul><li>  
+	<a href='http://www.cdc.gov/mmwr/mmwrsrch.htm'>MMWR</a>
+	at http://www.cdc.gov/mmwr/mmwrsrch.htm 
+</li><li>	
+	<a href='http://www.cdc.gov/search.htm'>CDC Web Search</a>
+	at http://www.cdc.gov/search.htm 
+</li></ul>
+</h3></font>
+<HR>
+
+<A NAME="title_page"></A>
+
+<H1>Varicella
+</H1>
+
+<H1>U.S. Department of Health and Human Services, Public Health Service,
+Centers for Disease Control and Prevention, National Center for
+Prevention Services
+</H1>
+
+<H1>Publication date: 12/01/1992</H1>
+
+<P>
+<HR>
+
+<A NAME="toc"></A>
+<H1>Table of Contents</H1>
+
+<P>
+<A HREF="#head001000000000000">Varicella</A><BR>
+<A HREF="#head001001000000000">Varicella Zoster Virus</A><BR>
+<A HREF="#head001002000000000">Epidemiology</A><BR>
+<A HREF="#head001003000000000">Pathogenesis and Spread</A><BR>
+<A HREF="#head001004000000000">Clinical Manifestations</A><BR>
+<A HREF="#head001005000000000">Complications</A><BR>
+<A HREF="#head001006000000000">Differential Diagnosis</A><BR>
+<A HREF="#head001007000000000">Laboratory Diagnosis</A><BR>
+<A HREF="#head001008000000000">Current Methods of Control and Prevention</A><BR>
+<A HREF="#head001009000000000">Varicella Vaccine</A><BR>
+<A HREF="#head001010000000000">Varicella-Zoster Immune Globulin: Regional Distribution Centers</A><BR>
+<A HREF="#head001011000000000">Varicella Workshop</A><BR>
+<P>
+<A HREF="#head002000000000000">For Additional Information</A><BR>
+<P>
+<A HREF="#head003000000000000">POINT OF CONTACT FOR THIS DOCUMENT:</A><BR>
+<P>
+Tables<BR>
+<A HREF="#Table_1">Efficacy In Children</A><BR>
+<P>
+<HR>
+
+<A NAME="head001000000000000"></A>
+<H2>Varicella</H2>
+
+History --<P>
+Varicella (chickenpox) was not reliably distinguished from smallpox
+until the end of the 19th century.  Herpes zoster (shingles) has been
+recognized since ancient times and was described in the early medical
+literature.  Clinical observations of the relationship between varicella
+and herpes zoster were made in 1888 by Von Bokay, when susceptible children
+acquired varicella after contact with herpes zoster.  Varicella virus (VZV)
+was isolated from vesicular fluid of both chickenpox and zoster lesions
+in cell culture by Weller in 1954.  Subsequent laboratory studies of the
+virus have led to the development of a live attenuated varicella vaccine,
+Oka strain, in Japan in the 1970s.  The vaccine has been shown to be safe
+and effective in healthy and immunocompromised children, and healthy
+adults.  It will soon be licensed in the U.S., probably for use in healthy
+children.<P>
+
+
+<A NAME="head001001000000000"></A>
+<H3>Varicella Zoster Virus</H3>
+
+VZV is a member of the herpes virus group, (alpha) herpes virus 3.  It
+is a DNA virus.  VZV has the capacity to persist as a latent infection in
+dorsal root or extra medullary cranial ganglia.<P>
+
+
+<A NAME="head001002000000000"></A>
+<H3>Epidemiology</H3>
+
+Infectiousness --<P><UL>
+<LI>Varicella is highly contagious (less so than measles, but more so
+than mumps and rubella), with secondary attack rates in susceptible
+household contacts of up to 90%.
+<LI>Virtually all persons in the U.S. acquire varicella by adulthood;
+thus, the number of cases occurring annually should approximate the
+U.S. birth cohort (3.5 to 4 million).
+</UL>
+Epidemiologic Characteristics --<P><UL>
+<LI>Varicella is endemic in the U.S. and has a seasonal fluctuation, with
+the highest incidence occurring in winter and early spring.
+<LI>Between 150,000 to 200,000 cases of varicella are reported annually
+to the Centers for Disease Control and Prevention (CDC), representing
+4%-6% of all cases.
+<LI>Varicella is notifiable in approximately 33 reporting areas in the
+U.S.
+<LI>The majority of cases, approximately 90%, occur in children less than
+15 years of age.  The highest attack rates are in children 5 to 9
+years of age, who represent 60% of all cases.
+<LI>By adulthood, 90%-95% of the U.S. population have antibodies to
+varicella.
+<LI>In the tropics, varicella occurs more often in adults; thus,
+immigrants from these areas are more likely to be susceptible than
+the remainder of the population at comparable ages.
+</UL>
+Morbidity and Mortality --<P><UL>
+<LI>Normal children usually have a relatively benign course.
+<LI>Complications are most likely to occur in the immunocompromised,
+newborns whose mothers develop rash close to the time of delivery,
+and adults.
+<LI>Approximately 40 to 90 deaths due to varicella are reported each
+year.  The majority of these are in normal persons.
+</UL>
+Herpes Zoster --<P><UL>
+<LI>Reflects reactivation of latent VZV infection.
+<LI>Reactivation is associated with aging, immunosuppression, in utero
+exposure to varicella, and postnatal varicella occurring before 18
+months of age.
+<LI>Approximately 300,000 cases are estimated to occur annually, and 5%
+are recurrences.  No seasonal variation is known.
+<LI>Herpes zoster is not a notifiable condition.
+<LI>In the immunocompromised, zoster can disseminate, causing generalized
+skin lesions, and central nervous system (CNS), pulmonary, and
+hepatic involvement.
+</UL>
+
+<A NAME="head001003000000000"></A>
+<H3>Pathogenesis and Spread</H3>
+
+Mode of Transmission<P><UL>
+<LI>Person to person - Via direct contact with vesicular fluid or via
+droplets from respiratory tract secretions.
+<LI>Airborne - Via aerosolized droplet nuclei.
+<LI>Indirect contact - For example, via articles containing fresh
+discharges of vesicular lesions.
+</UL>
+Reservoir: Humans<P>
+
+Incubation Period<P><UL>
+<LI>The average length is 14 to 16 days from exposure, with a range of 10 to
+21 days. This may be prolonged in immunocompromised patients and those
+who have received varicella zoster immune globulin (VZIG).  The
+incubation period may be up to 28 days after VZIG.
+</UL>
+Period of Communicability<P><UL>
+<LI>Extends from 1 to 2 days before the onset of rash through the first 5 to
+6 days after rash onset. Immunocompromised patients with progressive
+varicella are probably contagious during the entire period new lesions
+are appearing.  The virus has not been isolated from crusted lesions.
+</UL>
+Mild and inapparent infections occur rarely (&lt;5% of infections)<P>
+
+Immunity following primary infection is considered long-lasting<P><UL>
+<LI>However, reexposure may lead to reinfection with boosts in antibody
+titers, usually without clinically apparent illness or detectable
+viremia.
+</UL>
+Path of entry of the virus into the susceptible host is assumed to be the
+upper respiratory tract<P>
+
+
+<A NAME="head001004000000000"></A>
+<H3>Clinical Manifestations</H3>
+<UL>
+<LI>Prodrome - Adults may have 1 to 2 days of fever and malaise prior to
+rash onset, but in children the rash is often the first sign of disease.
+<LI>Rash - The rash is generalized, pruritic, and rapidly progresses from
+macules to papules to vesicular lesions before crusting.  Lesions are
+usually 1 to 4 mm in diameter; the vesicles contain clear fluid on a
+erythematous base that may rupture or become purulent before they dry
+and crust.  Successive crops appear over several days, with lesions
+present in several stages of maturity.  The rash begins on the scalp,
+moves to the trunk, and then the extremities.  Lesions also can occur on
+mucous membranes of the oropharynx, respiratory tract, vagina,
+conjunctiva, and the cornea.
+<LI>Other - The clinical course in normal children is typically benign, with
+mild malaise, pruritus, and fever up to 102 F for 2 to 3 days.  Adults
+may have more marked systemic symptoms and they have a higher incidence
+of complications.
+<LI>Zoster - The vesicular eruption of zoster generally occurs unilaterally
+in the distribution of the dermatomes supplied by a dorsal root or
+extramedullary cranial nerve sensory ganglion.  Most often, this
+involves the trunk or the area of cranial nerve V.  Two to four days
+prior to the eruption there may be pain and paresthesia in the segment
+involved.  There are few systemic symptoms.  Post-herpetic neuralgia is
+a distressing complication of zoster, with no adequate therapy currently
+available.  Ocular nerve and other organ involvement with zoster can
+occur, often with severe sequelae.  Maternal varicella infection during
+pregnancy can lead to herpes zoster in the first year of life.
+</UL>
+
+<A NAME="head001005000000000"></A>
+<H3>Complications</H3>
+
+Varicella in Normal Children<P><UL>
+<LI>Low risk of complications.
+<LI>Accounts for &gt;90% of cases, 75% of all varicella hospitalizations,
+70% of cases of encephalitis, 40% to 60% of all deaths, and virtually
+100% of Reye Syndrome cases.
+<LI>Most common complication is secondary bacterial infection of cutaneous
+lesions.
+<LI>CNS Complications:
+<LI>Encephalitis (estimated rate = 1.7/100,000): Cerebellar ataxia is most
+common, and is associated with a good outcome; diffuse cerebral
+involvement is less common in children.
+<LI>Reye Syndrome: Recent dramatic decrease in the incidence has occurred,
+presumably related to decreased use of aspirin in children.
+<LI>Rare: Aseptic meningitis, transverse myelitis, and Guillain-Barre
+syndrome.
+<LI>Pneumonia: Viral or bacterial, more frequent in adults.
+<LI>Infrequent complications: Thrombocytopenia, hemorrhagic varicella,
+purpura fulminans, glomerulonephritis, myocarditis, arthritis,
+orchitis, uveitis, iritis, and clinical hepatitis.
+</UL>
+Normal Adults<P><UL>
+<LI>Have a higher risk of complications than normal children.
+<LI>Less than 2% of reported cases are in persons &gt; or equal to 20 years
+of age, but account for approximately 25% of mortality.
+<LI>Pneumonia: Case fatality rates of up to 30%.
+<LI>Diffuse cerebral encephalitis is more likely to affect adults than
+children, and has a case fatality rate of up to 37%.
+<LI>Hospitalization rate approximately 14-18/1,000 cases compared with
+1-2/1,000 cases in normal children.
+</UL>
+Immunocompromised persons (i.e., persons with congenital or acquired immune
+deficiencies, malignancies, or on immunosuppressive therapy).<P><UL>
+<LI>Immunocompromised persons have a high risk of serious varicella
+infection.
+<LI>Immunocompromised persons have a high risk of disseminated disease
+(up to 36% in one report), resulting in multiple organ system
+involvement, often becoming fulminant and hemorrhagic.
+<LI>Most frequent complications include pneumonia and encephalitis.
+<LI>Increased risk of death; 7% in one report, however, this preceded the
+widespread use of VZIG and acyclovir and may not reflect current
+experience.
+</UL>
+Congenital Infection<P><UL>
+<LI>Primary varicella infection in the first 16 weeks of gestation is rarely
+associated with a recognized constellation of abnormalities:
+low birth weight, hypoplasia of an extremity, cicatricial skin scarring,
+localized muscular atrophy, encephalitis, cortical atrophy,
+chorioretinitis, and microcephaly.
+<LI>Risk of congenital birth defects from primary maternal varicella
+infection during the first trimester is felt to be very low (1%-2%).
+<LI>Rare reports of congenital birth defects following maternal zoster
+exist; however, virologic confirmation of maternal lesions was lacking.
+<LI>Infection in utero with varicella, particularly after 20 weeks
+gestation, is associated with zoster in those infants at an earlier age;
+the exact risk is unknown.
+</UL>
+Neonatal Infection Due to Maternal Chickenpox Close to Time of Delivery<P><UL>
+<LI>The onset of maternal varicella from 5 days before to 2 days after
+delivery may result in severe infection of the neonate (in an estimated
+17% to 30%) and an estimated case fatality rate of 31% in the first 5 to
+10 days of life.
+<LI>Fetal exposure to varicella virus without protection from sufficient
+maternal antibody results in severe disease.
+<LI>Infants born to mothers with onset of maternal varicella 5 days or
+more prior to delivery usually have a benign course, presumably due
+to passive transfer of sufficient maternal antibody.
+</UL>
+Infants After Postnatal Exposure<P><UL>
+<LI>Normal full-term infants with normal birthweight are unlikely to
+develop serious complications.
+<LI>Premature infants may have medical conditions that put them at increased
+risk for serious varicella illness and those born before 28 weeks of
+gestation may not have received adequate maternal antibody.
+</UL>
+Pregnancy - There is growing evidence that infection during pregnancy
+carries increased risk for serious varicella.  Further study is needed.<P>
+
+Death<P><UL>
+<LI>Risk in normal children: approximately 1/100,000; in normal infants:
+approximately 6/100,000.
+<LI>Risk in normal adults: approximately 12/100,000.
+<LI>Risk in leukemics is higher than in normal children and has been
+reported at 7%.
+<LI>Risk for newborns (who do not receive VZIG) from maternal chickenpox
+close to time of delivery is estimated at 31%.
+<LI>Majority of deaths occur in normal individuals.
+</UL>
+
+<A NAME="head001006000000000"></A>
+<H3>Differential Diagnosis</H3>
+
+Chickenpox is associated with a very characteristic vesicular rash
+illness -- &quot;Your grandmother could diagnose it&quot; (Fehrs, 1990).  A history
+of chickenpox has been shown to be a reliable indicator of immunity;
+however, a lack of such history is not as reliable and does not always
+correlate with lack of immunity.<P>
+
+The differential diagnosis for chickenpox includes:
+Herpes Simplex<P><UL>
+<LI>Disseminated infection in the immunocompromised or neonate.
+<LI>Eczema herpeticum, vesicular lesions occur in the areas of eczematous
+involvement.
+<LI>Zoster-like lesions.
+</UL>
+Enteroviral Infections - Papulovesicular lesions occur on palms and soles,
+with vesicular lesions on the buccal mucosa; usually self limited.<P>
+
+Impetigo - Erythematous macules progress to vesiculopustular lesions that
+dry and crust.  The infection can spread.  Exposed areas such as the face,
+neck, and limbs are often involved.  Skin breaks serve as the portal of
+entry.  Group A Streptococcus is usually the etiologic agent, but
+superinfection by staphylococci often occurs.<P>
+
+Rickettsialpox<P><UL>
+<LI>Generalized erythematous papulovesicular lesions occur on the palms,
+soles, and mucous membranes after the bite of a house mouse mite,
+Liponyssoides sanguineus (the vector).
+<LI>A black scab occurs at the bite.
+<LI>Systemic disease consists of chills, fever, headache, myalgia,
+photophobia, and adenopathy.  It is self-limited, nonfatal, and
+noncommunicable.
+</UL>
+
+<A NAME="head001007000000000"></A>
+<H3>Laboratory Diagnosis</H3>
+
+Not routinely required, but useful if confirmation of diagnosis or
+determination of susceptibility is necessary.<P>
+
+Viral Isolation --<P><UL>
+<LI>Source - Vesicular fluid; difficult to isolate from the respiratory
+tract.
+<LI>Tissue culture isolation.
+<LI>Vesicular scrapings (Tzanck smear) can identify multi-nucleated giant
+cells, consistent with VZV and herpes simplex virus (HSV) infection.
+In some instances, stains of vesicular scrapings may be tested using
+a fluorescent monoclonal antibody test which is very sensitive and
+specific.
+</UL>
+Serologic Testing --<P><UL>
+<LI>Antibody Tests:
+<LI>Complement fixation (CF): Commercially available, but lacks
+sensitivity.
+<LI>Neutralization test (NT): Sensitive and specific; time consuming and
+difficult to perform; not readily available.
+<LI>Immunofluorescence assay for antibody to VZV-induced membrane antigen
+(FAMA): sensitive, time consuming, not readily available.
+<LI>Immune adherence hemagglutination (IAHA) sensitive; not readily
+available.<BR>
+<LI>Enzyme-linked immunosorbent assay (ELISA): Sensitive, simple, and
+commercially available; may be useful for routine testing.
+
+<LI>Cell Mediated Immunity
+<LI>Lymphocyte proliferative response to VZV antigen.
+<LI>Skin test antigen: Not commercially available.
+
+<LI>In normal individuals, the presence of detectable antibody can be
+considered evidence of immunity to VZV.
+
+<LI>Antibody levels in immunocompromised persons may be unreliable
+predictors of immunity, as they may reflect passively acquired antibody
+from blood products.  Clinical varicella has developed in these persons.
+Laboratory tests must be interpreted cautiously in this population.
+History of prior chickenpox may be a more important indicator of
+immunity.
+</UL>
+
+<A NAME="head001008000000000"></A>
+<H3>Current Methods of Control and Prevention</H3>
+<UL>
+<LI>VZIG
+<LI>Licensed in 1981.
+
+<LI>Prepared from plasma of normal blood donors with high antibody titers
+to VZV.
+
+<LI>Available from the American Red Cross.
+
+<LI>If administered within 96 hours of exposure, can modify or prevent
+clinical varicella and prevent complications or death, especially in
+susceptible immunocompromised individuals.
+
+<LI>Indications for use:<UL>
+<LI>Individuals with significant exposure: Continuous household
+contact; playmate contact of over an hour; hospital contact in the
+same 2- to 4-bed room, or prolonged direct contact; newborn of
+mother who had onset of varicella 5 days before to 2 days after
+delivery.
+<LI>Individuals at risk for complications:<UL>
+<LI>Immunocompromised children: Those with immune deficiencies,
+neoplastic disease, or on immunosuppressive therapy.
+<LI>Newborns of mothers with varicella onset 5 days before to 2
+days after delivery.
+<LI>Premature infants with postnatal exposure:
+<LI>Those born &gt; or equal to 28 weeks gestation and up to
+term, and &gt; or equal to 1,000 grams; mother not immune.
+<LI>Those born &lt; 28 weeks or &lt; 1000 grams birth-weight,
+regardless of maternal history.</UL>
+<LI>Immunocompromised adults: If susceptible and have a history of
+significant exposure.
+<LI>Normal adults and pregnant females: Consider the type of exposure,
+susceptibility, risks for complications, and cost.</UL>
+<LI>No evidence that VZIG will prevent congenital varicella.
+
+<LI>Dose: 125 units/I0 kg, up to a maximum of 625 units (five vials), IM.
+Volume 125 units per 1.25 ml (one vial).  (Higher doses can be
+considered for immunosuppressed persons).
+
+<LI>Should be given within 96 hours of exposure, preferably as soon as
+possible.
+
+<LI>The administration of VZIG may prolong the incubation period of
+varicella to as long as 28 days post-exposure.
+</UL>
+Special Varicella Zoster Exposure Situations --<P><UL>
+<LI>Hospital personnel - If susceptible, with significant exposure, workers
+should be relieved from direct patient contact from day 10 to day 21
+after exposure.  If workers develop chickenpox, varicella lesions must
+be crusted before they should return to direct patient contact.  Receipt
+of VZIG does not change this recommendation for reassignment.  Since
+VZIG can prolong the incubation period, the period of removal from
+direct patient contact should be lengthened to 28 days after exposure.
+<LI>Newborn with maternal rash onset 5 days before to 2 days after delivery<UL>
+<LI>Since about 50% of infants who receive VZIG will develop varicella,
+if these infants remain hospitalized beyond age 10 days, they should be
+kept in strict isolation until age 21 days.<BR></UL></UL>
+<P>
+Antiviral Therapy<P><UL>
+<LI>Acyclovir - The Advisory Committee on Immunization Practices (ACIP) has
+not set policy concerning acyclovir.  The policy of the American Academy
+of Pediatrics (AAP) includes: Not routinely recommended for
+uncomplicated varicella in healthy children. Should be considered in
+individuals at high risk for severe varicella or complications.
+<LI>Healthy nonpregnant individuals 13 years of age or older.
+<LI>Children over 12 months of age with a chronic cutaneous or pulmonary
+disorder, or salicylate therapy.
+<LI>Children receiving short, intermittent or aerosolized courses of
+corticosteroids.  If immunocompromised, intravenous administration is
+indicated.  Corticosteroids should be discontinued, if possible, after
+exposure.
+
+Dosage: Should be started within the first 24 hours of
+onset of rash, 20 mg/kg four times a day for 5 days,
+maximum 800 mg four times per day.  Adequate fluid intake
+should be maintained.
+
+Intravenous acyclovir is recommended for primary varicella
+or recurrent zoster in immunocompromised children and for
+viral-mediated complications of varicella in normal
+individuals.
+
+Oral acyclovir is not recommended for pregnant women with
+uncomplicated varicella.  Intravenous acyclovir should be
+considered in pregnant women with serious viral-mediated
+complications of varicella.
+
+Acyclovir should not be used prophylactically in normal
+children exposed to varicella to prevent infection or
+illness.
+
+<LI>Adenine Arabinoside (ara-A).
+
+<LI>Interferon - Currently under investigation.
+</UL>
+
+<A NAME="head001009000000000"></A>
+<H3>Varicella Vaccine</H3>
+
+Characteristics --<P><UL>
+<LI>Oka strain.
+<LI>Vaccine virus isolated from vesicular fluid from a healthy child.
+<LI>Attenuated by passage 30 to 33 times in human diploid cells and
+guinea pig fibroblasts.
+<LI>Live attenuated vaccine developed in Japan in the early 1970s.
+<LI>Licensed for general use in Japan and Korea and in high-risk
+individuals in a number of European countries.
+<LI>Vaccine has been administered to over 15,000 people in Japan and the
+U.S., including healthy children, healthy adults, children with acute
+lymphocytic leukemia (ALL), and other immunocompromised patients.
+</UL>
+Table 1; Efficacy in Children<P>
+<A HREF="#Table_1">Table 1</A>
+
+Normal Adults<P><UL>
+<LI>Seroconversion only 82% with one dose, 94% with two doses.
+<LI>Effective vaccination may require two doses.
+<LI>Efficacy of two doses only approximately 65%-70% after household
+exposure.
+<LI>Breakthrough infectious are mild, with few skin lesions, and do not
+result in dissemination of serious illness.
+</UL>
+Adverse Events Following Varicella Vaccination<P><UL>
+<LI>Normal Children/Adults.
+<LI>Rash.
+(1) 4%-10%.
+(2) Usually &lt;50 lesions.
+(3) Often maculopapular rather than vesicular.
+<LI>Injection site lesions, swelling, pain.
+<LI>System reactions rare.
+<LI>Reactivation (zoster).
+<OL>
+<LI>
+Adults: 1/302 @ 3 years (wild-type virus isolated).
+<LI>
+Normal children:
+<OL>
+<LI>
+Six cases reported.
+<LI>
+1.4/10,000 person-years (vs. 8/10,000 following natural
+disease).
+<LI>
+No virus isolated.
+</OL>
+</OL>
+<LI>Children with acute lymphoblastic leukemia (ALL).
+<LI>Rash more frequent.
+<OL>
+<LI>
+Occurs in up to 40%.
+<LI>
+More frequent in patients:
+<OL>
+<LI>
+With recent steroid therapy.
+<LI>
+Receiving first dose.
+<LI>
+With no suspension of chemotherapy.
+</OL>
+</OL>
+<LI>Reactivation (zoster).
+<OL>
+<LI>
+May be less frequent than following natural disease (Hardy
+I, Gershon AA, Steinberg SP, LaRussa P, Varicella Vaccine
+Collaborative Study Group.  The incidence of zoster after
+immunization with live attenuated varicella vaccine.  A study
+in children with leukemia.  N Engl J Med 1991; 325[22]:1545-50.)
+<LI>
+No severe illness or dissemination reported.
+<LI>
+More common in those with initial vaccine-related rash.
+<LI>
+Vaccine virus isolated.
+</OL>
+
+<P>
+Transmission of Varicella Vaccine Virus
+<UL>
+<LI>Transmission from normal recent vaccinees.
+<LI>No secondary clinical illnesses reported.
+<LI>&lt;1% asymptomatic seroconversion documented in susceptible contacts
+(Weibel).
+<LI>Transmission from children with ALL.
+<LI>Only from recent vaccinees with rash.
+<LI>Transmission rate from those with post-vaccination rash is 9%-28%.
+<LI>Vaccine virus isolated from secondary cases.
+<LI>One case of tertiary transmission.
+<LI>Transmission has been documented from persons who initially
+seroconverted after vaccination but nevertheless developed mild
+breakthrough infection later.
+</UL>
+Summary<P><UL>
+<LI>The vaccine appears to be safe and effective.
+<LI>Vaccination prevents illness in normal individuals.
+<LI>Vaccination prevents serious complications in the immunocompromised.
+<LI>Persistent immunity is produced in almost all normal vaccinees.
+<LI>Immunocompromised persons and adults may require two doses of vaccine.
+<LI>The risk for zoster appears to be less than the risk following
+natural varicella.
+<LI>Antibody levels following simultaneous administration of the
+vaccine with measles-mumps-rubella (MMR) at 15 months of age are
+similar to those detected when the vaccines are given alone.
+<LI>Cost/Benefit analysis:
+<LI>Annual cost of caring for normal children estimated to be $400
+million; 95% of costs are associated with wages lost when parents
+must provide home care of an ill child.
+<LI>Vaccine given with MMR at 15 months could reduce costs by 66%;
+benefit to cost ratio 6.9:1.
+</UL>
+
+<A NAME="head001010000000000"></A>
+<H3>Varicella-Zoster Immune Globulin: Regional Distribution Centers</H3>
+
+<PRE>
+Service Area                            Regional Center and
+24-Hour Telephone                   United States and territories
+------------------------------------------------------------------------
+Alabama                                 American Red Cross Blood Services
+Alabama Region
+(205) 322-5661
+
+Alaska                                  (see Oregon)
+Arizona                                 American Red Cross Blood Services
+Southern Arizona Region
+(602) 623-0541
+
+Arkansas                                (see Missouri)
+California, northern                    American Red Cross Blood Services
+
+L.A.-Orange Counties Region
+(213) 739-5200
+
+Colorado                                (see N. Mexico)
+Connecticut                             American Red Cross Blood Services
+
+Connecticut Region
+(203) 678-2730
+Delaware                                (see Pennsylvania)
+Florida                                 South Florida Blood Service
+
+(305) 326-8888
+                                        American Red Cross Blood Services
+Mid-Florida Region
+(904) 255-5444
+
+Georgia                                 American Red Cross Blood Services
+
+Atlanta Region
+(404) 881-9800
+(404) 881-6752 (night)
+
+Hawaii                                  (see California, Southern)
+Idaho                                   American Red Cross Blood Services
+
+Mid-America region
+(312) 440-2222
+Illinois, southern                      (see Missouri)
+Indiana                                 American Red Cross Blood Services
+
+Fort Wayne Region
+(219) 482-3781
+Iowa                                    (see Wisconsin, S.E.)
+Kansas                                  (see Missouri)
+Kentucky                                (see Missouri)
+Louisiana                               (See Texas [Gulf Coast])
+Maine                                   American Red Cross Blood Services
+
+Northeast Region
+(207) 775-2367
+Maryland                                American Red Cross Blood Services
+
+(301) 764-4639
+                                        (also see Washington D.C.)
+Massachusetts                           Massachusetts Public Health
+
+                                        United States Biologics
+                                            Laboratories
+(617) 522-3700
+
+Michigan                                American Red Cross Blood Services
+
+Southeastern Michigan Region
+(313) 494-2715
+                                        American Red Cross Blood Services
+Wolverine Region
+(313) 232-1176
+                                        American Red Cross Blood Services
+Great Lakes Region
+(517) 484-7461
+
+Minnesota                               American Red Cross Blood Services
+
+St. Paul Region
+(612) 291-6789
+(612) 291 6767 (night)
+
+Mississippi                             (see Alabama)
+Missouri                                American Red Cross Blood Services
+
+(314) 658-2000
+(314) 658-2136 (night)
+Montana                                 (see Oregon)
+Nebraska                                American Red Cross Blood Services
+
+Midwest Region
+(402) 341-2723
+Nevada                                  (see California, northern)
+New Hampshire                           (see Vermont)
+New Jersey, northern                    (see Greater New York Blood
+                                            Program)
+New Jersey, southern                    (see Pennsylvania)
+New Mexico                              United Blood Services
+
+(505) 247-9831
+New York                                The Greater New York Blood Program
+
+(212) 468-2106
+(212) 570-3068 (night)
+                                        American Red Cross Blood Services
+Northeastern New York region
+(518) 449-5020 or (518)462-7461
+(518) 462-6964 (night)
+                                        American Red Cross Blood Services
+Northeastern New York Region
+(518) 449-5020 or (518) 462-7461
+(518) 462-6964 (night)
+                                        American Red Cross Blood Services
+Greater Buffalo Chapter
+(716) 886-6866
+                                        American Red Cross Blood Services
+Rochester Region
+(716) 461-9800
+                                        American Red Cross Blood Services
+Syracuse Region
+(315) 425-1647
+
+North Carolina                          American Red Cross Blood Services
+
+Carolinas Region
+(704) 376-1661
+North Dakota                            (see Wisconsin, S.E.)
+Ohio                                    American Red Cross Blood Services
+
+Northern Ohio Region
+(216) 781-1800
+                                        American Red Cross Blood Services
+Central Ohio Region
+(614) 253-7981
+Oklahoma                                (see Texas Gulf Coast)
+Oregon                                  American Red Cross Blood Services
+
+Pacific Northwest Region
+(503) 243-5286
+Puerto Rico                             American Red Cross
+
+                                        Servicio de Sangre Capitulo
+(809) 759-7979
+Pennsylvania                            American Red Cross Blood Services
+
+Penn-Jersey Region
+(215) 299-4126
+Rhode Island                            Rhode Island Blood Center
+
+(401) 863-8368
+South Carolina                          American Red Cross Blood Services
+
+South Carolina Region
+(803) 256-2301
+South Dakota                            (see Wisconsin, S.E.)
+Tennessee                               American Red Cross
+
+Nashville Region
+(6154) 327-1931, ext. 315
+Texas                                   Gulf Coast Regional Blood Center
+
+(713) 791-6250
+                                        American Red Cross Blood Services
+Central Texas Region
+(817) 776-8754
+                                        American Red Cross Blood Services
+Reed River Region
+(817) 322-8686
+
+Utah                                    (see California, northern)
+Vermont                                 American Red Cross Blood Services
+
+Vermont-New Hampshire Region
+(802) 658-6400, ext 217
+Virginia (also see
+Washington, DC)                         American Red Cross Blood Services
+
+Tidewater Region
+(804) 446-7709
+                                        Richmond Metropolitan Blood Service
+(804) 359-5100
+                                        ARC Blood Services
+Appalachian region
+(703) 985-3595
+Washington                              Puget Sound Blood Center
+
+
+(206) 292-6525
+Washington, DC                          American Red Cross Blood Services
+
+Washington Region
+West Virginia                           (see Washington, DC)
+Wisconsin                               The Blood Center of S.E. Wisconsin
+
+
+(414) 933-5000
+                                        American Red Cross Blood Services
+Badger Region
+(608) 255-0021
+Wyoming                                 (see California, northern)
+
+Other countries
+
+Canada                                  Canadian Red Cross
+
+                                        Blood Transfusion Service
+                                            National Office
+(416) 923-6692
+Central and
+South America                           South Florida Community Blood
+                                            Center
+(305) 326-8888
+
+All other countries                     American Red Cross Blood Services
+
+Northeast Region
+(617) 449-0773
+
+                                        American Red Cross Blood Services
+                                            Blood Services
+(617) 731-2130
+</PRE>
+
+<A NAME="head001011000000000"></A>
+<H3>Varicella Workshop</H3>
+
+<OL>
+<LI>
+Which statement about varicella is not true?
+<OL>
+<LI>Varicella is highly contagious.
+<LI>Varicella is a notifiable disease in all states.
+<LI>Most adults are immune to varicella.
+<LI>Airborne transmission of vancella can occur.
+</OL>
+
+<LI>Which statement about herpes zoster or shingles is not true?
+<OL>
+<LI>Zoster represents reactivation of latent varicella infection.
+<LI>About 5% of zoster episodes are recurrences of zoster.
+<LI>No seasonal variation in zoster is known.
+<LI>CDC receives reports of herpes zoster from states.
+</OL>
+
+<LI>What is the incubation period for chickenpox?
+
+<LI>If someone, such as a health care worker, is susceptible to varicella
+and is exposed to the disease, when should they be considered at risk
+for developing chickenpox and exposing others?
+
+<LI>In the case in question 4, if the exposed person received VZIG, what
+effect would this treatment have on the incubation period?  On
+recommendations for preventing exposure of high-risk persons to this
+person?
+
+<LI>Which of the following is NOT true regarding vancella?
+<OL>
+<LI>The period of communicability (for normal persons) extends from
+1 to 2 days before onset of the rash through the first 5 to 6 days
+after rash onset.
+<LI>Vancella zoster immune globulin (VZIG) is indicated for a healthy
+full-term infant who is exposed to chickenpox at home at age 2 weeks.
+<LI>Vancella vaccine is less immunogenic and effective in normal adults
+than in normal children, although it does prevent serious disease in
+this group.
+<LI>Herpes zoster is a reactivation of latent varicella infection.
+<LI>Normal adults have a higher risk of complications from the disease
+than do normal children.
+</OL>
+
+<BR>
+Questions 7-16: Indicate whether the following persons should receive VZIG
+and why:
+<BR>
+
+<LI>
+The normal newborn whose mother develops a varicella rash on the day of
+delivery.
+<OL>
+<LI>____ Yes
+<LI>____ No
+<LI>____ VZIG should be considered
+</OL>
+
+<LI>The normal newborn whose mother developed a rash 10 days before
+delivery.
+<OL>
+<LI>____ Yes
+<LI>____ No
+<LI>____ VZIG should be considered
+</OL>
+
+<LI>The 1500g infant born at 30 weeks gestation who is exposed in the
+nursery to chickenpox.
+<OL>
+<LI>____ Yes
+<LI>____ No
+<LI>____ VZIG should be considered
+</OL>
+
+<LI>The infant born at 27 weeks gestation who is exposed to chickenpox in
+the nursery but whose mother is sure she had chickenpox several years
+ago, when she was in college.<BR>
+<OL>
+<LI>____ Yes
+<LI>____ No
+<LI>____ VZIG should be considered
+</OL>
+
+<LI>The pregnant woman who is exposed to a household member with chickenpox
+and whose doctor wants to protect her against the risk of complications
+of varicella in pregnancy.<BR>
+<OL>
+<LI>____ Yes
+<LI>____ No
+<LI>____ VZIG should be considered
+</OL>
+
+<LI>The pregnant woman who is exposed in the first trimester to a household
+member with varicella and who wants VZIG in order to protect her fetus
+against infection.
+<OL>
+<LI>____ Yes
+<LI>____ No
+<LI>____ VZIG should be considered
+</OL>
+
+<LI>The immunocompromised adult who is significantly exposed to varicella.
+<OL>
+<LI>____ Yes
+<LI>____ No
+<LI>____ VZIG should be considered
+</OL>
+
+<LI>The normal adult who is exposed to chickenpox and has no memory of ever
+having had chickenpox.
+<OL>
+<LI>____ Yes
+<LI>____ No
+<LI>____ VZIG should be considered
+</OL>
+
+<LI>The high-risk patient who was exposed to varicella 8 days ago.
+<OL>
+<LI>____ Yes
+<LI>____ No
+<LI>____ VZIG should be considered
+</OL>
+
+<LI>The susceptible high-risk patient who was exposed to varicella 3 days
+ago and whose doctor is unsuccessful in reaching CDC to obtain VZIG.
+<OL>
+<LI>____ Yes
+<LI>____ No
+<LI>____ VZIG should be considered
+</OL>
+
+<LI>What age group is currently most likely to develop chickenpox?
+
+<LI>Name groups which have a higher risk for complications of varicella
+than do normal children.
+
+<LI>For which persons is Merck Sharp &amp; Dohme seeking FDA licensure of
+varicella vaccine?
+
+<LI>Which of the following has not been observed following vaccination
+in trials of varicella vaccine in normal and immunocompromised
+children?
+<OL>
+<LI>Vaccine-associated rash associated with a low rate of transmission
+of vaccine virus
+<LI>Vaccine-associated fever
+<LI>Pain at injection site
+<LI>Zoster due to reactivation of vaccine virus
+<LI>Severe complications
+</OL>
+</OL>
+
+<P>
+Varicella Workshop Answers --
+<P>
+
+<OL>
+<LI>Which statement about varicella is not true?
+<OL>
+<LI>Varicella is highly contagious.
+<LI>Varicella is a notifiable disease in all states.
+<LI>Most adults are immune to varicella.
+<LI>Airborne transmission of varicella can occur.
+</OL>
+
+<BR>
+Answer: B. - Varicella is a notifiable disease in fewer states (less
+than 70%) than are measles, mumps, or rubella.  This fact and the fact
+that many cases of varicella are mild and never come to medical
+attention contribute to the low rate of reporting of varicella to the
+CDC -- only 4%-6% of the estimated annual total of U.S. cases.
+<BR>
+
+<LI>Which statement about herpes zoster or shingles is not true?
+<OL>
+<LI>Zoster represents reactivation of latent varicella infection.
+<LI>About 5% of zoster episodes are recurrences of zoster.
+<LI>No seasonal variation in zoster is known.
+<LI>CDC receives reports of herpes zoster from states.
+</OL>
+
+<BR>
+Answer: D. - Unlike cases of primary varicella (or chickenpox), cases of
+herpes zoster are not tracked by the CDC through routine notifiable
+disease surveillance in States.
+<BR>
+
+<LI>What is the incubation period for chickenpox?
+
+<BR>
+Answer: An average of 14-16 days, with a range of 10-21 days.
+<BR>
+
+<LI>If someone, such as a health care worker, is susceptible to varicella
+and is exposed to the disease, when should they be considered at risk
+for developing chickenpox and exposing others?
+
+<BR>
+Answer: During the period of 10-21 days after exposure.  This is the
+period during which they should not be in contact with susceptible
+persons at high risk for complications from varicella.
+<BR>
+
+<LI>In the case in question 4, if the exposed person received VZIG, what
+effect would this treatment have on the incubation period?  On
+recommendations for preventing exposure of high-risk persons to this
+person?
+
+<BR>
+Answer: The incubation period could be lengthened to as long as 28
+days.  Therefore, the exposed person should not be in contact with
+susceptible persons at high risk for varicella complications during the
+period from 10 to 28 days post-exposure.
+<BR>
+
+<LI>Which of the following is NOT true regarding varicella?
+<OL>
+<LI>The period of communicability (for normal persons) extends from 1 to
+2 days before onset of the rash through the first 5 to 6 days after
+rash onset.
+<LI>Varicella zoster immune globulin (VZIG) is indicated for a healthy
+full-term infant who is exposed to chickenpox at home at age 2 weeks.
+<LI>Varicella vaccine is less immunogenic and effective in normal adults
+than in normal children, although it does prevent serious disease in
+this group.
+<LI>Herpes zoster is a reactivation of latent varicella infection.
+<LI>Normal adults have a higher risk of complications from the disease
+than do normal children.
+</OL>
+
+<BR>
+Answer: B. - Use of VZIG for infants and children is reserved primarily
+for susceptible, immunocompromised children after significant exposure.
+It is not indicated for healthy, normal-term infants, who are not known
+to be at any greater risk from complications of chickenpox than older c
+children.
+<BR>
+
+<BR>
+Questions 7-16: Indicate whether the following persons should receive VZIG
+and why:
+<BR>
+
+<LI>
+The normal newborn whose mother develops a varicella rash the day of
+delivery.
+
+<BR>
+Answer: A - YES.  This infant is likely to develop serious neonatal
+varicella because it was exposed in utero to varicella virus when the
+mother was viremic but was born before sufficient maternal antibody
+could be produced, transferred transplacentally, and moderate disease in
+the infant.
+<BR>
+
+<LI>The normal newborn whose mother developed a rash 10 days before
+delivery.
+<BR>
+Answer: B - NO.  This infant should have received maternal anti-body in
+utero and should have mild or no disease.  Only infants whose mothers
+develop rash 5 days before to 2 days after delivery are at high-risk for
+serious varicella.
+<BR>
+
+<LI>The 1500g infant born at 30 weeks gestation who is exposed in the
+nursery to chickenpox.
+<BR>
+Answer: C - VZIG should be considered.  Since this infant weighs &gt; or
+equal to 1000g and was born at &gt; or equal to 28 weeks gestation, VZIG
+does not need to be given if there is a good maternal history of
+chickenpox, even though this infant is premature.  If the mother does
+not have a history of chickenpox, VZIG should be given.
+<BR>
+
+<LI>The infant born at 27 weeks gestation who is exposed to chickenpox in
+the nursery but whose mother is sure she had chickenpox several years
+ago, when she was in college.
+
+<BR>
+Answer: A - YES.  Even though the mother should be immune to
+chickenpox, since the infant may have been born before maternal
+antibody was transferred transplacentally, the ACIP and AAP recommend
+that VZIG be given.
+<BR>
+
+<LI>The pregnant woman who is exposed to a household member with chickenpox
+and whose doctor wants to protect her against the risk of complications
+varicella in pregnancy.
+
+<BR>
+Answer: C - VZIG should be considered.  It is unclear if pregnant women
+have a higher risk for complications from varicella than do non-
+pregnant adults; however, adults do have a higher risk of complications
+than do children.  Some obstetricians will administer VZIG to exposed
+pregnant women if adequate resources and time are available, especially
+if the exposure was high, as occurs within households.
+<BR>
+
+<LI>The pregnant woman who is exposed in the first trimester to a household
+member with varicella and who wants VZIG in order to protect her fetus
+against infection.
+
+<BR>
+Answer: B - NO.  There is no evidence that the administration of VZIG
+will prevent fetal infection.  However, some obstetricians will give
+VZIG for a different reason (see above).  The pregnant exposed women
+should be reassured that congenital varicella syndrome is rare and
+results from exposure during the first 16 weeks of pregnancy only.
+<BR>
+
+<LI>The immunocompromised adult who is significantly exposed to varicella.
+
+<BR>
+Answer: C - VZIG should be considered.  VZIG should be given if the
+adult does not have a carefully obtained history of varicella or has
+serologic evidence of lack of immunity.
+<BR>
+
+<LI>The normal adult who is exposed to chickenpox and has no memory of ever
+having had chickenpox.
+
+<BR>
+Answer: C - VZIG should be considered. VZIG is expensive and not
+routinely recommended by the ACIP for such adults.  However, since
+adults do have a higher rate of complications with varicella than do
+children, some physicians will offer adults the option of receiving
+VZIG.
+<BR>
+
+<LI>The high-risk patient who was exposed to varicella 8 days ago.
+
+<BR>
+Answer: B - NO.  VZIG should be administered within 96 hours of
+exposure.  In this case, the patient would probably be treated with
+an anti-viral agent, such as acyclovir, at the first sign of illness.
+<BR>
+
+<LI>
+The susceptible high-risk patient who was exposed to varicella 3 days
+ago and whose doctor is unsuccessful in reaching CDC to obtain VZIG.
+
+<BR>
+Answer: A - YES.  VZIG is obtained from the local American Red Cross,
+not from CDC.
+<BR>
+
+<LI>What age group is currently most likely to develop chickenpox?
+
+<BR>
+Answer: School-aged children, especially children 5-9 years of age.
+<BR>
+
+<LI>Name groups which have a higher risk than do normal children for
+complications of varicella.
+
+<BR>
+Answer: -  Immunocompromised patients (including persons with AIDS).
+<UL>
+<LI>Adults.
+<LI>Newborns whose mothers develop a varicella rash 5 days
+before to 2 days after delivery.
+<LI>Premature infants.
+<LI>Normal infants under age 1 year (who have a lower risk than
+newborns with neonatal exposure but a higher risk than older
+children).
+<LI>Pregnant women, possibly.
+</UL>
+
+<LI>For which persons is Merck Sharp &amp; Dohme seeking FDA licensure of
+varicella vaccine?
+
+<BR>
+Answer: Children over 12 months of age and adults.
+<BR>
+
+<LI>Which of the following have not been observed following vaccination in
+trials of varicella vaccine in normal and immunocompromised children?
+
+<OL>
+<LI>Vaccine-associated rash associated with a low rate of
+transmission of vaccine virus?
+<LI>Vaccine-associated fever.
+<LI>Pain at injection site.
+<LI>Zoster due to reactivation of vaccine virus.
+<LI>Severe complications.
+</OL>
+
+<BR>
+Answer: E - Severe complications.  While a few immunocompromised
+vaccines have developed extensive rashes similar to wild-type
+infection, no reports of serious complications or death due to vaccine
+infection exist.
+<BR>
+
+</OL>
+
+<HR>
+
+<A NAME="head002000000000000"></A>
+<H2>For Additional Information</H2>
+
+U.S. Department of Health and Human Services, Public Health Service,
+Centers for Disease Control and Prevention.<BR>
+<HR>
+
+<A NAME="head003000000000000"></A>
+<H2>POINT OF CONTACT FOR THIS DOCUMENT:</H2>
+
+To request a copy of this document or for questions concerning this
+document, please contact the person or office listed below. If
+requesting a document, please specify the complete name of the
+document as well as the address to which you would like it mailed.
+Note that if a name is listed with the address below, you may wish
+to contact this person via CDC WONDER/PC e-mail.<BR>
+DON H STENHOUSE<BR>
+NATIONAL IMMUNIZATION PROGRAM<BR>
+Centers for Disease Control<BR>
+1600 Clifton Rd MS(E-05)<BR>
+Atlanta, GA 30333<BR>
+<HR>
+
+<A NAME="Table_1"></A>
+<H3>Table 1</H3>
+<PRE>                       Table 1 Efficacy In Children
+===========================================================================
+                         Normal Children          Children With ALL
+___________________________________________________________________________
+1. Immunologic Response
+-------------------------
+   Humoral (seroconversion                           One dose: 88%
+            rate)                94%-100%            Two doses: 98%
+
+   Cellular                       &gt;90%               Data difficult
+                                                     to interpret
+
+2. Clinical Efficacy
+_________________________
+   Pre-exposure                  85%-95%              85% with 2 doses
+
+3. Duration of Immunity
+_________________________
+   Antibody                 &gt;90% (up to 3-10 years)       50%-80%
+     Cellular                                          Frequently lost
+  (Cell mediated)                  90%                     antibody
+     Cellular
+(Positive skin testing)            90%                       90%
+
+4. Breakthrough infections (about 2%/year in first few years post
+vaccination) are generally mild, with few skin lesions, and do not
+result in dissemination or serious illness.
+===========================================================================
+</PRE>
+<br><br>
+<hr>
+</blockquote>
+<center>
+<div class=foot2>
+This page last reviewed: 
+Wednesday, August 29, 2007
+</div> <!-- end of foot2 -->
+    <TABLE class="cdc-footer noprint" width="100%" border="0" cellpadding="0" cellspacing="0">
+        <TR>
+			<TD class="ftrBar"><IMG src="/images/CDC/s.gif" height="1" width="100%" border="0" alt="" /></TD>
+        </TR>
+        <TR>
+			<TD class="bgftrTop"><IMG src="/images/CDC/s.gif" height="3" width="1" border="0" alt="" /></TD>
+        </TR>
+
+        <TR>
+			<TD class="bgftrTop" align="left">
+				<TABLE border="0" cellpadding="0" cellspacing="0">
+					<TR>
+						<TD class="txtFtr" align="center" width="12">&nbsp;</TD>
+						<TD class="txtFtr" align="center">
+							<A href="http://www.cdc.gov/index.htm">Home</A></TD>
+						
+						<TD class="txtFtr" align="center" width="20">|</TD>
+
+						<TD class="txtFtr" align="center">
+							<A href="http://www.cdc.gov/doc.do/id/0900f3ec800cb856">Policies and Regulations</A></TD>
+						
+						<TD class="txtFtr" align="center" width="20">|</TD>
+						<TD class="txtFtr" align="center">
+							<A href="http://www.cdc.gov/disclaimer.htm">Disclaimer</A></TD>
+						<TD class="txtFtr" align="center" width="20">|</TD>
+						<TD class="txtFtr" align="center">
+
+							<A href="http://www.cdc.gov/doc.do/id/0900f3ec801153ff">e-Government</A></TD>
+						<TD class="txtFtr" align="center" width="20">|</TD>
+						<TD class="txtFtr" align="center">
+							<A href="http://www.cdc.gov/od/foia/foi.htm">FOIA</A></TD>
+						<TD class="txtFtr" align="center" width="20">|</TD>
+						<TD class="txtFtr" align="center">
+							<A href="http://www.cdc.gov/doc.do/id/0900f3ec80093d70">Contact Us</A></TD>
+
+					</TR>
+				</TABLE>
+			</TD>
+        </TR>
+        <TR> 
+			<TD class="bgftrTop"><IMG src="/images/CDC/s.gif" height="3" width="1" border="0" alt="" /></TD>
+        </TR>
+        <TR>
+			<TD class="ftrBar"><IMG src="/images/CDC/s.gif" height="1" width="100%" border="0" alt="" /></TD>
+
+        </TR>
+        <TR>
+			<TD valign="top" class="bgftrBottom">
+				<TABLE border="0" cellpadding="0" cellspacing="0" width="713">
+					<TR>
+						<TD class="bgftrBottom" width="12"><IMG src="/images/CDC/s.gif" height="1" width="12" border="0" alt="" /></TD>
+						<TD class="bgftrBottom" width="375">
+                        <IMG src="/images/CDC/ftr_SaferHealthier.gif" border="0" alt="Safer, Healthier People" width="150" height="7" /><BR /><IMG src="/images/CDC/s.gif" height="5" width="1" border="0" alt="" /><BR />
+						<SPAN class="txtftrBottom">Centers for Disease Control and Prevention, 1600 Clifton Rd, Atlanta, GA 30333, U.S.A.<BR />
+
+								800-CDC-INFO (800-232-4636) TTY: (888) 232-6348
+								<BR> 24 Hours/Every Day - <a class="txtFtr"  href=mailto:"cdcinfo@cdc.gov">cdcinfo@cdc.gov</a>
+						</SPAN></TD>
+						<TD class="bgftrBottom" width="20"><IMG src="/images/CDC/s.gif" height="1" width="20" border="0" alt="" /></TD>	
+						<TD class="bgftrBottom" align="right" valign="middle" width="205"><A href="http://firstgov.gov/">
+                        <IMG src="/images/CDC/logo_FirstGov.gif" border="0" alt="FirstGov" width="147" height="52" /></A><A href="http://www.hhs.gov/"><IMG src="/images/CDC/logo_dhhs.gif" border="0" alt="DHHS" width="58" height="52" /></A></TD>
+						<TD class="bgftrBottom" width="101"><A class="txtFtr" href="http://www.hhs.gov/">Department of Health<BR/>and Human Services</A></TD>
+					</TR>
+				</TABLE>
+			</TD>
+
+        </TR>
+		
+    </TABLE>
+
+
+</center>
+</body>
+</html>
+     
